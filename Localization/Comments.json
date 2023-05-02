@@ -1,0 +1,663 @@
+﻿{VersionDate:"20130215",Items:[{
+Key:1,Text:"Comments"},{
+Key:1000000,Text:"Translation Form Title"},{
+Key:1000001,Text:"Translation Form Table Id Column"},{
+Key:1000003,Text:"Translation Form Button"},{
+Key:1000004,Text:"Translation Form Button ToolTip"},{
+Key:1000006,Text:"Translation Form Button"},{
+Key:1000007,Text:"Translation Form Button ToolTip"},{
+Key:1000009,Text:"Translation Form Button"},{
+Key:1000011,Text:"Translation Form Button"},{
+Key:1000012,Text:"Translation Form Button ToolTip"},{
+Key:1000013,Text:"Translation Form Button ToolTip"},{
+Key:1000015,Text:"Translation Form Button"},{
+Key:1000016,Text:"Translation Form Button ToolTip"},{
+Key:1000022,Text:"Translation Form"},{
+Key:1000024,Text:"Translation Form"},{
+Key:1000029,Text:"Translation Form Confirmation Message Title"},{
+Key:1000030,Text:"Translation Form Confirmation Message"},{
+Key:1000031,Text:"Translation Form Confirmation Message Title"},{
+Key:1000032,Text:"Translation Form Confirmation Message"},{
+Key:1000035,Text:"Translation Form Confirmation Message"},{
+Key:1000036,Text:"Translation Form Confirmation Message Title"},{
+Key:1000037,Text:"Translation Form Help
+Advice:
+You will certainly find it easier to edit this very long message in a proper word processor instead of in this table cell."},{
+Key:1000038,Text:"Translation Form"},{
+Key:1000039,Text:"Translation Form"},{
+Key:1001000,Text:"Add Language Form"},{
+Key:1001001,Text:"Add Language Form"},{
+Key:1001002,Text:"Add Language Form"},{
+Key:1001003,Text:"Add Language Form Button"},{
+Key:1001004,Text:"Cancel Button"},{
+Key:1001005,Text:"Help Button"},{
+Key:1002000,Text:"Option Form"},{
+Key:1002003,Text:"Option Form Tab"},{
+Key:1002004,Text:"Option Form Tab"},{
+Key:1002005,Text:"Option Form Tab"},{
+Key:1002014,Text:"Option Form Tab"},{
+Key:1002015,Text:"Option Form Tab"},{
+Key:1002103,Text:"Option Form"},{
+Key:1002105,Text:"Option Form"},{
+Key:1002106,Text:"Option Form"},{
+Key:1002112,Text:"Option Form"},{
+Key:1002202,Text:"Option Form"},{
+Key:1002204,Text:"Option Form"},{
+Key:1002302,Text:"Option Form"},{
+Key:1002304,Text:"Option Form"},{
+Key:1002306,Text:"Option Form"},{
+Key:1002307,Text:"Option Form"},{
+Key:1002502,Text:"Option Form Button"},{
+Key:1002504,Text:"Option Form"},{
+Key:1002510,Text:"Option Form"},{
+Key:1002512,Text:"Option Form ToolTip Part 1"},{
+Key:1002513,Text:"Option Form ToolTip Part 2"},{
+Key:1002516,Text:"Option Form"},{
+Key:1002517,Text:"Option Form"},{
+Key:1003000,Text:"About and Splash Form"},{
+Key:1003001,Text:"About and Splash Form Button"},{
+Key:1003002,Text:"About and Splash Form Progress"},{
+Key:1003003,Text:"About and Splash Form Button"},{
+Key:1003004,Text:"About and Splash Form Button ToolTip"},{
+Key:1003005,Text:"About and Splash Form"},{
+Key:1003006,Text:"About Form Email Button Tooltip Part 1"},{
+Key:1003007,Text:"About and Splash Form"},{
+Key:1003008,Text:"About and Splash Form"},{
+Key:1003009,Text:"About and Splash Form Button ToolTip"},{
+Key:1003010,Text:"About and Splash Form"},{
+Key:1003011,Text:"About Form Email Button Tooltip Part 2"},{
+Key:1003012,Text:"About Form Email Button Tooltip Part 3"},{
+Key:1004050,Text:"Main Form Style Explorer"},{
+Key:1004051,Text:"Main Form Style Explorer"},{
+Key:1004052,Text:"Main Form Style Explorer"},{
+Key:1004053,Text:"Main Form Style Explorer"},{
+Key:1004054,Text:"Main Form Style Explorer"},{
+Key:1004055,Text:"Main Form Style Explorer"},{
+Key:1004056,Text:"Main Form Style Explorer"},{
+Key:1004057,Text:"Main Form Style Explorer"},{
+Key:1004058,Text:"Main Form Style Explorer"},{
+Key:1004100,Text:"Main Form Style Explorer"},{
+Key:1004101,Text:"Main Form Style Explorer"},{
+Key:1004102,Text:"Main Form Style Explorer"},{
+Key:1004103,Text:"Main Form Style Explorer"},{
+Key:1004104,Text:"Main Form Style Explorer"},{
+Key:1004105,Text:"Main Form Style Explorer"},{
+Key:1004106,Text:"Main Form Style Explorer"},{
+Key:1004107,Text:"Main Form Style Explorer"},{
+Key:1004151,Text:"Main Form Style Explorer"},{
+Key:1004152,Text:"Main Form Style Explorer"},{
+Key:1004153,Text:"Main Form Style Explorer"},{
+Key:1004156,Text:"Main Form Style Explorer"},{
+Key:1004157,Text:"Main Form Style Explorer"},{
+Key:1004158,Text:"Main Form Style Explorer"},{
+Key:1005001,Text:"About and Splash Form Progress"},{
+Key:1005003,Text:"About and Splash Form Progress"},{
+Key:1005004,Text:"About and Splash Form Progress Error"},{
+Key:1005005,Text:"About and Splash Form Progress"},{
+Key:1005006,Text:"About and Splash Form Progress Error"},{
+Key:1005007,Text:"About and Splash Form Progress"},{
+Key:1005009,Text:"Confirmation Dialog"},{
+Key:1005010,Text:"Confirmation Dialog Title"},{
+Key:1005015,Text:"Confirmation Dialog"},{
+Key:1005016,Text:"Confirmation Dialog Title"},{
+Key:1005017,Text:"Confirmation Dialog"},{
+Key:1005018,Text:"Confirmation Dialog Title"},{
+Key:1005019,Text:"Confirmation Dialog"},{
+Key:1005020,Text:"Confirmation Dialog Title"},{
+Key:1005023,Text:"Confirmation Dialog"},{
+Key:1005024,Text:"Confirmation Dialog Title"},{
+Key:1005025,Text:"Confirmation Dialog"},{
+Key:1005026,Text:"Confirmation Dialog Title"},{
+Key:1005027,Text:"Confirmation Dialog"},{
+Key:1005028,Text:"Confirmation Dialog Title"},{
+Key:1005029,Text:"Confirmation Dialog Title"},{
+Key:1005030,Text:"File Filter"},{
+Key:1005031,Text:"File Filter"},{
+Key:1005032,Text:"File Filter"},{
+Key:1005033,Text:"File Filter"},{
+Key:1005039,Text:"Confirmation Dialog"},{
+Key:1005042,Text:"Skin Group"},{
+Key:1005043,Text:"Skin"},{
+Key:1005044,Text:"Skin"},{
+Key:1005045,Text:"Skin"},{
+Key:1005046,Text:"Skin Group"},{
+Key:1005047,Text:"Skin"},{
+Key:1005048,Text:"Skin"},{
+Key:1005049,Text:"Skin"},{
+Key:1005050,Text:"Skin"},{
+Key:1005051,Text:"Skin"},{
+Key:1005052,Text:"Skin"},{
+Key:1005053,Text:"Skin"},{
+Key:1005054,Text:"Skin"},{
+Key:1005055,Text:"Skin Group"},{
+Key:1005056,Text:"Skin"},{
+Key:1005057,Text:"Skin"},{
+Key:1005058,Text:"Skin"},{
+Key:1005059,Text:"Skin"},{
+Key:1005060,Text:"Skin"},{
+Key:1005061,Text:"Skin"},{
+Key:1005062,Text:"Skin"},{
+Key:1005063,Text:"Skin"},{
+Key:1005064,Text:"Skin Group"},{
+Key:1005065,Text:"Skin"},{
+Key:1005066,Text:"Skin"},{
+Key:1005067,Text:"Skin"},{
+Key:1005068,Text:"Skin"},{
+Key:1005069,Text:"Skin"},{
+Key:1005070,Text:"Skin"},{
+Key:1005071,Text:"Skin"},{
+Key:1005072,Text:"Skin Group"},{
+Key:1005073,Text:"Skin"},{
+Key:1005074,Text:"Skin"},{
+Key:1005075,Text:"Skin"},{
+Key:1005076,Text:"Skin"},{
+Key:1005077,Text:"Skin"},{
+Key:1005078,Text:"Skin"},{
+Key:1005079,Text:"Skin"},{
+Key:1005080,Text:"Skin"},{
+Key:1005081,Text:"Skin Group"},{
+Key:1005082,Text:"Skin"},{
+Key:1005083,Text:"Skin"},{
+Key:1005084,Text:"Skin"},{
+Key:1005085,Text:"Skin"},{
+Key:1005086,Text:"Confirmation Dialog Title"},{
+Key:1005100,Text:"Animation"},{
+Key:1005102,Text:"Animation"},{
+Key:1005103,Text:"Animation"},{
+Key:1005104,Text:"Animation"},{
+Key:1005105,Text:"Animation"},{
+Key:1005106,Text:"Animation"},{
+Key:1005107,Text:"Animation"},{
+Key:1005109,Text:"Animation"},{
+Key:1005110,Text:"Animation"},{
+Key:1005118,Text:"Animation"},{
+Key:1005120,Text:"Animation"},{
+Key:1005121,Text:"Animation"},{
+Key:1005122,Text:"Animation"},{
+Key:1005123,Text:"Animation"},{
+Key:1005124,Text:"Animation"},{
+Key:1005125,Text:"Animation"},{
+Key:1005126,Text:"Animation"},{
+Key:1005127,Text:"Animation"},{
+Key:1005128,Text:"Animation"},{
+Key:1005129,Text:"Animation"},{
+Key:1005130,Text:"Animation"},{
+Key:1005131,Text:"Animation"},{
+Key:1005132,Text:"Animation"},{
+Key:1005133,Text:"Animation"},{
+Key:1005134,Text:"Animation"},{
+Key:1005200,Text:"Animation"},{
+Key:1005209,Text:"Song search option"},{
+Key:1005210,Text:"Song search option"},{
+Key:1005211,Text:"Song search option"},{
+Key:1005212,Text:"Song search option"},{
+Key:1005213,Text:"Song search option"},{
+Key:1005214,Text:"Song search option"},{
+Key:1005215,Text:"Song search option"},{
+Key:1005216,Text:"Song search option"},{
+Key:1005217,Text:"Song search option"},{
+Key:1005218,Text:"Song search option"},{
+Key:1005219,Text:"Song search option"},{
+Key:1005220,Text:"Song search option"},{
+Key:1005221,Text:"Song search option"},{
+Key:1005226,Text:"Main Form Ribbon Button"},{
+Key:1005230,Text:"Main Form Delete Agenda item"},{
+Key:1005237,Text:"Option Form Font ToolTip"},{
+Key:1005322,Text:"Projection Type"},{
+Key:1005337,Text:"Ribbon Text Font Vertical Alignment"},{
+Key:1005338,Text:"Ribbon Text Font Vertical Alignment"},{
+Key:1005339,Text:"Ribbon Text Font Vertical Alignment"},{
+Key:1005359,Text:"Main Form Ribbon Button"},{
+Key:1005377,Text:"Screen Ratio"},{
+Key:1005379,Text:"Screen Ratio"},{
+Key:1005381,Text:"Screen Ratio"},{
+Key:1005383,Text:"Screen Ratio"},{
+Key:1005385,Text:"Screen Ratio"},{
+Key:1005387,Text:"Screen Ratio Current"},{
+Key:1005390,Text:"Chord Notation French"},{
+Key:1005391,Text:"Chord Notation Standard"},{
+Key:1005401,Text:"Agenda Button Tooltip"},{
+Key:1005403,Text:"Main Form SongBook Popup Menu"},{
+Key:1005404,Text:"Main Form Songbook Popup Menu"},{
+Key:1005407,Text:"Main Form SongBook Popup Menu"},{
+Key:1005409,Text:"Ribbon Styles"},{
+Key:1005420,Text:"Main Form Ribbon Page Group Text"},{
+Key:1005421,Text:"Main Form Ribbon Group"},{
+Key:1005425,Text:"Main Form Ribbon Page Group Background"},{
+Key:1005449,Text:"Agenda Button (Add to agenda)"},{
+Key:1005472,Text:"Songbooks folder"},{
+Key:1005475,Text:"Main Form CheckBox"},{
+Key:1005479,Text:"Main Form Songbook Name"},{
+Key:1005481,Text:"Songbook Abbreviation"},{
+Key:1005483,Text:"Main Form Songbook"},{
+Key:1005485,Text:"Songbook Copyright"},{
+Key:1005487,Text:"Songbook Filename"},{
+Key:1005491,Text:"Main Form CheckBox"},{
+Key:1005497,Text:"Main Form Song Tab"},{
+Key:1005507,Text:"Song Copyright"},{
+Key:1005509,Text:"Song author"},{
+Key:1005513,Text:"Main Form Song Tab"},{
+Key:1005517,Text:"Song format"},{
+Key:1005523,Text:"Song Property"},{
+Key:1005527,Text:"Song alias"},{
+Key:1005539,Text:"Song Property"},{
+Key:1005555,Text:"Bibles Folder"},{
+Key:1005560,Text:"Bible Copyright"},{
+Key:1005562,Text:"Bible Abbreviation"},{
+Key:1005564,Text:"Main Form Bible Name"},{
+Key:1005566,Text:"Bible Description"},{
+Key:1005568,Text:"Bible Introduction"},{
+Key:1005570,Text:"Bible Filename"},{
+Key:1005576,Text:"Main Form Testament Name"},{
+Key:1005582,Text:"Main Form Bible Book Name"},{
+Key:1005584,Text:"Bible book Introduction"},{
+Key:1005586,Text:"Bible Book Abbreviation"},{
+Key:1005615,Text:"Projection Type"},{
+Key:1005616,Text:"Projection Type"},{
+Key:1005618,Text:"Projection Type"},{
+Key:1005619,Text:"Projection Type"},{
+Key:1005620,Text:"Projection Type"},{
+Key:1005621,Text:"Projection Type"},{
+Key:1005622,Text:"Projection Type"},{
+Key:1005623,Text:"Projection Type"},{
+Key:1005624,Text:"Projection Type"},{
+Key:1005625,Text:"Projection Type"},{
+Key:1005626,Text:"Projection Type"},{
+Key:1005627,Text:"Projection Type"},{
+Key:1005667,Text:"Main Form Button"},{
+Key:1005670,Text:"Main Form Button"},{
+Key:1005687,Text:"Main Form Slides Toolbar Button"},{
+Key:1005688,Text:"Main Form Slides Toolbar Button Tooltip"},{
+Key:1005689,Text:"Main Form Slides Toolbar Button"},{
+Key:1005690,Text:"Main Form Slides Toolbar Button"},{
+Key:1005691,Text:"Main Form Slides Toolbar Button Tooltip"},{
+Key:1005692,Text:"Main Form Slides Toolbar Button"},{
+Key:1005693,Text:"Main Form Slides Toolbar Button Tooltip"},{
+Key:1005694,Text:"Main Form Slides Toolbar Button"},{
+Key:1005695,Text:"Main Form Slides Toolbar Button Tooltip"},{
+Key:1005696,Text:"Main Form Slides Toolbar Button"},{
+Key:1005697,Text:"Main Form Slides Toolbar Button Tooltip"},{
+Key:1005698,Text:"Main Form Slides Toolbar Button"},{
+Key:1005699,Text:"Main Form Slides Toolbar Button Tooltip"},{
+Key:1005705,Text:"Main Form Delete SongBook or Song"},{
+Key:1005724,Text:"Confirmation Dialog Title"},{
+Key:1005731,Text:"Confirmation Dialog"},{
+Key:1005732,Text:"Confirmation Dialog"},{
+Key:1005733,Text:"Confirmation Dialog"},{
+Key:1005734,Text:"Confirmation Dialog"},{
+Key:1005735,Text:"Confirmation Dialog Title"},{
+Key:1005800,Text:"Song Verse Tag"},{
+Key:1005801,Text:"Song Verse Tag"},{
+Key:1005802,Text:"Song Verse Tag"},{
+Key:1005803,Text:"Song Verse Tag"},{
+Key:1005804,Text:"Song Verse Tag"},{
+Key:1005805,Text:"Song Verse Tag"},{
+Key:1005806,Text:"Song Verse Tag"},{
+Key:1005807,Text:"Song Verse Tag"},{
+Key:1005808,Text:"Song Verse Tag"},{
+Key:1005809,Text:"Song Verse Tag"},{
+Key:1005820,Text:"Song Verse Tag Abbreviation Verse"},{
+Key:1005821,Text:"Song Verse Tag Abbreviation Chorus"},{
+Key:1005822,Text:"Song Verse Tag Abbreviation Pre-Chorus"},{
+Key:1005823,Text:"Song Verse Tag Abbreviation Bridge"},{
+Key:1005824,Text:"Song Verse Tag Abbreviation Tag"},{
+Key:1005825,Text:"Song Verse Tag Abbreviation Intro"},{
+Key:1005826,Text:"Song Verse Tag Abbreviation Outro"},{
+Key:1005827,Text:"Song Verse Tag Abbreviation Slide"},{
+Key:1005828,Text:"Song Verse Tag Abbreviation Instrumental"},{
+Key:1005829,Text:"Song Verse Tag Abbreviation Other"},{
+Key:1005850,Text:"Main Form Style Explorer Close ToolTip"},{
+Key:1005851,Text:"Main Form Bible Language"},{
+Key:1005852,Text:"Bible Publisher"},{
+Key:1005853,Text:"File Filter"},{
+Key:1005881,Text:"Songbook"},{
+Key:1005882,Text:"Bible"},{
+Key:1006000,Text:"Import"},{
+Key:1006001,Text:"Import"},{
+Key:1006002,Text:"Import"},{
+Key:1006003,Text:"Import"},{
+Key:1006005,Text:"Import"},{
+Key:1006006,Text:"Import"},{
+Key:1006007,Text:"Import"},{
+Key:1006008,Text:"Import"},{
+Key:1006009,Text:"Import"},{
+Key:1006010,Text:"Import"},{
+Key:1006011,Text:"Import"},{
+Key:1006012,Text:"Import"},{
+Key:1006013,Text:"Import"},{
+Key:1006020,Text:"Import"},{
+Key:1006021,Text:"Import"},{
+Key:1006022,Text:"Import"},{
+Key:1006023,Text:"Import"},{
+Key:1006024,Text:"Import"},{
+Key:1006025,Text:"Import"},{
+Key:1006026,Text:"Import"},{
+Key:1006027,Text:"Import"},{
+Key:1006028,Text:"Import"},{
+Key:1006029,Text:"Import"},{
+Key:1006030,Text:"Import"},{
+Key:1006031,Text:"Import"},{
+Key:1006032,Text:"Import"},{
+Key:1006033,Text:"Import"},{
+Key:1006036,Text:"Import"},{
+Key:1006037,Text:"Import"},{
+Key:1006038,Text:"Import"},{
+Key:1006039,Text:"Import"},{
+Key:1006040,Text:"Import"},{
+Key:1006041,Text:"Import"},{
+Key:1006042,Text:"Import"},{
+Key:1006045,Text:"Import"},{
+Key:1006048,Text:"Import"},{
+Key:1006049,Text:"Import"},{
+Key:1006050,Text:"Import"},{
+Key:1006051,Text:"Import"},{
+Key:1006052,Text:"Import"},{
+Key:1006053,Text:"Import"},{
+Key:1006054,Text:"Import"},{
+Key:1006055,Text:"Import"},{
+Key:1006056,Text:"Import"},{
+Key:1006057,Text:"Import"},{
+Key:1006058,Text:"Import"},{
+Key:1006060,Text:"Import"},{
+Key:1006061,Text:"Import"},{
+Key:1006064,Text:"Import"},{
+Key:1006065,Text:"Import"},{
+Key:1006066,Text:"Import"},{
+Key:1006067,Text:"Import"},{
+Key:1006068,Text:"Import"},{
+Key:1006069,Text:"Import"},{
+Key:1006070,Text:"Import"},{
+Key:1006071,Text:"Import"},{
+Key:1006072,Text:"Import"},{
+Key:1006073,Text:"Import"},{
+Key:1006074,Text:"Import"},{
+Key:1006075,Text:"Import"},{
+Key:1006076,Text:"Import"},{
+Key:1006077,Text:"Import"},{
+Key:1006078,Text:"Import"},{
+Key:1006080,Text:"Import"},{
+Key:1006081,Text:"Import"},{
+Key:1006085,Text:"Import"},{
+Key:1006086,Text:"Import"},{
+Key:1006090,Text:"Import"},{
+Key:1006091,Text:"Import"},{
+Key:1006095,Text:"Import"},{
+Key:1006100,Text:"Import"},{
+Key:1006105,Text:"Import"},{
+Key:1006110,Text:"Import"},{
+Key:1006115,Text:"Import"},{
+Key:1006120,Text:"Import"},{
+Key:1006125,Text:"Import"},{
+Key:1006130,Text:"Import"},{
+Key:1006140,Text:"Import"},{
+Key:1006145,Text:"Import"},{
+Key:1006150,Text:"Import"},{
+Key:1006155,Text:"Import"},{
+Key:1006160,Text:"Import"},{
+Key:1006165,Text:"Import"},{
+Key:1006180,Text:"Import"},{
+Key:1006185,Text:"Import"},{
+Key:1006190,Text:"Import"},{
+Key:1006195,Text:"Import"},{
+Key:1006200,Text:"Import"},{
+Key:1006205,Text:"Import"},{
+Key:1006210,Text:"Import"},{
+Key:1006220,Text:"Import"},{
+Key:1006225,Text:"Import"},{
+Key:1006230,Text:"Import"},{
+Key:1006235,Text:"Import"},{
+Key:1006240,Text:"Import"},{
+Key:1006245,Text:"Import"},{
+Key:1006255,Text:"Import"},{
+Key:1006260,Text:"Import"},{
+Key:1006265,Text:"Import"},{
+Key:1006270,Text:"Import"},{
+Key:1006275,Text:"Import"},{
+Key:1006280,Text:"Import"},{
+Key:1006285,Text:"Import"},{
+Key:1006295,Text:"Import"},{
+Key:1006300,Text:"Import"},{
+Key:1006305,Text:"Import"},{
+Key:1006310,Text:"Import"},{
+Key:1006315,Text:"Import"},{
+Key:1006320,Text:"Import"},{
+Key:1006340,Text:"Import"},{
+Key:1006345,Text:"Import"},{
+Key:1006350,Text:"Import"},{
+Key:1006355,Text:"Import"},{
+Key:1006360,Text:"Import"},{
+Key:1006365,Text:"Import"},{
+Key:1006375,Text:"Import"},{
+Key:1006380,Text:"Import"},{
+Key:1006385,Text:"Import"},{
+Key:1006390,Text:"Import"},{
+Key:1006395,Text:"Import"},{
+Key:1006405,Text:"Import"},{
+Key:1006410,Text:"Import"},{
+Key:1006415,Text:"Import"},{
+Key:1006420,Text:"Import"},{
+Key:1006425,Text:"Import"},{
+Key:1006430,Text:"Import"},{
+Key:1006440,Text:"Import"},{
+Key:1006445,Text:"Import"},{
+Key:1006450,Text:"Import"},{
+Key:1006455,Text:"Import"},{
+Key:1006460,Text:"Import"},{
+Key:1006500,Text:"Import"},{
+Key:1006501,Text:"Import"},{
+Key:1006502,Text:"Import"},{
+Key:1006503,Text:"Import"},{
+Key:1006504,Text:"Import"},{
+Key:1006505,Text:"Import"},{
+Key:1006506,Text:"Import"},{
+Key:1009015,Text:"About and Splash Form Progress"},{
+Key:1009016,Text:"About and Splash Form Progress"},{
+Key:1009017,Text:"About and Splash Form Progress"},{
+Key:1009018,Text:"About and Splash Form Progress"},{
+Key:1009019,Text:"About and Splash Form Progress"},{
+Key:1009103,Text:"Confirmation Dialog"},{
+Key:1009104,Text:"Confirmation Dialog Title"},{
+Key:1010000,Text:"Color Picker "},{
+Key:1010001,Text:"Color Picker "},{
+Key:1010002,Text:"Color Picker "},{
+Key:1010003,Text:"Color Picker "},{
+Key:1010004,Text:"Color Picker "},{
+Key:1010005,Text:"Color Picker "},{
+Key:1010006,Text:"Color Picker "},{
+Key:1010007,Text:"Color Picker "},{
+Key:1010008,Text:"Color Picker Red Green Blue R"},{
+Key:1010009,Text:"Color Picker Red Green Blue G"},{
+Key:1010010,Text:"Color Picker Red Green Blue B"},{
+Key:1010011,Text:"Color Picker Red Green Blue Transparent"},{
+Key:1011000,Text:"Header or Footer Template Field Selection Cancelation"},{
+Key:1011001,Text:"Header or Footer Song Template Field"},{
+Key:1011002,Text:"Header or Footer Song Template Field"},{
+Key:1011003,Text:"Header or Footer Song Template Field"},{
+Key:1011004,Text:"Header or Footer Song Template Field"},{
+Key:1011005,Text:"Header or Footer Song Template Field"},{
+Key:1011006,Text:"Header or Footer Song Template Field"},{
+Key:1011007,Text:"Header or Footer Song Template Field"},{
+Key:1011008,Text:"Header or Footer Song Template Field"},{
+Key:1011009,Text:"Header or Footer Song Template Field"},{
+Key:1011010,Text:"Header or Footer Song Template Field"},{
+Key:1011011,Text:"Header or Footer Song Template Field"},{
+Key:1011012,Text:"Header or Footer Song Template Field"},{
+Key:1011013,Text:"Header or Footer Common Template Field"},{
+Key:1011014,Text:"Header or Footer Song Template Field"},{
+Key:1011015,Text:"Header or Footer Song Template Field"},{
+Key:1011016,Text:"Header or Footer Song Template Field"},{
+Key:1011017,Text:"Header or Footer Song Template Field"},{
+Key:1011018,Text:"Header or Footer Song Template Field"},{
+Key:1011019,Text:"Header or Footer Song Template Field"},{
+Key:1011020,Text:"Header or Footer Song Template Field"},{
+Key:1011021,Text:"Header or Footer Song Template Field"},{
+Key:1011022,Text:"Header or Footer Song Template Field"},{
+Key:1011023,Text:"Header or Footer Song Template Field"},{
+Key:1011024,Text:"Header or Footer Song Template Field"},{
+Key:1011025,Text:"Header or Footer Song Template Field"},{
+Key:1011026,Text:"Header or Footer Song Template Field"},{
+Key:1011027,Text:"Header or Footer Song Template Field"},{
+Key:1011028,Text:"Header or Footer Song Template Field"},{
+Key:1011029,Text:"Header or Footer Song Template Field"},{
+Key:1011030,Text:"Header or Footer Song Template Field"},{
+Key:1011031,Text:"Header or Footer Song Template Field"},{
+Key:1011032,Text:"Header or Footer Song Template Field"},{
+Key:1011101,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011102,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011103,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011104,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011105,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011107,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011108,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011109,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011110,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011111,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011112,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011113,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011114,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011115,Text:"Header or Footer Bible Verse Template Field"},{
+Key:1011200,Text:"Header or Footer Template"},{
+Key:1011201,Text:"Header or Footer Template"},{
+Key:1011202,Text:"Header or Footer Template ToolTip
+Advice:
+You will certainly find it easier to edit this very long message in a proper word processor instead of in this table cell."},{
+Key:1011203,Text:"Header or Footer Template"},{
+Key:1011204,Text:"Header or Footer Template"},{
+Key:1012000,Text:"Confirmation Dialog"},{
+Key:1012001,Text:"Confirmation Dialog Title"},{
+Key:1019100,Text:"Table search button"},{
+Key:1019101,Text:"Table search clear button"},{
+Key:1019302,Text:"Cancel"},{
+Key:1019308,Text:"Undo"},{
+Key:1020000,Text:"Bible book"},{
+Key:1020001,Text:"Bible book"},{
+Key:1020002,Text:"Bible book"},{
+Key:1020003,Text:"Bible book"},{
+Key:1020004,Text:"Bible book"},{
+Key:1020005,Text:"Bible book"},{
+Key:1020006,Text:"Bible book"},{
+Key:1020007,Text:"Bible book"},{
+Key:1020008,Text:"Bible book"},{
+Key:1020009,Text:"Bible book"},{
+Key:1020010,Text:"Bible book"},{
+Key:1020011,Text:"Bible book"},{
+Key:1020012,Text:"Bible book"},{
+Key:1020013,Text:"Bible book"},{
+Key:1020014,Text:"Bible book"},{
+Key:1020015,Text:"Bible book"},{
+Key:1020016,Text:"Bible book"},{
+Key:1020017,Text:"Bible book"},{
+Key:1020018,Text:"Bible book"},{
+Key:1020019,Text:"Bible book"},{
+Key:1020020,Text:"Bible book"},{
+Key:1020021,Text:"Bible book"},{
+Key:1020022,Text:"Bible book"},{
+Key:1020023,Text:"Bible book"},{
+Key:1020024,Text:"Bible book"},{
+Key:1020025,Text:"Bible book"},{
+Key:1020026,Text:"Bible book"},{
+Key:1020027,Text:"Bible book"},{
+Key:1020028,Text:"Bible book"},{
+Key:1020029,Text:"Bible book"},{
+Key:1020030,Text:"Bible book"},{
+Key:1020031,Text:"Bible book"},{
+Key:1020032,Text:"Bible book"},{
+Key:1020033,Text:"Bible book"},{
+Key:1020034,Text:"Bible book"},{
+Key:1020035,Text:"Bible book"},{
+Key:1020036,Text:"Bible book"},{
+Key:1020037,Text:"Bible book"},{
+Key:1020038,Text:"Bible book"},{
+Key:1020039,Text:"Bible book"},{
+Key:1020040,Text:"Bible book"},{
+Key:1020041,Text:"Bible book"},{
+Key:1020042,Text:"Bible book"},{
+Key:1020043,Text:"Bible book"},{
+Key:1020044,Text:"Bible book"},{
+Key:1020045,Text:"Bible book"},{
+Key:1020046,Text:"Bible book"},{
+Key:1020047,Text:"Bible book"},{
+Key:1020048,Text:"Bible book"},{
+Key:1020049,Text:"Bible book"},{
+Key:1020050,Text:"Bible book"},{
+Key:1020051,Text:"Bible book"},{
+Key:1020052,Text:"Bible book"},{
+Key:1020053,Text:"Bible book"},{
+Key:1020054,Text:"Bible book"},{
+Key:1020055,Text:"Bible book"},{
+Key:1020056,Text:"Bible book"},{
+Key:1020057,Text:"Bible book"},{
+Key:1020058,Text:"Bible book"},{
+Key:1020059,Text:"Bible book"},{
+Key:1020060,Text:"Bible book"},{
+Key:1020061,Text:"Bible book"},{
+Key:1020062,Text:"Bible book"},{
+Key:1020063,Text:"Bible book"},{
+Key:1020064,Text:"Bible book"},{
+Key:1020065,Text:"Bible book"},{
+Key:1020100,Text:"Bible book abbreviation"},{
+Key:1020101,Text:"Bible book abbreviation"},{
+Key:1020102,Text:"Bible book abbreviation"},{
+Key:1020103,Text:"Bible book abbreviation"},{
+Key:1020104,Text:"Bible book abbreviation"},{
+Key:1020105,Text:"Bible book abbreviation"},{
+Key:1020106,Text:"Bible book abbreviation"},{
+Key:1020107,Text:"Bible book abbreviation"},{
+Key:1020108,Text:"Bible book abbreviation"},{
+Key:1020109,Text:"Bible book abbreviation"},{
+Key:1020110,Text:"Bible book abbreviation"},{
+Key:1020111,Text:"Bible book abbreviation"},{
+Key:1020112,Text:"Bible book abbreviation"},{
+Key:1020113,Text:"Bible book abbreviation"},{
+Key:1020114,Text:"Bible book abbreviation"},{
+Key:1020115,Text:"Bible book abbreviation"},{
+Key:1020116,Text:"Bible book abbreviation"},{
+Key:1020117,Text:"Bible book abbreviation"},{
+Key:1020118,Text:"Bible book abbreviation"},{
+Key:1020119,Text:"Bible book abbreviation"},{
+Key:1020120,Text:"Bible book abbreviation"},{
+Key:1020121,Text:"Bible book abbreviation"},{
+Key:1020122,Text:"Bible book abbreviation"},{
+Key:1020123,Text:"Bible book abbreviation"},{
+Key:1020124,Text:"Bible book abbreviation"},{
+Key:1020125,Text:"Bible book abbreviation"},{
+Key:1020126,Text:"Bible book abbreviation"},{
+Key:1020127,Text:"Bible book abbreviation"},{
+Key:1020128,Text:"Bible book abbreviation"},{
+Key:1020129,Text:"Bible book abbreviation"},{
+Key:1020130,Text:"Bible book abbreviation"},{
+Key:1020131,Text:"Bible book abbreviation"},{
+Key:1020132,Text:"Bible book abbreviation"},{
+Key:1020133,Text:"Bible book abbreviation"},{
+Key:1020134,Text:"Bible book abbreviation"},{
+Key:1020135,Text:"Bible book abbreviation"},{
+Key:1020136,Text:"Bible book abbreviation"},{
+Key:1020137,Text:"Bible book abbreviation"},{
+Key:1020138,Text:"Bible book abbreviation"},{
+Key:1020139,Text:"Bible book abbreviation"},{
+Key:1020140,Text:"Bible book abbreviation"},{
+Key:1020141,Text:"Bible book abbreviation"},{
+Key:1020142,Text:"Bible book abbreviation"},{
+Key:1020143,Text:"Bible book abbreviation"},{
+Key:1020144,Text:"Bible book abbreviation"},{
+Key:1020145,Text:"Bible book abbreviation"},{
+Key:1020146,Text:"Bible book abbreviation"},{
+Key:1020147,Text:"Bible book abbreviation"},{
+Key:1020148,Text:"Bible book abbreviation"},{
+Key:1020149,Text:"Bible book abbreviation"},{
+Key:1020150,Text:"Bible book abbreviation"},{
+Key:1020151,Text:"Bible book abbreviation"},{
+Key:1020152,Text:"Bible book abbreviation"},{
+Key:1020153,Text:"Bible book abbreviation"},{
+Key:1020154,Text:"Bible book abbreviation"},{
+Key:1020155,Text:"Bible book abbreviation"},{
+Key:1020156,Text:"Bible book abbreviation"},{
+Key:1020157,Text:"Bible book abbreviation"},{
+Key:1020158,Text:"Bible book abbreviation"},{
+Key:1020159,Text:"Bible book abbreviation"},{
+Key:1020160,Text:"Bible book abbreviation"},{
+Key:1020161,Text:"Bible book abbreviation"},{
+Key:1020162,Text:"Bible book abbreviation"},{
+Key:1020163,Text:"Bible book abbreviation"},{
+Key:1020164,Text:"Bible book abbreviation"},{
+Key:1020165,Text:"Bible book abbreviation"}]}

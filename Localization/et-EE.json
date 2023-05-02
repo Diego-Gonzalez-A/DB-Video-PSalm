@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Estonian (Estonia)"},{
+Key:1000000,Text:"Tõlge"},{
+Key:1000001,Text:"Ei."},{
+Key:1000003,Text:"&Lisada..."},{
+Key:1000004,Text:"VideoPsalm ühe või enama keele lisamiseks"},{
+Key:1000006,Text:"&Saada"},{
+Key:1000007,Text:"Saada sildid e-posti teel VideoPsalm võtta järgmise seadistuse"},{
+Key:1000009,Text:"&Rakenda"},{
+Key:1000011,Text:"&Salvesta"},{
+Key:1000012,Text:"Rakenda valitud VideoPsalm keel. Muudatused salvestatakse automaatselt ette."},{
+Key:1000013,Text:"Muutuste salvestamiseks Sildid"},{
+Key:1000015,Text:"&Kustuta"},{
+Key:1000016,Text:"VideoPsalm Kustuta valitud keeles ja kõik sildid"},{
+Key:1000022,Text:"&{0} nomineeritud:"},{
+Key:1000024,Text:"&Keeled:"},{
+Key:1000029,Text:"Plaadifirmade"},{
+Key:1000030,Text:"Sildid on muutunud.
+
+Tahan need muudatused salvestada?"},{
+Key:1000031,Text:"Keele eemaldamine"},{
+Key:1000032,Text:"Kas soovite VideoPsalm keele {0} kustutada?
+
+See toiming kustutab kõik selles keeles tekstid ja on pöördumatu."},{
+Key:1000035,Text:"VideoPsalm tuleb luua tihendatud failid ZIP-laiendiga
+sisaldavad kui vastavas keeles.
+Vastavat faili manustamiseks e-posti, et hüppab, siis Postita e videopsalm@gmail.com."},{
+Key:1000036,Text:"Saada e-post Sildid"},{
+Key:1000037,Text:"<b>\"Tõlge\" aknas saate redigeerida teksti, mis esinevad VideoPsalm vormid.</b>
+See võimaldab teil tõlkida, kohandada või parandada mis tahes teksti liides, VideoPsalm, VideoPsalm ja isegi.
+
+<i>Kui selle komponendi võtab liiga palju ruumi, vähendada seda klõpsates väike vähendamise nupp asub vasakus ülanurgas, või selle suuruse muutmine hiire koos horisontaalse eraldusjoone.</i>
+
+VideoPsalm on saadaval mitmes keeles. VideoPsalm keeled on loetletud paneeli all vasakul pealkirjaga \"keeled\".
+Kui teie keel ei ole selles loendis, saate siin oma keelde tõlkida VideoPsalm. Pange tähele, et see on ilmselt mitu tundi tööd.
+
+Siin on, kuidas VideoPsalm on oma keel:
+
+-Lisada oma keele valimisega nende seast, te nimekirja leiad nupu abil \"lisa <image=add2_16>\".
+-Tabelis paremal, VideoPsalm kuvatakse siltide kontrollitud keeles.
+-Tõlgi oma keeles sildid.
+
+Tabelis, saate redigeerida sildid teie vabal ajal, nagu Exceli tabelisse.
+Tabel pakub otsinguvälja. Seega ainult teatud sõnu sisaldavate siltide kuvamiseks tippige need sõnad otsinguväljale ja seejärel vajutage nupule \"Otsi\".
+Filtri asub ala iga päise keele abil saate filtreerida teatud kindlaid sõnu sisaldavad keeles sildid.
+
+Oma töö hõlbustamiseks valige üks või mitu muud keeled, mida oskate, iga sildi tähendusest paremini aru ning suudab üheaegselt mitmes keeles lugeda.
+Kontrollida kommentaarid, sest need võimaldavad paremini mõista teatud märkide tähenduse ja kus neid kasutatakse.
+
+<b>Märkus:</b> See on kõige paremini kommenteerida inglise keeles, sest paljud inimesed aru inglise.
+
+Et näha teie tõlge töö tulemused:
+-Vali keel keeles paneeli klõpsates
+   seejärel
+-Vajuta nupule \"Rakenda\" (all).
+
+VideoPsalm kuvatakse teie valitud keeles.
+
+Ärge unustage, et päästa oma tööd tõlkimise klikkides nupule \"Salvesta <image=disk_blue>.
+Pärast seda, kui olete salvestanud uue keele, saate aknas Valikud.
+
+Palun saatke meile oma tõlked või e-posti aadressil <b>videopsalm@gmail.com</b> , klõpsates nupule \"saada <image=mail_16>\" parandused.
+Kui klõpsate seda nuppu, kaks asja:
+1. Teie e-posti klient avab automaatselt, näiteks Outlook.
+2. Explorer kaust avaneb VideoPsalm on paigutatud tihendatud failid ZIP-laiendiga nimega keeli.
+
+Lohistage ja tilk sobiv fail e-posti ja pärast seda, nii et me saame lisada tulevase versiooni VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Kuidas tõlkida oma keele VideoPsalm?"},{
+Key:1000039,Text:"Keeled, mis on tõlgitud VideoPsalm. Valige tabeli siltide kuvamiseks soovitud keeles. Oma keele lisamiseks loendisse klõpsake nuppu \"Lisa\"."},{
+Key:1001000,Text:"Lisage keeled"},{
+Key:1001001,Text:"&Keeled:"},{
+Key:1001002,Text:"Valige keeled, lisada"},{
+Key:1001003,Text:"&Lisada"},{
+Key:1001004,Text:"Loobu"},{
+Key:1001005,Text:"Spikker (F1)"},{
+Key:1002000,Text:"Valikud"},{
+Key:1002003,Text:"&Üldine"},{
+Key:1002004,Text:"&Kuva"},{
+Key:1002005,Text:"&Videot"},{
+Key:1002014,Text:"&Kollektsioonid"},{
+Key:1002015,Text:"&Bibles"},{
+Key:1002103,Text:"&Keel:"},{
+Key:1002105,Text:"&VideoPsalm kausta dokumendid:"},{
+Key:1002106,Text:"Vali VideoPsalm kaust dokumendid:"},{
+Key:1002112,Text:"&Salvestage kõik muutused teete Piibli salmid (teksti ja stiil)"},{
+Key:1002202,Text:"&Jutumärgid asendada « <size=+4>'» Prantsuse hinnapakkumisi poolt « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Kasutage tüpograafia eeskirjad"},{
+Key:1002204,Text:"&Laulud, asendada kriipsu Poolitamatu kriipsu abil"},{
+Key:1002205,Text:"&Piibli salmid, asendada kriipsu Poolitamatu kriipsu abil"},{
+Key:1002304,Text:"&Käitlemise meetod:"},{
+Key:1002306,Text:"Standard"},{
+Key:1002307,Text:"Paranenud"},{
+Key:1002502,Text:"&Rakenda"},{
+Key:1002503,Text:"Muudatuste salvestamiseks ja akna avatuna hoidmiseks"},{
+Key:1002504,Text:"Ok"},{
+Key:1002505,Text:"Salvestage muudatused ja sulgege aken"},{
+Key:1002508,Text:"Akna sulgemiseks ilma muudatusi salvestamata"},{
+Key:1002510,Text:"&Kiriku litsentsi:"},{
+Key:1002513,Text:"Valikuline tekst, mille sisestate siin saab automaatselt kuvada selle päise või jaluse slaidi.
+
+Näiteks saate määrata siin litsentsi oma kiriku CILC arv."},{
+Key:1002516,Text:"&Päise väljad:"},{
+Key:1002517,Text:"&Kui subfooter väljad:"},{
+Key:1002531,Text:"Muutke fonti, mis on kuvatud VideoPsalm.
+
+Standardne font:
+- <b>Tahoma</b> Windows XP
+- <b>Segoe UI</b> , Windows Vista, Windows 7 ja Windows 8
+
+Standard suurus: 8.25"},{
+Key:1002532,Text:"On vaja uuesti VideoPsalm poliitika muutus tuleb täielikult arvesse võtta."},{
+Key:1002533,Text:"Kui see ruut on märgitud, asendab VideoPsalm sirge ülakomad Prantsuse ülakoma, mis on paigutatud kõrgus slaidid koma.
+
+Kui sisestate toimetaja laulu sõnad, soovitame teil kasutada märk, et sa lihtsalt leida klaviatuuri, tavaliselt sirge ülakoma."},{
+Key:1002534,Text:"Kui see ruut on märgitud, VideoPsalm rearranges slide mõned märgid on kirjavahemärgid vastavalt Prantsuse tüpograafia vahed.
+
+Näiteks, kui laul sisaldab järgmisi sõnu: <b>Issand!</b>
+
+VideoPsalm ekraan: <b>Issand!</b>
+
+Siin on kirjavahemärgid, mida nautida erilist kohtlemist:
+<b>: ; ! ? »</b><i>VideoPsalm koht Poolitamatu tühik enne ja pärast ruumi.</i><b>«</b><i>VideoPsalm pannakse tühik enne ja pärast Poolitamatu tühik.</i>
+
+VideoPsalm korraldab ei ole vahed muid kirjavahemärke.
+
+Kui sisestate uue laulu sõnad, soovitame tüpograafia traditsioonilisi reegleid järgima, st kinni kirjavahemärgid sõna, mis neid puudutavad. Sel moel sa olema võimeline vastama Prantsuse tüpograafia kuvatakse märgistades ruudu, või oma riigi õigusnormidega ei ole selle ruudu märkimisega.
+
+<b>Märkus:</b> See on võimalik, et Prantsuse tüpograafia eeskirjad ei kehti teie riigis, isegi siis, kui keel on prantsuse, näiteks Frankofoonia Aafrika, Belgia, Quebec või Šveitsis.
+
+Täieliku viite ruumid ja kirjavahemärgid Prantsuse tüpograafia, vaadake <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, lk 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Fondi:"},{
+Key:1002536,Text:"&Suurus:"},{
+Key:1002539,Text:"Kui see ruut on märgitud, VideoPsalm teavitab sind, selle käivitamisel programm või uudiseid uute funktsioonide olemasolu:
+-kogud
+-Piibleid,
+- ja VideoPsalm keeles.
+
+VideoPsalm online Raamatukogu mõnikord lisatakse uued kollektsioonid, Bibles uued keeled ja uute keelte VideoPsalm.
+
+Kui see juhtub, lisada mõne hiireklõpsuga neid dokumente installi kaudu impordi viisard."},{
+Key:1002540,Text:"Kui see ruut on märgitud, on vaja VideoPsalm jääda samale reale slaidid sidekriipsuga seotud sõnu.
+
+Vaikimisi väärtus laulud lyrics: <b>kontrollida</b>"},{
+Key:1002541,Text:"Kui see ruut on märgitud, on vaja VideoPsalm jääda samale reale slaidid sidekriipsuga seotud sõnu.
+
+Vaikeväärtus Bibles salmid: <b>märkimata</b>"},{
+Key:1002542,Text:"Kui see ruut on märgitud, saate VideoPsalm Salme Bibles (teksti ja laadi) tehtud muudatused salvestada.
+
+Kui see ruut on märgitud:
+
+<b>1.</b> VideoPsalm sulgemisel see ei teavita teid oma Bibles on muutunud,
+
+<b>2</b> kui salvestate muudatused, VideoPsalm salvestada muutused Bibles (teksti ja stiil),
+
+<b>3</b> leiad oma puutumata Bibles VideoPsalm järgmisel käivitamisel."},{
+Key:1002543,Text:"Valige keel, milles soovite VideoPsalm kuvatakse siin.
+
+Kui teie keel ei kuvata loendis, võib-olla on saadaval VideoPsalm Raamatukogu online kaudu impordi viisard.
+
+Kui VideoPsalm pole teie emakeeles, palume teatada meile e-posti aadressil videopsalm@gmail.com
+
+Teise võimalusena saate tõlkida oma keele kaudu VideoPsalm tõlke vahend VideoPsalm tekstid või vigade parandamiseks.
+
+Nupp \"Tõlkida VideoPsalm\" tõlke vahend VideoPsalm alustada."},{
+Key:1002544,Text:"Valige kaust, mille VideoPsalm laadida oma raamatuid, Bibles, pilte ja videoid siin.
+
+Kui muudate kausta, VideoPsalm värskendab oma kogud, Bibles, pilte ja videoid nende uude kausta.
+
+<b>Ettevaatust</b> : enne muutmist kausta, veenduge, et olete salvestanud oma muudatused."},{
+Key:1002545,Text:"Muutke fonti, mis on kuvatud VideoPsalm.
+
+Standard suurus: 8.25
+
+Saate muuta fondi suurust Windows Suvandid kaudu: Control Panel -&gt; Kuva-> loetavust ekraanil."},{
+Key:1002547,Text:"&Tõlgi VideoPsalm"},{
+Key:1002548,Text:"Avab abivahendi mis võite VideoPsalm tõlkida oma keel või parandada vigu õigekirja."},{
+Key:1002549,Text:"Olete muutmas kausta, kus VideoPsalm laeb oma dokumendid.
+VideoPsalm maha laadida oma praegusi dokumente ja seejärel laadige need uude kausta.
+See võib võtta paar sekundit.{0}
+
+Kas soovite muuta dokumendi kausta?"},{
+Key:1002550,Text:"On salvestamata muutusi (kogud, Bibles või kalender).
+Kui toimingu kirje nüüd kinnitada need muudatused lähevad kaotsi."},{
+Key:1002551,Text:"Muutuvad kaust dokumendid"},{
+Key:1002552,Text:"&Tegevuskava"},{
+Key:1002553,Text:"Vaikimisi näidised:"},{
+Key:1002554,Text:"&laulud:"},{
+Key:1002555,Text:"&Piibli salmi:"},{
+Key:1002556,Text:"&Slideshow pildid:"},{
+Key:1002557,Text:"&autonoomne videod:"},{
+Key:1002558,Text:"&PowerPoint esitlused:"},{
+Key:1002559,Text:"&Ajalõpu vaike automaatne ettemakse:"},{
+Key:1002560,Text:"sekundit"},{
+Key:1002561,Text:"&Lisa keel"},{
+Key:1002562,Text:"Avab VideoPsalm tõlgitud tekst impordiviisardi, kuhu saate lisada uusi keeli oma VideoPsalm."},{
+Key:1002580,Text:"Vaikimisi teksti kulgemise pärast laulu"},{
+Key:1002581,Text:"Määratleb vaikimisi teksti kulgemise pärast viimast salmi laulu.
+
+Ka arvestada seda väärtust laule, et kuvate spontaanselt ilma päevakorda.
+Kalender, saate muuta selle väärtuse iga laulu."},{
+Key:1002582,Text:"Vaikimisi teksti kulgemise pärast Piibli salmid"},{
+Key:1002583,Text:"Määratleb vaikimisi teksti kulgemise pärast viimast salmi Piibli teekonda.
+
+Ka arvestada seda väärtust kuvate spontaanselt ilma päevakorra Piibli lõigud.
+Seda väärtust iga Piibel teekonda saate muuta kalendri."},{
+Key:1002584,Text:"Vaikimisi teksti kulgemise pärast foto slideshow"},{
+Key:1002585,Text:"Määratleb vaikimisi teksti kulgemise pärast foto slideshow.
+
+Kalendris saate muuta selle väärtuse igale pildile."},{
+Key:1002586,Text:"Vaikimisi teksti kulgemise pärast standalone video"},{
+Key:1002587,Text:"Määratleb vaikimisi teksti kulgemise pärast standalone video.
+
+Seda väärtust iga eraldi video saate muuta kalendri."},{
+Key:1002588,Text:"Vaikimisi teksti kulgemise pärast PowerPoint"},{
+Key:1002589,Text:"Määrab pärast PowerPoint vaikimisi teksti kulgemise.
+
+Kalender, saate seda väärtust muuta iga PowerPoint."},{
+Key:1002590,Text:"Määratleb vaikimisi aeg sekundites enne järgmisele slaidile automaatne intervalli.
+
+Iga element, mis automaatselt voolab seda väärtust saate muuta kalendri."},{
+Key:1002591,Text:"&Tausta pildid talletada tegevuskava (soovitatav)"},{
+Key:1002592,Text:"Tausta pildid talletada päevakord"},{
+Key:1002593,Text:"Näitab, kas VideoPsalm tuleks säilitada tausta pildid laulude ja Piibli päevakorra fail salmid, kuna selle salvestamist."},{
+Key:1002594,Text:"&Poe taust videod (soovitatav) päevakorra"},{
+Key:1002595,Text:"Poe taust videod päevakord"},{
+Key:1002596,Text:"Näitab, kas VideoPsalm tuleks salvestada videod tausta laule ja Piibli salmid päevakorra faili salvestamisel."},{
+Key:1002597,Text:"&Poe slaidišõu pilte (soovitatav) päevakorra"},{
+Key:1002598,Text:"Salvestada slaidišõu pilte päevakord"},{
+Key:1002599,Text:"Näitab, kas VideoPsalm tuleks sδilitada võimaliku pildid slideshow kalendri faili salvestamisel."},{
+Key:1002600,Text:"&Salvestada omaette videod (soovitatav) päevakorra"},{
+Key:1002601,Text:"Säilitada autonoomse videod päevakord"},{
+Key:1002602,Text:"Näitab, kas VideoPsalm tuleks hoida igal autonoomse videopildis päevakorras faili salvestamisel."},{
+Key:1002603,Text:"&Poe PowerPoint esitlused päevakorda (soovitatav)"},{
+Key:1002604,Text:"Poe päevakorraküsimusega PowerPoint esitlused"},{
+Key:1002605,Text:"Näitab, kas VideoPsalm tuleks hoida mis tahes PowerPoint esitlused kalendri faili salvestamisel."},{
+Key:1002606,Text:"Soovitame valida selle suvandi, eriti kui te valmistada oma tegevuskava kui see, mida näitate esitlust teises arvutis."},{
+Key:1002607,Text:"&Toimetaja"},{
+Key:1002608,Text:"&Font:"},{
+Key:1002609,Text:"Määrab, kus te redigeerida laulu sõnad ja Piibli salmid font.
+
+Eelkõige ei kasutata selle fondi teksti kuvamiseks ekraanil."},{
+Key:1002610,Text:"&Teksti suurus:"},{
+Key:1002611,Text:"Määrab te redigeerida laulu sõnad ja Piibli salmid fondi suuruse.
+
+Fondi suurus on eriti kasutatakse teksti kuvamiseks ekraanil."},{
+Key:1002612,Text:"&Kokkulepped font:"},{
+Key:1002613,Text:"Määrab laulu lepinguid muuta fonti.
+
+See font on kasutada eriti esitlus ekraanil kuvada."},{
+Key:1002614,Text:"&Lepingute teksti suurust:"},{
+Key:1002615,Text:"Määrab laulu kokkulepete font size tekstiredaktoriga.
+
+Fondi suurus on kasutada eriti lepingute esitlus ekraanil."},{
+Key:1002616,Text:"&Kokkulepped värv:"},{
+Key:1002617,Text:"Saate määrata värvi tekstiredaktoriga kuvatakse kokkulepped.
+
+See värv on kasutatud, esitlus ekraanil kuvada."},{
+Key:1002618,Text:"&Poolitamatu valge värv:"},{
+Key:1002619,Text:"Määrab värvi mis purustamine valge kuvatakse tekstiredaktoriga."},{
+Key:1002620,Text:"&Stanza tags värv:"},{
+Key:1002621,Text:"Määrab Stanza tags esile värvi tekstiredaktoriga."},{
+Key:1002622,Text:"&Stanza tags läbipaistvus:"},{
+Key:1002623,Text:"Määrab värvi sildid Stanza esile läbipaistvuse tekstiredaktoriga."},{
+Key:1002624,Text:"&ChordPro lepingute värv:"},{
+Key:1002625,Text:"Määrab ChordPro kokkulepped esile värvi, teksti režiimis ChordPro toimetaja."},{
+Key:1002626,Text:"&Läbipaistvust, ChordPro kokkulepete:"},{
+Key:1002627,Text:"Määrab värvi, millised kokkulepped esile ChordPro läbipaistvuse tekstirežiimis ChordPro toimetaja."},{
+Key:1002628,Text:"&Asenda fondid (soovitatav)"},{
+Key:1002629,Text:"Võimaldab teksti toimetajale alistada puuduvate märkide praeguse fondi need mõnda muud fonti.
+
+Kui kasutate-Unicode font, mis tegutseb ka transliteratsiooni keelata märkide asendamine.
+See ongi mõned Hindi, tamili, Bamati, malajalami fondid jne.
+
+Pange tähele, et on eelistatav kasutada Unicode'i font.
+Oma laulud valmis Unicode-tekstiks teisendamiseks kasutada online converter, näiteks siin: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Luba kasutada lihtsustatud, ühildub pühakirja RTL tekstiredaktor"},{
+Key:1002631,Text:"Kuvab lisanupp tekstiredaktor, mida saab kasutada lihtsustatud mode toimetamine laulud teksti tööriistariba vasakul.
+
+See lihtsustatud toimetaja sobib kirjalikult paremalt vasakule (RTL), eriti Araabia ja heebrea."},{
+Key:1002632,Text:"Valige video käitlemise meetod, mis kõige paremini sobib teie arvuti. VideoPsalm saate kuvada videod wmv enamik arvuteid formaadis."},{
+Key:1002633,Text:"&Teated"},{
+Key:1002634,Text:"Käivitamisel, informeerida, kui on olemas:"},{
+Key:1002635,Text:"&Uus versioon VideoPsalm (soovitatav)"},{
+Key:1002636,Text:"&Uued kollektsioonid (soovitatav)"},{
+Key:1002637,Text:"&Uus Bibles (soovitatav)"},{
+Key:1002638,Text:"&Uute keelte (soovitatav)"},{
+Key:1002639,Text:"&Probleemide tekkimise seoses volikirja olemasolu korral"},{
+Key:1002640,Text:"Volikirja olemasolu"},{
+Key:1002641,Text:"Näitab, kas VideoPsalm peaks automaatselt tuvastada uusi tooteid või uuendusi küsida volikirja olemasolu.
+
+Kui VideoPsalm ei saa laadida raamatuid või Bibles online Raamatukogu, valige see suvand ja proovige toimingut korrata.
+
+Valige see suvand ainult siis, kui see ei ole. Tõepoolest, see suvand põhjustab aeglustumine alla laadida raamatuid ja Bibles VideoPsalm Raamatukogu online."},{
+Key:1002642,Text:"&Sotsiaalne ikoonide peitmine"},{
+Key:1002643,Text:"Peidab selle tööriistariba sotsiaalseid ikoonid (Facebook, Twitter ja YouTube).
+
+Need ikoonid on endiselt peidetud Interneti-ühenduse puudumisel."},{
+Key:1002644,Text:"&Salvestada heli laulud (soovitatav) päevakorra"},{
+Key:1002645,Text:"Salvestada heli laulud päevakord"},{
+Key:1002646,Text:"Näitab, kas VideoPsalm tuleks sδilitada laule audio kalendri faili salvestamisel."},{
+Key:1002648,Text:"&Kohandamine"},{
+Key:1002649,Text:"&Videokaamera"},{
+Key:1002650,Text:"&Eelmine"},{
+Key:1002651,Text:"&Baasi"},{
+Key:1002652,Text:"&Teksti"},{
+Key:1002653,Text:"&Kilp"},{
+Key:1002654,Text:"&Lumehelves"},{
+Key:1002655,Text:"&Bug"},{
+Key:1002656,Text:"Lükake paneeli"},{
+Key:1002657,Text:"&Järgmise"},{
+Key:1002658,Text:"Tööriistariba"},{
+Key:1002659,Text:"Juhatuse päevakord"},{
+Key:1002660,Text:"&Mount"},{
+Key:1002661,Text:"&Lõpeta ära"},{
+Key:1002662,Text:"&Peitmine kohtspikrites"},{
+Key:1003000,Text:"Versioon {0} on {1}"},{
+Key:1003003,Text:"Sulgege"},{
+Key:1003005,Text:"&Võtke ühendust VideoPsalm"},{
+Key:1003006,Text:"Ava Outlook (e-posti klient) saata e-posti VideoPsalm"},{
+Key:1003007,Text:"See versioon on uuendatud"},{
+Key:1003008,Text:"&Värskenda minu versioon"},{
+Key:1003009,Text:"Seal on uuem versioon VideoPsalm:
+Plaat 1 versiooni {0}: {d}.
+Klõpsake sellel nupul, et avada allalaadimise lehele.
+Siit leiad muutuste ajalugu
+ja link alla laadida."},{
+Key:1003011,Text:"-Aruanne
+-Teha märkus või ettepanek"},{
+Key:1003012,Text:"E-posti aadress: videopsalm@gmail.com"},{
+Key:1003500,Text:"Eemalda ülevõtmine"},{
+Key:1003501,Text:"Üle võtnud rohkem pooltoon"},{
+Key:1003502,Text:"Üle võtnud pooltoon vähem"},{
+Key:1003503,Text:"Ilma"},{
+Key:1003504,Text:"Kustuta selle capo"},{
+Key:1003505,Text:"Ülevõtmise capo, kes liigub eemale juht"},{
+Key:1003506,Text:"Ülevõtmise capo, et ligilähedaseks juht"},{
+Key:1003507,Text:"Ilma"},{
+Key:1003508,Text:"Tutvu helifaili vokaal"},{
+Key:1003509,Text:"&Helifaili:"},{
+Key:1003510,Text:"Valige audio faile importida ja seejärel vajuta \"open\"."},{
+Key:1003511,Text:"Imporditud {0} audio file (s)."},{
+Key:1003512,Text:"Nr audio faili importida.
+(Ta (s) on juba leitud (s) loendis)."},{
+Key:1003513,Text:"Audio failide importimine"},{
+Key:1003514,Text:"Audio failid"},{
+Key:1003515,Text:"Märksõnu, et otsida pilte"},{
+Key:1003516,Text:"Ilma pilt"},{
+Key:1003517,Text:"Ilma video"},{
+Key:1003518,Text:"&Failid"},{
+Key:1003519,Text:"&Kuva bass"},{
+Key:1003520,Text:"Sõnade otsimist, videod"},{
+Key:1003521,Text:"&Kogumise imporditud laulud: CCLI / SongSelect"},{
+Key:1003522,Text:"CCLI laulud"},{
+Key:1003523,Text:"Impordi CCLI laulud"},{
+Key:1003524,Text:"{0} laulud olid juba kollektsiooni {1} ja ei imporditud."},{
+Key:1003525,Text:"&Otsi hotelle"},{
+Key:1003526,Text:"&Heledus:"},{
+Key:1003527,Text:"&Otsi hotelle"},{
+Key:1003528,Text:"&Heledus:"},{
+Key:1003529,Text:"Sõnumi"},{
+Key:1003530,Text:"Politsei"},{
+Key:1003531,Text:"Värvid"},{
+Key:1003532,Text:"Sõnumi"},{
+Key:1003533,Text:"Nähtavus"},{
+Key:1003534,Text:"Mudel"},{
+Key:1003535,Text:"Tüüp"},{
+Key:1003536,Text:"Tagaplaanil"},{
+Key:1003537,Text:"Stopper"},{
+Key:1003538,Text:"Valikud"},{
+Key:1003539,Text:"Läbipaistvus"},{
+Key:1003540,Text:"Kuva sõnum"},{
+Key:1003541,Text:"Taust"},{
+Key:1003542,Text:"Väljapanek kella"},{
+Key:1003543,Text:"Kella"},{
+Key:1003544,Text:"Tagaplaanil"},{
+Key:1003545,Text:"Stopper"},{
+Key:1003546,Text:"Ajal"},{
+Key:1003547,Text:"Kuni"},{
+Key:1003548,Text:"Start"},{
+Key:1003549,Text:"Paus"},{
+Key:1003550,Text:"Stopp"},{
+Key:1003551,Text:"Stiil"},{
+Key:1003552,Text:"Rasva"},{
+Key:1003553,Text:"Kursiiv"},{
+Key:1003554,Text:"Rõhutas"},{
+Key:1003555,Text:"Kuva teine osuti"},{
+Key:1003556,Text:"Kogelemine sekundit"},{
+Key:1003557,Text:"Minutit jerky"},{
+Key:1003558,Text:"Kuva numbrid"},{
+Key:1003559,Text:"Lõpetaja Protokollid"},{
+Key:1003560,Text:"Lõpetaja tundi"},{
+Key:1003561,Text:"Videokaamera"},{
+Key:1003562,Text:"Kuvab kaamera taga teksti tulistamist."},{
+Key:1003563,Text:"&Lisa laule CILC formaadis..."},{
+Key:1003564,Text:"Importimine..."},{
+Key:1003565,Text:"Import"},{
+Key:1003566,Text:"Võimaldab importida audio failid oma VideoPsalm"},{
+Key:1003567,Text:"Liikumine..."},{
+Key:1003568,Text:"Sirvi"},{
+Key:1003569,Text:"Avab kausta helifailid poolt oma VideoPsalm"},{
+Key:1003570,Text:"&Käivitage (ms):"},{
+Key:1003571,Text:"&Lõpp (ms):"},{
+Key:1003572,Text:"&Maht:"},{
+Key:1003573,Text:"&Mängida looped"},{
+Key:1003575,Text:"&Muudetud"},{
+Key:1003576,Text:"&Versioon:"},{
+Key:1003577,Text:"Tekstiredaktoris \"Õige\" vasakule"},{
+Key:1003578,Text:"Lülitab tavapärases tekstiredaktoris (kirjutamine vasakult paremale) ja \"Õige\" toimetaja vasakule Araabia, heebrea, jne."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Alati ühiselt näidata (kakskeelne)"},{
+Key:1003581,Text:"&Asukoht:"},{
+Key:1004050,Text:"Politsei"},{
+Key:1004051,Text:"Suurus"},{
+Key:1004052,Text:"Rasva"},{
+Key:1004053,Text:"Kursiiv"},{
+Key:1004054,Text:"Esile tõstetud"},{
+Key:1004055,Text:"Õigusaktide vastavusse viimine"},{
+Key:1004056,Text:"Vertikaalne joondus"},{
+Key:1004057,Text:"Animatsioon"},{
+Key:1004058,Text:"Kestus"},{
+Key:1004059,Text:"Köide"},{
+Key:1004060,Text:"Vaigistada?"},{
+Key:1004061,Text:"Algus"},{
+Key:1004062,Text:"Lõpp"},{
+Key:1004063,Text:"Loop?"},{
+Key:1004064,Text:"Vaata suuremat pilti"},{
+Key:1004100,Text:"Värvid"},{
+Key:1004101,Text:"Täitmine"},{
+Key:1004102,Text:"Kaaskond"},{
+Key:1004103,Text:"Laius on entourage"},{
+Key:1004104,Text:"Vari"},{
+Key:1004105,Text:"Raadius varjus"},{
+Key:1004106,Text:"Sügavus varju"},{
+Key:1004107,Text:"Varju suuna"},{
+Key:1004151,Text:"Videot"},{
+Key:1004152,Text:"Pilt"},{
+Key:1004153,Text:"Värv"},{
+Key:1004156,Text:"Ristküliku keha"},{
+Key:1004157,Text:"Ristküliku päis"},{
+Key:1004158,Text:"Suu ristkülik"},{
+Key:1004500,Text:"Kalendri kopeerimine lõikelauale"},{
+Key:1004501,Text:"Kirjeldus on tegevuskava on paigutatud lõikelauale."},{
+Key:1004502,Text:"Sõnad (nimetus ja sõnad) või ei otsida."},{
+Key:1004503,Text:"Sõnad (nimetus ja sõnad) või ei otsida."},{
+Key:1004504,Text:"Sõnad (pealkiri) või otsida nr."},{
+Key:1004505,Text:"Sõna (autori ja helilooja) või ei otsida."},{
+Key:1004506,Text:"Sõnad (kujundused) või number otsing"},{
+Key:1004507,Text:"Sõnad (viited) või number otsing"},{
+Key:1004508,Text:"CCLI otsima"},{
+Key:1004509,Text:"Sõnad (copyright) või number otsing"},{
+Key:1004510,Text:"Sõnad (memo 1) või ei otsida."},{
+Key:1004511,Text:"Sõnad (memo 2) või ei otsida."},{
+Key:1004512,Text:"Sõnad (memo 3) või ei otsida."},{
+Key:1004513,Text:"Laulu Akordid"},{
+Key:1004514,Text:"Kopeerige selle kogumiku Kokkuvõte"},{
+Key:1004515,Text:"Selle kogumiku Kokkuvõte pandi lõikelauale."},{
+Key:1005001,Text:"Laadimise lõppu"},{
+Key:1005002,Text:"Laulu {0}."},{
+Key:1005003,Text:"Videote laadimine"},{
+Key:1005004,Text:"Ei saa lugeda video {0}.
+{1}"},{
+Key:1005005,Text:"Piltide laadimine"},{
+Key:1005006,Text:"Ei saa lugeda pilt {0}.
+{1}"},{
+Key:1005007,Text:"Laadimise stiilid"},{
+Key:1005008,Text:"Täidise kogud (laulud {0} {1} kogudes) loend"},{
+Key:1005009,Text:"Kustuta valitud päevakorrapunktide?"},{
+Key:1005010,Text:"Üksuste eemaldamine"},{
+Key:1005011,Text:"Uus kollektsioon"},{
+Key:1005012,Text:"Uus laul"},{
+Key:1005013,Text:"Päevakorras on tühi.
+Avatud on või lohistage siia laule ja Salme lisada päevakorda."},{
+Key:1005014,Text:"Ei ole ühtegi slaidi video - projekti.
+Valige esitamiseks muusikapala või video Salme - projekti."},{
+Key:1005015,Text:"Kas soovite kindlasti kollektsiooni {0} kustutada?
+
+See kogumine vastavaid faili ei kustutata ketas:
+selle laiendamist saab ümber nimetada \".ignore."},{
+Key:1005016,Text:"Kollektsiooni kustutamine"},{
+Key:1005017,Text:"Kas soovite selle laulu {0} kustutada?
+
+Pärast registreerimist muudatuste raamatuid, selle laulu eemaldamine olla pöördumatud."},{
+Key:1005018,Text:"Kustuta laulu"},{
+Key:1005019,Text:"Tegevuskava kõik üksused eemaldada?"},{
+Key:1005020,Text:"Kustuta kõik"},{
+Key:1005021,Text:"Tegevuskavaga, Nimeta"},{
+Key:1005022,Text:"Tühi kalender"},{
+Key:1005023,Text:"Praegune kava on salvestamata muutusi.
+Tahan need muudatused salvestada?"},{
+Key:1005024,Text:"Salvesta kalender"},{
+Key:1005025,Text:"Ühe või mitme kogud on salvestamata muutusi.
+Tahan need muudatused salvestada?"},{
+Key:1005026,Text:"Rekord kollektsioonid"},{
+Key:1005027,Text:"Ühe või mitme Bibles on salvestamata muutusi.
+Tahan need muudatused salvestada?"},{
+Key:1005028,Text:"On Bibles salvestamine"},{
+Key:1005029,Text:"Dokumentide lisamine päevakorda"},{
+Key:1005030,Text:"Päevikud"},{
+Key:1005031,Text:"Pildid"},{
+Key:1005032,Text:"Videod"},{
+Key:1005033,Text:"PowerPoint esitlused"},{
+Key:1005034,Text:"Salvestada kalendri alusel"},{
+Key:1005035,Text:"CCLI laulud"},{
+Key:1005036,Text:"Ei ole kogumine.
+Impordi aruanded viisardi käivitamiseks klõpsake siin."},{
+Key:1005037,Text:"Formaat {0}
+{1} x {2} pikslit"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Kas soovite kustutada kõik stiilid allpool on {0}?"},{
+Key:1005040,Text:"Kollektsiooni {0} ei kuulu otsing"},{
+Key:1005041,Text:"Saate kuvada või slaidile liikumine"},{
+Key:1005042,Text:"Aastaajad"},{
+Key:1005043,Text:"Kevadel"},{
+Key:1005044,Text:"Suvel"},{
+Key:1005045,Text:"Jõulud"},{
+Key:1005046,Text:"Teemad"},{
+Key:1005047,Text:"Karamell"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Kujutlusvõime"},{
+Key:1005050,Text:"Pimikus"},{
+Key:1005051,Text:"Udu"},{
+Key:1005052,Text:"Eskiis"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontrasti"},{
+Key:1005055,Text:"Amet"},{
+Key:1005056,Text:"Office 2010 sinine"},{
+Key:1005057,Text:"Office 2010 hõbe"},{
+Key:1005058,Text:"Office 2010 must"},{
+Key:1005059,Text:"Office 2007 sinine"},{
+Key:1005060,Text:"Office 2007 roheline"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 hõbe"},{
+Key:1005063,Text:"Office 2007 must"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Suurlinn"},{
+Key:1005066,Text:"Seitse"},{
+Key:1005067,Text:"Seitse Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Viiruk"},{
+Key:1005070,Text:"Suitsu"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Värvid"},{
+Key:1005073,Text:"Vedel taevas"},{
+Key:1005074,Text:"London taevas"},{
+Key:1005075,Text:"Sinine"},{
+Key:1005076,Text:"Raha kaksikud"},{
+Key:1005077,Text:"Must kuld"},{
+Key:1005078,Text:"Elektrikatkestus"},{
+Key:1005079,Text:"Terav"},{
+Key:1005080,Text:"Järsku rohkem"},{
+Key:1005081,Text:"Tähed"},{
+Key:1005082,Text:"Ookeanide klaas"},{
+Key:1005083,Text:"Asfaldi maailma"},{
+Key:1005084,Text:"Kohv"},{
+Key:1005085,Text:"Tolm, tähed"},{
+Key:1005086,Text:"Kustuta kõik stiilid, mis on allpool"},{
+Key:1005087,Text:"Säilitada avatud Galerii"},{
+Key:1005100,Text:"No animatsioon"},{
+Key:1005102,Text:"Sulata"},{
+Key:1005103,Text:"Valguse hajumine"},{
+Key:1005104,Text:"Vaata suuremat pilti"},{
+Key:1005105,Text:"Laienemine on valguse hajumine"},{
+Key:1005106,Text:"Skaneerimine"},{
+Key:1005107,Text:"Skaneeri paremal"},{
+Key:1005109,Text:"Vorm"},{
+Key:1005110,Text:"Täht"},{
+Key:1005118,Text:"Scan sätestatakse"},{
+Key:1005120,Text:"Skanni vasakule"},{
+Key:1005121,Text:"Skaneerimine ülespoole"},{
+Key:1005122,Text:"Paremal ülevalt skannimine"},{
+Key:1005123,Text:"Skanni ülevalt vasakult"},{
+Key:1005124,Text:"Skanni alt paremale"},{
+Key:1005125,Text:"Skanni alt vasakult"},{
+Key:1005126,Text:"Avasta"},{
+Key:1005127,Text:"Avasta alla"},{
+Key:1005128,Text:"Avasta õigus"},{
+Key:1005129,Text:"Avasta vasakule"},{
+Key:1005130,Text:"Avasta ülespoole"},{
+Key:1005131,Text:"Avasta üleval paremal"},{
+Key:1005132,Text:"Avasta üleval vasakul"},{
+Key:1005133,Text:"Avasta paremale alla"},{
+Key:1005134,Text:"Avasta alumises vasakus"},{
+Key:1005200,Text:"Slaidid"},{
+Key:1005201,Text:"Ei slaid"},{
+Key:1005209,Text:"Otsi sõnu:"},{
+Key:1005210,Text:"&Pealkiri ja lyrics"},{
+Key:1005211,Text:"&Pealkiri ja lyrics"},{
+Key:1005212,Text:"&Pealkiri"},{
+Key:1005213,Text:"&Autor ja helilooja"},{
+Key:1005214,Text:"&Teemad"},{
+Key:1005215,Text:"&Viited"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Autoriõigus"},{
+Key:1005218,Text:"&Viivisarve 1"},{
+Key:1005219,Text:"&Viivisarve 2"},{
+Key:1005220,Text:"&Viivisarve 3"},{
+Key:1005221,Text:"&Laulu Akordid"},{
+Key:1005223,Text:"Valikud"},{
+Key:1005224,Text:"VideoPsalm Valikud"},{
+Key:1005225,Text:"Kuvab dialoogiboksi Suvandid VideoPsalm."},{
+Key:1005226,Text:"Impordi"},{
+Key:1005228,Text:"Kuvab impordiviisardi raamatuid, Bibles, pilte ja videoid VideoPsalm online raamatukogu ja populaarsed formaadid."},{
+Key:1005230,Text:"Kustuta"},{
+Key:1005232,Text:"Laulmist, kollektsiooni või valitud Piibel eemaldada."},{
+Key:1005237,Text:"Fondi muutmine."},{
+Key:1005247,Text:"Pildid"},{
+Key:1005252,Text:"Redigeeri teatamise eelistused."},{
+Key:1005253,Text:"Sulgege see aken ja teave järgmine kord meeles pidada."},{
+Key:1005254,Text:"Sulgege see aken ja enam ei mäleta seda teavet."},{
+Key:1005255,Text:"Sõna või fraasi otsida, nt: leib veini"},{
+Key:1005256,Text:"Valige Salme oma viitega"},{
+Key:1005257,Text:"Salmid, mis sisaldavad teatud märksõnu või fraasi otsimine"},{
+Key:1005258,Text:"Kustuta märksõna või fraas otsingusse (ESC)"},{
+Key:1005259,Text:"Otsi salmid, mis sisaldavad teatud märksõnu.
+
+Näiteks:
+
+-Väljend <b>\"Jumala lapsed\"</b>sisaldavaid värsse leidmiseks tippige mõned sõnad nagu <b>\"lapse Jumal\"</b>.
+
+-Salm, mis sisaldab lause <b>ta võttis tassi</b>leidmiseks tippige nende jaemüügikettide sõnadega: <b>«ilpritlacoupe»</b>.
+
+Ärge muretsege aktsendid või kirjavahemärke või väiksed/suured.
+
+Pole vaja tippida sõna või järjekorras.
+
+Teise salmi vähendada leitud Salme nimekiri sõnu lisada.
+
+Vajutage <b>lisamiseks</b> klõpsake nuppu Lisa salm leidnud ja valinud päevakorda."},{
+Key:1005260,Text:"Ole leitud salm."},{
+Key:1005268,Text:"Selles režiimis VideoPsalm automaatselt lisab sulgudes [] sisestatava teksti ümber.
+Näiteks lisada c kõõlu, «Ei» ja VideoPsalm lisab \"[ei]."},{
+Key:1005269,Text:"Fondi suurus"},{
+Key:1005270,Text:"Muudab fondi suurust protsentides kõrgusega ekraani."},{
+Key:1005271,Text:"&Salvesta kui..."},{
+Key:1005277,Text:"Salvesta"},{
+Key:1005278,Text:"Salvestab raamatuid, Bibles ja nende laadide tehtud muudatusi."},{
+Key:1005279,Text:"Salvestab muutused, mis sa kogud ja stiile.
+
+<b>Tähelepanu:</b> On Bibles tehtavad muutused ei salvestata (teksti ja laadid). Nende muudatuste salvestamiseks võimaldavad vastava suvandi VideoPsalm valikuid."},{
+Key:1005283,Text:"Pikkus:"},{
+Key:1005284,Text:"MS:"},{
+Key:1005285,Text:"Elemendi"},{
+Key:1005286,Text:"Keha"},{
+Key:1005287,Text:"Kere kontseptsioon"},{
+Key:1005288,Text:"Võimaldab redigeerida organi Style."},{
+Key:1005289,Text:"Päis"},{
+Key:1005290,Text:"Päise stiil"},{
+Key:1005291,Text:"Võimaldab redigeerida päise stiil."},{
+Key:1005292,Text:"Suu"},{
+Key:1005293,Text:"Laadi suu"},{
+Key:1005294,Text:"Võimaldab redigeerida stiilis jalg."},{
+Key:1005295,Text:"Kokkulepped"},{
+Key:1005296,Text:"Laadi kokkulepete"},{
+Key:1005297,Text:"Võimaldab redigeerida stiilis kokkulepped."},{
+Key:1005308,Text:"Raamat"},{
+Key:1005313,Text:"Tase ja stiil"},{
+Key:1005314,Text:"Seada tasemele, kus oma laadi muudatused hakkavad kehtima.
+
+Salm on kõrgeim stiili, siis lihtsalt laulmine, kogumine, kogud ja alus.
+
+Samamoodi salm on kõrgeim stiil, siis on peatükk, raamat, kui testamendi, Piibel, Bibles ja baasi jälle.
+
+Juure hierarhia on baasi oma stiili kehtib kõigile slaididele.
+
+Kõrgema taseme saate alistada madalama taseme atribuudi määratletud laadi."},{
+Key:1005315,Text:"<b></b>See mehhanism võimaldab teil muuta nii üldise või üksikute slaidide stiili.
+
+<b>Näide</b>
+Kui määrate tausta laul, kuvatakse kõik salmid seda laulu taustaga, välja arvatud kõik salmid, mille olete määranud konkreetse tausta."},{
+Key:1005318,Text:"Slaidi"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoint esitlused"},{
+Key:1005322,Text:"Videod"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Teksti värvid"},{
+Key:1005329,Text:"Lähtestamine"},{
+Key:1005330,Text:"Kustutab valitud tasandil stiil"},{
+Key:1005331,Text:"Saate kustutada kõik valitud tasandil stiilis atribuudid.
+Slaidi ilma stiilis pärib automaatselt madalama taseme stiilis.
+
+Näiteks:
+-Üks stroof on stiil, Candara fondiga.
+-Laulmine, vahepeal on font Segoe UI stiil.
+
+Kui kustutatav stiilis salm, kuvatakse see stiil madalamal tasemel. Meie näites on Segoe UI font.
+
+<b>Rippmenüü \"kustutada kõik eespool stiilid»</b>
+Saate kustutada valitud tasandil stiili ja kõik suuremad stiile.
+
+Näiteks kui stiilis \"Kood\" tase on märgitud, kustutatakse stiilis kollektsiooni ka kõik laulud kogumise ja nende Stanza stiile."},{
+Key:1005332,Text:"See nupp on helestatud tase on mingit oma stiili."},{
+Key:1005333,Text:"&Kustuta kõik eespool stiilid"},{
+Key:1005337,Text:"&Parimaks"},{
+Key:1005338,Text:"&Keskmise"},{
+Key:1005339,Text:"&Alt"},{
+Key:1005340,Text:"Püsige selles stiilis tase"},{
+Key:1005341,Text:"Püsige laadi praegune tase"},{
+Key:1005342,Text:"Jääb praegusel tasemel Style slide muutmisel.
+
+Seega:
+<b>1.</b> Kui kuvate salm laulu, VideoPsalm, positsioonide stiilis \"stroof\" tase.
+<b>2.</b> Muuta laulustiil salm, valige stiilis \"laul.\"
+<b>3.</b> Peatada laulud stiili vormingu, vajutage rõhknaela.
+<b>4.</b> Kui te vahetate ühe stroof järgmisele, stiil püsib \"laulu.\""},{
+Key:1005343,Text:"Teksti täitmine"},{
+Key:1005345,Text:"Teksti täita lausvärvi, gradient, pildi või tekstuuri."},{
+Key:1005346,Text:"Teksti värvi"},{
+Key:1005347,Text:"Teksti kontuur"},{
+Key:1005349,Text:"Saate määrata värvi, laiuse ja rea teksti laadi kontuurid."},{
+Key:1005350,Text:"Teksti värvi"},{
+Key:1005352,Text:"Tekst mõju"},{
+Key:1005354,Text:"Rakendada visuaalseid efekte, teksti, vari, valgus, peegeldus või 3-d rotatsiooni korras."},{
+Key:1005356,Text:"Teksti varju"},{
+Key:1005357,Text:"Tausta värv"},{
+Key:1005359,Text:"&Uus laul"},{
+Key:1005360,Text:"&Uus kollektsioon"},{
+Key:1005361,Text:"&Kustuta kõik"},{
+Key:1005362,Text:"
+
+<b>Osaline kilp</b>
+Agenda algatamisel säilitatakse teie raamatuid ja Bibles <b>tekstid</b> .
+Raamatud ja Bibles rakendatakse laadid kalender."},{
+Key:1005363,Text:"
+
+<b>Osaline kilp</b>
+Agenda algatamisel säilitatakse teie raamatuid ja Bibles <b>stiile</b> .
+Päevakorra tekst seotakse teie raamatuid ja Bibles."},{
+Key:1005364,Text:"
+
+<b>Täis kilp</b>
+Agenda algatamisel säilitatakse <b>tekstid</b> ja <b>stiile</b> oma raamatuid ja Bibles.
+Need päevakorda ei rakendata.
+
+<i>See on strateegia kui see PC dokumendid on viiteks.</i>"},{
+Key:1005365,Text:"
+
+<b>Ei ole kilp</b>
+Päevakorra, <b>tekstid</b> ja kalendri <b>Laadid</b> avamine seotakse teie raamatuid ja Bibles ja asendada oma tekstid ja stiile.
+
+<i>See on strateegia, et kui teie viitedokumendid on need päevakorra loomise PC.</i>"},{
+Key:1005366,Text:"\"Vaataja\" mode \"Edit\" või vastupidi muuta, klõpsake nuppu pliiats."},{
+Key:1005369,Text:"Sordi tiitli järgi"},{
+Key:1005370,Text:"Numbri järgi"},{
+Key:1005371,Text:"Umbes..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simuleerib videoprojektsioon
+kell 4:3.2 aspekt ekraanil"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simuleerib videoprojektsioon
+ekraani aspekt 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simuleerib videoprojektsioon
+kell 4:3 aspekti ekraanil"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simuleerib videoprojektsioon
+ekraani aspekt 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simuleerib videoprojektsioon
+ekraani aspekt 16:8"},{
+Key:1005387,Text:"Praegune"},{
+Key:1005388,Text:"Kasutab kogu ekraani pind"},{
+Key:1005389,Text:"Osa 4:3"},{
+Key:1005390,Text:"Kas Re Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Lepingute sisestamise režiimis"},{
+Key:1005398,Text:"Lepingute üle laulusõnade kuvamine"},{
+Key:1005400,Text:"Reguleerida ka akna välimus"},{
+Key:1005401,Text:"&Lisa kalendrisse"},{
+Key:1005402,Text:"&Kustuta (delete)"},{
+Key:1005403,Text:"&Kood kaasata otsingusse"},{
+Key:1005404,Text:"&Jätta kogumine teadus"},{
+Key:1005405,Text:"&Kõik kollektsioonid kaasata otsingusse"},{
+Key:1005407,Text:"&Peida välistatud uuringute kogud"},{
+Key:1005408,Text:"&Kuva välistada uuringute kogud"},{
+Key:1005409,Text:"&Kuva suuruse muutmise ristkülik"},{
+Key:1005410,Text:"Sellel väljal kuvatakse ristkülik suuruse muutmine"},{
+Key:1005411,Text:"Võimaldab teil resize raam (kehateksti, päise või jaluse) valitud.
+
+Paneeli suurust saab muuta hiirega eelvaatluse alal.
+
+<b>Kuidas raami suurust</b>
+
+1. Valige raami suuruse muutmine:
+-keha
+-päis,
+- või suu.
+
+2. Valige soovitud laad taset, näiteks \"Bibles\".
+
+3. Vajutage sundida VideoPsalm viga ekraan slaidide stiilis \"Bibles\".
+Tõepoolest, kui viga ei vajutata, VideoPsalm lülitub automaatselt \"Salm\" stiilis niipea, kui kuvate salm.
+
+4 Kuvada salm. Eelvaade kuvatakse raami külge, kasutades stiilis \"Bibles\".
+
+5 Muuta suurust ja asukohta hiire abil raami.
+
+6. Eemalda viga, kui sa uuesti kuvatakse slaidi \"Salm\" stiilis VideoPsalm naasta."},{
+Key:1005412,Text:"&Koopia on kokkuvõte seadustiku lõikelauale"},{
+Key:1005417,Text:"Teksti"},{
+Key:1005418,Text:"Laadi Explorer"},{
+Key:1005419,Text:"Kuvab või peidab Exploreri stiilis.
+Selles aknas saate liikuda tasandite hierarhiline stiile, üksikute atribuutide lähtestamiseks ja neid redigeerida."},{
+Key:1005420,Text:"Stiilid"},{
+Key:1005421,Text:"Politsei"},{
+Key:1005424,Text:"Taust"},{
+Key:1005425,Text:"Stiilid"},{
+Key:1005429,Text:"Aspekt"},{
+Key:1005430,Text:"Väljaanne"},{
+Key:1005432,Text:"Välimus"},{
+Key:1005433,Text:"Tööriistad"},{
+Key:1005442,Text:"Jätkake järgmise üksuse."},{
+Key:1005443,Text:"Enne magamaminekut väljalülitamine"},{
+Key:1005444,Text:"Teksti eemaldamiseks siis jälgi"},{
+Key:1005445,Text:"Teksti eemaldamiseks ja seejärel lülitage"},{
+Key:1005446,Text:"Kuva koos järgmise elemendi (kakskeelne)"},{
+Key:1005447,Text:"Lisada laul või salmid valitud tegevuskava (Insert või Alt + A)"},{
+Key:1005448,Text:"Vajuta siia, et lisada päevakorda laul või salmid.
+
+Teise võimalusena saate lohistage ja kukutage see nupp koht, mis peaks olema kalender."},{
+Key:1005449,Text:"&Lisada"},{
+Key:1005454,Text:"Valige Valikud, et otsida laule võtmesõnadeks"},{
+Key:1005455,Text:"Kustuta sõna või number otsing (ESC)"},{
+Key:1005457,Text:"Otsi laul (Ctrl + F)"},{
+Key:1005458,Text:"Otsi laule, mis sisaldavad teatud sõna või number.
+
+Näiteks:
+
+-Laul nr 250 leidmiseks tippige «250»
+
+-Laul, mis sisaldab laulusõnad leidmiseks <b>\"nagu majakas öö\"</b>, tippige mõned sõnad nagu <b>\"kerge öö\"</b>.
+
+Ärge muretsege aktsendid või kirjavahemärke.
+
+Ei ole vaja võtta sõna tervikuna või järjekorras.
+
+Teiste sõnadega laulu vähendamiseks leitud laulud nimekirja lisada.
+
+Klõpsake nuppu <b>Lisa</b> lisada päevakorda leitud esimese laulu."},{
+Key:1005459,Text:"Ei ole Piiblis.
+Impordiviisardi käivitamiseks klõpsake siin
+Bibles ja lisada Bibles populaarne allikatest."},{
+Key:1005463,Text:"Kustuta viide kuvada (ESC)"},{
+Key:1005464,Text:"Valige, nt viide: Roomlastele 3:23-25, 30"},{
+Key:1005465,Text:"Valige salmid (Ctrl + F)"},{
+Key:1005472,Text:"&Pilt:"},{
+Key:1005475,Text:"&See kollektsioon kaasata otsingusse laule"},{
+Key:1005479,Text:"&Nimi:"},{
+Key:1005481,Text:"&Lühend:"},{
+Key:1005483,Text:"&Autor:"},{
+Key:1005485,Text:"&Copyright:"},{
+Key:1005487,Text:"&Dokument:"},{
+Key:1005491,Text:"&Prindi selle capo"},{
+Key:1005497,Text:"&Laulusõnad"},{
+Key:1005499,Text:"&Kood:"},{
+Key:1005501,Text:"&Pealkiri:"},{
+Key:1005505,Text:"&Viide:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Autor:"},{
+Key:1005511,Text:"&Helilooja:"},{
+Key:1005513,Text:"&Erinevate"},{
+Key:1005515,Text:"&Toon:"},{
+Key:1005517,Text:"&Formaat:"},{
+Key:1005519,Text:"&Teema:"},{
+Key:1005521,Text:"&Järjestus:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Võti:"},{
+Key:1005527,Text:"&Pseudonüüm:"},{
+Key:1005529,Text:"&Peamine liin:"},{
+Key:1005531,Text:"&Viivisarve 1:"},{
+Key:1005533,Text:"&Viivisarve 2:"},{
+Key:1005535,Text:"&Viivisarve 3:"},{
+Key:1005537,Text:"&Allkiri:"},{
+Key:1005540,Text:"&Direktiivi ülevõtmine:"},{
+Key:1005541,Text:"Saate printida selle capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Laulu lepingute rakendamiseks."},{
+Key:1005555,Text:"&Pilt:"},{
+Key:1005560,Text:"&Copyright:"},{
+Key:1005562,Text:"&Lühend:"},{
+Key:1005564,Text:"&Nimi:"},{
+Key:1005566,Text:"&Kirjeldus:"},{
+Key:1005568,Text:"&Sissejuhatus:"},{
+Key:1005570,Text:"&Dokument:"},{
+Key:1005576,Text:"&Nimi:"},{
+Key:1005582,Text:"&Nimi:"},{
+Key:1005584,Text:"&Sissejuhatus:"},{
+Key:1005586,Text:"&Lühend:"},{
+Key:1005587,Text:"Peatükk Piibel"},{
+Key:1005590,Text:"Piibel salm"},{
+Key:1005595,Text:"&Salm:"},{
+Key:1005603,Text:"&Pilt:"},{
+Key:1005606,Text:"Pole valikut"},{
+Key:1005608,Text:"Stiil"},{
+Key:1005612,Text:"Eemaldab selle vara väärtuse"},{
+Key:1005613,Text:"Kui atribuudi väärtuse kustutamiseks kasutab VideoPsalm madalamatel tasemetel leitud esimene väärtus.
+
+Näiteks, kui eemaldate politsei tasandil salm, VideoPsalm kasutab, ja kui see on seatud, font:
+-laulmine,
+-muul viisil kogumine,
+-Kui üks,
+-muidu baasi.
+
+VideoPsalm on sama Bibles, pildid jne."},{
+Key:1005615,Text:"Ükski"},{
+Key:1005616,Text:"Alus"},{
+Key:1005618,Text:"Kollektsioonid"},{
+Key:1005619,Text:"Kogumine"},{
+Key:1005620,Text:"Vokaal"},{
+Key:1005621,Text:"Stroof"},{
+Key:1005622,Text:"Bibles"},{
+Key:1005623,Text:"Piibel"},{
+Key:1005624,Text:"Testamendi"},{
+Key:1005625,Text:"Piibli raamat"},{
+Key:1005626,Text:"Peatükk"},{
+Key:1005627,Text:"Salm"},{
+Key:1005628,Text:"Vaikeväärtus"},{
+Key:1005629,Text:"Tekstis väärtus"},{
+Key:1005630,Text:"Vasakule"},{
+Key:1005631,Text:"Keskele"},{
+Key:1005632,Text:"Õigus"},{
+Key:1005633,Text:"Põhjendatud"},{
+Key:1005634,Text:"Parimaks"},{
+Key:1005635,Text:"Keskmise"},{
+Key:1005636,Text:"Alt"},{
+Key:1005650,Text:"&Kalendri avamine..."},{
+Key:1005651,Text:"&Lisada kalendreid..."},{
+Key:1005652,Text:"&Lisa slaidišõu pilte..."},{
+Key:1005653,Text:"&Lisa autonoomse video..."},{
+Key:1005654,Text:"&Lisa mõned PowerPoint esitlused..."},{
+Key:1005655,Text:"Kui ma avatud kalender:"},{
+Key:1005656,Text:"&Säilita minu raamatuid ja Bibles tekstid"},{
+Key:1005657,Text:"&Säilita minu raamatuid ja Bibles stiilid"},{
+Key:1005667,Text:"&Kollektsioonid"},{
+Key:1005668,Text:"Kuvab kogud (Alt + R)"},{
+Key:1005670,Text:"&Bibles"},{
+Key:1005671,Text:"Kuvab Bibles (Alt + B)"},{
+Key:1005677,Text:"&Laius:"},{
+Key:1005680,Text:"&Hδgu:"},{
+Key:1005681,Text:"&Sügavus:"},{
+Key:1005682,Text:"&Suund:"},{
+Key:1005686,Text:"Sellel väljal kuvatakse tühi ekraan, musta värvi.
+Simuleerib projektor väljasuremine."},{
+Key:1005687,Text:"Järgmine"},{
+Key:1005688,Text:"Edasi järgmisele slaidile."},{
+Key:1005689,Text:"Lülita ekraan (Ctrl + W)"},{
+Key:1005690,Text:"Kuvatav tekst (Ctrl + T)"},{
+Key:1005691,Text:"Kuvab või peidab teksti slaidil."},{
+Key:1005692,Text:"Kilp (Ctrl + B)"},{
+Key:1005693,Text:"Säilitab videoprojektsioon slaidid on laul.
+
+Töö kava või otsige laulu või salm videoprojektsioon laulmise ajal.
+
+Alistada kilp, topeltklõpsake üksust päevakorda."},{
+Key:1005694,Text:"Külmutada"},{
+Key:1005695,Text:"Külmub ilma külmutamine eelvaade video projektsioon ekraani.
+
+Et vaadata esitluse ajal on videoprojektsioon."},{
+Key:1005696,Text:"Projekt (Ctrl + P)"},{
+Key:1005697,Text:"Prognoositud slaidide projektor."},{
+Key:1005698,Text:"Režiimis \"Edition\" (Ctrl + E)"},{
+Key:1005699,Text:"Aktiveerib \"Vaataja\" režiimi \"Edit\" või vastupidi."},{
+Key:1005702,Text:"Kalender või dokumendi avamine"},{
+Key:1005703,Text:"Avaneb kalender, või lisada PowerPointi esitluse, piltide slideshow, videod jne."},{
+Key:1005704,Text:"Salvesta kalender"},{
+Key:1005705,Text:"Kustuta"},{
+Key:1005706,Text:"Eemaldab valitud üksused ja tegevuskava (Kustuta)."},{
+Key:1005707,Text:"Mount (Ctrl + Page up)"},{
+Key:1005708,Text:"Monte elemendi päevakorra algusesse."},{
+Key:1005709,Text:"Alla (Ctrl + Page down)"},{
+Key:1005710,Text:"Alla elemendi päevakorra lõpu poole."},{
+Key:1005711,Text:"Heledus"},{
+Key:1005712,Text:"Kalendri avamine"},{
+Key:1005713,Text:"Säästab päevakorra ketta või USB-võti."},{
+Key:1005721,Text:"Nende põhjal valib salmid.
+<i>Näide: Roomlastele 3:23-25, 30</i>
+
+Sisestage aktsendid raamatute nimed.
+<i>Näide: n<b>e</b>h<b>e</b>mie \"asemel\" N<b>é</b>h<b>é</b>mie \".</i>
+
+Saate sisestada, kas on <b>': \"</b>, <b>\". \"</b> või <b>\"v\"</b> eraldi peatükid salmid.
+
+Vajutage <b>\"Lisa\"</b> lisada päevakorda valitud värsse."},{
+Key:1005722,Text:"Märkused (ei selgita, lahkuda inglise keeles)"},{
+Key:1005723,Text:"Faili ei saa kirjutada
+{0} :
+{1}"},{
+Key:1005724,Text:"Tõrge"},{
+Key:1005725,Text:"Ei saa lugeda faili
+{0} :
+{1}"},{
+Key:1005730,Text:"Kas kindlasti eemaldada slaidišõu pilte stiili?
+Slaidiseansi piltide stiili võtab standard väärtust."},{
+Key:1005731,Text:"Olete kindel, et soovite eemaldada baasi laadiga?
+Baasi laadiga võtab kindel väärtus."},{
+Key:1005732,Text:"Olete kindel, et soovite eemaldada stiilis kogud?
+Kogude stiilis võtab kindel väärtus."},{
+Key:1005733,Text:"Olete kindel, et soovite eemaldada stiilis Bibles?
+On Bibles stiilis võtab kindel väärtus."},{
+Key:1005734,Text:"Olete kindel, et soovite kustutada selle stiili?
+VideoPsalm kohaldatakse leitud hierarhia madalama laadi atribuute."},{
+Key:1005735,Text:"Selge, stiil"},{
+Key:1005736,Text:"Kas kindlasti eemaldada stiilis videosid?
+Laadi videod võtab standard väärtust."},{
+Key:1005737,Text:"Kogumik"},{
+Key:1005738,Text:"Kogumine"},{
+Key:1005739,Text:"Piibel"},{
+Key:1005740,Text:"Ei ole Piibli"},{
+Key:1005743,Text:"Suurenda fonti (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Suurendab fondisuurust."},{
+Key:1005745,Text:"Vähendab fonti (Ctrl + Shift +)"},{
+Key:1005746,Text:"Vähendab fonti suurust."},{
+Key:1005747,Text:"Paksud (Ctrl + B)"},{
+Key:1005748,Text:"Pane valitud teksti paksuks."},{
+Key:1005749,Text:"Kursiivi (Ctrl + I)"},{
+Key:1005750,Text:"Pane valitud teksti kursiivi."},{
+Key:1005751,Text:"Märkis (Ctrl + U)"},{
+Key:1005752,Text:"Valitud teksti allakriipsutamine."},{
+Key:1005753,Text:"Baar"},{
+Key:1005754,Text:"Tõmbab keset valitud teksti."},{
+Key:1005755,Text:"Kuva / peida ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Kuvab lõigumärgid ja muud peidetud sümbolid."},{
+Key:1005757,Text:"Fondi värv"},{
+Key:1005758,Text:"Muuta teksti värvi."},{
+Key:1005759,Text:"Teksti värvi"},{
+Key:1005760,Text:"Annab tekstile värvi."},{
+Key:1005761,Text:"Eemalda vorming (Ctrl + tühik)"},{
+Key:1005762,Text:"Täiesti kustutab valiku vorminduse ja säilitab ainult lihtteksti."},{
+Key:1005763,Text:"Võta tagasi (Ctrl + Z)"},{
+Key:1005764,Text:"Tühistab viimase toimingu."},{
+Key:1005765,Text:"Tee uuesti (Ctrl + Y)"},{
+Key:1005766,Text:"Viimane toiming tehakse uuesti."},{
+Key:1005767,Text:"Cut (Ctrl + X)"},{
+Key:1005768,Text:"Valiku lõikamine ja lõikelauale lisada."},{
+Key:1005769,Text:"Kopeeri (Ctrl + C)"},{
+Key:1005770,Text:"Kopeerib valiku ja paigutab selle lõikelauale."},{
+Key:1005771,Text:"Paste (Ctrl + V)"},{
+Key:1005772,Text:"Kleebib lõikelaua sisu."},{
+Key:1005773,Text:"Otsingu (Ctrl + F)"},{
+Key:1005774,Text:"Saate dokumendis teksti otsida."},{
+Key:1005775,Text:"Asendada (Ctrl + H)"},{
+Key:1005776,Text:"Asendab teksti dokumendis."},{
+Key:1005777,Text:"Suuremalt"},{
+Key:1005778,Text:"Näita kõiki"},{
+Key:1005779,Text:"Konkreetse salm redigeerimiseks klõpsake selle slaidi."},{
+Key:1005780,Text:"Valik Salme"},{
+Key:1005781,Text:"Sordib valib oma pealkiri laulude kogumik."},{
+Key:1005782,Text:"Suleb praeguse tegevuskava (ja küsib teie kinnitust, kui on salvestamata muutusi)."},{
+Key:1005783,Text:"Korrigeerib pildi või video tausta heledus.
+
+Lubab teksti esiletõstmise isegi barriole fooniga."},{
+Key:1005784,Text:"&Kopeeri kirjeldus on tegevuskava"},{
+Key:1005785,Text:"&Sisaldavad laulud lyrics"},{
+Key:1005786,Text:"&Sisaldavad Piibli salmid"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Avab VideoPsalm facebook lehel.
+
+Andke teada VideoPsalm ringi:
+-klikkides nupul \"mulle meeldib\"
+-Saades oma sõbrale.
+
+<b>Märkus:</b> Facebook reklaame kõrvaldamiseks paigaldada tasuta plugin <b>Adblock Plus</b>.
+
+VideoPsalm sotsiaalse ikoonide peitmine keelata nende \"Seaded\" → \"Général\" sakk."},{
+Key:1005791,Text:"Avab VideoPsalm Twitter leht olla kursis uute artiklite blogisid.
+
+VideoPsalm sotsiaalse ikoonide peitmine keelata nende \"Seaded\" → \"Général\" sakk."},{
+Key:1005792,Text:"Avab VideoPsalm YouTube lehele, kust leiad video tutorials VideoPsalm kasutamise kohta.
+
+VideoPsalm sotsiaalse ikoonide peitmine keelata nende \"Seaded\" → \"Général\" sakk."},{
+Key:1005793,Text:"Lisab uue tühja laul (või reklaami) valitud kollektsioon."},{
+Key:1005794,Text:"Lisab uue tühi kogum."},{
+Key:1005795,Text:"Sordib valitud arv kogumise laulud."},{
+Key:1005800,Text:"Stroof"},{
+Key:1005801,Text:"Koori"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Sild"},{
+Key:1005804,Text:"Silt"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Väljund"},{
+Key:1005807,Text:"Libisemine"},{
+Key:1005808,Text:"Instrumentaalmuusika"},{
+Key:1005809,Text:"Muud"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"MA"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Sulgege"},{
+Key:1005851,Text:"&Keel:"},{
+Key:1005852,Text:"&Kirjastaja:"},{
+Key:1005853,Text:"Kõik"},{
+Key:1005859,Text:"Üle võtta laulu lepingud sõltuvalt on capodiastre positsioon."},{
+Key:1005860,Text:"Leia laulud pealkiri (või alias) või sõnu sisaldavad tipitud sõna.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005861,Text:"Teostab otsingu kahes etapis, et ära kiireks kuvamiseks lühike loetelu laulud:
+
+1 Leia esimese aja laule, sealhulgas pealkiri (või alias) sisaldab sõnu, mida sisestate.
+
+Et lisada sõnad, seal tuleb aeg, kui enamik iga laulu saab kokku leppida.
+
+2. Alates sellest hetkest, VideoPsalm otsib sõnu laulud lyrics.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005862,Text:"Leida laule sisestada laulukirjutajate.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005863,Text:"Leida laule, mis käsitlevad teemad, mida sisestada.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005864,Text:"Leia laulud inspireeritud Piibli viiteid, et sisestate.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005865,Text:"On laul, mis on sisestatud CCLI.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005866,Text:"Leida laule, mille autoriõigus sisaldab sõnu, mida sisestate.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005867,Text:"Leida laule, mille viivisarve 1 sisaldab sõnu, mida sisestate.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005868,Text:"Leida laule, mille viivisarve 2 sisaldab sõnu, mida sisestate.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005869,Text:"Leia laulud 3 viivisarve sisaldavad sõna sisestada.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005870,Text:"Leida laule, mille nimi või pseudonüüm sisaldab sõnu, mida sisestate.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005871,Text:"Leida laule, mille lepingud on lyrics.
+
+Teise võimalusena saate otsida laulu järgi."},{
+Key:1005872,Text:"&Versioon:"},{
+Key:1005873,Text:"&Versioon:"},{
+Key:1005874,Text:"Teie versioon kogumise kuupäev"},{
+Key:1005875,Text:"Näitab, kuupäev, mil see kogumine uuendati poolt VideoPsalm viimast korda.
+
+Kaudu VideoPsalm online Raamatukogu impordi viisard, saate vaadata, kui seal on uuem versioon See käsiraamat.
+
+Mõnikord värskendab VideoPsalm võrgus mõned kollektsioonid, mis näiteks mingeid kirjavigu parandada."},{
+Key:1005876,Text:"Piibel oma versiooni kuupäev"},{
+Key:1005877,Text:"Näitab kuupäeva, mil see Piibel on värskendanud VideoPsalm viimast korda.
+
+Kaudu VideoPsalm online Raamatukogu impordiviisardi, saate kontrollida, kui seal on uuem versioon see tõlge.
+
+VideoPsalm online uuendused mõnikord mõned piibleid, mis näiteks mingeid kirjavigu parandada."},{
+Key:1005878,Text:"Tihendatud"},{
+Key:1005879,Text:"Tihendatud"},{
+Key:1005880,Text:"VideoPsalm saab tihendada oma kogud ja oma Bibles, nii et säästa kettaruumi.
+
+Raamatud ja Piiblites, mis sa alla laadida kaudu impordi viisard on tavaliselt tihendatud, selleks, et kiirendada allalaadimist ja vähendada Interneti liiklust veebilehel VideoPsalm."},{
+Key:1005881,Text:"&Tihendatud"},{
+Key:1005882,Text:"&Tihendatud"},{
+Key:1005884,Text:"Kas soovite tõesti Piibel {0} kustutada?
+
+See Piibel vastava faili ei kustutata ketas:
+selle laiendamist saab ümber nimetada \".ignore."},{
+Key:1005885,Text:"Kustuta Piibel"},{
+Key:1005886,Text:"Palun oodake palun"},{
+Key:1005887,Text:"Laadimine on pooleli..."},{
+Key:1005888,Text:"Vana Testamendi"},{
+Key:1005889,Text:"Uus Testament"},{
+Key:1005890,Text:"Praegune kirje..."},{
+Key:1005891,Text:"&Impordi pildid"},{
+Key:1005892,Text:"Valige pildid, mida soovite importida ja seejärel nupul \"Ava\"."},{
+Key:1005893,Text:"Olete importinud {0} raam (s)."},{
+Key:1005894,Text:"Ühtegi pilti pole imporditud.
+((S) ta on leitud (s) galeriis)."},{
+Key:1005895,Text:"&Pisipiltide taasloomine"},{
+Key:1005896,Text:"Pisipiltide taasloomine"},{
+Key:1005897,Text:"Kas soovite taastada pisipiltide?
+
+See võib olla vaja uuesti piltide pisipilte
+Kui olete teinud muudatusi väljaspool VideoPsalm."},{
+Key:1005898,Text:"&Kustuta pilt"},{
+Key:1005899,Text:"Eemalda pilt"},{
+Key:1005900,Text:"Kas soovite pildi {0} kustutada?"},{
+Key:1005901,Text:"&Uurida piltide kausta"},{
+Key:1005902,Text:"&Kustutage valitud pilt"},{
+Key:1005903,Text:"&Videote importimine"},{
+Key:1005904,Text:"Valige videod, mida soovite importida ja seejärel nupul \"Ava\"."},{
+Key:1005905,Text:"Olete importinud {0} videot (s)."},{
+Key:1005906,Text:"No video on imporditud.
+((S) ta on leitud (s) galeriis)."},{
+Key:1005907,Text:"&Pisipiltide taasloomine"},{
+Key:1005908,Text:"&Video kustutamine"},{
+Key:1005909,Text:"Video kustutamine"},{
+Key:1005910,Text:"Kas soovite video {0} kustutada?"},{
+Key:1005911,Text:"&Uurida videod kausta"},{
+Key:1005912,Text:"&Kustuta valitud video"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Piltide importimine"},{
+Key:1005915,Text:"Videote importimine"},{
+Key:1005917,Text:"Kausta ei saa luua
+{0} :
+{1}"},{
+Key:1005918,Text:"Määratud kaust on ei toeta:
+{0}"},{
+Key:1005919,Text:"Kaust peab olema täidetud."},{
+Key:1005920,Text:"Kausta nimi ei tohi sisaldada järgmisi märke:
+{0}"},{
+Key:1005921,Text:"Raamatud ja Bibles taastamine"},{
+Key:1005922,Text:"Taastada kogud, Bibles, pildid või videod, nt varundist USB stick."},{
+Key:1005923,Text:"Sulgege"},{
+Key:1005930,Text:"&Koopia laulu"},{
+Key:1005931,Text:"&Liikuda laulu"},{
+Key:1005932,Text:"Kas soovite kindlasti laulu {0} kopeerimine.
+kollektsiooni {1}?"},{
+Key:1005933,Text:"Kas soovite kindlasti laulu {0} teisaldamine.
+kollektsiooni {1}?"},{
+Key:1005934,Text:"&Saate sisestada viited kaudu lühendid"},{
+Key:1005935,Text:"&Kuva nimi prantsuskeelsete raamatute"},{
+Key:1005936,Text:"(Koopia)"},{
+Key:1005937,Text:"Uus raamat on saadaval:
+{0}"},{
+Key:1005938,Text:"Uued kollektsioonid on saadaval: {0}"},{
+Key:1005939,Text:"Parandused on tehtud
+kollektsiooni {0}."},{
+Key:1005940,Text:"Parandused on tehtud
+koodid pärast: {0}"},{
+Key:1005941,Text:"Ava impordiviisard kogud"},{
+Key:1005942,Text:"Uus Piibel on kättesaadav:
+{0}"},{
+Key:1005943,Text:"Uus Bibles on saadaval: {0}"},{
+Key:1005944,Text:"Parandused on tehtud
+Piibel {0}."},{
+Key:1005945,Text:"Parandused on tehtud
+on Bibles ja järgmist: {0}"},{
+Key:1005946,Text:"Avage viisard Bibles importimisega"},{
+Key:1005947,Text:"VideoPsalm on äsja
+{0}"},{
+Key:1005948,Text:"VideoPsalm on äsja saadaval: {0}"},{
+Key:1005949,Text:"Parandused on tehtud
+Sildid {0}"},{
+Key:1005950,Text:"Parandused on tehtud
+pärast keeltes silte: {0}"},{
+Key:1005951,Text:"Avage sildiviisardi import"},{
+Key:1005952,Text:"Uuemat versiooni
+VideoPsalm on saadaval:"},{
+Key:1005953,Text:"Kuva Uudised"},{
+Key:1005954,Text:"Automaatne"},{
+Key:1005955,Text:"Tutvu valitud kausta"},{
+Key:1005956,Text:"Vali kaust"},{
+Key:1005957,Text:"Kuvab Viimatised failid"},{
+Key:1005958,Text:"Salvesta"},{
+Key:1005959,Text:"Võimaldab salvestada oma kogud, Bibles, pildid või videod, või kaasaskantav versioon VideoPsalm, näiteks kohta USB-stick."},{
+Key:1005960,Text:"&Taastada..."},{
+Key:1005961,Text:"VideoPsalm ei saa kuvada PowerPointi dokumendid.
+
+(Ei ole rakenduse PowerPoint avastati arvutis)."},{
+Key:1005962,Text:"Viga PowerPoint"},{
+Key:1005963,Text:"Tee {0} muudetav ja kollektsiooni {1}."},{
+Key:1005964,Text:"Tee {0} redigeerida kogumine..."},{
+Key:1005965,Text:"Tee {0} väärtus uue kollektsiooni {1}."},{
+Key:1005966,Text:"Piibli lõigud"},{
+Key:1005967,Text:"&Kohandatud Piibli lõigud"},{
+Key:1005968,Text:"&Kirjeldus:"},{
+Key:1005969,Text:"&Keel:"},{
+Key:1005970,Text:"&Kirjastaja:"},{
+Key:1005971,Text:"&Administraator:"},{
+Key:1005973,Text:"&Administraator:"},{
+Key:1005974,Text:"Teksti kohal"},{
+Key:1005975,Text:"Lepingute teksti kohal"},{
+Key:1005976,Text:"See on soovitatav režiim muuta lyrics.
+Teksti redigeerimisel liigub iga lepingu kirja, millele on kinnitatud.
+
+Millal te <b>kopeerida teksti sisaldavate lepingute</b>, kokkulepete kopeeritakse koos tekstiga, ChordPro vormingus.
+
+Lepingute ChordPro vormingus teksti kleepimisel VideoPsalm kuvab nende lepingute teksti kohal.
+
+<b>Lepingu lisamiseks</b>, sisesta dokk, ümber seda tähte vasakule sulgudega <b>[]</b>.
+
+<b>Kustutada kokkuleppele</b>, kuhu edasi saata kirja kustutamine ja tippige täht.
+
+<b>Lepingu muutmiseks</b>, kustutamiseks siis sisestage see õigesti või \" <b>Vorm ChordPro</b> \" režiimi kasutada."},{
+Key:1005977,Text:"ChordPro formaadis"},{
+Key:1005978,Text:"Lepingute kujul ChordPro"},{
+Key:1005979,Text:"Selles režiimis:
+
+-VideoPsalm kuvab lyrics ja sointuja <b>ChordPro formaadis</b>.
+
+-See on ideaalne režiimis redigeerida lepingute: VideoPsalm lisab automaatselt sulgudes [] ümber sisestatav tekst.
+Näiteks lisada c kõõlu, tippige «Ei» ja VideoPsalm, lisatakse \"[ma]\".
+
+Tähelepanu: See režiim ei sobi toimetamine lyrics, sest olenevalt olukorrast VideoPsalm ümbritseb konksud tähti.
+Pigem \"<b>teksti kohal</b>\" režiimi abil saate teksti redigeerida."},{
+Key:1005980,Text:"Kokkulepped"},{
+Key:1005981,Text:"Kopeeri"},{
+Key:1005982,Text:"Kopeerib kirjelduse kalender ja paigutab selle lõikelauale."},{
+Key:1005983,Text:"&Lubab PowerPointi kasutamine \"saatejuht\"."},{
+Key:1005984,Text:"Kui see ruut on märgitud, VideoPsalm lehed PowerPoint kuvada selle käsu kasutajaliides juhtida esitlust tõusta."},{
+Key:1005985,Text:"Sirvi kord"},{
+Key:1005986,Text:"Silmus"},{
+Key:1005987,Text:"Eelnevalt käsitsi"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Automaatne eelnevalt..."},{
+Key:1005990,Text:"&Eelnevalt käsitsi"},{
+Key:1005991,Text:"&Silmus"},{
+Key:1005992,Text:"&Sirvi kord"},{
+Key:1005993,Text:"&Intervall (sekundites):"},{
+Key:1005994,Text:"&Kaovad teksti ja seejärel lülitage"},{
+Key:1005995,Text:"&Jätkake järgmise elemendi"},{
+Key:1005996,Text:"&Enne magamaminekut väljalülitamine"},{
+Key:1005997,Text:"&Tekst kaob siis järgige"},{
+Key:1005998,Text:"&Kuvamine koos järgmise elemendi (kakskeelne)"},{
+Key:1005999,Text:"&Explorer"},{
+Key:1006000,Text:"Impordi viisard"},{
+Key:1006001,Text:"Tere tulemast impordi raamatuid, Bibles, piltide ja videote viisard"},{
+Key:1006002,Text:"See viisard lihtsustab importiva raamatuid, Bibles, pilte ja videoid Raamatukogu online VideoPsalm või juhendada teid läbi mitmeid samme populaarsed formaadid."},{
+Key:1006003,Text:"Jätkamiseks klõpsake nuppu Edasi"},{
+Key:1006004,Text:"&Vali..."},{
+Key:1006005,Text:"&Järgmine &gt;"},{
+Key:1006006,Text:"&&lt; Eelmise"},{
+Key:1006007,Text:"&Abi"},{
+Key:1006008,Text:"&Viimistlus"},{
+Key:1006009,Text:"&Hülgamine"},{
+Key:1006010,Text:"Saate importida raamatuid, Bibles, pildid või videod"},{
+Key:1006011,Text:"Valige, mida soovite importida"},{
+Key:1006012,Text:"Importimine kollektsiooni"},{
+Key:1006013,Text:"Impordi Piibel"},{
+Key:1006014,Text:"Impordi pildid"},{
+Key:1006015,Text:"Videote importimine"},{
+Key:1006016,Text:"Keele importimine"},{
+Key:1006020,Text:"&Lähtestamine"},{
+Key:1006021,Text:"Lähtestab kausta kindel väärtus"},{
+Key:1006023,Text:"Enne importimise Kokkuvõte"},{
+Key:1006024,Text:"Impordi käivitamiseks klõpsake nuppu Edasi"},{
+Key:1006025,Text:"Praegune impordi"},{
+Key:1006026,Text:"Importimine on lõpule viidud"},{
+Key:1006027,Text:"Viisardi sulgemiseks klõpsake nuppu valmis
+
+Klõpsake nuppu tagasi importida teise kollektsiooni või teise Piibel"},{
+Key:1006029,Text:"{0} Edukalt imporditud laulud on {1} kogud."},{
+Key:1006030,Text:"Olete uue kollektsiooni {1} {0} edukalt imporditud laule."},{
+Key:1006031,Text:"Olete importinud \"{0}\" Piibli edu."},{
+Key:1006032,Text:"Olete importinud {0} Bibles edu."},{
+Key:1006033,Text:"Edu keele {0} on imporditud."},{
+Key:1006034,Text:"{0} Keelt on edukalt imporditud."},{
+Key:1006035,Text:"Kas soovite impordi peatamiseks?"},{
+Key:1006036,Text:"Impordi ei õigesti lõpule viia."},{
+Key:1006037,Text:"Sisestage nimi uue kogumine VideoPsalm"},{
+Key:1006038,Text:"Uue kollektsiooni salvestatakse selle nime all. Seda nime saate hiljem muuta"},{
+Key:1006039,Text:"&Kollektsiooni nimi:"},{
+Key:1006040,Text:"Andke nimi see uus Piibli VideoPsalm"},{
+Key:1006041,Text:"Uusi Piibli salvestatakse selle nime all. Seda nime saate hiljem muuta"},{
+Key:1006042,Text:"&Piibel nimi:"},{
+Key:1006051,Text:"Valige kogumikud"},{
+Key:1006052,Text:"Valige Bibles"},{
+Key:1006053,Text:"Valige fail"},{
+Key:1006054,Text:"Valige kaust"},{
+Key:1006055,Text:"&Pilt:"},{
+Key:1006056,Text:"&Pilt:"},{
+Key:1006057,Text:"Vali keeled"},{
+Key:1006058,Text:"Kausta {0} pole olemas."},{
+Key:1006060,Text:"Kausta {0} ei pääse juurde.
+
+{1}"},{
+Key:1006061,Text:"Faili {0} pole olemas."},{
+Key:1006062,Text:"Tähelepanu: Paljud kollektsioonid laadimist saate täita PC mälu ja aeglane laule otsida.
+Kas tõesti alla te {0} kogud?"},{
+Key:1006063,Text:"Tähelepanu: Paljud Bibles laadimist saate täita PC mälu.
+Kas tõesti alla te {0} Bibles?"},{
+Key:1006064,Text:"Uus nimi ei saa olla tühi."},{
+Key:1006065,Text:"Uus nimi ei tohi sisaldada järgmisi märke: {0}"},{
+Key:1006066,Text:"Juba on kogumik nimega {0}."},{
+Key:1006067,Text:"Piibel nimega {0} on juba olemas."},{
+Key:1006068,Text:"Sa lõpetasid importida."},{
+Key:1006069,Text:"Kontrollige Interneti-ühendust."},{
+Key:1006070,Text:"Saadaval on {0}"},{
+Key:1006071,Text:"Uus versioon saadaval alates {0}"},{
+Key:1006072,Text:"Teie versioon pärineb aastast {0}"},{
+Key:1006073,Text:"Oma versiooni {0} on ajakohastatud."},{
+Key:1006074,Text:"Pealkiri"},{
+Key:1006075,Text:"Riik"},{
+Key:1006076,Text:"Pole alla laaditud"},{
+Key:1006077,Text:"Värskendamine"},{
+Key:1006078,Text:"Värskendus saadaval"},{
+Key:1006079,Text:"Uus"},{
+Key:1006080,Text:"Uus värskendus saadaval"},{
+Key:1006081,Text:"Kogumine on valitud.
+Peate valima vähemalt ühte kollektsiooni."},{
+Key:1006082,Text:"Ei Piiblis on valitud.
+Peate valima vähemalt ühe Piibli."},{
+Key:1006083,Text:"Keelt pole valitud.
+Valige vähemalt üks keel."},{
+Key:1006084,Text:"Kood"},{
+Key:1006085,Text:"Allikas failile: <b>{0}</b>"},{
+Key:1006086,Text:"Allikas kausta:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokumentide otsing"},{
+Key:1006090,Text:"Nimi uus Piibli VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Uue kollektsiooni kohta VideoPsalm nimi: <b>{0}</b>"},{
+Key:1006095,Text:"Raamatukogu VideoPsalm online, see juhtub, et mõni dokument on lisatud või värskendatud (nt õige kirjaviga).
+Vastavalt eespool nimetatud dokumentide riigi saate otsustada, kas neid alla laadida.
+
+<b>Siin on, kuidas teha vahet selle riigi dokumentide:</b>
+-Dokumente, mida te pole alla laadinud kuvatakse normaalvaates.
+-Dokumendid, mis te olete alla laadinud ja uuendatakse kuvatakse <i>kursiivis</i>. Need on märgistatud <image=check_16>OK.
+Sa pead uuesti - alla, välja arvatud juhul, kui soovite tühistada kõik muudatused on tehtud.
+-Dokumendid, et olete alla laadinud ja mis me vahepeal teinud parandusi VideoPsalm online Raamatukogu, kuvatakse <b>paksus kirjas</b>. Need märgistatakse pliiatsiga <image=pencil2_16>.
+
+Parempoolsele väljale tekst kirjeldab, millised parandused on tehtud dokumendile: see võib aidata teil otsustada, kui soovite uuesti - lae alla.
+
+<b>Tähelepanu:</b> Kui uuendate oma dokumenti uuesti uploading, kaotate kõik muudatused, mida olete teinud, samuti nagu selle laadi atribuute, sest VideoPsalm asendab teie Download.
+Teie fail on kustutatud, kuid: see ketas jääb aga muutub nähtamatu VideoPsalm, sest VideoPsalm nimetab oma .ignore laienemine.
+
+<b>Nõukogu</b> : ainult alla laadida dokumente, mis on kasulik.
+Tegelikult, kui teil on liiga palju dokumente, laadimise VideoPsalm muutub ehk aeglasem, nagu otsingu märksõna järgi.
+
+Pange tähele, et saate igal ajal eemaldada raamat või Piibli kohta oma VideoPsalm. Selleks kasutage nuppu \" <image=delete2_16>kustutada\" sakk 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&{0} Muudatuste ajaloo."},{
+Key:1006100,Text:"Raamatukogu VideoPsalm Internetis"},{
+Key:1006105,Text:"EasySlides laulud"},{
+Key:1006110,Text:"MediaShout laulud"},{
+Key:1006115,Text:"OpenLP laulud"},{
+Key:1006116,Text:"VerseView laulud"},{
+Key:1006120,Text:"Laulud formaadis \"OpenLyrics\"."},{
+Key:1006125,Text:"OpenSong laulud"},{
+Key:1006130,Text:"Kogum, Psalmo"},{
+Key:1006131,Text:"Kogumik-vormingus"},{
+Key:1006132,Text:"Laulud EasyWorship 2009"},{
+Key:1006133,Text:"Laulud formaadis \"ChordPro\"."},{
+Key:1006134,Text:"WebAsaph laulud"},{
+Key:1006135,Text:"Laulud formaadis \"CCLI."},{
+Key:1006140,Text:"Bibles: VideoPsalm Raamatukogu online"},{
+Key:1006145,Text:"Piibel Piibli andmebaas"},{
+Key:1006150,Text:"Piibel OpenLP"},{
+Key:1006155,Text:"Piibel OpenSong"},{
+Key:1006160,Text:"Sidumata Piibel ja Piibel"},{
+Key:1006165,Text:"Zefania Piibel"},{
+Key:1006166,Text:"Piibel EasySlides"},{
+Key:1006167,Text:"Piibel vormingus \"Osis\"."},{
+Key:1006168,Text:"Piibli raamatutes formaat «USFM» (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Valige VideoPsalm võrgus, mida soovite importida oma VideoPsalm Raamatukogu kogud"},{
+Key:1006185,Text:"Valige andmebaas, sisaldab laule, mida soovite importida oma VideoPsalm (MDB faililaiend) EasySlides"},{
+Key:1006190,Text:"Valige andmebaas, sisaldab laule, mida soovite importida oma VideoPsalm (MDB faililaiend) MediaShout"},{
+Key:1006195,Text:"Valige laulud, mida soovite importida oma VideoPsalm (laiend .sqlite faili) sisaldav OpenLP andmebaas"},{
+Key:1006196,Text:"Valige andmebaasi VerseView sisaldab laule soovite importida oma VideoPsalm (laiend .db fail)"},{
+Key:1006200,Text:"Valige kaust, mis sisaldab laule \"OpenLyrics\" formaadis soovite importida oma VideoPsalm (laiend .xml failid)"},{
+Key:1006205,Text:"Valige kaust, mis sisaldab OpenSong laule soovite importida oma VideoPsalm (faile ilma laiendita)"},{
+Key:1006210,Text:"Valida on eksporditud Psalmo kogumiku RTF formaadis soovite importida oma VideoPsalm (laiendamine .rtf faili)"},{
+Key:1006211,Text:"Valige saidikogum vormingus tekst, mida soovite importida oma VideoPsalm (konfiguratsioonifaili laiendit .txt)"},{
+Key:1006212,Text:"Valige andmebaas, EasyWorship 2009, mis sisaldab laule, mida soovite importida oma VideoPsalm (laiend .db fail)"},{
+Key:1006213,Text:"Valige kaust, mis sisaldab laule ChordPro vormingus soovite importida oma VideoPsalm (.chordpro, .chopro, .crd või .cho pikendamist failid)"},{
+Key:1006214,Text:"Valige laulud, mida soovite importida oma VideoPsalm (faili laiend .ltc) sisaldav WebAsaph andmebaas"},{
+Key:1006215,Text:"Valige kaust, mis sisaldab laule CCLI formaadis, importimiseks VideoPsalm (laiend .usr failid)"},{
+Key:1006220,Text:"Valige piiblid soovite importida oma VideoPsalm VideoPsalm online Raamatukogu"},{
+Key:1006225,Text:"Valige Piibel ja Piibel andmebaasi soovite importida oma VideoPsalm (konfiguratsioonifaili laiendit .txt)"},{
+Key:1006230,Text:"Valige Piibel, OpenLP, mida soovite importida oma VideoPsalm (laiend .sqlite fail)"},{
+Key:1006235,Text:"Valige Piibli OpenSong soovite importida oma VideoPsalm (faili ilma laiendita)"},{
+Key:1006240,Text:"Sidumata Piibel Piibli ja valige, mida soovite importida oma VideoPsalm (konfiguratsioonifaili laiendit .txt)"},{
+Key:1006245,Text:"Valige Zefania Piibel, mida soovite importida oma VideoPsalm (laiend .xml-fail)"},{
+Key:1006247,Text:"Valige Piibli EasySlides soovite importida oma VideoPsalm (MDB faililaiend)"},{
+Key:1006248,Text:"Valige Piibel \"Osis\" vormi importimiseks VideoPsalm (laiend .xml, .osi või .osis faili)"},{
+Key:1006249,Text:"Vali raamatuid Piiblis \"USFM\" vormi importimiseks VideoPsalm (laiend .sfm või .usfm faili)"},{
+Key:1006252,Text:"Valige keeled, mida soovite importida oma VideoPsalm VideoPsalm online Raamatukogu"},{
+Key:1006255,Text:"Importimine <b>{0} VideoPsalm Internetis Raamatukogu kogumine (s)</b> :
+{1}"},{
+Key:1006260,Text:"Impordi <b>EasySlides laulud</b>"},{
+Key:1006265,Text:"Impordi <b>MediaShout laulud</b>"},{
+Key:1006270,Text:"Impordi <b>OpenLP laulud</b>"},{
+Key:1006271,Text:"Impordi <b>VerseView laulud</b>"},{
+Key:1006275,Text:"Impordi <b>laule formaadis «OpenLyrics»</b>"},{
+Key:1006280,Text:"Impordi <b>OpenSong laul</b>"},{
+Key:1006285,Text:"Impordi <b>Psalmo kogumik</b>"},{
+Key:1006286,Text:"<b>Kogu teksti</b> importimine"},{
+Key:1006287,Text:"<b>Impordi EasyWorship 2009 laule</b>"},{
+Key:1006288,Text:"Impordi <b>ChordPro formaat laule</b>"},{
+Key:1006289,Text:"Impordi <b>WebAsaph laulud</b>"},{
+Key:1006290,Text:"Impordi <b>vorm CCLI laulud</b>"},{
+Key:1006295,Text:"Importimine <b>{0} Piibel (s) Raamatukogu VideoPsalm Internetis</b> :
+{1}"},{
+Key:1006300,Text:"<b>Piibel ja Piibel andmebaasi</b> importida"},{
+Key:1006305,Text:"Impordi <b>Piibel OpenLP</b>"},{
+Key:1006310,Text:"Impordi <b>Piibel OpenSong</b>"},{
+Key:1006315,Text:"Impordi <b>sidumata Piibel ja Piibel</b>"},{
+Key:1006320,Text:"Impordi <b>Zefania Piibel</b>"},{
+Key:1006321,Text:"Impordi <b>EasySlides Piibel</b>"},{
+Key:1006322,Text:"Importige <b>Piibli formaat \"Osis\"</b>"},{
+Key:1006323,Text:"Importige <b>Piibli formaat «USFM»</b>"},{
+Key:1006325,Text:"Importimine <b>{0} VideoPsalm Internetis Raamatukogu keel (ed)</b> :
+{1}"},{
+Key:1006340,Text:"Valige andmebaas EasySlide"},{
+Key:1006345,Text:"Valige MediaShout andmebaas"},{
+Key:1006350,Text:"Valige andmebaas OpenLP"},{
+Key:1006351,Text:"Valige andmebaasi VerseView"},{
+Key:1006355,Text:"Valige kaust, mis sisaldab laule formaadis \"OpenLyrics\"."},{
+Key:1006360,Text:"Valige kaust, mis sisaldab OpenSong laule"},{
+Key:1006365,Text:"Valige eksporditava Psalmo laule sisaldava RTF-failina"},{
+Key:1006366,Text:"Valige fail, mis sisaldab tekstivormingus laule"},{
+Key:1006367,Text:"Valige andmebaasi EasyWorship 2009"},{
+Key:1006368,Text:"Valige kaust, mis sisaldab laule formaadis \"ChordPro\"."},{
+Key:1006369,Text:"Valige WebAsaph andmebaas"},{
+Key:1006370,Text:"Valige kaust, mis sisaldab laule formaadis \"CCLI."},{
+Key:1006375,Text:"Valige Piibel BibleDatabase"},{
+Key:1006380,Text:"Valige Piibel OpenLP"},{
+Key:1006385,Text:"Valige Piibel OpenSong"},{
+Key:1006390,Text:"Valige sidumata Piibel ja Piibel"},{
+Key:1006395,Text:"Valige Zefania Piibel"},{
+Key:1006397,Text:"Valige Piibel EasySlides"},{
+Key:1006398,Text:"Valige vorming \"Osis\" Piibel."},{
+Key:1006399,Text:"Valige Piibli raamatute formaadis \"USFM."},{
+Key:1006405,Text:"EasySlide andmebaas"},{
+Key:1006410,Text:"MediaShout 4 andmebaas"},{
+Key:1006411,Text:"MediaShout 3 andmebaas"},{
+Key:1006415,Text:"OpenLP andmebaas"},{
+Key:1006416,Text:"Andmebaasi EasyWorship 2009"},{
+Key:1006417,Text:"VerseView andmebaas"},{
+Key:1006420,Text:"Kausta {0}.
+sisaldab mingit laulu \"OpenLyrics\" (laiendamine xml) formaadis."},{
+Key:1006425,Text:"Kausta {0}.
+sisaldab mingit OpenSong laul (OpenSong laulud on faile ilma laiendita)."},{
+Key:1006430,Text:"Eksporditud Psalmo laulud"},{
+Key:1006431,Text:"Laulud-vormingus"},{
+Key:1006432,Text:"Kausta {0}.
+sisaldab mingit laulu \"ChordPro\" (laiendamist chopro/chordpro, kapitalinõuete direktiivi ja cho) formaadis."},{
+Key:1006433,Text:"WebAsaph andmebaas"},{
+Key:1006434,Text:"Kaust {0}.
+sisaldab mingit laulu formaadis «CCLI» (.usr pikendamine)."},{
+Key:1006440,Text:"BibleDatabase Bibles"},{
+Key:1006445,Text:"OpenLP Bibles"},{
+Key:1006450,Text:"OpenSong Bibles"},{
+Key:1006455,Text:"Bibles sidumata Piibel"},{
+Key:1006460,Text:"Zefania Bibles"},{
+Key:1006462,Text:"EasySlides Bibles"},{
+Key:1006463,Text:"Bibles vormingus \"Osis\"."},{
+Key:1006464,Text:"Raamatuid Piiblis formaadis \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Ma armastan Lord 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Minu chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Ma armastan Issandat"},{
+Key:1006510,Text:"MSAccess andmebaasid"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Kõik failid"},{
+Key:1006520,Text:"SQLite andmebaasi"},{
+Key:1006525,Text:"Paradox andmebaasi"},{
+Key:1006526,Text:"Andmebaasi WebAsaph"},{
+Key:1006600,Text:"Valige VideoPsalm online Raamatukogu või muust allikast"},{
+Key:1006601,Text:"VideoPsalm elektrooniline kataloog sisaldab palju kogusid mitmes keeles"},{
+Key:1006602,Text:"VideoPsalm online (internetiühendus vajalik importimise ajal) Raamatukogu"},{
+Key:1006603,Text:"Laulud on kuum, import oma kõvaketta vormindamine"},{
+Key:1006604,Text:"Valige VideoPsalm online Raamatukogu või muust allikast"},{
+Key:1006605,Text:"VideoPsalm elektrooniline kataloog sisaldab palju tõlkeid erinevates keeltes Piibel"},{
+Key:1006606,Text:"VideoPsalm online (internetiühendus vajalik importimise ajal) Raamatukogu"},{
+Key:1006607,Text:"Piibel on kuum, import oma kõvaketta vormindamine"},{
+Key:1006608,Text:"Mis on laulu formaat allikas?"},{
+Key:1006609,Text:"Mis on Piibel lähtevorming?"},{
+Key:1006610,Text:"Võite importida oma VideoPsalm Piibel populaarne formaadis arvutisse salvestatud"},{
+Key:1006611,Text:"Võite importida oma VideoPsalm populaarne formaat laule arvutisse salvestatud"},{
+Key:1007000,Text:"Varukoopia"},{
+Key:1007001,Text:"Kas soovite käivitada VideoPsalm varukoopia kausta
+« {0} » ?"},{
+Key:1007004,Text:"Ei saa teha backup valitud kaustas
+sest see asub VideoPsalm dokumentide praeguses kaustas
+({0})."},{
+Key:1007005,Text:"{0}-Kettal pole piisavalt ruumi.
+Tuleks {1: #, #. #} MB, ja seal on ainult {2: #, #. #} MB saadaval."},{
+Key:1007006,Text:"Varundust ei saanud lõpule viia:
+
+{0}"},{
+Key:1007007,Text:"Ei saa alla laadida Microsoft .NET Framework 4,0:
+
+{0}
+
+See võib olla Interneti-ühenduse puudumise tõttu.
+Varunduse jätkub normaalselt,
+kuid te ei saa installida Microsoft .NET Framework 4,0 backup."},{
+Key:1007008,Text:"saadaval {0}"},{
+Key:1007009,Text:"Meeldetuletus: Varundus ei saanud kopeerida
+Microsoft .NET Framework 4,0 seadistus."},{
+Key:1007010,Text:"Varundus on nõuetekohaselt lõppenud."},{
+Key:1007011,Text:"Kas soovite varukoopia loobuda?"},{
+Key:1007030,Text:"Valige kaust või all-in-one paigutada VideoPsalm varukoopia loomine"},{
+Key:1007031,Text:"Varukoopia oma dokumentide (raamatud, Bibles, pildid, videod ja laade) asukohta, mille te määrate, näiteks:
+-on USB
+-väline kõvaketas,
+-võrgu kaust,
+-jne.
+
+<b>Saad kaasa arvatud:</b>
+-saavutada oma dokumentide kopeerimine teisele andmekandjale
+-ehitada kaasaskantav versioon VideoPsalm, näiteks USB pulk,
+-lihtsalt kanda oma dokumente teise arvutiga kasutades restore funktsiooni,
+-dubleerida teie dokumente mitu koosseisudes kogusid oma stiili samas arvutis.
+
+<b>Märkus:</b> VideoPsalm kirjete mitme arvuti vahel sünkroonida, saate valida otsesemalt näiteks SkyDrive või DropBox sünkroonimiseks."},{
+Key:1007032,Text:"Valige dokumendid, mida soovite salvestada:"},{
+Key:1007033,Text:"&Kollektsioonid"},{
+Key:1007034,Text:"&On Bibles"},{
+Key:1007035,Text:"&Pildid"},{
+Key:1007036,Text:"&Videod"},{
+Key:1007037,Text:"&Salvestada oma dokumendid:"},{
+Key:1007038,Text:"Määrake kaust, kuhu salvestate dokumente VideoPsalm siin.
+
+Näiteks: «E:\\Ma varukoopia VideoPsalm.
+
+Kui kausta pole olemas, see luuakse automaatselt kui varukoopia."},{
+Key:1007039,Text:"&Kaasaskantav VideoPsalm rakenduse loomine"},{
+Key:1007040,Text:"Lisab kõik täidetavad failid VideoPsalm toimimiseks vajalik varukoopia kausta.
+
+Üldiselt on USB-võti, mida te soovite luua kaasaskantav VideoPsalm taotlust.
+
+Kaasaskantav backup VideoPsalm sõitma teise arvuti, otse USB-võti, ilma et oleks vaja paigaldada VideoPsalm.
+
+VideoPsalm alates USB võti, on teil juurdepääs VideoPsalm, sealhulgas backup kõik funktsioonid. See võimaldab säästa VideoPsalm teist arvutit, nii et hiljem käivitada ilma USB võti kõvakettale.
+
+<b>Oluline</b>
+Varukoopia ei lisata VideoPsalm suvandid.
+Esimene Performance VideoPsalm konkreetses arvutis, peate kohandada VideoPsalm võimalusi, näiteks loa kirik."},{
+Key:1007041,Text:"&Lisage Microsoft .NET Framework 4,0 installiprogramm"},{
+Key:1007042,Text:"Tegutseda, VideoPsalm vajab Microsoft .NET Framework 4,0. Uuematel arvutitel on tihti .NET Framework 4,0 või kõrgem eelinstallitud. Kui te ei ole kindel, et teise arvutisse on installitud .NET Framework 4,0, linnuke kasti \"lisamine seadistus .NET Framework 4,0. VideoPsalm paneb siis USB stick .NET Framework 4,0 (Interneti-ühendusega võib nõuda, et see) seadistuse koopia.
+
+USB võti, saate hõlpsasti installida .NET Framework 4,0 teises arvutis enne, kui hakkad VideoPsalm. .NET Framework 4,0 paigaldamine on väga kiire ja taaskäivitage Windows normaalselt.
+
+Leiad paigaldamine .NET Framework 4,0 faili varukoopia kausta. See fail nimega \"dotNetFx40_Full_x86_x64.exe. .NET Framework 4,0 paigaldamist teises arvutis käivitamiseks topeltklõpsake seda faili."},{
+Key:1007043,Text:"&Käivita varundus"},{
+Key:1007044,Text:"Microsoft .NET Framework 4,0 allalaadimine"},{
+Key:1007045,Text:"&Kaust (kaust, et salvestatakse) VideoPsalm dokumendid:"},{
+Key:1007046,Text:"Lase kogusid enne määratud kausta salvestada minu"},{
+Key:1007047,Text:"Eemaldada enne määratud kausta salvestada minu kollektsioonid"},{
+Key:1007048,Text:"Bibles enne määratud kausta salvestada minu puhkus"},{
+Key:1007049,Text:"Eemaldada enne määratud kausta piiblid on minu salvestamine"},{
+Key:1007050,Text:"Jäta enne määratud kausta Pildid on minu säästa"},{
+Key:1007051,Text:"Kustuta enne määratud kaustast pildid on minu säästa"},{
+Key:1007052,Text:"Lase enne määratud kausta videod on minu salvestamine"},{
+Key:1007053,Text:"Kustuta enne määratud kausta salvestada minu videod"},{
+Key:1007054,Text:"Valige kaust või üks koht VideoPsalm varukoopia loomine"},{
+Key:1007055,Text:"Luba heli määratud kaustast varem on arvatud kaevandus"},{
+Key:1007056,Text:"Eemalda audio enne määratud kaustast on arvatud kaevandus"},{
+Key:1007057,Text:"&Audio"},{
+Key:1008000,Text:"Taasta varukoopia"},{
+Key:1008001,Text:"Kas soovite VideoPsalm varukoopia taastamine kaustast
+« {0} » ?
+
+Tähelepanu: Sõltuvalt teie valitud suvanditest, oma praegusi dokumente on asendada või kustutada."},{
+Key:1008002,Text:"Palun sisestage kausta varukoopia, et taastada."},{
+Key:1008004,Text:"Ei saa valitud kausta varukoopia taastamine
+sest see asub praeguses kaustas dokumendid VideoPsalm."},{
+Key:1008006,Text:"Enne taaste lõpuleviimist ei saa:
+
+{0}"},{
+Key:1008010,Text:"Taastamine oli lõppenud."},{
+Key:1008011,Text:"Kas soovite loobuda taastamist?"},{
+Key:1008012,Text:"Taasta varukoopia"},{
+Key:1008032,Text:"Valige dokumendid, mida soovite taastada:"},{
+Key:1008033,Text:"&Kollektsioonid"},{
+Key:1008034,Text:"&On Bibles"},{
+Key:1008035,Text:"&Pildid"},{
+Key:1008036,Text:"&Videod"},{
+Key:1008043,Text:"&Taastamine"},{
+Key:1008044,Text:"Lase enne taastamine alates backup minu kollektsioonid"},{
+Key:1008045,Text:"Kustuta minu kollektsioonid enne varukoopia põhjal taastada"},{
+Key:1008046,Text:"Lase oma Bibles enne varukoopia põhjal taastada"},{
+Key:1008047,Text:"Kustuta minu Bibles enne varukoopia põhjal taastada"},{
+Key:1008048,Text:"Lase mu pilte enne varukoopia põhjal taastada"},{
+Key:1008049,Text:"Minu pilte kustutada enne varukoopia põhjal taastada"},{
+Key:1008050,Text:"Lase enne taastamine alates backup minu videod"},{
+Key:1008051,Text:"Kustuta minu videod enne varukoopia põhjal taastada"},{
+Key:1008052,Text:"&Taastamine alates backup:"},{
+Key:1008053,Text:"Siin määrake kaust, kust VideoPsalm kirjed taastatakse.
+
+Näide: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Kaust (kaust, kus taastatakse varukoopia) VideoPsalm dokumendid:"},{
+Key:1008055,Text:"Värskenda"},{
+Key:1008056,Text:"Valige kaust, mis sisaldab VideoPsalm varukoopia"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Lase mu audio enne varukoopia põhjal taastada"},{
+Key:1008059,Text:"Kustuta minu audio enne varukoopia põhjal taastada"},{
+Key:1008999,Text:"Videoprojektor"},{
+Key:1009000,Text:"laul"},{
+Key:1009001,Text:"{0} laule"},{
+Key:1009002,Text:"Salme loetelu"},{
+Key:1009003,Text:"Salme {0} nimekirjad"},{
+Key:1009004,Text:"pilt"},{
+Key:1009005,Text:"{0} pildid"},{
+Key:1009006,Text:"Piibel {0}."},{
+Key:1009007,Text:"Peatükk {0}"},{
+Key:1009009,Text:"Bibles {0}"},{
+Key:1009010,Text:"Pilt on {0}."},{
+Key:1009011,Text:"{0} ({1} pildid)"},{
+Key:1009012,Text:"{0} pildid"},{
+Key:1009013,Text:"{0} {1} (slaidid)"},{
+Key:1009014,Text:"{0} PowerPoint esitlused"},{
+Key:1009015,Text:"Laadimise vaikelaad"},{
+Key:1009016,Text:"Kogude stiilis laadimine"},{
+Key:1009017,Text:"Peale kollektsiooni {0}."},{
+Key:1009018,Text:"On Bibles stiilis laadimine"},{
+Key:1009019,Text:"Peale Piibli {0}."},{
+Key:1009020,Text:"File: {0}"},{
+Key:1009100,Text:"{0} ({1} laulud)"},{
+Key:1009101,Text:"{0} (ühe laulu)"},{
+Key:1009102,Text:"{0} (no vokaal)"},{
+Key:1009103,Text:"Fail {0} on juba seal.
+mis hoiaks VideoPsalm uue kollektsiooni {1}.
+
+On võimatu päästa see uus kollektsioon.
+Lühend või selle uue kollektsiooni jaoks kordumatu nimi ja proovige uuesti salvestada."},{
+Key:1009104,Text:"Registreerimine nurjus"},{
+Key:1009105,Text:"Ei saa teisaldada fail
+{0}
+ussid
+{1}.
+
+(2)"},{
+Key:1009107,Text:"Kogude {0}"},{
+Key:1009110,Text:"{0} {1}: {2} {3} (Salme)"},{
+Key:1009111,Text:"Videot {0}."},{
+Key:1009112,Text:"{0} ({1} videod)"},{
+Key:1009113,Text:"videod {0}"},{
+Key:1009114,Text:"Ei saa salvestada kogumist.
+Nimi kogumise olema võimeline salvestama."},{
+Key:1010000,Text:"Näha veel värve"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Sulgege"},{
+Key:1010003,Text:"&Läbipaistev"},{
+Key:1010004,Text:"Loobu"},{
+Key:1010005,Text:"Ok"},{
+Key:1010006,Text:"Kuva vähem värve"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Sulgeda ilma välja lisamisel"},{
+Key:1011001,Text:"Lühend kogumine"},{
+Key:1011002,Text:"Pseudonüüm"},{
+Key:1011003,Text:"Laulu Autor"},{
+Key:1011004,Text:"Kollektsiooni Autor"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Võti"},{
+Key:1011007,Text:"Helilooja"},{
+Key:1011008,Text:"Copyright laul"},{
+Key:1011009,Text:"Autoriõiguse raamat"},{
+Key:1011010,Text:"Sildi salm"},{
+Key:1011011,Text:"Silt ja number salm"},{
+Key:1011012,Text:"Formaat"},{
+Key:1011013,Text:"Litsentsi kirik"},{
+Key:1011014,Text:"Võtme rea"},{
+Key:1011015,Text:"Viivisarve 1"},{
+Key:1011016,Text:"Viivisarve 2"},{
+Key:1011017,Text:"Viivisarve 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Positsiooni salm"},{
+Key:1011020,Text:"Salm nr."},{
+Key:1011021,Text:"Kirikulaul nr."},{
+Key:1011022,Text:"Märkus salm"},{
+Key:1011023,Text:"Laulude kogumist"},{
+Key:1011024,Text:"Stanza arv"},{
+Key:1011025,Text:"Viide"},{
+Key:1011026,Text:"Stanza jada"},{
+Key:1011027,Text:"Allkiri"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Teema"},{
+Key:1011030,Text:"Laulu pealkiri"},{
+Key:1011031,Text:"Raamatu pealkiri"},{
+Key:1011032,Text:"Toon"},{
+Key:1011033,Text:"3. Eemaldage kõik väljad"},{
+Key:1011034,Text:"2. Kasuta standardväljad"},{
+Key:1011035,Text:"Administraator"},{
+Key:1011036,Text:"Keel"},{
+Key:1011037,Text:"Toimetaja"},{
+Key:1011038,Text:"Ülevõtmine"},{
+Key:1011101,Text:"Lühend Piibel"},{
+Key:1011102,Text:"Lühend raamat"},{
+Key:1011103,Text:"Peatükk"},{
+Key:1011104,Text:"Copyright Piibel"},{
+Key:1011105,Text:"Piibli kirjeldus"},{
+Key:1011107,Text:"Toimetaja"},{
+Key:1011108,Text:"Keel"},{
+Key:1011109,Text:"Nimi Piiblis"},{
+Key:1011110,Text:"Nimega raamat"},{
+Key:1011111,Text:"Mitmed peatükid raamatut"},{
+Key:1011112,Text:"Salme peatüki number"},{
+Key:1011113,Text:"Testamendi"},{
+Key:1011114,Text:"Salm"},{
+Key:1011115,Text:"Valitseja Piibel"},{
+Key:1011200,Text:"&Lisa väli:"},{
+Key:1011201,Text:"Teksti vormindamiseks tuleb tekst kuvatakse päise või jaluse strophe või salm"},{
+Key:1011202,Text:"Sisestage kuvatav tekst.
+See tekst on tasuta ja üldiselt koosneb rida eelnevalt kindlaksmääratud valdkondi.
+
+Eelnevalt kindlaksmääratud valdkondi laulu näiteid:
+-pealkiri laul: <b>[laulu pealkiri]</b>
+-mitu laulu: <b>[laul nr.]</b>
+-raamatu pealkiri: <b>[pealkiri]</b>
+-lühend kogumiseks: <b>[lühend kogumine]</b>
+-jne.
+
+Jaoks salm:
+-raamatu nimi: <b>[nimi]</b>
+-Peatükk: <b>[peatükk]</b>
+-salm: <b>[salm]</b>
+täis-viide:
+  <b>[Nimi] [peatükk]: [salm]</b>
+-Piibel nimi: <b>[Piibel nimi]</b>
+-jne.
+
+Ajal ka videoprojektsiooni, asendab VideoPsalm väljade eelmääratletud nende väärtuse järgi. 
+
+Eelnevalt kindlaksmääratud valdkondi on ümbritsetud nurksulgudes <b>[]</b>. Need tuleb sisestada ilma jätma ja jälgida ning suur- ja väiketähti.
+
+<b>Kergesti eelmääratletud välja, saate lisada kerimine nimekirja allpool õigus lisada välja.</b>
+
+Vorm võib sisaldada mitu rida.
+
+Taastada selle algne väärtus vorming, eemaldage see täielikult (Ctrl + A, kustutamine)."},{
+Key:1011203,Text:"Eelmääratletud väljade loend"},{
+Key:1011204,Text:"Eelnevalt välja lisamiseks valige see loendist.
+
+Väli automaatselt lisatakse eespool, teksti väljal järjepunkti."},{
+Key:1012000,Text:"Faili {0} on juba olemas.
+
+Kas soovite seda asendada?"},{
+Key:1012001,Text:"Olemasolev fail"},{
+Key:1013000,Text:"Peida eelvaade"},{
+Key:1013001,Text:"Kuva eelvaade"},{
+Key:1013002,Text:"Pildil proportsionaalselt ekraani suuruseks"},{
+Key:1013003,Text:"Vähendada kuni Kuva kogu"},{
+Key:1013004,Text:"Keela põhiprojektile"},{
+Key:1013005,Text:"Aktiveerimine on Kordus"},{
+Key:1013006,Text:"Alguses"},{
+Key:1013007,Text:"Peatada"},{
+Key:1013008,Text:"Loe"},{
+Key:1013009,Text:"Mine lõpuks"},{
+Key:1013010,Text:"Heli"},{
+Key:1013011,Text:"Tumm"},{
+Key:1013012,Text:"Köide"},{
+Key:1013013,Text:"Teadustöö"},{
+Key:1013014,Text:"Globaalselt määratleda video piirid"},{
+Key:1013015,Text:"Määratlege iga stanza video piirid"},{
+Key:1013016,Text:"Kulunud aeg"},{
+Key:1013017,Text:"Koguaeg"},{
+Key:1013018,Text:"Järelejäänud aeg"},{
+Key:1013019,Text:"Klõpsake teisaldamiseks järgmise väärtuse"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minut"},{
+Key:1018003,Text:"minutit"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"aeg"},{
+Key:1018006,Text:"tundi"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"päev"},{
+Key:1018009,Text:"päeva"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"nädal"},{
+Key:1018012,Text:"nädala"},{
+Key:1018013,Text:"kuu"},{
+Key:1018014,Text:"kuu"},{
+Key:1018015,Text:"aasta"},{
+Key:1018016,Text:"aasta"},{
+Key:1019000,Text:"Sulgege"},{
+Key:1019001,Text:"Vähendada"},{
+Key:1019002,Text:"Suuremalt"},{
+Key:1019003,Text:"Madalamal tasemel"},{
+Key:1019004,Text:"Abi"},{
+Key:1019100,Text:"&Otsi hotelle"},{
+Key:1019101,Text:"&Kustuta"},{
+Key:1019301,Text:"&Ok"},{
+Key:1019302,Text:"&Loobu"},{
+Key:1019303,Text:"&Jah"},{
+Key:1019304,Text:"&Mitte"},{
+Key:1019305,Text:"&Loobuma"},{
+Key:1019306,Text:"&Proovi uuesti"},{
+Key:1019307,Text:"&Ignoreeri"},{
+Key:1019308,Text:"&Loobu"},{
+Key:1019309,Text:"&Lõika"},{
+Key:1019310,Text:"&Kopeeri"},{
+Key:1019311,Text:"&Kleebi"},{
+Key:1019312,Text:"&Kustuta"},{
+Key:1019313,Text:"&Vali kõik"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Moosese raamat"},{
+Key:1020003,Text:"Numbrid"},{
+Key:1020004,Text:"Moosese"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Kohtunikud"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Kuningad"},{
+Key:1020011,Text:"2 Kings"},{
+Key:1020012,Text:"1 Kroonika"},{
+Key:1020013,Text:"2 Kroonika"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemja"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Töö"},{
+Key:1020018,Text:"Psalmi"},{
+Key:1020019,Text:"Õp"},{
+Key:1020020,Text:"Koguja"},{
+Key:1020021,Text:"Ülemlaul"},{
+Key:1020022,Text:"Jesaja"},{
+Key:1020023,Text:"Jeremija"},{
+Key:1020024,Text:"Jeremija lamentations"},{
+Key:1020025,Text:"Hesekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hoosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadja"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICAH"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakuk"},{
+Key:1020035,Text:"Sefanjan raamat"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Sakarja"},{
+Key:1020038,Text:"Malaki"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Apostlite tegudes"},{
+Key:1020044,Text:"Roomlased"},{
+Key:1020045,Text:"1 Korintlastele"},{
+Key:1020046,Text:"2 Korintlastele"},{
+Key:1020047,Text:"GL"},{
+Key:1020048,Text:"Efeslastele"},{
+Key:1020049,Text:"Filiplastele"},{
+Key:1020050,Text:"Koloslastele"},{
+Key:1020051,Text:"1 Tessalooniklastele"},{
+Key:1020052,Text:"2 Tessalooniklastele"},{
+Key:1020053,Text:"1 Timothy"},{
+Key:1020054,Text:"2 Timoteosele"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Fileemonile"},{
+Key:1020057,Text:"Heebrealastele"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Peter"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apokalüpsis"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2 Kanaliga"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Ei"},{
+Key:1020116,Text:"On"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"EÜ"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Olen"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Nii"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"Jn"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Rassi"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Ta"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

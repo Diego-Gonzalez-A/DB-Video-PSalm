@@ -1,0 +1,1978 @@
+﻿{VersionDate:"20160124",Items:[{
+Key:1,Text:"Finnish (Finland)"},{
+Key:1000000,Text:"Kääntäminen"},{
+Key:1000001,Text:"Id"},{
+Key:1000003,Text:"&Lisää..."},{
+Key:1000004,Text:"Lisää yksi tai useampi kieli VideoPsalmiin"},{
+Key:1000006,Text:"&Lähetä"},{
+Key:1000007,Text:"Lähetä käännökset sähköpostitse VideoPsalmin kehittäjille sisällytettäviksi seuraavaan asennusohjelmaan"},{
+Key:1000009,Text:"&Käytä"},{
+Key:1000011,Text:"&Tallenna"},{
+Key:1000012,Text:"Ota valittu kieli käyttöön VideoPsalmissa. Muutokset tallennetaan automaattisesti."},{
+Key:1000013,Text:"Tallenna muokatut käännökset"},{
+Key:1000015,Text:"&Poista"},{
+Key:1000016,Text:"Poista valittu kieli ja kaikki sen käännökset"},{
+Key:1000022,Text:"{0} &käännöstä:"},{
+Key:1000024,Text:"&Kielet:"},{
+Key:1000029,Text:"Tallenna käännökset"},{
+Key:1000030,Text:"Käännöksiä on muokattu.
+
+Haluatko tallentaa muutokset?"},{
+Key:1000031,Text:"Poista kieli"},{
+Key:1000032,Text:"Haluatko todella poistaa VideoPsalmista kielen {0}?
+
+Tämä toiminto poistaa tämän kielen kaikki käännökset ja on peruuttamaton."},{
+Key:1000035,Text:"VideoPsalm on juuri luonut pakatut tiedostot, jotka sisältävät käännökset.
+Liitä asiaankuuluva tiedosto sähköpostiin ja lähetä se osoitteeseen videopsalm@gmail.com."},{
+Key:1000036,Text:"Lähetä käännokset sähköpostilla"},{
+Key:1000037,Text:"<b>\"Kääntäminen\"-ikkunassa voit muokata VideoPsalmin käyttöliittymässä esiintyviä tekstejä</b>
+Sen avulla voit kääntää, muokata ja korjata mitä tahansa käyttöliittymän tekstejä, suoraan VideoPsalmin sisällä.
+
+<i>Jos tämä paneeli vie liikaa tilaa, voit pienentää sen napsauttamalla pientä laajenna/pienennä -painiketta ylävasemmalla tai muuttamalla sen kokoa hiirellä vaakasuuntaisesta erottimesta.</i>
+
+VideoPsalm on saatavilla useilla kielillä. Kielet on listattu vasemmalla alapuolella \"Kielet\"-paneelissa.
+Jos kieltäsi ei löydy tästä luettelosta, voit käätää VideoPsalmin kielellesi juuri tässä ikkunassa. Huomaa, että se vaatii todennäköisesti usean tunnin työn.
+Ota meihin yhteyttä osoitteeseen videopsalm@gmail.com, jos olet valmis auttamaan.
+
+Näin saat VideoPsalmin omalle kielellesi:
+
+- Lisää kielesi luetteloon valitsemalla se \"<image=add2_16> Lisää...\"-painikkeen kautta löytyvien kielten joukosta.
+- VideoPsalm näyttää valittujen kielten käännökset alhaalla oikealla olevassa taulukossa.
+- Käännä kohdat omalle kielellesi
+
+Taulukossa voit muokata käännöksiä haluamallasi tavalla, aivan kuin Excel-laskentataulukossa.
+Taulukko tarjoaa käyttöösi myös hakukentän. Esimerkiksi, jos haluat näyttää vain käännökset, jotka sisältävät määrätyt sanat, kirjoita sanat hakukenttään ja napsauta \"Etsi\"-painiketta.
+Voit myös käyttää kunkin kielen otsikosta löytyvää suodatinta käännösten suodattamiseen.
+
+Helpottaaksesi työtäsi, valitse yksi tai useampi osaamasi kieli näytettäväksi rinnakkain taulukossa. Näin ymmärrät paremmin kunkin käännöksen merkityksen.
+Näytä myös kommentit, jotka auttavat ymmärtämään paremmin tiettyjä käännöksiä ja niiden käyttökohdetta.
+
+<b>Huomio:</b> On parempi jättää kommentit englanniksi, koska useat ihmiset ymmärtävät englantia.
+
+Nähdäksesi käännöstyösi tuloksen:
+- Valitse kielesi \"Kielet\"-paneelista napsauttamalla sitä
+- Napsauta alhaalla olevaa \"Käytä\"-painiketta
+
+VideoPsalm näytetään sen jälkeen valitulla kielellä.
+
+Muista tallentaa käännöstyösi säännöllisesti napsauttamalla \"<image=disk_blue> Tallenna\"-painiketta.
+Tallennettuasi uuden kielen, voit valita sen \"Asetukset\"-ikkunassa.
+
+Lähetä käännöksesi tai korjauksesi meille sähköpostilla osoitteeseen <b>videopsalm@gmail.com</b> napsauttamalla \"<image=mail_16> Lähetä\"-painiketta.
+Kun napsautat tätä painiketta:
+1. Sähköpostiohjelmasi (esim. Outlook) käynnistyy automaattisesti.
+2. Tiedostoselain avautuu kansioon, jonne VideoPsalm on sijoittanut pakatut kielitiedostot.
+
+Vedä ja pudota asiaankuuluva tiedosto sähköpostiin ja lähetä se, jotta voimme sisällyttää sen VideoPsalmin tulevaan versioon."},{
+Key:1000038,Text:"Kuinka käännät VideoPsalmin omalle kielellesi?"},{
+Key:1000039,Text:"Kielet, joille VideoPsalm on käännetty. Valitse kielet, joiden käännökset haluat näyttää taulukossa. Lisätäksesi uuden kielen luetteloon, napsauta \"Lisää...\"."},{
+Key:1001000,Text:"Lisää kieliä"},{
+Key:1001001,Text:"&Kielet:"},{
+Key:1001002,Text:"Valitse lisättävät kielet"},{
+Key:1001003,Text:"&Lisää"},{
+Key:1001004,Text:"Peruuta"},{
+Key:1001005,Text:"Ohje (F1)"},{
+Key:1002000,Text:"Asetukset"},{
+Key:1002003,Text:"&Yleiset"},{
+Key:1002004,Text:"&Näyttö"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Laulukirjat"},{
+Key:1002015,Text:"&Raamatut"},{
+Key:1002103,Text:"&Kieli:"},{
+Key:1002105,Text:"VideoPsalmin &tiedostokansio:"},{
+Key:1002106,Text:"Valitse VideoPsalmin tiedostokansio:"},{
+Key:1002112,Text:"&Tallenna mahdolliset Raamatun jakeisiin tekemäsi muutokset (teksti ja tyyli)"},{
+Key:1002202,Text:"&Korvaa lainausmerkit \" <size=+4>'</size> \" heittomerkeillä \" <size=+4>’</size> \""},{
+Key:1002203,Text:"&Käytä ranskalaisia kirjoitussääntöjä"},{
+Key:1002204,Text:"Korvaa yhdysviivat &lauluissa sitovilla yhdysviivoilla"},{
+Key:1002205,Text:"Korvaa yhdysviivat &Raamatun jakeissa sitovilla yhdysviivoilla"},{
+Key:1002304,Text:"&Renderöintitapa:"},{
+Key:1002306,Text:"Oletus"},{
+Key:1002307,Text:"Parannettu"},{
+Key:1002502,Text:"&Käytä"},{
+Key:1002503,Text:"Tallenna muutokset sulkematta ikkunaa"},{
+Key:1002504,Text:"OK"},{
+Key:1002505,Text:"Tallenna muutokset ja sulje ikkuna"},{
+Key:1002508,Text:"Sulje ikkuna tallentamatta muutoksia"},{
+Key:1002510,Text:"Seurakunnan &lisenssi:"},{
+Key:1002513,Text:"Tähän syöttämäsi valinnainen teksti voidaan näyttää automaattisesti dian ylä- tai alatunnisteessa.
+
+Voit esimerkiksi näyttää tässä seurakuntasi CCLI-lisenssinumeron."},{
+Key:1002516,Text:"&Ylätunnisteen kentät:"},{
+Key:1002517,Text:"&Alatunnisteen kentät:"},{
+Key:1002531,Text:"Voit muuttaa VideoPsalmin käyttöliittymän fonttia.
+
+Standardifontit:
+- <b>Tahoma</b> Windows XP:ssä
+- <b>Segoe UI</b> Windows Vistassa, Windows 7:ssä ja Windows 8:ssa
+
+Standardikoko: 8.25"},{
+Key:1002532,Text:"VideoPsalm tulee käynnistää uudelleen, jotta fonttimuutos tulee käyttöön kaikkialla."},{
+Key:1002533,Text:"Jos tämä valintaruutu on valittuna, VideoPsalm korvaa suorat heittomerkit dioissa \"ranskalaisilla\" heittomerkeillä.
+
+Kun syötät uuden laulun sanoja, suosittelemme, että käytät merkkiä, joka löytyy näppäimistöstäsi (yleensä suora heittomerkki)."},{
+Key:1002534,Text:"Jos tämä valintaruutu on valittuna, VideoPsalm muuttaa joidenkin välimerkkien välistystä ranskalaisten kirjoitussääntöjen mukaan.
+
+Esimerkiksi, jos laulu sisältää sanan \"<b>Herra!</b>\",
+VideoPsalm näyttää \"<b>Herra !</b>\".
+
+Seuraavat välimerkit saavat erityiskohtelun:
+
+<b>: ; ! ? »</b> <i>VideoPsalm lisää sitovan välilyönnin ennen merkkiä ja tavallisen välilyönnin merkin jälkeen.</i>
+
+<b>«</b> <i>VideoPsalm lisää tavallisen välilyönnin ennen merkkiä ja sitovan välilyönnin merkin jälkeen.</i>
+
+VideoPsalm ei muuta muiden välimerkkien välistystä.
+
+Kun kirjoitat uuden laulun sanoja tekstimuokkaimessa, suosittelemme, että noudatat perinteisiä kirjoitussääntöjä, eli lisäät välimerkit sanoihin, joihin ne liittyvät. Pystyt siten helposti vaihtamaan ranskalaisten ja oman maasi kirjoitussääntöjen välillä valitsemalla tämän valintalaatikon.
+
+<b>Huomio:</b> On mahdollista, että ranskalaiset kirjoitussäännöt eivät ole käytössä maassasi, vaikka kielesi olisikin ranska. (Esimerkiksi ranskankielinen Afrikka, Belgia, Quebec tai Sveitsi.)
+
+Jos haluat enemmän tietoa väleistä ja välimerkeistä ranskalaisissa kirjoitussäännöissä, katso <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf</color>, sivu 33."},{
+Key:1002535,Text:"&Fontti:"},{
+Key:1002536,Text:"&Koko:"},{
+Key:1002539,Text:"Nämä valintaruudut määrittävät, mistä uutuuksista VideoPsalm informoi sinua käynnistyksen yhteydessä.
+
+VideoPsalm-verkkokirjastoon lisätään silloin tällöin uusia laulukirjoja, Raamattuja ja kieliä.
+
+Voit ladata niitä helposti muutamalla napsautuksella käyttäen tuontiavustajaa."},{
+Key:1002540,Text:"Jos tämä valintaruutu on valittuna, VideoPsalm pitää yhdysviivalla erotut sanat dioissa samalla rivillä.
+
+Oletusarvo: <b>valittuna</b>"},{
+Key:1002541,Text:"Jos tämä valintaruutu on valittuna, VideoPsalm pitää yhdysviivalla erotut sanat dioissa samalla rivillä.
+
+Oletusarvo: <b>ei valittuna</b>"},{
+Key:1002542,Text:"Jos tämä valintaruutu on valittuna, VideoPsalm sallii Raamatun jakeisiin tehtyjen muutosten (teksti ja tyyli) tallentamisen.
+
+Jos tämä valintaruutu ei ole valittuna:
+
+<b>1.</b> Kun suljet VideoPsalmin, sinua ei huomauteta Raamattuihin tehdyistä muutoksista.
+
+<b>2.</b> Kun tallennat muutoksia, VideoPsalm ei tallenna Raamattuihin tehtyjä muutoksia.
+
+<b>3.</b> Kun avaat VideoPsalmin, Raamatuissa ei ole edellisellä kerralla tehtyjä muutoksia."},{
+Key:1002543,Text:"Valitse VideoPsalmin käyttöliittymän kieli.
+
+Jos kielesi ei näy luettelossa, voit ehkä tuoda sen VideoPsalm-verkkokirjastosta tuontiavustajalla.
+
+Jos VideoPsalm ei ole saatavilla kielelläsi, ilmoita siitä meille sähköpostitse osoitteeseen videopsalm@gmail.com
+
+Voit myös auttaa kääntämään VideoPsalmia kielellesi tai korjata virheitä VideoPsalmin käännöstyökalulla.
+
+Käynnistä käännöstyökalu napsauttamalla \"Käännä VideoPsalm\"."},{
+Key:1002544,Text:"Valitse kansio, josta VideoPsalm lataa laulukirjansa, Raamattunsa, kuvansa ja videonsa.
+
+Kun vaihdat tätä kansiota, VideoPsalm vaihtaa laulukirjansa, Raamattunsa, kuvansa ja videonsa uudesta kansiosta löytyneisiin.
+
+<b>Varoitus:</b> Ennen kansion vaihtamista varmista, että olet tallentanut tekemäsi muutokset."},{
+Key:1002545,Text:"Voit muuttaa VideoPsalmin käyttöliittymän fonttikokoa.
+
+Oletuskoko: 8.25
+
+Voit muuttaa fonttikokoa myös Windowsin asetuksissa."},{
+Key:1002547,Text:"&Käännä VideoPsalm"},{
+Key:1002548,Text:"Avaa työkalun, jolla voit kääntää VideoPsalmin omalle kielellesi tai korjata kirjoitusvirheitä."},{
+Key:1002549,Text:"Olet vaihtamassa kansiota, josta VideoPsalm lataa tiedostonsa.
+VideoPsalm luopuu nykyisistä tiedostoistaan ja lataa sen jälkeen tiedostot uudesta kansiosta.
+Tämä saattaa kestää useita sekunteja. {0}
+
+Haluatko varmasti vaihtaa tiedostokansiota?"},{
+Key:1002550,Text:"Sinulla on tallentamattomia muutoksia (laulukirjat, Raamatut tai esityslista).
+Jos vaihdat uuteen kansioon nyt, nämä muutokset menetetään."},{
+Key:1002551,Text:"Vaihda tiedostokansiota"},{
+Key:1002552,Text:"&Esityslista"},{
+Key:1002553,Text:"Oletusesitystapa"},{
+Key:1002554,Text:"&lauluille:"},{
+Key:1002555,Text:"&Raamatun jakeille:"},{
+Key:1002556,Text:"&diaesityskuville:"},{
+Key:1002557,Text:"&erillisille videoille:"},{
+Key:1002558,Text:"&PowerPoint-esityksille:"},{
+Key:1002559,Text:"&Automaattisen etenemisen oletusaikaväli:"},{
+Key:1002560,Text:"sekuntia"},{
+Key:1002561,Text:"&Lisää kieli"},{
+Key:1002562,Text:"Avaa kielten tuontiavustaja, jolla voit lisätä uusia kieliä VideoPsalmiin."},{
+Key:1002580,Text:"Oletussiirtymä laulun jälkeen"},{
+Key:1002581,Text:"Määrittää, mitä oletusarvoisesti näytetään, kun laulun viimeinen säkeistö on näytetty.
+
+Tämä arvo huomioidaan myös, kun lauluja näytetään lisäämättä niitä esityslistaan. Esityslistassa voit muuttaa tätä arvoa laulukohtaisesti."},{
+Key:1002582,Text:"Oletussiirtymä Raamatun jakeen jälkeen"},{
+Key:1002583,Text:"Määrittää, mitä oletusarvoisesti näytetään, kun katkelman viimeinen jae on näytetty.
+
+Tämä arvo huomioidaan myös, kun jakeita näytetään lisäämättä niitä esityslistaan. Esityslistassa voit muuttaa tätä arvoa katkelmakohtaisesti."},{
+Key:1002584,Text:"Oletussiirtymä diaesityskuvan jälkeen"},{
+Key:1002585,Text:"Määrittää, mitä oletusarvoisesti näytetään, kun diaesityskuva on näytetty.
+
+Esityslistassa voit muuttaa tätä arvoa kuvakohtaisesti."},{
+Key:1002586,Text:"Oletussiirtymä erillisen videon jälkeen"},{
+Key:1002587,Text:"Määrittää, mitä oletusarvoisesti näytetään, kun erillinen video on näytetty.
+
+Esityslistassa voit muuttaa tätä arvoa videokohtaisesti."},{
+Key:1002588,Text:"Oletussiirtymä PowerPoint-esityksen jälkeen"},{
+Key:1002589,Text:"Määrittää, mitä oletusarvoisesti näytetään, kun Powerpoint-esitys on näytetty.
+
+Esityslistassa voit muuttaa tätä arvoa esityskohtaisesti."},{
+Key:1002590,Text:"Määrittää oletusaikavälin sekunteina ennen automaattista siirtymistä seuraavaan diaan.
+
+Esityslistassa voit muuttaa tätä arvoa erikseen jokaiselle kohteelle, joka on asetettu toistamaan diansa automaattisesti."},{
+Key:1002591,Text:"&Tallenna taustakuvat esityslistaan (suositus)"},{
+Key:1002592,Text:"Tallenna taustakuvat esityslistaan"},{
+Key:1002593,Text:"Määrittää, tallentaako VideoPsalm mahdolliset laulujen ja Raamatun jakeiden taustakuvat esityslistatiedostoon, kun tallennat sen."},{
+Key:1002594,Text:"T&allenna taustavideot esityslistaan (suositus)"},{
+Key:1002595,Text:"Tallenna taustavideot esityslistaan"},{
+Key:1002596,Text:"Määrittää, tallentaako VideoPsalm mahdolliset laulujen ja Raamatun jakeiden taustavideot esityslistatiedostoon, kun tallennat sen."},{
+Key:1002597,Text:"Ta&llenna diaesityskuvat esityslistaan (suositus)"},{
+Key:1002598,Text:"Tallenna diaesityskuvat esityslistaan"},{
+Key:1002599,Text:"Määrittää, tallentaako VideoPsalm mahdolliset diaesityskuvat esityslistatiedostoon, kun tallennat sen."},{
+Key:1002600,Text:"Tall&enna erilliset videot esityslistaan (suositus)"},{
+Key:1002601,Text:"Tallenna erilliset videot esityslistaan"},{
+Key:1002602,Text:"Määrittää, tallentaako VideoPsalm mahdolliset erilliset videot esityslistatiedostoon, kun tallennat sen."},{
+Key:1002603,Text:"Talle&nna PowerPoint-esitykset esityslistaan (suositus)"},{
+Key:1002604,Text:"Tallenna PowerPoint-esitykset esityslistaan"},{
+Key:1002605,Text:"Määrittää, tallentaako VideoPsalm mahdolliset PowerPoint-esitykset esityslistatiedostoon, kun tallennat sen."},{
+Key:1002606,Text:"Tämän vaihtoehdon valinta on suositeltavaa erityisesti, jos valmistelet esityslistan eri tietokoneella, kuin millä esitys tapahtuu."},{
+Key:1002607,Text:"&Tekstimuokkain"},{
+Key:1002608,Text:"&Fontti:"},{
+Key:1002609,Text:"Määrittää tekstimuokkaimessa käytettävän fontin.
+
+Tätä fonttia ei käytetä tekstin näyttämiseen esityksessä."},{
+Key:1002610,Text:"Fontti&koko:"},{
+Key:1002611,Text:"Määrittää tekstimuokkaimessa käytettävän fonttikoon.
+
+Tätä fonttikokoa ei käytetä tekstin näyttämiseen esityksessä."},{
+Key:1002612,Text:"&Sointujen fontti:"},{
+Key:1002613,Text:"Määrittää sointujen fontin tekstimuokkaimessa.
+
+Tätä fonttia ei käytetä sointujen näyttämiseen esityksessä."},{
+Key:1002614,Text:"S&ointujen fonttikoko:"},{
+Key:1002615,Text:"Määrittää sointujen fonttikoon tekstimuokkaimessa.
+
+Tätä fonttikokoa ei käytetä sointujen näyttämiseen esityksessä."},{
+Key:1002616,Text:"Sointujen &väri:"},{
+Key:1002617,Text:"Määrittää värin, jolla soinnut näytetään tekstimuokkaimessa.
+
+Tätä väriä ei käytetä sointujen näyttämiseen esityksessä."},{
+Key:1002618,Text:"Sitovan t&yhjän väri:"},{
+Key:1002619,Text:"Määrittää värin, jolla sitovat välilyönnit näytetään tekstimuokkaimessa."},{
+Key:1002620,Text:"Säkeistö&tunnisteiden väri:"},{
+Key:1002621,Text:"Määrittää värin, jolla säkeistötunnisteet korostetaan tekstimuokkaimessa."},{
+Key:1002622,Text:"Säkeistötunnisteiden &läpinäkyvyys:"},{
+Key:1002623,Text:"Määrittää käytetyn korostusvärin läpinäkyvyyden."},{
+Key:1002624,Text:"&ChordPro-sointujen väri:"},{
+Key:1002625,Text:"Määrittää värin, jolla ChrodPro-soinnut korostetaan tekstimuokkaimessa, kun käytetään ChordPro-tilaa."},{
+Key:1002626,Text:"Chord&Pro-sointujen läpinäkyvyys:"},{
+Key:1002627,Text:"Määrittää käytetyn korostusvärin läpinäkyvyyden."},{
+Key:1002628,Text:"Ko&rvaa fontteja (suositus)"},{
+Key:1002629,Text:"Sallii tekstimuokkaimen korvata nykyisestä fontista puuttuvia merkkejä toisesta, automaattisesti valitusta fontista löytyvillä merkeillä.
+
+Poista merkkien korvaus käytöstä, jos käytät ei-Unicode fonttia, joka käyttää translitterointia. (Esimerkiksi jotkin Hindin, Tamilin, Bamatin ja Malayalamin kielen fontit ym.)
+
+Huomaa, että on parempi käyttää Unicode-fonttia.
+Muuntaaksesi translitteroidut laulusi Unicode-tekstiksi, käytä muuntajaa, esimerkiksi tätä: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Salli pääsy yksinkertaistettuun RTL-kirjoitusta tukevaan muokkaimeen"},{
+Key:1002631,Text:"Näyttää tekstimuokkaimen työkalurivin vasemmassa reunassa ylimääräisen painikkeen, joka tarjoaa pääsyn yksinkertaisempaan muokkaustilaan.
+
+Tällä yksinkertaistetulla muokkaimella voit kirjoittaa oikealta vasemmalle (RTL). (Arabia ja Heprea)"},{
+Key:1002632,Text:"Valitse videon renderöintitapa, joka toimii parhaiten tietokoneellasi. VideoPsalm osaa näyttää wmv-videot useimmilla tietokoneilla."},{
+Key:1002633,Text:"&Ilmoitukset"},{
+Key:1002634,Text:"Ilmoita käynnistyksen yhteydessä, jos on saatavilla:"},{
+Key:1002635,Text:"Uusi &VideoPsalm-versio (suositus)"},{
+Key:1002636,Text:"Uusia &laulukirjoja (suositus)"},{
+Key:1002637,Text:"Uusia &Raamattuja (suositus)"},{
+Key:1002638,Text:"Uusia &kieliä (suositus)"},{
+Key:1002639,Text:"&Jos internet-yhteydessä on ongelmia, ota välityspalvelimen automaattinen tunnistus käyttöön"},{
+Key:1002640,Text:"Ota välityspalvelimen automaattinen tunnistus käyttöön"},{
+Key:1002641,Text:"Ilmaisee, täytyykö VideoPsalmin automaattisesti tunnistaa välityspalvelin haettaessa uusia tuotteita ja päivityksiä.
+
+Jos VideoPsalm ei pysty lataamaan laulukirjoja ja Raamattuja verkkokirjastostaan, valitse tämä ja yritä uudelleen.
+
+Valitse tämä vain, jos ohjelma ei toimi ilman. Itse asiassa tämä vaihtoehto on useimmiten tarpeeton ja hidastaa laulukirjojen ja Raamattujen lataamista verkkokirjastosta."},{
+Key:1002642,Text:"Piilota sosiaalisten &medioiden kuvakkeet"},{
+Key:1002643,Text:"Piilottaa työkalurivin sosiaalisten medioiden kuvakkeet (Facebook, Twitter ja YouTube)
+
+Kuvakkeet piilotetaan automaattisesti, kun internet-yhteyttä ei ole."},{
+Key:1002644,Text:"&Tallenna äänitiedostot esityslistaan (suositus)"},{
+Key:1002645,Text:"Tallenna äänitiedostot esityslistaan"},{
+Key:1002646,Text:"Määrittää, tallentaako VideoPsalm mahdolliset laulujen äänitiedostot esityslistatiedostoon, kun tallennat sen."},{
+Key:1002648,Text:"&Mukauttaminen"},{
+Key:1002649,Text:"&Videokamera"},{
+Key:1002650,Text:"&Edellinen"},{
+Key:1002651,Text:"&Pimennys"},{
+Key:1002652,Text:"&Teksti"},{
+Key:1002653,Text:"&Kilpi"},{
+Key:1002654,Text:"&Lumihiutale"},{
+Key:1002655,Text:"&Nasta"},{
+Key:1002656,Text:"Diapaneeli"},{
+Key:1002657,Text:"&Seuraava"},{
+Key:1002658,Text:"Työkalurivi"},{
+Key:1002659,Text:"Esityslistapaneeli"},{
+Key:1002660,Text:"Siirrä &ylös"},{
+Key:1002661,Text:"Siirrä &alas"},{
+Key:1002662,Text:"&Piilota vihjeet"},{
+Key:1003000,Text:"Versio {0}  ajalta {1}"},{
+Key:1003003,Text:"Sulje"},{
+Key:1003005,Text:"&Ota yhteyttä VideoPsalmiin"},{
+Key:1003006,Text:"Avaa sähköpostiohjelmasi lähettääksesi sähköpostia VideoPsalmille"},{
+Key:1003007,Text:"Tämä versio on ajan tasalla"},{
+Key:1003008,Text:"&Päivitä versioni"},{
+Key:1003009,Text:"VideoPsalmista on saatavilla uudempi versio:
+Versio {0} ajalta {1:D}.
+Napsauta tätä avataksesi lataussivun.
+Löydät muutoshistorian ja latauslinkin."},{
+Key:1003011,Text:"- Raportoi virhe
+- Kerro kommentti tai ehdotus"},{
+Key:1003012,Text:"Sähköpostiosoite: videopsalm@gmail.com"},{
+Key:1003500,Text:"Nollaa transponointi"},{
+Key:1003501,Text:"Transponoi ylöspäin puoli sävelaskelta"},{
+Key:1003502,Text:"Transponoi alaspäin puoli sävelaskelta"},{
+Key:1003503,Text:"Ei mitään"},{
+Key:1003504,Text:"Nollaa capo"},{
+Key:1003505,Text:"Transponoi capolle, joka siirtyy lavasta poispäin"},{
+Key:1003506,Text:"Transponoi capolle, joka siirtyy lapaa kohti"},{
+Key:1003507,Text:"Ei mitään"},{
+Key:1003508,Text:"Poista äänitiedosto laulusta"},{
+Key:1003509,Text:"&Äänitiedosto:"},{
+Key:1003510,Text:"Valitse tuotavat äänitiedostot ja napsauta \"Avaa\""},{
+Key:1003511,Text:"Olet tuonut {0} äänitiedostoa."},{
+Key:1003512,Text:"Yhtään äänitiedostoa ei tuotu. (Ne olivat jo listassa.)"},{
+Key:1003513,Text:"Äänitiedostojen tuonti"},{
+Key:1003514,Text:"Äänitiedostot"},{
+Key:1003515,Text:"Kuvista etsittävät avainsanat"},{
+Key:1003516,Text:"Ilman kuvaa"},{
+Key:1003517,Text:"Ilman videota"},{
+Key:1003518,Text:"&Tiedostot"},{
+Key:1003519,Text:"Näytä &basson soinnut"},{
+Key:1003520,Text:"Videoista etsittävät avainsanat"},{
+Key:1003521,Text:"&Laulukirja tuotu CCLI / SongSelect -tiedostoista"},{
+Key:1003522,Text:"CCLI-laulut"},{
+Key:1003523,Text:"CCLI-laulujen tuonti"},{
+Key:1003524,Text:"{0} laulua oli jo laulukirjassa \"{1}\", eikä niitä tuotu."},{
+Key:1003525,Text:"&Etsi"},{
+Key:1003526,Text:"&Kirkkaus:"},{
+Key:1003527,Text:"&Etsi"},{
+Key:1003528,Text:"&Kirkkaus:"},{
+Key:1003529,Text:"Viesti"},{
+Key:1003530,Text:"Fontti"},{
+Key:1003531,Text:"Värit"},{
+Key:1003532,Text:"Viesti"},{
+Key:1003533,Text:"Näkyvyys"},{
+Key:1003534,Text:"Malli"},{
+Key:1003535,Text:"Tyyppi"},{
+Key:1003536,Text:"Lähtölaskenta"},{
+Key:1003537,Text:"Sekuntikello"},{
+Key:1003538,Text:"Asetukset"},{
+Key:1003539,Text:"Läpinäkyvyys"},{
+Key:1003540,Text:"Näytä viesti"},{
+Key:1003541,Text:"Tausta"},{
+Key:1003542,Text:"Näytä kello"},{
+Key:1003543,Text:"Kello"},{
+Key:1003544,Text:"Lähtölaskenta"},{
+Key:1003545,Text:"Sekuntikello"},{
+Key:1003546,Text:"Aika"},{
+Key:1003547,Text:"Tähän saakka"},{
+Key:1003548,Text:"Käynnistä"},{
+Key:1003549,Text:"Tauko"},{
+Key:1003550,Text:"Pysäytä"},{
+Key:1003551,Text:"Tyyli"},{
+Key:1003552,Text:"Lihavointi"},{
+Key:1003553,Text:"Kursivointi"},{
+Key:1003554,Text:"Alleviivaus"},{
+Key:1003555,Text:"Näytä sekuntiviisari"},{
+Key:1003556,Text:"Sykkivä sekuntiviisari"},{
+Key:1003557,Text:"Sykkivä minuuttiviisari"},{
+Key:1003558,Text:"Näytä numerot"},{
+Key:1003559,Text:"Näytä minuutit"},{
+Key:1003560,Text:"Näytä tunnit"},{
+Key:1003561,Text:"Videokamera"},{
+Key:1003562,Text:"Näyttää tekstin takana live-kuvaa yhdistetystä kamerasta"},{
+Key:1003563,Text:"Lisää lauluja &CCLI-muodossa..."},{
+Key:1003564,Text:"Tuo..."},{
+Key:1003565,Text:"Tuonti"},{
+Key:1003566,Text:"Mahdollistaa äänitiedostojen tuonnin VideoPsalmiin"},{
+Key:1003567,Text:"Selaa..."},{
+Key:1003568,Text:"Selaa"},{
+Key:1003569,Text:"Avaa VideoPsalm-äänitiedostojesi kansio"},{
+Key:1003570,Text:"&Alku (ms):"},{
+Key:1003571,Text:"&Loppu (ms):"},{
+Key:1003572,Text:"&Äänenvoimakkuus:"},{
+Key:1003573,Text:"&Toisto"},{
+Key:1003575,Text:"&Muokattu"},{
+Key:1003576,Text:"&Versio:"},{
+Key:1003577,Text:"\"Oikealta vasemmalle\" -tekstimuokkain"},{
+Key:1003578,Text:"Vaihtaa tavallisen tekstimuokkaimen (kirjoitus vasemmalta oikealle) ja \"oikealta vasemmalle\" -muokkaimen välillä. (Arabialle, heprealle yms.)"},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Näytä aina yhdessä (kaksikielinen)"},{
+Key:1003581,Text:"&Asema:"},{
+Key:1004050,Text:"Fontti"},{
+Key:1004051,Text:"Koko"},{
+Key:1004052,Text:"Lihavointi"},{
+Key:1004053,Text:"Kursivointi"},{
+Key:1004054,Text:"Alleviivaus"},{
+Key:1004055,Text:"Tasaus"},{
+Key:1004056,Text:"Pystytasaus"},{
+Key:1004057,Text:"Animaatio"},{
+Key:1004058,Text:"Kesto"},{
+Key:1004059,Text:"Äänenvoimakkuus"},{
+Key:1004060,Text:"Mykistä?"},{
+Key:1004061,Text:"Alku"},{
+Key:1004062,Text:"Loppu"},{
+Key:1004063,Text:"Toisto?"},{
+Key:1004064,Text:"Suurennus"},{
+Key:1004100,Text:"Värit"},{
+Key:1004101,Text:"Täyttö"},{
+Key:1004102,Text:"Ääriviiva"},{
+Key:1004103,Text:"Ääriviivan paksuus"},{
+Key:1004104,Text:"Varjo"},{
+Key:1004105,Text:"Varjon säde"},{
+Key:1004106,Text:"Varjon syvyys"},{
+Key:1004107,Text:"Varjon suunta"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Kuva"},{
+Key:1004153,Text:"Väri"},{
+Key:1004156,Text:"Tekstikehys"},{
+Key:1004157,Text:"Tekstikehys"},{
+Key:1004158,Text:"Tekstikehys"},{
+Key:1004500,Text:"Kopioi esityslistan kuvaus"},{
+Key:1004501,Text:"Esityslistan kuvaus kopioitu leikepöydälle"},{
+Key:1004502,Text:"Etsittävät avainsanat (nimi ja sanat) tai numero"},{
+Key:1004503,Text:"Etsittävät avainsanat (nimi, sitten sanat) tai numero"},{
+Key:1004504,Text:"Etsittävät avainsanat (nimi) tai numero"},{
+Key:1004505,Text:"Etsittävät avainsanat (sanoittaja ja säveltäjä) tai numero"},{
+Key:1004506,Text:"Etsittävät avainsanat (teemat) tai numero"},{
+Key:1004507,Text:"Etsittävät avainsanat (viitteet) tai numero"},{
+Key:1004508,Text:"Etsittävä CCLI"},{
+Key:1004509,Text:"Etsittävät avainsanat (tekijänoikeus) tai numero"},{
+Key:1004510,Text:"Etsittävät avainsanat (muistio 1) tai numero"},{
+Key:1004511,Text:"Etsittävät avainsanat (muistio 2) tai numero"},{
+Key:1004512,Text:"Etsittävät avainsanat (muistio 3) tai numero"},{
+Key:1004513,Text:"Laulut, joissa on soinnut"},{
+Key:1004514,Text:"Kopioi laulukirjan yhteenveto"},{
+Key:1004515,Text:"Laulukirjan yhteenveto kopioitu leikepöydälle "},{
+Key:1005001,Text:"Lataus valmis"},{
+Key:1005002,Text:"Laulu kirjasta {0}"},{
+Key:1005003,Text:"Ladataan videoita"},{
+Key:1005004,Text:"Ei voida lukea videota \"{0}\".
+{1}"},{
+Key:1005005,Text:"Ladataan kuvia"},{
+Key:1005006,Text:"Ei voida lukea kuvaa \"{0}\".
+{1}"},{
+Key:1005007,Text:"Ladataan tyylejä"},{
+Key:1005008,Text:"Täytetään laulukirjaluetteloa ({0} laulua {1} laulukirjassa)"},{
+Key:1005009,Text:"Poistetaanko valitut esityslistan kohteet?"},{
+Key:1005010,Text:"Poista kohteita"},{
+Key:1005011,Text:"Uusi laulukirja"},{
+Key:1005012,Text:"Uusi laulu"},{
+Key:1005013,Text:"Esityslista on tyhjä.
+Avaa esityslista tai vedä lauluja ja Raamatun jakeita tähän lisätäksesi ne esityslistaan."},{
+Key:1005014,Text:"Ei dioja näytettäväksi.
+Valitse laulu tai Raamatun jakeita esittääksesi ne."},{
+Key:1005015,Text:"Haluatko todella poistaa laulukirjan \"{0}\"?
+
+Tätä laulukirjaa vastaavaa tiedostoa ei poisteta levyltä: sen tiedostopäätteeksi muutetaan \".ignore\"."},{
+Key:1005016,Text:"Poista laulukirja"},{
+Key:1005017,Text:"Haluatko poistaa laulun \"{0}\"?
+
+Hyväksymisen jälkeen poistoa ei voi peruuttaa."},{
+Key:1005018,Text:"Poista laulu"},{
+Key:1005019,Text:"Poistetaanko kaikki esityslistan kohteet?"},{
+Key:1005020,Text:"Poista kaikki"},{
+Key:1005021,Text:"Nimetön esityslista"},{
+Key:1005022,Text:"Tyhjä esityslista"},{
+Key:1005023,Text:"Nykyisessä esityslistassa on tallentamattomia muutoksia.
+Haluatko tallentaa nämä muutokset?"},{
+Key:1005024,Text:"Tallenna esityslista"},{
+Key:1005025,Text:"Yhdessä tai useammassa laulukirjassa on tallentamattomia muutoksia.
+Haluatko tallentaa nämä muutokset?"},{
+Key:1005026,Text:"Tallenna laulukirjat"},{
+Key:1005027,Text:"Yhdessä tai useammassa Raamatussa on tallentamattomia muutoksia.
+Haluatko tallentaa nämä muutokset?"},{
+Key:1005028,Text:"Tallenna Raamatut"},{
+Key:1005029,Text:"Lisää tiedostoja esityslistalle"},{
+Key:1005030,Text:"Esityslistat"},{
+Key:1005031,Text:"Kuvat"},{
+Key:1005032,Text:"Videot"},{
+Key:1005033,Text:"PowerPoint-esitykset"},{
+Key:1005034,Text:"Tallenna esityslista"},{
+Key:1005035,Text:"CCLI-laulut"},{
+Key:1005036,Text:"Ei laulukirjoja. 
+Napsauta tähän käynnistääksesi laulukirjojen tuontiavustajan."},{
+Key:1005037,Text:"Muodossa {0}
+{1} x {2} pikseliä"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Haluatko todella poistaa tason \"{0}\" ja sitä ylemmät tyylit?"},{
+Key:1005040,Text:"\"{0}\" jätetään haun ulkopuolelle"},{
+Key:1005041,Text:"Näytä tai ohita dia"},{
+Key:1005042,Text:"Vuodenajat"},{
+Key:1005043,Text:"Kevät"},{
+Key:1005044,Text:"Kesä"},{
+Key:1005045,Text:"Talvi"},{
+Key:1005046,Text:"Teemat"},{
+Key:1005047,Text:"Karamelli"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Mielikuvitus"},{
+Key:1005050,Text:"Dark room"},{
+Key:1005051,Text:"Sumu"},{
+Key:1005052,Text:"Blueprint"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Korkea kontrasti"},{
+Key:1005055,Text:"Office"},{
+Key:1005056,Text:"Office 2010 sininen"},{
+Key:1005057,Text:"Office 2010 hopea"},{
+Key:1005058,Text:"Office 2010 musta"},{
+Key:1005059,Text:"Office 2007 sininen"},{
+Key:1005060,Text:"Office 2007 vihreä"},{
+Key:1005061,Text:"Office 2007 roosa"},{
+Key:1005062,Text:"Office 2007 hopea"},{
+Key:1005063,Text:"Office 2007 musta"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropoli"},{
+Key:1005066,Text:"Seitsemän"},{
+Key:1005067,Text:"Seitsemän Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Suitsuke"},{
+Key:1005070,Text:"Savu"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Värit"},{
+Key:1005073,Text:"Liquid Sky"},{
+Key:1005074,Text:"London Sky"},{
+Key:1005075,Text:"Blue"},{
+Key:1005076,Text:"Money Twins"},{
+Key:1005077,Text:"Black Gold"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Sharp"},{
+Key:1005080,Text:"Sharp+"},{
+Key:1005081,Text:"Tähdet"},{
+Key:1005082,Text:"Lasimeri"},{
+Key:1005083,Text:"Asfaltti-maailma"},{
+Key:1005084,Text:"Kahvi"},{
+Key:1005085,Text:"Tähtipöly"},{
+Key:1005086,Text:"Poista kaikki ylemmät tyylit"},{
+Key:1005087,Text:"&Pidä galleria avoinna"},{
+Key:1005100,Text:"Ei animaatiota"},{
+Key:1005102,Text:"Häivytys"},{
+Key:1005103,Text:"Sulava häivytys"},{
+Key:1005104,Text:"Suurennus"},{
+Key:1005105,Text:"Sulava suurennus"},{
+Key:1005106,Text:"Paljasta"},{
+Key:1005107,Text:"Paljasta vasemmalta"},{
+Key:1005109,Text:"Muoto"},{
+Key:1005110,Text:"Tähti"},{
+Key:1005118,Text:"Paljasta ylhäältä"},{
+Key:1005120,Text:"Paljasta oikealta"},{
+Key:1005121,Text:"Paljasta alhaalta"},{
+Key:1005122,Text:"Paljasta ylävasemmalta"},{
+Key:1005123,Text:"Paljasta yläoikealta"},{
+Key:1005124,Text:"Paljasta alavasemmalta"},{
+Key:1005125,Text:"Paljasta alaoikealta"},{
+Key:1005126,Text:"Liu'uta"},{
+Key:1005127,Text:"Liu'uta ylhäältä"},{
+Key:1005128,Text:"Liu'uta vasemmalta"},{
+Key:1005129,Text:"Liu'uta oikealta"},{
+Key:1005130,Text:"Liu'uta alhaalta"},{
+Key:1005131,Text:"Liu'uta ylävasemmalta"},{
+Key:1005132,Text:"Liu'uta yläoikealta"},{
+Key:1005133,Text:"Liu'uta alavasemmalta"},{
+Key:1005134,Text:"Liu'uta alaoikealta"},{
+Key:1005200,Text:"Diat"},{
+Key:1005201,Text:"Ei dioja"},{
+Key:1005209,Text:"Etsi sanoja kohteesta:"},{
+Key:1005210,Text:"&Nimi ja sanat"},{
+Key:1005211,Text:"&Nimi sitten &sanat"},{
+Key:1005212,Text:"Ni&mi"},{
+Key:1005213,Text:"&Sanoittaja ja säveltäjä"},{
+Key:1005214,Text:"T&eemat"},{
+Key:1005215,Text:"&Viitteet"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Tekijänoikeus"},{
+Key:1005218,Text:"Muistio &1"},{
+Key:1005219,Text:"Muistio &2"},{
+Key:1005220,Text:"Muistio &3"},{
+Key:1005221,Text:"&Laulut, joissa on soinnut"},{
+Key:1005223,Text:"Asetukset"},{
+Key:1005224,Text:"VideoPsalm-asetukset"},{
+Key:1005225,Text:"Näyttää VideoPsalmin asetukset."},{
+Key:1005226,Text:"Tuonti"},{
+Key:1005228,Text:"Näyttää laulukirjojen, Raamattujen, kuvien, videoiden ja kielten tuontiavustajan. Voit tuoda kohteita VideoPsalm-verkkokirjastosta ja suosituista tiedostomuodoista."},{
+Key:1005230,Text:"Poista"},{
+Key:1005232,Text:"Poista valittu laulu, laulukirja tai Raamattu."},{
+Key:1005237,Text:"Muuta fonttia."},{
+Key:1005247,Text:"Kuvat"},{
+Key:1005252,Text:"Muokkaa ilmoitusasetuksia."},{
+Key:1005253,Text:"Sulje tämä ikkuna ja muistuta minua myös seuraavalla kerralla."},{
+Key:1005254,Text:"Sulje tämä ikkuna äläkä muistuta minua enää."},{
+Key:1005255,Text:"Etsittävät sanat tai fraasit, esimerkiksi \"leipä viini\""},{
+Key:1005256,Text:"Valitse jakeet viitteillä"},{
+Key:1005257,Text:"Etsi jakeita, jotka sisältävät annetut sanat tai fraasit"},{
+Key:1005258,Text:"Tyhjennä etsittävät sanat tai fraasit (ESC)"},{
+Key:1005259,Text:"Etsi Raamatun jakeita, jotka sisältävät määrätyt sanat tai fraasit.
+
+Esimerkiksi:
+
+- Löytääksesi jakeet, jotka sisältävät ilmauksen <b>\"tulee minun tyköni\"</b>, kirjoita muutamia avainsanoja, kuten <b>\"tulee tyköni\"</b>.
+
+- Löytääksesi jakeet, jotka sisältävät fraasin <b>\"Kuningasten kuningas\"</b>, kirjoita sanat yhteen: <b>\"kuningastenkuningas\"</b>.
+
+Älä välitä välimerkeistä tai kirjainten koosta.
+
+Sanoja ei tarvitse syöttää kokonaisina, eikä oikeassa järjestyksessä.
+
+Lisää useita sanoja lyhentääksesi löydettyjen jakeiden luetteloa.
+
+Paina <b>\"Insert\"</b>-näppäintä lisätäksesi löydetyn jakeen esityslistaan."},{
+Key:1005260,Text:"Ei löydettyjä jakeita."},{
+Key:1005268,Text:"Tässä tilassa VideoPsalm ympäröi kirjoittamasi tekstin automaattisesti hakasuluilla [ ].
+Esimerkiksi, lisätäksesi C-soinnun, kirjoita \"C\", niin VideoPsalm syöttää \"[C]\"
+"},{
+Key:1005269,Text:"Fonttikoko"},{
+Key:1005270,Text:"Muuttaa fonttikokoa suhteessa näytön korkeuteen."},{
+Key:1005271,Text:"Tallenna &esityslista nimellä..."},{
+Key:1005277,Text:"Tallenna"},{
+Key:1005278,Text:"Tallentaa laulukirjoihin, Raamattuihin ja tyyleihin tekemäsi muutokset."},{
+Key:1005279,Text:"Tallentaa laulukirjoihin ja tyyleihin tekemäsi muutokset.
+
+<b>Huomaa:</b> Raamattuihin tekemiäsi muutoksia ei tallenneta (teksti ja tyylit). Jos haluat tallentaa nämä muutokset, sinun täytyy muuttaa VideoPsalmin asetuksia."},{
+Key:1005283,Text:"Kesto:"},{
+Key:1005284,Text:"Millisekunteina:"},{
+Key:1005285,Text:"Kohde"},{
+Key:1005286,Text:"Leipäteksti"},{
+Key:1005287,Text:"Leipätekstin tyyli"},{
+Key:1005288,Text:"Mahdollistaa leipätekstin tyylin muokkaamisen."},{
+Key:1005289,Text:"Ylätunniste"},{
+Key:1005290,Text:"Ylätunnisteen tyylin"},{
+Key:1005291,Text:"Mahdollistaa ylätunnisteen tyylin muokkaamisen."},{
+Key:1005292,Text:"Alatunniste"},{
+Key:1005293,Text:"Alatunnisteen tyyli"},{
+Key:1005294,Text:"Mahdollistaa alatunnisteen tyylin muokkaamisen."},{
+Key:1005295,Text:"Soinnut"},{
+Key:1005296,Text:"Sointujen tyyli"},{
+Key:1005297,Text:"Mahdollistaa sointujen tyylin muokkaamisen."},{
+Key:1005308,Text:"Kirja"},{
+Key:1005313,Text:"Tyylitaso"},{
+Key:1005314,Text:"Määrittää tason, jota tyyliin tekemäsi muutokset koskevat.
+
+Laulujen tyylitasot ylimmästä alimpaan ovat: säkeistö, laulu, laulukirja, laulukirjat ja pohja.
+
+Raamattujen tyylitasot ylimmästä alimpaan ovat: jae, luku, kirja, testamentti, Raamattu, Raamatut ja taas pohja.
+
+Koska pohja on alimpana hierarkiassa, sen tyyli vaikuttaa kaikkiin dioihin.
+
+Ylempi taso voi uudelleenmääritellä alemmalla tasolla määritellyn tyylin."},{
+Key:1005315,Text:"<b></b>Tämä toiminto mahdollistaa diojesi tyylien muokkaamisen globaalisti tai diakohtaisesti.
+
+<b>Esimerkki</b>
+Kun asetat laululle taustan, kaikki sen säkeistöt näytetään tällä taustalla, paitsi ne, joille olet asettanut eri taustan."},{
+Key:1005318,Text:"Dia"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoint-esitykset"},{
+Key:1005322,Text:"Videot"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Tekstin väri"},{
+Key:1005329,Text:"Nollaa"},{
+Key:1005330,Text:"Tyhjennä valitun tason tyyli"},{
+Key:1005331,Text:"Poistaa kaikki valitun tason tyylimääritykset.
+Ilman tyyliä oleva dia perii automaattisesti alemman tason tyylin.
+
+Esimerkiksi:
+- Säkeistön tyylissä on käytössä Candara-fontti.
+- Laulun tyylissä on käytössä Segoe UI -fontti.
+
+Kun poistat säkeistön tyylin, säkeistö näytetään alemman tason tyylillä. Esimerkissämme fontiksi tulisi Segoe UI.
+
+<b>\"Poista kaikki ylemmät tyylimääritykset\" -ponnahdusvalikko</b>
+Poistaa kaikki ylemmät tyylitasot. Ei vaikuta valittuun tyylitasoon.
+
+Esimerkiksi, jos \"Laulukirja\"-tyylitaso on valittuna, laulukirjan laulujen ja niiden säkeistöjen tyylit poistetaan. Laulukirjan tyylejä ei poisteta."},{
+Key:1005332,Text:"Tämä painike on poissa käytöstä, kun tasolla ei ole omaa tyyliä."},{
+Key:1005333,Text:"&Poista kaikki ylemmät tyylimääritykset"},{
+Key:1005337,Text:"&Ylös"},{
+Key:1005338,Text:"&Keskelle"},{
+Key:1005339,Text:"&Alas"},{
+Key:1005340,Text:"Pysy tällä tyylitasolla"},{
+Key:1005341,Text:"Pysy nykyisellä tyylitasolla"},{
+Key:1005342,Text:"Pysyy nykyisessä tyylissä, kun vaihdat diaa.
+
+<b>1.</b> Kun katselet laulun säkeistöä, VideoPsalm asettaa tyylitasoksi \"Säkeistö\".
+<b>2.</b> Muokataksesi laulun tyyliä, valitse \"Laulu\"-tyylitaso
+<b>3.</b> Pysyäksesi laulun tyylin muokkauksessa, paina nastaa.
+<b>4.</b> Kun vaihdat säkeistöstä toiseen, tyylitasona säilyy \"Laulu\"."},{
+Key:1005343,Text:"Tekstin täyttö"},{
+Key:1005345,Text:"Täyttää tekstin yksittäisellä värillä, liukuvärillä, kuvalla tai tekstuurilla."},{
+Key:1005346,Text:"Tekstin väri"},{
+Key:1005347,Text:"Tekstin ääriviiva"},{
+Key:1005349,Text:"Määrittää tekstin ääriviivan värin, paksuuden ja tyypin."},{
+Key:1005350,Text:"Tekstin ääriviivan väri"},{
+Key:1005352,Text:"Tekstitehoste"},{
+Key:1005354,Text:"Lisää tekstiin visuaalisen tehosteen, kuten varjon, valon, heijatuksen tai 3D-kierron."},{
+Key:1005356,Text:"Tekstin varjo"},{
+Key:1005357,Text:"Taustaväri"},{
+Key:1005359,Text:"&Uusi laulu"},{
+Key:1005360,Text:"&Uusi laulukirja"},{
+Key:1005361,Text:"Poista &kaikki"},{
+Key:1005362,Text:"
+
+<b>Osittainen suojaus</b>
+Kun avaat esityslistan, laulukirjojesi ja Raamattujesi <b>tekstit</b> säilytetään.
+Tyylit tuodaan esityslistasta."},{
+Key:1005363,Text:"
+
+<b>Osittainen suojaus</b>
+Kun avaat esityslistan, laulukirjojesi ja Raamattujesi <b>tyylit</b> säilytetään.
+Tekstit tuodaan esityslistasta."},{
+Key:1005364,Text:"
+
+<b>Täysi suojaus</b>
+Kun avaat esityslistan, laulukirjojesi ja Raamattujesi <b>tekstit</b> ja <b>tyylit</b> säilytetään.
+Niitä ei tuoda esityslistasta.
+
+<i>Tätä kannattaa käyttää, kun viittaamasi tiedostot ovat tällä tietokonella.</i>"},{
+Key:1005365,Text:"
+
+<b>Ei suojausta</b>
+Kun avaat esityslistan, sen <b>tekstit</b> ja <b>tyylit</b> otetaan käyttöön laulukirjoissasi ja Raamatuissasi, ja omat tekstisi ja tyylisi korvataan.
+
+<i>Tätä kannattaa käyttää, kun viittaamasi tiedostot ovat tietokoneelta, jolla loit esityslistan.</i>"},{
+Key:1005366,Text:"Vaihtaaksesi käyttötilasta muokkaustilaan tai päinvastoin, napsauta painiketta, jossa on kynä."},{
+Key:1005369,Text:"Lajittele nimen perusteella"},{
+Key:1005370,Text:"Lajittele numeron perusteella"},{
+Key:1005371,Text:"Tietoja..."},{
+Key:1005377,Text:"4:3,2"},{
+Key:1005378,Text:"Simuloi diaesitystä 4:3,2-kuvasuhteella"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simuloi diaesitystä 16:9-kuvasuhteella"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simuloi diaesitystä 4:3-kuvasuhteella"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simuloi diaesitystä 16:10-kuvasuhteella"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simuloi diaesitystä 16:8-kuvasuhteella"},{
+Key:1005387,Text:"Nykyinen"},{
+Key:1005388,Text:"Käyttää näytön koko pinta-alan"},{
+Key:1005389,Text:"4:3-kuvasuhde"},{
+Key:1005390,Text:"&Do Re Mi"},{
+Key:1005391,Text:"&C D E"},{
+Key:1005396,Text:"Sointujen lisäämistila"},{
+Key:1005398,Text:"Näytä soinnut sanojen yläpuolella"},{
+Key:1005400,Text:"Käytä teemaa myös otsikkopalkeissa"},{
+Key:1005401,Text:"&Lisää esityslistaan"},{
+Key:1005402,Text:"&Poista valitut kohteet"},{
+Key:1005403,Text:"&Sisällytä laulukirja hakuun"},{
+Key:1005404,Text:"&Jätä laulukirja haun ulkopuolelle"},{
+Key:1005405,Text:"&Sisällytä kaikki laulukirjat hakuun"},{
+Key:1005407,Text:"&Piilota haun ulkopuolelle jätetyt laulukirjat"},{
+Key:1005408,Text:"&Näytä haun ulkopuolelle jätetyt laulukirjat"},{
+Key:1005409,Text:"&Näytä tekstikehyksen reunat"},{
+Key:1005410,Text:"Näyttää tekstikehyksen reunat"},{
+Key:1005411,Text:"Mahdollistaa valitun tekstikehyksen (leipäteksti, ylä- tai alatunniste) koon muuttamisen.
+
+Kehyksen kokoa voi muuttaa hiirellä esikatselualueella.
+
+<b>Kuinka muutat kehyksen kokoa</b>
+
+1. Valitse muutettava kehys:
+- leipäteksti
+- ylätunniste
+- tai alatunniste
+
+2. Valitse haluttu tyylitaso, esimerkiksi \"Raamatut\"
+
+3. Paina nastaa pakottaaksesi VideoPsalmin näyttämään diat \"Raamatut\"-tyylillä.
+Jos nasta ei ole painettuna, VideoPsalm vaihtaa automaattiseti \"Raamatun jae\" -tyyliin heti, kun näytät jakeen.
+
+4. Näytä jae. Esikatselualue näyttää kehyksen käyttäen \"Raamatut\"-tyyliä.
+
+5. Muuta kehyksen kokoa ja sijaintia hiirellä.
+
+6. Vapauta nasta, jotta VideoPsalm palaa \"Raamatun jae\" -tyyliin, kun katselet diaa uudelleen."},{
+Key:1005412,Text:"&Kopioi laulukirjan yhteenveto leikepöydälle"},{
+Key:1005417,Text:"Teksti"},{
+Key:1005418,Text:"Tyyliselain"},{
+Key:1005419,Text:"Näyttää tai piilottaa tyyliselaimen. 
+Tässä ikkunassa voit navigoida eri tyylitasojen välillä, nollata yksittäisiä tyylejä ja muokata niitä."},{
+Key:1005420,Text:"Tyylit"},{
+Key:1005421,Text:"Fontti"},{
+Key:1005424,Text:"Tausta"},{
+Key:1005425,Text:"Tyylit"},{
+Key:1005429,Text:"Kuvasuhde"},{
+Key:1005430,Text:"Muokkaa"},{
+Key:1005432,Text:"Ulkonäkö"},{
+Key:1005433,Text:"Työkalut"},{
+Key:1005442,Text:"Jatka seuraavaan kohteeseen"},{
+Key:1005443,Text:"Sulje ja jatka"},{
+Key:1005444,Text:"Piilota teksti ja jatka"},{
+Key:1005445,Text:"Piilota teksti ja sulje"},{
+Key:1005446,Text:"Näytä yhdessä seuraavan kohteen kanssa(kaksikielinen)"},{
+Key:1005447,Text:"Lisää valittu laulu tai Raamatun jakeet esityslistaan (Insert tai Alt+A)"},{
+Key:1005448,Text:"Napsauta tästä lisätäksesi laulun tai Raamatun jakeita esityslistaan.
+
+Voit myos vetää ja pudottaa tämän painikkeen esityslistaan."},{
+Key:1005449,Text:"&Lisää"},{
+Key:1005454,Text:"Rajaa hakua"},{
+Key:1005455,Text:"Tyhjennä etsittävät avainsanat tai numero (ESC)"},{
+Key:1005457,Text:"Etsi laulu (Ctrl+F)"},{
+Key:1005458,Text:"Etsi lauluja, jotka sisältävät määrätyt sanat tai joilla on tietty numero.
+
+Esimerkiksi:
+
+- Löytääksesi laulun numero 250, kirjoita \"250\".
+
+- Löytääksesi laulun <b>\"Jo joutui armas aika\"</b>, kirjoita muutamia avainsanoja, kuten <b>\"armas aika suloinen\"</b>.
+
+-Löytääksesi laulut, jotka sisältävät fraasin <b>\"Oi Herra suuri\"</b>, kirjoita sanat yhteen:  <b>\"oiherrasuuri\"</b>.
+
+Älä välitä välimerkeistä tai kirjainten koosta.
+
+Sanoja ei tarvitse syöttää kokonaisina, eikä oikeassa järjestyksessä.
+
+Lisää useita sanoja lyhentääksesi löydettyjen laulujen luetteloa.
+
+Paina <b>\"Insert\"</b>-näppäintä lisätäksesi löydetyn laulun esityslistaan."},{
+Key:1005459,Text:"Ei Raamattuja. 
+Napsauta tähän käynnistääksesi tuontiavustajan 
+ja lisätäksesi Raamattuja suosituista lähteistä."},{
+Key:1005463,Text:"Tyhjennä valittava viite (ESC)"},{
+Key:1005464,Text:"Valittava viite, esim.: Room 3:23-25, 30"},{
+Key:1005465,Text:"Valitse Raamatun jakeet (Ctrl+F)"},{
+Key:1005472,Text:"&Kansio:"},{
+Key:1005475,Text:"&Sisällytä tämä laulukirja lauluhakuun"},{
+Key:1005479,Text:"&Nimi:"},{
+Key:1005481,Text:"&Lyhenne:"},{
+Key:1005483,Text:"&Kirjoittaja:"},{
+Key:1005485,Text:"&Tekijänoikeus:"},{
+Key:1005487,Text:"&Tiedosto:"},{
+Key:1005491,Text:"&Tulosta capo"},{
+Key:1005497,Text:"&Sanat"},{
+Key:1005499,Text:"N&umero:"},{
+Key:1005501,Text:"&Nimi:"},{
+Key:1005505,Text:"&Viite:"},{
+Key:1005507,Text:"&Tekijänoikeus:"},{
+Key:1005509,Text:"S&anoittaja:"},{
+Key:1005511,Text:"&Säveltäjä:"},{
+Key:1005513,Text:"S&ekalaiset"},{
+Key:1005515,Text:"&Sävelkorkeus:"},{
+Key:1005517,Text:"&Muoto:"},{
+Key:1005519,Text:"T&eema:"},{
+Key:1005521,Text:"&Järjestys:"},{
+Key:1005523,Text:"&CCLI:"},{
+Key:1005525,Text:"S&ävellaji:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Key line:"},{
+Key:1005531,Text:"Muistio &1:"},{
+Key:1005533,Text:"Muistio &2:"},{
+Key:1005535,Text:"Muistio &3:"},{
+Key:1005537,Text:"&Tahtilaji:"},{
+Key:1005540,Text:"&Transponointi:"},{
+Key:1005541,Text:"Tulosta capo?"},{
+Key:1005542,Text:"&Capo:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Mahdollistaa laulun sointujen transponoinnin."},{
+Key:1005555,Text:"&Kansio:"},{
+Key:1005560,Text:"&Tekijänoikeus:"},{
+Key:1005562,Text:"&Lyhenne:"},{
+Key:1005564,Text:"&Nimi:"},{
+Key:1005566,Text:"&Kuvaus:"},{
+Key:1005568,Text:"&Johdanto:"},{
+Key:1005570,Text:"&Tiedosto:"},{
+Key:1005576,Text:"&Nimi:"},{
+Key:1005582,Text:"&Nimi:"},{
+Key:1005584,Text:"&Johdanto:"},{
+Key:1005586,Text:"&Lyhenne:"},{
+Key:1005587,Text:"Raamatun luku"},{
+Key:1005590,Text:"Raamatun jae"},{
+Key:1005595,Text:"&Jae:"},{
+Key:1005603,Text:"&Tiedosto:"},{
+Key:1005606,Text:"Ei valintaa"},{
+Key:1005608,Text:"Tyyli"},{
+Key:1005612,Text:"Poista ominaisuuden arvo"},{
+Key:1005613,Text:"Kun poistat ominaisuuden arvon, VideoPsalm käyttää ensiksi löydettyä alemman tason arvoa.
+
+Esimerkiksi, jos poistat fontin säkeistötasolla, VideoPsalm etsii fontin alemmalta tasolta järjestyksessä:
+- laulu
+- laulukirja
+- laulukirjat
+- pohjatyyli
+
+VideoPsalm toimii samalla tavoin myös Raamattujen, kuvien, ym. suhteen"},{
+Key:1005615,Text:"Ei mitään"},{
+Key:1005616,Text:"Pohja"},{
+Key:1005618,Text:"Laulukirjat"},{
+Key:1005619,Text:"Laulukirja"},{
+Key:1005620,Text:"Laulu"},{
+Key:1005621,Text:"Säkeistö"},{
+Key:1005622,Text:"Raamatut"},{
+Key:1005623,Text:"Raamattu"},{
+Key:1005624,Text:"Testamentti"},{
+Key:1005625,Text:"Raamatun kirja"},{
+Key:1005626,Text:"Luku"},{
+Key:1005627,Text:"Jae"},{
+Key:1005628,Text:"Oletusarvo"},{
+Key:1005629,Text:"Arvo leipätekstistä"},{
+Key:1005630,Text:"Vasen"},{
+Key:1005631,Text:"Keskitetty"},{
+Key:1005632,Text:"Oikea"},{
+Key:1005633,Text:"Tasattu"},{
+Key:1005634,Text:"Ylös"},{
+Key:1005635,Text:"Keskelle"},{
+Key:1005636,Text:"Alas"},{
+Key:1005650,Text:"&Avaa esityslista..."},{
+Key:1005651,Text:"&Lisää esityslistoja..."},{
+Key:1005652,Text:"&Lisää diaesityskuvia..."},{
+Key:1005653,Text:"&Lisää erillisiä videoita..."},{
+Key:1005654,Text:"&Lisää PowerPoint-tiedostoja..."},{
+Key:1005655,Text:"Kun avaan esityslistan:"},{
+Key:1005656,Text:"&Säilytä laulukirjojeni ja Raamattujeni tekstit"},{
+Key:1005657,Text:"&Säilytä laulukirjojeni ja Raamattujeni tyylit"},{
+Key:1005667,Text:"&Laulukirjat"},{
+Key:1005668,Text:"Näyttää laulukirjat (Alt+R)"},{
+Key:1005670,Text:"&Raamatut"},{
+Key:1005671,Text:"Näyttää Raamatut (Alt+B)"},{
+Key:1005677,Text:"&Leveys:"},{
+Key:1005680,Text:"&Sumennus:"},{
+Key:1005681,Text:"&Syvyys:"},{
+Key:1005682,Text:"&Suunta:"},{
+Key:1005686,Text:"Näyttää tyhjän mustan näytön.
+Simuloi sammutettua projektoria."},{
+Key:1005687,Text:"Seuraava"},{
+Key:1005688,Text:"Etene seuraavaan diaan (tai seuraavaan PowerPoint-animaatioon)."},{
+Key:1005689,Text:"Sammuta näyttö (Ctrl+W)"},{
+Key:1005690,Text:"Näytä teksti (Ctrl+T)"},{
+Key:1005691,Text:"Näyttää tai piilottaa diassa olevan tekstin."},{
+Key:1005692,Text:"Suojaa (Ctrl+D)"},{
+Key:1005693,Text:"Säilyttää tällä hetkellä esitettävän laulun diat.
+
+Mahdollistaa esityslistan muokkaamisen tai laulun tai Raamatun jakeen etsimisen laulun esityksen aikana.
+
+Ohittaksesi suojauksen, kaksoisnapsauta kohdetta esityslistalla."},{
+Key:1005694,Text:"Jäädytä (Ctrl+R)"},{
+Key:1005695,Text:"Jäädyttää esityksen jäädyttämättä esikatselualuetta.
+
+Mahdollistaa esityksen esikatselun esityksen aikana."},{
+Key:1005696,Text:"Esitä (Ctrl+P)"},{
+Key:1005697,Text:"Näyttää diat projektorissa."},{
+Key:1005698,Text:"Muokkaustila (Ctrl+E)"},{
+Key:1005699,Text:"Vaihtaa käyttö- ja muokkaustilan välillä"},{
+Key:1005702,Text:"Avaa esityslistan, jonka olet laatinut etukäteen."},{
+Key:1005703,Text:"&Sulje esityslista"},{
+Key:1005704,Text:"&Tallenna esityslista"},{
+Key:1005705,Text:"Poista"},{
+Key:1005706,Text:"Poistaa valitut kohteet esityslistalta."},{
+Key:1005707,Text:"Siirrä ylös (Ctrl+Page up)"},{
+Key:1005708,Text:"Siirtää kohdetta esityslistalla ylöspäin."},{
+Key:1005709,Text:"Siirrä alas (Ctrl+Page down)"},{
+Key:1005710,Text:"Siirtää kohdetta esityslistalla alaspäin."},{
+Key:1005711,Text:"Kirkkaus"},{
+Key:1005712,Text:"Avaa esityslista"},{
+Key:1005713,Text:"Tallentaa esityslistan levylle tai USB-muistille."},{
+Key:1005721,Text:"Valitsee Raamatun jakeet viitteillä.
+<i>Esimerkki: Room 3:23-35, 30</i>
+
+Kirjoita joko <b>\":\"</b>, <b>\".\"</b> tai <b>\"v\"</b> erottaaksesi luvut jakeista.
+
+Paina <b>\"Insert\"</b>-näppäintä lisätäksesi valitut jakeet esityslistaan."},{
+Key:1005722,Text:"Kommentit (älä käännä, jätä englanniksi)"},{
+Key:1005723,Text:"Ei voida kirjoittaa tiedostoon
+{0} :
+{1}"},{
+Key:1005724,Text:"Virhe"},{
+Key:1005725,Text:"Ei voida lukea tiedostoa
+{0} :
+{1}"},{
+Key:1005730,Text:"Haluatko todella nollata diaesityskuvien tyylin?
+Diaesityskuvien tyyliksi otetaan oletusarvot."},{
+Key:1005731,Text:"Haluatko todella nollata pohjatyylin?
+Pohjatyyliksi otetaan oletusarvot."},{
+Key:1005732,Text:"Haluatko todella poistaa lalukirjan tyylit?
+Laulukirjan tyyliksi otetaan oletusarvot."},{
+Key:1005733,Text:"Haluatko todella poistaa Raamatun tyylit?
+Raamatun tyyliksi otetaan oletusarvot."},{
+Key:1005734,Text:"Haluatko todella poistaa tämän tyylin?
+VideoPsalm ottaa käyttöön tyylimääritykset alempaa tyylihierarkiasta."},{
+Key:1005735,Text:"Poista tyyli"},{
+Key:1005736,Text:"Haluatko todella nollata videon tyylit?
+Videon tyyliksi otetaan oletusarvot."},{
+Key:1005737,Text:"Laulukirja"},{
+Key:1005738,Text:"Ei laulukirjaa"},{
+Key:1005739,Text:"Raamattu"},{
+Key:1005740,Text:"Ei Raamattua"},{
+Key:1005743,Text:"Suurenna fonttia (Ctrl+Vaihto+.)"},{
+Key:1005744,Text:"Suurentaa fonttikokoa."},{
+Key:1005745,Text:"Pienennä fonttia (Ctrl+Vaihto+,)"},{
+Key:1005746,Text:"Pienentää fontin kokoa."},{
+Key:1005747,Text:"Lihavointi (Ctrl+B)"},{
+Key:1005748,Text:"Lihavoi valitun tekstin."},{
+Key:1005749,Text:"Kursivointi (Ctrl+I)"},{
+Key:1005750,Text:"Kursivoi valitun tekstin."},{
+Key:1005751,Text:"Alleviivaus (Ctrl+U)"},{
+Key:1005752,Text:"Alleviivaa valitun tekstin."},{
+Key:1005753,Text:"Yliviivaus"},{
+Key:1005754,Text:"Piirtää viivan valitun tekstin yli."},{
+Key:1005755,Text:"Näytä/piilota ¶ (Ctrl+Vaihto+8)"},{
+Key:1005756,Text:"Näyttää kappalemerkit ja muut piilotetut muotoilumerkit."},{
+Key:1005757,Text:"Fontin väri"},{
+Key:1005758,Text:"Muuta fontin väriä."},{
+Key:1005759,Text:"Tekstin korostusväri"},{
+Key:1005760,Text:"Antaa tekstille korostusvärin."},{
+Key:1005761,Text:"Poista muotoilu (Ctrl+välilyönti)"},{
+Key:1005762,Text:"Poistaa valinnasta kaiken muotoilun jättäen ainoastaan tekstin."},{
+Key:1005763,Text:"Kumoa (Ctrl+Z)"},{
+Key:1005764,Text:"Peruuttaa viimeisimmän toiminnon."},{
+Key:1005765,Text:"Tee uudelleen (Ctrl+Y)"},{
+Key:1005766,Text:"Tekee uudelleen viimeisimmän toiminnon."},{
+Key:1005767,Text:"Leikkaa (Ctrl+X)"},{
+Key:1005768,Text:"Leikkaa valinnan leikepöydälle."},{
+Key:1005769,Text:"Kopioi (Ctrl+C)"},{
+Key:1005770,Text:"Kopioi valinnan leikepöydälle."},{
+Key:1005771,Text:"Liitä (Ctrl+V)"},{
+Key:1005772,Text:"Liittää leikepöydän sisällön."},{
+Key:1005773,Text:"Etsi (Ctrl+F)"},{
+Key:1005774,Text:"Etsi tekstiä tiedostosta."},{
+Key:1005775,Text:"Korvaa (Ctrl+H)"},{
+Key:1005776,Text:"Korvaa tekstiä tiedostossa."},{
+Key:1005777,Text:"Suurenna"},{
+Key:1005778,Text:"Näytä kaikki"},{
+Key:1005779,Text:"Muokataksesi tiettyä Raamatun jaetta, napsauta sen diaa"},{
+Key:1005780,Text:"Raamatun jakeiden valinta"},{
+Key:1005781,Text:"Lajittelee valitun laulukirjan laulut nimen perusteella."},{
+Key:1005782,Text:"Sulkee nykyisen esityslistan (ja kysyy varmistuksen, jos on tallentamattomia muutoksia)"},{
+Key:1005783,Text:"Säätää kuvan tai taustavideon kirkkautta.
+
+Auttaa tuomaan tekstin näkyviin myös värikkäällä taustalla."},{
+Key:1005784,Text:"&Kopioi esityslistan kuvaus"},{
+Key:1005785,Text:"&Sisällytä laulun sanat"},{
+Key:1005786,Text:"&Sisällytä Raamatun jakeet"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Avaa VideoPsalmin Facebook-sivu.
+
+Levitä tietoa VideoPsalmista:
+- klikkaamalla \"Tykkää\"
+- lisäämällä kaveriksi
+
+<b>Huomio:</b> Poistaaksesi mainokset Facebookista, asenna ilmainen <b>Adblock Plus</b>-lisäosa.
+
+Piilottaaksesi VideoPsalmin sosiaalisten medioiden kuvakkeet, poista ne käytöstä asetuksissa Yleiset-välilehdellä."},{
+Key:1005791,Text:"Avaa VideoPsalmin Twitter-sivu saadaksesi tiedon uusista blogiartikkeleista.
+
+Piilottaaksesi VideoPsalmin sosiaalisten medioiden kuvakkeet, poista ne käytöstä asetuksissa Yleiset-välilehdellä."},{
+Key:1005792,Text:"Avaa VideoPsalmin YouTube-sivu, josta löydät opasvideoita VideoPsalmin käyttöön.
+
+Piilottaaksesi VideoPsalmin sosiaalisten medioiden kuvakkeet, poista ne käytöstä asetuksissa Yleiset-välilehdellä."},{
+Key:1005793,Text:"Lisää uuden tyhjän laulun (tai tiedotuksen) valittuun laulukirjaan."},{
+Key:1005794,Text:"Lisää uuden tyhjän laulukirjan."},{
+Key:1005795,Text:"Lajittelee valitun laulukirjan laulut numeron perusteella."},{
+Key:1005800,Text:"Säkeistö"},{
+Key:1005801,Text:"Kerto"},{
+Key:1005802,Text:"Esikerto"},{
+Key:1005803,Text:"Bridge"},{
+Key:1005804,Text:"Tab"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Outro"},{
+Key:1005807,Text:"Slide"},{
+Key:1005808,Text:"Instrumentaali"},{
+Key:1005809,Text:"Muu"},{
+Key:1005820,Text:"V"},{
+Key:1005821,Text:"C"},{
+Key:1005822,Text:"P"},{
+Key:1005823,Text:"B"},{
+Key:1005824,Text:"T"},{
+Key:1005825,Text:"I"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"S"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"R"},{
+Key:1005850,Text:"Sulje"},{
+Key:1005851,Text:"&Kieli:"},{
+Key:1005852,Text:"&Julkaisija:"},{
+Key:1005853,Text:"Kaikki"},{
+Key:1005859,Text:"Transponoi laulun soinnut riippuen capon sijainnista."},{
+Key:1005860,Text:"Etsi lauluja, joiden nimi, alias tai sanat sisältävät syöttämäsi sanat.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005861,Text:"Suorittaa haun kahdessa vaiheessa, mistä on se etu, että saat nopeasti lyhyen luettelon lauluista:
+
+1. VideoPsalm etsii lauluja, joiden nimi (tai alias) sisältää syöttämäsi sanat.
+
+Kun jatkat sanojen lisäämistä, tulee tilanne, jolloin enempää lauluja ei löydy.
+
+2. Tässä vaiheessa VideoPsalm etsii sanoja laulujen sisällöstä (sanoista).
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005862,Text:"Etsi syöttämiesi lauluntekijöiden lauluja.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005863,Text:"Etsi lauluja, jotka käsittelevät syöttämääsi aihetta.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005864,Text:"Etsi lauluja syöttämiesi Raamatun katkelmien perusteella.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005865,Text:"Etsi lauluja syöttämäsi CCLI-lisenssin perusteella.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005866,Text:"Etsi lauluja, joiden tekijänoikeus sisältää syöttämäsi sanat.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005867,Text:"Etsi lauluja, joiden Muistio 1 sisältää syöttämäsi sanat.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005868,Text:"Etsi lauluja, joiden Muistio 2 sisältää syöttämäsi sanat.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005869,Text:"Etsi lauluja, joiden Muistio 3 sisältää syöttämäsi sanat.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005870,Text:"Etsi lauluja, joiden nimi (tai alias) sisältää syöttämäsi sanat.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005871,Text:"Etsi lauluja, joissa on soinnut.
+
+Voit etsiä laulua myös sen numerolla."},{
+Key:1005872,Text:"&Päivitetty:"},{
+Key:1005873,Text:"&Päivitetty:"},{
+Key:1005874,Text:"Laulukirjasi päivitysaika"},{
+Key:1005875,Text:"Kertoo päivämäärän, jolloin VideoPsalm on viimeksi päivittänyt tämän laulukirjan.
+
+VideoPsalmin verkkokirjaston tuontiavustajalla voit tarkistaa, onko tästä laulukirjasta uudempaa versiota.
+
+VideoPsalmin verkkokirjaston laulukirjoja päivitetään joskus esimerkiksi kirjoitusvirheiden korjaamiseksi."},{
+Key:1005876,Text:"Raamattusi päivitysaika"},{
+Key:1005877,Text:"Kertoo päivämäärän, jolloin VideoPsalm on viimeksi päivittänyt tämän Raamatun.
+
+VideoPsalmin verkkokirjaston tuontiavustajalla voit tarkistaa, onko tästä Raamatusta uudempaa versiota.
+
+VideoPsalmin verkkokirjaston Raamattuja päivitetään joskus esimerkiksi kirjoitusvirheiden korjaamiseksi."},{
+Key:1005878,Text:"Pakattu"},{
+Key:1005879,Text:"Pakattu"},{
+Key:1005880,Text:"VideoPsalm voi pakata laulukirjasi ja Raamattusi säästääkseen levytilaa.
+
+Laulukirjat ja Raamatut, jotka lataat tuontiavustajalla ovat yleensä pakattuja latauksen nopeuttamiseksi ja liikenteen vähentämiseksi VideoPsalmin verkkosivulla."},{
+Key:1005881,Text:"&Pakattu"},{
+Key:1005882,Text:"&Pakattu"},{
+Key:1005884,Text:"Haluatko todella poistaa Raamatun \"{0}\"?
+
+Tätä Raamattua vastaavaa tiedostoa ei poisteta levyltä: sen tiedostopäätteeksi muutetaan \".ignore\"."},{
+Key:1005885,Text:"Poista Raamattu"},{
+Key:1005886,Text:"Ole hyvä ja odota"},{
+Key:1005887,Text:"Lataus meneillään..."},{
+Key:1005888,Text:"Vanha testamentti"},{
+Key:1005889,Text:"Uusi testamentti"},{
+Key:1005890,Text:"Tallennus meneillään..."},{
+Key:1005891,Text:"&Tuo kuvia"},{
+Key:1005892,Text:"Valitse kuvat, jotka haluat tuoda ja napsauta \"Avaa\""},{
+Key:1005893,Text:"Toit {0} kuvaa."},{
+Key:1005894,Text:"Kuvia ei tuotu.
+(Ne olivat jo galleriassa.)"},{
+Key:1005895,Text:"&Luo esikatselukuvat uudelleen"},{
+Key:1005896,Text:"Luo esikatselukuvat uudelleen"},{
+Key:1005897,Text:"Haluatko luoda esikatselukuvat uudelleen?
+
+Esikatselukuvat voi olla hyödyllistä luoda uudelleen, jos kuvia on muokattu VideoPsalmin ulkopuolella."},{
+Key:1005898,Text:"&Poista kuva"},{
+Key:1005899,Text:"Poista kuva"},{
+Key:1005900,Text:"Haluatko todella poistaa kuvan \"{0}\"?"},{
+Key:1005901,Text:"&Selaa kuvakansiota"},{
+Key:1005902,Text:"&Poista valittu kuva"},{
+Key:1005903,Text:"&Tuo videoita"},{
+Key:1005904,Text:"Valitse videot, jotka haluat tuoda ja napsauta \"Avaa\""},{
+Key:1005905,Text:"Toit {0} videota."},{
+Key:1005906,Text:"Videoitta ei tuotu.
+(Ne olivat jo galleriassa.)"},{
+Key:1005907,Text:"&Luo esikatselukuvat uudelleen"},{
+Key:1005908,Text:"&Poista video"},{
+Key:1005909,Text:"Poista video"},{
+Key:1005910,Text:"Haluatko todella poistaa videon \"{0}\"?"},{
+Key:1005911,Text:"&Selaa videokansiota"},{
+Key:1005912,Text:"&Poista valittu video"},{
+Key:1005913,Text:"<Ilman videota>"},{
+Key:1005914,Text:"Kuvien tuonti"},{
+Key:1005915,Text:"Videoiden tuonti"},{
+Key:1005917,Text:"Ei voida luoda kansiota
+{0} :
+{1}"},{
+Key:1005918,Text:"Määritettyyn kansioon ei ole tukea:
+{0}"},{
+Key:1005919,Text:"Kansio ei voi olla tyhjä."},{
+Key:1005920,Text:"Kansion nimi ei saa sisältää seuraavia merkkejä:
+{0}"},{
+Key:1005921,Text:"Palauta laulukirjat ja Raamatut"},{
+Key:1005922,Text:"Mahdollistaa laulukirjojen, Raamattujen, kuvien tai videoiden palauttamisen varmuuskopiosta esimerkiksi USB-musitilta."},{
+Key:1005923,Text:"Sulje"},{
+Key:1005930,Text:"&Kopioi laulu kohteeseen"},{
+Key:1005931,Text:"&Siirrä laulu kohteeseen"},{
+Key:1005932,Text:"Haluatko todella kopioida laulun \"{0}\" laulukirjaan \"{1}\"?"},{
+Key:1005933,Text:"Haluatko todella siirtää laulun \"{0}\" laulukirjaan \"{1}\"?"},{
+Key:1005934,Text:"&Syötä viittaukset lyhenteinä"},{
+Key:1005935,Text:"&Näytä kirjojen nimet suomeksi"},{
+Key:1005936,Text:"(Kopio)"},{
+Key:1005937,Text:"Uusi laulukirja on saatavilla:
+{0}"},{
+Key:1005938,Text:"Uusia laulukirjoja on saatavilla: {0}"},{
+Key:1005939,Text:"Laulukirjaan \"{0}\" on tehty korjauksia"},{
+Key:1005940,Text:"Seuraaviin laulukirjoihin on tehty korjauksia: {0}"},{
+Key:1005941,Text:"Avaa laulukirjojen tuontiavustaja"},{
+Key:1005942,Text:"Uusi Raamattu on saatavilla:
+{0}"},{
+Key:1005943,Text:"Uusia Raamattuja on saatavilla: {0}"},{
+Key:1005944,Text:"Raamattuun \"{0}\" on tehty korjauksia"},{
+Key:1005945,Text:"Seuraaviin Raamattuihin on tehty korjauksia: {0}"},{
+Key:1005946,Text:"Avaa Raamattujen tuontiavustaja"},{
+Key:1005947,Text:"VideoPsalm on nyt saatavilla
+{0}"},{
+Key:1005948,Text:"VideoPsalm on nyt saatavilla kielillä: {0}"},{
+Key:1005949,Text:"Käännöksiin on tehty korjauksia kohteessa {0}"},{
+Key:1005950,Text:"Seuraavien kielten käännöksiin on tehty korjauksia: {0}"},{
+Key:1005951,Text:"Avaa käännöksien tuontiavustaja"},{
+Key:1005952,Text:"VideoPsalmista on saatavilla uudempi versio:"},{
+Key:1005953,Text:"Näytä, mikä on uutta"},{
+Key:1005954,Text:"Automaattinen"},{
+Key:1005955,Text:"Selaa valittua kansiota"},{
+Key:1005956,Text:"Valitse kansio"},{
+Key:1005957,Text:"Näytä viimeisimmät kansiot"},{
+Key:1005958,Text:"Varmuuskopioi"},{
+Key:1005959,Text:"Mahdollistaa laulukirjojesi, Raamattujesi, kuviesi ja videoidesi varmuuskopioinnin tai siirrettävän VideoPsalm-sovelluksen luomisen esimerkiksi USB-tikulle."},{
+Key:1005960,Text:"&Palauta"},{
+Key:1005961,Text:"VideoPsalm epäonnistui PowerPoint-asiakirjan näyttämisessä.
+
+(Tietokoneelta ei löytynyt PowerPoint-sovellusta)."},{
+Key:1005962,Text:"PowerPoint-virhe"},{
+Key:1005963,Text:"Lisää {0} muokattavaksi laulukirjassa \"{1}\""},{
+Key:1005964,Text:"Lisää {0} muokattavaksi laulukirjassa..."},{
+Key:1005965,Text:"Lisää {0} muokattavaksi uudessa laulukirjassa \"{1}\""},{
+Key:1005966,Text:"Raamatun jakeet"},{
+Key:1005967,Text:"&Personoidut Raamatun jakeet"},{
+Key:1005968,Text:"&Kuvaus:"},{
+Key:1005969,Text:"&Kieli:"},{
+Key:1005970,Text:"&Julkaisija:"},{
+Key:1005971,Text:"&Ylläpitäjä:"},{
+Key:1005973,Text:"&Ylläpitäjä:"},{
+Key:1005974,Text:"Tekstin yläpuolella"},{
+Key:1005975,Text:"Soinnut tekstin yläpuolella"},{
+Key:1005976,Text:"Tämä on suositeltu tapa muokata laulun sanoja.
+Kun muokkaat sanoja, kukin sointu liikkuu kirjaimen mukana, johon se on ankkuroitu.
+
+Kun <b>kopioit tekstiä, joka sisältää sointuja</b>, soinnut kopioidaan tekstin mukana ChorPro-muodossa.
+
+Kun liität tekstiä, joka sisältää sointuja ChordPro-muodossa, VideoPsalm näyttää nämä soinnut tekstin yläpuolella.
+
+<b>Lisätäksesi soinnun</b>, kirjoita se sen kirjaimen vasemmalle puolelle, johon haluat ankkuroida soinnun ja ympäröi se <b>[ ]</b> hakasuluilla.
+
+<b>Poistaaksesi soinnun</b>, poista kirjain, johon se on ankkuroitu ja kirjoita kirjain uudestaan.
+
+<b>Muokataksesi sointua</b>, poista se ensin ja lisää sen jälkeen oikein (tai käytä \"<b>ChroPro-muoto</b>\" -tilaa)"},{
+Key:1005977,Text:"ChordPro-muoto"},{
+Key:1005978,Text:"Soinnut ChorPro-muodossa"},{
+Key:1005979,Text:"Tässä tilassa:
+
+-VideoPsalm näyttää sanat ja soinnut <b>ChordPro-muodossa</b>.
+
+-Tämä on suositeltu tapa muokata sointuja: VideoPsalm ympäröi kirjoittamasi tekstin automaattisesti hakasuluilla [ ].
+Esimerkiksi, lisätäksesi C-soinnun, kirjoita \"C\", niin VideoPsalm syöttää \"[C]\"
+
+Huomio: Tämä tila ei sovi sanojen muokkaamiseen, koska kirjaimesta riippuen VideoPsalm lisää hakasulkeita.
+Käytä mieluummin \"<b>Tekstin yläpuolella</b>\" -tilaa muokataksesi tekstiä."},{
+Key:1005980,Text:"Soinnut"},{
+Key:1005981,Text:"Kopioi"},{
+Key:1005982,Text:"Kopioi esityslistan kuvauksen leikepöydälle"},{
+Key:1005983,Text:"&Salli PowerPointin käyttää esitysnäkymäänsä"},{
+Key:1005984,Text:"Kun tämä valintaruutu on valittuna, VideoPsalm antaa PowerPointin näyttää ohjauspaneelinsa."},{
+Key:1005985,Text:"Näytä loppuun"},{
+Key:1005986,Text:"Toisto"},{
+Key:1005987,Text:"Etene manuaalisesti"},{
+Key:1005988,Text:"&Esitystapa..."},{
+Key:1005989,Text:"&Ajastin..."},{
+Key:1005990,Text:"Etene &manuaalisesti"},{
+Key:1005991,Text:"&Toisto"},{
+Key:1005992,Text:"&Näytä loppuun"},{
+Key:1005993,Text:"&Aikaväli (sekunteina):"},{
+Key:1005994,Text:"&Piilota teksti ja sulje"},{
+Key:1005995,Text:"&Jatka seuraavaan kohteeseen"},{
+Key:1005996,Text:"Sulje ja jatka"},{
+Key:1005997,Text:"Piilota teksti ja jatka"},{
+Key:1005998,Text:"Näytä yhdessä seuraavan kohteen kanssa (kaksikielinen)"},{
+Key:1005999,Text:"&Selaa"},{
+Key:1006000,Text:"Tuontiavustaja"},{
+Key:1006001,Text:"Tervetuloa laulukirjojen, Raamattujen, kuvien, videoiden ja kielten tuontiavustajaan"},{
+Key:1006002,Text:"Tämä avustaja yksinkertaistaa laulukirjojen, Raamattujen, kuvien, videoiden ja kielten tuontia VideoPsalm-verkkokirjastosta ja suosituista tiedostomuodoista opastamalla sinua askel kerrallaan."},{
+Key:1006003,Text:"Napsauta \"Seuraava\" jatkaaksesi"},{
+Key:1006004,Text:"&Valitse..."},{
+Key:1006005,Text:"&Seuraava >"},{
+Key:1006006,Text:"< &Edellinen"},{
+Key:1006007,Text:"&Ohje"},{
+Key:1006008,Text:"&Valmis"},{
+Key:1006009,Text:"&Peruuta"},{
+Key:1006010,Text:"Voit tuoda laulukirjoja, Raamattuja, kuvia, videoita ja kieliä"},{
+Key:1006011,Text:"Valitse, mitä haluat tuoda"},{
+Key:1006012,Text:"Tuo laulukirja"},{
+Key:1006013,Text:"Tuo Raamattu"},{
+Key:1006014,Text:"Tuo kuvia"},{
+Key:1006015,Text:"Tuo videoita"},{
+Key:1006016,Text:"Tuo kieli"},{
+Key:1006020,Text:"&Palauta"},{
+Key:1006021,Text:"Palauttaa kansion oletusarvoon"},{
+Key:1006023,Text:"Yhteenveto ennen tuontia"},{
+Key:1006024,Text:"Napsauta \"Seuraava\" aloittaaksesi tuonnin"},{
+Key:1006025,Text:"Tuonti käynnissä"},{
+Key:1006026,Text:"Tuonti on valmis"},{
+Key:1006027,Text:"Sulkeaksesi tuontiavustajan, napsauta \"Valmis\"
+
+Napsauta \"Edellinen\" tuodaksesi muita laulukirjoja, Raamattuja tai kieliä."},{
+Key:1006029,Text:"Toit onnistuneesti {0} laulua {1} laulukirjaan."},{
+Key:1006030,Text:"Toit onnistuneesti {0} laulua uuteen laulukirjaan \"{1}\"."},{
+Key:1006031,Text:"Toit onnistuneesti Raamatun \"{0}\"."},{
+Key:1006032,Text:"Toit onnistuneesti {0} Raamattua."},{
+Key:1006033,Text:"Toit onnistuneesti kielen \"{0}\"."},{
+Key:1006034,Text:"Toit onnistuneesti {0} kieltä."},{
+Key:1006035,Text:"Haluatko lopettaa tuonnin?"},{
+Key:1006036,Text:"Tuontia ei suoritettu loppuun oikein."},{
+Key:1006037,Text:"Syötä nimi uudelle VideoPsalm-laulukirjalle"},{
+Key:1006038,Text:"Uusi laulukirja tallennetaan tällä nimellä. Voit muuttaa nimeä myöhemmin."},{
+Key:1006039,Text:"&Laulukirjalle annettava nimi:"},{
+Key:1006040,Text:"Syötä nimi uudelle VideoPsalm-raamatulle"},{
+Key:1006041,Text:"Uusi Raamattu tallennetaan tällä nimellä. Voit muuttaa nimeä myöhemmin."},{
+Key:1006042,Text:"&Raamatulle annettava nimi:"},{
+Key:1006051,Text:"Valitse laulukirjat"},{
+Key:1006052,Text:"Valitse Raamatut"},{
+Key:1006053,Text:"Valitse tiedosto"},{
+Key:1006054,Text:"Valitse kansio"},{
+Key:1006055,Text:"&Tiedosto:"},{
+Key:1006056,Text:"&Kansio:"},{
+Key:1006057,Text:"Valitse kielet"},{
+Key:1006058,Text:"Kansiota \"{0}\" ei ole olemassa."},{
+Key:1006060,Text:"Kansiota \"{0}\" ei voi käyttää.
+
+{1}"},{
+Key:1006061,Text:"Tiedostoa \"{0}\" ei ole olemassa."},{
+Key:1006062,Text:"Huomio: Monen laulukirjan lataaminen voi täyttää tietokoneen muistin ja hidastaa lauluhakua.
+Haluatko todella ladata {0} laulukirjaa?"},{
+Key:1006063,Text:"Huomio: Monen Raamatun lataaminen voi täyttää tietokoneen muistin.
+Haluatko todella ladata {0} Raamattua?"},{
+Key:1006064,Text:"Uusi nimi ei voi olla tyhjä."},{
+Key:1006065,Text:"Uusi nimi ei voi sisältää seuraavia merkkejä: {0}"},{
+Key:1006066,Text:"\"{0}\"-niminen laulukirja on jo olemassa."},{
+Key:1006067,Text:"\"{0}\"-niminen Raamattu on jo olemassa."},{
+Key:1006068,Text:"Olet peruuttanut tuonnin."},{
+Key:1006069,Text:"Tarkista internet-yhteytesi."},{
+Key:1006070,Text:"Versio saatavilla alkaen {0}"},{
+Key:1006071,Text:"Uusi versio saatavilla alkaen {0}"},{
+Key:1006072,Text:"Versiosi on kohteesta {0}"},{
+Key:1006073,Text:"Versiosi kohteesta {0} on ajan tasalla."},{
+Key:1006074,Text:"Nimi"},{
+Key:1006075,Text:"Tila"},{
+Key:1006076,Text:"Ei ladattu"},{
+Key:1006077,Text:"Ajan tasalla"},{
+Key:1006078,Text:"Päivitys saatavilla"},{
+Key:1006079,Text:"Uusi"},{
+Key:1006080,Text:"Uusi päivitys saatavilla"},{
+Key:1006081,Text:"Ei laulukirjaa valittuna. Sinun täytyy valita vähintään yksi laulukirja."},{
+Key:1006082,Text:"Ei Raamattua valittuna. Sinun täytyy valita vähintään yksi Raamattu."},{
+Key:1006083,Text:"Ei kieltä valittuna. Sinun täytyy valita vähintään yksi kieli."},{
+Key:1006084,Text:"Koodi"},{
+Key:1006085,Text:"Lähdetiedosto: <b>{0}</b>"},{
+Key:1006086,Text:"Lähdekansio:
+<b>{0}</b>"},{
+Key:1006087,Text:"Etsittävä tiedosto"},{
+Key:1006090,Text:"Uudelle VideoPsalm-raamatulle annettava nimi: <b>{0}</b>"},{
+Key:1006091,Text:"Uudelle VideoPsalm-laulukirjalle annettava nimi: <b>{0}</b>"},{
+Key:1006095,Text:"Joskus VideoPsalm-verkkokirjastoon lisätään ja päivitetään tiedostoja (esimerkiksi kirjoitusvirheiden korjaamiseksi). Riippuen ylläolevien tiedostojen tilasta, voit päättää, haluatko ladata ne vai et.
+
+<b>Näin tunnistat tiedostojen tilan:</b>
+- Tiedostot, joita et ole ladannut, esitetään tavallisena tekstinä.
+- Tiedostot, jotka olet ladannut ja jotka ovat ajan tasalla, esitetään <i>kursivoituna</i>. Ne on merkitty OK:lla <image=check_16>. 
+Niitä ei tarvitse ladata uudelleen, ellet halua peruuttaa niihin tekemiäsi muutoksia.
+- Tiedostot, jotka olet ladannut ja joihin on saatavilla päivityksiä, esitetään <b>lihavoituna</b>. Ne on merkitty kynällä <image=pencil2_16>.
+
+Oikealla oleva tekstikenttä kertoo tiedostoon tehdyt muutokset: tämä auttaa sinua päättämään, haluatko ladata sen uudelleen.
+
+<b>Varoitus:</b> Jos päivität tiedoston lataamalla sen uudelleen, menetät siihen tekemäsi muutokset ja tyylimääritykset, koska VideoPsalm korvaa tiedoston uudella. Muokkaamaasi tiedostoa ei kuitenkaan poisteta: se säilytetään levyllä, mutta ei näy VideoPsalmille, koska sen tiedostopäätteeksi muutetaan .ignore.
+
+<b>Vinkki:</b> lataa vain tiedostot, joille sinulla on käyttöä. Jos sinulla on liikaa tiedostoja, VideoPsalmin latautuminen ja sanahaku voivat hidastua.
+
+Huomaa, että voit poistaa laulukirjan tai Raamatun VideoPsalmista milloin tahansa käyttämällä \"<image=delete2_16> Poista\"-nappia \"Muokkaa\"-välilehdellä."},{
+Key:1006096,Text:"&Kohteen\" {0}\" muutoshistoria"},{
+Key:1006100,Text:"VideoPsalm-verkkokirjaston laulukirjat (tuhansia lauluja)"},{
+Key:1006105,Text:"EasySlides-laulut"},{
+Key:1006110,Text:"MediaShout-laulut"},{
+Key:1006115,Text:"OpenLP-laulut"},{
+Key:1006116,Text:"VerseView-laulut"},{
+Key:1006120,Text:"OpenLyrics-muotoiset laulut"},{
+Key:1006125,Text:"OpenSong-laulut"},{
+Key:1006130,Text:"Psalmo-laulukirja"},{
+Key:1006131,Text:"Laulukirja tekstimuodossa"},{
+Key:1006132,Text:"EasyWorship 2009 -laulut"},{
+Key:1006133,Text:"ChordPro-muotoiset laulut"},{
+Key:1006134,Text:"WebAsaph-laulut"},{
+Key:1006135,Text:"CCLI-muotoiset laulut"},{
+Key:1006140,Text:"VideoPsalm-verkkokirjaston Raamatut (kymmeniä Raamattuja)"},{
+Key:1006145,Text:"Bible Database -raamattu"},{
+Key:1006150,Text:"OpenLP-raamattu"},{
+Key:1006155,Text:"OpenSong-raamattu"},{
+Key:1006160,Text:"Unbound Bible -raamattu"},{
+Key:1006165,Text:"Zefania-raamattu"},{
+Key:1006166,Text:"EasySlides-raamattu"},{
+Key:1006167,Text:"Raamattu Osis-muodossa."},{
+Key:1006168,Text:"Raamatun kirjat USFM-muodossa (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Valitse VideoPsalm-verkkokirjaston laulukirjat, jotka haluat tuoda VideoPsalmiin."},{
+Key:1006185,Text:"Valitse EasySlides-tietokanta, jonka laulut haluat tuoda VideoPsalmiin (tiedostopääte .mdb)"},{
+Key:1006190,Text:"Valitse MediaShout-tietokanta, jonka laulut haluat tuoda VideoPsalmiin (tiedostopääte .mdb)"},{
+Key:1006195,Text:"Valitse tiedosto, joka sisältää OpenLP-laulut, jotka haluat tuoda VideoPsalmiin (tiedostopääte .sqlite)"},{
+Key:1006196,Text:"Valitse VerseView-tietokanta, jonka laulut haluat tuoda VideoPsalmiin (tiedostopääte .db)"},{
+Key:1006200,Text:"Valitse kansio, joka sisältää OpenLyrics-muotoiset laulut, jotka haluat tuoda VideoPsalmiin (tiedostopääte .xml)"},{
+Key:1006205,Text:"Valitse kansio, joka sisältää OpenSong-laulut, jotka haluat tuoda VideoPsalmiin (ei tiedostopäätettä)"},{
+Key:1006210,Text:"Valitse Psalmosta viety RTF-muotoinen laulukirja, jonka haluat tuoda VideoPsalmiin (tiedostopääte .rtf)"},{
+Key:1006211,Text:"Valitse tekstimuotoinen laulukirja, jonka haluat tuoda VideoPsalmiin (tiedostopääte .txt)"},{
+Key:1006212,Text:"Valitse EasyWorship 2009 -tietokanta, jonka laulut haluat tuoda VideoPsalmiin (tiedostopääte .db)"},{
+Key:1006213,Text:"Valitse kansio, joka sisältää ChordPro-muotoiset laulut, jotka haluat tuoda VideoPsalmiin (tiedostopääte .chordpro, .chopro, .crd tai .cho)"},{
+Key:1006214,Text:"Valitse WebAsaph-tietokanta, jonka laulut haluat tuoda VideoPsalmiin (tiedostopääte .ltc)"},{
+Key:1006215,Text:"Valitse kansio, joka sisältää CCLI-muotoiset laulut, jotka haluat tuoda VideoPsalmiin (tiedostopääte .usr)"},{
+Key:1006220,Text:"Valitse VideoPsalm-verkkokirjaston Raamatut, jotka haluat tuoda VideoPsalmiin"},{
+Key:1006225,Text:"Valitse Bible Database -raamattu, jonka haluat tuoda VideoPsalmiin (tiedostopääte.txt)"},{
+Key:1006230,Text:"Valitse OpenLP-raamattu, jonka haluat tuoda VideoPsalmiin (tiedostopääte .sqlite)"},{
+Key:1006235,Text:"Valitse OpenSong-raamattu, jonka haluat tuoda VideoPsalmiin (ei tiedostopäätettä)"},{
+Key:1006240,Text:"Valitse Unbound Bible -raamattu, jonka haluat tuoda VideoPsalmiin (tiedostopääte .txt)"},{
+Key:1006245,Text:"Valitse Zefania-raamattu, jonka haluat tuoda VideoPsalmiin (tiedostopääte .xml)"},{
+Key:1006247,Text:"Valitse EasySlides-raamattu, jonka haluat tuoda VideoPsalmiin (tiedostopääte .mdb)"},{
+Key:1006248,Text:"Valitse Osis-muotoinen Raamattu, jonka haluat tuoda VideoPsalmiin (tiedostopääte .xml, .osi tai .osis)"},{
+Key:1006249,Text:"Valitse USFM-muotoiset Raamatun kirjat, jotka haluat tuoda VideoPsalmiin (tiedostopääte .sfm tai .usfm)"},{
+Key:1006252,Text:"Valitse VideoPsalm-verkkokirjaston kielet, jotka haluat tuoda VideoPsalmiin."},{
+Key:1006255,Text:"Tuo <b>{0} laulukirja(a) VideoPsalm-verkkokirjastosta</b> :
+{1}"},{
+Key:1006260,Text:"Tuo <b>EasySlides-lauluja</b>"},{
+Key:1006265,Text:"Tuo <b>MediaShout-lauluja</b>"},{
+Key:1006270,Text:"Tuo <b>OpenLP-lauluja</b>"},{
+Key:1006271,Text:"Tuo <b>VerseView-lauluja</b>"},{
+Key:1006275,Text:"Tuo <b>OpenLyrics-muotoisia lauluja</b>"},{
+Key:1006280,Text:"Tuo <b>OpenSong-lauluja</b>"},{
+Key:1006285,Text:"Tuo <b>Psalmo-laulukirja</b>"},{
+Key:1006286,Text:"Tuo <b>laulukirja tekstimuodossa</b>"},{
+Key:1006287,Text:"Tuo <b>EasyWorship 2009 -lauluja</b>"},{
+Key:1006288,Text:"Tuo <b>ChordPro-muotoisia lauluja</b>"},{
+Key:1006289,Text:"Tuo <b>WebAsaph-lauluja</b>"},{
+Key:1006290,Text:"Tuo <b>CCLI-muotoisia lauluja</b>"},{
+Key:1006295,Text:"Tuo <b>{0} Raamattu(a) VideoPsalmin verkkokirjastosta</b> :
+{1}"},{
+Key:1006300,Text:"Tuo <b>Bible Database -raamattu</b>"},{
+Key:1006305,Text:"Tuo <b>OpenLP-raamattu</b>"},{
+Key:1006310,Text:"Tuo <b>OpenSong-raamattu</b>"},{
+Key:1006315,Text:"Tuo <b>Unbound Bible -raamattu</b>"},{
+Key:1006320,Text:"Tuo <b>Zefania-raamattu</b>"},{
+Key:1006321,Text:"Tuo <b>EasySlides-raamattu</b>"},{
+Key:1006322,Text:"Tuo <b>Osis-muotoinen raamattu</b>"},{
+Key:1006323,Text:"Tuo <b>USFM-muotoinen raamattu</b>"},{
+Key:1006325,Text:"Tuo <b>{0} kieltä VideoPsalmin verkkokirjastosta</b> :
+{1}"},{
+Key:1006340,Text:"Valitse EasySlide-tietokanta"},{
+Key:1006345,Text:"Valitse MediaShout-tietokanta"},{
+Key:1006350,Text:"Valitse OpenLP-laulutieokanta"},{
+Key:1006351,Text:"Valitse VerseView-laulutietokanta"},{
+Key:1006355,Text:"Valitse kansio, joka sisältää lauluja OpenLyrics-muodossa"},{
+Key:1006360,Text:"Valitse kansio, joka sisältää OpenSong-lauluja"},{
+Key:1006365,Text:"Valitse RTF-tiedosto, joka sisältää Psalmosta vietyjä lauluja"},{
+Key:1006366,Text:"Valitse tiedosto, joka sisältää lauluja tekstimuodossa"},{
+Key:1006367,Text:"Valitse EasyWorship 2009 -tietokanta"},{
+Key:1006368,Text:"Valitse kansio, joka sisältää lauluja ChordPro-muodossa"},{
+Key:1006369,Text:"Valitse WebAsaph-tietokanta"},{
+Key:1006370,Text:"Valitse kansio, joka sisältää lauluja CCLI-muodossa"},{
+Key:1006375,Text:"Valitse Bible Database -raamattu"},{
+Key:1006380,Text:"Valitse OpenLP-raamattu"},{
+Key:1006385,Text:"Valitse OpenSong-raamattu"},{
+Key:1006390,Text:"Valitse Unbound Bible -raamattu"},{
+Key:1006395,Text:"Valitse Zefania-raamattu"},{
+Key:1006397,Text:"Valitse EasySlides-raamattu"},{
+Key:1006398,Text:"Valitse Osis-raamattu"},{
+Key:1006399,Text:"Valitse Raamatun kirjoja USFM-muodossa"},{
+Key:1006405,Text:"EasySlide-tietokanta"},{
+Key:1006410,Text:"MediaShout 4 -tietokanta"},{
+Key:1006411,Text:"MediaShout 3 -tietokanta"},{
+Key:1006415,Text:"OpenLP -laulutietokanta"},{
+Key:1006416,Text:"EasyWorship 2009 -tietokanta"},{
+Key:1006417,Text:"VerseView-tietokanta"},{
+Key:1006420,Text:"Kansio \"{0}\" ei sisällä yhtään OpenLyrics-muotoista laulua (tiedostopääte .xml)"},{
+Key:1006425,Text:"Kansio \"{0}\" ei sisällä yhtään OpenSong-laulua (OpenSong-lauluissa ei ole tiedostopäätettä)."},{
+Key:1006430,Text:"Psalmosta viedyt laulut"},{
+Key:1006431,Text:"Laulut tekstimuodossa"},{
+Key:1006432,Text:"Kansio \"{0}\" ei sisällä yhtään ChordPro-muotoista laulua (tiedostopääte .chordpro, .chopro, .crd tai .cho)."},{
+Key:1006433,Text:"WebAsaph-tietokanta"},{
+Key:1006434,Text:"Kansio \"{0}\" ei sisällä yhtään CCLI-muotoista laulua (tiedostopääte .usr)."},{
+Key:1006440,Text:"BibleDatabase-raamattu"},{
+Key:1006445,Text:"OpenLP-raamatut"},{
+Key:1006450,Text:"OpenSong-raamatut"},{
+Key:1006455,Text:"Unbound Bible -raamatut"},{
+Key:1006460,Text:"Zefania-raamatut"},{
+Key:1006462,Text:"EasySlides-raamatut"},{
+Key:1006463,Text:"Osis-raamatut"},{
+Key:1006464,Text:"USFM-muotoiset Raamatun kirjat"},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"KJV"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"I love the Lord 1"},{
+Key:1006506,Text:"JEM 1.rtf"},{
+Key:1006507,Text:"My Songs.txt"},{
+Key:1006508,Text:"KJV.mdb"},{
+Key:1006509,Text:"I love the Lord"},{
+Key:1006510,Text:"MSAccess-tietokannat"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.sfm"},{
+Key:1006515,Text:"Kaikki tiedostot"},{
+Key:1006520,Text:"SQLite-tietokannat"},{
+Key:1006525,Text:"Paradox-tietokannat"},{
+Key:1006526,Text:"WebAsaph-tietokannat"},{
+Key:1006600,Text:"Valitse VideoPsalm-verkkokirjasto tai muu lähde"},{
+Key:1006601,Text:"VideoPsalm-verkkokirjasto sisältää monia laulukirjoja useilla kielillä"},{
+Key:1006602,Text:"VideoPsalm-verkkokirjasto (internet-yhteys tarvitaan tuotaessa)"},{
+Key:1006603,Text:"Tuo lauluja suosituissa muodoissa kiintolevyltäsi"},{
+Key:1006604,Text:"Valitse VideoPsalm-verkkokirjasto tai muu lähde"},{
+Key:1006605,Text:"VideoPsalm-verkkokirjasto sisältää monia Raamatunkäännöksiä useilla kielillä"},{
+Key:1006606,Text:"VideoPsalm-verkkokirjasto (internet-yhteys tarvitaan tuotaessa)"},{
+Key:1006607,Text:"Tuo Raamattuja suosituissa muodoissa kiintolevyltäsi"},{
+Key:1006608,Text:"Mikä on laulujesi lähdemuoto?"},{
+Key:1006609,Text:"Mikä on Raamattujesi lähdemuoto?"},{
+Key:1006610,Text:"Voit tuoda VideoPsalmiin suosituissa muodoissa tietokoneellesi tallennettuja Raamattuja"},{
+Key:1006611,Text:"Voit tuoda VideoPsalmiin suosituissa muodoissa tietokoneellesi tallennettuja lauluja"},{
+Key:1007000,Text:"Varmuuskopiointi"},{
+Key:1007001,Text:"Haluatko aloittaa VideoPsalmin varmuuskopioinnin kansioon
+\"{0}\"?"},{
+Key:1007004,Text:"Varmuuskopiota ei voida luoda valittuun kansioon, koska se sijaitsee samassa kansiossa VideoPsalmin nykyisten tiedostojen kanssa.
+({0})."},{
+Key:1007005,Text:"Asemalla {0} ei ole riittävästi tilaa.
+Tarvittava tila: {1:#,#.#} Mt,
+saatavilla oleva tila: {2:#,#.#} Mt"},{
+Key:1007006,Text:"Varmuuskopiointia ei voitu suorittaa loppuun:
+
+{0}"},{
+Key:1007007,Text:"Ei voida ladata Microsoft .NET Framework 4.0:aa:
+
+{0}
+
+Tämä voi johtua internet-yhteyden puuttumisesta. Varmuuskopiointi jatkuu, mutta et voi asentaa Microsoft .NET Framework 4.0:aa varmuuskopiosta."},{
+Key:1007008,Text:"{0} ei käytettävissä"},{
+Key:1007009,Text:"Muistutus: Ei voitu kopioida
+Microsoft .NET Framework 4.0 -asennustiedostoa."},{
+Key:1007010,Text:"Varmuuskopiointi suoritettu onnistuneesti."},{
+Key:1007011,Text:"Haluatko keskeyttää varmuuskopioinnin?"},{
+Key:1007030,Text:"Valitse tai luo kansio, jonne uusi VideoPsalm-varmuuskopio tallennetaan"},{
+Key:1007031,Text:"Varmuuskopiointi kopioi tiedostosi (laulukirjat, Raamatut, kuvat, videot, tyylit) määrittämääsi sijaintiin, esimerkiksi:
+- USB-tikulle
+- ulkoiselle kiintolevylle
+- verkkokansioon
+- jne.
+
+<b>Varmuuskopiointi mahdollistaa:</b>
+- tiedostojesi turvaamisen kopioimalla ne turvalliseen sijaintiin
+- siirrettävän VideoPsalm-sovelluksen luomisen esimerkiksi USB-muistille
+- tiedostojesi helpon siirtämisen toiselle tietokoneelle palautustoimintoa käyttäen
+
+<b>Huomautus:</b> Synkronoidaksesi VideoPsalm-tiedostot usean tietokoneen kanssa, voit käyttää synkronointipalvelua, kuten SkyDrive tai DropBox."},{
+Key:1007032,Text:"Valitse tiedostot, jotka haluat varmuuskopioida:"},{
+Key:1007033,Text:"&Laulukirjat"},{
+Key:1007034,Text:"&Raamatut"},{
+Key:1007035,Text:"&Kuvat"},{
+Key:1007036,Text:"&Videot"},{
+Key:1007037,Text:"&Tallenna tiedostot kohteeseen:"},{
+Key:1007038,Text:"Määritä kansio, johon haluat tallentaa VideoPsalmin tiedostot.
+
+Esimerkki:\" E:\\VideoPsalm-varmuuskopioni\"
+
+Jos kansiota ei ole olemassa, se luodaan automaattisesti varmuuskopioinnin aikana."},{
+Key:1007039,Text:"&Luo siirrettävä VideoPsalm-sovellus"},{
+Key:1007040,Text:"Lisää kaikki VideoPsalmin tarvitsemat suoritettavat tiedostot varmuuskopiokansioon. 
+
+Siirrettävä VideoPsalm-sovellus kannattaa luoda USB-muistitikulle.
+
+Siirrettävän varmuuskopion avulla voit käyttää VideoPsalmia millä tahansa tietokoneella suoraan USB-muistilta ilman tarvetta asentaa VideoPsalmia tietokoneelle.
+
+USB-muistilta käynnistettäessä voit käyttää kaikkia VideoPsalmin ominaisuuksia, mukaanlukien varmuuskopiointia. Tämä mahdollistaa VideoPsalmin varmuuskopioinnin toiselle tietokoneelle, jolla sitä voidaan sen jälkeen käyttää ilman USB-muistia.
+
+
+<b>Tärkeää</b>
+VideoPsalmin asetuksia ei lisätä varmuuskopioon. Kun käytät VideoPsalmia tietokoneella ensimmäistä kertaa, saatat joutua säätämään asetuksia."},{
+Key:1007041,Text:"&Lisää Microsoft .NET Framework 4.0 -asennustiedosto"},{
+Key:1007042,Text:"VideoPsalm vaatii toimiakseen Microsoft .NET Framework 4.0:n. Uudemmissa tietokoneissa se (tai uudempi) on usein esiasennettuna. Jos et ole varma, onko .NET Framework 4.0 asennettuna toisessa tietokoneessa, valitse \"Lisää Microsoft .NET Framework 4.0 -asennustiedosto\". VideoPsalm tallentaa kopion asennustiedostosta USB-muistiin (saattaa vaatia internet-yhteyden).
+
+USB-muistista voit helposti asentaa .NET Framework 4.0:n toiselle tietokoneelle ennen VideoPsalmin käynnistystä. Asentaminen on nopeaa, eikä yleensä vaadi Windowsin uudelleenkäynnistystä.
+
+Löydät .NET Framework 4.0 -asennustiedoston varmuuskopiokansiosta. Tiedoston nimi on \"dotNetFx40_Full_x86_x64.exe\". Aloittaaksesi asennuksen kaksoisnapsauta tätä tiedostoa."},{
+Key:1007043,Text:"&Aloita varmuuskopiointi"},{
+Key:1007044,Text:"Lataa Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"&VideoPsalmin tiedostokansio (kansio, joka tallennetaan):"},{
+Key:1007046,Text:"Säilytä määritetystä kansiosta löytyneet laulukirjat varmuuskopioitavien lisäksi"},{
+Key:1007047,Text:"Poista määritetystä kansiosta löytyneet laulukirjat varmuuskopioitavien tieltä"},{
+Key:1007048,Text:"Säilytä määritetystä kansiosta löytyneet Raamatut varmuuskopioitavien lisäksi"},{
+Key:1007049,Text:"Poista määritetystä kansiosta löytyneet Raamatut varmuuskopioitavien tieltä"},{
+Key:1007050,Text:"Säilytä määritetystä kansiosta löytyneet kuvat varmuuskopioitavien lisäksi"},{
+Key:1007051,Text:"Poista määritetystä kansiosta löytyneet kuvat varmuuskopioitavien tieltä"},{
+Key:1007052,Text:"Säilytä määritetystä kansiosta löytyneet videot varmuuskopioitavien lisäksi"},{
+Key:1007053,Text:"Poista määritetystä kansiosta löytyneet videot varmuuskopioitavien tieltä"},{
+Key:1007054,Text:"Valitse tai luo kansio VideoPsalmin varmuuskopiota varten"},{
+Key:1007055,Text:"Säilytä määritetystä kansiosta löytyneet äänitiedostot varmuuskopioitavien lisäksi"},{
+Key:1007056,Text:"Poista määritetystä kansiosta löytyneet äänitiedostot varmuuskopioitavien tieltä"},{
+Key:1007057,Text:"&Äänitiedostot"},{
+Key:1008000,Text:"Palauta varmuuskopio"},{
+Key:1008001,Text:"Haluatko palauttaa VideoPsalmin varmuuskopion kansiosta
+\"{0}\" ?
+
+Huomio: Riippuen tekemistäsi valinnoista, nykyisiä tiedostojasi saatetaan korvata tai poistaa."},{
+Key:1008002,Text:"Syötä palautettava varmuuskopiokansio."},{
+Key:1008004,Text:"Varmuuskopiota ei voida palauttaa valitsemastasi kansiosta, koska se sijaitsee samassa kansiossa VideoPsalmin nykyisten tiedostojen kanssa."},{
+Key:1008006,Text:"Palautusta ei voida suorittaa loppuun:
+
+{0}"},{
+Key:1008010,Text:"Palautus suoritettu onnistuneesti."},{
+Key:1008011,Text:"Haluatko keskeyttää palautuksen?"},{
+Key:1008012,Text:"Palauta varmuuskopio"},{
+Key:1008032,Text:"Valitse tiedostot, jotka haluat palauttaa:"},{
+Key:1008033,Text:"&Laulukirjat"},{
+Key:1008034,Text:"&Raamatut"},{
+Key:1008035,Text:"&Kuvat"},{
+Key:1008036,Text:"&Videot"},{
+Key:1008043,Text:"&Palauta"},{
+Key:1008044,Text:"Säilytä laulukirjani varmuuskopiosta palautettavien lisäksi"},{
+Key:1008045,Text:"Poista laulukirjani varmuuskopiosta palautettavien tieltä "},{
+Key:1008046,Text:"Säilytä Raamattuni varmuuskopiosta palautettavien lisäksi"},{
+Key:1008047,Text:"Poista Raamattuni varmuuskopiosta palautettavien tieltä "},{
+Key:1008048,Text:"Säilytä kuvani varmuuskopiosta palautettavien lisäksi"},{
+Key:1008049,Text:"Poista kuvani varmuuskopiosta palautettavien tieltä"},{
+Key:1008050,Text:"Säilytä videoni varmuuskopiosta palautettavien lisäksi"},{
+Key:1008051,Text:"Poista videoni varmuuskopiosta palautettavien tieltä"},{
+Key:1008052,Text:"&Palauta varmuuskopio kohteesta:"},{
+Key:1008053,Text:"Määritä kansio, josta VideoPsalmin tiedostot palautetaan.
+
+Esimerkki: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&VideoPsalmin tiedostokansio (kansio, johon varmuuskopio palautetaan)"},{
+Key:1008055,Text:"Päivitä"},{
+Key:1008056,Text:"Valitse kansio, joka sisältää VideoPsalmin varmuuskopion"},{
+Key:1008057,Text:"&Äänitiedostot"},{
+Key:1008058,Text:"Säilytä äänitiedostoni varmuuskopiosta palautettavien lisäksi"},{
+Key:1008059,Text:"Poista äänitiedostoni varmuuskopiosta palautettavien tieltä"},{
+Key:1008999,Text:"Videoprojektori"},{
+Key:1009000,Text:"laulu"},{
+Key:1009001,Text:"{0} laulua"},{
+Key:1009002,Text:"jaeluettelo"},{
+Key:1009003,Text:"{0} Raamatun jaeluetteloa"},{
+Key:1009004,Text:"kuva"},{
+Key:1009005,Text:"{0} kuvaa"},{
+Key:1009006,Text:"Raamattu \"{0}\"."},{
+Key:1009007,Text:"Luku {0}"},{
+Key:1009009,Text:"{0} Raamattua"},{
+Key:1009010,Text:"Kuva \"{0}\"."},{
+Key:1009011,Text:"{0} ({1} kuvaa)"},{
+Key:1009012,Text:"{0} kuvaa"},{
+Key:1009013,Text:"{0} ({1} diaa)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Ladataan oletustyyli"},{
+Key:1009016,Text:"Ladataan laulukirjan tyyliä"},{
+Key:1009017,Text:"Ladataan laulukirjaa \"{0}\"."},{
+Key:1009018,Text:"Ladataan Raamatun tyyliä"},{
+Key:1009019,Text:"Ladataan Raamattua \"{0}\"."},{
+Key:1009020,Text:"Kansio: {0}"},{
+Key:1009100,Text:"{0} ({1} laulua)"},{
+Key:1009101,Text:"{0} (vain yksi laulu)"},{
+Key:1009102,Text:"{0} (ei lauluja)"},{
+Key:1009103,Text:"Tiedosto \"{0}\", jonne VideoPsalm haluaisi tallentaa uuden laulukirjan \"{1}\", on jo olemassa.
+
+Tämän uuden laulukirjan tallentaminen ei onnistu. Anna lyhenne tai yksilöllinen nimi laulukirjalle ja yritä uudelleen."},{
+Key:1009104,Text:"Tallennus epäonnistui"},{
+Key:1009105,Text:"Ei voida siirtää tiedostoa
+{0}
+kohteeseen
+{1}.
+
+(2)"},{
+Key:1009107,Text:"{0} laulukirjaa"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} Raamatun jakeet)"},{
+Key:1009111,Text:"Video \"{0}\""},{
+Key:1009112,Text:"{0} ({1} videota)"},{
+Key:1009113,Text:"{0} videota"},{
+Key:1009114,Text:"Ei voi tallentaa. Anna laulukirjalle nimi tallentaaksesi sen."},{
+Key:1010000,Text:"Näytä enemmän värejä"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Sulje"},{
+Key:1010003,Text:"&Läpinäkyvä"},{
+Key:1010004,Text:"Peruuta"},{
+Key:1010005,Text:"OK"},{
+Key:1010006,Text:"Näytä vähemmän värejä"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"G"},{
+Key:1010010,Text:"B"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Sulje lisäämättä kenttää"},{
+Key:1011001,Text:"Laulukirjan lyhenne"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Laulun sanoittaja"},{
+Key:1011004,Text:"Laulukirjan kirjoittaja"},{
+Key:1011005,Text:"Capo"},{
+Key:1011006,Text:"Sävellaji"},{
+Key:1011007,Text:"Säveltäjä"},{
+Key:1011008,Text:"Laulun tekijänoikeudet"},{
+Key:1011009,Text:"Laulukirjan tekijänoikeudet"},{
+Key:1011010,Text:"Säkeistötunniste"},{
+Key:1011011,Text:"Tunniste ja säkeistön numero"},{
+Key:1011012,Text:"Muoto"},{
+Key:1011013,Text:"Seurakunnan lisenssi"},{
+Key:1011014,Text:"Key line"},{
+Key:1011015,Text:"Muistio 1"},{
+Key:1011016,Text:"Muistio 2"},{
+Key:1011017,Text:"Muistio 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Säkeistön numero"},{
+Key:1011020,Text:"Säkeistön numero (ei kerto)"},{
+Key:1011021,Text:"Laulun numero"},{
+Key:1011022,Text:"Verse note"},{
+Key:1011023,Text:"Laulukirjan laulujen määrä"},{
+Key:1011024,Text:"Säkeistöjen määrä"},{
+Key:1011025,Text:"Viittaus"},{
+Key:1011026,Text:"Säkeistöjen järjestys"},{
+Key:1011027,Text:"Tahtilaji"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Teema"},{
+Key:1011030,Text:"Laulun nimi"},{
+Key:1011031,Text:"Laulukirjan nimi"},{
+Key:1011032,Text:"Sävelkorkeus"},{
+Key:1011033,Text:"3. Poista kaikki kentät"},{
+Key:1011034,Text:"2. Käytä oletuskenttiä"},{
+Key:1011035,Text:"Ylläpitäjä"},{
+Key:1011036,Text:"Kieli"},{
+Key:1011037,Text:"Julkaisija"},{
+Key:1011038,Text:"Transponointi"},{
+Key:1011101,Text:"Raamatun lyhenne"},{
+Key:1011102,Text:"Kirjan lyhenne"},{
+Key:1011103,Text:"Luku"},{
+Key:1011104,Text:"Raamatun tekijänoikeus"},{
+Key:1011105,Text:"Raamatun kuvaus"},{
+Key:1011107,Text:"Julkaisija"},{
+Key:1011108,Text:"Kieli"},{
+Key:1011109,Text:"Raamatun nimi"},{
+Key:1011110,Text:"Kirjan nimi"},{
+Key:1011111,Text:"Kirjan lukujen määrä"},{
+Key:1011112,Text:"Luvun jakeiden määrä"},{
+Key:1011113,Text:"Testamentti"},{
+Key:1011114,Text:"Jae"},{
+Key:1011115,Text:"Raamatun ylläpitäjä"},{
+Key:1011200,Text:"&Lisää kenttä:"},{
+Key:1011201,Text:"Jakeen tai säkeistön ylä- tai alatunnisteessa näytettävä teksti"},{
+Key:1011202,Text:"Kirjoita näytettävä teksti.
+Teksti on vapaa ja muodostuu yleensä ennalta määritetyistä kentistä.
+
+Esimerkkejä ennalta määritetyistä kentistä laululle:
+- laulun otsikko: <b>[Laulun nimi]</b>
+- laulun numero: <b>[Laulun numero]</b>
+- laulukirjan otsikko: <b>[Laulukirjan nimi]</b>
+- laulukirjan lyhenne: <b>[Laulukirjan lyhenne]</b>
+- jne.
+
+Jakeelle:
+- kirjan nimi: <b>[Kirjan nimi]</b>
+- luku: <b>[Luku]</b>
+- jae: <b>[Jae]</b>
+Kokoi viite:
+  <b>[Kirjan nimi] [Luku]: [Jae]</b>
+- Raamatun nimi: <b>[Raamattu nimi]</b>
+- jne.
+
+Esityksen aikana VideoPsalm korvaa ennalta määritetyt kentät vastaavilla arvoilla. 
+
+Ennalta määritetyt kentät tulee ympäröidä hakasulkeilla <b>[ ]</b>. Niissä ei saa olla kirjoitusvirheitä. Kirjainkoolla on merkitystä.
+
+<b>Lisätäksesi helposti ennalta määritettyjä kenttiä, käytä alla olevaa pudotusvalikkoa.</b>
+
+Teksti voi sisältää useita rivejä.
+
+Palauttaaksesi oletusarvot, tyhjennä kenttä kokonaan (Ctrl+A, Delete)"},{
+Key:1011203,Text:"Ennalta määritettyjen kenttien luettelo"},{
+Key:1011204,Text:"Lisätäksesi ennalta määritetyn kentän, valitse se luettelosta.
+
+Kenttä lisätään automaattisesti ylläolevaan tekstiin, valitsemaasi kohtaan."},{
+Key:1012000,Text:"Tiedosto {0} on jo olemassa.
+
+Haluatko korvata sen?"},{
+Key:1012001,Text:"Olemassa oleva tiedosto"},{
+Key:1013000,Text:"Piilota videon esikatselu"},{
+Key:1013001,Text:"Näytä videon esikatselu"},{
+Key:1013002,Text:"Suurenna videon kokoa suhteellisesti täyttääksesi näytön"},{
+Key:1013003,Text:"Pienennä videon kokoa näyttääksesi sen kokonaan"},{
+Key:1013004,Text:"Poista toisto käytöstä"},{
+Key:1013005,Text:"Ota toisto käyttöön"},{
+Key:1013006,Text:"Aloita alusta"},{
+Key:1013007,Text:"Pysäytä"},{
+Key:1013008,Text:"Toista"},{
+Key:1013009,Text:"Mene loppuun"},{
+Key:1013010,Text:"Ääni"},{
+Key:1013011,Text:"Mykistä"},{
+Key:1013012,Text:"Äänenvoimakkuus"},{
+Key:1013013,Text:"Etsi"},{
+Key:1013014,Text:"Määritä videon rajat globaalisti"},{
+Key:1013015,Text:"Määritä videon rajat dialle"},{
+Key:1013016,Text:"Kulunut aika"},{
+Key:1013017,Text:"Aika yhteensä"},{
+Key:1013018,Text:"Jäljellä oleva aika"},{
+Key:1013019,Text:"Napsauta vaihtaaksesi näytettävän arvon"},{
+Key:1018000,Text:"mn"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minuutti"},{
+Key:1018003,Text:"minuuttia"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"tunti"},{
+Key:1018006,Text:"tuntia"},{
+Key:1018007,Text:"pv"},{
+Key:1018008,Text:"päivä"},{
+Key:1018009,Text:"päivää"},{
+Key:1018010,Text:"vk"},{
+Key:1018011,Text:"viikko"},{
+Key:1018012,Text:"viikkoa"},{
+Key:1018013,Text:"kuukausi"},{
+Key:1018014,Text:"kuukautta"},{
+Key:1018015,Text:"vuosi"},{
+Key:1018016,Text:"vuotta"},{
+Key:1019000,Text:"Sulje"},{
+Key:1019001,Text:"Pienennä"},{
+Key:1019002,Text:"Suurenna"},{
+Key:1019003,Text:"Palauta koko"},{
+Key:1019004,Text:"Ohje"},{
+Key:1019100,Text:"&Etsi"},{
+Key:1019101,Text:"&Tyhjennä"},{
+Key:1019301,Text:"&OK"},{
+Key:1019302,Text:"&Peruuta"},{
+Key:1019303,Text:"&Kyllä"},{
+Key:1019304,Text:"&Ei"},{
+Key:1019305,Text:"&Keskeytä"},{
+Key:1019306,Text:"&Yritä uudelleen"},{
+Key:1019307,Text:"&Ohita"},{
+Key:1019308,Text:"&Kumoa"},{
+Key:1019309,Text:"&Leikkaa"},{
+Key:1019310,Text:"&Kopioi"},{
+Key:1019311,Text:"&Liitä"},{
+Key:1019312,Text:"&Poista"},{
+Key:1019313,Text:"&Valitse kaikki"},{
+Key:1020000,Text:"Ensimmäinen Mooseksen kirja"},{
+Key:1020001,Text:"Toinen Mooseksen kirja"},{
+Key:1020002,Text:"Kolmas Mooseksen kirja"},{
+Key:1020003,Text:"Neljäs Mooseksen kirja"},{
+Key:1020004,Text:"Viides Mooseksen kirja"},{
+Key:1020005,Text:"Joosuan kirja"},{
+Key:1020006,Text:"Tuomarien kirja"},{
+Key:1020007,Text:"Ruutin kirja"},{
+Key:1020008,Text:"Ensimmäinen Samuelin kirja"},{
+Key:1020009,Text:"Toinen Samuelin kirja"},{
+Key:1020010,Text:"Ensimmäinen kuninkaiden kirja"},{
+Key:1020011,Text:"Toinen kuninkaiden kirja"},{
+Key:1020012,Text:"Ensimmäinen aikakirja"},{
+Key:1020013,Text:"Toinen aikakirja"},{
+Key:1020014,Text:"Esran kirja"},{
+Key:1020015,Text:"Nehemian kirja"},{
+Key:1020016,Text:"Esterin kirja"},{
+Key:1020017,Text:"Jobin kirja"},{
+Key:1020018,Text:"Psalmien kirja"},{
+Key:1020019,Text:"Sananlaskujen kirja"},{
+Key:1020020,Text:"Saarnaajan kirja"},{
+Key:1020021,Text:"Laulujen laulu"},{
+Key:1020022,Text:"Jesajan kirja"},{
+Key:1020023,Text:"Jeremian kirja"},{
+Key:1020024,Text:"Valitusvirret"},{
+Key:1020025,Text:"Hesekielin kirja"},{
+Key:1020026,Text:"Danieli kirja"},{
+Key:1020027,Text:"Hoosean kirja"},{
+Key:1020028,Text:"Joelin kirja"},{
+Key:1020029,Text:"Aamoksen kirja"},{
+Key:1020030,Text:"Obadjan kirja"},{
+Key:1020031,Text:"Joonan kirja"},{
+Key:1020032,Text:"Miikan kirja"},{
+Key:1020033,Text:"Nahumin kirja"},{
+Key:1020034,Text:"Habakukin kirja"},{
+Key:1020035,Text:"Sefanjan kirja"},{
+Key:1020036,Text:"Haggain kirja"},{
+Key:1020037,Text:"Sakarjan kirja"},{
+Key:1020038,Text:"Malakian kirja"},{
+Key:1020039,Text:"Matteuksen evankeliumi"},{
+Key:1020040,Text:"Markuksen evankeliumi"},{
+Key:1020041,Text:"Luukkaan evankeliumi"},{
+Key:1020042,Text:"Johanneksen evankeliumi"},{
+Key:1020043,Text:"Apostolien teot"},{
+Key:1020044,Text:"Kirje roomalaisille"},{
+Key:1020045,Text:"Ensimmäinen kirje korinttilaisille"},{
+Key:1020046,Text:"Toinen kirje korinttilaisille"},{
+Key:1020047,Text:"Kirje galatalaisille"},{
+Key:1020048,Text:"Kirje efesolaisille"},{
+Key:1020049,Text:"Kirje filippiläisille"},{
+Key:1020050,Text:"Kirje kolossalaisille"},{
+Key:1020051,Text:"Ensimmäinen kirje tessalonikalaisille"},{
+Key:1020052,Text:"Toinen kirje tessalonikalaisille"},{
+Key:1020053,Text:"Ensimmäinen kirje Timoteukselle"},{
+Key:1020054,Text:"Toinen kirje Timoteukselle"},{
+Key:1020055,Text:"Kirje Titukselle"},{
+Key:1020056,Text:"Kirje Filemonille"},{
+Key:1020057,Text:"Kirje heprealaisille"},{
+Key:1020058,Text:"Jaakobin kirje"},{
+Key:1020059,Text:"Ensimmäinen Pietarin kirje"},{
+Key:1020060,Text:"Toinen Pietarin kirje"},{
+Key:1020061,Text:"Ensimmäinen Johanneksen kirje"},{
+Key:1020062,Text:"Toinen Johanneksen kirje"},{
+Key:1020063,Text:"Kolmas Johanneksen kirje"},{
+Key:1020064,Text:"Juudaksen kirje"},{
+Key:1020065,Text:"Johanneksen ilmestys"},{
+Key:1020100,Text:"1 Moos"},{
+Key:1020101,Text:"2 Moos"},{
+Key:1020102,Text:"3 Moos"},{
+Key:1020103,Text:"4 Moos"},{
+Key:1020104,Text:"5 Moos"},{
+Key:1020105,Text:"Joos"},{
+Key:1020106,Text:"Tuom"},{
+Key:1020107,Text:"Ruut"},{
+Key:1020108,Text:"1 Sam"},{
+Key:1020109,Text:"2 Sam"},{
+Key:1020110,Text:"1 Kun"},{
+Key:1020111,Text:"2 Kun"},{
+Key:1020112,Text:"1 Aik"},{
+Key:1020113,Text:"2 Aik"},{
+Key:1020114,Text:"Esra"},{
+Key:1020115,Text:"Neh"},{
+Key:1020116,Text:"Est"},{
+Key:1020117,Text:"Job"},{
+Key:1020118,Text:"Ps"},{
+Key:1020119,Text:"Sananl"},{
+Key:1020120,Text:"Saarn"},{
+Key:1020121,Text:"Laul"},{
+Key:1020122,Text:"Jes"},{
+Key:1020123,Text:"Jer"},{
+Key:1020124,Text:"Valit"},{
+Key:1020125,Text:"Hes"},{
+Key:1020126,Text:"Dan"},{
+Key:1020127,Text:"Hoos"},{
+Key:1020128,Text:"Joel"},{
+Key:1020129,Text:"Aam"},{
+Key:1020130,Text:"Ob"},{
+Key:1020131,Text:"Joona"},{
+Key:1020132,Text:"Miika"},{
+Key:1020133,Text:"Nah"},{
+Key:1020134,Text:"Hab"},{
+Key:1020135,Text:"Sef"},{
+Key:1020136,Text:"Hagg"},{
+Key:1020137,Text:"Sak"},{
+Key:1020138,Text:"Mal"},{
+Key:1020139,Text:"Matt"},{
+Key:1020140,Text:"Mark"},{
+Key:1020141,Text:"Luuk"},{
+Key:1020142,Text:"Joh"},{
+Key:1020143,Text:"Apt"},{
+Key:1020144,Text:"Room"},{
+Key:1020145,Text:"1 Kor"},{
+Key:1020146,Text:"2 Kor"},{
+Key:1020147,Text:"Gal"},{
+Key:1020148,Text:"Ef"},{
+Key:1020149,Text:"Fil"},{
+Key:1020150,Text:"Kol"},{
+Key:1020151,Text:"1 Tess"},{
+Key:1020152,Text:"2 Tess"},{
+Key:1020153,Text:"1 Tim"},{
+Key:1020154,Text:"2 Tim"},{
+Key:1020155,Text:"Tit"},{
+Key:1020156,Text:"Filem"},{
+Key:1020157,Text:"Hepr"},{
+Key:1020158,Text:"Jaak"},{
+Key:1020159,Text:"1 Piet"},{
+Key:1020160,Text:"2 Piet"},{
+Key:1020161,Text:"1 Joh"},{
+Key:1020162,Text:"2 Joh"},{
+Key:1020163,Text:"3 Joh"},{
+Key:1020164,Text:"Juud"},{
+Key:1020165,Text:"Ilm"}]}

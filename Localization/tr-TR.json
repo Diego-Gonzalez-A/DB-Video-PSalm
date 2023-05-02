@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Turkish (Turkey)"},{
+Key:1000000,Text:"Çeviri"},{
+Key:1000001,Text:"NO"},{
+Key:1000003,Text:"&Ekle..."},{
+Key:1000004,Text:"Bir veya daha fazla dilde VideoPsalm için Ekle"},{
+Key:1000006,Text:"&Gönder"},{
+Key:1000007,Text:"Etiketler e-posta ile VideoPsalm için sonraki kurulum içine göndermek"},{
+Key:1000009,Text:"&Uygula"},{
+Key:1000011,Text:"&Kaydet"},{
+Key:1000012,Text:"VideoPsalm içinde seçilen dilde geçerli. Değişiklikleri otomatik olarak önceden kaydedilir."},{
+Key:1000013,Text:"Etiketleri kaydedin"},{
+Key:1000015,Text:"&Silme"},{
+Key:1000016,Text:"VideoPsalm sil seçilen dil ve onun tüm etiketleri"},{
+Key:1000022,Text:"&{0} cinsinden:"},{
+Key:1000024,Text:"&Diller:"},{
+Key:1000029,Text:"Plak şirketleri"},{
+Key:1000030,Text:"Etiketleri değişti.
+
+Bu değişiklikleri kaydetmek ister misiniz?"},{
+Key:1000031,Text:"Bir dil Kaldır"},{
+Key:1000032,Text:"VideoPsalm {0} dili silmek istediğinizden emin misiniz?
+
+Bu işlem bu dilin tüm metinleri silecek ve geri alınamaz."},{
+Key:1000035,Text:"Sıkıştırılmış dosyalar .zip uzantısı oluşturmak için VideoPsalm gelir
+ilgili dil etiketleri içeren.
+Uygun dosya açılır, sonra videopsalm@gmail.com bu e-posta e-posta ekleyin."},{
+Key:1000036,Text:"E-posta etiketleri Gönder"},{
+Key:1000037,Text:"<b>Bu 'Tercüme' penceresinde, VideoPsalm formlarında görünen metinleri düzenleyebilirsiniz.</b>
+Çevir, uyum veya VideoPsalm, VideoPsalm içinde herhangi bir metin arayüzü bile doğru böylece.
+
+<i>Bu bileşen çok fazla yer kaplar, üst solda bulunan küçük azaltma butonuna tıklayarak azaltmak veya fare ile yatay ayırıcı resize.</i>
+
+VideoPsalm çeşitli dillerde sunulmaktadır. VideoPsalm dil sol başlıklı 'dil' altındaki panelinde listelenir.
+Dil bu listede görünmüyorsa, sen-ebilmek burada, senin diline VideoPsalm. Not Bu muhtemelen birkaç saatlik çalışma olacaktır.
+
+İşte VideoPsalm dil olması:
+
+-Dilinizin sen arasında seçerek listeye \" <image=add2_16>Ekle\" butonu aracılığı ile bulacaksınız ekleyin.
+-Sağ aşağıdaki tabloya in VideoPsalm kontrol dil etiketleri görüntüler.
+-Dil etiketleri çevir.
+
+Tabloda boş, bir Excel elektronik tablosu gibi etiketleri düzenleyebilirsiniz.
+Tablo bir arama kutusu bulunmaktadır. Böylece, yalnızca belirli sözcükleri içeren etiketleri göstermek için bu kelimeleri arama kutusuna yazın ve sonra \"ara\" butonuna tıklayın.
+Her üstbilgi dil bulunan filtre alanında bazı belirli sözcükleri içeren bir dil etiketleri filtre uygulamak için de kullanabilirsiniz.
+
+İşinizi kolaylaştırmak için biliyorsun, daha iyi her etiket anlamını anlamak için ve aynı anda birden çok dilde okumak için bir veya daha çok diğer dilleri seçin.
+Çünkü onlar belirli etiketleri önemini daha iyi anlamak ve nerede kullanıldıkları izin yorum kontrol.
+
+<b>Not:</b> Çünkü birçok kişi İngilizce anlamak İngilizce yorum en iyisidir.
+
+Çeviri iş sonucunu görmek için:
+-Tıklayarak dillerde Panel dilinizi seçin
+   daha sonra
+-'Uygula' (alt) butonuna tıklayın.
+
+VideoPsalm seçmiş olduğunuz dilde görüntülenir.
+
+<image=disk_blue>. Kaydet\"düğmesini tıklayarak tercüme çalışmanızı kaydetmeyi unutmayalım
+Yeni bir dil kaydettikten sonra Seçenekler penceresinde seçebilirsiniz.
+
+Bize çevirileriniz gönderin veya düzeltme butonunu tıklayarak <b>videopsalm@gmail.com</b> at e-posta ile g├╢nder\" <image=mail_16>\".
+Bu düğmeyi tıklattığınızda, iki şey olur:
+1. E-posta istemcinizi otomatik olarak, örneğin Outlook açılır.
+2. Bir Explorer klasör VideoPsalm diller adlı .zip uzantılı dosyaları sıkıştırılmış yerleştirdiğini açar.
+
+Sürükleyin ve uygun dosyayı e-posta damla ve böylece biz VideoPsalm gelecekteki bir sürümüne dahil olabilir sonrası.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"VideoPsalm kendi dilinize çevirmek için?"},{
+Key:1000039,Text:"Diller içinde VideoPsalm çevrilir. Tablo etiketlerini görüntülemek istediğiniz dilleri seçin. Dilinizi listeye eklemek için 'Ekle' düğmesini tıklatın."},{
+Key:1001000,Text:"Dil ekleme"},{
+Key:1001001,Text:"&Diller:"},{
+Key:1001002,Text:"Eklemek için dil seçin"},{
+Key:1001003,Text:"&Ekle"},{
+Key:1001004,Text:"İptal"},{
+Key:1001005,Text:"Yardım (F1)"},{
+Key:1002000,Text:"Seçenekler"},{
+Key:1002003,Text:"&Genel"},{
+Key:1002004,Text:"&Görüntüleme"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Koleksiyonlar"},{
+Key:1002015,Text:"&İncil'e"},{
+Key:1002103,Text:"&Dil:"},{
+Key:1002105,Text:"&VideoPsalm Belgeler klasörü:"},{
+Key:1002106,Text:"VideoPsalm Belgeler klasörü seçin:"},{
+Key:1002112,Text:"&İncille ayet (metin ve stili) yaptığınız değişiklikleri kaydetmek"},{
+Key:1002202,Text:"&Tırnak işaretleri yerine « <size=+4>'» Fransız tırnak tarafından « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Tipografi Fransız kurallarını kullanın"},{
+Key:1002204,Text:"&Bölünemez tireleri kısa şarkıları, eski yerine koymak"},{
+Key:1002205,Text:"&İncille ayet bölünemez tireleri çizgilerle değiştirin"},{
+Key:1002304,Text:"&İşleme yöntemi:"},{
+Key:1002306,Text:"Standart"},{
+Key:1002307,Text:"Geliştirilmiş"},{
+Key:1002502,Text:"&Uygula"},{
+Key:1002503,Text:"Değişikliklerinizi kaydedin ve pencereyi açık tutun"},{
+Key:1002504,Text:"Tamam"},{
+Key:1002505,Text:"Değişikliklerinizi kaydedin ve pencereyi kapatın"},{
+Key:1002508,Text:"Değişiklikleri kaydetmeden pencereyi kapatın"},{
+Key:1002510,Text:"&Lisans Kilisesi:"},{
+Key:1002513,Text:"Buraya girdiğiniz isteğe bağlı metin otomatik olarak üstbilgi veya altbilgide slaytın görüntülenebilir.
+
+Örneğin, burada lisans CILC, kilisenin sayısını belirtebilirsiniz."},{
+Key:1002516,Text:"&Üstbilgi alanları:"},{
+Key:1002517,Text:"&Subfooter alanları:"},{
+Key:1002531,Text:"Yazı tipini değiştirmek için VideoPsalm görüntülenir.
+
+Standart yazı tipleri:
+- <b>Tahoma</b> için pencere eşiği XP
+- <b>Segoe UI</b> Windows Vista, Windows 7 ve Windows 8
+
+Standart ölçü: 8,25"},{
+Key:1002532,Text:"Tam olarak dikkate alınacak VideoPsalm bir politika değişikliği için yeniden başlatmanız gerekir."},{
+Key:1002533,Text:"Bu kutu işaretlenirse, VideoPsalm yüksekliği slaytlar yer virgüldür bir Fransız kesme işareti ile düz kesme yerini alacak.
+
+Düzenleyicisi'nde bir şarkının sözlerini girdiğinizde, kolayca üstünde senin klavye, genellikle düz kesme işareti bulmak karakter kullanmanızı öneririz."},{
+Key:1002534,Text:"Bu kutu işaretlenirse, VideoPsalm slayt Fransız tipografi uygun noktalama bazı karakterlerin aralığını yeniden düzenler.
+
+Örneğin, bir şarkıyı aşağıdaki sözcükler varsa: <b>Rab!</b>
+
+VideoPsalm ekran: <b>Rab!</b>
+
+İşte özel tedavi zevk noktalama karakterleri:
+<b>: ; ! ? »</b><i>VideoPsalm koyun bir bölünemez boşluk ve sonraki boşluk.</i><b>«</b><i>VideoPsalm koyun önce boşluk ve bölünemez boşluk sonra.</i>
+
+VideoPsalm değil diğer noktalama karakterleri aralığını düzenler.
+
+Yeni bir şarkı sözlerini girdiğinizde, biz tavsiye tipografi geleneksel kuralları izleyin, yani noktalama onları ilgilendiren sözler için sopa. Bu şekilde, sen-ecek muktedir Fransız tipografi görüntü bu onay kutusu seçildiğinde değil bu kutuyu işaretleyerek veya ülke kurallarına uymak.
+
+<b>Not:</b> Bu dil Fransızca, Frankofon Afrika Cumhuriyeti, Belçika, Quebec veya örneğin İsviçre'de olsa bile Fransız tipografi kuralları ülkenizde geçerli değildir mümkündür.
+
+Boşluk ve noktalama Fransız tipografi üzerinde tam başvuru için bkz: <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, sayfa 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Yazı tipi:"},{
+Key:1002536,Text:"&Boyutu:"},{
+Key:1002539,Text:"Bu kutu işaretlenirse, VideoPsalm bilgilendirmek, program veya ilgili haber yeni işlevler varlığı onun başlatma sırasında:
+-Koleksiyonlar
+-İncil,
+- ve VideoPsalm dillerini.
+
+Yeni koleksiyon, İncil'e yeni dil ve yeni dil VideoPsalm için bazen VideoPsalm online kitaplığa eklenir.
+
+Bu durumda, birkaç tıklatmayla yüklemenizi Alma Sihirbazı ile bu yeni belgeler ekleyin."},{
+Key:1002540,Text:"Bu kutu işaretlenirse, VideoPsalm slaytlar aynı satırda kalması için bir tire ile bağlantılı kelimeler gerektirir.
+
+Varsayılan değer şarkı sözleri için: <b>kontrol</b>"},{
+Key:1002541,Text:"Bu kutu işaretlenirse, VideoPsalm slaytlar aynı satırda kalması için bir tire ile bağlantılı kelimeler gerektirir.
+
+Varsayılan değer için İncil âyetleri: <b>işaretli</b>"},{
+Key:1002542,Text:"Bu kutu işaretlenirse, VideoPsalm (metin ve stili) İncil ayet için yaptığınız değişiklikleri kaydetmek sağlar.
+
+Bu kutu işaretli değilse:
+
+<b>1.</b> VideoPsalm kapattığınızda, o size, İncil olduğunu değiştirildi, bilgilendirmeyecektir
+
+Değişikliklerinizi kaydettiğinizde <b>2</b> , VideoPsalm (metin ve stil), İncil için yapılan değişiklikleri kaydetmez
+
+<b>3</b> VideoPsalm sonraki başlangıçta olduğu gibi İncil bulacaksınız."},{
+Key:1002543,Text:"VideoPsalm dili burada görüntülenir seçin.
+
+Belki de dil listede görünmüyorsa, Alma Sihirbazı ile VideoPsalm Kütüphane çevrimiçi kullanılabilir.
+
+VideoPsalm dil yoksa, lütfen bize e-posta videopsalm@gmail.com at bilgilendirmek
+
+Alternatif olarak, VideoPsalm metin VideoPsalm çeviri aracı dilde tercüme veya hataları düzeltmek yardımcı olabilir.
+
+Çeviri aracı VideoPsalm düğmesi \"Çevirmek VideoPsalm\" ile başlar."},{
+Key:1002544,Text:"Hangi VideoPsalm klasöründen yüklemek onun kitapları, İncil, resimleri ve videoları seçin.
+
+Klasör değiştirdiğinizde, VideoPsalm kendi koleksiyonları, İncil'e, resimleri ve videoları bu yeni klasör yeniler.
+
+<b>Dikkat</b> : klasörü değiştirmeden önce yaptığınız değişiklikleri kaydettiğinizden emin olun."},{
+Key:1002545,Text:"Yazı tipini değiştirmek için VideoPsalm görüntülenir.
+
+Standart ölçü: 8,25
+
+Ayrıca Windows seçenekleri üzerinden yazı tipi boyutunu değiştirebilirsiniz: Denetim Masası -&gt; ekran okunabilirliği ekranda->."},{
+Key:1002547,Text:"&VideoPsalm tercüme"},{
+Key:1002548,Text:"İle senin diline VideoPsalm, veya herhangi bir yazım hatalarını düzeltme aracını açar."},{
+Key:1002549,Text:"Klasörün nerede VideoPsalm belgeler yük olmayacak--dan değişmek üzere olduğunuz.
+VideoPsalm geçerli belgeler kaldırın ve sonra bu yeni klasöre yükleyin.
+Bu birkaç dakika sürebilir.{0}
+
+Belge klasörü değiştirmek istediğinizden emin misiniz?"},{
+Key:1002550,Text:"Orada kaydedilmemiş değişiklikler (koleksiyonları, İncil veya Takvim).
+İşlemin kayıt onaylamak, bu değişiklikler kaybolur."},{
+Key:1002551,Text:"Belgeler klasörü değiştirme"},{
+Key:1002552,Text:"&Gündem"},{
+Key:1002553,Text:"Varsayılan desen:"},{
+Key:1002554,Text:"&şarkı:"},{
+Key:1002555,Text:"&İncil verse:"},{
+Key:1002556,Text:"&Slayt gösterisi resimleri:"},{
+Key:1002557,Text:"&Özerk videolar:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Zaman aşımı varsayılan otomatik peşin:"},{
+Key:1002560,Text:"saniye"},{
+Key:1002561,Text:"&Bir dil ekleme"},{
+Key:1002562,Text:"Alma Sihirbazı içinde VideoPsalm çevrilir, dil, yeni diller için senin VideoPsalm ekleyebileceğiniz açar."},{
+Key:1002580,Text:"Varsayılan metin akışı bir şarkı sonra"},{
+Key:1002581,Text:"Varsayılan metin akışı bir şarkı son ayet sonra belirler.
+
+Bu değer aynı zamanda kendiliğinden gündem görüntülemek şarkılar için dikkate alınır.
+Takvim içinde her bir şarkı için bu değeri değiştirebilirsiniz."},{
+Key:1002582,Text:"İncil ayetler sonra varsayılan metin akışı"},{
+Key:1002583,Text:"Varsayılan metin akışı, bir İncil geçit son ayet sonra belirler.
+
+Bu değer de kendiliğinden gündem görüntülemek İncil geçişleri dikkate alınır.
+Takvim içinde her İncil geçiş için bu değeri değiştirebilirsiniz."},{
+Key:1002584,Text:"Varsayılan metin akışı bir resim slayt sonra"},{
+Key:1002585,Text:"Varsayılan metin akışı, bir resim slayt sonra belirler.
+
+Takvim içinde her resim için bu değeri değiştirebilirsiniz."},{
+Key:1002586,Text:"Varsayılan metin akışı sonra tek başına bir video"},{
+Key:1002587,Text:"Varsayılan metin akışı tek başına video sonra belirler.
+
+Takvim içinde tek başına her video için bu değeri değiştirebilirsiniz."},{
+Key:1002588,Text:"Varsayılan metin akışı bir PowerPoint sonra"},{
+Key:1002589,Text:"Varsayılan metin akışı sonra PowerPoint belirler.
+
+Takvim içinde her PowerPoint için bu değeri değiştirebilirsiniz."},{
+Key:1002590,Text:"Sonraki slayda otomatik geçiş önce saniye cinsinden varsayılan zaman aralığı belirler.
+
+Takvim içinde otomatik olarak akan her öğe için bu değeri değiştirebilirsiniz."},{
+Key:1002591,Text:"&Arka plan resimleri (önerilen) gündemde depolama"},{
+Key:1002592,Text:"Arka plan resimleri depolamak gündemde"},{
+Key:1002593,Text:"VideoPsalm herhangi bir arka plan görüntüleri şarkıları depolamanız gerekir olup olmadığını gösterir ve Gündem dosyası ayet İncil, kaydettiğinizde bu."},{
+Key:1002594,Text:"&Arka plan (tavsiye) video gündem saklamak"},{
+Key:1002595,Text:"Mağaza arka plan video içinde gündeme"},{
+Key:1002596,Text:"Kaydederken VideoPsalm arka planda şarkı ve Gündem dosyası ayet İncil herhangi bir video saklamak gösterir."},{
+Key:1002597,Text:"&Slayt gösterisi resimleri depolama (önerilen) gündem"},{
+Key:1002598,Text:"Slayt gösterisi resimleri gündemde depolama"},{
+Key:1002599,Text:"Kaydederken VideoPsalm mümkün görüntüleri slayt gösterisi takvimi dosyasında depolamak olup olmadığını gösterir."},{
+Key:1002600,Text:"&Tek başına videolar (önerilen) gündem saklamak"},{
+Key:1002601,Text:"Gündemde özerk videoları saklamak"},{
+Key:1002602,Text:"Kaydederken VideoPsalm gündem dosyası videoları daha özerk depolamalısınız olup olmadığını gösterir."},{
+Key:1002603,Text:"&Mağaza PowerPoints gündemindeki (önerilen)"},{
+Key:1002604,Text:"PowerPoints gündemde saklamak"},{
+Key:1002605,Text:"Kaydederken VideoPsalm herhangi bir PowerPoints takvimi dosyasında depolamak olup olmadığını gösterir."},{
+Key:1002606,Text:"Özellikle senin gündeminin bir hangi-ecek göstermek sana sununuzu başka bir bilgisayarda hazırlıyorsanız bu seçeneği belirlemeniz önerilir."},{
+Key:1002607,Text:"&Editör"},{
+Key:1002608,Text:"&Yazı tipi:"},{
+Key:1002609,Text:"Bir şarkının sözlerini ve İncil ayetlerin düzenleme yazı tipini belirtir.
+
+Özellikle, bu yazı metni ekranda görüntülemek için kullanılır."},{
+Key:1002610,Text:"&Metin boyutu:"},{
+Key:1002611,Text:"Bir şarkının sözlerini ve İncil ayetlerin düzenleme yazı tipi boyutunu belirtir.
+
+Bu yazı tipi boyutu özellikle metni ekranda görüntülemek için kullanılır."},{
+Key:1002612,Text:"&Sözleşmelerin yazı tipi:"},{
+Key:1002613,Text:"Bir şarkının anlaşmaları düzenleme yazı tipini belirtir.
+
+Bu yazı tipi özellikle anlaşmaları sunu ekranda görüntülemek için kullanılır."},{
+Key:1002614,Text:"&Sözleşmelerin metnin boyutu:"},{
+Key:1002615,Text:"Bir şarkının anlaşmalarının yazı tipi boyutu metin düzenleyicisinde belirtir.
+
+Bu yazı tipi boyutu özellikle anlaşmalara tanıtım ekranında görüntülemek için kullanılır."},{
+Key:1002616,Text:"&Anlaşmalar renk:"},{
+Key:1002617,Text:"Anlaşmalar metin düzenleyicisinde görüntülenme rengini belirtir.
+
+Özellikle, bu renk anlaşmaları sunu ekranda görüntülemek için kullanılır."},{
+Key:1002618,Text:"&Bölünemez beyaz renk:"},{
+Key:1002619,Text:"Rengi belirler hangi kırma beyaz metin düzenleyicide görüntülenir."},{
+Key:1002620,Text:"&Kıtaların Etiketler renk:"},{
+Key:1002621,Text:"Hangi kıtaların Etiketler vurgulanır text editor içinde belirler."},{
+Key:1002622,Text:"&Şeffaflık kıtaların etiketleri:"},{
+Key:1002623,Text:"Hangi kıtaların Etiketler vurgulanır rengin saydamlığını text editor içinde belirtir."},{
+Key:1002624,Text:"&ChordPro anlaşmaları renk:"},{
+Key:1002625,Text:"Hangi ChordPro anlaşmaları vurgulanmış metin modunda ChordPro Editör belirler."},{
+Key:1002626,Text:"&ChordPro anlaşmaları şeffaflık:"},{
+Key:1002627,Text:"Hangi anlaşmaların ChordPro vurgulanır rengin saydamlığını ChordPro Editör metin modunda belirtir."},{
+Key:1002628,Text:"&Yedek fontları (önerilen)"},{
+Key:1002629,Text:"Metin düzenleyicisi olarak mevcut fontun eksik karakterler bu başka bir yazı tipi tarafından geçersiz kılmak verir.
+
+Harf çevirisi faaliyet gösteren Unicode olmayan bir yazı tipi kullanıyorsanız, ikame karakter devre dışı bırakın.
+Bu bazı Hintçe, Tamil dili, Bamati, Malayalam yazı tipleri, durumda vs.
+
+Not bir Unicode yazı tipini kullanmak için tercih edilir.
+Unicode metin için hazırlanan şarkıları dönüştürmek için bir online çevirici, örneğin burada kullanın: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Basitleştirilmiş, kutsal RTL metin düzenleyicisiyle uyumlu erişime"},{
+Key:1002631,Text:"Düzenleme modunda basitleştirilmiş metin şarkı erişim sağlar Metin Düzenleyicisi araç çubuğu'nun sol ek bir düğme görüntüler.
+
+Bu basitleştirilmiş editörü, sağdan sola (RTL), özellikle için yazılı Arapça ve İbranice ile uyumludur."},{
+Key:1002632,Text:"PC'niz için en iyi video işleme yöntemini seçin. VideoPsalm videoları wmv en PC'ler biçimi üzerinde görüntülenir."},{
+Key:1002633,Text:"&Bildirimleri"},{
+Key:1002634,Text:"Eğer başlangıçta, bildirin:"},{
+Key:1002635,Text:"&Bir yeni yorum-in VideoPsalm (önerilen)"},{
+Key:1002636,Text:"&Yeni koleksiyonları (önerilen)"},{
+Key:1002637,Text:"&Yeni İncil (önerilen)"},{
+Key:1002638,Text:"&Yeni dil (önerilen)"},{
+Key:1002639,Text:"&Bağlantı bir proxy varlığı zorluk"},{
+Key:1002640,Text:"Bir proxy varlığı"},{
+Key:1002641,Text:"VideoPsalm otomatik olarak yeni ürünler veya güncelleştirmeler hakkında bilgi almak için bir proxy sunucu olup olmadığını belirlemek olup olmadığını gösterir.
+
+VideoPsalm Kitaplar veya kendi online kütüphane İncil indiremiyorum, bu seçeneği belirleyebilir ve sonra işlemi yeniden deneyin.
+
+Sadece o değil, bu seçeneği seçin. Nitekim, bu seçenek VideoPsalm kütüphane online kitap ve İncil'e indirme bir yavaşlama neden olur."},{
+Key:1002642,Text:"&Sosyal simgeleri gizle"},{
+Key:1002643,Text:"Araç Çubuğu'nun sosyal simgeleri (Facebook, Twitter ve YouTube) gizler.
+
+Bu simgeler, Internet bağlantısı yokluğunda gizli kalır."},{
+Key:1002644,Text:"&Mağaza ses şarkılar (önerilen) gündem"},{
+Key:1002645,Text:"Gündem mağaza ses şarkılar"},{
+Key:1002646,Text:"Kaydederken VideoPsalm şarkı ses takvim dosyasında depolamak olup olmadığını gösterir."},{
+Key:1002648,Text:"&Özelleştirme"},{
+Key:1002649,Text:"&Video kamera"},{
+Key:1002650,Text:"&Önceki"},{
+Key:1002651,Text:"&Bankası"},{
+Key:1002652,Text:"&Metin"},{
+Key:1002653,Text:"&Kalkan"},{
+Key:1002654,Text:"&Kar tanesi"},{
+Key:1002655,Text:"&Hata"},{
+Key:1002656,Text:"Slayt paneli"},{
+Key:1002657,Text:"&Sonraki"},{
+Key:1002658,Text:"Araç çubuğu"},{
+Key:1002659,Text:"Yönetim Kurulu gündemi"},{
+Key:1002660,Text:"&Mount"},{
+Key:1002661,Text:"&İnin"},{
+Key:1002662,Text:"&Araç ipuçlarını gizlemek"},{
+Key:1003000,Text:"Sürüm {0} {1}"},{
+Key:1003003,Text:"Kapat"},{
+Key:1003005,Text:"&İletişim VideoPsalm"},{
+Key:1003006,Text:"Açık Outlook (VideoPsalm için e-posta göndermek için e-posta istemcisi)"},{
+Key:1003007,Text:"Bu sürüm güncelleme"},{
+Key:1003008,Text:"&Güncelleştirmek benim yorum"},{
+Key:1003009,Text:"VideoPsalm daha yeni bir sürümü bulunmaktadır:
+Plaka 1 için sürüm {0}: {d}.
+Belgili tanımlık download sayfa açmak için bu düğmeyi tıklatın.
+Burada sen-ecek bulmak değişiklik tarihçesi
+ve bir download linki."},{
+Key:1003011,Text:"-Rapor
+-Bir açıklama veya bir öneri yapmak"},{
+Key:1003012,Text:"E-posta adresi: videopsalm@gmail.com"},{
+Key:1003500,Text:"Transpozisyon Kaldır"},{
+Key:1003501,Text:"Bir semitone daha fazla aktarılması"},{
+Key:1003502,Text:"Semitone daha az aktarılması"},{
+Key:1003503,Text:"Olmadan"},{
+Key:1003504,Text:"Capo Sil"},{
+Key:1003505,Text:"Uzak kafasına hareket eden bir capo için tersine dönüştürme"},{
+Key:1003506,Text:"Baş yakın gelir capo için tersine dönüştürme"},{
+Key:1003507,Text:"Olmadan"},{
+Key:1003508,Text:"Vokal ses dosyasını atın"},{
+Key:1003509,Text:"&Ses dosyası:"},{
+Key:1003510,Text:"'Açık' ithalat ve ardından ses dosyaları seçin."},{
+Key:1003511,Text:"{0} ses dosyası (s) ithal."},{
+Key:1003512,Text:"Hiç ses dosyasını içe aktarılmış.
+((S) o zaten listede (s) bulunur)."},{
+Key:1003513,Text:"Ses dosyalarını içe aktarma"},{
+Key:1003514,Text:"Ses dosyaları"},{
+Key:1003515,Text:"Resimleri aramak için anahtar sözcükler"},{
+Key:1003516,Text:"Görüntü"},{
+Key:1003517,Text:"Video olmadan"},{
+Key:1003518,Text:"&Dosyaları"},{
+Key:1003519,Text:"&Bas görüntüleme"},{
+Key:1003520,Text:"Videolar içinde aramak için anahtar sözcükler"},{
+Key:1003521,Text:"&CCLI üzerinden alınan şarkılar / SongSelect"},{
+Key:1003522,Text:"CCLI şarkıları"},{
+Key:1003523,Text:"İthalat CCLI şarkıları"},{
+Key:1003524,Text:"{0} şarkı zaten koleksiyonda '{1}' olduğunu ve değil alınan."},{
+Key:1003525,Text:"&Arama"},{
+Key:1003526,Text:"&Parlaklık:"},{
+Key:1003527,Text:"&Arama"},{
+Key:1003528,Text:"&Parlaklık:"},{
+Key:1003529,Text:"İleti"},{
+Key:1003530,Text:"Polis"},{
+Key:1003531,Text:"Renkler"},{
+Key:1003532,Text:"İleti"},{
+Key:1003533,Text:"Görünürlük"},{
+Key:1003534,Text:"Modeli"},{
+Key:1003535,Text:"Türü"},{
+Key:1003536,Text:"Geri sayım"},{
+Key:1003537,Text:"Kronometre"},{
+Key:1003538,Text:"Seçenekler"},{
+Key:1003539,Text:"Şeffaflık"},{
+Key:1003540,Text:"İleti görüntüle"},{
+Key:1003541,Text:"Arka plan"},{
+Key:1003542,Text:"Saati görüntüleme"},{
+Key:1003543,Text:"Saati"},{
+Key:1003544,Text:"Geri sayım"},{
+Key:1003545,Text:"Kronometre"},{
+Key:1003546,Text:"Sırasında"},{
+Key:1003547,Text:"E kadar"},{
+Key:1003548,Text:"Başlat"},{
+Key:1003549,Text:"Duraklat"},{
+Key:1003550,Text:"Durdur"},{
+Key:1003551,Text:"Stil"},{
+Key:1003552,Text:"Yağ"},{
+Key:1003553,Text:"İtalik"},{
+Key:1003554,Text:"Vurguladı"},{
+Key:1003555,Text:"İkinci el görüntüleme"},{
+Key:1003556,Text:"Kekemelik saniye"},{
+Key:1003557,Text:"Dakika kuru et"},{
+Key:1003558,Text:"Basamağını görüntüleme"},{
+Key:1003559,Text:"Dakika mezun"},{
+Key:1003560,Text:"Lisansüstü saat"},{
+Key:1003561,Text:"Video kamera"},{
+Key:1003562,Text:"Metnin arkasında bir kamera çekim görüntüler."},{
+Key:1003563,Text:"&Şarkı CILC biçimi ekle..."},{
+Key:1003564,Text:"Al..."},{
+Key:1003565,Text:"İçe aktarma"},{
+Key:1003566,Text:"Senin VideoPsalm ses dosyaları almak için izin verir"},{
+Key:1003567,Text:"Gitme..."},{
+Key:1003568,Text:"Gözat"},{
+Key:1003569,Text:"Senin VideoPsalm tarafından ses dosyaları klasörü açar"},{
+Key:1003570,Text:"&Başlangıç (ms):"},{
+Key:1003571,Text:"&End (ms):"},{
+Key:1003572,Text:"&Cilt:"},{
+Key:1003573,Text:"&İlmekledi oynamak"},{
+Key:1003575,Text:"&Tadil"},{
+Key:1003576,Text:"&Sürüm:"},{
+Key:1003577,Text:"Metin düzenleyici \"Doğru\" yaptı"},{
+Key:1003578,Text:"Standart bir metin editörü (Yaz soldan sağa) ve Arapça, İbranice, vb için bir \"Doğru\" Editör sol arasında geçiş yapar."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Her zaman ortaklaşa (iki dilli) göster"},{
+Key:1003581,Text:"&Pozisyon:"},{
+Key:1004050,Text:"Polis"},{
+Key:1004051,Text:"Boyutu"},{
+Key:1004052,Text:"Yağ"},{
+Key:1004053,Text:"İtalik"},{
+Key:1004054,Text:"Vurgulanan"},{
+Key:1004055,Text:"Hizalama"},{
+Key:1004056,Text:"Dikey hizalama"},{
+Key:1004057,Text:"Animasyon"},{
+Key:1004058,Text:"Süre"},{
+Key:1004059,Text:"Birim"},{
+Key:1004060,Text:"Dilsiz?"},{
+Key:1004061,Text:"Başlangıç"},{
+Key:1004062,Text:"Bitiş"},{
+Key:1004063,Text:"Döngü?"},{
+Key:1004064,Text:"Daha büyük resmi görmek"},{
+Key:1004100,Text:"Renkler"},{
+Key:1004101,Text:"Doldurma"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Entourage genişliği"},{
+Key:1004104,Text:"Gölge"},{
+Key:1004105,Text:"RADIUS gölge"},{
+Key:1004106,Text:"Derinlik gölge"},{
+Key:1004107,Text:"Gölgenin yönünü"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Görüntü"},{
+Key:1004153,Text:"Renk"},{
+Key:1004156,Text:"Dikdörtgen gövde"},{
+Key:1004157,Text:"Dikdörtgen üstbilgisi"},{
+Key:1004158,Text:"Ayak dikdörtgen"},{
+Key:1004500,Text:"Takvim panoya kopyala"},{
+Key:1004501,Text:"Gündemi tanımını Pano'ya yerleştirildi."},{
+Key:1004502,Text:"Kelime (söz ve başlık) veya arama No"},{
+Key:1004503,Text:"Kelime (söz ve başlık) veya arama No"},{
+Key:1004504,Text:"Kelime (başlık) veya Hayır olarak bakmak için."},{
+Key:1004505,Text:"(Yazar ve besteci) sözcükleri veya arama No"},{
+Key:1004506,Text:"Kelime (Temalar) veya sayı aramak için"},{
+Key:1004507,Text:"Kelime (başvurular) veya sayı aramak için"},{
+Key:1004508,Text:"CCLI aramak için"},{
+Key:1004509,Text:"Kelime (copyright) veya sayı aramak için"},{
+Key:1004510,Text:"Kelime (Not 1) veya arama No"},{
+Key:1004511,Text:"Kelimeler (Not 2) veya arama No"},{
+Key:1004512,Text:"Kelimeler (faturası 3) veya arama No"},{
+Key:1004513,Text:"Şarkı akorları ile"},{
+Key:1004514,Text:"Özet özetini Kopyala"},{
+Key:1004515,Text:"Özet özetini Pano'ya yerleştirilir."},{
+Key:1005001,Text:"Son yükleme"},{
+Key:1005002,Text:"'{0}' Şarkısı."},{
+Key:1005003,Text:"Video yükleme"},{
+Key:1005004,Text:"Video '{0}' okunamıyor.
+{1}"},{
+Key:1005005,Text:"Yükleme görüntüleri"},{
+Key:1005006,Text:"Görüntü '{0}' okunamıyor.
+{1}"},{
+Key:1005007,Text:"Stilleri yükleme"},{
+Key:1005008,Text:"Dolum koleksiyonları ({1} koleksiyonlarında şarkılar {0}) listesi"},{
+Key:1005009,Text:"Seçili Gündem maddeleri silinsin mi?"},{
+Key:1005010,Text:"Öğeleri kaldırma"},{
+Key:1005011,Text:"Yeni koleksiyon"},{
+Key:1005012,Text:"Yeni şarkı"},{
+Key:1005013,Text:"Gündem boştur.
+Açık bir veya şarkıları ve ayet gündeme eklemek için buraya sürükleyin."},{
+Key:1005014,Text:"Hiçbir slayt video - proje.
+Bir şarkı veya video verses seçin - proje."},{
+Key:1005015,Text:"'{0}' Koleksiyonu silmek istediğinizden emin misiniz?
+
+Bu koleksiyon için karşılık gelen dosya diskten silinir değil:
+onun uzantısı-ecek var olmak renamed \".ignore."},{
+Key:1005016,Text:"Bir koleksiyonu silmek"},{
+Key:1005017,Text:"Şarkı '{0}' silmek istiyor musunuz?
+
+Kitap değişiklikler kayıt olduktan sonra bu şarkıyı çıkarılması-ecek var olmak geri alınamaz."},{
+Key:1005018,Text:"Bir şarkı silmek"},{
+Key:1005019,Text:"Gündemin tüm öğeler kaldırılsın mı?"},{
+Key:1005020,Text:"Her şeyi Sil"},{
+Key:1005021,Text:"Gündem adı"},{
+Key:1005022,Text:"Takvim boş"},{
+Key:1005023,Text:"Güncel Gündem kaydedilmemiş değişiklikler.
+Bu değişiklikleri kaydetmek ister misiniz?"},{
+Key:1005024,Text:"Ajanda"},{
+Key:1005025,Text:"Bir veya daha fazla koleksiyon kaydedilmemiş değişiklikleriniz.
+Bu değişiklikleri kaydetmek ister misiniz?"},{
+Key:1005026,Text:"Kayıt koleksiyonları"},{
+Key:1005027,Text:"Bir veya daha fazla İncil kaydedilmemiş değişiklikleriniz.
+Bu değişiklikleri kaydetmek ister misiniz?"},{
+Key:1005028,Text:"İncil'e kaydetmek"},{
+Key:1005029,Text:"Belgeler gündeme Ekle"},{
+Key:1005030,Text:"Günlükler"},{
+Key:1005031,Text:"Görüntüleri"},{
+Key:1005032,Text:"Videolar"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Takvim altında kaydetmek"},{
+Key:1005035,Text:"CCLI şarkıları"},{
+Key:1005036,Text:"Hiçbir toplama olduğunu.
+Alma Rapor Sihirbazı'nı başlatmak için burayı tıklatın."},{
+Key:1005037,Text:"Biçim {0}
+{1} × (2) piksel"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Aşağıda '{0}' tüm stilleri silmek istediğinizden emin misiniz?"},{
+Key:1005040,Text:"'{0}' Koleksiyon arama söz konusu değildir"},{
+Key:1005041,Text:"Görüntülemek veya slayt taşıma"},{
+Key:1005042,Text:"Mevsim"},{
+Key:1005043,Text:"Bahar"},{
+Key:1005044,Text:"Yaz"},{
+Key:1005045,Text:"Noel"},{
+Key:1005046,Text:"Temalar"},{
+Key:1005047,Text:"Karamel"},{
+Key:1005048,Text:"Memet"},{
+Key:1005049,Text:"Hayal gücü"},{
+Key:1005050,Text:"Karanlık oda"},{
+Key:1005051,Text:"Sis"},{
+Key:1005052,Text:"Blueprint"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontrast"},{
+Key:1005055,Text:"Ofis"},{
+Key:1005056,Text:"Office 2010 mavi"},{
+Key:1005057,Text:"Office 2010 gümüş"},{
+Key:1005058,Text:"Office 2010 siyah"},{
+Key:1005059,Text:"Office 2007 mavi"},{
+Key:1005060,Text:"Office 2007 yeşil"},{
+Key:1005061,Text:"Office 2007 gül"},{
+Key:1005062,Text:"Office 2007 gümüş"},{
+Key:1005063,Text:"Office 2007 siyah"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropol"},{
+Key:1005066,Text:"Yedi"},{
+Key:1005067,Text:"Yedi klasik"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Tütsü"},{
+Key:1005070,Text:"Duman"},{
+Key:1005071,Text:"Elma"},{
+Key:1005072,Text:"Renkler"},{
+Key:1005073,Text:"Sıvı gökyüzü"},{
+Key:1005074,Text:"Londra gökyüzü"},{
+Key:1005075,Text:"Mavi"},{
+Key:1005076,Text:"Para İkizler"},{
+Key:1005077,Text:"Siyah altın"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Keskin"},{
+Key:1005080,Text:"Daha keskin"},{
+Key:1005081,Text:"Yıldız"},{
+Key:1005082,Text:"Okyanuslar cam"},{
+Key:1005083,Text:"Asfalt dünya"},{
+Key:1005084,Text:"Kahve"},{
+Key:1005085,Text:"Yıldız tozu"},{
+Key:1005086,Text:"Aşağıdaki tüm stilleri silmek"},{
+Key:1005087,Text:"Galeri'yi aç korumak"},{
+Key:1005100,Text:"Animasyon"},{
+Key:1005102,Text:"Fade"},{
+Key:1005103,Text:"Hafif solmaya"},{
+Key:1005104,Text:"Daha büyük resmi görmek"},{
+Key:1005105,Text:"Hafif solmaya genişleme"},{
+Key:1005106,Text:"Tarama"},{
+Key:1005107,Text:"Sağa doğru inceden inceye gözden geçirmek"},{
+Key:1005109,Text:"Formu"},{
+Key:1005110,Text:"Yıldız"},{
+Key:1005118,Text:"Aşağı tarama"},{
+Key:1005120,Text:"Sola inceden inceye gözden geçirmek"},{
+Key:1005121,Text:"Yukarı tarama"},{
+Key:1005122,Text:"Sağ üstten tarama"},{
+Key:1005123,Text:"Sol üstten tarama"},{
+Key:1005124,Text:"Sağ alttan tarama"},{
+Key:1005125,Text:"Sol Alttan tarama"},{
+Key:1005126,Text:"Keşfetmek"},{
+Key:1005127,Text:"Aşağı keşfedin"},{
+Key:1005128,Text:"Sağ keşfedin"},{
+Key:1005129,Text:"Sol keşfedin"},{
+Key:1005130,Text:"Yukarı keşfedin"},{
+Key:1005131,Text:"Sağ üst keşfedin"},{
+Key:1005132,Text:"Sol üst keşfedin"},{
+Key:1005133,Text:"Aşağı sağ keşfedin"},{
+Key:1005134,Text:"Sol alt keşfedin"},{
+Key:1005200,Text:"Slaytları"},{
+Key:1005201,Text:"Hiçbir slayt"},{
+Key:1005209,Text:"Arama kelimeleri:"},{
+Key:1005210,Text:"&Başlık ve şarkı sözleri"},{
+Key:1005211,Text:"&Başlık ve şarkı sözleri"},{
+Key:1005212,Text:"&Başlık"},{
+Key:1005213,Text:"&Yazar ve besteci"},{
+Key:1005214,Text:"&Temalar"},{
+Key:1005215,Text:"&Referanslar"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Telif hakkı"},{
+Key:1005218,Text:"&Not 1"},{
+Key:1005219,Text:"&Not 2"},{
+Key:1005220,Text:"&Not 3"},{
+Key:1005221,Text:"&Şarkı akorları ile"},{
+Key:1005223,Text:"Seçenekler"},{
+Key:1005224,Text:"VideoPsalm seçenekleri"},{
+Key:1005225,Text:"Seçenekleri VideoPsalm iletişim kutusunu görüntüler."},{
+Key:1005226,Text:"İçe aktarma"},{
+Key:1005228,Text:"Alma Sihirbazı'nı kitaplar, İncil, resimleri ve VideoPsalm online kütüphane ve popüler formatlar video görüntüler."},{
+Key:1005230,Text:"Silme"},{
+Key:1005232,Text:"Şarkı, koleksiyon veya seçili İncil kaldırın."},{
+Key:1005237,Text:"Yazı tipini değiştirir."},{
+Key:1005247,Text:"Görüntüleri"},{
+Key:1005252,Text:"Bildirim tercihlerinizi düzenleyin."},{
+Key:1005253,Text:"Bu pencereyi kapatmak ve bir sonraki açışınızda bilgileri hatırlıyorum."},{
+Key:1005254,Text:"Bu pencereyi kapatmak ve bu bilgiler artık hatırlamıyorum."},{
+Key:1005255,Text:"Sözcük veya tümcecik arayın, örn: ekmek şarap"},{
+Key:1005256,Text:"Ayet tarafından kendi referans'ı seçin."},{
+Key:1005257,Text:"Arama için belirli anahtar kelime veya tümcecik içeren ayet"},{
+Key:1005258,Text:"Anahtar kelime veya ifade için arama (ESC) Sil"},{
+Key:1005259,Text:"Belirli anahtar sözcükleri içeren ayet arayın.
+
+Örneğin:
+
+- <b>\"Tanrı'nın çocukları\"</b>tümceciği içeren ayet bulmak için <b>\"çocuk Tanrı\"</b>gibi bir şeyler yazın.
+
+- <b>'O kupayı aldı'</b>cümle içeren ayet bulmak için bu katları kelimeleri yazın: <b>«ilpritlacoupe»</b>.
+
+Sakın aksan veya noktalama endişe ve küçük/büyük harf.
+
+Bir bütün olarak veya sırayla kelime yazmanız gerekmez.
+
+Diğer kelimeler ayet bulunan ayetler listesi azaltmak için ekleyin.
+
+Ayet bulundu ve gündeme seçili eklemek için <b>Ekle</b> düğmesine basın."},{
+Key:1005260,Text:"Bulunan bir ayet yok."},{
+Key:1005268,Text:"Bu modda, VideoPsalm otomatik olarak girdiğiniz metnin etrafına köşeli ayraçlar [] ekler.
+Örneğin, bir c akor eklemek için «Yok» ve VideoPsalm için \"[Do]. ekler"},{
+Key:1005269,Text:"Yazı tipi boyutu"},{
+Key:1005270,Text:"Yazı tipi boyutunu ekran yüksekliğini yüzdesi olarak değiştirir."},{
+Key:1005271,Text:"&Farklı Kaydet..."},{
+Key:1005277,Text:"Kaydet"},{
+Key:1005278,Text:"Kitap, İncil ve kendi tarzı yapılan değişiklikleri kaydeder."},{
+Key:1005279,Text:"Koleksiyonları ve stilleri yapılan değişiklikleri kaydeder.
+
+<b>Dikkat:</b> (Metin ve stiller) İncil için yaptığınız değişiklikler kaydedilir. Bu değişiklikleri kaydetmek için VideoPsalm için seçenekleri karşılık gelen bu seçeneği etkinleştirin."},{
+Key:1005283,Text:"Uzunluğu:"},{
+Key:1005284,Text:"MS:"},{
+Key:1005285,Text:"Öğe"},{
+Key:1005286,Text:"Vücut"},{
+Key:1005287,Text:"Gövde stili"},{
+Key:1005288,Text:"Gövde stili düzenleme olanağı sağlar."},{
+Key:1005289,Text:"Başlık"},{
+Key:1005290,Text:"Başlık stili"},{
+Key:1005291,Text:"Başlık stili ile düzenleme olanağı sağlar."},{
+Key:1005292,Text:"Ayak"},{
+Key:1005293,Text:"Stil ayak"},{
+Key:1005294,Text:"Ayak tarzının düzenleme olanağı sağlar."},{
+Key:1005295,Text:"Anlaşmalar"},{
+Key:1005296,Text:"Stil sözleşmelerin"},{
+Key:1005297,Text:"Anlaşmalar tarzının düzenleme olanağı sağlar."},{
+Key:1005308,Text:"Kitap"},{
+Key:1005313,Text:"Düzey stili"},{
+Key:1005314,Text:"Hangi stil değişiklikleri uygulanır düzeyini ayarlayın.
+
+Ayet sonra sadece şarkı, koleksiyonu, koleksiyon ve baz en yüksek stil derecesine sahiptir.
+
+Benzer şekilde, ayet en yüksek stil derecesine sahiptir, sonra bölüm, kitap, vasiyet, İncil, İncil ve Bankası yine gelir.
+
+Sıradüzenin kökü varlık tabanı, onun tarzı tüm slaytlara uygulanır.
+
+Daha yüksek düzeyde bir alt düzey özniteliği tanımlanmış bir stil geçersiz kılabilirsiniz."},{
+Key:1005315,Text:"<b></b>Bu mekanizma yolu genel veya tek tek slaytlar stilini değiştirmenize olanak sağlar.
+
+<b>Örnek</b>
+Bir şarkı için bir arka plan atarsanız, bu şarkı bütün ayetlerin hangi özel arka plan atamış olduğunuz tüm ayetler dışında bu arka plan görünür."},{
+Key:1005318,Text:"Slayt"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Videolar"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Metin renkleri"},{
+Key:1005329,Text:"Sıfırlama"},{
+Key:1005330,Text:"Seçili düzey stilini temizler"},{
+Key:1005331,Text:"Seçili düzey tüm stil öznitelikleri silebilirsiniz.
+Bir slaydın stil olmadan otomatik olarak alt düzey stili devralır.
+
+Örneğin:
+-Bir stanza Candara yazı tipi bir tarzı vardır.
+-, Bu arada, şarkı bir tarzı Segoe UI font ile vardır.
+
+Şiir tarzının sildiğiniz zaman, alt düzey stili ile görüntülenir. Örneğimizde, o-ecek var olmak Segoe UI font.
+
+<b>Damla-aşağı yemek listesi «silmek tüm stilleri üzerinde»</b>
+Seçili düzey stilini ve tüm yüksek stilleri silebilirsiniz.
+
+Örneğin, stil 'Kod' düzeyini seçtiyseniz, koleksiyonun tarzı koleksiyonun tüm şarkıları ve bu onların kıtaların tarzı yanı sıra silinir."},{
+Key:1005332,Text:"Düzeyde kendi stil yok olduğunda bu düğme soluk görüntülenir."},{
+Key:1005333,Text:"&Tüm stilleri silmek"},{
+Key:1005337,Text:"&Sayfanın Üstü"},{
+Key:1005338,Text:"&Orta"},{
+Key:1005339,Text:"&Alt"},{
+Key:1005340,Text:"Stil bu seviye üzerinde kalmak"},{
+Key:1005341,Text:"Stil geçerli düzeyde kalmak"},{
+Key:1005342,Text:"Slayt değiştiğinde stili geçerli düzeyde kalır.
+
+Böylece:
+<b>1.</b> Bir şarkı, VideoPsalm, ayet görüntülediğinizde 'stanza' stil düzeyini konumlandırır.
+<b>2.</b> Ayet şarkı stilini değiştirmek için stili \"şarkı.\" düzeyini seçin
+<b>3.</b> İğne şarkı stili üzerinde kalmak için tuşuna basın.
+<b>4.</b> Bir stanza diğerine geçtiğinizde, stil düzeyini \"şarkısında.\" kalır"},{
+Key:1005343,Text:"Metin doldurma"},{
+Key:1005345,Text:"Metni düz renk, gradyan, resim veya doku ile doldurun."},{
+Key:1005346,Text:"Metin rengi"},{
+Key:1005347,Text:"Metin anahattı"},{
+Key:1005349,Text:"Renk, genişlik ve satır metin stilini ana hatları için belirtir."},{
+Key:1005350,Text:"Metin rengi"},{
+Key:1005352,Text:"Metin efekti"},{
+Key:1005354,Text:"Metne gölge, bir ışık, bir yansıma veya bir 3-b döndürme gibi görsel bir efekt uygulayın."},{
+Key:1005356,Text:"Metin gölgesi"},{
+Key:1005357,Text:"Arka plan rengi"},{
+Key:1005359,Text:"&Yeni şarkı"},{
+Key:1005360,Text:"&Yeni koleksiyon"},{
+Key:1005361,Text:"&Tümünü Sil"},{
+Key:1005362,Text:"
+
+<b>Kısmi kalkan</b>
+Bir gündem açılışında,-ecek var olmak saklı kitap ve İncil <b>metinleri</b> .
+Takvim stilleri, kitaplar ve İncil'e uygulanır."},{
+Key:1005363,Text:"
+
+<b>Kısmi kalkan</b>
+Bir gündem açılışında, kitaplar ve İncil <b>stilleri</b> korunur.
+Gündem metinler, kitaplar ve İncil'e uygulanır."},{
+Key:1005364,Text:"
+
+<b>Tam kalkan</b>
+Bir gündem açılışında,-ecek var olmak saklı <b>metinler</b> ve <b>stilleri</b> , kitap ve İncil.
+Bu gündemin uygulanmaz.
+
+<i>Bu belge bu PC referans değilken benimsemeye stratejisidir.</i>"},{
+Key:1005365,Text:"
+
+<b>Kalkan yokluğu</b>
+Açılması ve ajanda, takvim <b>stilleri</b> ve <b>metinler</b> kitap ve İncil için geçerli olur ve kendi metinleri ve stilleri değiştirin.
+
+<i>Bu başvuru belgeleri bu gündemi oluşturduğunuz bilgisayar olduğunda benimsemeye stratejisidir.</i>"},{
+Key:1005366,Text:"\"Görüntüleyicisi'nden\" \"Düzenle\" modu veya tam tersi değiştirmek için kalem düğmesini tıklatın."},{
+Key:1005369,Text:"Başlığa göre sırala"},{
+Key:1005370,Text:"Numarasına göre sıralanmış"},{
+Key:1005371,Text:"Hakkında..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Video projeksiyon taklit eder
+4:3.2 yönü üzerinde bir ekran"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Video projeksiyon taklit eder
+Ekran en boy 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Video projeksiyon taklit eder
+4:3 en-boy bir ekran"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Video projeksiyon taklit eder
+Ekran en boy 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Video projeksiyon taklit eder
+bir ekran en boy 16:8"},{
+Key:1005387,Text:"Akım"},{
+Key:1005388,Text:"Ekranın tüm yüzeyini kullanır"},{
+Key:1005389,Text:"Boy 4:3"},{
+Key:1005390,Text:"Mi Re"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Sözleşmelerin ekleme modu"},{
+Key:1005398,Text:"Şarkı sözleri üzerinde anlaşmalarını görüntüleyin"},{
+Key:1005400,Text:"Ayrıca pencerenin görünümünü ayarlama"},{
+Key:1005401,Text:"&Takvim Ekle"},{
+Key:1005402,Text:"&DELETE (Sil)"},{
+Key:1005403,Text:"&Kod aramaya dahil"},{
+Key:1005404,Text:"&Araştırma topluluğu hariç"},{
+Key:1005405,Text:"&Tüm koleksiyonlar aramaya dahil"},{
+Key:1005407,Text:"&Araştırma koleksiyonlardan dışlanan gizle"},{
+Key:1005408,Text:"&Araştırma koleksiyonlardan dışarıda göster"},{
+Key:1005409,Text:"&Görüntülü resize dikdörtgen"},{
+Key:1005410,Text:"Resize dikdörtgen görüntüler"},{
+Key:1005411,Text:"Seçili çerçeve (gövde metni, üstbilgi veya altbilgi) yeniden boyutlandırmanızı sağlar.
+
+Çerçeve önizleme alanında fare ile boyutlandırılabilir.
+
+<b>Nasıl bir çerçeveyi yeniden boyutlandırmak için</b>
+
+1. Yeniden boyutlandırmak için bir çerçeve seçin:
+-vücut
+-Başlık
+- ya da ayak.
+
+2. Gerekli stili düzeyi, örneğin \"İncil\" seçin.
+
+3. \"İncil\" tarzında bir görüntü slaytlar hata VideoPsalm zorlamak için tuşuna basın.
+Nitekim, hata basılı değilse, bir ayet görüntülemek en kısa sürede VideoPsalm 'Şiir' stili otomatik olarak geçer.
+
+4 Bir ayet görüntüler. Önizleme alanı 'İncil' kullanarak kare görüntüler.
+
+5 Fareyle çerçeve konumunu ve boyutunu değiştirin.
+
+6. Bir slaydı yeniden görüntülediğinizde VideoPsalm 'Şiir' stiline dönmek için hata ', Kaldır."},{
+Key:1005412,Text:"&Copy panoya kod Özeti"},{
+Key:1005417,Text:"Metin"},{
+Key:1005418,Text:"Stil Gezgini"},{
+Key:1005419,Text:"Stil Gezgini gizler ya da görüntüler.
+Bu pencerede, hiyerarşik stilleri tek tek özelliklerini sıfırlamak ve düzenlemek için düzeyleri arasında gezinebilirsiniz."},{
+Key:1005420,Text:"Stilleri"},{
+Key:1005421,Text:"Polis"},{
+Key:1005424,Text:"Arka plan"},{
+Key:1005425,Text:"Stilleri"},{
+Key:1005429,Text:"Boy"},{
+Key:1005430,Text:"Baskı"},{
+Key:1005432,Text:"Görünüm"},{
+Key:1005433,Text:"Araçlar"},{
+Key:1005442,Text:"Bir sonraki madde ile devam"},{
+Key:1005443,Text:"Gitmeden önce devre dışı bırakmak"},{
+Key:1005444,Text:"Metni kaldırın, sonra izleyin"},{
+Key:1005445,Text:"Metni kaldırın ve sonra devre dışı"},{
+Key:1005446,Text:"Birlikte (iki dilli) sonraki öğeyle görüntüle"},{
+Key:1005447,Text:"Vokal veya ayet seçili gündem (Ekle veya Alt + A) ekleme"},{
+Key:1005448,Text:"Vokal veya ayet gündeme eklemek için burayı tıklatın.
+
+Alternatif olarak, sürükleyin ve olması gereken yere takviminde bu düğmeyi bırakın."},{
+Key:1005449,Text:"&Ekle"},{
+Key:1005454,Text:"Şarkılar için anahtar sözcükleri aramak için seçenek"},{
+Key:1005455,Text:"Kelime veya sayı için arama (ESC)"},{
+Key:1005457,Text:"Bir şarkı (Ctrl + F) arama"},{
+Key:1005458,Text:"Belirli sözcükleri içeren veya bir numara olan şarkıları aramak.
+
+Örneğin:
+
+-«250» No 250 şarkı bulmak için yazın
+
+-Şarkı sözlerini içeren şarkıyı bulmak için <b>' beğenmek bir gece \"</b>, <b>'ışık gece'</b>gibi birkaç sözcük yazın.
+
+Aksan veya noktalama hakkında endişelenmeyin.
+
+Bir bütün olarak veya sırayla sözcükleri almaya gerek yok.
+
+Diğer sözcük bulunan şarkı listesini azaltmak için şarkı ekleme.
+
+Gündemde bulunan ilk şarkı eklemek için <b>Ekle</b> düğmesine basın."},{
+Key:1005459,Text:"Hiç İncil olduğunu.
+Alma Sihirbazı'nı başlatmak için burayı tıklatın
+İncil ve İncil'e popüler kaynaklardan ekleyin."},{
+Key:1005463,Text:"(ESC) görüntülemek için yapılan başvuruyu silme"},{
+Key:1005464,Text:"Referans seçin, örneğin: Romalılar 3:23-25, 30"},{
+Key:1005465,Text:"Seçme ayetler (Ctrl + F)"},{
+Key:1005472,Text:"&Dosya:"},{
+Key:1005475,Text:"&Şarkı için arama bu toplama dahil"},{
+Key:1005479,Text:"&Adı:"},{
+Key:1005481,Text:"&Kısaltma:"},{
+Key:1005483,Text:"&Yazar:"},{
+Key:1005485,Text:"&Telif hakkı:"},{
+Key:1005487,Text:"&Belge:"},{
+Key:1005491,Text:"&Capo Yazdır"},{
+Key:1005497,Text:"&Şarkı sözleri"},{
+Key:1005499,Text:"&Sayısı:"},{
+Key:1005501,Text:"&Başlık:"},{
+Key:1005505,Text:"&Referans:"},{
+Key:1005507,Text:"&Telif hakkı:"},{
+Key:1005509,Text:"&Yazar:"},{
+Key:1005511,Text:"&Besteci:"},{
+Key:1005513,Text:"&Çeşitli"},{
+Key:1005515,Text:"&Sesi:"},{
+Key:1005517,Text:"&Biçim:"},{
+Key:1005519,Text:"&Konu:"},{
+Key:1005521,Text:"&Sıra:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Anahtar:"},{
+Key:1005527,Text:"&Diğer adı:"},{
+Key:1005529,Text:"&Hattı:"},{
+Key:1005531,Text:"&Not 1:"},{
+Key:1005533,Text:"&Not 2:"},{
+Key:1005535,Text:"&Not 3:"},{
+Key:1005537,Text:"&İmza:"},{
+Key:1005540,Text:"&Transpozisyon:"},{
+Key:1005541,Text:"Capo yazdırılsın mı?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Şarkı sözleşmeleri uygulamak için."},{
+Key:1005555,Text:"&Dosya:"},{
+Key:1005560,Text:"&Telif hakkı:"},{
+Key:1005562,Text:"&Kısaltma:"},{
+Key:1005564,Text:"&Adı:"},{
+Key:1005566,Text:"&Açıklama:"},{
+Key:1005568,Text:"&Giriş:"},{
+Key:1005570,Text:"&Belge:"},{
+Key:1005576,Text:"&Adı:"},{
+Key:1005582,Text:"&Adı:"},{
+Key:1005584,Text:"&Giriş:"},{
+Key:1005586,Text:"&Kısaltma:"},{
+Key:1005587,Text:"İncil bölümde"},{
+Key:1005590,Text:"İncil verse"},{
+Key:1005595,Text:"&Ayet:"},{
+Key:1005603,Text:"&Dosya:"},{
+Key:1005606,Text:"Seçim yok"},{
+Key:1005608,Text:"Stil"},{
+Key:1005612,Text:"Özelliğinin değeri kaldırır"},{
+Key:1005613,Text:"Bir özelliğin değeri sildiğinizde, VideoPsalm alt düzeyleri bulunan ilk değer kullanır.
+
+Örneğin, sipariş ve bu ayarlanmışsa, yazı tipi polis VideoPsalm anlamları, ayet düzeyinde kaldırırsanız:
+-şan,
+-başka bir şekilde toplanması,
+-Eğer bir koleksiyon
+-Aksi halde Bankası.
+
+VideoPsalm İncil'e, Resimler, vb ile aynı."},{
+Key:1005615,Text:"Hiçbiri"},{
+Key:1005616,Text:"Bankası"},{
+Key:1005618,Text:"Koleksiyonlar"},{
+Key:1005619,Text:"Koleksiyonu"},{
+Key:1005620,Text:"Vokal"},{
+Key:1005621,Text:"Stanza"},{
+Key:1005622,Text:"İncil'e"},{
+Key:1005623,Text:"İncil"},{
+Key:1005624,Text:"Ahit"},{
+Key:1005625,Text:"Kitap İncil'in"},{
+Key:1005626,Text:"Bölüm"},{
+Key:1005627,Text:"Ayet"},{
+Key:1005628,Text:"Varsayılan değer"},{
+Key:1005629,Text:"Metin vücuttan değer"},{
+Key:1005630,Text:"Sol"},{
+Key:1005631,Text:"Ortalanmış"},{
+Key:1005632,Text:"Sağ"},{
+Key:1005633,Text:"Haklı"},{
+Key:1005634,Text:"Sayfanın Üstü"},{
+Key:1005635,Text:"Orta"},{
+Key:1005636,Text:"Alt"},{
+Key:1005650,Text:"&Bir takvimi aç..."},{
+Key:1005651,Text:"&Takvimler ekle..."},{
+Key:1005652,Text:"&Slayt gösterisi resimleri ekle..."},{
+Key:1005653,Text:"&Özerk video ekle..."},{
+Key:1005654,Text:"&Bazı PowerPoints ekle..."},{
+Key:1005655,Text:"Ne zaman bir takvimi açın:"},{
+Key:1005656,Text:"&Benim kitap ve İncil metinleri korumak"},{
+Key:1005657,Text:"&Stilleri benim kitap ve İncil korumak"},{
+Key:1005667,Text:"&Koleksiyonlar"},{
+Key:1005668,Text:"Koleksiyonları (Alt + R) görüntüler"},{
+Key:1005670,Text:"&İncil'e"},{
+Key:1005671,Text:"İncil'e (Alt + B) görüntüler"},{
+Key:1005677,Text:"&Genişlik:"},{
+Key:1005680,Text:"&Blur:"},{
+Key:1005681,Text:"&Derinlik:"},{
+Key:1005682,Text:"&Yön:"},{
+Key:1005686,Text:"Bir boş ekran, siyah renkli görüntüler.
+Projektör yok taklit eder."},{
+Key:1005687,Text:"Sonraki"},{
+Key:1005688,Text:"Sonraki slayta ilerlemek."},{
+Key:1005689,Text:"Ekran (Ctrl + W) açmak"},{
+Key:1005690,Text:"Görüntü metni (Ctrl + T)"},{
+Key:1005691,Text:"Slayttaki metni gizler veya gösterir."},{
+Key:1005692,Text:"Kalkan (Ctrl + B)"},{
+Key:1005693,Text:"Video projeksiyon slayt olan vokal korur.
+
+Gündem ya da aratmak şarkı ya da bir ayet şarkı video projeksiyon çalışmak için.
+
+Kalkan geçersiz kılmak için öğenin üzerine çift tıklayın."},{
+Key:1005694,Text:"Dondurma"},{
+Key:1005695,Text:"Video projeksiyon ekran önizleme alanı donma olmadan donuyor.
+
+Sunum video projeksiyon sırasında önizlemek için."},{
+Key:1005696,Text:"Proje (Ctrl + P)"},{
+Key:1005697,Text:"Öngörülen Slayt projektör."},{
+Key:1005698,Text:"Modu 'Edition' (Ctrl + E)"},{
+Key:1005699,Text:"Tonlu aramadan \"İzleyici\" \"Düzenleme\" modu veya tersi."},{
+Key:1005702,Text:"Bir takvim veya belgeyi açma"},{
+Key:1005703,Text:"Bir takvim açılır veya bir PowerPoint sunusu, resimleri bir slayt gösterisi, video, vb için ekleyin."},{
+Key:1005704,Text:"Ajanda"},{
+Key:1005705,Text:"Silme"},{
+Key:1005706,Text:"Seçili öğeleri gündeme (silme) kaldırır."},{
+Key:1005707,Text:"Mount (Ctrl + Page up)"},{
+Key:1005708,Text:"Monte gündeminin başında eleman."},{
+Key:1005709,Text:"(Ctrl + Page down tuşlarına basın)"},{
+Key:1005710,Text:"Gündem sonuna doğru öğeyi."},{
+Key:1005711,Text:"Parlaklık"},{
+Key:1005712,Text:"Takvim açma"},{
+Key:1005713,Text:"Gündem, diski veya bir USB anahtarı üzerinde kaydeder."},{
+Key:1005721,Text:"Ayetler onların başvuruya göre seçer.
+<i>Örnek: Romalılar 3:23-25, 30</i>
+
+Aksan kitap adlarında girmeyin.
+<i>Örnek: n<b>e</b>h<b>e</b>mie' yerine \"N<b>é</b>s<b>é</b>mie\".</i>
+
+Girin bir <b>': '</b>, bir <b>\".\"</b> veya ayet bölümleri ayrı bir <b>'v'</b> .
+
+Gündemde seçilmiş ayetler eklemek için <b>'Ekle'</b> tuşuna basın."},{
+Key:1005722,Text:"(, İngilizce terk etmek çevirmek değil) Yorumlar"},{
+Key:1005723,Text:"Dosyaya yazılamıyor
+{0} :
+{1}"},{
+Key:1005724,Text:"Hata"},{
+Key:1005725,Text:"Dosya okunamıyor
+{0} :
+{1}"},{
+Key:1005730,Text:"Slayt gösterisi görüntüleri stilini kaldırmak istediğinizden emin misiniz?
+Slayt gösterisi görüntüleri tarzı standart bir değer alır."},{
+Key:1005731,Text:"Taban stilden kaldırmak istediğinizden emin misiniz?
+Taban stilden standart değeri alacak."},{
+Key:1005732,Text:"Tarz koleksiyonları kaldırmak istediğinizden emin misiniz?
+Koleksiyonları tarzı standart değeri alacak."},{
+Key:1005733,Text:"Stil İncil kaldırmak istediğinizden emin misiniz?
+İncil tarzı standart değeri alacak."},{
+Key:1005734,Text:"Bu stili silmek istediğinizden emin misiniz?
+VideoPsalm hiyerarşisinde daha düşük bulundu stil öznitelikleri uygulanır."},{
+Key:1005735,Text:"NET stili"},{
+Key:1005736,Text:"Videoları stilini kaldırmak istediğinizden emin misiniz?
+Stil videoları Standart bir değer alır."},{
+Key:1005737,Text:"Bir koleksiyon"},{
+Key:1005738,Text:"Hiçbir toplama"},{
+Key:1005739,Text:"Bir İncil"},{
+Key:1005740,Text:"Hiç İncil"},{
+Key:1005743,Text:"Yazı tipini Büyüt (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Yazı tipi boyutunu artırır."},{
+Key:1005745,Text:"Yazı tipini küçültün (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Yazı tipi boyutunu azaltır."},{
+Key:1005747,Text:"Kalın (Ctrl + B)"},{
+Key:1005748,Text:"Seçili metni kalın için koydum."},{
+Key:1005749,Text:"İtalik (Ctrl + ı)"},{
+Key:1005750,Text:"Seçili metni italik için koydum."},{
+Key:1005751,Text:"Sivri uçlu (Ctrl + U)"},{
+Key:1005752,Text:"Seçili metnin altını çizin."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Seçili metnin ortasında bir çizgi çizer."},{
+Key:1005755,Text:"Göster / gizle ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Paragraf işaretlerini ve diğer gizli biçimlendirme simgelerini görüntüler."},{
+Key:1005757,Text:"Yazı tipi rengi"},{
+Key:1005758,Text:"Metnin rengini değiştirin."},{
+Key:1005759,Text:"Metin rengi"},{
+Key:1005760,Text:"Metin için bir renk verir."},{
+Key:1005761,Text:"Temizle (Ctrl + space) biçimlendirme"},{
+Key:1005762,Text:"Tamamen seçimin biçimlendirmesini temizler ve yalnızca düz metin korur."},{
+Key:1005763,Text:"Geri almak (Ctrl + Z)"},{
+Key:1005764,Text:"Son işlemi iptal eder."},{
+Key:1005765,Text:"Yinele (Ctrl + Y)"},{
+Key:1005766,Text:"Son işlemi yineler."},{
+Key:1005767,Text:"Kes (Ctrl + X)"},{
+Key:1005768,Text:"Seçimi kes ve panoya yerleştirin."},{
+Key:1005769,Text:"Kopyala (Ctrl + C)"},{
+Key:1005770,Text:"Seçimi kopyalar ve Pano'ya yerleştirir."},{
+Key:1005771,Text:"Yapıştır (Ctrl + V)"},{
+Key:1005772,Text:"Pano içeriğini yapıştırır."},{
+Key:1005773,Text:"Ara (Ctrl + F)"},{
+Key:1005774,Text:"Belgedeki metni arayın."},{
+Key:1005775,Text:"Değiştir (Ctrl + H)"},{
+Key:1005776,Text:"Belgenizdeki metnin yerini alır."},{
+Key:1005777,Text:"Büyütmek"},{
+Key:1005778,Text:"Tümünü göster"},{
+Key:1005779,Text:"Belirli bir ayet düzenlemek için slayt üzerinde ek Yardım düğmesini tıklatın."},{
+Key:1005780,Text:"Ayetlerin seçimi"},{
+Key:1005781,Text:"Başlık şarkıları tarafından seçilen tahsilat sıralar."},{
+Key:1005782,Text:"Güncel gündem kapatır (ve kaydedilmemiş değişiklikler varsa, onay ister)."},{
+Key:1005783,Text:"Görüntü veya arka plan video parlaklığını ayarlar.
+
+Metin, hatta barriole arka plan üzerinde vurgulayarak sağlar."},{
+Key:1005784,Text:"&Gündem açıklaması kopyalama"},{
+Key:1005785,Text:"&Songs lyrics Ekle"},{
+Key:1005786,Text:"&İncille ayet dahil"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"VideoPsalm facebook sayfasını açar.
+
+VideoPsalm etrafında haber verin:
+-yanında tıkırtı üstünde belgili tanımlık düğme \"ı like\"
+-onun arkadaşı olma.
+
+<b>Not:</b> Facebook reklamları ortadan kaldırmak için ücretsiz eklenti <b>Adblock Plus</b>yükleyin.
+
+VideoPsalm sosyal simgeleri gizlemek için \"Seçenekler\" → \"Général\" sekmesinde devre dışı."},{
+Key:1005791,Text:"Bloglar yeni makaleler haberdar olmak için VideoPsalm Twitter sayfasını açar.
+
+VideoPsalm sosyal simgeleri gizlemek için \"Seçenekler\" → \"Général\" sekmesinde devre dışı."},{
+Key:1005792,Text:"VideoPsalm kullanımı hakkında eğitim videoları bulabileceğiniz VideoPsalm YouTube sayfası açılır.
+
+VideoPsalm sosyal simgeleri gizlemek için \"Seçenekler\" → \"Général\" sekmesinde devre dışı."},{
+Key:1005793,Text:"Yeni, boş bir şarkı (veya bir reklam) seçili için koleksiyonuna ekler."},{
+Key:1005794,Text:"Yeni, boş bir koleksiyon ekler."},{
+Key:1005795,Text:"Şarkıları kendi numarasına göre seçilen koleksiyon sıralar."},{
+Key:1005800,Text:"Stanza"},{
+Key:1005801,Text:"Koro"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Köprü"},{
+Key:1005804,Text:"Etiket"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Çıkış"},{
+Key:1005807,Text:"Slip"},{
+Key:1005808,Text:"Enstrümantal"},{
+Key:1005809,Text:"Diğer"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"BEN"},{
+Key:1005826,Text:"EY"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Kapat"},{
+Key:1005851,Text:"&Dil:"},{
+Key:1005852,Text:"&Yayınevi:"},{
+Key:1005853,Text:"Tüm"},{
+Key:1005859,Text:"Şarkı anlaşmaları capodiastre pozisyona bağlı olarak aktarılması."},{
+Key:1005860,Text:"Başlık (veya diğer) gibi şarkıları bulmak veya şarkı sözleri girdiğiniz kelime içerir.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005861,Text:"Bir ara avantajı hızlı bir şekilde şarkı kısa bir listesini görüntülemek iki aşamalı olarak gerçekleştirir:
+
+Başlık (veya diğer) de dahil olmak üzere ilk bir saat şarkıları 1 bul girdiğiniz kelimeleri içerir.
+
+Kelimeler, orada eklemek bir süre burada çoğu herhangi bir şarkı kabul edebilirsiniz geliyor.
+
+2. Bu noktadan VideoPsalm songs lyrics sözcükleri arar.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005862,Text:"Girdiğiniz besteciler tarafından şarkıları bulun.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005863,Text:"Girdiğiniz konularla uğraşmak şarkıları bulun.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005864,Text:"Şarkı girdiğiniz İncil referanslar ilham bulmak.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005865,Text:"Girdiğiniz CCLI olan şarkıdır.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005866,Text:"Girdiğiniz kelime olan telif hakkı içeren şarkıları bulun.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005867,Text:"Kimin faturası 1 girdiğiniz kelimeleri içeren şarkıları bulun.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005868,Text:"Olan Not 2 girdiğiniz kelimeleri içeren şarkıları bulun.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005869,Text:"Sözcüklerini içeren şarkıları 3 Not Girdiğiniz bulmak.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005870,Text:"Şarkı, başlık bulmak veya takma girdiğiniz kelimeleri içerir.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005871,Text:"Anlaşmalar şarkı var şarkıları bulun.
+
+Alternatif olarak, bir şarkı numarası için arama yapabilirsiniz."},{
+Key:1005872,Text:"&Sürüm:"},{
+Key:1005873,Text:"&Sürüm:"},{
+Key:1005874,Text:"Koleksiyon sürümü tarihi"},{
+Key:1005875,Text:"Üzerinde bu koleksiyon VideoPsalm tarafından son kez güncelleştirildiği tarihi gösterir.
+
+VideoPsalm çevrimiçi kitaplığı alma Sihirbazı, bu kılavuzda daha yeni bir sürümü olup olmadığını kontrol edebilirsiniz.
+
+Online VideoPsalm bazen örneğin herhangi bir yazım hatalarını düzeltmek için bazı koleksiyonlarını güncelleştirir."},{
+Key:1005876,Text:"İncil'in sürümü tarihi"},{
+Key:1005877,Text:"Üzerinde bu İncil son kez VideoPsalm tarafından güncellenen henüz tarihi gösterir.
+
+VideoPsalm online kütüphane Alma Sihirbazı bu çeviri daha yeni bir sürümü olup olmadığını kontrol edebilirsiniz.
+
+Online VideoPsalm bazen örneğin herhangi bir yazım hatalarını düzeltmek için bazı İncil güncelleştirir."},{
+Key:1005878,Text:"Sıkıştırılmış"},{
+Key:1005879,Text:"Sıkıştırılmış"},{
+Key:1005880,Text:"VideoPsalm basmak senin toplama ve kendi Bibles, yani bazı disk alanından kazanmak.
+
+Kitaplar ve içe aktarma Sihirbazı ile download İncil genellikle, indir hızlandırmak amacıyla ve VideoPsalm sitesindeki Internet trafiğini azaltmak için sıkıştırılır."},{
+Key:1005881,Text:"&Sıkıştırılmış"},{
+Key:1005882,Text:"&Sıkıştırılmış"},{
+Key:1005884,Text:"İncil '{0}' silmek istediğinizden emin misiniz?
+
+Bu İncil için karşılık gelen dosya diskten silinir değil:
+onun uzantısı-ecek var olmak renamed \".ignore."},{
+Key:1005885,Text:"Bir İncil silme"},{
+Key:1005886,Text:"Lütfen bekleyin"},{
+Key:1005887,Text:"Yükleme devam ediyor..."},{
+Key:1005888,Text:"Eski Ahit"},{
+Key:1005889,Text:"Yeni Ahit"},{
+Key:1005890,Text:"Geçerli kayıt..."},{
+Key:1005891,Text:"&Görüntüleri içe aktarma"},{
+Key:1005892,Text:"Almak ve sonra 'açık ''i tıklatın aktarmak istediğiniz görüntüleri seçin."},{
+Key:1005893,Text:"{0} Çerçeve (s) aldınız."},{
+Key:1005894,Text:"Resim içeri aktarılmış.
+(O (s) Galeri (s) bulunur)."},{
+Key:1005895,Text:"&Küçük resimleri yeniden"},{
+Key:1005896,Text:"Küçük resimleri yeniden"},{
+Key:1005897,Text:"Küçük resimleri yeniden oluşturmak istiyor musunuz?
+
+Bu resimlerin küçük resimleri yeniden oluşturmak için gerekli olabilir
+Ne zaman VideoPsalm dışındaki değişiklikleri yaptık."},{
+Key:1005898,Text:"&Resim silme"},{
+Key:1005899,Text:"Bir resmi kaldırma"},{
+Key:1005900,Text:"Görüntü '{0}' silmek istediğinizden emin misiniz?"},{
+Key:1005901,Text:"&Görüntüler klasörüne keşfedin"},{
+Key:1005902,Text:"&Seçili resmi silme"},{
+Key:1005903,Text:"&Videoları alma"},{
+Key:1005904,Text:"Alma ve 'Aç' tıklatın istediğiniz video seçin."},{
+Key:1005905,Text:"{0} Video (s) aldınız."},{
+Key:1005906,Text:"Hiçbir video içe aktarılmış.
+(O (s) Galeri (s) bulunur)."},{
+Key:1005907,Text:"&Küçük resimleri yeniden"},{
+Key:1005908,Text:"&Videoyu silin"},{
+Key:1005909,Text:"Bir videoyu silin"},{
+Key:1005910,Text:"Video '{0}' silmek istediğinizden emin misiniz?"},{
+Key:1005911,Text:"&Videolar klasörüne keşfedin"},{
+Key:1005912,Text:"&Seçili videoyu silin"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Görüntüleri içe aktarma"},{
+Key:1005915,Text:"Videoları alma"},{
+Key:1005917,Text:"Klasör oluşturulamıyor
+{0} :
+{1}"},{
+Key:1005918,Text:"Belirtilen klasör hiçbir desteği vardır:
+{0}"},{
+Key:1005919,Text:"Klasör doldurulmalıdır."},{
+Key:1005920,Text:"Bir klasör adı şu karakterleri içeremez:
+{0}"},{
+Key:1005921,Text:"Kitaplar ve İncil'e geri yükleme"},{
+Key:1005922,Text:"Koleksiyonlar, İncil, fotoğraf veya video yüklemek için örneğin bir yedek bir USB sopa."},{
+Key:1005923,Text:"Kapat"},{
+Key:1005930,Text:"&Şarkı kopyalamak"},{
+Key:1005931,Text:"&Şarkı taşımak"},{
+Key:1005932,Text:"Şarkı '{0}' kopyalamak istediğinizden emin misiniz.
+koleksiyona '{1}'?"},{
+Key:1005933,Text:"Şarkı '{0}' taşımak istediğinizden emin misiniz.
+koleksiyona '{1}'?"},{
+Key:1005934,Text:"&Kısaltmalar ile başvurularını girin"},{
+Key:1005935,Text:"&Kitap Fransızca olarak görüntülemek"},{
+Key:1005936,Text:"(Kopya)"},{
+Key:1005937,Text:"Yeni bir kitap mevcuttur:
+{0}"},{
+Key:1005938,Text:"Yeni koleksiyon vardır: {0}"},{
+Key:1005939,Text:"Düzeltmeler yapılmıştır
+'{0}' koleksiyonu."},{
+Key:1005940,Text:"Düzeltmeler yapılmıştır
+Aşağıdaki kodları: {0}"},{
+Key:1005941,Text:"Koleksiyon Alma Sihirbazı'nı açın"},{
+Key:1005942,Text:"Yeni bir İncil mevcuttur:
+{0}"},{
+Key:1005943,Text:"Yeni İncil bulunmaktadır: {0}"},{
+Key:1005944,Text:"Düzeltmeler yapılmıştır
+İncil '{0}'."},{
+Key:1005945,Text:"Düzeltmeler yapılmıştır
+İncil'de şu: {0}"},{
+Key:1005946,Text:"İncil'e almak için Sihirbazı'nı açın"},{
+Key:1005947,Text:"VideoPsalm yeni mevcuttur
+{0}"},{
+Key:1005948,Text:"VideoPsalm yeni bulunan: {0}"},{
+Key:1005949,Text:"Düzeltmeler yapılmıştır
+etiketleri {0}"},{
+Key:1005950,Text:"Düzeltmeler yapılmıştır
+Aşağıdaki diller etiketleri: {0}"},{
+Key:1005951,Text:"Etiket Sihirbazı'nı alınmasıyla açın"},{
+Key:1005952,Text:"Daha yeni bir sürüm
+VideoPsalm mevcuttur:"},{
+Key:1005953,Text:"Görüntülü haber"},{
+Key:1005954,Text:"Otomatik"},{
+Key:1005955,Text:"Seçili klasör keşfedin"},{
+Key:1005956,Text:"Bir klasör seçin"},{
+Key:1005957,Text:"Son kullanılan dosyaları görüntüleme"},{
+Key:1005958,Text:"Kaydet"},{
+Key:1005959,Text:"Senin koleksiyonları, İncil'e, fotoğraf veya video kaydetmek veya VideoPsalm, taşınabilir bir sürümü gibi üstünde a USB sopa yapmak için izin verir."},{
+Key:1005960,Text:"&Geri yükle..."},{
+Key:1005961,Text:"VideoPsalm PowerPoint belgelerini görüntüleyemiyor.
+
+(PowerPoint türü uygulama bilgisayarınızda algılandı)."},{
+Key:1005962,Text:"Hata PowerPoint"},{
+Key:1005963,Text:"{0} Koleksiyonu '{1}' düzenlenebilir yapmak."},{
+Key:1005964,Text:"{0} Koleksiyonu düzenlenebilir hale..."},{
+Key:1005965,Text:"{0} Yeni koleksiyonunda '{1}' düzenlenebilir yapmak."},{
+Key:1005966,Text:"İncil geçişleri"},{
+Key:1005967,Text:"&Özel İncil pasajları"},{
+Key:1005968,Text:"&Açıklama:"},{
+Key:1005969,Text:"&Dil:"},{
+Key:1005970,Text:"&Yayınevi:"},{
+Key:1005971,Text:"&Yönetici:"},{
+Key:1005973,Text:"&Yönetici:"},{
+Key:1005974,Text:"Metnin üstüne"},{
+Key:1005975,Text:"Metnin üstüne anlaşmaları"},{
+Key:1005976,Text:"Bu sözleri düzenlemek için önerilen moddur.
+Metni düzenlediğinizde, her anlaşma için demirlemiş olan bu harf taşır.
+
+Ne zaman <b>kopya metin içeren anlaşmaları</b>, sözleşmeler kopyalanır ile metin, ChordPro biçimi.
+
+Anlaşmaları ChordPro biçiminde içeren metin yapıştırdığınızda, bu anlaşmaların metninin VideoPsalm görüntüler.
+
+<b>Bir anlaşma eklemek için</b>Ekle, çevresindeki tarafından sabitlemek istediğiniz harfin sol köşeli ayraç <b>[]</b>.
+
+<b>Bir anlaşma silmek için</b>silmek için yuvalanmışsa mektup ve mektup yeniden yazın.
+
+<b>Bir anlaşma değiştirmek için</b>silin sonra doğru şekilde takın (veya \" <b>Biçiminde ChordPro</b> \" modunu kullanın)."},{
+Key:1005977,Text:"ChordPro biçimi"},{
+Key:1005978,Text:"ChordPro biçiminde anlaşmaları"},{
+Key:1005979,Text:"Bu modda:
+
+-VideoPsalm, şarkı sözleri ve nota <b>ChordPro biçiminde</b>görüntüler.
+
+-Bu anlaşmaları düzenlemek için ideal moddur: VideoPsalm, girdiğiniz metnin etrafına köşeli ayraçlar [] otomatik olarak ekler.
+Örneğin, bir c akor eklemek için «Var» ve VideoPsalm yazın \"[Do]\" ekler.
+
+Dikkat: durumda bağlı olarak VideoPsalm kancaları harfleri çevreleyen çünkü bu tarz sözleri, düzenleme için uygun değildir.
+Daha doğrusu '<b>metnin üstünde</b>' modu metni düzenlemek için kullanın."},{
+Key:1005980,Text:"Anlaşmaları"},{
+Key:1005981,Text:"Kopyala"},{
+Key:1005982,Text:"Bir takvime kopyalar ve Pano'ya yerleştirin."},{
+Key:1005983,Text:"&PowerPoint \"sunum\" kullanmak izin."},{
+Key:1005984,Text:"Bu kutu seçiliyse, VideoPsalm yaprakları PowerPoint sunum ilerlemesi götürmek için kendi komut arabirimi görüntüler."},{
+Key:1005985,Text:"Bir kez göz atın"},{
+Key:1005986,Text:"Döngü"},{
+Key:1005987,Text:"El ile ilerletmek"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Otomatik avans..."},{
+Key:1005990,Text:"&El ile ilerletmek"},{
+Key:1005991,Text:"&Döngü"},{
+Key:1005992,Text:"&Bir kez göz atın"},{
+Key:1005993,Text:"&Aralığı (saniye):"},{
+Key:1005994,Text:"&Metin kaybolur ve sonra devre dışı yapmak"},{
+Key:1005995,Text:"&Sonraki öğe ile takip etmek"},{
+Key:1005996,Text:"&Gitmeden devre dışı"},{
+Key:1005997,Text:"&Metin kayboluyor sonra izleyin"},{
+Key:1005998,Text:"&(İki dilli) sonraki öğe ile birlikte görüntüle"},{
+Key:1005999,Text:"&Explorer"},{
+Key:1006000,Text:"Alma Sihirbazı"},{
+Key:1006001,Text:"Kitap, İncil'e, resimleri ve videoları Sihirbazı alınacak Hoşgeldiniz"},{
+Key:1006002,Text:"Bu Sihirbazı, kitaplar, İncil'e, resim ve Videolar kitaplığı alma basitleştirir online VideoPsalm veya popüler biçimleri bir dizi rehberlik."},{
+Key:1006003,Text:"Devam etmek için Next butonuna tıklayın"},{
+Key:1006004,Text:"&Seçin..."},{
+Key:1006005,Text:"&Sonraki &gt;"},{
+Key:1006006,Text:"&&lt; Önceki"},{
+Key:1006007,Text:"&Yardım"},{
+Key:1006008,Text:"&Bitiş"},{
+Key:1006009,Text:"&Vazgeçme"},{
+Key:1006010,Text:"Kitap, İncil'e, fotoğraf veya video alabilirsiniz"},{
+Key:1006011,Text:"Almak istediğiniz seçin"},{
+Key:1006012,Text:"Bir koleksiyon alma"},{
+Key:1006013,Text:"Bir İncil alma"},{
+Key:1006014,Text:"Görüntüleri içe aktarma"},{
+Key:1006015,Text:"Videoları alma"},{
+Key:1006016,Text:"Bir dil al"},{
+Key:1006020,Text:"&Başlatma"},{
+Key:1006021,Text:"Standart bir değeri klasöre başlatır"},{
+Key:1006023,Text:"İçe aktarma işleminden önce Özeti"},{
+Key:1006024,Text:"İçe aktarmayı başlatmak için İleri seçeneğini tıklatın"},{
+Key:1006025,Text:"Geçerli alma"},{
+Key:1006026,Text:"İçe aktarma tamamlandıktan"},{
+Key:1006027,Text:"Sihirbazı kapatmak için Son'u tıklatın
+
+Geri başka bir koleksiyonu veya bir başka bir İncil almak için tıklatın"},{
+Key:1006029,Text:"{1} Koleksiyonda {0} başarıyla içe şarkı var."},{
+Key:1006030,Text:"Eğer yeni koleksiyonunda '{1}' {0} başarıyla alınan şarkılar var."},{
+Key:1006031,Text:"'{0}' İncil başarıyla aldınız."},{
+Key:1006032,Text:"{0} İncil'e başarıyla aldınız."},{
+Key:1006033,Text:"'{0}' Dili başarıyla aldınız."},{
+Key:1006034,Text:"{0} Dil başarıyla aldınız."},{
+Key:1006035,Text:"Almayı durdurmak istiyor musunuz?"},{
+Key:1006036,Text:"Alma düzgün tamamlanmadı."},{
+Key:1006037,Text:"VideoPsalm bu yeni koleksiyon için bir ad girin"},{
+Key:1006038,Text:"Yeni koleksiyon bu adla kaydedilir. Bu adı daha sonra değiştirilebilir"},{
+Key:1006039,Text:"&Koleksiyon adı:"},{
+Key:1006040,Text:"VideoPsalm bu yeni İncil için bir ad verin"},{
+Key:1006041,Text:"Yeni İncil bu adla kaydedilir. Bu adı daha sonra değiştirilebilir"},{
+Key:1006042,Text:"&İncil adı:"},{
+Key:1006051,Text:"Koleksiyonları seçin"},{
+Key:1006052,Text:"İncil seçin"},{
+Key:1006053,Text:"Bir dosya seçin"},{
+Key:1006054,Text:"Bir klasör seçin"},{
+Key:1006055,Text:"&Dosya:"},{
+Key:1006056,Text:"&Dosya:"},{
+Key:1006057,Text:"Dil seçin"},{
+Key:1006058,Text:"'{0}' Klasörü yok."},{
+Key:1006060,Text:"'{0}' Klasörü erişemiyor.
+
+{1}"},{
+Key:1006061,Text:"'{0}' Dosyası yok."},{
+Key:1006062,Text:"Dikkat: Birçok koleksiyonda yüklenmesi bilgisayarın bellek doldurmak ve şarkılar için arama yavaş.
+{0} koleksiyon gerçekten indirebilirim?"},{
+Key:1006063,Text:"Dikkat: Birçok İncil yüklenmesi bilgisayarın belleği doldurabilirsiniz.
+Gerçekten {0} İncil indiririm?"},{
+Key:1006064,Text:"Yeni adı boş olamaz."},{
+Key:1006065,Text:"Yeni adı girin: {0} içeremez"},{
+Key:1006066,Text:"Orada zaten bir koleksiyon adı '{0}'."},{
+Key:1006067,Text:"Orada zaten bir İncil adı '{0}'."},{
+Key:1006068,Text:"Sen alma işlemi durdu."},{
+Key:1006069,Text:"Internet bağlantınızı denetleyin."},{
+Key:1006070,Text:"Mevcut {0}"},{
+Key:1006071,Text:"Yeni sürüm {0} beri mevcut"},{
+Key:1006072,Text:"{0}, Sürüm tarihleri"},{
+Key:1006073,Text:"{0} Sürümü güncel."},{
+Key:1006074,Text:"Başlık"},{
+Key:1006075,Text:"Devlet"},{
+Key:1006076,Text:"İndirilen değil"},{
+Key:1006077,Text:"Güncelleştirme"},{
+Key:1006078,Text:"Güncelleştirmesi kullanıma sunuldu"},{
+Key:1006079,Text:"Yeni"},{
+Key:1006080,Text:"Yeni güncelleştirme kullanılabilir"},{
+Key:1006081,Text:"Hiçbir toplama seçilir.
+En az bir koleksiyon seçmeniz gerekir."},{
+Key:1006082,Text:"Hiç İncil seçilir.
+En az bir İncil seçmelisiniz."},{
+Key:1006083,Text:"Hiçbir dil seçilir.
+En az bir dil seçmelisiniz."},{
+Key:1006084,Text:"Kodu"},{
+Key:1006085,Text:"Kaynak oluştu: <b>{0}</b>"},{
+Key:1006086,Text:"Kaynak klasör:
+<b>{0}</b>"},{
+Key:1006087,Text:"Belge arama"},{
+Key:1006090,Text:"Adı için yeni İncil in VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"VideoPsalm adı: <b>{0}</b> yeni koleksiyon"},{
+Key:1006095,Text:"Kitaplığında VideoPsalm online, bazı belgeler eklendiğinde veya güncel olmasını olur (örneğin bir yazım hatası düzeltmek için).
+Yukarıdaki belgeler durumuna bağlı olarak, onları indirmek kullanılıp kullanılmayacağını seçebilirsiniz.
+
+<b>İşte belge durumunu ayırmak:</b>
+-Değil karşıdan yüklediğiniz belgeler normal görüntülenir.
+-Tarih ve güncelleştirilmiş belgeler <i>italik</i>olarak görüntülenir. Onlar bir <image=check_16>Tamam ile işaretlenir.
+Re - indirmek gerekiyor mu, yaptığınız değişiklikleri iptal etmek istediğiniz servis dışında.
+-Belgeler yüklediğiniz ve hangi biz bu arada VideoPsalm çevrimiçi kitaplıkta değişiklikler yaptıysanız, <b>kalın</b>olarak görünür. Onlar bir kalem <image=pencil2_16>işaretlenir.
+
+Sağ taraftaki metin kutusu ne düzeltmeler belgeye yaptığınız açıklar: Bu karar vermenize yardımcı olabilir yeniden - indirmek istiyorsanız.
+
+<b>Dikkat:</b> Yeniden yükleme, belgedeki güncelleştirirseniz, de yaptığınız değişiklikleri kaybedersiniz VideoPsalm senin bu değiştirdiğinden, stil öznitelikleri olarak karşıdan yükler.
+Kendi dosya, ancak silinmez: Bu diskte kalır ancak VideoPsalm .ignore içine onun genişleme değiştirir çünkü VideoPsalm içinde görünmez olur.
+
+<b>Konsey</b> : sadece yararlı olacak belgeleri yükleyin.
+Sonuç olarak, çok sayıda belge varsa, VideoPsalm yüklenmesini daha yavaş, sadece anahtar sözcüğe göre arama gibi belki de olacak.
+
+Not bir kitap ya da VideoPsalm bir İncil her zaman kaldırabilirsiniz. Bunu yapmak için düğmeyi kullanın ' <image=delete2_16>silmek ' sekmesinde 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&'{0}' Yapılan değişikliklerin geçmişini."},{
+Key:1006100,Text:"VideoPsalm online Kütüphanesi koleksiyonları"},{
+Key:1006105,Text:"EasySlides şarkıları"},{
+Key:1006110,Text:"MediaShout şarkıları"},{
+Key:1006115,Text:"OpenLP şarkıları"},{
+Key:1006116,Text:"VerseView şarkıları"},{
+Key:1006120,Text:"'OpenLyrics' biçiminde şarkı."},{
+Key:1006125,Text:"OpenSong şarkıları"},{
+Key:1006130,Text:"Psalmo topluluğu"},{
+Key:1006131,Text:"Metin biçiminde koleksiyonu"},{
+Key:1006132,Text:"EasyWorship 2009 şarkıları"},{
+Key:1006133,Text:"\"ChordPro\" formatında şarkıları."},{
+Key:1006134,Text:"WebAsaph şarkıları"},{
+Key:1006135,Text:"«CCLI formatında şarkıları."},{
+Key:1006140,Text:"İncil online VideoPsalm Kütüphanesi"},{
+Key:1006145,Text:"Bir İncil İncil veritabanı"},{
+Key:1006150,Text:"OpenLP bir İncil"},{
+Key:1006155,Text:"OpenSong bir İncil"},{
+Key:1006160,Text:"Bir İncil ilişkisiz İncil"},{
+Key:1006165,Text:"Bir Zefania İncil"},{
+Key:1006166,Text:"EasySlides bir İncil"},{
+Key:1006167,Text:"\"Osis\" biçiminde bir İncil."},{
+Key:1006168,Text:"Bir İncil format «USFM» Kitaplar (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Senin VideoPsalm almak istediğiniz VideoPsalm online kütüphane koleksiyonları seçin"},{
+Key:1006185,Text:"EasySlides, VideoPsalm (dosyasını .mdb uzantılı) almak istediğiniz şarkıları içeren veritabanını seçin"},{
+Key:1006190,Text:"MediaShout, VideoPsalm (dosyasını .mdb uzantılı) almak istediğiniz şarkıları içeren veritabanını seçin"},{
+Key:1006195,Text:"OpenLP, VideoPsalm (eklenti .sqlite dosya) almak istediğiniz şarkıları içeren veritabanını seçin"},{
+Key:1006196,Text:"VerseView, VideoPsalm (uzantı .db dosyasının) almak istediğiniz şarkıları içeren bir veritabanını seçin"},{
+Key:1006200,Text:"Senin VideoPsalm (uzantısı .xml dosyaları) almak istediğiniz 'OpenLyrics' biçiminde şarkı içeren bir klasör seçin"},{
+Key:1006205,Text:"Senin VideoPsalm (dosya uzantısı olmadan) içine almak istediğiniz OpenSong şarkıları içeren bir klasör seçin"},{
+Key:1006210,Text:"Senin VideoPsalm (uzantısı .rtf dosyası) almak istediğiniz verilen bir Psalmo Özet RTF biçimini seçin"},{
+Key:1006211,Text:"Senin VideoPsalm (uzantısı .txt dosyası) aktarmak istediğiniz metin biçiminde bir koleksiyon seçin"},{
+Key:1006212,Text:"EasyWorship 2009, VideoPsalm (uzantısı .db dosyasının) almak istediğiniz şarkıları içeren veritabanını seçin"},{
+Key:1006213,Text:"Senin VideoPsalm (.chordpro, .chopro, .crd veya .cho uzantılı dosyaları) almak istediğiniz ChordPro formatında şarkıları içeren bir klasör seçin"},{
+Key:1006214,Text:"WebAsaph, VideoPsalm (dosya uzantısı .ltc) almak istediğiniz şarkıları içeren veritabanını seçin"},{
+Key:1006215,Text:"Senin VideoPsalm (uzantısı .usr dosyaları) almak için CCLI formatında şarkıları içeren bir klasör seçin"},{
+Key:1006220,Text:"İncil'e, VideoPsalm almak istediğiniz VideoPsalm online kütüphane seçin"},{
+Key:1006225,Text:"Bir İncil, İncil, VideoPsalm (uzantısı .txt dosyası) almak istediğiniz veritabanını seçin"},{
+Key:1006230,Text:"Bir İncil OpenLP seçin, senin VideoPsalm (eklenti .sqlite dosya) almak istediğiniz"},{
+Key:1006235,Text:"Senin VideoPsalm (dosya uzantısı olmadan) içine almak istediğiniz OpenSong bir İncil seçin"},{
+Key:1006240,Text:"İlişkisiz İncil İncil seçin, senin VideoPsalm (uzantısı .txt dosyası) almak istediğiniz"},{
+Key:1006245,Text:"Bir Zefania İncil, VideoPsalm (uzantısı .xml dosyası) almak istediğiniz seçin"},{
+Key:1006247,Text:"Senin VideoPsalm (dosyasını .mdb uzantılı) almak istediğiniz EasySlides bir İncil seçin"},{
+Key:1006248,Text:"Senin VideoPsalm (uzantısı .xml, .osi veya .osis dosyası) almak için \"Osis\" biçiminde bir İncil'i seçin"},{
+Key:1006249,Text:"\"USFM\" İncil kitapları seçin Biçim senin VideoPsalm (uzantısı .sfm veya .usfm dosyaları) almak için"},{
+Key:1006252,Text:"VideoPsalm online Kütüphanesi, VideoPsalm almak istediğiniz dilleri seçin"},{
+Key:1006255,Text:"<b>{0} Koleksiyon (s) VideoPsalm online Kütüphanesi</b> almak:
+{1}"},{
+Key:1006260,Text:"Al <b>EasySlides şarkıları</b>"},{
+Key:1006265,Text:"Al <b>MediaShout şarkıları</b>"},{
+Key:1006270,Text:"Al <b>OpenLP şarkıları</b>"},{
+Key:1006271,Text:"İthal etmek <b>VerseView şarkı</b>"},{
+Key:1006275,Text:"<b>«OpenLyrics» formatında şarkıları</b> almak"},{
+Key:1006280,Text:"Alma <b>OpenSong şarkısı</b>"},{
+Key:1006285,Text:"<b>Psalmo koleksiyonu</b> alma"},{
+Key:1006286,Text:"<b>Bir metin koleksiyon</b> alma"},{
+Key:1006287,Text:"<b>EasyWorship 2009 şarkıları almak</b>"},{
+Key:1006288,Text:"<b>ChordPro formatında şarkıları ithal</b>"},{
+Key:1006289,Text:"Al <b>WebAsaph şarkıları</b>"},{
+Key:1006290,Text:"Alma <b>biçimi CCLI şarkıları</b>"},{
+Key:1006295,Text:"<b>{0} İncil (s) VideoPsalm online kitaplığından</b> alma:
+{1}"},{
+Key:1006300,Text:"<b>Bir İncil İncil veritabanı</b> alma"},{
+Key:1006305,Text:"<b>OpenLP bir İncil</b> alma"},{
+Key:1006310,Text:"<b>OpenSong bir İncil</b> alma"},{
+Key:1006315,Text:"<b>Bir İncil ilişkisiz İncil'in</b> al"},{
+Key:1006320,Text:"<b>Bir Zefania İncil</b> alma"},{
+Key:1006321,Text:"<b>Bir EasySlides İncil</b> alma"},{
+Key:1006322,Text:"<b>Bir İncil \"Osis\" formatında</b> içe aktarma"},{
+Key:1006323,Text:"<b>«USFM» biçiminde bir İncil</b> alma"},{
+Key:1006325,Text:"<b>{0} Dil (ler) çevrimiçi VideoPsalm Kütüphanesi</b> alın:
+{1}"},{
+Key:1006340,Text:"EasySlide bir veritabanı seçin"},{
+Key:1006345,Text:"MediaShout veritabanını seçin"},{
+Key:1006350,Text:"OpenLP bir veritabanı seçin"},{
+Key:1006351,Text:"VerseView bir veritabanı seçin"},{
+Key:1006355,Text:"'OpenLyrics' biçiminde şarkı içeren bir klasör seçin."},{
+Key:1006360,Text:"OpenSong şarkıları içeren bir klasör seçin"},{
+Key:1006365,Text:"Verilen Psalmo şarkıları içeren RTF dosyası seçin"},{
+Key:1006366,Text:"Metin formatında şarkıları içeren bir dosya seçin"},{
+Key:1006367,Text:"EasyWorship 2009 bir veritabanı seçin"},{
+Key:1006368,Text:"\"ChordPro\" formatında şarkıları içeren bir klasör seçin."},{
+Key:1006369,Text:"WebAsaph veritabanını seçin"},{
+Key:1006370,Text:"«CCLI. formatında şarkıları içeren bir klasör seçin"},{
+Key:1006375,Text:"BibleDatabase bir İncil seçin"},{
+Key:1006380,Text:"OpenLP bir İncil seçin"},{
+Key:1006385,Text:"OpenSong bir İncil seçin"},{
+Key:1006390,Text:"Bir İncil ilişkisiz İncil'in seçin"},{
+Key:1006395,Text:"Bir Zefania İncil seçin"},{
+Key:1006397,Text:"EasySlides bir İncil seçin"},{
+Key:1006398,Text:"\"Osis\" biçiminde bir İncil'i seçin."},{
+Key:1006399,Text:"Bir İncil kitapları seçin biçim \"USFM."},{
+Key:1006405,Text:"EasySlide veritabanı"},{
+Key:1006410,Text:"MediaShout 4 veritabanı"},{
+Key:1006411,Text:"MediaShout 3 veritabanı"},{
+Key:1006415,Text:"OpenLP veritabanı"},{
+Key:1006416,Text:"Veritabanı EasyWorship 2009"},{
+Key:1006417,Text:"VerseView veritabanı"},{
+Key:1006420,Text:"Klasör '{0}'.
+hiçbir şarkı 'OpenLyrics' (uzantısı xml) biçiminde de içerir."},{
+Key:1006425,Text:"Klasör '{0}'.
+(OpenSong şarkıları dosyalar uzantısı olmadan) hiçbir OpenSong şarkı içeriyor."},{
+Key:1006430,Text:"Psalmo ihraç şarkıları"},{
+Key:1006431,Text:"Metin formatında şarkıları"},{
+Key:1006432,Text:"Klasör '{0}'.
+hiçbir şarkı \"ChordPro\" (uzantısı chopro/chordpro, crd ve cho) biçimi de içerir."},{
+Key:1006433,Text:"WebAsaph veritabanı"},{
+Key:1006434,Text:"Klasör '{0}'.
+«CCLI» (.usr uzantılı) formatında hiçbir şarkı içeriyor."},{
+Key:1006440,Text:"BibleDatabase İncil"},{
+Key:1006445,Text:"OpenLP İncil"},{
+Key:1006450,Text:"OpenSong İncil"},{
+Key:1006455,Text:"İncil'e ilişkisiz İncil"},{
+Key:1006460,Text:"Zefania İncil"},{
+Key:1006462,Text:"EasySlides İncil"},{
+Key:1006463,Text:"İncil'e \"Osis\" biçiminde."},{
+Key:1006464,Text:"Kitap İncil biçiminde \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Ben Lord 1 aşk"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Benim chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Ben Rab aşk"},{
+Key:1006510,Text:"MSAccess veritabanları"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Tüm dosyalar"},{
+Key:1006520,Text:"SQLite veritabanları"},{
+Key:1006525,Text:"Paradox veri tabanı"},{
+Key:1006526,Text:"Veritabanı WebAsaph"},{
+Key:1006600,Text:"VideoPsalm online kütüphane veya başka bir kaynak seçin"},{
+Key:1006601,Text:"VideoPsalm online kütüphane birkaç dilde çok sayıda koleksiyonu içerir"},{
+Key:1006602,Text:"VideoPsalm online (internet bağlantısı gerekir alma işlemi sırasında) kitaplığı"},{
+Key:1006603,Text:"Senin sert yuvarlak yüzey oluşum almak için popüler bir şarkı"},{
+Key:1006604,Text:"VideoPsalm online kütüphane veya başka bir kaynak seçin"},{
+Key:1006605,Text:"VideoPsalm online kütüphane birçok İncil farklı dillerde çevirileri içerir"},{
+Key:1006606,Text:"VideoPsalm online (internet bağlantısı gerekir alma işlemi sırasında) kitaplığı"},{
+Key:1006607,Text:"Senin sert yuvarlak yüzey oluşum almak için popüler bir İncil'i"},{
+Key:1006608,Text:"Şarkıları biçim kaynağı nedir?"},{
+Key:1006609,Text:"İncil kaynak biçimi nedir?"},{
+Key:1006610,Text:"Bilgisayarınızda depolanan bir popüler biçiminde bir İncil, VideoPsalm alabilirsiniz"},{
+Key:1006611,Text:"Bilgisayarınızda depolanan bir popüler format Songs, VideoPsalm içine alabilirsiniz"},{
+Key:1007000,Text:"Yedekleme"},{
+Key:1007001,Text:"VideoPsalm yedekleme klasörüne başlatmak istiyor musunuz
+« {0} » ?"},{
+Key:1007004,Text:"Yedek seçilen klasörde gerçekleştirilemiyor,
+VideoPsalm belgeleri geçerli klasörde bulunduğundan
+({0})."},{
+Key:1007005,Text:"Sürücüde {0} yeterli yer yok.
+Gereken {1: #, #. #} MB ve sadece {2: #, #. #} MB kullanılabilir."},{
+Key:1007006,Text:"Yedekleme tamamlanamadı:
+
+{0}"},{
+Key:1007007,Text:"Microsoft .NET Framework 4.0 karşıdan yüklenemedi:
+
+{0}
+
+Bu Internet bağlantısı olmaması olabilir.
+Yedekleme normalde devam edecek,
+Ancak Microsoft .NET Framework 4.0 yedekleme yüklemek mümkün olmayacaktır."},{
+Key:1007008,Text:"kullanılamayan {0}"},{
+Key:1007009,Text:"Hatırlatma: Yedek kopya olamazdı
+Microsoft .NET Framework 4.0 kurulumu."},{
+Key:1007010,Text:"Yedekleme düzgün bitmiş demektir."},{
+Key:1007011,Text:"Yedek bırakmak istiyor musunuz?"},{
+Key:1007030,Text:"Bir klasör seçin veya tüm-içinde-bir yedeğini VideoPsalm yerleştirmek için bir oluşturma"},{
+Key:1007031,Text:"Yedek kopya, belgelerinizi (kitap, İncil'e, resimleri, videoları, stiller), örneğin belirlediğiniz konuma:
+-bir USB
+-harici sabit disk,
+-bir ağ klasörü
+-vs.
+
+<b>Yedekleme yapmanızı da dahil olmak üzere:</b>
+-başka bir ortamda, çoğaltarak, belgelerinizi güvenli
+-Örneğin üstünde a USB sopa, VideoPsalm, taşınabilir bir sürümünü oluşturmak için
+-kolayca belgelerinizi geri yükleme işlevini kullanarak başka bir bilgisayara aktarmak için
+-belgelerinizi koleksiyonları kendi tarzı aynı bilgisayarda birden çok yapılandırmaları için çoğaltılacak.
+
+<b>Not:</b> VideoPsalm kayıtları birkaç bilgisayar arasında eşitlemek için SkyDrive veya DropBox Servisi gibi bir eşitleme için daha doğrudan seçebilirsiniz."},{
+Key:1007032,Text:"Kaydetmek istediğiniz belgeleri seçin:"},{
+Key:1007033,Text:"&Koleksiyonlar"},{
+Key:1007034,Text:"&İncil"},{
+Key:1007035,Text:"&Görüntüleri"},{
+Key:1007036,Text:"&Videolar"},{
+Key:1007037,Text:"&Belgelerinizi kaydedin:"},{
+Key:1007038,Text:"VideoPsalm belgeler burada kaydettiğiniz klasörü belirtin.
+
+Örneğin: «E:\\Ma yedekleme VideoPsalm.
+
+Klasör yoksa, otomatik olarak ne zaman oluşturulur yedek."},{
+Key:1007039,Text:"&Taşınabilir bir VideoPsalm uygulama oluşturma"},{
+Key:1007040,Text:"VideoPsalm çalışması için gereken tüm yürütülebilir dosyaları yedekleme klasörüne ekler.
+
+Genel olarak, bir taşınabilir VideoPsalm uygulaması oluşturmak istediğiniz bir USB anahtarı olduğunu.
+
+VideoPsalm doğrudan doğruya--dan belgili tanımlık USB anahtar, VideoPsalm yüklemek zorunda kalmadan diğer herhangi bir bilgisayarda çalıştırmak için taşınabilir bir yedek.
+
+VideoPsalm USB anahtardan başlayarak, VideoPsalm, yedekleme dahil olmak üzere tüm fonksiyonları erişiminiz. Bu kadar daha sonra USB anahtarı olmadan çalıştırmak diğer bilgisayarın sabit diskinde VideoPsalm kaydetmek için izin verir.
+
+<b>Önemli</b>
+VideoPsalm seçenekleri yedeğe eklenmeyecek.
+Verili bir bilgisayarda VideoPsalm ilk performans, örneğin kilise için lisans VideoPsalm seçenekleri ayarlamanız gerekebilir."},{
+Key:1007041,Text:"&Microsoft .NET Framework 4.0 Kur programı ekleme"},{
+Key:1007042,Text:"Çalışması için Microsoft .NET Framework 4.0 VideoPsalm gerekir. Yeni bilgisayarların çoğu .NET Framework 4.0 ya da daha önceden yüklenmiş. .NET Framework 4.0 diğer bilgisayarda yüklü olduğundan emin değilseniz, onay kutusunu \".NET Framework 4.0 eklenti kurulumu. VideoPsalm daha sonra USB stick .NET Framework 4.0 (Internet bağlantısı için gerekli olabilir) ayarının bir kopyasını yerleştirir.
+
+VideoPsalm başlamadan önce USB anahtardan size kolayca .NET Framework 4.0 diğer bilgisayara yükleyebilirsiniz. .NET Framework 4.0 yüklemesi çok hızlı ve Windows normalde yeniden başlatmaz.
+
+.NET Framework 4.0 dosyasının yüklenmesini yedek klasöründe bulabilirsiniz. Bu dosya \"dotNetFx40_Full_x86_x64.exe. adlandırılır Başka bir bilgisayarda .NET Framework 4.0 yüklemesini başlatmak için bu dosyayı çift tıklatın."},{
+Key:1007043,Text:"&Start backup"},{
+Key:1007044,Text:"Microsoft .NET Framework 4.0 indir"},{
+Key:1007045,Text:"&Klasör (kaydedilecek klasörü) VideoPsalm belgeler:"},{
+Key:1007046,Text:"Benim kaydetmek için önce belirtilen klasörü koleksiyon izin"},{
+Key:1007047,Text:"Benim kurtarmak önce klasör belirtilen koleksiyon Kaldır"},{
+Key:1007048,Text:"Orada benim kurtarmak önce belirtilen klasör İncil terk"},{
+Key:1007049,Text:"Kaldır önce belirtilen klasöre İncil benim olduğunu"},{
+Key:1007050,Text:"Terk önce belirtilen klasördeki görüntülerin maden"},{
+Key:1007051,Text:"Önce belirtilen klasörü Sil görüntüleri olduğunu benim"},{
+Key:1007052,Text:"Önce belirtilen klasöre videoları olduğunu benim sağlar"},{
+Key:1007053,Text:"Belirtilen klasöre önceden benim tasarruf videoları silin"},{
+Key:1007054,Text:"Bir klasör seçin veya VideoPsalm yedeğini yerleştirmek için oluşturun"},{
+Key:1007055,Text:"Belirtilen klasör ses izin önce benimkini mı"},{
+Key:1007056,Text:"Daha önce belirtilen klasörden Kaldır ses benimdir"},{
+Key:1007057,Text:"&Müzikler"},{
+Key:1008000,Text:"Bir yedekleme geri yükleme"},{
+Key:1008001,Text:"VideoPsalm bir yedekleme klasöründen geri yüklemek istiyor musunuz
+« {0} » ?
+
+Dikkat: seçtiğiniz seçeneklere bağlı olarak, geçerli belgeleriniz yerini silinmiş veya."},{
+Key:1008002,Text:"Lütfen klasörü geri yüklemek için yedek girin."},{
+Key:1008004,Text:"Bir yedekleme klasöründen geri yüklenemiyor seçtiğiniz,
+o VideoPsalm belgeleri geçerli klasörde bulunduğundan."},{
+Key:1008006,Text:"Geri yükleme tamamlanamadı:
+
+{0}"},{
+Key:1008010,Text:"Geri yükleme işlemi sonlandırıldı."},{
+Key:1008011,Text:"Restorasyon terk etmek istiyor musunuz?"},{
+Key:1008012,Text:"Bir yedekleme geri yükleme"},{
+Key:1008032,Text:"Geri yüklemek istediğiniz belgeleri seçin:"},{
+Key:1008033,Text:"&Koleksiyonlar"},{
+Key:1008034,Text:"&İncil"},{
+Key:1008035,Text:"&Görüntüleri"},{
+Key:1008036,Text:"&Videolar"},{
+Key:1008043,Text:"&Geri yükleme"},{
+Key:1008044,Text:"Yedekten geri yüklemeden önce benim koleksiyon izin"},{
+Key:1008045,Text:"Yedekten geri yüklemeden önce benim koleksiyonu sil"},{
+Key:1008046,Text:"Yedekten geri yüklemeden önce benim İncil let"},{
+Key:1008047,Text:"Yedekten geri yüklemeden önce benim İncil silme"},{
+Key:1008048,Text:"Yedekten geri yüklemeden önce benim görüntüleri izin"},{
+Key:1008049,Text:"Yedekten geri yüklemeden önce benim görüntüleri silmek"},{
+Key:1008050,Text:"Yedekten geri yüklemeden önce benim videolar sağlar"},{
+Key:1008051,Text:"Yedekten geri yüklemeden önce benim videoları silin"},{
+Key:1008052,Text:"&Bir yedekten geri yükleyin:"},{
+Key:1008053,Text:"Burada hangi-ecek var olmak restored VideoPsalm kayıt klasörü belirtin.
+
+Örnek: 'E:\\VideoPsalm'."},{
+Key:1008054,Text:"&Klasör (klasör nerede yedek geri yüklenebilir;) VideoPsalm belgeler:"},{
+Key:1008055,Text:"Yenileme"},{
+Key:1008056,Text:"VideoPsalm yedeğini içeren bir klasör seçin"},{
+Key:1008057,Text:"&Müzikler"},{
+Key:1008058,Text:"Benim müzikler yedekten geri yüklemeden önce izin"},{
+Key:1008059,Text:"Yedekten geri yüklemeden önce benim ses silmek"},{
+Key:1008999,Text:"Video projektör"},{
+Key:1009000,Text:"bir şarkı"},{
+Key:1009001,Text:"{0} şarkıları"},{
+Key:1009002,Text:"ayet listesi"},{
+Key:1009003,Text:"ayet listesi {0}"},{
+Key:1009004,Text:"bir resim"},{
+Key:1009005,Text:"{0} görüntüleri"},{
+Key:1009006,Text:"İncil '{0}'."},{
+Key:1009007,Text:"Bölüm {0}"},{
+Key:1009009,Text:"{0} İncil"},{
+Key:1009010,Text:"'{0}' Görüntü."},{
+Key:1009011,Text:"{0} ({1} images)"},{
+Key:1009012,Text:"{0} görüntüleri"},{
+Key:1009013,Text:"{0} ({1} slayt)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Varsayılan stil yükleme"},{
+Key:1009016,Text:"Koleksiyonları tarzının yükleniyor"},{
+Key:1009017,Text:"Koleksiyon '{0}' yükleniyor."},{
+Key:1009018,Text:"İncil tarzının yükleniyor"},{
+Key:1009019,Text:"İncil '{0}' yükleniyor."},{
+Key:1009020,Text:"Dosya: {0}"},{
+Key:1009100,Text:"{0} ({1} şarkı)"},{
+Key:1009101,Text:"{0} (bir tek şarkı)"},{
+Key:1009102,Text:"{0} (hiçbir vokal)"},{
+Key:1009103,Text:"Orada zaten bir dosya '{0}'.
+içinde yeni koleksiyon '{1}' VideoPsalm tasarruf sağlayacaktır.
+
+Bu yeni koleksiyon kaydetmek mümkün değildir.
+Bir kısaltma veya bu yeni koleksiyon için benzersiz bir ad verin ve yeniden kaydetmeyi deneyin."},{
+Key:1009104,Text:"Kayıt başarısız oldu"},{
+Key:1009105,Text:"Dosyaya taşınamıyor
+{0}
+solucanlar
+{1}.
+
+(2)"},{
+Key:1009107,Text:"{0} Koleksiyonları"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} Ayet)"},{
+Key:1009111,Text:"Video '{0}'."},{
+Key:1009112,Text:"{0} ({1} videolar)"},{
+Key:1009113,Text:"Video {0}"},{
+Key:1009114,Text:"Koleksiyon kaydedemedik.
+Adı kaydetmek için koleksiyon."},{
+Key:1010000,Text:"Daha fazla renk görmek"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Kapat"},{
+Key:1010003,Text:"&Şeffaf"},{
+Key:1010004,Text:"İptal"},{
+Key:1010005,Text:"Tamam"},{
+Key:1010006,Text:"Daha az renk görüntüleme"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Alan eklemeden kapatır"},{
+Key:1011001,Text:"Kısaltma koleksiyonu"},{
+Key:1011002,Text:"Diğer ad ad adı"},{
+Key:1011003,Text:"Şarkı yazarı"},{
+Key:1011004,Text:"Toplama yazar"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Anahtar"},{
+Key:1011007,Text:"Besteci"},{
+Key:1011008,Text:"Şarkının telif hakkı"},{
+Key:1011009,Text:"Kitabın telif hakkı"},{
+Key:1011010,Text:"Etiket ayet"},{
+Key:1011011,Text:"Etiket ve ayet numarası"},{
+Key:1011012,Text:"Biçim"},{
+Key:1011013,Text:"Lisans Kilisesi"},{
+Key:1011014,Text:"Anahtar satır"},{
+Key:1011015,Text:"Not 1"},{
+Key:1011016,Text:"Not 2"},{
+Key:1011017,Text:"Not 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Ayet konumunu"},{
+Key:1011020,Text:"Ayet No"},{
+Key:1011021,Text:"İlahiyi No"},{
+Key:1011022,Text:"Not ayet"},{
+Key:1011023,Text:"Şarkı koleksiyonu sayısı"},{
+Key:1011024,Text:"Kıtaların sayısı"},{
+Key:1011025,Text:"Başvuru"},{
+Key:1011026,Text:"Kıtaların dizisi"},{
+Key:1011027,Text:"İmza"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Şarkının adı"},{
+Key:1011031,Text:"Kitabın başlığı"},{
+Key:1011032,Text:"Zil sesi"},{
+Key:1011033,Text:"3. Tüm alanları kaldır"},{
+Key:1011034,Text:"2. Standart alanları kullanmak"},{
+Key:1011035,Text:"Yönetici"},{
+Key:1011036,Text:"Dil"},{
+Key:1011037,Text:"Editör"},{
+Key:1011038,Text:"Transpozisyonu"},{
+Key:1011101,Text:"İncil'in kısaltması"},{
+Key:1011102,Text:"Kısaltma kitap"},{
+Key:1011103,Text:"Bölüm"},{
+Key:1011104,Text:"İncil'in telif hakkı"},{
+Key:1011105,Text:"İncil'in açıklaması"},{
+Key:1011107,Text:"Editör"},{
+Key:1011108,Text:"Dil"},{
+Key:1011109,Text:"İncil'in adı"},{
+Key:1011110,Text:"Kitabın adı"},{
+Key:1011111,Text:"Bölüm kitap sayısı"},{
+Key:1011112,Text:"Ayet bölüm sayısı"},{
+Key:1011113,Text:"Ahit"},{
+Key:1011114,Text:"Ayet"},{
+Key:1011115,Text:"İncil'in yönetici"},{
+Key:1011200,Text:"&Alan ekleyin:"},{
+Key:1011201,Text:"Üstbilgi veya altbilgi kıta veya ayet görüntülenen metni biçimlendirme"},{
+Key:1011202,Text:"Görüntülenecek metni girin.
+Bu metin ücretsizdir ve genellikle önceden tanımlı alan bir dizi oluşur.
+
+Bir şarkı için önceden tanımlı alan örnekleri:
+-Şarkının adı: <b>[şarkının adı]</b>
+-şarkı sayısı: <b>[şarkı No]</b>
+-kitabın başlığı: <b>[koleksiyon adı]</b>
+-toplama kısaltması: <b>[koleksiyon kısaltma]</b>
+-vs.
+
+Bir ayet için:
+-Kitabın adı: <b>[Rehberi adı]</b>
+-Bölüm: <b>[Bölüm]</b>
+-ayet: <b>[şiir]</b>
+tam-başvuru:
+  <b>[Kitap adı] [Bölüm]: [şiir]</b>
+-İncil'in adı: <b>[İncil adı]</b>
+-vs.
+
+Video projeksiyon zamanda VideoPsalm değerlerine göre önceden tanımlanmış alanların yerini alır. 
+
+Önceden tanımlanmış alanlar çevrili köşeli ayraçlar <b>[]</b>tarafından. Onlar başarısız olmadan girilmelidir ve büyük ve küçük harf gözlemlemek.
+
+<b>Kolayca önceden tanımlanmış alan eklemek, hakkı 'bir alanı ekle' altındaki kaydırma liste kullanın.</b>
+
+Biçimi birden çok satır içerebilir.
+
+Özgün değer biçimine geri döndürmek için tamamen kaldırmak (Ctrl + A, Sil)."},{
+Key:1011203,Text:"Önceden tanımlanmış alan listesi"},{
+Key:1011204,Text:"Önceden tanımlanmış alan eklemek için listeden seçin.
+
+Bu alan otomatik olarak yukarıdaki, metin kutusundaki ekleme noktasına eklenir."},{
+Key:1012000,Text:"'{0}' Dosyası zaten var.
+
+Bunu değiştirmek istiyor musunuz?"},{
+Key:1012001,Text:"Varolan dosya"},{
+Key:1013000,Text:"Önizleme gizle"},{
+Key:1013001,Text:"Görüntü Önizleme"},{
+Key:1013002,Text:"Orantılı olarak ekranı kaplayacak şekilde büyüt"},{
+Key:1013003,Text:"Ekran tüm kadar azaltmak"},{
+Key:1013004,Text:"Tekrarı devre dışı bırakma"},{
+Key:1013005,Text:"Tekrar etkinleştirme"},{
+Key:1013006,Text:"Baştan başla"},{
+Key:1013007,Text:"Askıya alma"},{
+Key:1013008,Text:"Oku"},{
+Key:1013009,Text:"Sonuna kadar git"},{
+Key:1013010,Text:"Ses"},{
+Key:1013011,Text:"Sesini kapatma"},{
+Key:1013012,Text:"Birim"},{
+Key:1013013,Text:"Araştırma"},{
+Key:1013014,Text:"Genel olarak video sınırlarını tanımlamak"},{
+Key:1013015,Text:"Video için her stanza kenarlıklarını tanımlamak"},{
+Key:1013016,Text:"Geçen süre"},{
+Key:1013017,Text:"Toplam süre"},{
+Key:1013018,Text:"Kalan süre"},{
+Key:1013019,Text:"Sonraki değeri taşımak için tıklatın"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"dakika"},{
+Key:1018003,Text:"dakika"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"zaman"},{
+Key:1018006,Text:"Saat"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"gün"},{
+Key:1018009,Text:"gün"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"hafta"},{
+Key:1018012,Text:"hafta"},{
+Key:1018013,Text:"ay"},{
+Key:1018014,Text:"ay"},{
+Key:1018015,Text:"yıl"},{
+Key:1018016,Text:"yıl"},{
+Key:1019000,Text:"Kapat"},{
+Key:1019001,Text:"Azaltmak"},{
+Key:1019002,Text:"Büyütmek"},{
+Key:1019003,Text:"Alt düzey"},{
+Key:1019004,Text:"Yardım"},{
+Key:1019100,Text:"&Arama"},{
+Key:1019101,Text:"&Silme"},{
+Key:1019301,Text:"&Tamam"},{
+Key:1019302,Text:"&İptal"},{
+Key:1019303,Text:"&Evet"},{
+Key:1019304,Text:"&Sigara"},{
+Key:1019305,Text:"&Terk"},{
+Key:1019306,Text:"&Yeniden deneme"},{
+Key:1019307,Text:"&Yoksay"},{
+Key:1019308,Text:"&İptal"},{
+Key:1019309,Text:"&Kesme"},{
+Key:1019310,Text:"&Kopya"},{
+Key:1019311,Text:"&Yapıştır"},{
+Key:1019312,Text:"&Silme"},{
+Key:1019313,Text:"&Tümünü Seç"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Levililer"},{
+Key:1020003,Text:"Sayıları"},{
+Key:1020004,Text:"Tesniye"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Hakimler"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Kings"},{
+Key:1020011,Text:"2 Kings"},{
+Key:1020012,Text:"1 Chronicles"},{
+Key:1020013,Text:"2 Chronicles"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Luka"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"İş"},{
+Key:1020018,Text:"Zebur"},{
+Key:1020019,Text:"Atasözleri"},{
+Key:1020020,Text:"Vaiz"},{
+Key:1020021,Text:"Şarkı ve şarkı"},{
+Key:1020022,Text:"Isaiah"},{
+Key:1020023,Text:"Jeremiah"},{
+Key:1020024,Text:"Yeremya Ağıtlar"},{
+Key:1020025,Text:"Hezekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadiah"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICAH"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakkuk"},{
+Key:1020035,Text:"Zephaniah"},{
+Key:1020036,Text:"Hagay"},{
+Key:1020037,Text:"Zekeriya"},{
+Key:1020038,Text:"Malaki"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Acts of elçileri"},{
+Key:1020044,Text:"Romalılar"},{
+Key:1020045,Text:"1 Corinthians"},{
+Key:1020046,Text:"2 Corinthians"},{
+Key:1020047,Text:"Galatlar"},{
+Key:1020048,Text:"Efesliler"},{
+Key:1020049,Text:"Filipililer"},{
+Key:1020050,Text:"Koloseliler"},{
+Key:1020051,Text:"1 Selanikliler"},{
+Key:1020052,Text:"2 Selanikliler"},{
+Key:1020053,Text:"1 Timothy"},{
+Key:1020054,Text:"2 Timothy"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"İbraniler"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Peter"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apocalypse"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Eski"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Yok"},{
+Key:1020116,Text:"Olduğunu"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"HALKLA İLİŞKİLER"},{
+Key:1020120,Text:"EC"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"İŞLETİM SİSTEMİ"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"AM"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Yani"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"JN"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1"},{
+Key:1020152,Text:"2"},{
+Key:1020153,Text:"Yarış"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"O"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

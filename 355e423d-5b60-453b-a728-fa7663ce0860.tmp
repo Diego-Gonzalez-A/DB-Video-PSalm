@@ -1,0 +1,1194 @@
+{
+PreviousCheckDate:"20180909000000",
+Versions:[{
+Title:"1.21.0.18055",
+Description:"1.21.0.18055",
+VersionDate:"20180224000000"}],
+SongBooks:[{
+Guid:"bw5mhM3OlU+BZNKAk/3eGA",
+Title:"Koortjieboek 2014",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+Description:"1038 songs",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"jDF7kWaHUEqYYaxYUpsshw",
+Title:"Liedboek",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+Description:"646 songs",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"ubFCVxI7CUubuin5DOhvuw",
+Title:"Alexandria Praise School",
+Language:"Arabic",
+Log:[{
+Title:"Initial version",
+Description:"2315 songs
+from www.facebook.com/AlexandriaPraiseSchool",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"6z3/EAU92EWHIwIcH/mdJw",
+Title:"Iban",
+Language:"Bahasa Indonesia",
+Log:[{
+Title:"Initial version",
+Description:"31 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"fKbNk2y2SkO8ZFqKtihpRQ",
+Title:"EasySlides - Cantonese",
+Language:"Cantonese",
+Log:[{
+Title:"Initial version",
+Description:"399 songs in Cantonese, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"BJ4EEPFAxkCD0hrWSbxlZg",
+Title:"OpenLP - Deutsch",
+Language:"Deutsch / German",
+Log:[{
+Title:"Ursprünglische Version",
+Description:"18 Liedern aus OpenLP importiert",
+VersionDate:"20121013000000",
+IsAcknowledged:1}]},{
+Guid:"YNKzSdq3PUmEcr0sGc7nnQ",
+Title:"Big Song Collection",
+Language:"English",
+Log:[{
+Title:"Reimported (verse sequences are now considered)",
+Description:"2205 songs (432 with chords), imported from OpenSong.
+Found at http://scottdwest.com/projects/opensong/, by Scott West",
+VersionDate:"20130409000000",
+IsAcknowledged:1}]},{
+Guid:"om3xoi8+zESVGUFiZ3bOiw",
+Title:"Camp",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"40 songs (with some verses in Czech)",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"DNPKwJ+S7k+CBNsXjICDrQ",
+Title:"EasySlides - Cantonese-English",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"99 songs in Cantonese and English, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"oRd/2bvUeUmjTf2qJcVhEw",
+Title:"EasySlides - English",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"982 songs imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"2VowO/zRdUevePSSP6OVNQ",
+Title:"EasySlides - Mandarin-English",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"183 songs in Mandarin and English, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"PV2Wpln9UUSeCLG5xdOb+g",
+Title:"EasyWorship 2009 Samples",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"324 songs imported from EasyWorship 2009",
+VersionDate:"20121015000000",
+IsAcknowledged:1}]},{
+Guid:"1g8PdA/wZE+2QbXDy7ZRGQ",
+Title:"I will sing Praise",
+Language:"English",
+Log:[{
+Title:"Corrections",
+Description:"377 songs
+Credits: ​Lauren Snell
+
+Church of Christ www.churchofchristlexne.org
+13th and Tyler
+Lexington, NE 68850
+308-324-3191",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"smrk4S8sBECC8nQuI8xlpw",
+Title:"Matt Redman",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"3 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"FsaW7sOn6Eubn+Al36uSMw",
+Title:"MediaShout - Public Domain",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"241 songs, imported from MediaShout",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"3T3h9RsqWk+48fKAdsYB1A",
+Title:"MediaShout - Rick Muchow",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"42 songs, imported from MediaShout",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"MDWpLxFHc0C3+QdOLjqj0A",
+Title:"Noel Richards",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"29 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"khiHU2blX0Kb41dGdbDLhA",
+Title:"OpenLP Samples",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"175 songs, imported from OpenLP",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"s9F35PRGU0SBxcrg+celoQ",
+Title:"Sacred Selections For The Church",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"672 songs from Ellis Crum",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"nD2t0EbffECosjKNcVVOgg",
+Title:"SDA Hymnal 7",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"695 songs
+Thanks to Eric T Pierce for his contribution",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"Doc9pMT+DU6rUvRTJDl5SA",
+Title:"SDA Responsive Readings",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"225 songs
+Thanks to Eric T Pierce for his contribution",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"IQHh/bIgGUi7MVZPbxfoUg",
+Title:"Seventh-day Adventist Hymnal ",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"695 songs
+Thanks to Felina Daniel for her contribution",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"CD67mILOqkyqEQhdDPDsSw",
+Title:"Songs of Fellowship 1",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"DD67mILOqkyqEQhdDPDsSw",
+Title:"Songs of Fellowship 2",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"zkkA/B6odk2Edp0fTgYg8A",
+Title:"Songs of Fellowship 3",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"hVYOjPjfcku5X+Fwa9m90A",
+Title:"Songs of Fellowship 4",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"tsxVt1x2Rk2bOKV9KIT94A",
+Title:"Songs of Fellowship 5",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"rL4SbUnkQEqxpKGqaI33mQ",
+Title:"Songs with chords",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"606 songs, most of them with guitar chords.",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"x2oZ+DNU2ESLPUPAax3GaQ",
+Title:"Worship",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"263 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"c+7MfcjwrUSVkvDoJkZ8jQ",
+Title:"Cancionero",
+Language:"Español / Spanish (America)",
+Log:[{
+Title:"Initial version",
+Description:"402 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"OLYdjal50ke4sskZiTQMcg",
+Title:"Himnario",
+Language:"Español / Spanish (America)",
+Log:[{
+Title:"Initial version",
+Description:"764 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"jbEI9aF180GhzqK6Ao/M2A",
+Title:"Himnario De Truinfo y Gloria",
+Language:"Español / Spanish (America)",
+Log:[{
+Title:"Initial version",
+Description:"329 songs, special thanks to Julio's contribution.",
+VersionDate:"20140911000000",
+IsAcknowledged:1}]},{
+Guid:"uzniDDV7G02pFXqZjrtKWg",
+Title:"MediaShout - Canciones Español",
+Language:"Español / Spanish (America)",
+Log:[{
+Title:"Initial version",
+Description:"363 songs, imported from MediaShout",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"3laz8FSud0S9WiDpzo976A",
+Title:"Ninos",
+Language:"Español / Spanish (America)",
+Log:[{
+Title:"Initial version",
+Description:"16 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"oTErwZCemkKW1H9qM0uRdQ",
+Title:"Nuevas",
+Language:"Español / Spanish (America)",
+Log:[{
+Title:"Initial version",
+Description:"565 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"IyLLNChbjEODn+48PTG/2w",
+Title:"À Toi la Gloire",
+Language:"Français / French",
+Log:[{
+Title:"Correction mineure",
+Description:"N° 51, strophe 1 : et -> est",
+VersionDate:"20120923000000",
+IsAcknowledged:1}]},{
+Guid:"QVW/2Z9b1USL2RnoRxZlmQ",
+Title:"Ailes de la Foi",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"655 chants
+Source : http://jemaf.free.fr/af.html
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro",
+IsAcknowledged:1}]},{
+Guid:"wZmkpugttEiUD0A+pRTgyQ",
+Title:"Alléluia",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"845 chants",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"kXu54e6q1EmyMrMQ96qgMg",
+Title:"Arc-en-Ciel",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"632 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : http://foinormande.blogspirit.com/media/00/01/566233693.doc et importés dans VideoPsalm via son filtre « Texte »",
+VersionDate:"20121003000000",
+IsAcknowledged:1}]},{
+Guid:"C4RUbldlfE2ocANevMpmVw",
+Title:"Assemblée de Marguerittes",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151226000000",
+IsAcknowledged:1}]},{
+Guid:"nL6i0R1v2UOA5UQTMTKMsA",
+Title:"Cantiques",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"911 chants - Recueil de Jean D.",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"xihbONvky0+1aah/KhET1A",
+Title:"Célébrons Dieu",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"368 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : Forum de Psalmo à http://www.psalmo.com/forum/viewtopic.php?f=15&t=233
+Aussi disponible ici au format MediaShout 3 : http://www.conducteurdelouange.com/nouvelleDetail.aspx?articleID=130",
+VersionDate:"20120923000000",
+IsAcknowledged:1}]},{
+Guid:"l86hkp71cUOMqLLRlsvSMQ",
+Title:"Chœurs et Cantiques",
+Language:"Français / French",
+Log:[{
+Title:"Version complète",
+Description:"560 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : VideoPsalm",
+VersionDate:"20121212000000",
+IsAcknowledged:1}]},{
+Guid:"m6yBFIZT10qQ1EFTyigcWQ",
+Title:"Dans la Présence du Seigneur",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"De Laurent et Marc
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro",
+VersionDate:"20120519000000",
+IsAcknowledged:1}]},{
+Guid:"Q1UBJRA4wEe9CSxPnLe6EQ",
+Title:"Donnez-Lui Gloire",
+Language:"Français / French",
+Log:[{
+Title:"Correction du chant 342",
+Description:"Recueil de cantiques rassemblant 519 cantiques pour l'église Adventiste francophone.
+Mise en forme par Jimmy BARBIN",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"4HnkSFKhdE+UwouBS6FdPg",
+Title:"Foi et Louange",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"404 chants
+Merci à Alessandro pour sa contribution.",
+VersionDate:"20160412000000",
+IsAcknowledged:1}]},{
+Guid:"WKmYrrBfkEuahpOrkdqYmw",
+Title:"Grâce Divine Tabernacle",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"245 chants de l'église du Tabernacle
+Contribution de Yves Pandzou",
+VersionDate:"20140603000000",
+IsAcknowledged:1}]},{
+Guid:"ZkhpPVAahUOBDAwenggKzQ",
+Title:"Hymnes et Louanges",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"654 chants
+Source : http://hymnesetlouanges.tripod.com/HymnesEtLouangesTXT.zip",
+VersionDate:"20130523000000",
+IsAcknowledged:1}]},{
+Guid:"CTHTVH0q9UOgC4JDmA6d7A",
+Title:"J'aime l'Éternel 1",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"N° 138 : donnera -> donne",
+VersionDate:"20120624000000",
+IsAcknowledged:1}]},{
+Guid:"lJMpeqK4wESYYfkzPyFjRA",
+Title:"J'aime l'Éternel 2",
+Language:"Français / French",
+Log:[{
+Title:"Réarrangement",
+Description:"N° 400 : Redécoupage du refrain",
+VersionDate:"20120624000000",
+IsAcknowledged:1}]},{
+Guid:"3QLZyEhN/kGyf/6+ttXZ1Q",
+Title:"J'aime l'Éternel 3",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"222 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : http://jemaf.free.fr/texte.php et comparés avec OpenSong.fr",
+IsAcknowledged:1}]},{
+Guid:"gVAxZxawvEaLj2+NFumUYg",
+Title:"J'aime l'Éternel Kids",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"144 chants
+Éditions Jeunesse en Mission
+Av. Haldimand 13
+CH-1400 Yverdon-les-Bains
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : VideoPsalm",
+VersionDate:"20121104000000",
+IsAcknowledged:1}]},{
+Guid:"4QLZyEhN/kGyf/6+ttXZ1Q",
+Title:"J'aime l'Éternel 3 - Supplément « Tu es bon »",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"Merci à Guillaume Schulz pour sa contribution.",
+VersionDate:"20150830000000",
+IsAcknowledged:1}]},{
+Guid:"iHI0PJqUPkuN1ao2caF93g",
+Title:"Psautier Romand",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"459 chants (source : Psalmo)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"nLzqDH9IaUW6xlkZr1wywQ",
+Title:"Shir - Asaph",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"199 chants avec les accords
+Édités par LTC
+http://www.ltc-asaph.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"Oiix8FCxzU2fkneK/5tPFw",
+Title:"Shir - Bryan Ost",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://hotchocolate.at/mypage/user_page.php?user_id=1123
+http://fr.sephoramusic.com/a-tes-yeux-art3974.htm
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"Iya8hwocN0KASJYw28XoQg",
+Title:"Shir - Collectif Cieux ouverts",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"13 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"dZNHZDWta0Gl6DnPQclIcw",
+Title:"Shir - Dan Luiten",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"36 chants avec les accords
+http://www.danluiten.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"kiUGMyLa6kqmHqXD06u0ug",
+Title:"Shir - Degrés",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"15 chants avec les accords
+Album Degrés de John Featherstone, édité par Première partie
+http://www.degr.es/
+http://www.premierepartie.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"/2q2Tph9AEGx75C9sswxrQ",
+Title:"Shir - Embrase nos cœurs",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://embrasenoscoeurs.org/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"sL9aJoOToES+n9TwGVmfAQ",
+Title:"Shir - Fabienne Pons",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"10 chants avec accords.",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"niYRRJcsSEKUssWbr9JrCQ",
+Title:"Shir - Hélène Goussebayle",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"22 chants avec les accords
+http://helenegoussebayle.fr/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"TPkhXbAnFke8i5wirXemRQ",
+Title:"Shir - Hillsong",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://hillsongmusic.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"ZYw6Slbj1ECLJ/YDC0DU5g",
+Title:"Shir - Impact",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"23 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"S7IkccWXBUOoZSyZbiTTPg",
+Title:"Shir - JEM2",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"346 chants avec les accords
+
+Recueil de chants
+de Jeunesse en Mission
+
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"ns95ZIeatECIWadttQ1Gsw",
+Title:"Shir - JEM3",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"222 chants avec les accords
+
+Recueil de chants
+de Jeunesse en Mission
+
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"4TsMbAWmwUKCYsjWjdFM/w",
+Title:"Shir - Mathias Marques",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"10 chants avec les accords
+http://mathiasmarques.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"+PU7pIfGkUuU8kKLl3jOfA",
+Title:"Shir - Paul Baloche",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://www.leadworship.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"LPCLmN8DjES00j6mhnRVJw",
+Title:"Shir - Paul Baloche 2013",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"14 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"Pf9fxcoiZUK9M/wX5lkxDg",
+Title:"Shir - Pierre-Nicolas",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"21 chants avec les accords
+http://www.pierre-nicolas.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"/zw4BYjoekeyyHj2vtx5lg",
+Title:"Shir - Pierre-Nicolas 2014",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"12 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"lzA9wzI2uUGAWDLydhbUfg",
+Title:"Shir - Samuel Olivier",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://www.intimeetranger.fr/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"EtTgyA09aky2q/pwMmWPAg",
+Title:"Shir - Thomas Blanc",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"11 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"pacuG4Z9xEKlBITYKINHfg",
+Title:"Shir - Worship Central",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"8 chants avec les accords
+http://www.worshipcentral.org/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"oBIupoIs70uBf4QdH+7VNA",
+Title:"Unisson",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"385 chants - Recueil de chants de l’Armée du Salut francophone",
+VersionDate:"20141126000000",
+IsAcknowledged:1}]},{
+Guid:"8oRsA2f5OUe9uKoIyehzRg",
+Title:"Vitrail",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"208 chants (source : Psalmo)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"zbBjvwhDPkCw6GKBO8HZmA",
+Title:"Chants d'espérance Français",
+Language:"Haitian Creole",
+Log:[{
+Title:"Version initiale",
+Description:"Chants d'espérance Haïti
+335 chants, tirés de http://chantsdesperanceonline.com/chantsdesperance/francais",
+VersionDate:"20130427000000",
+IsAcknowledged:1}]},{
+Guid:"pLzqV5AhVEaJkSm7Zpdqow",
+Title:"Chants d'espérance Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Version 2",
+Description:"Ajout de 65 chants (81-145) - contribution de Wilbens Nonord",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"UDodxKKCNk2a3JYazjMdBg",
+Title:"Écho des élus Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"84 songs (contribution from Wilbens Nonord)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"/gL9AStlfUa2l/bLo5UWkw",
+Title:"Gloire à l'Agneau",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"66 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"oHOpLOG+30qg2pbGsUGQFg",
+Title:"Haïti chant avec radio Lumière",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"92 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"rAtegUexeESFe9oVRLG8DA",
+Title:"La Voix du réveil",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"46 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"AMIbO8PKvkmYMnjP0rgU9A",
+Title:"La Voix du réveil kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"17 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"QaAI+Lm8BE20w81Lcqlr9w",
+Title:"L'ombre du réveil",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"135 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"tOm/grdl7Ei63Ma7pFpeAg",
+Title:"Mélodie Joyeux Français",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"Chants d'espérance Haïti
+183 song (contribution from Wilbens Nonord)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"eo4sPW1eQ0SfO+MDMqGYWA",
+Title:"Mélodie Joyeux Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"85 songs (contribution from Wilbens Nonord)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"0j28eDU5f0eV9K+YuZ5Pyw",
+Title:"Réveillons-nous Chrétiens",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"71 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"ILsSjY2rNk6Gw7ugsE3OeA",
+Title:"Réveillons-nous Français",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"96 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"6BkGd3hFp0akWgV8s1im4Q",
+Title:"Réveillons-nous Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"81 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"NCfD0i0JaUqeAg5UpRlsHQ",
+Title:"HOGC database - English",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+Description:"84 songs (Many thanks to Yogesh Chhaproo for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"8IC4BCgl1UKKp5IYKL8Iwg",
+Title:"HOGC database - Hindi",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+Description:"77 songs (Many thanks to Yogesh Chhaproo for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"yW5zza23zEeTcxJcSWV1IA",
+Title:"Énekfüzet",
+Language:"Hungarian",
+Log:[{
+Title:"Initial version",
+Description:"283 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"p869FDBWR0+Q3NijY1LPdQ",
+Title:"Sárga könyv",
+Language:"Hungarian",
+Log:[{
+Title:"Initial version",
+Description:"217 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"eyFUYq7bHU6LJOyjmz/8cg",
+Title:"구찬송가",
+Language:"Korean",
+Log:[{
+Title:"New songs added",
+Description:"563 songs (Many thanks to Daniel for providing this songbook)",
+VersionDate:"20150426150513",
+IsAcknowledged:1}]},{
+Guid:"extvwgkstku3uYT60jga+Q",
+Title:"한글구찬송가",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"553 songs (Many thanks to Kweon kun-kil for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"DP1iAv6V4EaaP2o/AVS5Iw",
+Title:"Luganda songs",
+Language:"Luganda",
+Log:[{
+Title:"Initial version",
+Description:"Contribution from Nkemy Paul",
+VersionDate:"20151112000000",
+IsAcknowledged:1}]},{
+Guid:"a3NhdtADzUCK3T0MTObRrA",
+Title:"Antema",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"24 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"FxWkhQYi6UeJ3g4TQ6QWFg",
+Title:"Fihirana",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"827 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"qnrPfHz8WEG8HuyycZ7xkw",
+Title:"Fihirana Fanampiny",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"54 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"E4BEK1G2nkeOrxmaKFtTmQ",
+Title:"Tsanta",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"14 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"9bW3lA68uUyz7EjpFtyf3Q",
+Title:"Malay",
+Language:"Malay",
+Log:[{
+Title:"Initial version",
+Description:"227 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"4pVwlgCLtk+BGqdFAl+rlg",
+Title:"Athmeeya Geethangal",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"1048 songs",
+VersionDate:"20180203000000",
+IsAcknowledged:1}]},{
+Guid:"eiBSnzSCZUGtiIQ3JxH+jw",
+Title:"Avan Krupa",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"12 songs",
+VersionDate:"20180203000000",
+IsAcknowledged:1}]},{
+Guid:"qT6+Ca5D30ami1/SIx7wiw",
+Title:"EasySlides - Mandarin",
+Language:"Mandarin",
+Log:[{
+Title:"Initial version",
+Description:"1617 songs, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"LT2+sQ7mV0S+ySxBy6JX1A",
+Title:"Mongolian SharNom Songs",
+Language:"Mongolian",
+Log:[{
+Title:"Initial version",
+Description:"471 songs
+Thanks to Charles n' Anita Jackson for this contribution",
+VersionDate:"20170608000000",
+IsAcknowledged:1}]},{
+Guid:"uPjNNHXXW0WKo6RPHlnPZA",
+Title:"Ancien recueil en Mooré",
+Language:"Mooré",
+Log:[{
+Title:"Initial version",
+Description:"155 chants - Contribution de Jean-Jacques O.",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"BzOVszIyTkmlJpOBQ6FvIg",
+Title:"Nouveau recueil en Mooré",
+Language:"Mooré",
+Log:[{
+Title:"Initial version",
+Description:"160 chants - Contribution de Jean-Jacques O.",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"FBPxWsj3gUOjGv18jzIM1A",
+Title:"Pielgrzym",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"875 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"s6X5HILAn0SGjkMmjAoo8A",
+Title:"Różne",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"322 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"MGtMwmufGEuSue8tHz4xjg",
+Title:"Spiewnik-Glos-Wiary",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"514 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"pW7VC4sojk6/OGb88KgvbQ",
+Title:"Spiewnik-Piesni-Nowego-Zycia",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"300 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"4FIZUTY6DUOpmVmVrmPFOg",
+Title:"Wędrowiec",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"299 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"liTHXnl6wUSj40wcoigSfA",
+Title:"Zborowy",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"98 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"L0W1+UQf80usUUgtx3k33w",
+Title:"Cantor Cristão (Hinário Batista)",
+Language:"Português (Brasil)",
+Log:[{
+Title:"Initial version",
+Description:"534 songs (thanks to Renato Giovani Barroso for his contribution)",
+VersionDate:"20160102000000",
+IsAcknowledged:1}]},{
+Guid:"TEkpz8glB0mohyAmlTOAhQ",
+Title:"Gallego Portugal",
+Language:"Português (Brasil)",
+Log:[{
+Title:"Initial version",
+Description:"35 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"Jk+OHcAdykGFUKX8FbfPyg",
+Title:"Hinário para o Culto Cristão (Hinário Batista JUERP)",
+Language:"Português (Brasil)",
+Log:[{
+Title:"Initial version",
+Description:"613 songs (thanks to Renato Giovani Barroso for his contribution)",
+VersionDate:"20160102000000",
+IsAcknowledged:1}]},{
+Guid:"H6JjrSZqiEyDEZ9ZAPiO5A",
+Title:"OpenLP - Russian",
+Language:"Russian",
+Log:[{
+Title:"Initial version",
+Description:"2565 songs, imported from OpenLP",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"UoM9tfG82k65py6swD9Cnw",
+Title:"Songs",
+Language:"Russian",
+Log:[{
+Title:"Initial version",
+Description:"232 songs (Many thanks to Vitaliy Bernik for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"gECss0bXREKqaI2JdmHm0Q",
+Title:"BJB Revucka Lehota",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"442 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"Px7tjx381Ua1OM/j6MItkg",
+Title:"Bratske piesne",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"678 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"xty5RBT9PEOQcecD3/X6PQ",
+Title:"Ceske Chvaly",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"337 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"b3MIgYpxC0qUQxbtd6yxKA",
+Title:"Chvalte Pana Jezisa",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"163 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"0yGkW8BQpUWbsmETUJZScQ",
+Title:"Chvalte Pana Jezisa 2",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"151 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"LfNCz/x1nUqyKa1PZ0ibnQ",
+Title:"Detske",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"121 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"m4vnO+90e0Cl2Etfym8lLA",
+Title:"Evanjelicky spevnik",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"718 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"d9cGs/fQqkmm3UexmJ7ELw",
+Title:"Haleluja Spevnik",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"262 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"BZMzzVzWREO7Er2WrwwYLg",
+Title:"Piesne Duchovne",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"363 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"AGzJLCcC4UaqnO0Cdm4BTg",
+Title:"Sivy spevnik",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"56 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"OP+7GnmpAkeRu4NoUbrHKg",
+Title:"Slovenske Chvaly",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"517 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"f12uj63Z0kmM6lC8tWSnbg",
+Title:"Spevnicek",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"89 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"5NCedX4yj0GkCla+VnsKtA",
+Title:"Spevnik - 400 krestanskych piesni",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"400 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"47fENuYK5EyIWJww9oDnRw",
+Title:"Spevnik Klenovec",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"161 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"aFRgPfIwZ06wIFKnDkY8Kw",
+Title:"Spevnik Viera",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"343 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"s9cuBf4ReEqcj6OxScX3CA",
+Title:"Spievadlo Nesvady",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"249 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"NApI2XW92EOZV6r5ZO5xHA",
+Title:"SPIEVAJME Hospodinovi novu piesen! 1964",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"87 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"zy5ndWQD+kGkLdTdky7Orw",
+Title:"Spievatko",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"58 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"M/se+MiY5Eq8v+ymbe1g2w",
+Title:"Nyimbo za Kristo",
+Language:"Swahili",
+Log:[{
+Title:"Corrections",
+Description:"221 songs
+Thanks to ​Samedi Amba for his contribution",
+VersionDate:"20170202000000",
+IsAcknowledged:1}]},{
+Guid:"1vGlenS6p0O7xDU6P8txWg",
+Title:"Tamil songs",
+Language:"Tamil",
+Log:[{
+Title:"Initial version",
+Description:"1515 songs - Many thanks to Felix Immanuel (churchsw.org) and J. Emmanuel for providing this songbook",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"pwtgoYgIu06qMOaJ+xT1jQ",
+Title:"Türkçe",
+Language:"Turkish",
+Log:[{
+Title:"Initial version",
+Description:"629 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]}],
+Bibles:[],
+Languages:[]}

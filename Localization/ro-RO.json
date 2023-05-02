@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Romanian (Romania)"},{
+Key:1000000,Text:"Traducere"},{
+Key:1000001,Text:"nu."},{
+Key:1000003,Text:"&Adauga..."},{
+Key:1000004,Text:"Adăugați unul sau mai multe limbi la VideoPsalm"},{
+Key:1000006,Text:"&Trimite"},{
+Key:1000007,Text:"Trimite etichetele prin email la VideoPsalm în următoarea Setup"},{
+Key:1000009,Text:"&Se aplică"},{
+Key:1000011,Text:"&Salvaţi"},{
+Key:1000012,Text:"Aplicaţi limba selectată în VideoPsalm. Modificările sunt salvate automat în avans."},{
+Key:1000013,Text:"Salvaţi modificările la etichetele"},{
+Key:1000015,Text:"&Ştergeţi"},{
+Key:1000016,Text:"VideoPsalm şterge limba selectată şi toate etichetele sa"},{
+Key:1000022,Text:"&{0} exprimate:"},{
+Key:1000024,Text:"&Limbi:"},{
+Key:1000029,Text:"Case de discuri"},{
+Key:1000030,Text:"Etichete s-au schimbat.
+
+Doriți să salvați aceste modificări?"},{
+Key:1000031,Text:"Eliminaţi o limbă"},{
+Key:1000032,Text:"Într-adevăr doriţi să ştergeţi {0} limbă de VideoPsalm?
+
+Această operațiune va șterge toate textele din această limbă şi este ireversibilă."},{
+Key:1000035,Text:"VideoPsalm vine vorba de a crea fişiere comprimate cu .zip prelungire
+care conţin etichetele în limba lor respective.
+Ataşaţi fişierul corespunzător de e-mail care apare, apoi a posta acest e-mail la videopsalm@gmail.com."},{
+Key:1000036,Text:"Trimite e-mail etichete"},{
+Key:1000037,Text:"<b>În această fereastră 'Traducere', puteţi edita texte care apar în formele de VideoPsalm.</b>
+Acest lucru permite traducerea, adaptarea sau corecta orice text interface de VideoPsalm, în VideoPsalm chiar.
+
+<i>Dacă această componentă se ocupa prea mult spatiu, acesta reduce făcând clic pe butonul mic de reducere la stânga-sus, sau redimensiona mouse-ul cu separatorul orizontal.</i>
+
+VideoPsalm este disponibil în mai multe limbi. VideoPsalm limbi sunt enumerate în panoul de mai jos la stânga intitulat \"limbi\".
+Dacă limba ta nu apare în această listă, puteţi traduce aici, VideoPsalm în limba dumneavoastră. Reţineţi că acest lucru va fi, probabil, mai multe ore de munca.
+
+Iată cum să aibă VideoPsalm în limba ta:
+
+-Adăuga limba dvs la lista prin selectarea printre cei ai găsi prin butonul \"Adauga <image=add2_16>\".
+-În tabelul de mai jos la dreapta, VideoPsalm se afişează etichetele de verificat de limbi.
+-Traducerea etichetelor în limba dvs.
+
+În tabel, puteţi edita etichete în timpul tău liber, ca şi o foaie de calcul Excel.
+Tabelul oferă o casetă de căutare. Astfel, pentru a arăta doar etichete care conţin cuvinte specifice, tip aceste cuvinte în caseta de căutare şi apoi faceţi clic pe butonul \"căutare\".
+Utilizaţi zona de filtrare situate sub fiecare limbă de antet pentru a filtra etichetele de o limbă care conţine anumite cuvinte specifice.
+
+Pentru a facilita munca ta, selectaţi unul sau mai multe alte limbi ştii, pentru a înţelege mai bine sensul de fiecare etichetă și să poată citi în mai multe limbi simultan.
+Verificaţi Comentarii, deoarece acestea permit o mai bună înţelegere de semnificaţia de anumite etichete şi în cazul în care acestea sunt utilizate.
+
+<b>Notă:</b> Este mai bine să părăsească Comentarii în limba engleză, deoarece mulţi oameni înţeleg limba engleză.
+
+Pentru a vedea rezultatul muncii tale de traducere:
+-Selectaţi limba dumneavoastră în limbile panoul făcând
+   apoi
+-Faceţi clic pe butonul \"Apply\" (jos).
+
+VideoPsalm vor fi afişate în limba pe care le-aţi selectat.
+
+Nu uitaţi să salvaţi lucrul la traducere făcând clic pe butonul \"Salveaza <image=disk_blue>.
+După ce aţi salvat o limbă nouă, selectaţi-o din fereastra opţiuni.
+
+Vă rugăm să ne trimiteţi dumneavoastră traduceri sau corecturi prin e-mail la <b>videopsalm@gmail.com</b> făcând clic pe butonul \"trimite <image=mail_16>\".
+Când faceţi clic pe acest buton, se întâmplă două lucruri:
+1. Clientul de e-mail va deschide automat, de exemplu Outlook.
+2. Un dosar Explorer se deschide în care VideoPsalm a pus fişierele comprimate cu .zip prelungire nume limbi.
+
+Glisaţi şi fixaţi fişierul corespunzător în e-mail şi post-l astfel încât să putem încorpora într-o versiune viitoare a VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Cum se traduce VideoPsalm în limba dumneavoastră?"},{
+Key:1000039,Text:"Limbi în care este tradus VideoPsalm. Selectaţi limbile pe care doriţi să afişaţi etichete în tabel. Pentru a adăuga limba dvs. în listă, faceţi clic pe butonul 'Add'."},{
+Key:1001000,Text:"Adauga limbi"},{
+Key:1001001,Text:"&Limbi:"},{
+Key:1001002,Text:"Selectați limbi pentru a adăuga"},{
+Key:1001003,Text:"&Adauga"},{
+Key:1001004,Text:"Revocare"},{
+Key:1001005,Text:"Ajutor (F1)"},{
+Key:1002000,Text:"Opţiuni"},{
+Key:1002003,Text:"&Generale"},{
+Key:1002004,Text:"&Afişare"},{
+Key:1002005,Text:"&Pagina"},{
+Key:1002014,Text:"&Colecţii"},{
+Key:1002015,Text:"&Biblii"},{
+Key:1002103,Text:"&Limba:"},{
+Key:1002105,Text:"&VideoPsalm folderul documente:"},{
+Key:1002106,Text:"Selectaţi folderul Documente VideoPsalm:"},{
+Key:1002112,Text:"&Salvaţi orice modificare adusă versete biblice (text şi stil)"},{
+Key:1002202,Text:"&Înlocui ghilimelele « <size=+4>'» de francezi citate « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Utilizaţi regulile francez de tipografie"},{
+Key:1002204,Text:"&În cântece, înlocuiţi cratimele prin cratime neseparatoare"},{
+Key:1002205,Text:"&În versetele biblice, înlocuiţi cratimele prin cratime neseparatoare"},{
+Key:1002304,Text:"&Metoda de redare:"},{
+Key:1002306,Text:"Standard de"},{
+Key:1002307,Text:"Îmbunătăţit"},{
+Key:1002502,Text:"&Se aplică"},{
+Key:1002503,Text:"Salvaţi modificările şi să păstreze fereastra deschisă"},{
+Key:1002504,Text:"ok"},{
+Key:1002505,Text:"Salvați modificările și închideți fereastra"},{
+Key:1002508,Text:"Închide fereastra fără a salva modificările"},{
+Key:1002510,Text:"&Licenţă Bisericii:"},{
+Key:1002513,Text:"Opţional textul introdus aici pot fi afişate automat în antetul sau subsolul slide.
+
+De exemplu, se poate specifica aici numărul de licenţă CILC de biserica ta."},{
+Key:1002516,Text:"&Câmpurile header:"},{
+Key:1002517,Text:"&Câmpurile din subfooter:"},{
+Key:1002531,Text:"Pentru a modifica fontul pe care este afişat VideoPsalm.
+
+Fonturi standard:
+- <b>Tahoma</b> pentru Windows XP
+- <b>Segoe UI</b> pentru Windows Vista, Windows 7 şi Windows 8
+
+Dimensiuni standard: 8.25"},{
+Key:1002532,Text:"Este necesar să reporniţi VideoPsalm pentru o schimbare de politică să fie luate în considerare pe deplin."},{
+Key:1002533,Text:"Dacă această casetă este bifată, VideoPsalm va înlocui apostrofuri drepte cu un apostrof francez, care este o virgulă plasate în înălţime în slide-uri.
+
+Când introduceţi versurile unui cântec în editor, vă recomandăm să utilizaţi caracterul care veţi găsi cu uşurinţă de pe tastatură, de obicei drepte apostrof."},{
+Key:1002534,Text:"Dacă această casetă este bifată, VideoPsalm rearanjează în diapozitiv spațiere pentru unele caractere de punctuaţie în conformitate cu tipografia francez.
+
+De exemplu, dacă un cântec conţine următoarele cuvinte: <b>Domnului!</b>
+
+VideoPsalm ecran: <b>Domnului!</b>
+
+Aici este de punctuaţie care beneficiază de un tratament special:
+<b>: ; ! ? »</b><i>VideoPsalm loc un neseparatoare spaţiu înainte şi spaţiu după.</i><b>«</b><i>VideoPsalm locul un spaţiu înainte şi un spaţiu neseparator după.</i>
+
+VideoPsalm organizează nu spaţierea de alte caractere semne de punctuaţie.
+
+Când introduceţi cuvintele de un cântec nou, vă recomandăm să urmaţi regulile tradiţionale de tipografie, adică stick punctuaţie la cuvintele pe care le privesc. În acest fel, veţi putea pentru a se conforma cu display tipografie francez prin bifarea acestei casete, sau cu normele ţării dumneavoastră de nu selectaţi această casetă de selectare.
+
+<b>Notă:</b> Este posibil că franceză tipografie norme nu se aplică în ţara dumneavoastră chiar dacă limba este francez, de exemplu în francofone Africa, Belgia, Quebec sau în Elveţia.
+
+Pentru o referinţă complet pe spaţiile şi punctuaţia din tipografie francez, consultaţi <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, pagina 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Font:"},{
+Key:1002536,Text:"&Dimensiune:"},{
+Key:1002539,Text:"Dacă această casetă este bifată, VideoPsalm, informează în timpul său de pornire, de existenţa unor funcţii noi ştiri despre sau a programului:
+-colectii
+-Biblii,
+- şi VideoPsalm limbi.
+
+Noi colecţii, Biblii în limbi noi şi noi limbi pentru VideoPsalm uneori sunt adăugate la bibliotecă online VideoPsalm.
+
+Când se întâmplă acest lucru, adăugaţi câteva clicuri aceste noi documente la instalarea prin intermediul Expertul Import."},{
+Key:1002540,Text:"Dacă această casetă este bifată, VideoPsalm necesită cuvinte legate prin cratimă pentru a rămâne pe aceeaşi linie în slide-uri.
+
+Valoare pentru versurile cântecelor implicită: <b>verificate</b>"},{
+Key:1002541,Text:"Dacă această casetă este bifată, VideoPsalm necesită cuvinte legate prin cratimă pentru a rămâne pe aceeaşi linie în slide-uri.
+
+Valoare pentru versete Biblii implicită: <b>neverificată</b>"},{
+Key:1002542,Text:"Dacă această casetă este bifată, VideoPsalm permite salvarea modificărilor făcute la versetele din Bibliile (text şi stil).
+
+Dacă nu este bifată această casetă:
+
+<b>1.</b> când închideţi VideoPsalm, ea nu vă va anunţa că Biblii dvs au fost modificate,
+
+<b>2</b> când salvaţi modificările, VideoPsalm nu salvează modificările aduse Biblii (text şi stil),
+
+<b>3</b> veţi găsi dumneavoastră Biblii intacte la următoarea pornire a VideoPsalm."},{
+Key:1002543,Text:"Alege limba în care doriţi să VideoPsalm, aici este afişat.
+
+Dacă limba ta nu apare în listă, poate că este disponibil în biblioteca de VideoPsalm on-line prin intermediul Expertul Import.
+
+Dacă VideoPsalm nu există în limba dvs., vă rugăm să informaţi-ne prin e-mail la videopsalm@gmail.com
+
+Alternativ, vă poate ajuta pentru a traduce textele VideoPsalm în limba dumneavoastră prin intermediul instrument de traducere VideoPsalm sau de a corecta orice erori.
+
+Porniţi instrumentul traducere VideoPsalm cu butonul \"Traduce VideoPsalm\"."},{
+Key:1002544,Text:"Selectaţi folderul din care VideoPsalm de încărcare sale carti, Biblii, imagini şi videoclipuri aici.
+
+Când schimbaţi folderul, VideoPsalm reîmprospãteazã sale colecţii, Biblii, imagini şi videoclipuri cu cele din noul folder.
+
+<b>ATENŢIONARE</b> : înainte de a modifica folderul, verificaţi că aţi salvat modificările."},{
+Key:1002545,Text:"Pentru a modifica fontul pe care este afişat VideoPsalm.
+
+Dimensiuni standard: 8.25
+
+Aveţi posibilitatea să modificaţi dimensiunea fontului prin opţiunile de Windows: Control Panel -&gt; Afişare-> lizibilitate pe ecran."},{
+Key:1002547,Text:"&Traduce VideoPsalm"},{
+Key:1002548,Text:"Deschide instrumentul cu care puteţi traduce VideoPsalm în limba dumneavoastră, sau a corecta orice erori de ortografie."},{
+Key:1002549,Text:"Sunteţi pe punctul de a modifica folderul de unde VideoPsalm va încărca documentele sale.
+VideoPsalm va descărca documentele sale curente şi apoi încărcaţi aceste folder nou.
+Acest lucru poate dura câteva secunde.{0}
+
+Într-adevăr doriţi să modificaţi folderul de document?"},{
+Key:1002550,Text:"Există modificări nesalvate (colectii, Biblii sau calendar).
+Dacă aţi confirma operaţiunea de înregistrare acum, aceste modificări se vor pierde."},{
+Key:1002551,Text:"Modificarea folderului documente"},{
+Key:1002552,Text:"&Ordinea de zi"},{
+Key:1002553,Text:"Modele de implicit:"},{
+Key:1002554,Text:"&melodii:"},{
+Key:1002555,Text:"&Versetul biblic:"},{
+Key:1002556,Text:"&Slideshow imagini:"},{
+Key:1002557,Text:"&videoclipuri autonome:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Timeout implicit avans automat:"},{
+Key:1002560,Text:"secunde"},{
+Key:1002561,Text:"&Adauga o limbă"},{
+Key:1002562,Text:"Se deschide Expertul de Import din limbile în care este tradus VideoPsalm, de unde poti adauga noi limbi pentru a vă VideoPsalm."},{
+Key:1002580,Text:"Implicită a textului după un cântec"},{
+Key:1002581,Text:"Determină fluxul de text implicit după ultimul vers de o melodie.
+
+Această valoare este, de asemenea, luate în considerare pentru melodiile care vă afişează spontan fără ordinea de zi.
+În calendar, puteţi modifica această valoare pentru fiecare melodie."},{
+Key:1002582,Text:"Implicită a textului după Biblie versuri"},{
+Key:1002583,Text:"Determină fluxul de text implicit după ultimul vers de un pasaj biblic.
+
+Această valoare este, de asemenea, luate în considerare în pasaje biblice care vă afişează spontan fără ordinea de zi.
+În calendar, puteţi modifica această valoare pentru fiecare pasaj din Biblie."},{
+Key:1002584,Text:"Implicită a textului după o prezentare de diapozitive imagine"},{
+Key:1002585,Text:"Determină fluxul de text implicit după o prezentare de diapozitive imagine.
+
+În calendar, puteţi modifica această valoare pentru fiecare imagine."},{
+Key:1002586,Text:"Implicită a textului după un standalone pagina"},{
+Key:1002587,Text:"Determină fluxul de text implicit după un standalone pagina.
+
+În calendar, puteţi modifica această valoare pentru fiecare pagina stand-alone."},{
+Key:1002588,Text:"Implicită a textului după un PowerPoint"},{
+Key:1002589,Text:"Determină fluxul de text implicit după un PowerPoint.
+
+În calendar, puteţi modifica această valoare pentru fiecare PowerPoint."},{
+Key:1002590,Text:"Stabileşte intervalul de timp implicit în secunde înainte de a comuta automat la diapozitivul următor.
+
+În calendar, puteţi modifica această valoare pentru fiecare element care curge automat."},{
+Key:1002591,Text:"&Stoca imagini de fundal în ordinea de zi (recomandat)"},{
+Key:1002592,Text:"Stoca imagini de fundal în ordinea de zi"},{
+Key:1002593,Text:"Indică dacă VideoPsalm ar trebui să stoca orice melodii de imagini de fundal şi biblice în versetele fişier ordinea de zi, când îl salvaţi."},{
+Key:1002594,Text:"&Magazin de fundal video (recomandat) ordinea de zi"},{
+Key:1002595,Text:"Magazin video de fundal în ordinea de zi"},{
+Key:1002596,Text:"Indică dacă VideoPsalm ar trebui să stoca orice videoclipuri de fundal de melodii şi biblic în versetele fişier ordinea de zi, atunci când îl salvaţi."},{
+Key:1002597,Text:"&Magazin slideshow imagini (recomandat) ordinea de zi"},{
+Key:1002598,Text:"Magazin prezentare imaginile în ordinea de zi"},{
+Key:1002599,Text:"Indică dacă VideoPsalm ar trebui să stoca imagini posibil de slideshow în fişierul calendar atunci când îl salvaţi."},{
+Key:1002600,Text:"&Magazin de sine stătătoare video (recomandat) ordinea de zi"},{
+Key:1002601,Text:"Magazin video autonome în ordinea de zi"},{
+Key:1002602,Text:"Indică dacă VideoPsalm ar trebui să stoca orice autonome în agenda fişier video, atunci când îl salvaţi."},{
+Key:1002603,Text:"&Magazin PowerPoints în ordinea de zi (recomandat)"},{
+Key:1002604,Text:"Magazin PowerPoints în ordinea de zi"},{
+Key:1002605,Text:"Indică dacă VideoPsalm ar trebui să stoca orice PowerPoints în fişierul calendar atunci când îl salvaţi."},{
+Key:1002606,Text:"Vă recomandăm că selectaţi această opţiune, mai ales dacă vă pregătiţi dumneavoastră ordinea de zi, pe un alt PC decât cel pe care vă va afişa prezentare."},{
+Key:1002607,Text:"&Editor"},{
+Key:1002608,Text:"&Font:"},{
+Key:1002609,Text:"Specifică fontul în care modificaţi versurile unui cântec şi versetele din Biblie.
+
+În special, acest font nu este utilizat pentru afişarea textului pe ecran."},{
+Key:1002610,Text:"&Dimensiunea textului:"},{
+Key:1002611,Text:"Specifică dimensiunea fontului în care modificaţi versurile unui cântec şi versetele din Biblie.
+
+Această dimensiune de font nu este folosit în special pentru afişarea textului pe ecran."},{
+Key:1002612,Text:"&Font de acorduri:"},{
+Key:1002613,Text:"Specifică fontul în care modificaţi acordurile unui cântec.
+
+Acest font nu este folosit în special pentru a afişa acorduri pe ecranul de prezentare."},{
+Key:1002614,Text:"&Dimensiunea textului de acorduri:"},{
+Key:1002615,Text:"Specifică dimensiunea fontului din acordurile unui cântec în editorul de text.
+
+Această dimensiune de font nu este folosit în special pentru a afişa acordurile pe ecranul de prezentare."},{
+Key:1002616,Text:"&Culoare de acorduri:"},{
+Key:1002617,Text:"Specifică culoarea în care acordurile sunt afişate în editorul de text.
+
+În special, această culoare nu este folosit pentru a afişa acorduri pe ecranul de prezentare."},{
+Key:1002618,Text:"&Neseparatoare alb culoare:"},{
+Key:1002619,Text:"Specifică culoarea în care ruperea alb sunt afişate în editorul de text."},{
+Key:1002620,Text:"&Culoare de Tag-uri de strofe:"},{
+Key:1002621,Text:"Specifică culoarea în care etichetele de strofe sunt evidenţiate în editorul de text."},{
+Key:1002622,Text:"&Transparenţă a Tag-uri de strofe:"},{
+Key:1002623,Text:"Specifică transparenţa de culoare în care etichetele de strofe sunt evidenţiate în editorul de text."},{
+Key:1002624,Text:"&Culoare ChordPro acorduri:"},{
+Key:1002625,Text:"Specifică culoarea în care acordurile ChordPro sunt evidenţiate în mod text ChordPro Editor."},{
+Key:1002626,Text:"&Transparenţă a acordurilor ChordPro:"},{
+Key:1002627,Text:"Specifică transparenţa de culoare în care acordurile ChordPro sunt evidenţiate în mod text ChordPro Editor."},{
+Key:1002628,Text:"&Substituie fonturile (recomandat)"},{
+Key:1002629,Text:"Permite text editor pentru a înlocui caractere lipsă în fontul curent de cele de la un alt font.
+
+Dezactivaţi înlocuirea caracterelor dacă tu eşti folosire un non-Unicode font care opereaza transliterare.
+Este cazul în unele hindusă, Tamilă, Bamati, Malayalam fonturi, etc.
+
+Reţineţi că este preferabil să utilizaţi un font Unicode.
+Pentru a converti melodiile pregătit să Unicode text, folosi un convertor online, de exemplu aici: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Permite accesul la un simplificat, compatibil cu editorul de text Scriptura RTL"},{
+Key:1002631,Text:"Afişează un buton suplimentar pe partea stângă a barei de instrumente din editor de text, care oferă acces la un mod simplificat de editare a textului de melodii.
+
+Acest Editor simplificată este compatibil cu scriere de la dreapta la stânga (RTL), în special pentru limbile arabă şi ebraică."},{
+Key:1002632,Text:"Alege metoda de randare pagina care funcţionează cel mai bine pentru PC-ul. VideoPsalm poate afişa clipuri video wmv pe cele mai multe PC-uri format."},{
+Key:1002633,Text:"&Notificări"},{
+Key:1002634,Text:"La startup, anunţaţi dacă există:"},{
+Key:1002635,Text:"&O nouă versiune a VideoPsalm (recomandat)"},{
+Key:1002636,Text:"&Noi colecţii (recomandat)"},{
+Key:1002637,Text:"&Noi Biblii (recomandat)"},{
+Key:1002638,Text:"&Noi limbi (recomandat)"},{
+Key:1002639,Text:"&În caz de dificultate de conexiune, prezenţa unui proxy"},{
+Key:1002640,Text:"Prezenţa unui proxy"},{
+Key:1002641,Text:"Indică dacă VideoPsalm ar trebui să detecteze automat prezenţei un proxy pentru a întreba despre produsele noi sau actualizările.
+
+În cazul în care VideoPsalm nu pot descărca cărţi sau Biblii în biblioteca sa online, selectaţi această opţiune şi apoi încercaţi din nou operaţia.
+
+Selectaţi această opţiune, numai în cazul în care nu. Într-adevăr, această opţiune determină o încetinire în descărcarea de cărţi şi Biblii din biblioteca de VideoPsalm online."},{
+Key:1002642,Text:"&Ascunde icoane sociale"},{
+Key:1002643,Text:"Ascunde bara de instrumente icoane sociale (Facebook, Twitter şi YouTube).
+
+Aceste pictograme rămân ascunse în lipsa de o conexiune la internet."},{
+Key:1002644,Text:"&Magazin piese audio (recomandat) ordinea de zi"},{
+Key:1002645,Text:"Magazin piese audio în ordinea de zi"},{
+Key:1002646,Text:"Indică dacă VideoPsalm ar trebui să stoca orice audio de melodii în fişierul calendar atunci când îl salvaţi."},{
+Key:1002648,Text:"&Personalizare"},{
+Key:1002649,Text:"&Video camera"},{
+Key:1002650,Text:"&Anterioare"},{
+Key:1002651,Text:"&Baza"},{
+Key:1002652,Text:"&Textul"},{
+Key:1002653,Text:"&Scut"},{
+Key:1002654,Text:"&Fulg de Nea"},{
+Key:1002655,Text:"&Bug-ul"},{
+Key:1002656,Text:"Glisaţi panoul"},{
+Key:1002657,Text:"&Următoarea"},{
+Key:1002658,Text:"Bara de instrumente"},{
+Key:1002659,Text:"Ordinea de zi a Consiliului"},{
+Key:1002660,Text:"&Muntele"},{
+Key:1002661,Text:"&coboară"},{
+Key:1002662,Text:"&Ascunde Sfaturi ecran"},{
+Key:1003000,Text:"Versiunea {0} din {1}"},{
+Key:1003003,Text:"Închide"},{
+Key:1003005,Text:"&VideoPsalm de contact"},{
+Key:1003006,Text:"Deschideţi Outlook (clientul de e-mail) pentru a trimite un email la VideoPsalm"},{
+Key:1003007,Text:"Această versiune este actualizat"},{
+Key:1003008,Text:"&Actualizaţi versiunea mea"},{
+Key:1003009,Text:"Există o versiune mai nouă a VideoPsalm:
+Versiunea {0} pentru placa 1: {d}.
+Faceţi clic pe acest buton pentru a deschide pagina de download.
+Aici veţi găsi istoria de modificări
+şi un link de download."},{
+Key:1003011,Text:"-Raport
+-Face o remarcă sau o sugestie"},{
+Key:1003012,Text:"Adresa de e-mail: videopsalm@gmail.com"},{
+Key:1003500,Text:"Elimina transpunerea"},{
+Key:1003501,Text:"Transpuse un semiton mai multe"},{
+Key:1003502,Text:"Transpuse un semiton mai puţin"},{
+Key:1003503,Text:"Fără"},{
+Key:1003504,Text:"Ştergeţi capo"},{
+Key:1003505,Text:"Transpune pentru o capo care se mută la cap"},{
+Key:1003506,Text:"Transpune pentru o capo care vine aproape de cap"},{
+Key:1003507,Text:"Fără"},{
+Key:1003508,Text:"Verificaţi fişierul audio voce"},{
+Key:1003509,Text:"&Fişier audio:"},{
+Key:1003510,Text:"Selectaţi fişierele audio de import şi apoi faceţi clic pe \"deschise\"."},{
+Key:1003511,Text:"Aţi importat {0} fişier audio (s)."},{
+Key:1003512,Text:"Nici un fişier audio a fost importat.
+(El (s) este deja găsit (s) în lista)."},{
+Key:1003513,Text:"Importul de fişiere audio"},{
+Key:1003514,Text:"Fişiere audio"},{
+Key:1003515,Text:"Cuvinte cheie pentru a căuta în imagini"},{
+Key:1003516,Text:"Fără imagine"},{
+Key:1003517,Text:"Fără video"},{
+Key:1003518,Text:"&Fişiere"},{
+Key:1003519,Text:"&Afişare bas"},{
+Key:1003520,Text:"Cuvinte cheie pentru a căuta în videoclipuri"},{
+Key:1003521,Text:"&Colecţie de melodii importate de la CCLI / SongSelect"},{
+Key:1003522,Text:"Melodii CCLI"},{
+Key:1003523,Text:"Import de CCLI melodii"},{
+Key:1003524,Text:"{0} cântece au fost deja în colecţia '{1}' și nu au fost importate."},{
+Key:1003525,Text:"&Căutare"},{
+Key:1003526,Text:"&Luminozitate:"},{
+Key:1003527,Text:"&Căutare"},{
+Key:1003528,Text:"&Luminozitate:"},{
+Key:1003529,Text:"Mesaj"},{
+Key:1003530,Text:"Poliţia"},{
+Key:1003531,Text:"Culori"},{
+Key:1003532,Text:"Mesaj"},{
+Key:1003533,Text:"Vizibilitate"},{
+Key:1003534,Text:"Modelul"},{
+Key:1003535,Text:"Tip"},{
+Key:1003536,Text:"Numărătoarea inversă"},{
+Key:1003537,Text:"Cronometru"},{
+Key:1003538,Text:"Opţiuni"},{
+Key:1003539,Text:"Transparenţă"},{
+Key:1003540,Text:"Afişa mesajul"},{
+Key:1003541,Text:"Fundal"},{
+Key:1003542,Text:"Afișarea ceasului"},{
+Key:1003543,Text:"Ceas"},{
+Key:1003544,Text:"Numărătoarea inversă"},{
+Key:1003545,Text:"Cronometru"},{
+Key:1003546,Text:"În timpul"},{
+Key:1003547,Text:"Până la"},{
+Key:1003548,Text:"Începe"},{
+Key:1003549,Text:"Pauză"},{
+Key:1003550,Text:"opreşte-te"},{
+Key:1003551,Text:"Stil"},{
+Key:1003552,Text:"Grăsime"},{
+Key:1003553,Text:"Cursiv"},{
+Key:1003554,Text:"A subliniat"},{
+Key:1003555,Text:"Afişare mâna a doua"},{
+Key:1003556,Text:"Stuttering secunde"},{
+Key:1003557,Text:"Minute sacadat"},{
+Key:1003558,Text:"Display cifre"},{
+Key:1003559,Text:"Absolvent de minute"},{
+Key:1003560,Text:"Absolvent de ore"},{
+Key:1003561,Text:"Video camera"},{
+Key:1003562,Text:"Afişează tragere de un aparat de fotografiat în spatele textului."},{
+Key:1003563,Text:"&Adauga melodii în format CILC..."},{
+Key:1003564,Text:"Import..."},{
+Key:1003565,Text:"Import"},{
+Key:1003566,Text:"Vă permite să importaţi fişiere audio în dumneavoastră VideoPsalm"},{
+Key:1003567,Text:"Navigarea..."},{
+Key:1003568,Text:"Răsfoire"},{
+Key:1003569,Text:"Deschide folderul de fişiere audio de dumneavoastră VideoPsalm"},{
+Key:1003570,Text:"&Pornire (ms):"},{
+Key:1003571,Text:"&Sfârşitul (ms):"},{
+Key:1003572,Text:"&Volum:"},{
+Key:1003573,Text:"&Juca curbat"},{
+Key:1003575,Text:"&Modifică"},{
+Key:1003576,Text:"&Traducere de:"},{
+Key:1003577,Text:"Editor de text \"Dreapta\" stânga"},{
+Key:1003578,Text:"Comută între un editor de standard text (scrie de la stânga la dreapta) şi o \"Dreapta\" Editor stânga pentru arabă, ebraică, etc."},{
+Key:1003579,Text:"&GUID-UL:"},{
+Key:1003580,Text:"&Arată întotdeauna în comun (bilingv)"},{
+Key:1003581,Text:"&Poziţie:"},{
+Key:1004050,Text:"Poliţia"},{
+Key:1004051,Text:"Dimensiune"},{
+Key:1004052,Text:"Grăsime"},{
+Key:1004053,Text:"Cursiv"},{
+Key:1004054,Text:"Evidenţiat"},{
+Key:1004055,Text:"Aliniere"},{
+Key:1004056,Text:"Aliniere verticală"},{
+Key:1004057,Text:"Animaţie"},{
+Key:1004058,Text:"Durata"},{
+Key:1004059,Text:"Volumul"},{
+Key:1004060,Text:"Mut?"},{
+Key:1004061,Text:"Începutul"},{
+Key:1004062,Text:"Sfârşitul"},{
+Key:1004063,Text:"Bucla?"},{
+Key:1004064,Text:"A se vedea imagine mai mare"},{
+Key:1004100,Text:"Culori"},{
+Key:1004101,Text:"Umplere"},{
+Key:1004102,Text:"Anturajul"},{
+Key:1004103,Text:"Lăţimea de anturajul"},{
+Key:1004104,Text:"Umbra"},{
+Key:1004105,Text:"Raza de umbra"},{
+Key:1004106,Text:"Adâncimea de nuanta"},{
+Key:1004107,Text:"Direcţia de umbra"},{
+Key:1004151,Text:"Pagina"},{
+Key:1004152,Text:"Imagine"},{
+Key:1004153,Text:"Culoare"},{
+Key:1004156,Text:"Dreptunghi ale corpului"},{
+Key:1004157,Text:"Dreptunghi de antet"},{
+Key:1004158,Text:"Dreptunghiul de jos"},{
+Key:1004500,Text:"Copie calendarul clipboard"},{
+Key:1004501,Text:"O descriere a ordinea de zi a fost plasată în Clipboard."},{
+Key:1004502,Text:"(Titlul şi versuri) sau nr. să caute"},{
+Key:1004503,Text:"(Titlul şi versuri) sau nr. să caute"},{
+Key:1004504,Text:"Cuvinte (titlu) sau pentru a căuta nr."},{
+Key:1004505,Text:"(Autor şi compozitor) sau nr. să caute"},{
+Key:1004506,Text:"Numărul de căutare sau cuvinte (teme)"},{
+Key:1004507,Text:"Numărul de căutare sau cuvinte (referinte)"},{
+Key:1004508,Text:"CCLI să caute"},{
+Key:1004509,Text:"Cuvinte (copyright) sau numărul de căutare"},{
+Key:1004510,Text:"Cuvinte (Nota 1) sau nr. să caute"},{
+Key:1004511,Text:"Cuvinte (nota 2) sau nr. să caute"},{
+Key:1004512,Text:"Cuvinte (nota 3) sau nr. să caute"},{
+Key:1004513,Text:"Melodii cu acorduri"},{
+Key:1004514,Text:"Copie a rezumat de compendiu"},{
+Key:1004515,Text:"Rezumat al culegerea a fost plasată în Clipboard."},{
+Key:1005001,Text:"Sfârşitul de încărcare"},{
+Key:1005002,Text:"Cântec de \"{0}\"."},{
+Key:1005003,Text:"Clipuri video de încărcare"},{
+Key:1005004,Text:"Imposibil de citit pagina \"{0}\".
+{1}"},{
+Key:1005005,Text:"Încărcare imagini"},{
+Key:1005006,Text:"Imposibil de citit imaginea \"{0}\".
+{1}"},{
+Key:1005007,Text:"Încărcare de stiluri"},{
+Key:1005008,Text:"Completarea listei de colecţii ({0} melodii în {1} colectii)"},{
+Key:1005009,Text:"Ștergere elemente agendă selectat?"},{
+Key:1005010,Text:"Eliminarea elementelor"},{
+Key:1005011,Text:"Noua colectie"},{
+Key:1005012,Text:"Noua melodie"},{
+Key:1005013,Text:"Ordinea de zi este gol.
+Deschise o sau glisaţi aici melodii şi versete pentru a adăuga la ordinea de zi."},{
+Key:1005014,Text:"Nu există nici un diapozitiv pentru a video - proiect.
+Selectați o melodie sau versete pentru video - proiect."},{
+Key:1005015,Text:"Chiar vrei să ștergeți colecția \"{0}\"?
+
+Fişierul corespunzător această colecţie nu va fi şters de pe disc:
+extinderea acestuia vor fi redenumite \".ignore."},{
+Key:1005016,Text:"Ştergeţi o colecţie"},{
+Key:1005017,Text:"Doriţi să ştergeţi piesa \"{0}\"?
+
+După înregistrarea modificărilor la cărţi, îndepărtarea de acest cântec va fi ireversibile."},{
+Key:1005018,Text:"Ștergeți o melodie"},{
+Key:1005019,Text:"Elimina toate elementele din ordinea de zi?"},{
+Key:1005020,Text:"Şterge totul"},{
+Key:1005021,Text:"Ordinea de zi fără nume"},{
+Key:1005022,Text:"Calendar gol"},{
+Key:1005023,Text:"Ordinea de zi curent are modificări nesalvate.
+Doriți să salvați aceste modificări?"},{
+Key:1005024,Text:"Salvare calendar"},{
+Key:1005025,Text:"Una sau mai multe colecţii au modificări nesalvate.
+Doriți să salvați aceste modificări?"},{
+Key:1005026,Text:"Colecţii de înregistrare"},{
+Key:1005027,Text:"Una sau mai multe Biblii au modificări nesalvate.
+Doriți să salvați aceste modificări?"},{
+Key:1005028,Text:"Salvaţi Biblii"},{
+Key:1005029,Text:"Adaugă documente la ordinea de zi"},{
+Key:1005030,Text:"Agende"},{
+Key:1005031,Text:"Imagini"},{
+Key:1005032,Text:"Videoclipuri"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Salvaţi calendarul sub"},{
+Key:1005035,Text:"Melodii CCLI"},{
+Key:1005036,Text:"Nu există nici o colecţie.
+Click aici pentru a începe importul rapoarte expertul."},{
+Key:1005037,Text:"Formatul {0}
+{1} × (2) pixeli"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Într-adevăr doriţi să ştergeţi toate stilurile de mai jos \"{0}\"?"},{
+Key:1005040,Text:"Colectia \"{0}\" este exclus de la căutare"},{
+Key:1005041,Text:"Afişarea sau muta slide"},{
+Key:1005042,Text:"Sezoane"},{
+Key:1005043,Text:"Primăvară"},{
+Key:1005044,Text:"Vara"},{
+Key:1005045,Text:"Crăciun"},{
+Key:1005046,Text:"Teme"},{
+Key:1005047,Text:"Carmel"},{
+Key:1005048,Text:"Iacob"},{
+Key:1005049,Text:"Imaginatia"},{
+Key:1005050,Text:"Cameră obscură"},{
+Key:1005051,Text:"Ceaţă"},{
+Key:1005052,Text:"Schita"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort contrastul"},{
+Key:1005055,Text:"Birou"},{
+Key:1005056,Text:"Serviciu 2010 albastru"},{
+Key:1005057,Text:"Office 2010 argint"},{
+Key:1005058,Text:"Office 2010 negru"},{
+Key:1005059,Text:"Office 2007 albastru"},{
+Key:1005060,Text:"Office 2007 verde"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 argint"},{
+Key:1005063,Text:"Office 2007 negru"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropola"},{
+Key:1005066,Text:"Şapte"},{
+Key:1005067,Text:"Şapte clasic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Tămâie"},{
+Key:1005070,Text:"Fum"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Culori"},{
+Key:1005073,Text:"Lichid cerul"},{
+Key:1005074,Text:"Londra cerul"},{
+Key:1005075,Text:"Albastru"},{
+Key:1005076,Text:"Bani gemeni"},{
+Key:1005077,Text:"Aurul negru"},{
+Key:1005078,Text:"Black-out"},{
+Key:1005079,Text:"Ascuţite"},{
+Key:1005080,Text:"Sharp mai mult"},{
+Key:1005081,Text:"Stele"},{
+Key:1005082,Text:"Oceanele de sticlă"},{
+Key:1005083,Text:"În lume de asfalt"},{
+Key:1005084,Text:"Cafea"},{
+Key:1005085,Text:"Praf de stele"},{
+Key:1005086,Text:"Ştergeţi toate stilurile mai jos"},{
+Key:1005087,Text:"Menţine deschis galeria"},{
+Key:1005100,Text:"Fără animaţie"},{
+Key:1005102,Text:"Estompare"},{
+Key:1005103,Text:"Lumina estompare"},{
+Key:1005104,Text:"A se vedea imagine mai mare"},{
+Key:1005105,Text:"Extindere în lumina estompare"},{
+Key:1005106,Text:"Scanare"},{
+Key:1005107,Text:"Scanare la dreapta"},{
+Key:1005109,Text:"Formular"},{
+Key:1005110,Text:"Stea"},{
+Key:1005118,Text:"Scanare în jos"},{
+Key:1005120,Text:"Scanare la stânga"},{
+Key:1005121,Text:"Scanarea în sus"},{
+Key:1005122,Text:"Scanare din partea de sus la dreapta"},{
+Key:1005123,Text:"Scanare din partea de sus la stânga"},{
+Key:1005124,Text:"Scanare din partea de jos din dreapta"},{
+Key:1005125,Text:"Scanare din partea de jos la stânga"},{
+Key:1005126,Text:"Descopera"},{
+Key:1005127,Text:"Descoperiţi în jos"},{
+Key:1005128,Text:"Descoperiţi dreptul"},{
+Key:1005129,Text:"Descoperiţi stânga"},{
+Key:1005130,Text:"Descoperiţi în sus"},{
+Key:1005131,Text:"Descoperiţi partea din dreapta sus"},{
+Key:1005132,Text:"Descoperiţi stânga sus"},{
+Key:1005133,Text:"Descoperiţi dreapta jos"},{
+Key:1005134,Text:"Descoperiţi stânga jos"},{
+Key:1005200,Text:"Diapozitive"},{
+Key:1005201,Text:"Nici un diapozitiv"},{
+Key:1005209,Text:"Căutaţi cuvinte în:"},{
+Key:1005210,Text:"&Titlul şi versuri"},{
+Key:1005211,Text:"&Titlul şi versuri"},{
+Key:1005212,Text:"&Titlu"},{
+Key:1005213,Text:"&Autor şi compozitor"},{
+Key:1005214,Text:"&Teme"},{
+Key:1005215,Text:"&Referințe"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Drepturile de autor"},{
+Key:1005218,Text:"&Nota 1"},{
+Key:1005219,Text:"&Nota 2"},{
+Key:1005220,Text:"&Nota 3"},{
+Key:1005221,Text:"&Melodii cu acorduri"},{
+Key:1005223,Text:"Opţiuni"},{
+Key:1005224,Text:"Opțiuni VideoPsalm"},{
+Key:1005225,Text:"Afişează caseta de dialog Opţiuni VideoPsalm."},{
+Key:1005226,Text:"Import"},{
+Key:1005228,Text:"Afişează cărţile Expertul Import, Biblii, imagini şi videoclipuri de la bibliotecă online VideoPsalm şi formatele populare."},{
+Key:1005230,Text:"Ştergeţi"},{
+Key:1005232,Text:"Scoateţi cântând, colectarea sau Biblia selectate."},{
+Key:1005237,Text:"Modificați fontul."},{
+Key:1005247,Text:"Imagini"},{
+Key:1005252,Text:"Editaţi Preferinţe de notificare."},{
+Key:1005253,Text:"Închideţi fereastra şi amintiţi-vă informaţiile data viitoare."},{
+Key:1005254,Text:"Închideţi această fereastră şi nu mai amintesc aceste informaţii."},{
+Key:1005255,Text:"Cuvinte sau expresie de căutare, exemplu: pâine vin"},{
+Key:1005256,Text:"Selectaţi versete de referinţă lor"},{
+Key:1005257,Text:"Căutare de versete care conţin anumite cuvinte cheie sau frază"},{
+Key:1005258,Text:"Ştergeţi cuvinte cheie sau frază să Căutaţi (ESC)"},{
+Key:1005259,Text:"Versetele care conţin anumite cuvinte cheie de căutare.
+
+De exemplu:
+
+-Pentru a găsi versetele care conţin sintagma <b>\"copii ai lui Dumnezeu\"</b>, tastaţi câteva cuvinte precum <b>\"copil de Dumnezeu\"</b>.
+
+-Pentru a găsi verset care conţine teză, <b>\"el a luat Cupa\"</b>, aceste cuvinte multipli de tip: <b>«ilpritlacoupe»</b>.
+
+Nu vă faceţi griji despre accente sau semne de punctuație sau minuscule/majuscule.
+
+Nu este nevoie să tastaţi cuvintele ca un întreg sau în ordine.
+
+Adauga alte cuvinte de verset pentru a reduce lista de versete găsit.
+
+Apăsaţi butonul <b>Inserare</b> pentru a adăuga versetul găsit şi selectate la ordinea de zi."},{
+Key:1005260,Text:"Nici un verset găsit."},{
+Key:1005268,Text:"În acest mod, VideoPsalm adaugă automat parantezele drepte [] în jurul textului pe care îl introduceţi.
+De exemplu, pentru a adăuga o coardă c, tip «Nu» şi VideoPsalm va insera \"[face]."},{
+Key:1005269,Text:"Dimensiunea fontului"},{
+Key:1005270,Text:"Modifică dimensiunea fontului ca procent din inaltimea ecranului."},{
+Key:1005271,Text:"&Salvare ca..."},{
+Key:1005277,Text:"Salvaţi"},{
+Key:1005278,Text:"Salvează modificările făcute în cărţi, Biblii şi stilurile lor."},{
+Key:1005279,Text:"Salvează modificările făcute în colecţii şi stiluri.
+
+<b>Atenţie:</b> Modificările aduse Bibliilor nu sunt salvate (text şi stiluri). Pentru a salva aceste modificări, activaţi opţiunea corespunzătoare în opţiuni pentru VideoPsalm."},{
+Key:1005283,Text:"Lungime:"},{
+Key:1005284,Text:"În ms:"},{
+Key:1005285,Text:"Elementul"},{
+Key:1005286,Text:"Corpul"},{
+Key:1005287,Text:"Stilul caroseriei"},{
+Key:1005288,Text:"Permite editarea de stil a corpului."},{
+Key:1005289,Text:"Antet"},{
+Key:1005290,Text:"Stil antet"},{
+Key:1005291,Text:"Permite editarea de stil al antetului."},{
+Key:1005292,Text:"Picior"},{
+Key:1005293,Text:"Stil de picior"},{
+Key:1005294,Text:"Permite editarea stilului de picior."},{
+Key:1005295,Text:"Acorduri"},{
+Key:1005296,Text:"Stilul de acordurile"},{
+Key:1005297,Text:"Permite editarea de stil de acorduri."},{
+Key:1005308,Text:"Cartea"},{
+Key:1005313,Text:"Nivel de stil"},{
+Key:1005314,Text:"Setaţi nivelul la care se va aplica modificările de stil.
+
+Versetul a nivelului de stil cea mai mare, apoi doar cântând, colectare, colecţii şi baza.
+
+În mod similar, verset are nivelul de stil cea mai mare, apoi vine din nou capitol, cartea, Testamentul, Biblia, Biblii şi baza.
+
+Baza fiind la rădăcina ierarhiei, stilul său se aplică la toate diapozitivele.
+
+Un nivel mai ridicat pot înlocui un stil definite la un atribut de nivel inferior."},{
+Key:1005315,Text:"<b></b>Acest mecanism permite să schimbaţi stilul de diapozitive fel globale sau individuale.
+
+<b>Exemplu</b>
+Dacă asociaţi un fundal un cântec, toate versetele din acest cântec apar cu acest fundal, cu excepţia toate versetele pe care le-aţi asociat un fundal specifice."},{
+Key:1005318,Text:"Diapozitiv"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Videoclipuri"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Culorile textului"},{
+Key:1005329,Text:"Resetare"},{
+Key:1005330,Text:"Se șterge stilul pentru nivelul selectate"},{
+Key:1005331,Text:"Aveţi posibilitatea să ştergeţi toate atributele de stil nivelului selectat.
+Un diapozitiv fără stil moşteneşte stil nivel automat mai mici.
+
+De exemplu:
+-O strofa are un stil cu un font Candara.
+-Cântă, în acelaşi timp, are un stil cu un font Segoe UI.
+
+Atunci când ştergeţi stil verset, aceasta va fi afişată cu stilul de nivel inferior. În exemplul nostru, acesta va fi Segoe UI casetă.
+
+<b>Drop-jos meniu «şterge toate de mai sus stiluri»</b>
+Se poate şterge stilul de nivelul selectat și toate stilurile mai mare.
+
+De exemplu, dacă nivelul de stil \"Codul\" este selectată, stilul de colectare vor fi şterse şi stiluri de toate melodiile de colectare şi cele de strofe lor."},{
+Key:1005332,Text:"Acest buton este estompat când nivelul a nici un stil propriu."},{
+Key:1005333,Text:"&Ştergeţi stilurile de mai sus"},{
+Key:1005337,Text:"&De sus"},{
+Key:1005338,Text:"&Mediu"},{
+Key:1005339,Text:"&Partea de jos"},{
+Key:1005340,Text:"Staţi la acest nivel de stil"},{
+Key:1005341,Text:"Staţi la nivelul curent de stil"},{
+Key:1005342,Text:"Rămâne la nivelul curent de stil atunci când modificaţi diapozitivul.
+
+Astfel:
+<b>1.</b> Atunci când se afişează versetul unui cântec, VideoPsalm, pozitiile nivelul de stilul de \"stanţă\".
+<b>2.</b> Pentru schimbarea stil de a canta a versetului, selectaţi nivelul de stil \"cântec\".
+<b>3.</b> Pentru a rămâne pe formatarea stilului de melodii, apăsaţi piuneza.
+<b>4.</b> Atunci când treceţi de la o strofă la alta, nivelul de stil rămâne pe \"cântec\"."},{
+Key:1005343,Text:"Umplere text"},{
+Key:1005345,Text:"Se umple textul cu o culoare solidă, un gradient, o imagine sau o textură."},{
+Key:1005346,Text:"Culoarea textului"},{
+Key:1005347,Text:"Contur text"},{
+Key:1005349,Text:"Specifică culoarea, lățimea și linie pentru conturul textului stil."},{
+Key:1005350,Text:"Culoarea textului"},{
+Key:1005352,Text:"Efectul de text"},{
+Key:1005354,Text:"Aplică un efect vizual textului, cum ar fi o umbră, o lumina, o reflecţie sau o rotaţie 3-d."},{
+Key:1005356,Text:"Umbră text"},{
+Key:1005357,Text:"Culoare de fundal"},{
+Key:1005359,Text:"&Noua melodie"},{
+Key:1005360,Text:"&Noua colectie"},{
+Key:1005361,Text:"&Şterge toate"},{
+Key:1005362,Text:"
+
+<b>Scut parţială</b>
+La deschiderea unei agende, vor fi păstrate <b>texte</b> de cărţi şi Biblii.
+Stiluri de calendar vor fi aplicate la cărţi şi Biblii."},{
+Key:1005363,Text:"
+
+<b>Scut parţială</b>
+La deschiderea unei agende, vor fi păstrate <b>stiluri</b> de cărţi şi Biblii.
+Textele din ordinea de zi vor fi aplicate la cărţi şi Biblii."},{
+Key:1005364,Text:"
+
+<b>Completa shield</b>
+La deschiderea unei agende, vor fi păstrate <b>texte</b> şi <b>stiluri</b> de cărţi şi Biblii.
+Cei din ordinea de zi nu vor fi aplicate.
+
+<i>Aceasta este strategia de a adopta atunci când documentele acest PC sunt referinţă.</i>"},{
+Key:1005365,Text:"
+
+<b>Lipsa de scut</b>
+La deschiderea de o agenda, <b>texte</b> şi <b>stiluri</b> de calendar vor fi aplicate la cărţi şi Biblii şi înlocui propriile texte şi stiluri.
+
+<i>Aceasta este strategia de a adopta atunci când documentele de referinţă sunt cele de la PC-ul pe care aţi creat agenda.</i>"},{
+Key:1005366,Text:"Pentru a schimba \"Viewer\" la modul \"Edit\" sau invers, faceţi clic pe butonul cu creionul."},{
+Key:1005369,Text:"Sortare după titlu"},{
+Key:1005370,Text:"Sortate după numărul"},{
+Key:1005371,Text:"Despre..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simulează proiecţie video
+pe un ecran de la aspectul de 4:3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simulează proiecţie video
+pe ecran un aspect 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simulează proiecţie video
+pe un ecran de la aspect 4:3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simulează proiecţie video
+pe ecran un aspect 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simulează proiecţie video
+pe ecran un aspect 16:8"},{
+Key:1005387,Text:"Curent"},{
+Key:1005388,Text:"Utilizează întreaga suprafaţă a ecranului"},{
+Key:1005389,Text:"Aspect 4:3"},{
+Key:1005390,Text:"Re Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Modul de inserare a acordurilor"},{
+Key:1005398,Text:"Afişa acordurile mai sus versuri"},{
+Key:1005400,Text:"De asemenea, ajusta aspectul ferestrei"},{
+Key:1005401,Text:"&Adăugaţi în calendar"},{
+Key:1005402,Text:"&Ştergere (delete)"},{
+Key:1005403,Text:"&Codul se include în căutare"},{
+Key:1005404,Text:"&Exclude o colecţie de cercetare"},{
+Key:1005405,Text:"&Include toate colecţiile în căutare"},{
+Key:1005407,Text:"&Ascundere excluse din colecţii de cercetare"},{
+Key:1005408,Text:"&Arată excluse din colecţii de cercetare"},{
+Key:1005409,Text:"&Afişare dreptunghi de redimensionare"},{
+Key:1005410,Text:"Afişează dreptunghiul de redimensionare"},{
+Key:1005411,Text:"Vă permite să redimensionați cadrul (corp text, antet sau subsol) selectat.
+
+Cadrul poate fi redimensionată cu mouse-ul în zona de previzualizare.
+
+<b>Cum pentru a redimensiona un cadru</b>
+
+1. Selectaţi un cadru pentru a redimensiona:
+-corp
+-antetul,
+- sau picior.
+
+2. Selectaţi nivelul de stil necesare, de exemplu \"Biblii\".
+
+3. Apăsaţi pe bug-ul pentru a forţa VideoPsalm o afişare diapozitive în stil \"Biblii\".
+Într-adevăr, dacă bug-ul nu este apăsat, VideoPsalm comută automat stilul \"Versetul\", de îndată ce vă afişa un vers.
+
+4 Display un vers. Zona de previzualizare afişează cadru utilizând stilul \"Biblii\".
+
+5 Să modificaţi dimensiunea şi poziţia din cadrul folosind mouse-ul.
+
+6. Scoateţi bug-ul, pentru a reveni VideoPsalm stil 'Versetul' când vă va afişa din nou un diapozitiv."},{
+Key:1005412,Text:"&Copie un rezumat din codul de la Clipboard"},{
+Key:1005417,Text:"Textul"},{
+Key:1005418,Text:"Stil Explorer"},{
+Key:1005419,Text:"Afişează sau ascunde stil Explorer.
+În această fereastră, aveţi posibilitatea să navigaţi între nivelurile ierarhice stiluri, pentru a reiniţializa proprietăţile de individ şi să le editaţi."},{
+Key:1005420,Text:"Stiluri"},{
+Key:1005421,Text:"Poliţia"},{
+Key:1005424,Text:"Fundal"},{
+Key:1005425,Text:"Stiluri"},{
+Key:1005429,Text:"Aspectul"},{
+Key:1005430,Text:"Ediţie"},{
+Key:1005432,Text:"Aspectul"},{
+Key:1005433,Text:"Instrumente"},{
+Key:1005442,Text:"Continuaţi cu următorul element"},{
+Key:1005443,Text:"Opriţi înainte de a merge"},{
+Key:1005444,Text:"Eliminaţi textul apoi urmaţi"},{
+Key:1005445,Text:"Eliminaţi textul şi apoi opriţi"},{
+Key:1005446,Text:"Afişează împreună cu elementul următor (bilingv)"},{
+Key:1005447,Text:"Adăuga voce sau versetele agendă selectat (Inserare sau Alt + O)"},{
+Key:1005448,Text:"Click aici pentru a adăuga voce sau versetele pe ordinea de zi.
+
+Alternativ, se pot glisa și fixa acest buton în calendar în locul pe care ar trebui să fie."},{
+Key:1005449,Text:"&Adauga"},{
+Key:1005454,Text:"Selectaþi Opþiuni pentru a căuta melodii de cuvinte cheie"},{
+Key:1005455,Text:"Ştergeţi cuvinte sau numărul de căutare (ESC)"},{
+Key:1005457,Text:"Cautati un cântec (Ctrl + F)"},{
+Key:1005458,Text:"Căuta melodii care conţin anumite cuvinte sau au un număr.
+
+De exemplu:
+
+-Pentru a găsi melodia nr. 250, tip «250»
+
+-Pentru a găsi melodia pe care conține versurile <b>' ca un far in noapte \"</b>, tastaţi câteva cuvinte precum <b>\"lumina noapte\"</b>.
+
+Nu vă faceţi griji despre accente sau semne de punctuaţie.
+
+Nu este nevoie pentru a lua cuvintele ca un întreg sau în ordine.
+
+Adăugaţi alte cuvinte de cântec pentru a reduce lista de melodii găsit.
+
+Apăsaţi butonul <b>Inserare</b> pentru a adăuga primul cântec găsite pe ordinea de zi."},{
+Key:1005459,Text:"Nu există nici o Biblie.
+Click aici pentru a porni Expertul Import
+Biblii şi adăugaţi Biblii din surse populare."},{
+Key:1005463,Text:"Ștergeți referința pentru a afişa (ESC)"},{
+Key:1005464,Text:"Trimitere la selectaţi, de exemplu: Romani 3:23-25, 30"},{
+Key:1005465,Text:"Selectaţi versete (Ctrl + F)"},{
+Key:1005472,Text:"&Fișier:"},{
+Key:1005475,Text:"&Includ această colecţie în căutarea pentru melodii"},{
+Key:1005479,Text:"&nume:"},{
+Key:1005481,Text:"&Abreviere:"},{
+Key:1005483,Text:"&Autor:"},{
+Key:1005485,Text:"&Drepturi de autor:"},{
+Key:1005487,Text:"&Documentul:"},{
+Key:1005491,Text:"&Imprimare claudia"},{
+Key:1005497,Text:"&Versuri"},{
+Key:1005499,Text:"&Număr:"},{
+Key:1005501,Text:"&Titlu:"},{
+Key:1005505,Text:"&De referinţă:"},{
+Key:1005507,Text:"&Drepturi de autor:"},{
+Key:1005509,Text:"&Autor:"},{
+Key:1005511,Text:"&Compozitor:"},{
+Key:1005513,Text:"&Diverse"},{
+Key:1005515,Text:"&Tonul:"},{
+Key:1005517,Text:"&Format:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Secvenţă:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Cheie:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Linia de cheie:"},{
+Key:1005531,Text:"&Nota 1:"},{
+Key:1005533,Text:"&Nota 2:"},{
+Key:1005535,Text:"&Nota 3:"},{
+Key:1005537,Text:"&Semnătura:"},{
+Key:1005540,Text:"&Transpunere:"},{
+Key:1005541,Text:"Imprimare capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo-ul:"},{
+Key:1005545,Text:"Pentru punerea în aplicare a acordurilor de cântec."},{
+Key:1005555,Text:"&Fișier:"},{
+Key:1005560,Text:"&Drepturi de autor:"},{
+Key:1005562,Text:"&Abreviere:"},{
+Key:1005564,Text:"&nume:"},{
+Key:1005566,Text:"&Descrierea/de control:"},{
+Key:1005568,Text:"&Introducere:"},{
+Key:1005570,Text:"&Documentul:"},{
+Key:1005576,Text:"&nume:"},{
+Key:1005582,Text:"&nume:"},{
+Key:1005584,Text:"&Introducere:"},{
+Key:1005586,Text:"&Abreviere:"},{
+Key:1005587,Text:"Capitol din Biblie"},{
+Key:1005590,Text:"Versetul biblic"},{
+Key:1005595,Text:"&Versetul:"},{
+Key:1005603,Text:"&Fișier:"},{
+Key:1005606,Text:"Nicio selecţie"},{
+Key:1005608,Text:"Stil"},{
+Key:1005612,Text:"Elimină valoarea bunurilor"},{
+Key:1005613,Text:"Când ştergeţi valoarea proprietăţii un, VideoPsalm utilizează prima valoare găsită în nivelurile inferioare.
+
+De exemplu, Dacă eliminaţi poliţie la nivel de vers, sensuri VideoPsalm, în ordine şi dacă este setat, font:
+-uri
+-în caz contrar colectarea,
+-Dacă unul dintre colectii,
+-altfel baza.
+
+VideoPsalm este acelaşi cu Bibliile, imagini, etc."},{
+Key:1005615,Text:"Nici unul"},{
+Key:1005616,Text:"Base"},{
+Key:1005618,Text:"Colecţii"},{
+Key:1005619,Text:"Colectia"},{
+Key:1005620,Text:"Voce de fundal"},{
+Key:1005621,Text:"Stanţă"},{
+Key:1005622,Text:"Biblii"},{
+Key:1005623,Text:"Biblia"},{
+Key:1005624,Text:"Testament"},{
+Key:1005625,Text:"Carte a Bibliei"},{
+Key:1005626,Text:"Capitolul"},{
+Key:1005627,Text:"Versetul"},{
+Key:1005628,Text:"Valoare implicită"},{
+Key:1005629,Text:"Valoare de corpul de text"},{
+Key:1005630,Text:"Stânga"},{
+Key:1005631,Text:"Centrat"},{
+Key:1005632,Text:"Dreptul de"},{
+Key:1005633,Text:"Justificată"},{
+Key:1005634,Text:"De sus"},{
+Key:1005635,Text:"Mediu"},{
+Key:1005636,Text:"Partea de jos"},{
+Key:1005650,Text:"&Deschide un calendar..."},{
+Key:1005651,Text:"&Adauga calendare..."},{
+Key:1005652,Text:"&Adauga slideshow imagini..."},{
+Key:1005653,Text:"&Adauga autonome videoclipuri..."},{
+Key:1005654,Text:"&Adauga unele PowerPoints..."},{
+Key:1005655,Text:"Când am deschis un calendar:"},{
+Key:1005656,Text:"&Păstra textele mele cărţi şi Biblii"},{
+Key:1005657,Text:"&Păstra stilurile de meu cărţi şi Biblii"},{
+Key:1005667,Text:"&Colecţii"},{
+Key:1005668,Text:"Afişează colecţii (Alt + R)"},{
+Key:1005670,Text:"&Biblii"},{
+Key:1005671,Text:"Afişează Biblii (Alt + B)"},{
+Key:1005677,Text:"&Latime:"},{
+Key:1005680,Text:"&Neclaritate:"},{
+Key:1005681,Text:"&Adâncime:"},{
+Key:1005682,Text:"&Direcţie:"},{
+Key:1005686,Text:"Afişează un ecran gol, negru culoare.
+Simulează dispariţie a proiectorului."},{
+Key:1005687,Text:"Următoarea"},{
+Key:1005688,Text:"Avansare la diapozitivul următor."},{
+Key:1005689,Text:"Dezactivare ecran (Ctrl + W)"},{
+Key:1005690,Text:"Afişează text (Ctrl + T)"},{
+Key:1005691,Text:"Afișează sau ascunde textul de pe un diapozitiv."},{
+Key:1005692,Text:"Scut (Ctrl + B)"},{
+Key:1005693,Text:"Păstrează voce fiind proiecţie video diapozitive.
+
+Pentru a lucra pe ordinea de zi sau de căutare pentru un cântec sau un vers în timpul proiecţie video de canto.
+
+Pentru a înlocui scut, faceţi dublu clic pe un element de pe ordinea de zi."},{
+Key:1005694,Text:"Congela"},{
+Key:1005695,Text:"Drum liber ecran de proiecţie video fără îngheţarea zona de previzualizare.
+
+Pentru a previzualiza prezentarea în timpul proiecţie video."},{
+Key:1005696,Text:"Proiect (Ctrl + P)"},{
+Key:1005697,Text:"Slide-uri proiectate pe proiector."},{
+Key:1005698,Text:"Modul \"Edition\" (Ctrl + E)"},{
+Key:1005699,Text:"Comută de la \"Viewer\" modul \"Editare\" sau invers."},{
+Key:1005702,Text:"Deschide un calendar sau un document"},{
+Key:1005703,Text:"Se deschide un calendar sau pentru a adăuga o prezentare PowerPoint, imagini pentru un slideshow, video, etc."},{
+Key:1005704,Text:"Salvare calendar"},{
+Key:1005705,Text:"Ştergeţi"},{
+Key:1005706,Text:"Elimină elementele selectate în ordinea de zi (delete)."},{
+Key:1005707,Text:"Muntele (Ctrl + Page up)"},{
+Key:1005708,Text:"Monte elementul la începutul din ordinea de zi."},{
+Key:1005709,Text:"În jos (Ctrl + Page down)"},{
+Key:1005710,Text:"Jos elementul spre sfârşitul ordinea de zi."},{
+Key:1005711,Text:"Luminozitate"},{
+Key:1005712,Text:"Deschide un calendar"},{
+Key:1005713,Text:"Salveaza ordinea de zi pe disc sau o cheie USB."},{
+Key:1005721,Text:"Selectează versetele de referinţă lor.
+<i>Exemplu: Romani 3:23-25, 30</i>
+
+Nu introduceţi accente în numele de cărţi.
+<i>Exemplu: n<b>e</b>h<b>e</b>mie \"mai degrabă decât\" N<b>é</b>h<b>é</b>mie \".</i>
+
+Introduceţi fie o <b>': '</b>, o <b>\".\"</b> sau un <b>\"v\"</b> pentru a separa capitolelor de versete.
+
+Apãsaþi tasta <b>'Insert'</b> pentru a Adauga versetele de selectat pe ordinea de zi."},{
+Key:1005722,Text:"Comentarii (nu traduce, pentru a lăsa în limba engleză)"},{
+Key:1005723,Text:"Nu pot scrie fișierul
+{0} :
+{1}"},{
+Key:1005724,Text:"Eroare"},{
+Key:1005725,Text:"Imposibil de citit fişierul
+{0} :
+{1}"},{
+Key:1005730,Text:"Sigur doriţi să eliminaţi stilul slideshow imagini?
+Stilul slideshow imagini va avea o valoare standard."},{
+Key:1005731,Text:"Sigur eliminați stilul de bază?
+Stilul de bază va avea o valoare standard."},{
+Key:1005732,Text:"Sigur doriţi să eliminaţi stil colecţii?
+Stilul de colecţiile va avea o valoare standard."},{
+Key:1005733,Text:"Sigur doriţi să eliminaţi stil Biblii?
+Stilul de Biblii va avea o valoare standard."},{
+Key:1005734,Text:"Sigur ștergeți acest stil?
+VideoPsalm aplică atributele de stil găsit inferior în ierarhie."},{
+Key:1005735,Text:"Stil clar"},{
+Key:1005736,Text:"Sigur doriţi să eliminaţi stilul de clipuri video?
+Stilul de clipuri video va avea o valoare standard."},{
+Key:1005737,Text:"O colectie"},{
+Key:1005738,Text:"Nici o colecţie"},{
+Key:1005739,Text:"O Biblie"},{
+Key:1005740,Text:"Nici Biblie"},{
+Key:1005743,Text:"Mărire font (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Mărește dimensiunea fontului."},{
+Key:1005745,Text:"Reduce fontul (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Reduce dimensiunea fontului."},{
+Key:1005747,Text:"Bold (Ctrl + B)"},{
+Key:1005748,Text:"Pune textul selectat în text aldin."},{
+Key:1005749,Text:"Cursiv (Ctrl + I)"},{
+Key:1005750,Text:"Pune textul selectat cursiv."},{
+Key:1005751,Text:"A subliniat (Ctrl + U)"},{
+Key:1005752,Text:"Subliniază textul selectat."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Desenează o linie în mijlocul textului selectat."},{
+Key:1005755,Text:"Afişare / ascundere ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Afişează marcajele şi alte ascuns simboluri de formatare."},{
+Key:1005757,Text:"Culoare font"},{
+Key:1005758,Text:"Schimba culoarea textului."},{
+Key:1005759,Text:"Culoarea textului"},{
+Key:1005760,Text:"Dă o culoare pentru textul."},{
+Key:1005761,Text:"Clare de formatare (Ctrl + spațiu)"},{
+Key:1005762,Text:"Complet golește formatarea selecţiei şi păstrează doar text simplu."},{
+Key:1005763,Text:"Undo (Ctrl + Z)"},{
+Key:1005764,Text:"Anulează ultima operaţie."},{
+Key:1005765,Text:"Refacere (Ctrl + Y)"},{
+Key:1005766,Text:"Se reface ultima operaţie."},{
+Key:1005767,Text:"Cut (Ctrl + X)"},{
+Key:1005768,Text:"Se decupează selecția și inserați-l în Clipboard."},{
+Key:1005769,Text:"Copie (Ctrl + C)"},{
+Key:1005770,Text:"Copiază selecţia şi pune-l în clipboard."},{
+Key:1005771,Text:"Paste (Ctrl + V)"},{
+Key:1005772,Text:"Lipeşte conţinutul Clipboard-ului."},{
+Key:1005773,Text:"Căutare (Ctrl + F)"},{
+Key:1005774,Text:"Căutare de text din document."},{
+Key:1005775,Text:"Înlocuiţi (Ctrl + H)"},{
+Key:1005776,Text:"Înlocuieşte textul în document."},{
+Key:1005777,Text:"Marire"},{
+Key:1005778,Text:"Arată toate"},{
+Key:1005779,Text:"Pentru a edita un verset specifice, faceţi clic pe diapozitiv sale."},{
+Key:1005780,Text:"Selecție de versete"},{
+Key:1005781,Text:"Felul colecția selectată de cântecele lor titlu."},{
+Key:1005782,Text:"Se închide agenda curent (şi cere confirmarea în cazul în care sunt nesalvate modificări)."},{
+Key:1005783,Text:"Reglează luminozitatea imaginii sau fundal pagina.
+
+Permite textul subliniind, chiar peste un fundal de barriole."},{
+Key:1005784,Text:"&Copiaţi o descriere a agendei"},{
+Key:1005785,Text:"&Versuri de melodii se numără"},{
+Key:1005786,Text:"&Includ versete biblice"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Stare de nervozitate"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Se deschide pagina de facebook VideoPsalm.
+
+Să ştiu VideoPsalm din jurul tău:
+-dând click pe butonul \"Îmi place\"
+-de a deveni prietenul său.
+
+<b>Notă:</b> Pentru a elimina anunţurile Facebook, instalează gratuit plugin-ul <b>Adblock Plus</b>.
+
+Pentru a ascunde VideoPsalm icoane sociale, dezactivaţi-le în fila \"Général\" → \"Opțiuni\"."},{
+Key:1005791,Text:"Se deschide pagina stare de nervozitate VideoPsalm, pentru a fi informat cu privire la noile articole de pe bloguri.
+
+Pentru a ascunde VideoPsalm icoane sociale, dezactivaţi-le în fila \"Général\" → \"Opțiuni\"."},{
+Key:1005792,Text:"Deschide pagina VideoPsalm YouTube, unde veti gasi tutoriale video pe utilizarea de VideoPsalm.
+
+Pentru a ascunde VideoPsalm icoane sociale, dezactivaţi-le în fila \"Général\" → \"Opțiuni\"."},{
+Key:1005793,Text:"Adaugă un nou cântec gol (sau o reclama) colecţie selectată."},{
+Key:1005794,Text:"Adaugă o nouă colecţie de gol."},{
+Key:1005795,Text:"Felul melodii a colecției selectate de numărul lor."},{
+Key:1005800,Text:"Stanţă"},{
+Key:1005801,Text:"Cor"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Podul"},{
+Key:1005804,Text:"Etichetă"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Ieşire"},{
+Key:1005807,Text:"Alunecare"},{
+Key:1005808,Text:"Instrumentala"},{
+Key:1005809,Text:"Alte"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"RADU"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"AM"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Închide"},{
+Key:1005851,Text:"&Limba:"},{
+Key:1005852,Text:"&Distribuitor:"},{
+Key:1005853,Text:"Toate"},{
+Key:1005859,Text:"Transpune acorduri cântec în funcţie de poziţia de capodiastre."},{
+Key:1005860,Text:"Găseşte melodii inclusiv titlul (sau pseudonim) sau versuri contin cuvinte pe care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005861,Text:"Efectuează o căutare în două etape, că avantajul de a afişa rapid o scurta lista de melodii:
+
+1 Găsiţi într-o prima dată melodii inclusiv titlul (sau pseudonim) conţine cuvintele pe care le introduceţi.
+
+Să adăugaţi cuvinte, acolo vine un moment în care cele mai multe orice melodie poate fi de acord.
+
+2. Din acest punct, VideoPsalm va căuta cuvinte în versurile cântecelor.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005862,Text:"Găsi piese de compozitori introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005863,Text:"Găseşte melodii care se ocupă de subiecte pe care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005864,Text:"Găseşte melodii inspirate de referinţe biblice care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005865,Text:"Este piesa care a CCLI pe care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005866,Text:"Găseşte melodii ale căror drepturi de autor conţine cuvintele pe care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005867,Text:"Găseşte melodii ale căror notei 1 conţine cuvintele pe care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005868,Text:"Găseşte melodii ale căror notei 2 conţine cuvintele pe care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005869,Text:"Găseşte melodii 3 notă care conţine cuvintele se introduce.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005870,Text:"Găseşte melodii al cărui titlu sau aliasul conţine cuvintele pe care le introduceţi.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005871,Text:"Găseşte melodii care au acorduri în versuri.
+
+Alternativ, puteţi căuta pe un cântec de numărul său."},{
+Key:1005872,Text:"&Traducere de:"},{
+Key:1005873,Text:"&Traducere de:"},{
+Key:1005874,Text:"Data de versiunea de colectie"},{
+Key:1005875,Text:"Indică data la care această colecţie a fost actualizat de VideoPsalm pentru ultima oară.
+
+Prin biblioteca online VideoPsalm import wizard, puteţi verifica dacă există o versiune mai nouă a acestui manual.
+
+VideoPsalm online actualizări, uneori, unele colecţii, pentru a corecta de exemplu orice erori tipografice."},{
+Key:1005876,Text:"Data de versiunea Bibliei"},{
+Key:1005877,Text:"Indică data care a fost actualizat această Biblie de VideoPsalm pentru ultima oară.
+
+Prin bibliotecă online VideoPsalm import wizard, puteţi verifica dacă există o versiune mai recentă de această traducere.
+
+VideoPsalm online actualizări, uneori, unele Biblii, pentru a corecta de exemplu orice erori tipografice."},{
+Key:1005878,Text:"Comprimat"},{
+Key:1005879,Text:"Comprimat"},{
+Key:1005880,Text:"VideoPsalm poate comprima colecţiile dumneavoastră şi dumneavoastră Biblii, deci economisi spaţiu-disc.
+
+Cărţi şi Biblii care le descărcaţi prin intermediul Expertul Import sunt de obicei comprimat, pentru a mări viteza de download şi de a reduce traficul internet pe site-ul VideoPsalm."},{
+Key:1005881,Text:"&Comprimat"},{
+Key:1005882,Text:"&Comprimat"},{
+Key:1005884,Text:"Într-adevăr doriţi să ştergeţi Biblia \"{0}\"?
+
+Fişierul corespunzător această Biblie nu va fi şters de pe disc:
+extinderea acestuia vor fi redenumite \".ignore."},{
+Key:1005885,Text:"Ştergeţi o Biblie"},{
+Key:1005886,Text:"Vă rugăm să aşteptaţi"},{
+Key:1005887,Text:"Se încarcă în curs..."},{
+Key:1005888,Text:"Vechiul Testament"},{
+Key:1005889,Text:"Noul Testament"},{
+Key:1005890,Text:"Înregistrarea curentă..."},{
+Key:1005891,Text:"&Import de imagini"},{
+Key:1005892,Text:"Selectaţi imaginile pe care doriţi să import şi apoi faceţi clic pe \"open\"."},{
+Key:1005893,Text:"Aţi importat {0} cadru (s)."},{
+Key:1005894,Text:"Nu a fost importată nici o imagine.
+(Ea (s) se găsește (s) în Galerie)."},{
+Key:1005895,Text:"&Recrea miniaturi"},{
+Key:1005896,Text:"Recrea miniaturi"},{
+Key:1005897,Text:"Vrei pentru a recrea imaginile reduse?
+
+Poate fi necesar să recreaţi miniaturi ale imaginilor
+Când aţi făcut modificări în afara VideoPsalm."},{
+Key:1005898,Text:"&Șterge imagine"},{
+Key:1005899,Text:"Elimina o imagine"},{
+Key:1005900,Text:"Într-adevăr doriţi să ştergeţi imaginea \"{0}\"?"},{
+Key:1005901,Text:"&Explora folderul imagini"},{
+Key:1005902,Text:"&Ştergeţi imaginea selectată"},{
+Key:1005903,Text:"&Videoclipuri de import"},{
+Key:1005904,Text:"Selectați videoclipurile pe care doriţi să import şi apoi faceţi clic pe \"open\"."},{
+Key:1005905,Text:"Aţi importat pagina {0} (s)."},{
+Key:1005906,Text:"Nu a fost importată nici o pagina.
+(Ea (s) se găsește (s) în Galerie)."},{
+Key:1005907,Text:"&Recrea miniaturi"},{
+Key:1005908,Text:"&Ştergeţi video"},{
+Key:1005909,Text:"Şterge un video"},{
+Key:1005910,Text:"Într-adevăr doriţi să ştergeţi pagina \"{0}\"?"},{
+Key:1005911,Text:"&Explora folderul video"},{
+Key:1005912,Text:"&Șterge pagina selectată"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Importă imagini"},{
+Key:1005915,Text:"Videoclipuri de import"},{
+Key:1005917,Text:"Imposibil de creat folderul
+{0} :
+{1}"},{
+Key:1005918,Text:"Folderul specificat are nici un sprijin:
+{0}"},{
+Key:1005919,Text:"Dosarul trebuie să fie completate."},{
+Key:1005920,Text:"Un nume de folder nu poate conține următoarele caractere:
+{0}"},{
+Key:1005921,Text:"Restaurare cărţi şi Biblii"},{
+Key:1005922,Text:"Pentru a restaura colecţii, Biblii, imagini sau clipuri video, de exemplu la o copie de rezervă pe un USB stick."},{
+Key:1005923,Text:"Închide"},{
+Key:1005930,Text:"&Copiaţi un cântec"},{
+Key:1005931,Text:"&Mutare piesa"},{
+Key:1005932,Text:"Într-adevăr doriţi să copiaţi piesa \"{0}\".
+în colecţia \"{1}\"?"},{
+Key:1005933,Text:"Într-adevăr doriţi să mutaţi piesa \"{0}\".
+în colecţia \"{1}\"?"},{
+Key:1005934,Text:"&Introduceţi referinţe prin abrevieri"},{
+Key:1005935,Text:"&Afişează numele de cărţi în franceză"},{
+Key:1005936,Text:"(Copie)"},{
+Key:1005937,Text:"O nouă carte este disponibilă:
+{0}"},{
+Key:1005938,Text:"Noile colectii sunt disponibile: {0}"},{
+Key:1005939,Text:"Corecţiile au fost făcute
+Colectia \"{0}\"."},{
+Key:1005940,Text:"Corecţiile au fost făcute
+codurile următoare: {0}"},{
+Key:1005941,Text:"Deschideţi Expertul Import colecţii"},{
+Key:1005942,Text:"O noua Biblie este disponibil:
+{0}"},{
+Key:1005943,Text:"Biblii noi sunt disponibile: {0}"},{
+Key:1005944,Text:"Corecţiile au fost făcute
+Biblia \"{0}\"."},{
+Key:1005945,Text:"Corecţiile au fost făcute
+în Bibliile următoarele: {0}"},{
+Key:1005946,Text:"Deschide expertul pentru importul de Biblii"},{
+Key:1005947,Text:"VideoPsalm este nou disponibil
+în {0}"},{
+Key:1005948,Text:"VideoPsalm este recent disponibile în: {0}"},{
+Key:1005949,Text:"Corecţiile au fost făcute
+Etichete în {0}"},{
+Key:1005950,Text:"Corecţiile au fost făcute
+etichetele de limbile următoare: {0}"},{
+Key:1005951,Text:"Deschideţi importul a expertului etichetă"},{
+Key:1005952,Text:"O versiune mai recentă
+VideoPsalm este disponibil:"},{
+Key:1005953,Text:"Afişare ştiri"},{
+Key:1005954,Text:"Automată"},{
+Key:1005955,Text:"Explora folderul selectat"},{
+Key:1005956,Text:"Alegeți un folder"},{
+Key:1005957,Text:"Afişare fişiere recente"},{
+Key:1005958,Text:"Salvaţi"},{
+Key:1005959,Text:"Vă permite să salvaţi colecţii, Biblii, imagini sau clipuri video, sau a face un portable traducere de VideoPsalm, de exemplu pe un stick USB."},{
+Key:1005960,Text:"&Restaurare..."},{
+Key:1005961,Text:"VideoPsalm nu poate afișa PowerPoint documente.
+
+(Nici o cerere de tip PowerPoint a detectat pe PC-ul)."},{
+Key:1005962,Text:"Eroare PowerPoint"},{
+Key:1005963,Text:"Face {0} editabile în colecţia \"{1}\"."},{
+Key:1005964,Text:"Face {0} editabile în colecţie..."},{
+Key:1005965,Text:"Face {0} editabil din noua colectie \"{1}\"."},{
+Key:1005966,Text:"Pasaje biblice"},{
+Key:1005967,Text:"&Pasaje biblice particularizate"},{
+Key:1005968,Text:"&Descrierea/de control:"},{
+Key:1005969,Text:"&Limba:"},{
+Key:1005970,Text:"&Distribuitor:"},{
+Key:1005971,Text:"&Administrator:"},{
+Key:1005973,Text:"&Administrator:"},{
+Key:1005974,Text:"Textul de mai sus"},{
+Key:1005975,Text:"Acordurile deasupra textului"},{
+Key:1005976,Text:"Acesta este modul recomandat pentru a edita versuri.
+Când editaţi text, fiecare acord se mută cu litera la care este ancorat.
+
+Când tu <b>copie text care conţin acordurile</b>, acordurile sunt copiate cu text, ChordPro format.
+
+Când lipiţi text care conţine acorduri în ChordPro format, VideoPsalm se afişează aceste acorduri deasupra textului.
+
+<b>Pentru a adăuga un acord</b>, Inserare din stânga litera pe care doriţi să acosteze, de ce o înconjoară cu paranteze <b>[]</b>.
+
+<b>Pentru a şterge un acord</b>, sterge litera la care este andocat şi apoi reintroduceţi scrisoarea.
+
+<b>Pentru a modifica un acord</b>, ştergeţi, apoi inseraţi-o corect (sau utilizaţi \" <b>Format ChordPro</b> \" modul)."},{
+Key:1005977,Text:"ChordPro format"},{
+Key:1005978,Text:"Acorduri în ChordPro format"},{
+Key:1005979,Text:"În acest mod:
+
+-VideoPsalm afişează versurile şi acordurile cu <b>ChordPro format</b>.
+
+-Este modul ideal pentru acordurile de editare: VideoPsalm adaugă în mod automat paranteze [] în jurul textului introdus.
+De exemplu, pentru a adăuga o coardă c, tip «Nu» şi VideoPsalm va insera \"[face]\".
+
+Atentie: acest mod nu este potrivit pentru editare versuri, deoarece în funcţie de caz, VideoPsalm înconjoară scrisorile de cârlige.
+Utilizaţi mai degrabă '<b>deasupra textului</b>' modul pentru editarea textului."},{
+Key:1005980,Text:"Acorduri"},{
+Key:1005981,Text:"Copie"},{
+Key:1005982,Text:"Copiază Descrierea din calendarul şi puneţi-l în clipboard."},{
+Key:1005983,Text:"&Permite PowerPoint la spre folos \"prezentator\"."},{
+Key:1005984,Text:"Când această casetă este bifată, VideoPsalm frunze PowerPoint afişa interfaţa de comandă pentru a conduce la progresul de prezentare."},{
+Key:1005985,Text:"Parcurge o dată"},{
+Key:1005986,Text:"Bucla"},{
+Key:1005987,Text:"Avans manual"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Avans automat..."},{
+Key:1005990,Text:"&Avans manual"},{
+Key:1005991,Text:"&Bucla"},{
+Key:1005992,Text:"&Parcurge o dată"},{
+Key:1005993,Text:"&Interval (secunde):"},{
+Key:1005994,Text:"&Face să dispară text şi apoi opriţi"},{
+Key:1005995,Text:"&Urmaţi cu elementul următor"},{
+Key:1005996,Text:"&Opriţi înainte de a merge"},{
+Key:1005997,Text:"&Dispariţie textul apoi urmaţi"},{
+Key:1005998,Text:"&Afişează împreună cu elementul următor (bilingv)"},{
+Key:1005999,Text:"&Explorer"},{
+Key:1006000,Text:"Expertul import"},{
+Key:1006001,Text:"Bine ati venit la importul de cărţi, Biblii, imagini şi videoclipuri Expertul"},{
+Key:1006002,Text:"Acest expert simplifică importatoare de cărţi, Biblii, imagini şi clipuri video de la bibliotecă online VideoPsalm sau formatele populare directoare tine printr-o serie de paşi."},{
+Key:1006003,Text:"Faceţi clic pe următorul pentru a continua"},{
+Key:1006004,Text:"&Alege..."},{
+Key:1006005,Text:"&Următorul &gt;"},{
+Key:1006006,Text:"&&lt; Anterioare"},{
+Key:1006007,Text:"&ajutor"},{
+Key:1006008,Text:"&Finisaj"},{
+Key:1006009,Text:"&Abandon"},{
+Key:1006010,Text:"Puteţi importa cărţi, Biblii, imagini sau clipuri video"},{
+Key:1006011,Text:"Alege ceea ce doriţi să import"},{
+Key:1006012,Text:"O colecţie de import"},{
+Key:1006013,Text:"Importa o Biblie"},{
+Key:1006014,Text:"Import de imagini"},{
+Key:1006015,Text:"Videoclipuri de import"},{
+Key:1006016,Text:"Importaţi un limbaj"},{
+Key:1006020,Text:"&Iniţializa"},{
+Key:1006021,Text:"Initializeaza dosarul la o valoare standard"},{
+Key:1006023,Text:"Rezumat înainte de import"},{
+Key:1006024,Text:"Faceţi clic pe următorul pentru a porni importul"},{
+Key:1006025,Text:"Curent import"},{
+Key:1006026,Text:"Importul este complet"},{
+Key:1006027,Text:"Pentru a închide expertul, faceţi clic pe finalizare
+
+Faceţi clic pe înapoi pentru a importa o altă colecţie sau o altă Biblie"},{
+Key:1006029,Text:"Aveţi {0} importat cu succes cântece în colecţii de {1}."},{
+Key:1006030,Text:"Aveţi {0} importat cu succes cântece în noua colectie \"{1}\"."},{
+Key:1006031,Text:"Aţi importat \"{0}\" Biblia cu succes."},{
+Key:1006032,Text:"Aţi importat {0} Biblii cu succes."},{
+Key:1006033,Text:"Le-aţi importat \"{0}\" limba cu succes."},{
+Key:1006034,Text:"Aţi importat cu succes {0} limbi."},{
+Key:1006035,Text:"Doriți să opriți importul?"},{
+Key:1006036,Text:"Importul nu s-a terminat în mod corespunzător."},{
+Key:1006037,Text:"Introduceţi un nume pentru această colecţie nouă de VideoPsalm"},{
+Key:1006038,Text:"Noua colectie va fi salvat sub acest nume. Acest nume poate fi schimbat mai târziu"},{
+Key:1006039,Text:"&Nume pentru a da în colecţia:"},{
+Key:1006040,Text:"Da un nume pentru această Biblie noi VideoPsalm"},{
+Key:1006041,Text:"Biblia nou va fi salvat sub acest nume. Acest nume poate fi schimbat mai târziu"},{
+Key:1006042,Text:"&Nume pentru a da la Biblie:"},{
+Key:1006051,Text:"Selectaţi colecţiile"},{
+Key:1006052,Text:"Selectaţi Biblii"},{
+Key:1006053,Text:"Selectaţi un fişier"},{
+Key:1006054,Text:"Selectaţi un folder"},{
+Key:1006055,Text:"&Fișier:"},{
+Key:1006056,Text:"&Fișier:"},{
+Key:1006057,Text:"Selectaţi limbile"},{
+Key:1006058,Text:"Folderul \"{0}\" nu există."},{
+Key:1006060,Text:"Nu poate accesa folderul \"{0}\".
+
+{1}"},{
+Key:1006061,Text:"Fișierul \"{0}\" nu există."},{
+Key:1006062,Text:"Atentie: Încărcare de multe colectii pot umple memoria PC-ului şi lent de căutare pentru melodii.
+Face într-adevăr descărca vă {0} colecţii?"},{
+Key:1006063,Text:"Atentie: Încărcare de multe Biblii poate umple memoria PC-ului.
+Face într-adevăr descărca vă {0} Biblii?"},{
+Key:1006064,Text:"Noul nume nu poate fi gol."},{
+Key:1006065,Text:"Noul nume nu poate conţine următoarea caractere: {0}"},{
+Key:1006066,Text:"Există deja o colecție cu numele \"{0}\"."},{
+Key:1006067,Text:"Există deja o Biblie cu numele \"{0}\"."},{
+Key:1006068,Text:"Te-ai oprit importul."},{
+Key:1006069,Text:"Verificaţi conexiunea la internet."},{
+Key:1006070,Text:"Disponibil de la {0}"},{
+Key:1006071,Text:"Noua versiune disponibila din {0}"},{
+Key:1006072,Text:"Versiunea datează din {0}"},{
+Key:1006073,Text:"Versiunea de {0} este actualizat."},{
+Key:1006074,Text:"Titlu"},{
+Key:1006075,Text:"Stat"},{
+Key:1006076,Text:"Nu descărcate"},{
+Key:1006077,Text:"Actualizare"},{
+Key:1006078,Text:"Actualizare disponibilă"},{
+Key:1006079,Text:"Noi"},{
+Key:1006080,Text:"Nou update folositor"},{
+Key:1006081,Text:"Nici o colecţie este selectat.
+Trebuie să selectaţi cel puţin o colecţie."},{
+Key:1006082,Text:"Biblia nu este selectat.
+Trebuie să selectaţi cel puţin o Biblie."},{
+Key:1006083,Text:"Nicio limbă nu este selectat.
+Selectați cel puțin o limbă."},{
+Key:1006084,Text:"Cod"},{
+Key:1006085,Text:"Sursa CAB: <b>{0}</b>"},{
+Key:1006086,Text:"Folderul sursă:
+<b>{0}</b>"},{
+Key:1006087,Text:"Document cercetare"},{
+Key:1006090,Text:"Numele dat noua Biblie VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"La noua colectie de VideoPsalm name: <b>{0}</b>"},{
+Key:1006095,Text:"În biblioteca VideoPsalm online, se întâmplă că unele documente sunt adăugate sau actualizate (ex. să corecteze o greşeală de scriere).
+În funcţie de stat a documentelor de mai sus, aveţi posibilitatea să decideţi dacă sau nu să le descărcaţi.
+
+<b>Aici este cum să se facă distincţia starea de documente:</b>
+-Documentele pe care le-aţi descărcat nu sunt afişate în normal.
+-Documentele care le-aţi încărcat şi sunt actualizate sunt prezentate în <i>caractere italice</i>. Acestea sunt marcate cu un <image=check_16>OK.
+Nu aveţi nevoie pentru a re - descărca, cu excepţia cazului în cazul în care doriţi să revocaţi orice modificări efectuate.
+-Documentele care le-aţi încărcat şi pe care le-am făcut între timp corecţii în bibliotecă online VideoPsalm, apărea cu litere <b>aldine</b>. Acestea sunt marcate cu un creion <image=pencil2_16>.
+
+Caseta text pe dreapta descrie ce corecţiile au fost făcute în document: acest lucru poate ajuta să decideţi dacă doriţi să re - descărca.
+
+<b>Atenţie:</b> Dacă actualizaţi documentul în re-încărcarea, veţi pierde orice modificări care au făcut, precum şi stilul său de atribute pentru că VideoPsalm ta care înlocuieşte l descărcări.
+Propriul fişier este şters nu, cu toate acestea: aceasta rămâne pe disc dar devine invizibil în VideoPsalm deoarece VideoPsalm redenumeşte expansiunea în .ignore.
+
+<b>Consiliul</b> : descărca numai documentele care vor fi utile.
+Într-adevăr, dacă există prea multe documente, încărcarea VideoPsalm va deveni probabil mai lent, la fel ca în căutare de cuvinte cheie.
+
+Reţineţi că în orice moment, eliminaţi o carte sau o Biblie de dumneavoastră VideoPsalm. Pentru aceasta, utilizaţi butonul ' <image=delete2_16>a şterge ' în fila 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Istoria de modificări la \"{0}\"."},{
+Key:1006100,Text:"Colecţiile bibliotecii de VideoPsalm online"},{
+Key:1006105,Text:"Melodii EasySlides"},{
+Key:1006110,Text:"Melodii MediaShout"},{
+Key:1006115,Text:"Melodii OpenLP"},{
+Key:1006116,Text:"Melodii VerseView"},{
+Key:1006120,Text:"Melodii în format 'OpenLyrics'."},{
+Key:1006125,Text:"Melodii OpenSong"},{
+Key:1006130,Text:"O colecţie de Psalmo"},{
+Key:1006131,Text:"O colecţie în text format"},{
+Key:1006132,Text:"Melodii de EasyWorship 2009"},{
+Key:1006133,Text:"Melodii în format \"ChordPro\"."},{
+Key:1006134,Text:"Melodii de WebAsaph"},{
+Key:1006135,Text:"Melodii în format «CCLI."},{
+Key:1006140,Text:"Biblii din biblioteca de VideoPsalm online"},{
+Key:1006145,Text:"O bază de date de Biblie Biblie"},{
+Key:1006150,Text:"O Biblie de OpenLP"},{
+Key:1006155,Text:"O Biblie de OpenSong"},{
+Key:1006160,Text:"O Biblie Biblie nelegat"},{
+Key:1006165,Text:"O Biblie de Zefania"},{
+Key:1006166,Text:"O Biblie de EasySlides"},{
+Key:1006167,Text:"O Biblie în format \"Osis\"."},{
+Key:1006168,Text:"O Biblie în format «USFM» cărţi (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Selectaţi colecţiile bibliotecii de VideoPsalm online care doriţi să importaţi în dumneavoastră VideoPsalm"},{
+Key:1006185,Text:"Selectați o bază de date EasySlides conţine cântece pe care doriţi să importaţi în dumneavoastră VideoPsalm (extensia .mdb)"},{
+Key:1006190,Text:"Selectați o bază de date MediaShout conţine cântece pe care doriţi să importaţi în dumneavoastră VideoPsalm (extensia .mdb)"},{
+Key:1006195,Text:"Selectați o bază de date OpenLP conţine cântece pe care doriţi să importaţi în dumneavoastră VideoPsalm (extensia .sqlite fişier)"},{
+Key:1006196,Text:"Selectaţi baza de date a VerseView care conțin melodiile pe care doriţi să importaţi în dumneavoastră VideoPsalm (extensie .db fişier)"},{
+Key:1006200,Text:"Selectaţi un folder care conține melodii în format \"OpenLyrics\" care doriţi să importaţi în dumneavoastră VideoPsalm (extensia .xml fişiere)"},{
+Key:1006205,Text:"Selectaţi un folder care conţine OpenSong melodiile pe care doriţi să importaţi în dumneavoastră VideoPsalm (fişiere fără extensie)"},{
+Key:1006210,Text:"Selectaţi un exportate Psalmo compendiu RTF format doriţi să importaţi în dumneavoastră VideoPsalm (extensie .rtf fişiere)"},{
+Key:1006211,Text:"Selectaţi o colecţie în formatul de text pe care doriţi să importaţi în dumneavoastră VideoPsalm (extensia .txt fişier)"},{
+Key:1006212,Text:"Selectați o bază de date, anului 2009 EasyWorship conţine cântece pe care doriţi să importaţi în dumneavoastră VideoPsalm (extensia .db fişier)"},{
+Key:1006213,Text:"Selectaţi un folder care conţine songs in ChordPro format doriţi să importaţi în dumneavoastră VideoPsalm (.chordpro, .chopro, .crd sau .cho dosar prelungire)"},{
+Key:1006214,Text:"Selectați o bază de date WebAsaph conţine cântece pe care doriţi să importaţi în dumneavoastră VideoPsalm (fisier extensie .ltc)"},{
+Key:1006215,Text:"Selectaţi un folder care conţine melodii în format CCLI pentru a importa în dumneavoastră VideoPsalm (prelungire .usr dosar)"},{
+Key:1006220,Text:"Selectaţi Biblii de bibliotecă online VideoPsalm doriţi să importaţi în dumneavoastră VideoPsalm"},{
+Key:1006225,Text:"Selectaţi o Biblie de Biblie date doriţi să importaţi în dumneavoastră VideoPsalm (extensia .txt fişier)"},{
+Key:1006230,Text:"Selectaţi o Biblie OpenLP, doriţi să importaţi în dumneavoastră VideoPsalm (extensia .sqlite fişier)"},{
+Key:1006235,Text:"Selectaţi o Biblie OpenSong doriţi să importaţi în dumneavoastră VideoPsalm (dosar fără extindere)"},{
+Key:1006240,Text:"Selectaţi o Biblie Biblie nelegat, doriţi să importaţi în dumneavoastră VideoPsalm (extensia .txt fişier)"},{
+Key:1006245,Text:"Selectaţi o Biblie Zefania doriţi să importaţi în dumneavoastră VideoPsalm (extensie de fișier .xml)"},{
+Key:1006247,Text:"Selectaţi o Biblie EasySlides doriţi să importaţi în dumneavoastră VideoPsalm (extensia .mdb)"},{
+Key:1006248,Text:"Selectaţi o Biblie în format \"Osis\" pentru a importa în dumneavoastră VideoPsalm (prelungire fişier .xml, .osi sau .osis)"},{
+Key:1006249,Text:"Selectaţi cărţi ale Bibliei o \"USFM\" format pentru a importa în dumneavoastră VideoPsalm (extensia .sfm sau .usfm dosar)"},{
+Key:1006252,Text:"Selectaţi limbile de bibliotecă online VideoPsalm doriţi să importaţi în dumneavoastră VideoPsalm"},{
+Key:1006255,Text:"Importa <b>{0} (s) Colectia bibliotecii de VideoPsalm online</b> :
+{1}"},{
+Key:1006260,Text:"Importa <b>EasySlides melodii</b>"},{
+Key:1006265,Text:"Importa <b>melodii MediaShout</b>"},{
+Key:1006270,Text:"Importul <b>de piese OpenLP</b>"},{
+Key:1006271,Text:"<b>VerseView piese</b> de import"},{
+Key:1006275,Text:"Importa <b>melodii în format «OpenLyrics»</b>"},{
+Key:1006280,Text:"Importul <b>de OpenSong cântec</b>"},{
+Key:1006285,Text:"Importa <b>o colecţie de Psalmo</b>"},{
+Key:1006286,Text:"<b>O colecţie de textul</b> de import"},{
+Key:1006287,Text:"<b>Import piese de EasyWorship 2009</b>"},{
+Key:1006288,Text:"Importul <b>de songs in ChordPro format</b>"},{
+Key:1006289,Text:"Importa <b>melodii WebAsaph</b>"},{
+Key:1006290,Text:"<b>Formatul CCLI piese</b> de import"},{
+Key:1006295,Text:"Importa <b>{0} Biblia (s) din biblioteca de VideoPsalm online</b> :
+{1}"},{
+Key:1006300,Text:"Importa <b>O Biblie Biblie baze de date</b>"},{
+Key:1006305,Text:"Importa <b>O Biblie de OpenLP</b>"},{
+Key:1006310,Text:"Importa <b>O Biblie de OpenSong</b>"},{
+Key:1006315,Text:"Importa <b>O Biblie Biblie nelegat</b>"},{
+Key:1006320,Text:"Importa <b>O Biblie Zefania</b>"},{
+Key:1006321,Text:"Importa <b>O Biblie EasySlides</b>"},{
+Key:1006322,Text:"Importa <b>o Biblie în format \"Osis\"</b>"},{
+Key:1006323,Text:"Importa <b>o Biblie în format «USFM»</b>"},{
+Key:1006325,Text:"Importa <b>{0} limbă (s) a bibliotecii VideoPsalm online</b> :
+{1}"},{
+Key:1006340,Text:"Selectați o bază de date EasySlide"},{
+Key:1006345,Text:"Selectați o bază de date MediaShout"},{
+Key:1006350,Text:"Selectați o bază de date OpenLP"},{
+Key:1006351,Text:"Selectați o bază de date VerseView"},{
+Key:1006355,Text:"Selectaţi un folder care conține melodii în formatul \"OpenLyrics\"."},{
+Key:1006360,Text:"Selectaţi un folder care conține melodii de OpenSong"},{
+Key:1006365,Text:"Selectați un fișier RTF conţinând exportate Psalmo melodii"},{
+Key:1006366,Text:"Selectaţi un fişier care conţine melodii în text format"},{
+Key:1006367,Text:"Selectați o bază de date, anului EasyWorship 2009"},{
+Key:1006368,Text:"Selectaţi un folder care conține melodii în format \"ChordPro\"."},{
+Key:1006369,Text:"Selectați o bază de date WebAsaph"},{
+Key:1006370,Text:"Selectaţi un folder care conţine melodii în format «CCLI."},{
+Key:1006375,Text:"Selectaţi o Biblie de BibleDatabase"},{
+Key:1006380,Text:"Selectaţi o Biblie de OpenLP"},{
+Key:1006385,Text:"Selectaţi o Biblie de OpenSong"},{
+Key:1006390,Text:"Selectaţi o Biblie Biblie nelegat"},{
+Key:1006395,Text:"Selectaţi o Biblie Zefania"},{
+Key:1006397,Text:"Selectaţi o Biblie de EasySlides"},{
+Key:1006398,Text:"Selectaţi o Biblie în format \"Osis\"."},{
+Key:1006399,Text:"Selectează cărţile de o Biblie în formatul \"USFM."},{
+Key:1006405,Text:"EasySlide baza de date"},{
+Key:1006410,Text:"MediaShout 4 de date"},{
+Key:1006411,Text:"MediaShout 3 de date"},{
+Key:1006415,Text:"OpenLP baza de date"},{
+Key:1006416,Text:"Baza de date a EasyWorship 2009"},{
+Key:1006417,Text:"VerseView baza de date"},{
+Key:1006420,Text:"Folderul \"{0}\".
+conţine nici cântând la formatul \"OpenLyrics\" (extensie xml)."},{
+Key:1006425,Text:"Folderul \"{0}\".
+conţine nici un cântec OpenSong (cântece de OpenSong sunt fişiere fără extensie)."},{
+Key:1006430,Text:"Melodii exportate din Psalmo"},{
+Key:1006431,Text:"Melodii în text format"},{
+Key:1006432,Text:"Folderul \"{0}\".
+conţine nici cântând la formatul \"ChordPro\" (extensie chopro/chordpro, crd şi cho)."},{
+Key:1006433,Text:"WebAsaph baza de date"},{
+Key:1006434,Text:"Folderul \"{0}\".
+conţine nici un cântec în format «CCLI» (extensie .usr)."},{
+Key:1006440,Text:"BibleDatabase Biblii"},{
+Key:1006445,Text:"OpenLP Biblii"},{
+Key:1006450,Text:"OpenSong Biblii"},{
+Key:1006455,Text:"Biblii Biblia nelegat"},{
+Key:1006460,Text:"Zefania Biblii"},{
+Key:1006462,Text:"EasySlides Biblii"},{
+Key:1006463,Text:"Biblii în formatul \"Osis\"."},{
+Key:1006464,Text:"Cărţi ale Bibliei în formatul \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Îmi place Domnul 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Meu chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Îmi place Domnul"},{
+Key:1006510,Text:"Bazele de date MSAccess."},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Toate fişierele"},{
+Key:1006520,Text:"SQLite baze de date"},{
+Key:1006525,Text:"Bază de date Paradox"},{
+Key:1006526,Text:"Baza de date WebAsaph"},{
+Key:1006600,Text:"Alege Biblioteca on-line VideoPsalm sau o altă sursă"},{
+Key:1006601,Text:"VideoPsalm Biblioteca conţine multe colecţii în mai multe limbi"},{
+Key:1006602,Text:"VideoPsalm bibliotecă online (conexiune la internet cerute în timpul importului)"},{
+Key:1006603,Text:"Cântece într-un popular, import pe formatul de disc"},{
+Key:1006604,Text:"Alege Biblioteca on-line VideoPsalm sau o altă sursă"},{
+Key:1006605,Text:"VideoPsalm Biblioteca conţine mai multe traduceri ale Bibliei în diferite limbi"},{
+Key:1006606,Text:"VideoPsalm bibliotecă online (conexiune la internet cerute în timpul importului)"},{
+Key:1006607,Text:"O Biblie într-un popular, import pe formatul de disc"},{
+Key:1006608,Text:"Care este sursa de formatul de cântece?"},{
+Key:1006609,Text:"Care este formatul de sursa de Biblie?"},{
+Key:1006610,Text:"Puteţi importa în VideoPsalm dumneavoastră o Biblie într-un format popular stocate în PC-ul"},{
+Key:1006611,Text:"Puteţi importa în dumneavoastră VideoPsalm într-un popular format melodiile stocate în PC-ul"},{
+Key:1007000,Text:"Copie de rezervă"},{
+Key:1007001,Text:"Doriţi să începeţi procesul de copiere a VideoPsalm în folderul
+« {0} » ?"},{
+Key:1007004,Text:"Nu se poate efectua copia de rezervă în folderul selectat,
+deoarece se află în folderul curent de documente VideoPsalm
+({0})."},{
+Key:1007005,Text:"Nu există suficient spaţiu pe disc {0}.
+Ar trebui să {1: #, #. #} MB, şi există numai {2: #, #. #} MB disponibile."},{
+Key:1007006,Text:"Imposibil de finalizat copierea de rezervă:
+
+{0}"},{
+Key:1007007,Text:"Imposibil de descărcat Microsoft .NET Framework 4.0:
+
+{0}
+
+Acest lucru poate fi din cauza lipsei conexiunii la Internet.
+Copia de rezervă va continua în mod normal,
+dar nu va fi capabil de a instala Microsoft .NET Framework 4.0 din copia de rezervă."},{
+Key:1007008,Text:"indisponibil {0}"},{
+Key:1007009,Text:"Memento: Copie de rezervă nu a copiat
+instalare Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Copia de rezervă este terminat în mod corespunzător."},{
+Key:1007011,Text:"Vrei să abandoneze copia de rezervă?"},{
+Key:1007030,Text:"Selectaţi un folder sau pentru a crea tot-înăuntru-unul pentru a plasa o copie de rezervă a VideoPsalm"},{
+Key:1007031,Text:"Copiaţi copia de rezervă documente (cărţi, Biblii, imagini, videoclipuri, stiluri) la locația specificată, de exemplu:
+-un USB
+-un hard disk extern,
+-un folder de rețea,
+-etc.
+
+<b>Backup vă permite să vă inclusiv:</b>
+-pentru a securiza documentele prin duplicarea-le pe un alt mediu,
+-pentru a construi un portable traducere de VideoPsalm, de exemplu pe un stick USB,
+-pentru a transfera cu uşurinţă documente pe un alt computer utilizând funcţia de restaurare,
+-dublarea documente pentru mai multe configuraţii de colecţii cu stilurile lor de pe acelaşi computer.
+
+<b>Notă:</b> Pentru sincronizarea înregistrărilor VideoPsalm între mai multe computere, puteţi alege mai direct pentru o sincronizare precum serviciu SkyDrive sau DropBox."},{
+Key:1007032,Text:"Selectați documentele pe care doriţi să salvaţi:"},{
+Key:1007033,Text:"&Colecţii"},{
+Key:1007034,Text:"&Biblii"},{
+Key:1007035,Text:"&Imagini"},{
+Key:1007036,Text:"&Videoclipuri"},{
+Key:1007037,Text:"&Salvaţi documentele pe:"},{
+Key:1007038,Text:"Specificaţi folderul în care aţi salva documente de VideoPsalm aici.
+
+De exemplu: «E:\\Ma VideoPsalm de rezervă.
+
+Dacă folderul nu există, acesta este creat automat atunci când copierea de rezervă."},{
+Key:1007039,Text:"&Creaţi o cerere portabil VideoPsalm"},{
+Key:1007040,Text:"Adaugă toate fişierele executabil necesar pentru funcţionarea VideoPsalm la folderul copie de rezervă.
+
+În general, este pe o cheie USB care doriţi să creaţi o cerere portabil VideoPsalm.
+
+O copie de rezervă portabil pentru a rula VideoPsalm pe orice alt computer, direct de la USB cheie, fără a fi nevoie pentru a instala VideoPsalm.
+
+Începând VideoPsalm cheie USB, veţi avea acces la toate funcţiile de VideoPsalm, inclusiv copia de rezervă. Acest lucru permite pentru a salva VideoPsalm pe unitatea hard disk de celălalt computer, asa ca ulterior a alerga it fără cheie USB.
+
+<b>Importante</b>
+VideoPsalm opţiuni nu sunt adăugate pentru a copia de rezervă.
+La primul spectacol de VideoPsalm pe un anumit computer, trebuie să ajustaţi opţiunile de VideoPsalm, de exemplu licenţa pentru Biserica."},{
+Key:1007041,Text:"&Adauga programul de instalare Microsoft .NET Framework 4.0"},{
+Key:1007042,Text:"Pentru a opera, VideoPsalm are nevoie de .NET Framework 4.0 la Microsoft. Computerele mai noi au adesea .NET Framework 4.0 sau mai mare preinstalat. Dacă nu sunteţi sigur că .NET Framework 4.0 este instalat pe celălalt computer, bifează caseta \"Add setup de .NET Framework 4.0. VideoPsalm vor apoi loc pe stick-ul USB o copie a programului de instalare .NET Framework 4.0 (conexiune la internet poate fi obligat să acest lucru).
+
+De la USB cheie, puteţi cu uşurinţă instala .NET Framework 4.0 pe celălalt computer înainte de a începe VideoPsalm. Instalarea .NET Framework 4.0 este foarte rapid şi reporniţi Windows normal.
+
+Veţi găsi instalarea .NET Framework 4.0 fişier în folderul de copiere de rezervă. Acest fişier este numit \"dotNetFx40_Full_x86_x64.exe. Pentru a începe instalarea .NET Framework 4.0 pe un alt computer, faceți dublu clic pe acest fișier."},{
+Key:1007043,Text:"&Pornire copie de rezervă"},{
+Key:1007044,Text:"Download Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"&Dosarul (folder care va fi salvat) VideoPsalm documente:"},{
+Key:1007046,Text:"Lasa colecţiile din folderul specificat înainte de a salva al meu"},{
+Key:1007047,Text:"Elimina colecţii de folder specificat înainte de a salva al meu"},{
+Key:1007048,Text:"Lăsaţi Biblii folderul specificat înainte de acolo salvare a mea"},{
+Key:1007049,Text:"Este de eliminare Biblii folderul specificat înainte de a salva al meu"},{
+Key:1007050,Text:"Concediu este de imagini în folderul specificat înainte de a salva al meu"},{
+Key:1007051,Text:"Ștergere imagini din folderul specificat înainte este de a salva al meu"},{
+Key:1007052,Text:"Lasa este de clipuri video în folderul specificat înainte de a salva al meu"},{
+Key:1007053,Text:"Ştergeţi videoclipuri din folderul specificat înainte de a salva al meu"},{
+Key:1007054,Text:"Selectaţi un folder sau să creaţi unul pentru a plasa o copie de rezervă, de VideoPsalm"},{
+Key:1007055,Text:"Permite audio la folderul specificat este înainte de a salva mina"},{
+Key:1007056,Text:"Remove audio la folderul specificat înainte este de a salva mina"},{
+Key:1007057,Text:"&Audio"},{
+Key:1008000,Text:"Restabiliţi o copie de rezervă"},{
+Key:1008001,Text:"Doriţi să restauraţi o copie de rezervă a VideoPsalm din folderul
+« {0} » ?
+
+Atenţie: În funcţie de opţiunile pe care le-aţi selectat, documentele dumneavoastră curentă va fi înlocuit sau şters."},{
+Key:1008002,Text:"Vă rugăm să introduceţi folderul din copia de rezervă pentru a restabili."},{
+Key:1008004,Text:"Imposibilitatea de a restaura o copie de rezervă din folderul ales,
+deoarece se află în folderul curent de documente VideoPsalm."},{
+Key:1008006,Text:"Imposibil de terminat restaurarea:
+
+{0}"},{
+Key:1008010,Text:"Restaurarea s-a încheiat."},{
+Key:1008011,Text:"Vrei să abandoneze de restaurare?"},{
+Key:1008012,Text:"Restabiliţi o copie de rezervă"},{
+Key:1008032,Text:"Selectați documentele pe care doriţi să restauraţi:"},{
+Key:1008033,Text:"&Colecţii"},{
+Key:1008034,Text:"&Biblii"},{
+Key:1008035,Text:"&Imagini"},{
+Key:1008036,Text:"&Videoclipuri"},{
+Key:1008043,Text:"&Restaurare"},{
+Key:1008044,Text:"Lasa mi colectii înainte de restaurarea din copia de rezervă"},{
+Key:1008045,Text:"Ştergeţi colectiile mele înainte de restaurarea din copia de rezervă"},{
+Key:1008046,Text:"Lasa Biblii meu înainte de restaurarea din copia de rezervă"},{
+Key:1008047,Text:"Ştergeţi Biblii meu înainte de restaurarea din copia de rezervă"},{
+Key:1008048,Text:"Lăsaţi imaginile mele înainte de restaurarea din copia de rezervă"},{
+Key:1008049,Text:"Ștergeți imaginile mele înainte de restaurarea din copia de rezervă"},{
+Key:1008050,Text:"Lasa videoclipurile mele înainte de restaurarea din copia de rezervă"},{
+Key:1008051,Text:"Şterge meu videoclipuri înainte de restaurarea din copia de rezervă"},{
+Key:1008052,Text:"&Restabiliţi o copie de rezervă de la:"},{
+Key:1008053,Text:"Aici specificaţi folderul la care înregistrările de VideoPsalm va fi restaurat.
+
+Exemplu: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Folder (folderul în cazul în care copia de rezervă va fi restaurat) VideoPsalm documente:"},{
+Key:1008055,Text:"Reîmprospătare"},{
+Key:1008056,Text:"Selectaţi un folder care conţine o copie de rezervă, de VideoPsalm"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Lasa meu audio înainte de restabilirea la spate"},{
+Key:1008059,Text:"Şterge meu audio înainte de restabilirea la spate"},{
+Key:1008999,Text:"Video proiector"},{
+Key:1009000,Text:"un cântec"},{
+Key:1009001,Text:"melodii {0}"},{
+Key:1009002,Text:"o listă de versete"},{
+Key:1009003,Text:"liste cu versete {0}"},{
+Key:1009004,Text:"o imagine"},{
+Key:1009005,Text:"imagini de {0}"},{
+Key:1009006,Text:"Biblia \"{0}\"."},{
+Key:1009007,Text:"Capitolul {0}"},{
+Key:1009009,Text:"Biblii {0}"},{
+Key:1009010,Text:"Imaginea \"{0}\"."},{
+Key:1009011,Text:"{0} ({1} imagini)"},{
+Key:1009012,Text:"imagini de {0}"},{
+Key:1009013,Text:"{0} ({1} diapozitive)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Stilul implicit de încărcare"},{
+Key:1009016,Text:"Încărcare stil de colectii"},{
+Key:1009017,Text:"Încărcare de colectare \"{0}\"."},{
+Key:1009018,Text:"Încărcare stil de Biblii"},{
+Key:1009019,Text:"De încărcare a Bibliei \"{0}\"."},{
+Key:1009020,Text:"Fişier: {0}"},{
+Key:1009100,Text:"{0} ({1} melodii)"},{
+Key:1009101,Text:"{0} (un singur cântec)"},{
+Key:1009102,Text:"{0} (nici o voce)"},{
+Key:1009103,Text:"Există deja un fişier \"{0}\".
+în care VideoPsalm ar salva noua colectie \"{1}\".
+
+Este imposibil să salvați această colecţie nouă.
+Dă o abreviere sau un nume unic pentru această colecţie nouă şi încercaţi din nou salvarea."},{
+Key:1009104,Text:"Înregistrare nereușită"},{
+Key:1009105,Text:"Incapabil să se mişte fişierul
+{0}
+viermi
+{1}.
+
+(2)"},{
+Key:1009107,Text:"Colecţii {0}"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} versete)"},{
+Key:1009111,Text:"Pagina \"{0}\"."},{
+Key:1009112,Text:"{0} ({1} videoclipuri)"},{
+Key:1009113,Text:"videoclipuri {0}"},{
+Key:1009114,Text:"Imposibil de salvat de colectare.
+Numele de colectare pentru a fi capabil să-l salveze."},{
+Key:1010000,Text:"Vedeți mai multe culori"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Închide"},{
+Key:1010003,Text:"&Transparente"},{
+Key:1010004,Text:"Revocare"},{
+Key:1010005,Text:"ok"},{
+Key:1010006,Text:"Afişa mai puţine culori"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"RADU"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Aproape fără inserarea de câmp"},{
+Key:1011001,Text:"Abreviere de colectare"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Autorul melodie"},{
+Key:1011004,Text:"Autor de colectare"},{
+Key:1011005,Text:"CLAUDIA"},{
+Key:1011006,Text:"Cheie"},{
+Key:1011007,Text:"Compozitor"},{
+Key:1011008,Text:"Drepturile de autor de cântec"},{
+Key:1011009,Text:"Drepturile de autor de carte"},{
+Key:1011010,Text:"Etichetă a versetului"},{
+Key:1011011,Text:"Eticheta şi numărul versetul"},{
+Key:1011012,Text:"Formatul"},{
+Key:1011013,Text:"Licenţa a Bisericii"},{
+Key:1011014,Text:"Rând cheie"},{
+Key:1011015,Text:"Nota 1"},{
+Key:1011016,Text:"Nota 2"},{
+Key:1011017,Text:"Nota 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Poziţia a versetului"},{
+Key:1011020,Text:"Versetul nr."},{
+Key:1011021,Text:"Cântarea nr."},{
+Key:1011022,Text:"Notă a versetului"},{
+Key:1011023,Text:"Număr de melodii din colectia"},{
+Key:1011024,Text:"Numărul de strofe"},{
+Key:1011025,Text:"Referinţă"},{
+Key:1011026,Text:"Secvenţă de strofe"},{
+Key:1011027,Text:"Semnătura"},{
+Key:1011028,Text:"Tempo-ul"},{
+Key:1011029,Text:"Tematica"},{
+Key:1011030,Text:"Titlul cântecului"},{
+Key:1011031,Text:"Titlul cărții"},{
+Key:1011032,Text:"Tonul"},{
+Key:1011033,Text:"3. Scoateţi toate câmpurile"},{
+Key:1011034,Text:"2. Utilizaţi câmpurile standard"},{
+Key:1011035,Text:"Administratorul"},{
+Key:1011036,Text:"Limba"},{
+Key:1011037,Text:"Redactor"},{
+Key:1011038,Text:"Transpunerea"},{
+Key:1011101,Text:"Abrevierea Bibliei"},{
+Key:1011102,Text:"Abreviere de carte"},{
+Key:1011103,Text:"Capitolul"},{
+Key:1011104,Text:"Autor al Bibliei"},{
+Key:1011105,Text:"Descriere a Bibliei"},{
+Key:1011107,Text:"Redactor"},{
+Key:1011108,Text:"Limba"},{
+Key:1011109,Text:"Numele de Biblia"},{
+Key:1011110,Text:"Numele cărţii"},{
+Key:1011111,Text:"Numărul de capitole de carte"},{
+Key:1011112,Text:"Numărul de versete ale capitolului"},{
+Key:1011113,Text:"Testament"},{
+Key:1011114,Text:"Versetul"},{
+Key:1011115,Text:"Administratorul a Bibliei"},{
+Key:1011200,Text:"&Inseraţi un câmp:"},{
+Key:1011201,Text:"Formataţi textul afişat în antet sau subsol strophe sau versetul"},{
+Key:1011202,Text:"Introduceţi textul de afișat.
+Acest text este gratuit şi, în general, constă dintr-o serie de domenii predefinite.
+
+Exemple de câmpuri predefinite pentru un cântec:
+-titlul cântecului: <b>[titlul cântecului]</b>
+-numărul de melodie: <b>[piesa nr.]</b>
+-titlul cărţii: <b>[titlul colecției]</b>
+-abreviere pentru colectarea: <b>[abrevierea de colectare]</b>
+-etc.
+
+Pentru un verset:
+-Numele cărţii: <b>[nume de carte]</b>
+-Capitolul: <b>[capitolul]</b>
+-verset: <b>[versuri]</b>
+plin de referinţă:
+  <b>[Carte nume] [capitolul]: [versuri]</b>
+-numele de Biblie: <b>[nume din Biblie]</b>
+-etc.
+
+La momentul de proiecţie video, VideoPsalm înlocuieşte câmpurile predefinit de valoarea lor. 
+
+Câmpurile predefinite ar trebui să fie înconjurat de paranteze pătrate <b>[]</b>. Ele trebuie introduse fără greş şi să respecte majuscule şi minuscule.
+
+<b>Pentru a insera uşor un câmp predefinit, utilizaţi lista de defilare mai jos intitulată 'inseraţi un câmp'.</b>
+
+Formatul poate consta din mai multe linii.
+
+Pentru a restabili sale formatul original de valoare, elimina complet (Ctrl + A şterge)."},{
+Key:1011203,Text:"O listă a câmpurilor predefinite"},{
+Key:1011204,Text:"Pentru a insera un câmp predefinit, selectaþi-l din listă.
+
+Câmpul va fi automat inserat în textul de mai sus, caseta de la punctul de inserare."},{
+Key:1012000,Text:"Fișierul \"{0}\" există deja.
+
+Vrei să-l înlocuiască?"},{
+Key:1012001,Text:"Fișier existent"},{
+Key:1013000,Text:"Ascunde Preview"},{
+Key:1013001,Text:"Afişează previzualizare"},{
+Key:1013002,Text:"Măriţi proporţional pentru a umple ecranul"},{
+Key:1013003,Text:"Reducerea de până la întregul ecran"},{
+Key:1013004,Text:"Dezactivaţi repetarea"},{
+Key:1013005,Text:"Activa repeat"},{
+Key:1013006,Text:"Începe la începutul"},{
+Key:1013007,Text:"Suspenda"},{
+Key:1013008,Text:"Citeste"},{
+Key:1013009,Text:"Du-te la sfârşitul"},{
+Key:1013010,Text:"Sunet"},{
+Key:1013011,Text:"Mut"},{
+Key:1013012,Text:"Volumul"},{
+Key:1013013,Text:"Cercetare"},{
+Key:1013014,Text:"La nivel global definesc limitele video"},{
+Key:1013015,Text:"Definirea limitelor de video pentru fiecare strofă"},{
+Key:1013016,Text:"Timp scurs"},{
+Key:1013017,Text:"Timpul total"},{
+Key:1013018,Text:"Timpul rămas"},{
+Key:1013019,Text:"Faceţi clic pentru a trece la următoarea valoare"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minut"},{
+Key:1018003,Text:"minute"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"timp"},{
+Key:1018006,Text:"ore"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"Ziua"},{
+Key:1018009,Text:"zile"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"Săptămâna"},{
+Key:1018012,Text:"săptămâni"},{
+Key:1018013,Text:"lună"},{
+Key:1018014,Text:"lună"},{
+Key:1018015,Text:"an"},{
+Key:1018016,Text:"de ani"},{
+Key:1019000,Text:"Închide"},{
+Key:1019001,Text:"Reducerea"},{
+Key:1019002,Text:"Marire"},{
+Key:1019003,Text:"Nivel inferior"},{
+Key:1019004,Text:"ajutor"},{
+Key:1019100,Text:"&Căutare"},{
+Key:1019101,Text:"&Ştergeţi"},{
+Key:1019301,Text:"&ok"},{
+Key:1019302,Text:"&Revocare"},{
+Key:1019303,Text:"&da"},{
+Key:1019304,Text:"&Non"},{
+Key:1019305,Text:"&Să abandoneze"},{
+Key:1019306,Text:"&Încercați din nou"},{
+Key:1019307,Text:"&Ignora"},{
+Key:1019308,Text:"&Revocare"},{
+Key:1019309,Text:"&Taie"},{
+Key:1019310,Text:"&Copie"},{
+Key:1019311,Text:"&Pastă"},{
+Key:1019312,Text:"&Ştergeţi"},{
+Key:1019313,Text:"&Selectează tot"},{
+Key:1020000,Text:"Geneza"},{
+Key:1020001,Text:"Exodul"},{
+Key:1020002,Text:"Levitic"},{
+Key:1020003,Text:"Numere"},{
+Key:1020004,Text:"Deuteronom"},{
+Key:1020005,Text:"Iosua"},{
+Key:1020006,Text:"Judecători"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Regi"},{
+Key:1020011,Text:"2 Regi"},{
+Key:1020012,Text:"1 Cronici"},{
+Key:1020013,Text:"2 Cronici"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Neemia"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Locuri de muncă"},{
+Key:1020018,Text:"Psalmi"},{
+Key:1020019,Text:"Proverbe"},{
+Key:1020020,Text:"Eclesiastul"},{
+Key:1020021,Text:"Cântarea Cântărilor"},{
+Key:1020022,Text:"Isaia"},{
+Key:1020023,Text:"Ieremia"},{
+Key:1020024,Text:"Prohodul lui Ieremia"},{
+Key:1020025,Text:"Ezekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Osea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadia"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICA"},{
+Key:1020033,Text:"Naum"},{
+Key:1020034,Text:"Habacuc"},{
+Key:1020035,Text:"Tefania"},{
+Key:1020036,Text:"Hagai"},{
+Key:1020037,Text:"Zaharia"},{
+Key:1020038,Text:"Maleahi"},{
+Key:1020039,Text:"Matei"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Faptele Apostolilor"},{
+Key:1020044,Text:"Romani"},{
+Key:1020045,Text:"1 Corinteni"},{
+Key:1020046,Text:"2 Corinteni"},{
+Key:1020047,Text:"Galateni"},{
+Key:1020048,Text:"Efeseni"},{
+Key:1020049,Text:"Filipeni"},{
+Key:1020050,Text:"Coloseni"},{
+Key:1020051,Text:"1 Tesaloniceni"},{
+Key:1020052,Text:"2 Tesaloniceni"},{
+Key:1020053,Text:"1 Timotei"},{
+Key:1020054,Text:"2 Timotei"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Filimon"},{
+Key:1020057,Text:"Evrei"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Petru"},{
+Key:1020060,Text:"2 Petru"},{
+Key:1020061,Text:"1 Ioan"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apocalipsa"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT @"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Are"},{
+Key:1020116,Text:"Este"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"CE"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"SISTEM DE OPERARE"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Sunt"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Deci"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Zamfir"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"JN"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH-ul"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Cursa"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"El"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

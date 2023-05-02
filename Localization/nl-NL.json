@@ -1,0 +1,2195 @@
+﻿{VersionDate:"20171228",Items:[{
+Key:1,Text:"Dutch (Netherlands)"},{
+Key:1000000,Text:"Vertaling"},{
+Key:1000001,Text:"NR."},{
+Key:1000003,Text:"&Voeg toe..."},{
+Key:1000004,Text:"Een of meer talen toevoegen aan VideoPsalm"},{
+Key:1000006,Text:"&Verzenden"},{
+Key:1000007,Text:"De labels per e-mail sturen naar VideoPsalm in de volgende Setup"},{
+Key:1000009,Text:"&Toepassen"},{
+Key:1000011,Text:"&Opslaan"},{
+Key:1000012,Text:"De taal die is geselecteerd in VideoPsalm van toepassing. De wijzigingen worden automatisch opgeslagen op voorhand."},{
+Key:1000013,Text:"Wijzigingen in de labels opslaan"},{
+Key:1000015,Text:"&Verwijderen"},{
+Key:1000016,Text:"Verwijder de geselecteerde VideoPsalm taal en al haar labels"},{
+Key:1000022,Text:"&{0}, luidende:"},{
+Key:1000024,Text:"&Talen:"},{
+Key:1000029,Text:"Sla de labels op"},{
+Key:1000030,Text:"Labels zijn veranderd.
+
+Wilt u deze wijzigingen opslaan?"},{
+Key:1000031,Text:"Verwijder een taal"},{
+Key:1000032,Text:"Wil je echt de taal {0} uit VideoPsalm verwijderen?
+
+Dit zal alle teksten van deze taal verwijderen en is onomkeerbaar."},{
+Key:1000035,Text:"VideoPsalm maakt gecomprimeerde bestanden met de extensie .zip die de teksten in hun respectievelijke taal bevat.
+Bevestig het juiste bestand aan de e-mail die verschijnt, en stuur deze e-mail naar videopsalm@gmail.com."},{
+Key:1000036,Text:"Stuur e-mail met labels"},{
+Key:1000037,Text:"<b>In dit venster 'Vertaling' kunt u de teksten wijzigen die in VideoPsalm worden weergegeven.</b>
+Dit stelt u in staat de VideoPsalm interface te vertalen, aan te passen of te corrigeren.
+
+<i>Als dit onderdeel te veel ruimte inneemt, verklein het door op de kleine knop in de linkerbovenhoek te klikken, of door met de muis het formaat te wijzigen met met de horizontale vensterafscheiding.</i>
+
+VideoPsalm is beschikbaar in verschillende talen. De VideoPsalm talen worden weergegeven in het 'Talen' deelvenster links onderaan'.
+Als uw taal niet in deze lijst wordt weergegeven, kunt u hier VideoPsalm vertalen in uw taal. Dat zal waarschijnlijk veel tijd kosten.
+
+Hier hoe u VideoPsalm in uw eigen taal krijgt:
+
+-Selecteer uw taal in de lijst, of voeg deze toe via via de knop \"<image=add2_16> Voeg toe...\".
+-In de tabel aan de rechterkant hieronder, toont VideoPsalm de labels van de geselecteerde talen.
+-Vertaal de labels in uw taal.
+
+In de tabel, kunt u op uw gemak de labels bewerken, net als in een Excel-werkblad.
+De tabel biedt een zoekvak. Dus, om alleen labels met specifieke woorden te tonen, typt u deze woorden in het zoekvak en klik vervolgens op de knop 'Zoek'.
+U kunt ook onder de kopteksten labels filteren binnen de taal met enkele specifieke woorden.
+
+Selecteer één of meer andere talen die u beheerst, om de betekenis van elk label beter te begrijpen.
+Controleer de opmerkingen omdat deze duidelijk maken waarvoor de tekst wordt gebruikt.
+
+<b>Opmerking:</b> Het is het beste om de opmerkingen in het Engels te laten, omdat veel mensen Engels begrijpen.
+
+Om het resultaat te zien van uw vertaalwerk:
+-Selecteer uw taal in het Talen venster en klik vervolgens op de knop 'Toepassen' (onder).
+
+VideoPsalm wordt getoond in de taal die u hebt geselecteerd.
+
+Vergeet niet om uw vertaalwerk op te slaan door te klikken op de knop \"<image=disk_blue> Opslaan\".
+Nadat u een nieuwe taal hebt opgeslagen, kunt u deze selecteren in het optievenster.
+
+Stuur ons uw vertalingen of correcties via email op <b>videopsalm@gmail.com</b> door te klikken op de knop '<image=mail_16> Verzenden'.
+Wanneer u op deze knop klikt, gebeuren er twee dingen:
+1. Uw e-mailprogramma wordt automatisch geopend, bijvoorbeeld Outlook.
+2. Een Explorer-map wordt geopend waarin VideoPsalm gecomprimeerde bestanden met de extensie .zip genaamd talen heeft geplaatst.
+
+Sleep het juiste bestand in de e-mail en en stuur ons deze zodat wij het kunnen opnemen in een toekomstige versie van VideoPsalm."},{
+Key:1000038,Text:"Hoe kunt u VideoPsalm in uw eigen taal vertalen?"},{
+Key:1000039,Text:"Talen waarin VideoPsalm is vertaald. Selecteer de talen waarvan u de labels wilt weergeven in de tabel. Om een nieuwe taal toe te voegen aan de lijst, klik op de knop 'Toevoegen'."},{
+Key:1001000,Text:"Talen toevoegen"},{
+Key:1001001,Text:"&Talen:"},{
+Key:1001002,Text:"Selecteer de talen toe te voegen"},{
+Key:1001003,Text:"&Toevoegen"},{
+Key:1001004,Text:"Annuleren"},{
+Key:1001005,Text:"Help (F1)"},{
+Key:1002000,Text:"Opties"},{
+Key:1002003,Text:"&Algemeen"},{
+Key:1002004,Text:"&Weergave"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Zangbundels"},{
+Key:1002015,Text:"&Bijbels"},{
+Key:1002103,Text:"&Taal:"},{
+Key:1002105,Text:"&VideoPsalm documentenmap:"},{
+Key:1002106,Text:"Kies de map VideoPsalm documenten:"},{
+Key:1002112,Text:"&Sla eventuele wijzigingen op die u aanbrengt in de Bijbelse verzen (tekst en stijl)"},{
+Key:1002202,Text:"&Aanhalingstekens vervangen door « <size=+4>'</size> » Franse aanhalingstekens « <size=+4>’</size> »"},{
+Key:1002203,Text:"&Gebruik de Franse regeling van typografie"},{
+Key:1002204,Text:"&Vervang in de liedjes, afbreekstreepjes door vaste afbreekstreepjes"},{
+Key:1002205,Text:"&Vervang in de Bijbelse verzen, afbreekstreepjes door vaste afbreekstreepjes"},{
+Key:1002304,Text:"&Rendermethode:"},{
+Key:1002306,Text:"Standaard"},{
+Key:1002307,Text:"Verbeterd"},{
+Key:1002502,Text:"&Toepassen"},{
+Key:1002503,Text:"Sla uw wijzigingen op en houd het venster geopend"},{
+Key:1002504,Text:"OK"},{
+Key:1002505,Text:"Sla uw wijzigingen op en sluit het venster"},{
+Key:1002508,Text:"Sluit het venster zonder uw wijzigingen te bewaren"},{
+Key:1002510,Text:"&Licentie van de kerk:"},{
+Key:1002513,Text:"De optionele tekst die u hier invoert kan automatisch worden weergegeven in de koptekst of de voettekst van een plaatje.
+
+Bijvoorbeeld, u kunt hier het nummer van de CCLI vergunning van uw kerk specificeren."},{
+Key:1002516,Text:"&Velden van de koptekst:"},{
+Key:1002517,Text:"&Voettekst velden:"},{
+Key:1002531,Text:"Laat u het lettertype waarin VideoPsalm wordt weergegeven wijzigen.
+
+Standaardlettertypen:
+- <b>Tahoma</b> voor Windows XP
+- <b>Segoe UI</b> voor Windows Vista, Windows 7 en Windows 8
+
+Standaard grootte: 8,25"},{
+Key:1002532,Text:"Het is nodig om VideoPsalm te herstarten voordat een wijziging van het lettertype volledig wordt doorgevoerd."},{
+Key:1002533,Text:"Als dit selectievakje is ingeschakeld, zal VideoPsalm rechte aanhalingstekens vervangen met een Franse apostrof, een komma in hoogte in de plaatjes geplaatst.
+
+Wanneer u de tekst van een lied in de editor invoert, is het raadzaam dat u het teken dat u gemakkelijk op uw toetsenbord, meestal de rechte apostrof vinden gebruikt."},{
+Key:1002534,Text:"Als dit selectievakje is ingeschakeld, herschikt VideoPsalm in het plaatje de spatiëring van enkele tekens van interpunctie overeenkomstig de Franse typografie.
+
+"},{
+Key:1002535,Text:"&Lettertype:"},{
+Key:1002536,Text:"&Grootte:"},{
+Key:1002539,Text:"Als dit selectievakje is ingeschakeld, zal VideoPsalm u tijdens het opstarten informeren over het bestaan van nieuwe functies van het programma of nieuws over:
+-de zangbundels
+-Bijbels,
+-en VideoPsalm talen.
+
+Nieuwe Zangbundels, Bijbels in nieuwe talen en nieuwe talen voor VideoPsalm worden soms toegevoegd aan de on-line bibliotheek van VideoPsalm.
+
+Wanneer dit gebeurt, worden deze in een paar klikken aan uw installatie toegevoegd via de Wizard importeren."},{
+Key:1002540,Text:"Als dit selectievakje is ingeschakeld, houdt VideoPsalm de woorden met afbreekstreepjes op dezelfde lijn op in de plaatjes.
+
+Standaard waarde voor de liedtekst: <b>aangevinkt</b>"},{
+Key:1002541,Text:"Als dit selectievakje is ingeschakeld, moet VideoPsalm de woorden gekoppeld door een afbreekstreepje op dezelfde lijn in de plaatjes wilt behouden.
+
+Standaard waarde voor de Bijbel verzen: <b>niet-gecontroleerde</b>"},{
+Key:1002542,Text:"Als dit selectievakje is ingeschakeld, laat VideoPsalm u alle wijzigingen die u hebt aangebracht in de verzen van de Bijbel (tekst en stijl) opslaan.
+
+Als dit selectievakje niet is ingeschakeld:
+
+<b>1.</b> zal VideoPsalm u niet waarschuwen dat uw Bijbels zijn veranderd wanneer u afsluit
+
+
+
+<b>2</b> wanneer u uw wijzigingen opslaat, slaat VideoPsalm deze niet op voor de Bijbels (tekst en stijl),
+
+<b>3</b> blijven uw Bijbels hetzelfde bij de volgende start van VideoPsalm."},{
+Key:1002543,Text:"Kies de taal waarin u VideoPsalm wilt weergegeven.
+
+Als uw taal niet wordt weergegeven in de lijst, misschien is beschikbaar in de VideoPsalm bibliotheek online via de Wizard importeren.
+
+Als VideoPsalm niet in uw taal bestaat, gelieve ons te contacteren via email op videopsalm@gmail.com
+
+Anderzijds kunt u helpen de teksten van VideoPsalm in uw eigen taal te vertalen via de VideoPsalm vertaling tool of eventuele fouten te corrigeren.
+
+Start het hulpprogramma vertaling VideoPsalm met de knop \"Vertaal VideoPsalm\"."},{
+Key:1002544,Text:"Selecteer hier de map van welke VideoPsalm zijn zangbundels, Bijbels, afbeeldingen en video's laadt.
+
+Wanneer u de map wijzigt, wijzigt VideoPsalm de Zangbundels, Bijbels, afbeeldingen en video's met die van de nieuwe map.
+
+<b>Let op</b> : voordat u de map wijzigt, controleer of u de wijzigingen heeft opgeslagen."},{
+Key:1002545,Text:"Wijzigen het lettertype waarin VideoPsalm wordt weergegeven.
+
+Standaard grootte: 8,25
+
+U kunt ook de tekengrootte via de opties van Windows wijzigen: Instellingen -&gt; scherm-> leesbaarheid op het scherm."},{
+Key:1002547,Text:"&VideoPsalm vertalen"},{
+Key:1002548,Text:"Hiermee opent u het hulpprogramma waarmee u kunt VideoPsalm vertalen in uw taal of spellingsfouten te corrigeren."},{
+Key:1002549,Text:"U bent de map aan het wijzigen vanwaar VideoPsalm zijn documenten zal laden.
+VideoPsalm zal de huidige documenten uit het geheugen verwijderen en vervolgens de documenten in de nieuwe map laden.
+ Dit kan een paar seconden duren.{0}
+
+
+
+Weet u zeker dat u de document map wilt wijzigen?"},{
+Key:1002550,Text:"Er zijn niet opgeslagen wijzigingen (Zangbundels, Bijbels of Liturgie).
+Als u de nieuwe map nu bevestigd, zullen de wijzigen verloren gaan."},{
+Key:1002551,Text:"De documentenmap wijzigen"},{
+Key:1002552,Text:"&Liturgie"},{
+Key:1002553,Text:"<b>Standaard patronen:</b>"},{
+Key:1002554,Text:"&liederen:"},{
+Key:1002555,Text:"&Vers van de Bijbel:"},{
+Key:1002556,Text:"&diavoorstelling afbeeldingen:"},{
+Key:1002557,Text:"&autonome video's:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Standaard automatisch vervolgen:"},{
+Key:1002560,Text:"seconden"},{
+Key:1002561,Text:"&Een taal toevoegen"},{
+Key:1002562,Text:"Hiermee opent u de Wizard importeren van de talen waarin VideoPsalm is vertaald, van waar u nieuwe talen aan uw VideoPsalm toevoegen kunt."},{
+Key:1002580,Text:"Standaard actie na een lied"},{
+Key:1002581,Text:"Hiermee bepaalt u de tekststroom standaard na het laatste vers van een song.
+
+Deze waarde wordt ook rekening gehouden met voor de nummers die u spontaan zonder liturgie weergeven.
+In de liturgie, kunt u deze waarde voor elke song."},{
+Key:1002582,Text:"Standaard actie na Bijbel verzen"},{
+Key:1002583,Text:"Hiermee bepaalt u de tekststroom standaard na het laatste vers van een bijbelse passage.
+
+Met deze waarde wordt ook rekening gehouden in de Bijbelse passages die spontaan zonder liturgie worden weergegeven.
+In de liturgie, kunt u deze waarde voor elke Bijbelpassage."},{
+Key:1002584,Text:"Standaard actie na een diavoorstelling"},{
+Key:1002585,Text:"Bepaalt de standaard actie na een diavoorstelling.
+
+In de Liturgie, kunt u de waarde voor elke afbeelding wijzigen."},{
+Key:1002586,Text:"Standaard actie na een losse video"},{
+Key:1002587,Text:"Bepaalt de standaard tekststroom na een standalone video.
+
+In de Liturgie, kunt u deze waarde voor elke zelfstandige video wijzigen."},{
+Key:1002588,Text:"Standaard actie na een PowerPoint presentatie"},{
+Key:1002589,Text:"Bepaalt de standaard tekststroom na een PowerPoint.
+
+In de Liturgie, kunt u deze waarde wijzigen voor elke PowerPoint."},{
+Key:1002590,Text:"Hiermee bepaalt u de standaard tijdsinterval in seconden voordat automatisch wordt doorgegaan naar het volgende plaatje.
+
+In de Liturgie, kunt u deze waarde wijzigen voor elk element dat automatisch plaatjes toont."},{
+Key:1002591,Text:"&De achtergrondafbeeldingen opslaan in de Liturgie (aanbevolen)"},{
+Key:1002592,Text:"De achtergrondafbeeldingen opslaan in de Liturgie"},{
+Key:1002593,Text:"Geeft aan of VideoPsalm achtergronden voor liederen en Bijbelverzen moet opslaan en in het Liturgie bestand, wanneer u het opslaat."},{
+Key:1002594,Text:"&Sla achtergrond video's op in de Liturgie (aanbevolen)"},{
+Key:1002595,Text:"Achtergrond video's opslaan in de Liturgie"},{
+Key:1002596,Text:"Bepaalt of VideoPsalm alle achtergrond video's van liedjes en Bijbel verzen in het Liturgie bestand moet bewaren, wanneer u deze opslaat."},{
+Key:1002597,Text:"&Afbeeldingen van de diavoorstelling opslaan in de Liturgie (aanbevolen)"},{
+Key:1002598,Text:"Afbeeldingen opslaan in de Liturgie"},{
+Key:1002599,Text:"Geeft aan of VideoPsalm mogelijke beelden van de diavoorstelling in het Liturgiebestand moet opslaan wanneer u opslaat."},{
+Key:1002600,Text:"&De video's in de Liturgie opslaan (aanbevolen)"},{
+Key:1002601,Text:"De video's in de Liturgie opslaan"},{
+Key:1002602,Text:"Bepaalt of VideoPsalm iedere video in de Liturgie moet bewaren, wanneer u deze opslaat."},{
+Key:1002603,Text:"&De PowerPoints opslaan in de Liturgie (aanbevolen)"},{
+Key:1002604,Text:"De PowerPoints opslaan in de Liturgie"},{
+Key:1002605,Text:"Geeft aan of VideoPsalm PowerPoints in het Liturgiebestand moet opslaan wanneer u deze opslaat."},{
+Key:1002606,Text:"Wij adviseren dat u deze optie selecteert, vooral als u uw Liturgie op een andere PC dan degene waarop u uw presentatie wilt weergeven voor te bereiden."},{
+Key:1002607,Text:"&Wijzig tekst"},{
+Key:1002608,Text:"&Lettertype:"},{
+Key:1002609,Text:"Specificeert het lettertype waarin u de tekst van liederen en Bijbel verzen bewerkt.
+
+Dit lettertype hoeft niet hetzelfde te zijn als die op het projectiescherm wordt gebruikt."},{
+Key:1002610,Text:"&Tekstgrootte:"},{
+Key:1002611,Text:"Specificeert de grootte van het lettertype waarin u de tekst van liederen en Bijbel verzen bewerkt.
+
+Deze grootte hoeft niet hetzelfde te zijn als die op het projectiescherm wordt gebruikt."},{
+Key:1002612,Text:"&Lettertype van de akkoorden:"},{
+Key:1002613,Text:"Specificeert het lettertype waarin u de akkoordenen van een lied bewerken.
+
+Dit lettertype wordt niet met name gebruikt om akkoorden op het scherm van de presentatie weer te geven."},{
+Key:1002614,Text:"&Akkoord lettertype grootte:"},{
+Key:1002615,Text:"Specificeert de grootte van het lettertype van de akkoorden van een lied in de tekstverwerker aan.
+
+Deze tekengrootte hoeft niet hetzelfde te zijn als die op het projectiescherm wordt gebruikt."},{
+Key:1002616,Text:"&Kleur van de akkoorden:"},{
+Key:1002617,Text:"Specificeert de kleur waarmee de akkoorden worden weergegeven in de tekstverwerker.
+
+Deze kleur hoeft niet hetzelfde te zijn op het projectiescherm."},{
+Key:1002618,Text:"&Vaste witte kleur:"},{
+Key:1002619,Text:"Specificeert de kleur waarin de niet-afbreekbare spaties worden weergegeven in de tekstverwerker."},{
+Key:1002620,Text:"&Kleur van de couplet markering:"},{
+Key:1002621,Text:"Hiermee geeft u de kleur waarin de coupletten worden gemarkeerd in de teksteditor."},{
+Key:1002622,Text:"&Transparantie van de couplet markeringen:"},{
+Key:1002623,Text:"Specificeert de transparantie van de markeerkleur die wordt gebruikt om de coupletten te markeren in de tekstverwerker."},{
+Key:1002624,Text:"&Kleur van de akkoorden van ChordPro:"},{
+Key:1002625,Text:"Specificeert de kleur waarin de ChordPro akkoorden worden gemarkeerd in de tekstmodus ChordPro Editor."},{
+Key:1002626,Text:"&Transparantie van de ChordPro akkoorden:"},{
+Key:1002627,Text:"Bepaalt de transparantie van de highlight kleur waarmee de ChordPro akkoorden worden getoond in de tekstverwerker tijdens ChordPro tekstmodus."},{
+Key:1002628,Text:"&Lettertypen vervangen (aanbevolen)"},{
+Key:1002629,Text:"Laat de tekst-editor toe om ontbrekende tekens in het huidige lettertype te vervangen door die van een ander automatisch geselecteerd lettertype.
+
+Schakel tekenvervanging uit als u een niet-Unicode lettertype gebruikt that transliteratie (schriftsysteem) gebruikt. Dit is het geval met sommige Hindi, Tamil, Bamati, Malayalam lettertypes, enz.
+
+Het is beter om een Unicode lettertype te gebruiken.
+Om liederen in uw schriftsysteem in Unicode tekst om te zetten, gebruikt u een online service, bijvoorbeeld hier: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Toegang tot een vereenvoudigde tekstverwerker, compatibel met Scripture RTL"},{
+Key:1002631,Text:"Hiermee geeft u weer een extra knop aan de linkerkant van de werkbalk van de teksteditor, die toegang biedt tot een modus vereenvoudigd bewerken van de tekst van de liedjes.
+
+Deze vereenvoudigde Editor is compatibel met het schrijven van rechts naar links (RTL), met name voor het Arabisch en Hebreeuws."},{
+Key:1002632,Text:"Kies de manier van video-opbouw die het beste voor uw PC werkt. VideoPsalm kan video's in wmv op de meeste PC's weergeven."},{
+Key:1002633,Text:"&Meldingen"},{
+Key:1002634,Text:"<b>Melden als er bij het opstarten:</b>"},{
+Key:1002635,Text:"&Een nieuwe versie van VideoPsalm is (aanbevolen)"},{
+Key:1002636,Text:"&Nieuwe zangbundels zijn (aanbevolen)"},{
+Key:1002637,Text:"&Nieuwe Bijbels zijn (aanbevolen)"},{
+Key:1002638,Text:"&Nieuwe talen zijn (aanbevolen)"},{
+Key:1002639,Text:"Zet de automatische &proxy detectie aan, in geval van problemen met de verbinding"},{
+Key:1002640,Text:"Zet automatisch ontdekken van een proxy aan"},{
+Key:1002641,Text:"Geeft aan of VideoPsalm de aanwezigheid van een proxy automatisch moet detecteren om u te informeren over nieuwe producten of updates. 
+
+
+
+Als VideoPsalm geen zangbundels of bijbels uit de online bibliotheek kan downloaden, selecteert u deze optie en probeert u het opnieuw.
+ 
+
+
+Selecteer deze optie dus alleen als het niet lukt, aangezien deze optie zorgt voor een vertraging bij het downloaden van zangbundels en Bijbels uit de online bibliotheek van VideoPsalm."},{
+Key:1002642,Text:"&Verberg sociale pictogrammen"},{
+Key:1002643,Text:"Hiermee verbergt u de werkbalk sociale pictogrammen (Facebook, Twitter en YouTube).
+
+Deze pictogrammen blijven verborgen waneer er geen internet-verbinding is."},{
+Key:1002644,Text:"&Sla audio op in de Liturgie (aanbevolen)"},{
+Key:1002645,Text:"Audio nummers opslaan in de Liturgie"},{
+Key:1002646,Text:"Geeft aan of VideoPsalm alle audio van de nummers in het Liturgiebestand moet opslaan wanneer u deze opslaat."},{
+Key:1002648,Text:"&Aanpassing"},{
+Key:1002649,Text:"&Video camera"},{
+Key:1002650,Text:"&Vorige"},{
+Key:1002651,Text:"&Basis"},{
+Key:1002652,Text:"&Tekst"},{
+Key:1002653,Text:"&Schild"},{
+Key:1002654,Text:"&Sneeuwvlok"},{
+Key:1002655,Text:"&Punaise"},{
+Key:1002656,Text:"</b>Verschuif paneel</b>"},{
+Key:1002657,Text:"&Volgende"},{
+Key:1002658,Text:"<b>Werkbalk</b>"},{
+Key:1002659,Text:"<b>Liturgie paneel</b>"},{
+Key:1002660,Text:"Verplaats om&hoog"},{
+Key:1002661,Text:"&Omlaag"},{
+Key:1002662,Text:"&Knopinfo verbergen"},{
+Key:1002663,Text:"Detecteer automatisch de resolutie van het presentatie scherm (aanbevolen)"},{
+Key:1002664,Text:"Ruimte &rechts:"},{
+Key:1002665,Text:"Ruimte &onder:"},{
+Key:1002666,Text:"Documenten gerelateerd aan liederen (afbeeldingen, video's, audio, PowerPoints, PDF's, etc.)"},{
+Key:1002668,Text:"Laat zien of VideoPsalm in het liturgie bestand (.vpagd) de documenten opslaat, gerelateerd aan liederen en Bijbel verzen, die u erin heeft gesleept."},{
+Key:1002669,Text:"Het wordt aangeraden deze optie te selecteren, vooral wanneer de liturgie wordt voorbereid op een andere PC dan waarop de presentatie wordt gedaan."},{
+Key:1002670,Text:"Documenten opgeslagen in de liturgie (afbeeldingen, video's, audio, PowerPoints, PDF's, etc.)"},{
+Key:1002671,Text:"Laat zien of VideoPsalm in het liturgie bestand (.vpagd) de documenten opslaat, die u erin heeft gesleept."},{
+Key:1002672,Text:"&Maak een backup van de documenten"},{
+Key:1002673,Text:"&YouTube :"},{
+Key:1002674,Text:"&Initialiseren"},{
+Key:1002675,Text:"Laat zien hoe VideoPsalm de nieuwe linken naar Vimeo videos opmaakt. De ljst van mogelijke parameters kan hier gevonden worden: developers.google.com/youtube/
+player_parameters"},{
+Key:1002676,Text:"Toon de &schaduw effecten (aanbevolen)"},{
+Key:1002677,Text:"Deselecteer deze optie wanneer VideoPsalm langzaam tekst toont, of als een \"geheugen\" fout zich voordoet."},{
+Key:1002678,Text:"Selecteer deze optie om VideoPsalm te instrueren backup/herstel kopieën van uw zangbundels en Bijbels te laten maken."},{
+Key:1002679,Text:"&Vimeo:"},{
+Key:1002680,Text:"Initialiseren"},{
+Key:1002681,Text:"Laat zien hoe VideoPsalm de nieuwe linken naar Vimeo videos opmaakt. De ljst van mogelijke parameters kan hier gevonden worden: developer.vimeo.com/
+apis/oembed"},{
+Key:1002682,Text:"Wijzig kolom breedte"},{
+Key:1002683,Text:"<b>Liturgie</b>"},{
+Key:1002684,Text:"&Stijl:"},{
+Key:1002685,Text:"&Zangbundel:"},{
+Key:1002686,Text:"&Nummer:"},{
+Key:1002687,Text:"&Volgorde:"},{
+Key:1002688,Text:"<b>Plaatjes</b>"},{
+Key:1002689,Text:"&Zichtbaarheid:"},{
+Key:1002690,Text:"&Nummer:"},{
+Key:1002691,Text:"Selecteer deze optie om de sommige kolom breedtes aan te passen die te smal zijn, afhankelijk van de scherm resolutie. "},{
+Key:1002692,Text:"Ruimte &links:"},{
+Key:1002693,Text:"Ruimte &boven:"},{
+Key:1002694,Text:"Presentatie scherm"},{
+Key:1002695,Text:"PowerPoint"},{
+Key:1002696,Text:"Deselecteer deze optie om de grootte van het presentatie scherm aan te passen, bijvoorbeeld wanneer er op een TV scherm wordt weergegeven die een gedeelte van de randen weglaat."},{
+Key:1002697,Text:"Deselecteer deze optie om de grootte van het PowerPoint presentatie scherm aan te passen, wanneer dit op een onverwachtte positie wordt weergegeven."},{
+Key:1002698,Text:"Voeg codecs toe om meer video formaten te tonen (AVI, MOV, MP4, etc.)"},{
+Key:1002699,Text:"<b>Bijbel vers zoeken op woord of zinsdeel</b>"},{
+Key:1002700,Text:"&Verwijzingen:"},{
+Key:1002701,Text:"<b>URL format voor online videospelers:</b>"},{
+Key:1002702,Text:"<b>Sla de volgende onderdelen op in het liturgie bestand (aanbevolen) :</b>"},{
+Key:1003000,Text:"Versie {0} van {1} "},{
+Key:1003003,Text:"Sluiten"},{
+Key:1003005,Text:"&Neem contact op met VideoPsalm"},{
+Key:1003006,Text:"Open Outlook (uw e-mail client) om een e-mail te sturen naar VideoPsalm"},{
+Key:1003007,Text:"Deze versie is bijgewerkt"},{
+Key:1003008,Text:"&Werk mijn versie bij"},{
+Key:1003009,Text:"Er is een nieuwere versie van VideoPsalm:
+Versie {0} voor de plaat 1: {o}.
+Klik op deze knop om de downloadpagina te openen.
+Hier vindt u de geschiedenis van de wijzigingen
+en een download link."},{
+Key:1003011,Text:"- Raporteer een fout (bug)
+- Maak een opmerking of een suggestie"},{
+Key:1003012,Text:"E-mailadres: videopsalm@gmail.com"},{
+Key:1003500,Text:"Herstel de toonzetting"},{
+Key:1003501,Text:"Transponeer een halve toon hoger"},{
+Key:1003502,Text:"Transponeer een halve toon lager"},{
+Key:1003503,Text:"Zonder"},{
+Key:1003504,Text:"Zet de capo terug zijn naar oorspronkelijke plaats"},{
+Key:1003505,Text:"Verplaats de capo lager op de hals"},{
+Key:1003506,Text:"Verplaats de capo hoger op de hals"},{
+Key:1003507,Text:"Zonder"},{
+Key:1003508,Text:"Bekijk het audiobestand op zang"},{
+Key:1003509,Text:"&Audio-bestand:"},{
+Key:1003510,Text:"Selecteer de audio bestanden om te importeren en klik vervolgens op 'open'."},{
+Key:1003511,Text:"U hebt {0} audiobestand(en) geïmporteerd."},{
+Key:1003512,Text:"Geen audio-bestand is ingevoerd.
+(Hij (s) is al (s) gevonden in de lijst)."},{
+Key:1003513,Text:"Audiobestanden importeren"},{
+Key:1003514,Text:"Audio-bestanden"},{
+Key:1003515,Text:"Sleutelwoorden zoeken in de afbeeldingen"},{
+Key:1003516,Text:"Zonder beeld"},{
+Key:1003517,Text:"Zonder video"},{
+Key:1003518,Text:"&Bestanden"},{
+Key:1003519,Text:"&De bas weergeven"},{
+Key:1003520,Text:"Sleutelwoorden zoeken in de video 's"},{
+Key:1003521,Text:"&Zangbundel van geïmporteerde nummers van CCLI / SongSelect"},{
+Key:1003522,Text:"CCLI liedjes"},{
+Key:1003523,Text:"Invoer van CCLI liedjes"},{
+Key:1003524,Text:"{0} nummers waren al in de zanbundel  '{1}' en werden niet geïmporteerd."},{
+Key:1003525,Text:"&Zoeken"},{
+Key:1003526,Text:"&Helderheid:"},{
+Key:1003527,Text:"&Zoeken"},{
+Key:1003528,Text:"&Helderheid:"},{
+Key:1003529,Text:"Bericht"},{
+Key:1003530,Text:"Lettertype"},{
+Key:1003531,Text:"Kleuren"},{
+Key:1003532,Text:"Bericht"},{
+Key:1003533,Text:"Zichtbaarheid"},{
+Key:1003534,Text:"Model"},{
+Key:1003535,Text:"Type"},{
+Key:1003536,Text:"Aftellen"},{
+Key:1003537,Text:"Stopwatch"},{
+Key:1003538,Text:"Opties"},{
+Key:1003539,Text:"Transparantie"},{
+Key:1003540,Text:"Het bericht weergegeven"},{
+Key:1003541,Text:"Achtergrond"},{
+Key:1003542,Text:"De klok weergeven"},{
+Key:1003543,Text:"Klok"},{
+Key:1003544,Text:"Aftellen"},{
+Key:1003545,Text:"Stopwatch"},{
+Key:1003546,Text:"Tijdens"},{
+Key:1003547,Text:"Tot"},{
+Key:1003548,Text:"Start"},{
+Key:1003549,Text:"Pauze"},{
+Key:1003550,Text:"Stop"},{
+Key:1003551,Text:"Stijl"},{
+Key:1003552,Text:"Vet"},{
+Key:1003553,Text:"Cursief"},{
+Key:1003554,Text:"Benadrukt"},{
+Key:1003555,Text:"Secondenwijzer weergeven"},{
+Key:1003556,Text:"Seconden schokkerig"},{
+Key:1003557,Text:"Minuten schokkerig"},{
+Key:1003558,Text:"Cijfers weergeven"},{
+Key:1003559,Text:"Minuten weergeven"},{
+Key:1003560,Text:"Uren weergeven"},{
+Key:1003561,Text:"Videocamera"},{
+Key:1003562,Text:"Hiermee geeft u het camerabeeld weer achter de tekst."},{
+Key:1003563,Text:"&liederen toevoegen aan het CILC formaat..."},{
+Key:1003564,Text:"Importeren..."},{
+Key:1003565,Text:"Importeren"},{
+Key:1003566,Text:"Maakt het mogelijk om audio bestanden te importeren in uw VideoPsalm"},{
+Key:1003567,Text:"Navigeren..."},{
+Key:1003568,Text:"Bladeren"},{
+Key:1003569,Text:"Hiermee opent u de map van audio-bestanden door uw VideoPsalm"},{
+Key:1003570,Text:"&Start (ms):"},{
+Key:1003571,Text:"&Einde (ms):"},{
+Key:1003572,Text:"&Volume:"},{
+Key:1003573,Text:"&Herhaal"},{
+Key:1003575,Text:"&Gewijzigd"},{
+Key:1003576,Text:"&Versie van:"},{
+Key:1003577,Text:"\"Rechts naar links\" tekstverwerker"},{
+Key:1003578,Text:"Hiermee schakelt u tussen een standaard tekst-editor (schrijven van links naar rechts) en een links 'Right' Editor voor Arabisch, Hebreeuws, enz."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Altijd gezamenlijk Toon (tweetalig)"},{
+Key:1003581,Text:"&Positie:"},{
+Key:1003582,Text:"&Guid :"},{
+Key:1003584,Text:"Liederen"},{
+Key:1003585,Text:"Importeer liederen in text formaat"},{
+Key:1003586,Text:"Website"},{
+Key:1003593,Text:"&Website"},{
+Key:1003594,Text:"Automatische terugloop"},{
+Key:1003595,Text:"Zoals het is"},{
+Key:1003596,Text:"Alles in HOOFDLETTERS"},{
+Key:1003597,Text:"Eerste letter als hoofdletter"},{
+Key:1003598,Text:"Alles in kleine letters"},{
+Key:1003599,Text:"Hoofdletters/kleine letters"},{
+Key:1003600,Text:"Lettertype vergroten"},{
+Key:1003601,Text:"Lettertype verkleinen"},{
+Key:1003602,Text:"Voeg twee zangbundels samen"},{
+Key:1003603,Text:"Wilt u werkelijk alle liederen van de  “{0}” zangbundel» naar “{1}” verplaatsen? (De zangbundel “{0}” zal worden verwijderd)."},{
+Key:1003604,Text:"Liederen van de  “{0}” zangbundel» hebben dezelfde nummers als sommige in “{1}”.Moeten de liederen in de zangbundel “{0}” worden hernummerd?"},{
+Key:1003605,Text:"Splits een zangbundel"},{
+Key:1003606,Text:"Wilt u werkelijk de “{0}” zangbundel opsplitsen vlak voor het “{0}” lied?"},{
+Key:1003607,Text:"Moeten de opgesplitste liederen genummerd worden vanaf 1?"},{
+Key:1003608,Text:"- Meer"},{
+Key:1003609,Text:"Het “{0}” document bestaat al in uw bibliotheek.
+Bestand “{1}”
+Het is niet mogelijk om het opnieuw toe te voegenn."},{
+Key:1003610,Text:"Het “{0}” document was toegevoegd aan uw bibliotheek."},{
+Key:1003611,Text:"&Website"},{
+Key:1003613,Text:"&Verwijder de zangbundel"},{
+Key:1003614,Text:"Verwijder de geselecteerde zangbundel."},{
+Key:1003615,Text:"&Verwijder het lied"},{
+Key:1003616,Text:"Verwijder het geslecteerde lied."},{
+Key:1003617,Text:"&Verwijder de Bijbel"},{
+Key:1003618,Text:"Verwijder de geselecteerde Bijbel."},{
+Key:1003619,Text:"PD&F..."},{
+Key:1003620,Text:"&Excel..."},{
+Key:1003621,Text:"&Word..."},{
+Key:1003622,Text:"&Audio..."},{
+Key:1003623,Text:"Dupliceren (Ctrl + Slepen)"},{
+Key:1003624,Text:"Word"},{
+Key:1003625,Text:"Excel"},{
+Key:1003626,Text:"PDF"},{
+Key:1003627,Text:"Audio"},{
+Key:1003628,Text:"Audio's"},{
+Key:1003629,Text:"PDFs"},{
+Key:1003630,Text:"Words"},{
+Key:1003631,Text:"Excels"},{
+Key:1003632,Text:"U heeft {0} video bestanden geïmporteerd."},{
+Key:1003633,Text:"Er is geen video bestand geïmporteerd (ze zijn al in de lijst)."},{
+Key:1003634,Text:"Video bestanden importeren"},{
+Key:1003635,Text:"Video bestanden"},{
+Key:1003636,Text:"U heeft {0} PowerPoint bestanden geïmporteerd."},{
+Key:1003637,Text:"Er is geen PowerPoint bestand geïmporteerd (ze zijn al in de lijst)."},{
+Key:1003638,Text:"Importeer PowerPoint bestanden"},{
+Key:1003639,Text:"PowerPoint bestanden"},{
+Key:1003640,Text:"U heeft {0} PDF bestanden geïmporteerd."},{
+Key:1003641,Text:"Er is geen PDF bestand geïmporteerd (ze zijn al in de lijst)."},{
+Key:1003642,Text:"Importeer PDF bestanden"},{
+Key:1003643,Text:"PDF bestanden"},{
+Key:1003644,Text:"U heeft {0} Word bestanden geïmporteerd."},{
+Key:1003645,Text:"Er is geen Word bestand geïmporteerd (ze zijn al in de lijst)."},{
+Key:1003646,Text:"Importeer Word bestanden"},{
+Key:1003647,Text:"Word bestanden"},{
+Key:1003648,Text:"U heeft {0} Excel bestanden geïmporteerd."},{
+Key:1003649,Text:"Er zijn geen Excel bestanden geïmporteerd.
+(ze bestaan al de lijst)."},{
+Key:1003650,Text:"Importeer Excel bestanden"},{
+Key:1003651,Text:"Excel bestanden"},{
+Key:1003652,Text:"Selecteer de video bestanden om te importeren,  klik dan “Open”"},{
+Key:1003653,Text:"Selecteer de PowerPoint bestanden om te importeren,  klik dan “Open”"},{
+Key:1003654,Text:"Selecteer de PDF bestanden om te importeren,  klik dan “Open”"},{
+Key:1003655,Text:"Selecteer de Wordl bestanden om te importeren,  klik dan “Open”"},{
+Key:1003656,Text:"Selecteer de Excel bestanden om te importeren,  klik dan “Open”"},{
+Key:1003657,Text:"Help (F1)"},{
+Key:1003658,Text:"Opent een webpagina met hulp voor VideoPsalm."},{
+Key:1003659,Text:"<b>Opgelet</b>Om een document aan de liturgie toe te voegen,
+klik op de kleine “▼” knop."},{
+Key:1003800,Text:"Er zijn {0} verborgen zangbundel(s). Klik hier met de rechter muisknop en selecteer “{1}”
+ om ze te tonen."},{
+Key:1003801,Text:"&Voeg een document toe..."},{
+Key:1003802,Text:"&Nieuw lied (Ctrl+N)"},{
+Key:1003803,Text:"Akkoorden tussen [ ] "},{
+Key:1003804,Text:"Selecteer deze optie wanneer liederen haakjes bevatten die akkoorden voorstellen, bijvoorbeeld [E]."},{
+Key:1003805,Text:"Akkoorden tussen [ ] "},{
+Key:1003806,Text:"Ja"},{
+Key:1003807,Text:"Nee"},{
+Key:1003808,Text:"Verkregen uit de zangbundel (aanbevolen)"},{
+Key:1003809,Text:"Eerste plaatje"},{
+Key:1003810,Text:"Laatste plaatje"},{
+Key:1003811,Text:"Middelste plaatjes"},{
+Key:1003812,Text:"All plaatjes"},{
+Key:1003813,Text:"Geen plaatje"},{
+Key:1003814,Text:"Instellingen"},{
+Key:1003815,Text:"Bericht instellingen"},{
+Key:1003816,Text:"Instellingen"},{
+Key:1003817,Text:"Klok instellingen"},{
+Key:1003818,Text:"&Akkoorden"},{
+Key:1003819,Text:"Bericht"},{
+Key:1003820,Text:"Klok"},{
+Key:1003821,Text:"Tonen"},{
+Key:1003822,Text:"Tonen"},{
+Key:1003823,Text:"&CCLI lied..."},{
+Key:1003824,Text:"VideoPsalm heeft problemen met het openen van het volgende PowerPoint bestand:"},{
+Key:1003825,Text:"VideoPsalm kon slechts de eerste {0} Bijbels laden, om geheugenproblemen te voorkomen."},{
+Key:1003826,Text:"Laat zien of de tekst binnen haakjes getoont zal worden als akkoorden boven de tekst."},{
+Key:1003827,Text:"Relateer een video aan het lied, om te tonen in de plaats van de liedtekst."},{
+Key:1003828,Text:"Relateer een audio bestand aan een lied, om af te spelen in de plaats van de liedtekst."},{
+Key:1003829,Text:"Relateer een PowerPoint document aan een lied, om te tonen in de plaats van de liedtekst."},{
+Key:1003830,Text:"Relateer een PDF document aan een lied, om te tonen in de plaats van de liedtekst."},{
+Key:1003831,Text:"Relateer een PowerPoint document aan een lied, om te tonen in de plaats van de liedtekst."},{
+Key:1003832,Text:"Relateer een Word document aan een lied, om te tonen in de plaats van de liedtekst."},{
+Key:1003833,Text:"Relateer een Excel document aan een lied, om te tonen in de plaats van de liedtekst."},{
+Key:1003834,Text:"&Importeer..."},{
+Key:1003835,Text:"&Ververs"},{
+Key:1003836,Text:"&Navigeer naar..."},{
+Key:1003837,Text:"Deze actie zal {0} stijlen verwijderen."},{
+Key:1003838,Text:"Er is geen hogere stijl om te verwijderen."},{
+Key:1003839,Text:"Zangbundels inklappen"},{
+Key:1003840,Text:"Terug"},{
+Key:1003841,Text:"Ga terug naar het vorige plaatje"},{
+Key:1003842,Text:"Om&laag"},{
+Key:1003843,Text:"Om&hoog"},{
+Key:1003844,Text:"Splits de zangbundel voor dit lied"},{
+Key:1003845,Text:"Samen&voegen met"},{
+Key:1003846,Text:"&Opslaan Zangbundel"},{
+Key:1004050,Text:"Lettertype"},{
+Key:1004051,Text:"Grootte"},{
+Key:1004052,Text:"Vet"},{
+Key:1004053,Text:"Cursief"},{
+Key:1004054,Text:"Onderstreept"},{
+Key:1004055,Text:"Uitlijning"},{
+Key:1004056,Text:"Verticale uitlijning"},{
+Key:1004057,Text:"Animatie"},{
+Key:1004058,Text:"Duur"},{
+Key:1004059,Text:"Volume"},{
+Key:1004060,Text:"Dempen?"},{
+Key:1004061,Text:"Begin"},{
+Key:1004062,Text:"Einde"},{
+Key:1004063,Text:"Herhalen?"},{
+Key:1004064,Text:"Zie grotere afbeelding"},{
+Key:1004065,Text:"Laat lange regels automatisch teruglopen"},{
+Key:1004066,Text:"Hoofdletters/kleine letters"},{
+Key:1004100,Text:"Kleuren"},{
+Key:1004101,Text:"Vullen"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Breedte van de entourage"},{
+Key:1004104,Text:"Schaduw"},{
+Key:1004105,Text:"Straal van de schaduw"},{
+Key:1004106,Text:"Diepte van de schaduw"},{
+Key:1004107,Text:"Richting van de schaduw"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Afbeelding"},{
+Key:1004153,Text:"Kleur"},{
+Key:1004156,Text:"Hoofdtekst kader"},{
+Key:1004157,Text:"Koptekst kader"},{
+Key:1004158,Text:"Voettekst kader"},{
+Key:1004500,Text:"De Liturgie kopiëren naar het Klembord"},{
+Key:1004501,Text:"Een beschrijving van de Liturgie is in het Klembord geplaatst."},{
+Key:1004502,Text:"Zoekwoorden (titel en tekst) of nummer om te zoeken"},{
+Key:1004503,Text:"Zoekwoorden (titel dan tekst) of nummer om te zoeken"},{
+Key:1004504,Text:"Woorden (titel) of om te zoeken naar Nee."},{
+Key:1004505,Text:"Woorden (auteur en componist) of Nee om te zoeken."},{
+Key:1004506,Text:"Woorden (thema's) of nummer om te zoeken"},{
+Key:1004507,Text:"Woorden (referenties) of nummer om te zoeken"},{
+Key:1004508,Text:"CCLI om te zoeken"},{
+Key:1004509,Text:"Woorden (copyright) of nummer om te zoeken"},{
+Key:1004510,Text:"Zoekwoorden (memo1) of nummer om te zoeken"},{
+Key:1004511,Text:"Zoekwoorden (memo2) of nummer om te zoeken"},{
+Key:1004512,Text:"Zoekwoorden (memo3) of nummer om te zoeken"},{
+Key:1004513,Text:"Liederen met akkoorden"},{
+Key:1004514,Text:"Samenvatting van de zangbundel kopiëren"},{
+Key:1004515,Text:"De zangbundel samenvatting is op het Klembord geplaatst."},{
+Key:1005001,Text:"Klaar met laden"},{
+Key:1005002,Text:"Lied van \"{0}\""},{
+Key:1005003,Text:"Laden van video 's"},{
+Key:1005004,Text:"Kan de video '{0}' niet lezen .
+{1}"},{
+Key:1005005,Text:"Laden van afbeeldingen"},{
+Key:1005006,Text:"Kan afbeelding '{0}' niet lezen.
+{1}"},{
+Key:1005007,Text:"Laden van stijlen"},{
+Key:1005008,Text:"Vullen van de lijst met zangbundels ({0} liederen in {1} zangbundels)"},{
+Key:1005009,Text:"De geselecteerde Liturgie-onderdelen verwijderen?"},{
+Key:1005010,Text:"Items verwijderen"},{
+Key:1005011,Text:"Nieuwe Zangbundel"},{
+Key:1005012,Text:"Nieuw lied"},{
+Key:1005013,Text:"De liturgie is leeg.
+Open een liturgie, of sleep liederen en verzen hiernaartoe om ze aan de Liturgie toe te voegen.
+Sleep documenten van uw bureaublad:
+
+Afbeeldingen, losstaande videos
+Audio bestanden, PDFs
+PowerPoints, MS-Word, MS-Excel
+Open Office documenten
+CCLI liederen, websites
+YouTube, Vimeo"},{
+Key:1005014,Text:"Er is geen plaatje om te tonen.
+Selecteer een lied, Bijbel vers of ander liturgie onderdeel om te presenteren."},{
+Key:1005015,Text:"Wilt u echt de zangbundel '{0}' verwijderen?
+
+Het bestand dat overeenkomt met deze zangbundel zal niet worden verwijderd van de schijf:
+
+de extensie wordt gewijzigd in \".ignore\"."},{
+Key:1005016,Text:"Een zangbundel verwijderen"},{
+Key:1005017,Text:"Wilt u het nummer '{0}' verwijderen?
+
+Nadat uw wijzigingen zijn opgeslagen, wordt de verwijdering van dit lied onomkeerbaar."},{
+Key:1005018,Text:"Een lied verwijderen"},{
+Key:1005019,Text:"Alle items van de Liturgie verwijderen?"},{
+Key:1005020,Text:"Alles verwijderen"},{
+Key:1005021,Text:"Liturgie zonder naam"},{
+Key:1005022,Text:"Lege liturgie"},{
+Key:1005023,Text:"De huidige Liturgie heeft niet-opgeslagen wijzigingen.
+ Wilt u deze wijzigingen opslaan?"},{
+Key:1005024,Text:"De Liturgie opslaan"},{
+Key:1005025,Text:"Eén of meer zangbundels hebben niet-opgeslagen wijzigingen.
+Wilt u deze wijzigingen opslaan?"},{
+Key:1005026,Text:"Sla zangbundels op"},{
+Key:1005027,Text:"Een of meer Bijbels hebben niet-opgeslagen wijzigingen.
+Wilt u deze wijzigingen opslaan?"},{
+Key:1005028,Text:"De Bijbels opslaan"},{
+Key:1005029,Text:"Documenten toevoegen aan de Liturgie"},{
+Key:1005030,Text:"Liturgieën"},{
+Key:1005031,Text:"Afbeeldingen"},{
+Key:1005032,Text:"Video 's"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"De Liturgie opslaan onder"},{
+Key:1005035,Text:"CCLI liedjes"},{
+Key:1005036,Text:"Er is nog geen zangbundel.
+Klik hier om te beginnen met de de import Wizard
+of
+Maak een nieuwe zangbundel en voeg uw eigen liederen toe vanuit de \"Wijzigingen\" tab."},{
+Key:1005037,Text:"Indeling {0}
+{1} × {2} pixels"},{
+Key:1005038,Text:"ms {0}"},{
+Key:1005039,Text:"Wil je echt alle stijlen boven '{0}' verwijderen?"},{
+Key:1005040,Text:"De zangbundel '{0}' is uitgesloten van zoekacties."},{
+Key:1005041,Text:"Weergeven of overslaan van plaatjes"},{
+Key:1005042,Text:"Seizoenen"},{
+Key:1005043,Text:"Lente"},{
+Key:1005044,Text:"Zomer"},{
+Key:1005045,Text:"Kerstmis"},{
+Key:1005046,Text:"Thema 's"},{
+Key:1005047,Text:"Karamel"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Verbeelding"},{
+Key:1005050,Text:"Darkroom"},{
+Key:1005051,Text:"Mist"},{
+Key:1005052,Text:"Blauwdruk"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort contrast"},{
+Key:1005055,Text:"Office"},{
+Key:1005056,Text:"Office 2010 blauw"},{
+Key:1005057,Text:"Office 2010 zilver"},{
+Key:1005058,Text:"Office 2010 zwart"},{
+Key:1005059,Text:"Office 2007 blauw"},{
+Key:1005060,Text:"Office 2007 groen"},{
+Key:1005061,Text:"Office 2007 roze"},{
+Key:1005062,Text:"Office 2007 zilver"},{
+Key:1005063,Text:"Office 2007 zwart"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropool"},{
+Key:1005066,Text:"Zeven"},{
+Key:1005067,Text:"Zeven Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Wierook"},{
+Key:1005070,Text:"Rook"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Kleuren"},{
+Key:1005073,Text:"Vloeibare lucht"},{
+Key:1005074,Text:"Londen hemel"},{
+Key:1005075,Text:"Blauw"},{
+Key:1005076,Text:"Geld Twins"},{
+Key:1005077,Text:"Zwart goud"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Scherpe"},{
+Key:1005080,Text:"Scherpe meer"},{
+Key:1005081,Text:"Sterren"},{
+Key:1005082,Text:"Oceanen van glas"},{
+Key:1005083,Text:"De Asvalt Wereld"},{
+Key:1005084,Text:"Koffie"},{
+Key:1005085,Text:"Sterrenstof"},{
+Key:1005086,Text:"Wis alle hogere opmaakstijlen"},{
+Key:1005087,Text:"De galerei openhouden"},{
+Key:1005088,Text:"Office 2016 Kleurrijk"},{
+Key:1005089,Text:"Office 2016 Donker"},{
+Key:1005090,Text:"Office 2016 Zwart"},{
+Key:1005091,Text:"Office 2013 Wit"},{
+Key:1005092,Text:"Office 2013 Donker Grijs"},{
+Key:1005093,Text:"Office 2013 Licht Grijs"},{
+Key:1005094,Text:"Metropolis Donker"},{
+Key:1005095,Text:"Hart"},{
+Key:1005096,Text:"De Bezier"},{
+Key:1005097,Text:"VS2013 Blauw"},{
+Key:1005098,Text:"VS2013 Licht"},{
+Key:1005099,Text:"VS2013 Donker"},{
+Key:1005100,Text:"Geen animatie"},{
+Key:1005102,Text:"Vervagen"},{
+Key:1005103,Text:"Langzaam Overvloeien"},{
+Key:1005104,Text:"Vergrotende afbeelding"},{
+Key:1005105,Text:"Expansie in licht vervagen"},{
+Key:1005106,Text:"Vertonen"},{
+Key:1005107,Text:"Vertoon naar rechts"},{
+Key:1005109,Text:"Vormen"},{
+Key:1005110,Text:"Ster"},{
+Key:1005118,Text:"Vertoon naar beneden"},{
+Key:1005120,Text:"Vertoon naar links"},{
+Key:1005121,Text:"Vertoon naar boven"},{
+Key:1005122,Text:"Vertoon naar rechtsboven"},{
+Key:1005123,Text:"Vertoon naar linksboven"},{
+Key:1005124,Text:"Vertoon naar rechtsonder"},{
+Key:1005125,Text:"Vertoon naar linksonder"},{
+Key:1005126,Text:"Verplaatsen"},{
+Key:1005127,Text:"Verplaats omlaag"},{
+Key:1005128,Text:"Verplaats naar rechts"},{
+Key:1005129,Text:"Verplaats naar links"},{
+Key:1005130,Text:"Verplaats naar boven"},{
+Key:1005131,Text:"Verplaats naar rechtsboven"},{
+Key:1005132,Text:"Verplaats naar linksboven"},{
+Key:1005133,Text:"Verplaats naar rechtsonder"},{
+Key:1005134,Text:"Verplaats naar linksonder"},{
+Key:1005200,Text:"Plaatje"},{
+Key:1005201,Text:"Geen plaatje"},{
+Key:1005209,Text:"Vind woorden in:"},{
+Key:1005210,Text:"&Titel en liedtekst"},{
+Key:1005211,Text:"&Titel daarna liedtekst"},{
+Key:1005212,Text:"&Titel"},{
+Key:1005213,Text:"&Auteur en componist"},{
+Key:1005214,Text:"&Thema 's"},{
+Key:1005215,Text:"&Verwijzingen"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"C&opyright"},{
+Key:1005218,Text:"Memo &1"},{
+Key:1005219,Text:"Memo &2"},{
+Key:1005220,Text:"Memo &3"},{
+Key:1005221,Text:"&Liederen met akkoorden"},{
+Key:1005223,Text:"Opties"},{
+Key:1005224,Text:"VideoPsalm opties"},{
+Key:1005225,Text:"Geeft het VideoPsalm dialoogvenster Opties VideoPsalm weer."},{
+Key:1005226,Text:"Importeren"},{
+Key:1005228,Text:"De Wizard importeren weergeven, om zangbundels, Bijbels, afbeeldingen en video's van de VideoPsalm online bibliotheek en uit andere populaire formaten te importeren."},{
+Key:1005230,Text:"Verwijderen"},{
+Key:1005232,Text:"Verwijder het geselecteerde lied, de zangbundel of de Bijbel."},{
+Key:1005237,Text:"Wijzig het lettertype."},{
+Key:1005247,Text:"Afbeeldingen"},{
+Key:1005252,Text:"Berichtgevingsvoorkeuren bewerken."},{
+Key:1005253,Text:"Sluit dit venster en herinner me er de volgende keer aan."},{
+Key:1005254,Text:"Sluit dit venster en herinner me er niet aan."},{
+Key:1005255,Text:"Woorden of woordgroepen zoeken, bijvoorbeeld: brood wijn"},{
+Key:1005256,Text:"Selecteer verzen door vermelding van de referentie"},{
+Key:1005257,Text:"Zoeken naar verzen die bepaalde sleutelwoorden of groepen woorden bevatten"},{
+Key:1005258,Text:"Wis de sleutelwoorden of zoekterm (ESC)"},{
+Key:1005259,Text:"Zoek naar Bijbel verzen die bepaalde sleutelwoorden bevatten."},{
+Key:1005260,Text:"Geen Bijbel vers gevonden."},{
+Key:1005268,Text:"In deze modus, voegt VideoPsalm automatisch haken rondom de tekst die u invoert.
+Bijvoorbeeld, om een C akkoord toe te voegen, typ «C» en VideoPsalm toont \"[C]."},{
+Key:1005269,Text:"Tekengrootte"},{
+Key:1005270,Text:"Hiermee wijzigt u de tekengrootte als een percentage van de hoogte van het scherm."},{
+Key:1005271,Text:"&Sla de liturgie op als..."},{
+Key:1005277,Text:"Opslaan"},{
+Key:1005278,Text:"Hiermee slaat u de wijzigingen die u hebt aangebracht in de zangbundels, Bijbels en hun stijlen op."},{
+Key:1005279,Text:"Slaat de wijzigingen op die u hebt aangebracht in de zangbundels en stijlen.
+
+
+
+<b>Opgelet:</b> Wijzigingen die u aan Bijbels aanbrengt worden niet opgeslagen (tekst en stijl). Om deze op te slaan, schakelt u eerst de bijbehorende optie onder VideoPsalm opties in."},{
+Key:1005283,Text:"&Lengte:"},{
+Key:1005284,Text:"In &ms:"},{
+Key:1005285,Text:"Element"},{
+Key:1005286,Text:"Hoofdtekst"},{
+Key:1005287,Text:"De stijl van de hoofdtekst"},{
+Key:1005288,Text:"Bewerk de stijl van de hoofdtekst"},{
+Key:1005289,Text:"Koptekst"},{
+Key:1005290,Text:"Stijl van koptekst"},{
+Key:1005291,Text:"Bewerk de stijl van de koptekst."},{
+Key:1005292,Text:"Voettekst"},{
+Key:1005293,Text:"Stijl van de voettekst"},{
+Key:1005294,Text:"Bewerk de stijl van de voettekst."},{
+Key:1005295,Text:"Akkoorden"},{
+Key:1005296,Text:"Akkoorden stijl"},{
+Key:1005297,Text:"Maakt het bewerken van de akkoorden stijl mogelijk."},{
+Key:1005308,Text:"Boek"},{
+Key:1005313,Text:"Stijl niveau"},{
+Key:1005314,Text:"Bepaal het niveau waarop uw stijlwijzigingen worden toegepast.
+
+Het couplet heeft het hoogste stijl niveau, dan het lied, de zangbundel, de zangbundels en de Basis.
+
+De Basis zit onderaan de hierarchie, deze stijl wordt toegepast op alle plaatjes.
+
+Een hoger niveau kan de stijl bepalen wat op een lager niveau is aangepast."},{
+Key:1005315,Text:"<b></b>Met dit mechanisme kunt u de stijl van alle, of afzonderlijke plaatjes wijzigen.
+
+<b>Voorbeeld</b>
+Als u een achtergrond aan een lied toewijst, nemen alle coupletten van dit lied deze achtergrond over, uitgezonderd de coupletten die u een specifieke achtergrond hebt toegewezen."},{
+Key:1005318,Text:"Plaatje"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Video 's"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"De tekstkleuren"},{
+Key:1005329,Text:"Initialiseren"},{
+Key:1005330,Text:"Hiermee wist u de stijl voor het geselecteerde niveau"},{
+Key:1005331,Text:"Wist alle opmaakstijl kenmerken op het geselecteerde niveau.
+Een plaatje zonder opmaakstijl krijgt automatisch de stijl van het lagere niveau.
+
+
+<b>Pop-up menu «Alle bovenstaande opmaakstijlen verwijderen»</b> wist alle opmaakstijlen van een hoger niveau. Het geselecteerde niveau wordt niet aangepast."},{
+Key:1005332,Text:"Deze knop is niet beschikbaar wanneer het niveau geen eigen stijl heeft."},{
+Key:1005333,Text:"&Alle bovenstaande opmaakstijlen verwijderen"},{
+Key:1005337,Text:"&Boven"},{
+Key:1005338,Text:"&Midden"},{
+Key:1005339,Text:"&Onder"},{
+Key:1005340,Text:"Blijf op dit stijl niveau"},{
+Key:1005341,Text:"Blijf op het huidige niveau stijl"},{
+Key:1005342,Text:"Blijf op het huidige stijl niveau van wanneer u het plaatje wijzigt.
+
+Verberg deze Punaise in de VideoPsalm Opties  ► Aanpassing ► Werkbalk Punaise."},{
+Key:1005343,Text:"Uitvullen van de tekst"},{
+Key:1005345,Text:"Tekst met een effen kleur, een kleurovergang, een afbeelding of een patroon vullen."},{
+Key:1005346,Text:"Tekstkleur"},{
+Key:1005347,Text:"Overzicht van de tekst"},{
+Key:1005349,Text:"Hiermee geeft u de kleur, breedte, en de regel voor de omtrek van de tekststijl."},{
+Key:1005350,Text:"Kleur van de tekstrand"},{
+Key:1005352,Text:"Teksteffect"},{
+Key:1005354,Text:"Een visueel effect toepassen op de tekst, zoals een schaduw, een licht, een reflectie of een 3D-rotatie."},{
+Key:1005356,Text:"Tekstschaduw"},{
+Key:1005357,Text:"Achtergrondkleur"},{
+Key:1005359,Text:"&Nieuw lied"},{
+Key:1005360,Text:"&Nieuwe zangbundel"},{
+Key:1005361,Text:"&Verwijderen alles"},{
+Key:1005362,Text:"
+
+<b>Gedeeltelijk schild</b>
+Bij het openen van een Liturgie, zullen de <b>teksten</b> van uw zangbundels en Bijbels worden bewaard.
+De stijlen van de Liturgie zullen wel worden toegepast op uw zangbundels en Bijbels."},{
+Key:1005363,Text:"
+
+<b>Gedeeltelijk schild</b>
+Bij het openen van een Liturgie, zullen de <b>stijlen</b> van uw zangbundels en Bijbels worden bewaard.
+De teksten van de Liturgie worden toegepast op uw zangbundels en Bijbels."},{
+Key:1005364,Text:"
+
+<b>Volledig schild</b>
+Bij de opening van een Liturgie, zullen <b>teksten</b> en <b>stijlen</b> van uw zangbundels en Bijbels worden bewaard.
+Die van de Liturgie zal niet worden toegepast.
+
+<i>Dit is de strategie wanneer documenten op deze PC  uw referentie zijn.</i>"},{
+Key:1005365,Text:"
+
+<b>Geen schild</b>
+Bij het openen van een Liturgie, zullen de <b>teksten</b> en de <b>stijlen</b> van die liturgie worden toegepast op uw zangbundels en Bijbels en deze zullen uw eigen teksten en stijlen vervangen.
+
+<i>Dit is de strategie om te gebruiken, wanneer uw referentiedocumenten staan op de PC staan waarop u de liturgie gemaakt heeft.</i>"},{
+Key:1005366,Text:"Als u van \"Tonen\" naar \"Bewerken\" modus of vise versa wilt gaan, klikt u op de knop met het potlood."},{
+Key:1005369,Text:"Sorteer op &titel"},{
+Key:1005370,Text:"Sorteer op &nummer"},{
+Key:1005371,Text:"Over..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simuleert video-projectie
+op een scherm op het 4:3.2 aspect"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simuleert video-projectie
+op een scherm 16:9 aspect"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simuleert video-projectie
+op een scherm in het 4:3 aspect"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simuleert video-projectie
+op een scherm aspect 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simuleert video-projectie
+op een scherm aspect 16:8"},{
+Key:1005387,Text:"Huidige"},{
+Key:1005388,Text:"Maakt gebruik van het gehele oppervlak van het scherm"},{
+Key:1005389,Text:"Aspect 4:3"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Modus voor het invoegen van de akkoorden"},{
+Key:1005398,Text:"Toon akkoorden boven de tekst"},{
+Key:1005400,Text:"Weergave van het venster &aanpassen"},{
+Key:1005401,Text:"&Aan de Liturgie toevoegen"},{
+Key:1005402,Text:"&Verwijder geselecteerde elementen"},{
+Key:1005403,Text:"&Zangbundel opnemen in de zoekopdracht"},{
+Key:1005404,Text:"&Sluit deze zangbundel uit van zoekacties"},{
+Key:1005405,Text:"&Alle zangbundels in de zoekopdracht opnemen"},{
+Key:1005407,Text:"&Verberg de van zoekacties uitgesloten zangbundels"},{
+Key:1005408,Text:"&Toon de van zoekacties uitgesloten zangbundels"},{
+Key:1005409,Text:"&Toon de grootte van de rechthoek"},{
+Key:1005410,Text:"Toont het verklein kader"},{
+Key:1005411,Text:"Stelt in staat de grootte van het kader van de geselecteerde tekst te wijzigen (hoofd-, kop-, en voettekst) met de muis, in het voorbeeldvenster.
+<b>Wijzigingen worden toegepast op het huidige opmaakstijl niveau.</b>"},{
+Key:1005412,Text:"&Kopieer een samenvatting van de zangbundel naar het Klembord"},{
+Key:1005417,Text:"Tekst"},{
+Key:1005418,Text:"Stijl verkenner"},{
+Key:1005419,Text:"Toont of verbergt de stijl verkenner.
+In dit venster kunt u navigeren tussen de niveaus van de hiërarchische stijlen, de eigenschappen van individuele opnieuw instellen en bewerken."},{
+Key:1005420,Text:"Stijlen"},{
+Key:1005421,Text:"Lettertype"},{
+Key:1005424,Text:"Achtergrond"},{
+Key:1005425,Text:"Stijlen"},{
+Key:1005429,Text:"Beeldverhouding"},{
+Key:1005430,Text:"Wijzigen"},{
+Key:1005432,Text:"Uiterlijk"},{
+Key:1005433,Text:"Hulpprogramma 's"},{
+Key:1005442,Text:"Ga verder met het volgende item"},{
+Key:1005443,Text:"Uitschakelen en dan doorgaan"},{
+Key:1005444,Text:"Tekst verbergen en verder gaan"},{
+Key:1005445,Text:"Tekst verbergen en dan uitschakelen"},{
+Key:1005446,Text:"Samen met het volgende element (tweetalig) weergeven"},{
+Key:1005447,Text:"Voeg het geselecteerde lied of een Bijbelvers toe aan de Liturgie (&Toevoegen of Alt+T)"},{
+Key:1005448,Text:"Klik hier om het lied of Bijbelverzen toe te voegen aan de Liturgie.
+
+U kunt ook naar de Liturgie slepen."},{
+Key:1005449,Text:"&Toevoegen"},{
+Key:1005454,Text:"Selecteer opties om te zoeken naar nummers door sleutelwoorden"},{
+Key:1005455,Text:"Wis de zoekterm (ESC)"},{
+Key:1005457,Text:"Zoek naar een lied (Ctrl+F)"},{
+Key:1005458,Text:"Liederen zoeken die bepaalde woorden of een nummer bevatten."},{
+Key:1005459,Text:"Er is nog geen Bijbel.
+Klik hier om te beginnen met de Wizard importeren
+om Bijbels van populaire bronnen toe te voegen."},{
+Key:1005463,Text:"Wis de geselecteerde verwijzing (ESC)"},{
+Key:1005464,Text:"Verwijs naar de selectie, bijvoorbeeld: Romeinen 3:23-25, 30"},{
+Key:1005465,Text:"Selecteer Bijbel verzen (Ctrl+F)"},{
+Key:1005472,Text:"&Bestand:"},{
+Key:1005475,Text:"&Deze zangbundel in het zoeken naar liederen opnemen"},{
+Key:1005479,Text:"&Naam:"},{
+Key:1005481,Text:"&Afkorting:"},{
+Key:1005483,Text:"&Auteur"},{
+Key:1005485,Text:"&Copyright"},{
+Key:1005487,Text:"&Document:"},{
+Key:1005491,Text:"&De capo afdrukken"},{
+Key:1005497,Text:"&Liedtekst"},{
+Key:1005499,Text:"&Nummer:"},{
+Key:1005501,Text:"&Titel:"},{
+Key:1005505,Text:"&Referentie:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Auteur:"},{
+Key:1005511,Text:"&Componist:"},{
+Key:1005513,Text:"&Diverse"},{
+Key:1005515,Text:"&Toon:"},{
+Key:1005517,Text:"&Formaat:"},{
+Key:1005519,Text:"&Themagebied:"},{
+Key:1005521,Text:"&Volgorde:"},{
+Key:1005523,Text:"&CCLI:"},{
+Key:1005525,Text:"&Sleutel:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Belangrijke regel:"},{
+Key:1005531,Text:"&Memo 1"},{
+Key:1005533,Text:"&Memo 2"},{
+Key:1005535,Text:"&Memo 3"},{
+Key:1005537,Text:"&Handtekening:"},{
+Key:1005540,Text:"&Omzetting:"},{
+Key:1005541,Text:"De capo afdrukken ?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Stelt in staat de akkoorden te transponeren."},{
+Key:1005555,Text:"&Bestand:"},{
+Key:1005560,Text:"&Copyright"},{
+Key:1005562,Text:"&Afkorting:"},{
+Key:1005564,Text:"&Naam:"},{
+Key:1005566,Text:"&Beschrijving"},{
+Key:1005568,Text:"&Inleiding:"},{
+Key:1005570,Text:"&Document:"},{
+Key:1005576,Text:"&Naam:"},{
+Key:1005582,Text:"&Naam:"},{
+Key:1005584,Text:"&Inleiding:"},{
+Key:1005586,Text:"&Afkorting:"},{
+Key:1005587,Text:"Hoofdstuk van de Bijbel"},{
+Key:1005590,Text:"Bijbel vers"},{
+Key:1005595,Text:"&Vers:"},{
+Key:1005603,Text:"&Bestand:"},{
+Key:1005606,Text:"Geen selectie"},{
+Key:1005608,Text:"Stijl"},{
+Key:1005612,Text:"Hiermee verwijdert u de waarde van de eigenschap"},{
+Key:1005613,Text:"Wanneer u de waarde van een eigenschap verwijdert, gebruikt VideoPsalm de eerste waarde die wordt gevonden op een lagere niveaus.
+
+Bijvoorbeeld, als u het lettertype weghaald van een couplet, zal VideoPsalm het lettertype toepassen, wat als eerste gevonden wordt in de volgorde van niveau's:
+-in de liederen,
+-anders in de zangbundel,
+-anders in de zangbundels,
+-anders in de Basis.
+
+VideoPsalm is hetzelfde met Bijbels, afbeeldingen, enz."},{
+Key:1005615,Text:"Geen"},{
+Key:1005616,Text:"Basis"},{
+Key:1005618,Text:"Zangbundels"},{
+Key:1005619,Text:"Zangbundel"},{
+Key:1005620,Text:"Lied"},{
+Key:1005621,Text:"Couplet"},{
+Key:1005622,Text:"Bijbels"},{
+Key:1005623,Text:"Bijbel"},{
+Key:1005624,Text:"Testament"},{
+Key:1005625,Text:"Boek van de Bijbel"},{
+Key:1005626,Text:"Hoofdstuk"},{
+Key:1005627,Text:"Bijbel vers"},{
+Key:1005628,Text:"Standaardwaarde"},{
+Key:1005629,Text:"Waarde van de hoofdtekst"},{
+Key:1005630,Text:"Links"},{
+Key:1005631,Text:"Gecentreerd"},{
+Key:1005632,Text:"Rechts"},{
+Key:1005633,Text:"Uitvullen"},{
+Key:1005634,Text:"Boven"},{
+Key:1005635,Text:"Midden"},{
+Key:1005636,Text:"Onder"},{
+Key:1005650,Text:"&Een Liturgie openen..."},{
+Key:1005651,Text:"&Liturgieën toevoegen..."},{
+Key:1005652,Text:"&Afbeeldingen toevoegen..."},{
+Key:1005653,Text:"&Autonome video's toevoegen..."},{
+Key:1005654,Text:"&PowerPoints toevoegen..."},{
+Key:1005655,Text:"Wanneer ik een Liturgie open:"},{
+Key:1005656,Text:"&De teksten van mijn zangbundels en Bijbels behouden"},{
+Key:1005657,Text:"&De stijlen van mijn zangbundels en Bijbels behouden"},{
+Key:1005658,Text:"&Liturgie..."},{
+Key:1005659,Text:"&Diavoorstelling plaatje..."},{
+Key:1005660,Text:"Losstaande &video..."},{
+Key:1005661,Text:"&PowerPoint..."},{
+Key:1005667,Text:"&Zangbundels"},{
+Key:1005668,Text:"Geef de Zangbundels weer (Alt+Z)"},{
+Key:1005670,Text:"&Bijbels"},{
+Key:1005671,Text:"Geef de Bijbels weer (Alt+B)"},{
+Key:1005677,Text:"&Breedte:"},{
+Key:1005680,Text:"&Vervagen:"},{
+Key:1005681,Text:"&Diepte:"},{
+Key:1005682,Text:"&Richting:"},{
+Key:1005686,Text:"Een leeg scherm, zwarte kleur weergegeven.
+Simuleert het uitsterven van de projector."},{
+Key:1005687,Text:"Volgende"},{
+Key:1005688,Text:"Verder naar het volgende plaatje."},{
+Key:1005689,Text:"Schakelt het scherm uit (Ctrl+W)"},{
+Key:1005690,Text:"Geef de tekst weer (Ctrl+T)"},{
+Key:1005691,Text:"Toont of verbergt de tekst op een plaatje."},{
+Key:1005692,Text:"Schild (Ctrl+D)"},{
+Key:1005693,Text:"Hiermee behoudt u de nu gepresenteerde liedtekst.
+
+Hierdoor kunt u werken aan de Liturgie of een nummer of Bijbelvers zoeken tijdens de projectie van een lied.
+
+Om het schild uit te schakelen, dubbelklkt u op een liturgiepunt."},{
+Key:1005694,Text:"Bevriezen (Ctrl+R)"},{
+Key:1005695,Text:"Bevriest video projectiescherm zonder bevriezing van het voorbeeldgebied.
+
+Om een voorbeeld van de presentatie tijdens de video-projectie weer te geven."},{
+Key:1005696,Text:"Projecteer (Ctrl+P)"},{
+Key:1005697,Text:"Pojecteer de plaatjes."},{
+Key:1005698,Text:"'Wijzig' modus (Ctrl+E)"},{
+Key:1005699,Text:"Hiermee schakelt u van de \"Viewer\" naar \"Bewerken\" mode of vice versa."},{
+Key:1005702,Text:"Een Liturgie openen die u vooraf heeft gemaakt."},{
+Key:1005703,Text:"Sluit de Liturgie"},{
+Key:1005704,Text:"&Sla de Liturgie op"},{
+Key:1005705,Text:"Verwijderen"},{
+Key:1005706,Text:"Hiermee verwijdert u de geselecteerde elementen uit de Liturgie (verwijderen)."},{
+Key:1005707,Text:"Omhoog"},{
+Key:1005708,Text:"Verplaatst het element naar het begin van de Liturgie."},{
+Key:1005709,Text:"Omlaag"},{
+Key:1005710,Text:"Verplaatst het element naar het einde van de Liturgie."},{
+Key:1005711,Text:"Helderheid"},{
+Key:1005712,Text:"Een Liturgie openen"},{
+Key:1005713,Text:"Hiermee slaat u de Liturgie op de schijf of een USB-sleutel op."},{
+Key:1005721,Text:"Hiermee selecteert u de verzen door vermelding van de referentie.
+<i>Voorbeeld: Romeinen 3:23-25, 30</i>"},{
+Key:1005722,Text:"Opmerkingen (niet vertalen maar in het Engels laten)"},{
+Key:1005723,Text:"Het bestand kan niet schrijven
+{0} :
+{1}"},{
+Key:1005724,Text:"Fout"},{
+Key:1005725,Text:"Kan het bestand niet lezen
+{0} :
+{1}"},{
+Key:1005730,Text:"Weet u zeker dat u de opmaakstijl van de diavoorstelling wilt verwijderen?
+ De stijl van de voorstelling zal de standaard waarde krijgen."},{
+Key:1005731,Text:"Weet u zeker dat u het basisopmaakprofiel wilt verwijderen?
+Het basisopmaakprofiel zal de standaard waarde aannemen."},{
+Key:1005732,Text:"Weet u zeker dat u de opmaakstijl van de zangbundels wilt verwijderen?
+De stijl van de zangbundels zal de standaard waarde aannemen."},{
+Key:1005733,Text:"Weet u zeker dat u de opmaakstijl van de Bijbels wilt verwijderen?
+ De stijl van de Bijbels zal de standaard waarde krijgen."},{
+Key:1005734,Text:"Weet u zeker dat u deze stijl wilt verwijderen?
+VideoPsalm zal dit toepassen op alle stijlkenmerken lager in de hiërarchie."},{
+Key:1005735,Text:"Verwijder stijl"},{
+Key:1005736,Text:"Weet u zeker dat u de opmaakstijl van de video's wilt verwijderen ? 
+De stijl van de video's wordt teruggezet naar de standaard."},{
+Key:1005737,Text:"Een zangbundel"},{
+Key:1005738,Text:"Geen zangbundel"},{
+Key:1005739,Text:"Een Bijbel"},{
+Key:1005740,Text:"Geen Bijbel"},{
+Key:1005743,Text:"Lettertype vergroten (Ctrl+Shift+.)"},{
+Key:1005744,Text:"Vergroot de tekengrootte."},{
+Key:1005745,Text:"Lettertype verkleinen (Ctrl+Shift+,)"},{
+Key:1005746,Text:"Verklein de grootte van het lettertype."},{
+Key:1005747,Text:"Vet (Ctrl + B)"},{
+Key:1005748,Text:"Maak de geselecteerde tekst vet."},{
+Key:1005749,Text:"Cursief (Ctrl+I)"},{
+Key:1005750,Text:"Maak de geselecteerde tekst cursief."},{
+Key:1005751,Text:"Onderstreep (Ctrl+U)"},{
+Key:1005752,Text:"De geselecteerde tekst onderstrepen."},{
+Key:1005753,Text:"Doorhalen"},{
+Key:1005754,Text:"Hiermee brengt u een streep in het midden van de geselecteerde tekst."},{
+Key:1005755,Text:"Weergeven / verbergen ¶ (Ctrl+Shift+8)"},{
+Key:1005756,Text:"Alineamarkeringen en andere verborgen opmaak symbolen worden weergegeven."},{
+Key:1005757,Text:"Lettertype kleur"},{
+Key:1005758,Text:"De kleur van de tekst wijzigen."},{
+Key:1005759,Text:"Kleur van de tekst-achtergrond"},{
+Key:1005760,Text:"Geeft een kleur aan de achtergrond van de tekst."},{
+Key:1005761,Text:"Wis de opmaak (Ctrl+spatie)"},{
+Key:1005762,Text:"Volledig wordt de opmaak van de selectie gewist en behoudt alleen de tekst zonder opmaak."},{
+Key:1005763,Text:"Ongedaan maken (Ctrl+Z)"},{
+Key:1005764,Text:"Hiermee annuleert u de laatste bewerking."},{
+Key:1005765,Text:"Opnieuw uitvoeren (Ctrl+Y)"},{
+Key:1005766,Text:"De laatste bewerking opnieuw uitvoeren."},{
+Key:1005767,Text:"Knippen (Ctrl+X)"},{
+Key:1005768,Text:"Knipt het geselecteerde en plaatst dit op het Klembord."},{
+Key:1005769,Text:"Kopiëren (Ctrl+C)"},{
+Key:1005770,Text:"Hiermee kopieert u de selectie en plaatst het op het Klembord."},{
+Key:1005771,Text:"Plakken (Ctrl+V)"},{
+Key:1005772,Text:"Plakt de inhoud van het Klembord."},{
+Key:1005773,Text:"Zoeken (Ctrl+F)"},{
+Key:1005774,Text:"Zoeken naar de tekst in het document."},{
+Key:1005775,Text:"Vervangen (Ctrl+H)"},{
+Key:1005776,Text:"Deze methode vervangt de tekst in het document."},{
+Key:1005777,Text:"Vergroten"},{
+Key:1005778,Text:"Toon alle"},{
+Key:1005779,Text:"Klik op het plaatje als u een bepaald vers wilt bewerken."},{
+Key:1005780,Text:"Selectie van verzen"},{
+Key:1005781,Text:"Hiermee sorteert u de zangbundel op titel van de liedjes."},{
+Key:1005782,Text:"Sluit de huidige Liturgie af (en vraagt om uw bevestiging als er wijzigingen niet zijn opgeslagen)."},{
+Key:1005783,Text:"Hiermee past u de helderheid van de afbeelding of de achtergrond video.
+
+Kunt de tekstmarkering, zelfs op een barriole achtergrond."},{
+Key:1005784,Text:"&Een beschrijving van de liturgie kopiëren"},{
+Key:1005785,Text:"&Voeg de liedtekst toe"},{
+Key:1005786,Text:"Voeg de B&ijbelverzen toe"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Hiermee opent u de VideoPsalm facebook-pagina.
+Maak VideoPsalm bekend:
+-door te klikken op de  \"Vind ik leuk\"-knop
+-door vriend te worden.
+
+<b>Opmerking:</b> Installeer de gratis plugin, <b>Adblock Plus</b> om de advertenties van Facebook te blokkeren.
+
+Als u de sociale pictogrammen in VideoPsalm wilt verbergen, dan kunt u ze uitschakelen in \"Opties\" → \"Algemeen\" tabblad."},{
+Key:1005791,Text:"Hiermee opent u de VideoPsalm Twitter pagina, waar u op de hoogte wordt gehouden van nieuwe artikelen in de blogs.
+
+Als u de VideoPsalm sociale pictogrammen wilt verbergen, schakel ze dan uit in het \"Opties\" → \"Algemeen\" tabblad."},{
+Key:1005792,Text:"Opent de VideoPsalm YouTube pagina, waar u video-tutorials over het gebruik van VideoPsalm vindt.
+
+Als u de VideoPsalm sociale pictogrammen wil verbergen, schakel ze dan uit in het \"Opties\" → \"Algemeen\" tabblad."},{
+Key:1005793,Text:"Voegt een nieuw leeg lied (of mededeling) aan de geselecteerde zangbundel toe."},{
+Key:1005794,Text:"Voegt een nieuwe lege zangbundel toe."},{
+Key:1005795,Text:"Sorteert de geselecteerde zangbundel op nummer."},{
+Key:1005800,Text:"Couplet"},{
+Key:1005801,Text:"Koor"},{
+Key:1005802,Text:"Pre-Koor"},{
+Key:1005803,Text:"Brug"},{
+Key:1005804,Text:"Ending"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Uitvoer"},{
+Key:1005807,Text:"SLIP"},{
+Key:1005808,Text:"Instrumentaal"},{
+Key:1005809,Text:"Andere"},{
+Key:1005820,Text:"C"},{
+Key:1005821,Text:"K"},{
+Key:1005822,Text:"PK"},{
+Key:1005823,Text:"B"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"IK"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Sluiten"},{
+Key:1005851,Text:"&Taal:"},{
+Key:1005852,Text:"&Uitgever"},{
+Key:1005853,Text:"Alle"},{
+Key:1005859,Text:"Transponeer de akkoorden van het lied naar de posities van de capo."},{
+Key:1005860,Text:"Vind de liederen met inbegrip van de titel, alias of liedteksten die de woorden bevatten die invoert.
+
+Als alternatief kunt u zoeken naar een lied op zijn nummer."},{
+Key:1005861,Text:"Deze methode voert een zoekactie in twee fasen, dat snel het voordeel van een korte lijst van liederens worden weergegeven:
+
+1 Zoeken in een eerste tijd liederen met inbegrip van de titel (of alias) bevat de woorden die u invoert.
+
+Dat u woorden, er komt een moment waar de meeste elk nummer kan instemmen.
+
+2. Vanaf dit punt, zal VideoPsalm zoek naar de woorden in de lyrische gedichten van de liederen.
+
+Als alternatief kunt u zoeken naar een lied door zijn nummer."},{
+Key:1005862,Text:"Nummers door u invoeren tekstschrijvers te vinden.
+
+Als alternatief kunt u zoeken naar een lied door zijn nummer."},{
+Key:1005863,Text:"Vind liederen die zich bezighouden met onderwerpen die u invoert.
+
+Als alternatief kunt u zoeken naar een lied door zijn nummer."},{
+Key:1005864,Text:"Zoek de liederen geïnspireerd door de bijbelse verwijzingen die u invoert.
+
+Als alternatief kunt u zoeken naar een lied door zijn nummer."},{
+Key:1005865,Text:"Vind het lied lied met de CCLI die u invoert.
+
+Als alternatief kunt u zoeken naar een lied op zijn nummer."},{
+Key:1005866,Text:"Nummers waarvan copyright bevat de woorden die u invoert te vinden.
+
+Als alternatief kunt u ook zoeken naar een lied op zijn nummer."},{
+Key:1005867,Text:"Vind liederen van welke Memo 1 de woorden bevat die u invoert.
+
+Als alternatief kunt u ook zoeken naar een lied op zijn nummer."},{
+Key:1005868,Text:"Liederen waarvan Memo 2 de woorden bevat die u invoert.
+
+Als alternatief kunt u zoeken naar een lied op zijn nummer."},{
+Key:1005869,Text:"Liederen waarvan Memo 3 de woorden bevat die u invoert.
+
+Als alternatief kunt u zoeken naar een lied op zijn nummer."},{
+Key:1005870,Text:"Vind liederen waarvan de titel (of alias) de woorden bevat die u invoert.
+
+Als alternatief kunt u zoeken naar een lied op zijn nummer."},{
+Key:1005871,Text:"Vind liederen die akkoorden in de teksten hebben.
+
+Als alternatief kunt u zoeken naar een lied op zijn nummer."},{
+Key:1005872,Text:"&Versie van:"},{
+Key:1005873,Text:"&Versie van:"},{
+Key:1005874,Text:"Datum van uw zangbundel versie"},{
+Key:1005875,Text:"Geeft de datum aan waarop deze zangbundel voor de laatste keer was bijgewerkt door de VideoPsalm.
+
+Via de on-line bibliotheek van VideoPsalm wizard importeren, u kunt controleren of er een nieuwere versie is van de zangbundel.
+
+VideoPsalm online werkt soms sommige zangbundels bij, om bijvoorbeeld typefouten te corrigeren."},{
+Key:1005876,Text:"Datum van uw versie van de Bijbel"},{
+Key:1005877,Text:"Geeft de datum aan waarop deze Bijbel voor de laatste keer is bijgewerkt door VideoPsalm.
+
+Via de wizard Importeren van VideoPsalm online bibliotheek kunt u controleren wanneer er een nieuwere versie van deze vertaling is.
+
+VideoPsalm online bewerkt soms sommige Bijbels, om bijvoorbeeld typefouten te corrigeren."},{
+Key:1005878,Text:"Gecomprimeerd"},{
+Key:1005879,Text:"Gecomprimeerd"},{
+Key:1005880,Text:"VideoPsalm kan uw zangbundels en uw Bijbels comprimeren, om schijfruimte te besparen.
+
+Zamgbundels en Bijbels die u download via de Wizard importeren zijn meestal gecomprimeerd, zodat de download sneller gaat en om het internet-verkeer op de website VideoPsalm te reduceren."},{
+Key:1005881,Text:"&Gecomprimeerd"},{
+Key:1005882,Text:"&Gecomprimeerd"},{
+Key:1005884,Text:"Wilt u echt de '{0}' Bijbel verwijderen?
+
+
+Het bestand dat overeenkomt met deze Bijbel worden niet verwijderd van de schijf:
+de extensie wordt gewijzigd in \".ignore\"."},{
+Key:1005885,Text:"Verwijder een Bijbel"},{
+Key:1005886,Text:"Even geduld alstublieft"},{
+Key:1005887,Text:"In uitvoering wordt geladen..."},{
+Key:1005888,Text:"Oude Testament"},{
+Key:1005889,Text:"Nieuwe Testament"},{
+Key:1005890,Text:"Huidige record..."},{
+Key:1005891,Text:"&Afbeeldingen importeren"},{
+Key:1005892,Text:"Selecteer de afbeeldingen die u wilt importeren en klik vervolgens op 'open'."},{
+Key:1005893,Text:"U hebt {0} afbeelding(en) geïmporteerd."},{
+Key:1005894,Text:"Geen afbeelding is geïmporteerd.
+(Ze (s) is (s) gevonden in de galerie)."},{
+Key:1005895,Text:"&Miniaturen opnieuw"},{
+Key:1005896,Text:"Miniaturen opnieuw"},{
+Key:1005897,Text:"Wilt u de miniaturen opnieuw opbouwen?
+
+Het kan nodig zijn om opnieuw de miniaturen van de afbeeldingen op te bouwen wanneer u wijzigingen buiten VideoPsalm hebt aangebracht."},{
+Key:1005898,Text:"&Verwijder de afbeelding"},{
+Key:1005899,Text:"Een afbeelding verwijderen"},{
+Key:1005900,Text:"Wilt u echt het beeld '{0}' verwijderen?"},{
+Key:1005901,Text:"&De map images verkennen"},{
+Key:1005902,Text:"&Verwijder geselecteerde afbeelding"},{
+Key:1005903,Text:"&Video's importeren"},{
+Key:1005904,Text:"Selecteer de video's die u wilt importeren en klik vervolgens op 'open'."},{
+Key:1005905,Text:"U hebt {0} video('s) geïmporteerd."},{
+Key:1005906,Text:"Er is geen video bestand geïmporteerd (ze zijn al in de galerie)."},{
+Key:1005907,Text:"&Miniaturen opnieuw"},{
+Key:1005908,Text:"&Verwijder video"},{
+Key:1005909,Text:"Een video verwijderen"},{
+Key:1005910,Text:"Wilt u echt de video '{0}' verwijderen?"},{
+Key:1005911,Text:"&De map Video's verkennen"},{
+Key:1005912,Text:"&Verwijder geselecteerde video"},{
+Key:1005913,Text:"<Zonder video>"},{
+Key:1005914,Text:"Importeren van afbeeldingen"},{
+Key:1005915,Text:"Video's importeren"},{
+Key:1005917,Text:"Kan de map niet maken
+{0} :
+{1}"},{
+Key:1005918,Text:"De opgegeven map heeft geen ondersteuning:
+{0}"},{
+Key:1005919,Text:"De map kan niet leeg zijn."},{
+Key:1005920,Text:"Naam van een map bevatten de volgende tekens niet:
+{0}"},{
+Key:1005921,Text:"Zangbundels en Bijbels herstellen"},{
+Key:1005922,Text:"Herstel uw zangbundels, Bijbels, afbeeldingen of video's, bijvoorbeeld vanaf een back-up op een USB-stick."},{
+Key:1005923,Text:"Sluiten"},{
+Key:1005930,Text:"&Het lied kopiëren naar"},{
+Key:1005931,Text:"&Het lied verplaatsen naar"},{
+Key:1005932,Text:"Wilt u echt het lied '{0}'.
+kopieëren naar de zangbundel '{1}'?"},{
+Key:1005933,Text:"Wil u echt het lied '{0}'.
+naar de zangbundel '{1}' verplaatsen?"},{
+Key:1005934,Text:"&Hier typt u de verwijzing via de afkortingen"},{
+Key:1005935,Text:"&De namen van Bijbelboeken in het Nederlands weergeven"},{
+Key:1005936,Text:"(Kopie)"},{
+Key:1005937,Text:"Een nieuwe zangbundel is beschikbaar:
+{0}"},{
+Key:1005938,Text:"Nieuwe zangbundels zijn beschikbaar: {0}"},{
+Key:1005939,Text:"Correcties zijn aangebracht
+ in de zangbundel '{0}'."},{
+Key:1005940,Text:"Correcties zijn aangebracht
+in de volgende zangbundels: {0}"},{
+Key:1005941,Text:"Opent de Wizard zangbundels importeren "},{
+Key:1005942,Text:"Een nieuwe Bijbel is beschikbaar:
+{0}"},{
+Key:1005943,Text:"Nieuwe Bijbels zijn beschikbaar: {0}"},{
+Key:1005944,Text:"Correcties zijn aangebracht
+ in de Bijbel '{0}'."},{
+Key:1005945,Text:"Correcties zijn aangebracht 
+in de volgende Bijbels: {0}"},{
+Key:1005946,Text:"Open de wizard voor het importeren van Bijbels"},{
+Key:1005947,Text:"VideoPsalm is onlangs beschikbaar
+in {0}"},{
+Key:1005948,Text:"VideoPsalm is nieuw beschikbaarin: {0}"},{
+Key:1005949,Text:"Correcties zijn aangebracht
+op de labels in {0}"},{
+Key:1005950,Text:"Correcties zijn aangebracht in de labels van de volgende talen: {0}"},{
+Key:1005951,Text:"Open de Wizard labels importeren"},{
+Key:1005952,Text:"Een meer recente versie
+VideoPsalm is beschikbaar:"},{
+Key:1005953,Text:"Nieuws weergeven"},{
+Key:1005954,Text:"Automatisch"},{
+Key:1005955,Text:"Verkennen van de geselecteerde map"},{
+Key:1005956,Text:"Kies een map"},{
+Key:1005957,Text:"Recente bestanden weergeven"},{
+Key:1005958,Text:"Opslaan"},{
+Key:1005959,Text:"Sla uw zangbundels, Bijbels, afbeeldingen of video's op, of maak een draagbare versie van VideoPsalm, bijvoorbeeld op een USB-stick."},{
+Key:1005960,Text:"&Herstellen..."},{
+Key:1005961,Text:"VideoPsalm is niet in staat om het PowerPoint-document weer te geven.
+
+(Geen PowerPoint applicatie gevonden op uw PC)."},{
+Key:1005962,Text:"Fout PowerPoint"},{
+Key:1005963,Text:"{0} Bewerkbaar maken in de zangbundel '{1}'."},{
+Key:1005964,Text:"{0} Bewerkbaar maken in de zangbundel..."},{
+Key:1005965,Text:"{0} Bewerkbaar maken in de nieuwe zangbundel '{1}'."},{
+Key:1005966,Text:"Bijbelse passages"},{
+Key:1005967,Text:"&Aangepaste passages van de Bijbel"},{
+Key:1005968,Text:"&Beschrijving"},{
+Key:1005969,Text:"&Taal:"},{
+Key:1005970,Text:"&Uitgever"},{
+Key:1005971,Text:"&Beheerder"},{
+Key:1005973,Text:"&Beheerder"},{
+Key:1005974,Text:"Boven de tekst"},{
+Key:1005975,Text:"Akkoorden boven de tekst"},{
+Key:1005976,Text:"Dit is de aanbevolen modus voor het bewerken van de tekst.
+Wanneer u de tekst bewerkt, verplaatst elke akkoord met het karakter waaraan het is verankerd.
+
+Wanneer u <b>tekst kopieert die akkoorden bevat</b>, worden de akkoorden gekopieerd met tekst, in de ChordPro-notatie.
+
+Wanneer u tekst plakt met daarin akkoorden in ChordPro-indeling, worden deze akkoorden boven de tekst weergegeven in VideoPsalm.
+
+<b>Om een akkoord toe te voegen</b>, plaats het aan de linkerkant van het karakter waaraan u het wilt verankeren, en plaats er haakjes <b>[]</b> omheen.
+
+<b>Om een akkoord te verwijderen</b>, wist u het karakter waaraan het verankert is, en typt u het karakter opnieuw.
+
+<b>Om een akkoord te wijzigen</b>, wis het eerst en voeg het daarna correct toe (of gebruik de \" <b>ChordPro formaat</b> \" modus)."},{
+Key:1005977,Text:"ChordPro formaat"},{
+Key:1005978,Text:"Akkoorden in de indeling ChordPro"},{
+Key:1005979,Text:"In deze modus:
+
+-VideoPsalm wordt weergegeven voor de teksten en akkoorden met de <b>ChordPro formaat</b>.
+
+-Het is de ideale modus voor het bewerken van akkoorden: VideoPsalm haken rondom de tekst die u invoert, worden automatisch toegevoegd.
+Bijvoorbeeld, zal toe te voegen een c snaar, typ «Do» en VideoPsalm u \"[doen]\".
+
+Let op: deze modus is niet geschikt voor het bewerken van de tekst, omdat naar gelang van het geval, VideoPsalm de brieven van haken omringt.
+Eerder '<b>boven de tekst</b>' modus gebruiken om de tekst te bewerken."},{
+Key:1005980,Text:"Akkoorden"},{
+Key:1005981,Text:"Kopie"},{
+Key:1005982,Text:"Een omschrijving van de Liturgie ophalen en plaats deze op het Klembord."},{
+Key:1005983,Text:"&Laat PowerPoint te gebruiken \"presentator\"."},{
+Key:1005984,Text:"Wanneer dit selectievakje is ingeschakeld, weergegeven VideoPsalm bladeren PowerPoint zijn opdracht interface om te rijden de vooruitgang van de presentatie."},{
+Key:1005985,Text:"Speel tot einde"},{
+Key:1005986,Text:"Herhaal"},{
+Key:1005987,Text:"Handmatig verder"},{
+Key:1005988,Text:"&Volgorde"},{
+Key:1005989,Text:"&Op tijd"},{
+Key:1005990,Text:"&Handmatig verdergaan"},{
+Key:1005991,Text:"&Herhaal"},{
+Key:1005992,Text:"&Afspelen tot einde"},{
+Key:1005993,Text:"&Interval (seconden):"},{
+Key:1005994,Text:"&Verberg de tekst en dan uitschakelen"},{
+Key:1005995,Text:"&Ga verder met het volgende element"},{
+Key:1005996,Text:"&Uitschakelen en dan doorgaan"},{
+Key:1005997,Text:"&Tekst verbergen en verder gaan"},{
+Key:1005998,Text:"&Samen met het volgende element (tweetalig) weergeven"},{
+Key:1005999,Text:"&Verkenner"},{
+Key:1006000,Text:"Wizard importeren"},{
+Key:1006001,Text:"Welkom bij de invoer van zangbundels, Bijbels, afbeeldingen en video's Wizard"},{
+Key:1006002,Text:"Deze wizard vereenvoudigt het importeren van zangbundels, Bijbels, afbeeldingen en video's uit de bibliotheek online VideoPsalm en overige populaire formaten, en begeleidt u door een reeks stappen."},{
+Key:1006003,Text:"Klik op Volgende om door te gaan"},{
+Key:1006004,Text:"&Kies..."},{
+Key:1006005,Text:"&Volgende"},{
+Key:1006006,Text:"Vorige"},{
+Key:1006007,Text:"&Help"},{
+Key:1006008,Text:"&Voltooien"},{
+Key:1006009,Text:"&Annuleren"},{
+Key:1006010,Text:"U kunt zangbundels, Bijbels, afbeeldingen of video's importeren"},{
+Key:1006011,Text:"Kies wat u wilt importeren"},{
+Key:1006012,Text:"Importeer een zangbundel"},{
+Key:1006013,Text:"Importeren van een Bijbel"},{
+Key:1006014,Text:"Afbeeldingen importeren"},{
+Key:1006015,Text:"Video's importeren"},{
+Key:1006016,Text:"Importeren van een taal"},{
+Key:1006020,Text:"&Initialiseren"},{
+Key:1006021,Text:"Initialiseert de map op een standaard waarde"},{
+Key:1006023,Text:"Samenvatting vooraf aan import"},{
+Key:1006024,Text:"Klik op Volgende om het importeren te starten"},{
+Key:1006025,Text:"Huidige invoer"},{
+Key:1006026,Text:"Importeren is voltooid"},{
+Key:1006027,Text:"Klik op Voltooien om de import wizard te sluiten.
+
+Klik op Terug om een andere zangbundel of een andere Bijbel te importeren"},{
+Key:1006029,Text:"U heb {0} geïmporteerd nummers in {{1} zangbundels."},{
+Key:1006030,Text:"U hebt {0} liederen geïmporteerd in de nieuwe '{1}' zangbundel."},{
+Key:1006031,Text:"U hebt  '{0}' Bijbels met succes geïmporteerd."},{
+Key:1006032,Text:"U hebt {0} Bijbels succesvol geïmporteerd."},{
+Key:1006033,Text:"U kunt de taal '{0}' met succes hebt geïmporteerd."},{
+Key:1006034,Text:"U hebt met succes {0} talen geïmporteerd."},{
+Key:1006035,Text:"Wilt u de importbewerking stoppen?"},{
+Key:1006036,Text:"De import is niet goed voltooid."},{
+Key:1006037,Text:"Geef een naam aan deze nieuwe VideoPsalm zangbundel"},{
+Key:1006038,Text:"De nieuwe zangbundel worden opgeslagen onder deze naam. Deze naam kan later worden gewijzigd"},{
+Key:1006039,Text:"&Naam te geven aan de zangbundel:"},{
+Key:1006040,Text:"Geef een naam aan deze nieuwe VideoPsalm Bijbel"},{
+Key:1006041,Text:"De nieuwe Bijbel worden opgeslagen onder deze naam. Deze naam kan later worden gewijzigd"},{
+Key:1006042,Text:"&Naam te geven aan de Bijbel:"},{
+Key:1006051,Text:"Selecteert u zangbundels"},{
+Key:1006052,Text:"Selecteer Bijbels"},{
+Key:1006053,Text:"Selecteer een bestand"},{
+Key:1006054,Text:"Selecteer een map"},{
+Key:1006055,Text:"&Bestand:"},{
+Key:1006056,Text:"&Bestand:"},{
+Key:1006057,Text:"Selecteer talen"},{
+Key:1006058,Text:"De map '{0}' bestaat niet."},{
+Key:1006060,Text:"Geen toegang tot de map '{0}'.
+
+{1}"},{
+Key:1006061,Text:"Het bestand '{0}' bestaat niet."},{
+Key:1006062,Text:"Let op: Het laden van veel zangbundels kan het PC-geheugen vullen en het zoeken vertragen.
+Wilt u echt {0} zangbundels downloaden?"},{
+Key:1006063,Text:"Let op: Bij het laden van veel Bijbels kan het PC-geheugen volraken and VideoPsalm zet een limiet op the eerste 50 Bijbels.
+Wilt u echt {0} Bijbels downloaden?"},{
+Key:1006064,Text:"De nieuwe naam kan niet leeg zijn."},{
+Key:1006065,Text:"De nieuwe naam mag de volgende characters niet bevatten: {0}"},{
+Key:1006066,Text:"Er is al een zangbundel met de naam '{0}'."},{
+Key:1006067,Text:"Er is reeds een Bijbel met de naam '{0}'."},{
+Key:1006068,Text:"Je bent gestopt met de import."},{
+Key:1006069,Text:"Controleer de internet-verbinding."},{
+Key:1006070,Text:"Beschikbaar vanaf {0}"},{
+Key:1006071,Text:"Nieuwe versie beschikbaar sinds {0}"},{
+Key:1006072,Text:"Uw versie dateert uit de {0}"},{
+Key:1006073,Text:"Uw versie van {0} is up-to-date."},{
+Key:1006074,Text:"Titel"},{
+Key:1006075,Text:"Staat"},{
+Key:1006076,Text:"Niet gedownload"},{
+Key:1006077,Text:"Update"},{
+Key:1006078,Text:"Update beschikbaar"},{
+Key:1006079,Text:"Nieuw"},{
+Key:1006080,Text:"Nieuwe update beschikbaar"},{
+Key:1006081,Text:"Geen zangbundel is geselecteerd.
+U moet ten minste één zangbundel."},{
+Key:1006082,Text:"Geen Bijbel is geselecteerd.
+U moet ten minste een Bijbel."},{
+Key:1006083,Text:"Geen taal is geselecteerd.
+U moet ten minste één taal selecteren."},{
+Key:1006084,Text:"Code"},{
+Key:1006085,Text:"Bron file: <b>{0}</b>"},{
+Key:1006086,Text:"Bronmap:
+<b>{0}</b>"},{
+Key:1006087,Text:"Document om te zoeken"},{
+Key:1006090,Text:"Naam van de nieuwe Bijbel van VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Aan de nieuwe zangbundel van VideoPsalm name: <b>{0}</b>"},{
+Key:1006095,Text:"In de online VideoPsalm bibliotheek, worden sommige documenten toegevoegd of bijgewerkt (bijvoorbeeld om een typefout te corrigeren).
+Afhankelijk van de status van die documenten, kunt u beslissen ze al dan niet te downloaden.
+
+
+<b>Hier hoe u de status van de documenten kunt onderscheiden:</b>
+
+-De documenten die u niet hebt gedownload worden weergegeven in normaal font.
+-De documenten die u hebt gedownload en niet werden bijgewerkt worden <i>cursief</i>weergegeven. Ze zijn gemarkeerd met een <image=check_16>OK.
+
+U hoeft ze niet opnieuw te downloaden, behalve in het geval dat u wilt eventuele wijzigingen wilt annuleren die u heeft gemaakt.
+
+-Documenten die u heeft gedownload en die ondertussen correcties hebben in de VideoPsalm online bibliotheek, worden <b>vetgedrukt</b>weergegeven. Ze zijn gemarkeerd met een potlood <image=pencil2_16>.
+
+
+In het tekstvak aan de rechterkant wordt beschreven welke correcties zijn aangebracht in het document: dit kan u helpen te beslissen of het zinvol is ze te downloaden.
+
+
+<b>Opgelet:</b> Als u uw document bijwerkt door het opnieuw te downloaden, verliest u alle wijzigingen die u hebt gemaakt, inclusief stijl attributen omdat VideoPsalm die van u vervangt bij het downloaden.
+
+Uw eigen bestand wordt echter niet verwijderd: het blijft op de schijf maar onzichtbaar in VideoPsalm omdat VideoPsalm de extentie wijzigt in .ignore.
+
+<b>Advies:</b> : download alleen de documenten die nuttig zijn. 
+Als u teveel documenten heeft, kan het laden van -, en het zoeken in VideoPsalm trager worden.
+
+
+U kunt op elk gewenst moment een boek of een Bijbel uit uw VideoPsalm verwijderen. Om dit te doen, gebruikt u de knop ' <image=delete2_16>verwijderen ' in het tabblad 'Wijzigen'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Geschiedenis van wijzigingen in '{0}'."},{
+Key:1006100,Text:"Zangbundels van de bibliotheek van VideoPsalm online"},{
+Key:1006105,Text:"EasySlides liedjes"},{
+Key:1006110,Text:"MediaShout liedjes"},{
+Key:1006115,Text:"OpenLP liedjes"},{
+Key:1006116,Text:"VerseView liedjes"},{
+Key:1006120,Text:"De liederen in de indeling 'OpenLyrics'."},{
+Key:1006125,Text:"OpenSong liedjes"},{
+Key:1006130,Text:"Een Psalmo zangbundel"},{
+Key:1006131,Text:"Een zangbundel in tekstindeling"},{
+Key:1006132,Text:"EasyWorship 2009 liederen"},{
+Key:1006133,Text:"Liederen in formaat \"ChordPro\"."},{
+Key:1006134,Text:"Nummers van WebAsaph"},{
+Key:1006135,Text:"Liederen in formaat «CCLI."},{
+Key:1006140,Text:"Bijbels uit de bibliotheek van VideoPsalm online"},{
+Key:1006145,Text:"Een Bijbel Bijbel Database"},{
+Key:1006150,Text:"Een Bijbel van OpenLP"},{
+Key:1006155,Text:"Een Bijbel van OpenSong"},{
+Key:1006160,Text:"Een Unbound Bible Bijbel"},{
+Key:1006165,Text:"Een Zefania Bijbel"},{
+Key:1006166,Text:"Een Bijbel van EasySlides"},{
+Key:1006167,Text:"Een Bijbel in het formaat \"Osis\"."},{
+Key:1006168,Text:"Een Bijbel in de indeling «USFM» zangbundels (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Selecteert u de zangbundels vanuit de online VideoPsalm bibliotheek die u wilt importeren in uw VideoPsalm"},{
+Key:1006185,Text:"Selecteer een database van EasySlides met de nummers die u wilt importeren in uw VideoPsalm (extensie .mdb)"},{
+Key:1006190,Text:"Selecteer een database van MediaShout met de nummers die u wilt importeren in uw VideoPsalm (extensie .mdb)"},{
+Key:1006195,Text:"Selecteer een database van OpenLP met de nummers die u wilt importeren in uw VideoPsalm (extensie .sqlite bestand)"},{
+Key:1006196,Text:"Selecteer een database van VerseView met de nummers die u wilt importeren in uw VideoPsalm (extensie .db-bestand)"},{
+Key:1006200,Text:"Selecteer een map die liederen bevat in het 'OpenLyrics'-formaat die u wilt importeren in uw VideoPsalm (bestanden met .XML-extensie)"},{
+Key:1006205,Text:"Selecteer een map met OpenSong nummers die u wilt importeren in uw VideoPsalm (bestanden zonder extensie)"},{
+Key:1006210,Text:"Selecteer een geëxporteerde Psalmo compendium RTF-indeling die u wilt importeren in uw VideoPsalm (extensie .rtf-bestand)"},{
+Key:1006211,Text:"Selecteer een zangbundel in de tekstindeling die u wilt importeren in uw VideoPsalm (extensie .txt-bestand)"},{
+Key:1006212,Text:"Selecteer een database van EasyWorship 2009 met de nummers die u wilt importeren in uw VideoPsalm (extensie .db-bestand)"},{
+Key:1006213,Text:"Selecteer een map die liederen bevat in ChordPro-formaat die u wilt importeren in uw VideoPsalm (bestanden met .chordpro, .chopro, .crd of .cho-extensie)"},{
+Key:1006214,Text:"Selecteer een database van WebAsaph met de nummers die u wilt importeren in uw VideoPsalm (bestand extensie .ltc)"},{
+Key:1006215,Text:"Selecteer een map die liederen bevat in het CCLI formaat om in uw VideoPsalm te importeren(bestanden met .usr extensie)"},{
+Key:1006216,Text:"Selecteer een map die liederen in het text formaat heeft, die u wilt importeren in uw VideoPsalm (bestanden met de .txt extensie)"},{
+Key:1006217,Text:"Selecteer een map met Presenter liederen die u wilt importeren in uw VideoPsalm (bestanden met .txt extensie)"},{
+Key:1006220,Text:"Selecteer Bijbels van de VideoPsalm online bibliotheek die u wilt importeren in uw VideoPsalm"},{
+Key:1006225,Text:"Selecteer een Bijbel Database die u wilt importeren in uw VideoPsalm (extensie .txt-bestand)"},{
+Key:1006230,Text:"Selecteer een Bijbel OpenLP, u wilt importeren in uw VideoPsalm (extensie .sqlite bestand)"},{
+Key:1006235,Text:"Selecteer een Bijbel OpenSong u wilt importeren in uw VideoPsalm (bestand zonder extensie)"},{
+Key:1006240,Text:"Selecteer een Unbound Bible Bijbel om te importeren in uw VideoPsalm (extensie .txt-bestand)"},{
+Key:1006245,Text:"Selecteer een Bijbel van de Zefania u wilt importeren in uw VideoPsalm (extensie .XML-bestand)"},{
+Key:1006247,Text:"Selecteer een Bijbel EasySlides u wilt importeren in uw VideoPsalm (extensie .mdb)"},{
+Key:1006248,Text:"Selecteer een Bijbel in \"Osis\" formaat om te importeren in uw VideoPsalm (extensie .xml, .osi, of .osis bestand)"},{
+Key:1006249,Text:"Kies de zangbundels van een Bijbel \"USFM\" formaat om te importeren in uw VideoPsalm (extensie .sfm of .usfm-bestanden)"},{
+Key:1006252,Text:"Selecteer de talen van de VideoPsalm online bibliotheek die u wilt importeren in uw VideoPsalm"},{
+Key:1006255,Text:"Importeren <b>{0}-zangbundel (s) van de bibliotheek van VideoPsalm online</b> :
+{1}"},{
+Key:1006260,Text:"<b>EasySlides liedjes</b> importeren"},{
+Key:1006265,Text:"Importeer <b>MediaShout formaat liederen</b>"},{
+Key:1006270,Text:"Importeren <b>van OpenLP nummers</b>"},{
+Key:1006271,Text:"Importeer <b>VerseView formaat liederen</b>"},{
+Key:1006275,Text:"<b>liederen in de «OpenLyrics»-indeling</b> importeren"},{
+Key:1006280,Text:"Importeren <b>van OpenSong nummer</b>"},{
+Key:1006285,Text:"Importeer <b>een zangbundel van Psalmo</b> importeren"},{
+Key:1006286,Text:"Importeer <b>een zangbundel in tekst formaat</b>"},{
+Key:1006287,Text:"<b>De nummers van EasyWorship 2009 importeren</b>"},{
+Key:1006288,Text:"Importeer <b>ChordPro formaat liederen</b>"},{
+Key:1006289,Text:"<b>De nummers van WebAsaph</b> importeren"},{
+Key:1006290,Text:"<b>Indeling CCLI liedjes</b> importeren"},{
+Key:1006291,Text:"Importeer <b>tekst formaat liederen</b>"},{
+Key:1006292,Text:"Importeer <b>Presenter formaat liederen</b>"},{
+Key:1006293,Text:"Importeer <b>Lyrix formaat liederen</b>"},{
+Key:1006295,Text:"Importeren: <b>{0} Bijbel (s) van de bibliotheek van VideoPsalm online</b>
+{1}"},{
+Key:1006300,Text:"<b>Een Bijbel van Bijbel Database</b> importeren"},{
+Key:1006305,Text:"Importeren van <b>een Bijbel van OpenLP</b>"},{
+Key:1006310,Text:"Importeren van <b>een Bijbel van OpenSong</b>"},{
+Key:1006315,Text:"Importeer <b>een Unbound Bible Bijbel van niet-afhankelijke Bijbel</b>"},{
+Key:1006320,Text:"Importeren van <b>Een Bijbel Zefania</b>"},{
+Key:1006321,Text:"Importeren van <b>Een Bijbel EasySlides</b>"},{
+Key:1006322,Text:"Importeren van <b>een Bijbel in het formaat \"Osis\"</b>"},{
+Key:1006323,Text:"Importeren van <b>een Bijbel in de indeling «USFM»</b>"},{
+Key:1006325,Text:"Importeren <b>{0} taal (s) van de bibliotheek van VideoPsalm online</b> :
+{1}"},{
+Key:1006340,Text:"Selecteer een database van EasySlide"},{
+Key:1006345,Text:"Selecteer een MediaShout database"},{
+Key:1006350,Text:"Selecteer een database van OpenLP"},{
+Key:1006351,Text:"Selecteer een database van VerseView"},{
+Key:1006355,Text:"Selecteer een map met nummers in de indeling 'OpenLyrics'."},{
+Key:1006360,Text:"Selecteer een map die nummers van OpenSong bevat"},{
+Key:1006365,Text:"Selecteer een RTF-bestand met geëxporteerde Psalmo nummers"},{
+Key:1006366,Text:"Selecteer een bestand met liederen in tekstindeling"},{
+Key:1006367,Text:"Selecteer een database van EasyWorship 2009"},{
+Key:1006368,Text:"Selecteer een map die liederen in formaat \"ChordPro bevat\"."},{
+Key:1006369,Text:"Selecteer een WebAsaph database"},{
+Key:1006370,Text:"Selecteer een map die liederen in formaat «CCLI bevat."},{
+Key:1006371,Text:"Selecteer een map die liederen in het text formaat heeft"},{
+Key:1006372,Text:"Selecteer een map die liederen in het Presenter formaat heeft"},{
+Key:1006373,Text:"Selecteer een map die liederen in het Lyrix formaat heeft"},{
+Key:1006375,Text:"Selecteer een Bijbel van BibleDatabase"},{
+Key:1006380,Text:"Selecteer een Bijbel van OpenLP"},{
+Key:1006385,Text:"Selecteer een Bijbel van OpenSong"},{
+Key:1006390,Text:"Selecteer een Unbound Bible Bijbel"},{
+Key:1006395,Text:"Selecteer een Zefania Bijbel"},{
+Key:1006397,Text:"Selecteer een Bijbel van EasySlides"},{
+Key:1006398,Text:"Selecteer een Bijbel in het formaat \"Osis\"."},{
+Key:1006399,Text:"Kies de zangbundels van een Bijbel in het formaat \"USFM."},{
+Key:1006405,Text:"EasySlide database"},{
+Key:1006410,Text:"MediaShout database 4"},{
+Key:1006411,Text:"MediaShout database 3"},{
+Key:1006415,Text:"OpenLP database"},{
+Key:1006416,Text:"Database van EasyWorship 2009"},{
+Key:1006417,Text:"VerseView database"},{
+Key:1006420,Text:"De map '{0}'.
+bevat geen zang van het 'OpenLyrics' (extensie xml) formaat."},{
+Key:1006425,Text:"De map '{0}'.
+bevat geen OpenSong nummer (de nummers van OpenSong zijn bestanden zonder extensie)."},{
+Key:1006430,Text:"Nummers die zijn geëxporteerd vanuit Psalmo"},{
+Key:1006431,Text:"Nummers in tekstindeling"},{
+Key:1006432,Text:"De map '{0}'.
+bevat geen zang van het \"ChordPro\" (extensie chopro/chordpro, crd en cho) formaat."},{
+Key:1006433,Text:"WebAsaph database"},{
+Key:1006434,Text:"De map '{0}'.
+bevat geen lied in formaat «CCLI» (met de extensie .txt of .usr)."},{
+Key:1006435,Text:"De map “{0}”
+heeft geen liederen in het text formaat (.txt extensie)"},{
+Key:1006436,Text:"De map “{0}”
+heeft geen liederen in het Presenter formaat (.txt extensie)"},{
+Key:1006437,Text:"Lyrix database"},{
+Key:1006440,Text:"BijbelDatabase Bijbels"},{
+Key:1006445,Text:"OpenLP Bijbels"},{
+Key:1006450,Text:"OpenSong Bijbels"},{
+Key:1006455,Text:"Unbound Bibles Bijbels"},{
+Key:1006460,Text:"Zefania Bijbels"},{
+Key:1006462,Text:"EasySlides Bijbels"},{
+Key:1006463,Text:"Bijbels in het \"Osis\" formaat."},{
+Key:1006464,Text:"zangbundels van de Bijbel in het formaat \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Ik hou van de Heer 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Mijn Liedjes.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Ik hou van de Heer"},{
+Key:1006510,Text:"MSAccess databases"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Alle bestanden"},{
+Key:1006520,Text:"Sqlite databases"},{
+Key:1006525,Text:"Paradox-database"},{
+Key:1006526,Text:"Database WebAsaph"},{
+Key:1006600,Text:"Kies de VideoPsalm on-line bibliotheek of een andere bron"},{
+Key:1006601,Text:"VideoPsalm online bibliotheek bevat vele zangbundels in verschillende talen"},{
+Key:1006602,Text:"VideoPsalm online (internetverbinding vereist tijdens het importeren) bibliotheek"},{
+Key:1006603,Text:"Zangbundels in andere populaire formaten, om te importeren"},{
+Key:1006604,Text:"Kies de VideoPsalm on-line bibliotheek of een andere bron"},{
+Key:1006605,Text:"VideoPsalm online bibliotheek bevat vele vertalingen van de Bijbel in verschillende talen"},{
+Key:1006606,Text:"VideoPsalm online (internetverbinding vereist tijdens het importeren) bibliotheek"},{
+Key:1006607,Text:"Een Bijbel in een populair, om op uw vaste schijf te formatteren te importeren"},{
+Key:1006608,Text:"Wat is de bron van uw nummers-formaat?"},{
+Key:1006609,Text:"Wat is het Bijbel bron formaat?"},{
+Key:1006610,Text:"U kunt importeren in uw VideoPsalm een Bijbel in een populaire formaat opgeslagen in uw PC"},{
+Key:1006611,Text:"U kunt importeren in uw VideoPsalm in een populaire formaat nummers opgeslagen in uw PC"},{
+Key:1006612,Text:"Selecteer van waar de afbeeldingen te importeren in uw VideoPsalm"},{
+Key:1006613,Text:"Internet kent vele plekken met prachtige achtergronden"},{
+Key:1006614,Text:"Afbeeldingen van een selectie van websites (een internet verbinding is nodig tijdens de import)"},{
+Key:1006615,Text:"Afbeeldingen van de harddisk"},{
+Key:1006616,Text:"Selecteer van waar u afbeeldingen wilt importeren in uw VideoPsalm"},{
+Key:1006617,Text:"Internet kent vele plekken met prachtige achtergrondvideo's"},{
+Key:1006618,Text:"Videos van een selectie van websites (een internet verbinding is nodig tijdens de import)"},{
+Key:1006619,Text:"Video's van uw harddisk"},{
+Key:1006620,Text:"Like VideoPsalm op Facebook"},{
+Key:1006621,Text:"Beschikbaar sinds"},{
+Key:1006700,Text:"VideoPsalm online bibliotheek 
+(refereert naar duizenden liederen)"},{
+Key:1006701,Text:"EasySlide"},{
+Key:1006702,Text:"MediaShout"},{
+Key:1006703,Text:"OpenLP"},{
+Key:1006704,Text:"VerseView"},{
+Key:1006705,Text:"OpenLyrics"},{
+Key:1006706,Text:"OpenSong"},{
+Key:1006707,Text:"Psalmo"},{
+Key:1006708,Text:"Tekst (zangbundel)"},{
+Key:1006709,Text:"EasyWorship"},{
+Key:1006710,Text:"ChordPro"},{
+Key:1006711,Text:"WebAsaph"},{
+Key:1006712,Text:"CCLI"},{
+Key:1006713,Text:"Tekst (liederen)"},{
+Key:1006714,Text:"Presenter"},{
+Key:1006715,Text:"Lyrix"},{
+Key:1006750,Text:"VideoPsalm online bibliotheek 
+(refereert naar honderden Bijbel vertalingen)"},{
+Key:1006751,Text:"Bijbel Database"},{
+Key:1006752,Text:"OpenLP"},{
+Key:1006753,Text:"OpenSong"},{
+Key:1006754,Text:"Unbound Bible"},{
+Key:1006755,Text:"Zefania"},{
+Key:1006756,Text:"EasySlides"},{
+Key:1006757,Text:"Osis"},{
+Key:1006758,Text:"USFM (Wycliffe/SIL/Paratex)"},{
+Key:1007000,Text:"Back-up"},{
+Key:1007001,Text:"Wilt u de VideoPsalm back-up starten in de map « {0} » ?"},{
+Key:1007004,Text:"Kan niet de back-up uitvoeren in de geselecteerde map
+omdat het is gelegen in de huidige map van de VideoPsalm documenten
+({0})."},{
+Key:1007005,Text:"Er is niet genoeg schijfruimte op station {0}.
+Moet {1: #, #. #} MB, en er zijn slechts {2: #, #. #} MB beschikbaar."},{
+Key:1007006,Text:"De back-up kan niet worden voltooid:
+
+{0}"},{
+Key:1007007,Text:"Kan niet downloaden van het Microsoft .NET Framework 4.0:
+
+{0}
+
+Dit kan worden veroorzaakt door het ontbreken van Internet-verbinding.
+De back-up zal doorgaan,
+maar u zal niet zitten kundig voor Microsoft .NET Framework 4.0 installeren vanaf de back-up."},{
+Key:1007008,Text:"niet beschikbaar {0}"},{
+Key:1007009,Text:"Herinnering: Back-up kan niet kopiëren
+de installatie van Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"De back-up is correct voltooid."},{
+Key:1007011,Text:"Wilt u de back-up afbreken?"},{
+Key:1007030,Text:"Selecteer een map of maak alles-in-één als u wilt een back-up van VideoPsalm plaatsen"},{
+Key:1007031,Text:"De back-up kopieërt uw documenten (zangbundels, Bijbels, afbeeldingen, video's, stijlen) op een locatie die u opgeeft, bijvoorbeeld op:
+-een USB
+-een externe harde schijf
+-een netwerkmap
+-enz.
+
+<b>De back-up stelt u in staat om:</b>
+-uw documenten te beveiligen door ze te kopieëren op een veilige plek
+-een draagbare versie van VideoPsalm te maken, bijvoorbeeld op een USB-stick,
+-uw documenten eenvoudig over te brengen op een andere computer met behulp van de functie Herstellen van uw documenten voor meerdere configuraties..."},{
+Key:1007032,Text:"Selecteer de documenten die u wilt opslaan:"},{
+Key:1007033,Text:"&Zangbundels"},{
+Key:1007034,Text:"&De Bijbels"},{
+Key:1007035,Text:"&Afbeeldingen"},{
+Key:1007036,Text:"&Video 's"},{
+Key:1007037,Text:"&Sla uw documenten hier op:"},{
+Key:1007038,Text:"Specificeer hier de map waar u de VideoPsalm documenten wilt opslaan.
+
+Bijvoorbeeld: \"E:\\Mijn VideoPsalm backup\"
+
+Als de map niet bestaat, zal deze automatisch worden aangemaakt tijdens de backup."},{
+Key:1007039,Text:"&Maak een portable toepassing van VideoPsalm"},{
+Key:1007040,Text:"Voegt alle uitvoerbare bestanden die nodig zijn voor de werking van VideoPsalm toe aan de back-up map.
+
+Normaalgesproken wilt u een portable VideoPsalm toepassing hebben op een USB stick.
+
+Een portable back-up stelt u in staat VideoPsalm uit te voeren op elke andere computer, direct vanaf de USB stick, zonder noodzaak om VideoPsalm te installeren.
+
+Start VideoPsalm vanaf de USB stick, waarbij u toegang heeft tot alle functies van VideoPsalm, inclusief de back-up. Dit laat toe om VideoPsalm op te slaan op de vaste schijf van een andere computer, om het vervolgens uit te voeren zonder de USB stick.
+
+<b>Belangrijk</b>
+VideoPsalm opties worden niet toegevoegd aan de back-up. 
+Bij de eerste keer dat u VideoPsalm uitvoert op een andere computer, moet u wellicht de VideoPsalm opties aanpassen, bijvoorbeeld de licentie voor de kerk."},{
+Key:1007041,Text:"&Het Microsoft .NET Framework 4.0 Setup programma toevoegen"},{
+Key:1007042,Text:"VideoPsalm heeft Microsoft .NET Framework 4.0 nodig. Nieuwere computers hebben vaak .NET Framework 4.0 of hoger al geïnstalleerd. Als u niet zeker weet of .NET Framework 4.0 is geïnstalleerd op de andere computer, schakel dan het selectievakje 'Het Microsoft .NET Framework 4.0 Setup programma toevoegen'. VideoPsalm zal dan een kopie van de installatie van .NET Framework 4.0 (een internet-verbinding is hiervoor vereist) op de USB-stick plaatsen.Van de USB-stick, kunt u gemakkelijk .NET Framework 4.0 installeren op de andere computer voordat u VideoPsalm start. Installatie van .NET Framework 4.0 is erg snel en Windows hoeft niet opnieuw te worden gestart.
+
+U vindt het installatiebestand voor .NET Framework 4.0 in de back-up map. Dit bestand heet \"dotNetFx40_Full_x86_x64.exe. Om de installatie te beginnen dubbelklikt u op dit bestand."},{
+Key:1007043,Text:"&Back-up starten"},{
+Key:1007044,Text:"Het Microsoft .NET Framework 4.0 downloaden"},{
+Key:1007045,Text:"&VideoPsalm documenten map (die zal worden opgeslagen):"},{
+Key:1007046,Text:"Verwijder geen zangbundels uit de aangegeven map voorafgaand aan de back-up"},{
+Key:1007047,Text:"Verwijder zangbundels uit de opgegeven map voorafgaand aan de back-up"},{
+Key:1007048,Text:"Laat de Bijbels in de opgegeven map staan, wanneer er een back-up van die van mij wordt gemaakt."},{
+Key:1007049,Text:"Verwijder Bijbels uit de opgegeven map voorafgaand aan een back-up"},{
+Key:1007050,Text:"Verwijder geen afbeeldingen uit de aangegeven map voorafgaand aan de back-up"},{
+Key:1007051,Text:"Verwijder afbeeldingen uit de opgegeven map wanneer er een back-up wordt gemaakt."},{
+Key:1007052,Text:"Verwijder geen video's uit de aangegeven map voorafgaand aan de back-up"},{
+Key:1007053,Text:"Verwijder video's uit de opgegeven map voorafgaand aan de back-up"},{
+Key:1007054,Text:"Selecteer een map of een maken als u wilt een back-up van VideoPsalm plaatsen"},{
+Key:1007055,Text:"Audio toestaan uit de opgegeven map voordat is opslaan mijne"},{
+Key:1007056,Text:"Verwijderen uit de map die is opgegeven voor audio is opslaan mijne"},{
+Key:1007057,Text:"&Audio"},{
+Key:1007058,Text:"Verwijder geen documenten uit de aangegeven map voorafgaand aan de back-up"},{
+Key:1007059,Text:"Verwijder documenten uit de aangegeven map voorafgaand aan de back-up"},{
+Key:1007060,Text:"&Documenten"},{
+Key:1008000,Text:"Een back-up terugzetten"},{
+Key:1008001,Text:"Wilt u een back-up van VideoPsalm uit de map
+« {0} » terugzetten ?
+
+Let op: Afhankelijk van de opties die u hebt geselecteerd, worden uw huidige documenten mogelijk vervangen of verwijderd."},{
+Key:1008002,Text:"Selecteer de backup map om te herstellen."},{
+Key:1008004,Text:"Kan niet herstellen van een back-up van de map die u hebt gekozen,
+omdat het is gelegen in de huidige map van de VideoPsalm documenten."},{
+Key:1008006,Text:"Niet mogelijk om het terugzetten af te ronden:
+
+{0}"},{
+Key:1008010,Text:"Het herstellen is voltooid."},{
+Key:1008011,Text:"Wilt u het herstel verlaten?"},{
+Key:1008012,Text:"Een back-up terugzetten"},{
+Key:1008032,Text:"Selecteer de documenten die u wilt terugzetten:"},{
+Key:1008033,Text:"&Zangbundels"},{
+Key:1008034,Text:"&De Bijbels"},{
+Key:1008035,Text:"&Afbeeldingen"},{
+Key:1008036,Text:"&Video 's"},{
+Key:1008043,Text:"&Herstellen"},{
+Key:1008044,Text:"Laat mijn zangbundels staan, bij het terugzetten van de back-up"},{
+Key:1008045,Text:"Verwijder mijn zangbundels voordat de back-up wordt teruggezet"},{
+Key:1008046,Text:"Laat mijn Bijbels staan, bij het terugzetten van de back-up"},{
+Key:1008047,Text:"Verwijder mijn Bijbels bij het terugzetten van een back-up"},{
+Key:1008048,Text:"Laat mijn afbeeldingen staan, bij het terugzetten van de back-up"},{
+Key:1008049,Text:"Verwijder mijn afbeeldingen voordat de back-up wordt teruggezet"},{
+Key:1008050,Text:"Laat mijn video's staan, bij het terugzetten van de back-up"},{
+Key:1008051,Text:"Mijn video's verwijderen bij het terugzetten van de back-up"},{
+Key:1008052,Text:"&Terugzetten van een back-up van:"},{
+Key:1008053,Text:"Specificeer hier de map van waaruit de VideoPsalm documenten worden hersteld.
+
+Voorbeeld: 'E:\\VideoPsalm'."},{
+Key:1008054,Text:"Map met &VideoPsalm documenten (waar de back-up zal worden hersteld):"},{
+Key:1008055,Text:"Vernieuwen"},{
+Key:1008056,Text:"Selecteer een map met een back-up van VideoPsalm"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Laat mijn audio voordat u gaat herstellen vanaf back-up"},{
+Key:1008059,Text:"Mijn audio verwijderen voordat u gaat herstellen vanaf back-up"},{
+Key:1008060,Text:"&Documenten"},{
+Key:1008061,Text:"Laat mijn documenten staan, bij het terugzetten van de back-up"},{
+Key:1008062,Text:"Verwijder mijn documenten voordat de back-up wordt teruggezet"},{
+Key:1008999,Text:"Video-projector"},{
+Key:1009000,Text:"een lied"},{
+Key:1009001,Text:"{0} liederen"},{
+Key:1009002,Text:"een lijst van verzen"},{
+Key:1009003,Text:"{0} lijsten van verzen"},{
+Key:1009004,Text:"een afbeelding"},{
+Key:1009005,Text:"{0} beelden"},{
+Key:1009006,Text:"Bijbel '{0}'."},{
+Key:1009007,Text:"Hoofdstuk {0}"},{
+Key:1009009,Text:"{0} Bijbels"},{
+Key:1009010,Text:"Beeld '{0}'."},{
+Key:1009011,Text:"{0} ({1} afbeeldingen)"},{
+Key:1009012,Text:"{0} beelden"},{
+Key:1009013,Text:"{0} ({1} plaatjes)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"De standaardstijl laden"},{
+Key:1009016,Text:"Laden van de stijl van de zangbundels"},{
+Key:1009017,Text:"Laden van zangbundel \"{0}\""},{
+Key:1009018,Text:"Laden van de stijl van de Bijbels"},{
+Key:1009019,Text:"Laden van Bijbel '{0}'."},{
+Key:1009020,Text:"Bestand: {0}"},{
+Key:1009100,Text:"{0} ({1} liederen)"},{
+Key:1009101,Text:"{0} (één enkel lied)"},{
+Key:1009102,Text:"{0} (geen zang)"},{
+Key:1009103,Text:"Er is reeds een bestand '{0}'.
+in die VideoPsalm zouden besparen de nieuwe zangbundel '{1}'.
+
+Het is onmogelijk om op te slaan voor deze nieuwe zangbundel.
+Geef een afkorting of een unieke naam voor deze nieuwe zangbundel en probeer opnieuw op te slaan."},{
+Key:1009104,Text:"Opslaan is mislukt"},{
+Key:1009105,Text:"Niet in staat om het bestand te verplaatsen
+{0}
+wormen
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} Zangbundels"},{
+Key:1009110,Text:"{0} {1}:{2} ({3} Bijbel verzen)"},{
+Key:1009111,Text:"Video '{0}'."},{
+Key:1009112,Text:"{0} ({1} video's)"},{
+Key:1009113,Text:"video's {0}"},{
+Key:1009114,Text:"Kan de zangbundel niet opslaan. Geef de zangbundel een naam om deze te kunnen opslaan."},{
+Key:1009117,Text:"Website"},{
+Key:1009118,Text:"{0} ({1} websites)"},{
+Key:1010000,Text:"Toon meer kleuren"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Sluiten"},{
+Key:1010003,Text:"&Transparante"},{
+Key:1010004,Text:"Annuleren"},{
+Key:1010005,Text:"OK"},{
+Key:1010006,Text:"Minder kleuren weergeven"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Sluit zonder een veld toe te voegen"},{
+Key:1011001,Text:"Afkorting van de zangbundel"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Auteur van nummer"},{
+Key:1011004,Text:"Auteur van de zangbundel"},{
+Key:1011005,Text:"Capo"},{
+Key:1011006,Text:"Sleutel"},{
+Key:1011007,Text:"Componist"},{
+Key:1011008,Text:"Copyright van de song"},{
+Key:1011009,Text:"Auteursrecht van het boek"},{
+Key:1011010,Text:"Couplet label"},{
+Key:1011011,Text:"Label en het couplet nummer"},{
+Key:1011012,Text:"Formaat"},{
+Key:1011013,Text:"Licentie van de kerk"},{
+Key:1011014,Text:"Belangrijkste rij"},{
+Key:1011015,Text:"Memo 1"},{
+Key:1011016,Text:"Memo 2"},{
+Key:1011017,Text:"Memo 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Positie van het vers"},{
+Key:1011020,Text:"Vers nummer"},{
+Key:1011021,Text:"Nummer van het lied"},{
+Key:1011022,Text:"Nota van het vers"},{
+Key:1011023,Text:"Aantal nummers uit de zangbundel"},{
+Key:1011024,Text:"Aantal coupletten"},{
+Key:1011025,Text:"Referentie"},{
+Key:1011026,Text:"Volgorde van coupletten"},{
+Key:1011027,Text:"Handtekening"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Thema"},{
+Key:1011030,Text:"Titel van het nummer"},{
+Key:1011031,Text:"Titel van het zangboek"},{
+Key:1011032,Text:"Toon"},{
+Key:1011033,Text:"3. Verwijder alle velden"},{
+Key:1011034,Text:"2. Standaard velden gebruiken"},{
+Key:1011035,Text:"Beheerder"},{
+Key:1011036,Text:"Taal"},{
+Key:1011037,Text:"Redacteur"},{
+Key:1011038,Text:"Omzetting"},{
+Key:1011101,Text:"Afkorting van de Bijbel"},{
+Key:1011102,Text:"Afkorting van het boek"},{
+Key:1011103,Text:"Hoofdstuk"},{
+Key:1011104,Text:"Copyright van de Bijbel"},{
+Key:1011105,Text:"Beschrijving van de Bijbel"},{
+Key:1011107,Text:"Redacteur"},{
+Key:1011108,Text:"Taal"},{
+Key:1011109,Text:"Naam van de Bijbel"},{
+Key:1011110,Text:"Naam van het boek"},{
+Key:1011111,Text:"Aantal hoofdstukken van het boek"},{
+Key:1011112,Text:"Aantal verzen van het hoofdstuk"},{
+Key:1011113,Text:"Testament"},{
+Key:1011114,Text:"Vers"},{
+Key:1011115,Text:"Beheerder van de Bijbel"},{
+Key:1011200,Text:"Een veld &invoegen:"},{
+Key:1011201,Text:"Stijl van de tekst in de hoofd-, en voettekst van het vers"},{
+Key:1011202,Text:"Voer de weer te geven tekst in.
+Dit is een vrij tekstveld en zal in het algemeen bestaan uit een reeks vooraf gedefinieerde velden.
+
+"},{
+Key:1011203,Text:"Een lijst met vooraf gedefinieerde velden"},{
+Key:1011204,Text:"Een vooraf gedefinieerde veld wilt invoegen, selecteert u deze in de lijst.
+
+Het veld wordt automatisch ingevoegd in de tekst hierboven, box op de invoegpositie."},{
+Key:1011213,Text:"Zichtbaarheid:"},{
+Key:1012000,Text:"Het bestand '{0}' bestaat reeds.
+
+Wilt u het vervangen?"},{
+Key:1012001,Text:"Bestaand bestand"},{
+Key:1013000,Text:"Verberg het video voorbeeld"},{
+Key:1013001,Text:"De voorvertoning weergeven"},{
+Key:1013002,Text:"Proportioneel vergroten om het scherm te vullen"},{
+Key:1013003,Text:"Verminder de video grootte om deze helemaal weer te geven"},{
+Key:1013004,Text:"Herhaling uitschakelen"},{
+Key:1013005,Text:"Activeer herhaling"},{
+Key:1013006,Text:"Bij het begin beginnen"},{
+Key:1013007,Text:"Pauze"},{
+Key:1013008,Text:"Afspelen"},{
+Key:1013009,Text:"Ga naar het einde"},{
+Key:1013010,Text:"Geluid"},{
+Key:1013011,Text:"Mute"},{
+Key:1013012,Text:"Volume"},{
+Key:1013013,Text:"Volg"},{
+Key:1013014,Text:"Bepaal de generieke grenzen van de video"},{
+Key:1013015,Text:"De grenzen van video voor elke couplet definiëren"},{
+Key:1013016,Text:"Verstreken tijd"},{
+Key:1013017,Text:"Totale tijd"},{
+Key:1013018,Text:"Resterende tijd"},{
+Key:1013019,Text:"Klik om een andere waarde weer te geven"},{
+Key:1014000,Text:"Bericht instellingen"},{
+Key:1014001,Text:"&Lettertype:"},{
+Key:1014002,Text:"&Grootte:"},{
+Key:1015000,Text:"Klok instellingen"},{
+Key:1015001,Text:"&Analoog"},{
+Key:1015002,Text:"&Digitaal"},{
+Key:1015003,Text:"&Tekst"},{
+Key:1015004,Text:"&Uren markering"},{
+Key:1015005,Text:"&Minuten markering"},{
+Key:1015006,Text:"Minutenwijzer"},{
+Key:1015007,Text:"Secondenwijzer"},{
+Key:1015014,Text:"&Tekst"},{
+Key:1015015,Text:"Toon de &seconden"},{
+Key:1015016,Text:"&Verberg de nullen in de stopwatch"},{
+Key:1015017,Text:"Verberg nullen in de aftel klok"},{
+Key:1015018,Text:"&AM/PM"},{
+Key:1015019,Text:"Uurwijzer"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minuut"},{
+Key:1018003,Text:"minuten"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"tijd"},{
+Key:1018006,Text:"uur"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"dag"},{
+Key:1018009,Text:"dagen"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"week"},{
+Key:1018012,Text:"weken"},{
+Key:1018013,Text:"maand"},{
+Key:1018014,Text:"maanden"},{
+Key:1018015,Text:"jaar"},{
+Key:1018016,Text:"jaar"},{
+Key:1019000,Text:"Sluiten"},{
+Key:1019001,Text:"Verminderen"},{
+Key:1019002,Text:"Vergroten"},{
+Key:1019003,Text:"Lager niveau"},{
+Key:1019004,Text:"Help"},{
+Key:1019005,Text:"Het Lint vastmaken (Ctrl+F1)"},{
+Key:1019006,Text:"Toon het "},{
+Key:1019007,Text:"Het Lint samenvouwen (Ctrl+F1)"},{
+Key:1019008,Text:"Toon alleen tab namen op het Lint"},{
+Key:1019100,Text:"&Zoek"},{
+Key:1019101,Text:"&Verwijderen"},{
+Key:1019301,Text:"&OK"},{
+Key:1019302,Text:"&Annuleren"},{
+Key:1019303,Text:"&Ja"},{
+Key:1019304,Text:"&Niet"},{
+Key:1019305,Text:"&Annuleren"},{
+Key:1019306,Text:"&Opnieuw proberen"},{
+Key:1019307,Text:"&Negeren"},{
+Key:1019308,Text:"&Annuleren"},{
+Key:1019309,Text:"&Knippen"},{
+Key:1019310,Text:"&Kopie"},{
+Key:1019311,Text:"&Plakken"},{
+Key:1019312,Text:"&Verwijderen"},{
+Key:1019313,Text:"&Selecteer alle"},{
+Key:1019314,Text:"Meer kleuren..."},{
+Key:1019315,Text:"Standaard kleuren"},{
+Key:1019316,Text:"Thema kleuren"},{
+Key:1019317,Text:"Automatisch"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Leviticus"},{
+Key:1020003,Text:"Numeri"},{
+Key:1020004,Text:"Deuteronomium"},{
+Key:1020005,Text:"Jozua"},{
+Key:1020006,Text:"Richteren"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuël"},{
+Key:1020009,Text:"2 Samuël"},{
+Key:1020010,Text:"1 Koningen"},{
+Key:1020011,Text:"2 Koningen"},{
+Key:1020012,Text:"1 Kronieken"},{
+Key:1020013,Text:"2 Kronieken"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemia"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Job"},{
+Key:1020018,Text:"Psalmen"},{
+Key:1020019,Text:"Spreuken"},{
+Key:1020020,Text:"Prediker"},{
+Key:1020021,Text:"Hooglied"},{
+Key:1020022,Text:"Jesaja"},{
+Key:1020023,Text:"Jeremia"},{
+Key:1020024,Text:"Klaagliederen"},{
+Key:1020025,Text:"Ezechiël"},{
+Key:1020026,Text:"Daniël"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joël"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadja"},{
+Key:1020031,Text:"Jona"},{
+Key:1020032,Text:"Micha"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakuk"},{
+Key:1020035,Text:"Zefanja"},{
+Key:1020036,Text:"Haggaï"},{
+Key:1020037,Text:"Zacharia"},{
+Key:1020038,Text:"Maleachi"},{
+Key:1020039,Text:"Mattheüs"},{
+Key:1020040,Text:"Markus"},{
+Key:1020041,Text:"Lukas"},{
+Key:1020042,Text:"Johannes"},{
+Key:1020043,Text:"Handelingen"},{
+Key:1020044,Text:"Romeinen"},{
+Key:1020045,Text:"1 Corinthe"},{
+Key:1020046,Text:"2 Corinthe"},{
+Key:1020047,Text:"Galaten"},{
+Key:1020048,Text:"Efeze"},{
+Key:1020049,Text:"Filippensen"},{
+Key:1020050,Text:"Kolossensen"},{
+Key:1020051,Text:"1 Thessalonicenzen"},{
+Key:1020052,Text:"2 Thessalonicenzen"},{
+Key:1020053,Text:"1 Timotheüs"},{
+Key:1020054,Text:"2 Timotheüs"},{
+Key:1020055,Text:"Titus"},{
+Key:1020056,Text:"Filemon"},{
+Key:1020057,Text:"Hebreeën"},{
+Key:1020058,Text:"Jakobus"},{
+Key:1020059,Text:"1 Petrus"},{
+Key:1020060,Text:"2 Petrus"},{
+Key:1020061,Text:"1 Johannes"},{
+Key:1020062,Text:"2 Johannes"},{
+Key:1020063,Text:"3 Johannes"},{
+Key:1020064,Text:"Judas"},{
+Key:1020065,Text:"Openbaring"},{
+Key:1020100,Text:"GEN"},{
+Key:1020101,Text:"EXO"},{
+Key:1020102,Text:"LEV"},{
+Key:1020103,Text:"NUM"},{
+Key:1020104,Text:"DEU"},{
+Key:1020105,Text:"JOZ"},{
+Key:1020106,Text:"RIC"},{
+Key:1020107,Text:"RUT"},{
+Key:1020108,Text:"1SAM"},{
+Key:1020109,Text:"2SAM"},{
+Key:1020110,Text:"1KON"},{
+Key:1020111,Text:"2KON"},{
+Key:1020112,Text:"1KRO"},{
+Key:1020113,Text:"2KRO"},{
+Key:1020114,Text:"EZR"},{
+Key:1020115,Text:"NEH"},{
+Key:1020116,Text:"EST"},{
+Key:1020117,Text:"JOB"},{
+Key:1020118,Text:"PSA"},{
+Key:1020119,Text:"SPR"},{
+Key:1020120,Text:"PRE"},{
+Key:1020121,Text:"HOO"},{
+Key:1020122,Text:"JES"},{
+Key:1020123,Text:"JER"},{
+Key:1020124,Text:"KLA"},{
+Key:1020125,Text:"EZE"},{
+Key:1020126,Text:"DAN"},{
+Key:1020127,Text:"HOS"},{
+Key:1020128,Text:"JOE"},{
+Key:1020129,Text:"AMO"},{
+Key:1020130,Text:"OBA"},{
+Key:1020131,Text:"JON"},{
+Key:1020132,Text:"MIC"},{
+Key:1020133,Text:"NAH"},{
+Key:1020134,Text:"HAB"},{
+Key:1020135,Text:"ZEF"},{
+Key:1020136,Text:"HAG"},{
+Key:1020137,Text:"ZAC"},{
+Key:1020138,Text:"MAL"},{
+Key:1020139,Text:"MAT"},{
+Key:1020140,Text:"MAR"},{
+Key:1020141,Text:"LUK"},{
+Key:1020142,Text:"JOH"},{
+Key:1020143,Text:"HAN"},{
+Key:1020144,Text:"ROM"},{
+Key:1020145,Text:"1COR"},{
+Key:1020146,Text:"2COR"},{
+Key:1020147,Text:"GAL"},{
+Key:1020148,Text:"EFE"},{
+Key:1020149,Text:"FIL"},{
+Key:1020150,Text:"KOL"},{
+Key:1020151,Text:"1THS"},{
+Key:1020152,Text:"2THS"},{
+Key:1020153,Text:"1TIM"},{
+Key:1020154,Text:"2TIM"},{
+Key:1020155,Text:"TIT"},{
+Key:1020156,Text:"FIL"},{
+Key:1020157,Text:"HEB"},{
+Key:1020158,Text:"JAK"},{
+Key:1020159,Text:"1PET"},{
+Key:1020160,Text:"2PET"},{
+Key:1020161,Text:"1JOH"},{
+Key:1020162,Text:"2JOH"},{
+Key:1020163,Text:"3JOH"},{
+Key:1020164,Text:"JUD"},{
+Key:1020165,Text:"OPB"}]}

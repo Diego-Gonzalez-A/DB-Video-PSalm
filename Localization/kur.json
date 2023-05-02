@@ -1,0 +1,2633 @@
+﻿{VersionDate:"20220119",Items:[{
+Key:1,Text:"Kurdish"},{
+Key:1000000,Text:"Werger"},{
+Key:1000001,Text:"Na."},{
+Key:1000003,Text:"&Ji bo lê zêde bike…"},{
+Key:1000004,Text:"Zimanek li VideoPsalm zêde bikin."},{
+Key:1000006,Text:"&Şandin"},{
+Key:1000007,Text:"Etîketan bi e-nameyê ji VideoPsalm re bişînin da ku wan di bernameya sazkirinê ya paşîn de yek bikin."},{
+Key:1000009,Text:"&Bikaranîn"},{
+Key:1000011,Text:"&Rekor"},{
+Key:1000012,Text:"Zimanê hilbijartî li VideoPsalm bicîh tîne.
+Guhertin berê bixweber têne tomar kirin."},{
+Key:1000013,Text:"Guhertinên labelê hilînin."},{
+Key:1000015,Text:"&Ji bo jêbirin"},{
+Key:1000016,Text:"Zimanê hilbijartî û hemî etîketên wî ji VideoPsalm radike."},{
+Key:1000022,Text:"&{0} label:"},{
+Key:1000024,Text:"&Ziman:"},{
+Key:1000031,Text:"Zimanek jêbirin"},{
+Key:1000032,Text:"Ma hûn pê bawer in ku hûn dixwazin zimanê {0} ji VideoPsalm rakin?
+
+Ev operasyon dê hemî etîketên wî zimanî rake û nayê vegerandin."},{
+Key:1000035,Text:"VideoPsalm nû pelên pêçandî yên bi dirêjkirina .zip afirandin
+etîketan bi zimanê xwe hene.
+Pelê guncan bi e-nameya ku nû vekiriye ve girêdin, dûv re vê e-nameyê bişînin videopsalm@gmail.com."},{
+Key:1000036,Text:"Etîketan bi e-nameyê bişînin"},{
+Key:1000037,Text:"<b>Di vê pencereya \"Wergerê\" de, hûn dikarin nivîsên ku di ekranên VideoPsalm de xuya dibin biguherînin.</b>
+Ev dihêle hûn di navbera VideoPsalm de, di nav VideoPsalm bixwe de, her nivîsek wergerînin, biguhezînin an rast bikin.
+
+<i>Ger ev pane pir zêde cîh digire, wê bi tikandina bişkoka kêmkirina piçûk a li milê çepê yê jorîn bikirtînin, an jî bi mişkê veqetînera horizontî mezinahiya wê biguhezînin.</i>
+
+VideoPsalm bi çend zimanan tê pêşkêş kirin. Navnîşa zimanên VideoPsalm dikare di panela jêrîn a çepê ya bi sernavê \"Ziman\" de were dîtin.
+Ger zimanê we di vê navnîşê de xuya nebe, hûn dikarin VideoPsalm li vir wergerînin zimanê xwe. Têbînî ku ev ê dibe ku çend demjimêrên xebatê temsîl bike.
+
+Li vir e ku meriv çawa VideoPsalm bi zimanê xwe bigire:
+
+- Bi bijartina zimanê xwe di nav yên ku hûn ê bi bişkoja \"<image=#add2_16> Zêde\" bibînin, têxin navnîşê.
+- Di tabloya jêrîn a rastê de, VideoPsalm etîketên zimanên hatine kontrol kirin nîşan dide.
+- Etîketan wergerînin zimanê xwe.
+
+Di tabloyê de, hûn dikarin etîketan wekî ku hûn dixwazin biguhezînin, mîna di peldankek Excel de.
+Tablo ji we re qada lêgerînê peyda dike. Ji ber vê yekê, ji bo ku tenê etîketên ku hin peyvên rast hene nîşan bidin, van peyvan di qutiya lêgerînê de binivîsin û dûv re li ser bişkoka \"Lêgerîn\" bikirtînin.
+Her weha hûn dikarin qada fîlterê ya ku di bin sernavê her zimanî de ye bikar bînin da ku etîketên zimanek ku hin peyvên taybetî hene fîltre bikin.
+
+Ji bo hêsankirina karê xwe, yek an çend zimanên din ên ku hûn dizanin kontrol bikin, da ku hûn wateya her labelê çêtir fam bikin û bikaribin bi çend zimanan hevdemî bixwînin.
+Bînin bîra xwe ku hûn şîroveyan kontrol bikin ji ber ku ew dihêle hûn wateya hin etîketan û cihê ku ew têne bikar anîn çêtir fam bikin.
+
+<b>Nîşe:</b> Çêtir e ku meriv şîroveyan bi îngilîzî bihêle, ji ber ku gelek kes îngilîzî fam dikin.
+
+Ji bo dîtina encamên karê wergerê:
+- Di panela zimanan de bi tikandina li ser zimanê xwe hilbijêrin
+   paşan
+- Bişkojka \"Sepandin\" (li jêr) bikirtînin.
+
+Piştre VideoPsalm bi zimanê ku we hilbijartiye tê xuyang kirin.
+
+Ji bîr nekin ku karê xwe yê wergerê bi tikandina bişkoka “<image=#disk_blue> Save” hilînin.
+Piştî tomarkirina zimanek nû, hûn dikarin wî di pencereya vebijarkan de hilbijêrin.
+
+Ji kerema xwe werger an rastkirinên xwe bi e-nameyê ji me re bişînin <b>videopsalm@gmail.com</b> bi tikandina bişkoka \"<image=#mail_16> Bişîne\".
+Dema ku hûn vê bişkojê bikirtînin, du tişt diqewimin:
+1. Muwekîlê e-nameya we bixweber vedike, mînakî Outlook.
+2. Peldankek gerok dê vebe ku VideoPsalm pelên pêvekirina .zip ên bi navên zimanan tê de cîh kirine.
+
+Pelê guncav kaş bikin û bavêjin e-nameyê û bişînin da ku em karibin wê di guhertoyek pêşerojê ya VideoPsalm de yek bikin."},{
+Key:1000038,Text:"Meriv çawa VideoPsalm bi zimanê xwe wergerîne?"},{
+Key:1000039,Text:"Zimanên ku VideoPsalm tê wergerandin. Zimanên ku hûn dixwazin etîketên wan di tabloyê de nîşan bidin kontrol bikin. Ji bo ku zimanê xwe têxin lîsteyê, li ser bişkoka \"lê zêde bike\" bikirtînin."},{
+Key:1000040,Text:"Paste (Ctrl V)"},{
+Key:1000041,Text:"Kopî (Ctrl C)"},{
+Key:1000044,Text:"Nivîsarê ji şaneyên hilbijartî paqij dike."},{
+Key:1000045,Text:"Ji holê rakirin"},{
+Key:1000046,Text:"Bi wergera wan şaneyên vala dagirin.
+VideoPsalm karûbarek wergerandina belaş ji Google bikar tîne.
+Etîketên vala yên di stûna duyemîn a nivîsê de ji etîketên stûna yekem têne wergerandin.
+
+Ji bo ji nû ve wergerandina şaneyek, pêşî naveroka wê jêbirin."},{
+Key:1000047,Text:"&Wergerandin"},{
+Key:1000048,Text:"Naveroka paqij bike (Jêbibe)"},{
+Key:1000049,Text:"Wergerandin"},{
+Key:1000050,Text:"Nekarî tiştekî wergerîne.
+Hilbijêre / nîşan bide du zimanan / stûnan.
+VideoPsalm dê zimanê yekem wergerîne ya duyemîn."},{
+Key:1000051,Text:"Nekarî tiştekî wergerîne.
+Labelek bijartî tune.
+
+Etîketan hilbijêrin."},{
+Key:1000052,Text:"Fonksiyona wergerandina otomatîkî karûbarek belaş ji Google bikar tîne.
+Vê fonksiyonê pêwendiyek înternetê hewce dike.
+
+<b>Nîşe 1</b> Şaneyên ku nivîs tê de ne nayên guhertin. Ji bo vegerandina wan, pêşî wan jêbirin.
+
+<b>Nîşe 2</b> Dibe ku krediya wergerê ya ku Google dide bi dawî bibe.
+Ger we kêmasiya krediyê nebe, VideoPsalm dê nekare etîketan wergerîne.
+Di vê rewşê de, saetek an du demjimêr bisekinin ku krediyê vegerînin.
+
+Ma tu bi rastî dixwazî ​​etîketên {2} ji {0} bo {1} bixweber wergerînî?
+"},{
+Key:1000053,Text:"Ma hûn guman dikin ku hûn dixwazin naveroka şaneyên hilbijartî jêbikin?"},{
+Key:1000057,Text:"Di dema wergerê de xeletiyeke neçaverêkirî derket.
+Dibe ku krediya weya wergerandina belaş a Google-ê xilas bibe.
+Di vê rewşê de, saetek an du saet li bendê bimînin ku krediya we bixweber vegere, paşê dîsa biceribîne.
+<b>Peyama çewtiyê:</b> {0}
+<b>Kûrahî:</b> {1}"},{
+Key:1000058,Text:"Wergera otomatîkî ya şaneyên hilbijartî qediya."},{
+Key:1001000,Text:"Zimanan zêde bikin"},{
+Key:1001001,Text:"&Ziman:"},{
+Key:1001002,Text:"Zimanên ku lê zêde bikin kontrol bikin"},{
+Key:1001003,Text:"&To lê zêde bike"},{
+Key:1001004,Text:"betal kirin"},{
+Key:1002000,Text:"Vebijêrk"},{
+Key:1002003,Text:"Giştî"},{
+Key:1002004,Text:"Pêşkêşî"},{
+Key:1002005,Text:"Video"},{
+Key:1002014,Text:"Collections"},{
+Key:1002015,Text:"Încîl"},{
+Key:1002103,Text:"&Ziman:"},{
+Key:1002105,Text:"&Peldanka belgeyên VideoPsalm:"},{
+Key:1002106,Text:"Peldanka belgeyên VideoPsalm hilbijêrin:"},{
+Key:1002112,Text:"&Guhertinên ku hûn li ayetên Mizgîniyê dikin hilînin (nivîs û şêwaz)"},{
+Key:1002202,Text:"&Çîrokên <image=#quote_straight_16> bi qertafên fransî biguherînin <image=#quote_curly_16>"},{
+Key:1002203,Text:"&Qanûnên tîpografiya fransî bikar bînin"},{
+Key:1002204,Text:"&Di stranan de, dewsa daçekan bi daçekên neşikestî veguherînin"},{
+Key:1002205,Text:"&Di ayetên Mizgîniyê de, dewsa daçekan bi xêzên neşikestî veguherînin"},{
+Key:1002502,Text:"&Bikaranîn"},{
+Key:1002503,Text:"Guhertinên xwe hilînin û pencereyê vekirî bihêlin"},{
+Key:1002504,Text:"okay"},{
+Key:1002505,Text:"Guhertinên xwe hilînin û pencereyê bigirin"},{
+Key:1002506,Text:"&Zimanê belgeyan:"},{
+Key:1002508,Text:"Bêyî tomarkirina guhertinên xwe pencereyê bigre"},{
+Key:1002510,Text:"&Destûra dêrê:"},{
+Key:1002513,Text:"Nivîsara vebijarkî ya ku hûn li vir dinivîsin dikare bixweber di serî an pêlava slaytan de were xuyang kirin.
+
+Mînakî, hûn dikarin li vir jimareya lîsansa dêrê ya CCLI diyar bikin."},{
+Key:1002516,Text:"&Zeviyên serî:"},{
+Key:1002517,Text:"&Zeviyên pê:"},{
+Key:1002531,Text:"Destûrê dide te ku hûn tîpa ku tê de VideoPsalm tê xuyang kirin biguhezînin.
+
+Fontên standard:
+- <b>Segoe UI</b>
+- <b>Tahoma</b> ji bo Windows XP
+
+Mezinahiya standard: 8,25
+
+"},{
+Key:1002532,Text:"Pêdivî ye ku VideoPsalm ji nû ve were destpêkirin da ku guhertina tîpan bi tevahî were hesibandin."},{
+Key:1002533,Text:"Ger ev qutik were hilanîn, VideoPsalm dê apostrofên rastê yên di slaytan de bi apostrofek Frensî biguhezîne, ku ew kommayek e ku li bilindahiyê tê danîn.
+
+Dema ku gotinên stranek di edîtorê de têkevin, em pêşniyar dikin ku hûn her karakterê ku hûn bi hêsanî li ser klavyeya xwe bibînin, bi gelemperî apostrofa rast bikar bînin."},{
+Key:1002534,Text:"Ger ev qutik were destnîşankirin, VideoPsalm cihêbûna hin tîpên xalbendiyê di slaytan de li gorî tîpografiya Frensî ji nû ve organîze dike."},{
+Key:1002535,Text:"&Font:"},{
+Key:1002536,Text:"&Birîn:"},{
+Key:1002539,Text:"Ger ev qutik were hilanîn, VideoPsalm dê we agahdar bike, gava ku dest pê dike, hebûna fonksiyonên bernameyek nû an nûçeyên di derbarê:
+- berhevok,
+- Încîl,
+- û zimanên VideoPsalm.
+
+Pirtûkên nû, Încîlên bi zimanên nû, û zimanên nû yên ji bo VideoPsalm carinan li pirtûkxaneya serhêl a VideoPsalm têne zêdekirin.
+
+Dema ku ev diqewime, van belgeyên nû bi riya sêrbazê importê bi çend klîk li sazkirina xwe zêde bikin."},{
+Key:1002540,Text:"Ger ev qutik were xêzkirin, VideoPsalm zorê dide peyvên ku bi daçekê ve hatine girêdan ku di slaytan de li ser heman rêzê bimînin.
+
+Nirxa xwerû ji bo gotinên stranê: <b>Qutiya hatî helbijartin</b>"},{
+Key:1002541,Text:"Ger ev qutik were xêzkirin, VideoPsalm zorê dide peyvên ku bi daçekê ve hatine girêdan ku di slaytan de li ser heman rêzê bimînin.
+
+Nirxa xwerû ji bo ayetên Încîlê: <b>Qut nehate kontrol kirin</b>"},{
+Key:1002542,Text:"Dema ku ev qutik were hilanîn, mimkun e ku hûn guheztinên ku li ayetên Încîlê hatine çêkirin (nivis û şêwaz) tomar bikin.
+
+Ger ev qutik neyê kontrol kirin:
+
+<b>1.</b> gava ku hûn VideoPsalm bigirin, ew ê we agahdar neke ku Incîlên we hatine guhertin,
+
+<b>2.</b> gava ku hûn guheztinên xwe hilînin, VideoPsalm guheztinên ku di Incîlê de hatine çêkirin (nivîs û şêwaz) hilnagire,
+
+<b>3.</b> gava ku hûn dest bi VideoPsalm bikin hûn ê Incîlên xwe saxlem bibînin."},{
+Key:1002543,Text:"Li vir zimanê ku hûn dixwazin VideoPsalm were xuyang kirin hilbijêrin.
+
+Ger zimanê we di navnîşê de xuya nebe, dibe ku ew di pirtûkxaneya serhêl a VideoPsalm de bi riya sêrbazê importê ve hebe.
+
+Ger VideoPsalm hîn di zimanê we de tune, ji kerema xwe bi e-nameyê ji me re agahdar bikin videopsalm@gmail.com
+
+Her weha hûn dikarin bi navgîniya amûra wergerandinê ya VideoPsalm re arîkariya wergerandina etîketên VideoPsalm li zimanê xwe bikin an jî xeletiyên li wir rast bikin.
+
+Bi bişkoja \"Vegerandina VideoPsalm\" amûra wergerandina VideoPsalm dest pê bikin."},{
+Key:1002544,Text:"Li vir peldanka ku VideoPsalm berhevok, Încîl, wêne û vîdyoyên xwe jê bar dike hilbijêrin.
+
+Dema ku hûn peldankan diguherînin, VideoPsalm berhevok, Încîl, wêne û vîdyoyên xwe bi yên di peldanka nû de nû dike."},{
+Key:1002545,Text:"Destûrê dide te ku hûn tîpa ku tê de VideoPsalm tê xuyang kirin biguhezînin.
+
+Mezinahiya standard: 8,25
+
+Her weha hûn dikarin bi vebijarkên Windows-ê mezinahiya tîpan biguhezînin: Panela Kontrolê -> Nîşan -> Xwendina li ser ekranê hêsantir bikin.
+
+"},{
+Key:1002547,Text:"&VideoPsalm wergerînin"},{
+Key:1002548,Text:"Amûra ku hûn pê re dikarin VideoPsalm wergerînin zimanê xwe, an jî xeletiyên rastnivîsê rast bikin vedike."},{
+Key:1002549,Text:"Hûn ê peldanka ku VideoPsalm belgeyên xwe jê bar dike biguherînin.
+VideoPsalm dê belgeyên xwe yên heyî veke û dûv re wan ji peldanka nû bar bike.
+Dibe ku ev kar çend saniyeyan bidome. {0}
+
+Ma hûn guman dikin ku hûn peldanka belgeyê biguherînin?"},{
+Key:1002550,Text:"Guhertinên nehatine tomarkirin (berhevkirin, Încîl an rojnivîsk) hene.
+Heke hûn niha operasyona peldanka guherandinê piştrast bikin, ev guhertin dê winda bibin."},{
+Key:1002551,Text:"Peldanka belgeyan biguherînin"},{
+Key:1002552,Text:"Naverok"},{
+Key:1002553,Text:"<b>Diheriken xwerû:</b>"},{
+Key:1002554,Text:"&stran:"},{
+Key:1002555,Text:"&Ayetên Încîlê:"},{
+Key:1002556,Text:"&wêneyên slideshow:"},{
+Key:1002557,Text:"&vîdyoyên serbixwe:"},{
+Key:1002558,Text:"&belge:"},{
+Key:1002559,Text:"&Derengiya pêşkeftina otomatîkî ya xwerû:"},{
+Key:1002560,Text:"seconds"},{
+Key:1002561,Text:"&Zimanek zêde bikin"},{
+Key:1002562,Text:"Ji bo anîna zimanên ku VideoPsalm tê wergerandin, sêrbaz vedike, ji wir hûn dikarin zimanên nû li VideoPsalm-a xwe zêde bikin."},{
+Key:1002580,Text:"Li dû stranekê zincîrkirina standard"},{
+Key:1002581,Text:"Piştî risteya dawîn a stranekê herikîna xwerû diyar dike.
+
+Ev nirx ji bo stranên ku hûn bêyî ku derbasî rojevê bibin bi awayekî spontan nîşan didin jî tê hesibandin.
+Di salnameyê de, hûn dikarin ji bo her stranek vê nirxê biguherînin."},{
+Key:1002582,Text:"Li dû ayetên Mizgîniyê yên xwerû derbas dibe"},{
+Key:1002583,Text:"Piştî ayeta paşîn a beşê Mizgîniyê herikîna xwerû diyar dike.
+
+Ev nirx di heman demê de ji bo beşên Încîlê yên ku hûn bêyî ku di rojnivîskê de derbas bibin bi xweber nîşan didin jî tê hesibandin.
+Di salnameyê de, hûn dikarin vê nirxê ji bo her beşê Mizgîniyê biguherînin."},{
+Key:1002584,Text:"Herikîna xwerû piştî wêneyek slideshow"},{
+Key:1002585,Text:"Herikîna xwerû piştî wêneyek slideshow destnîşan dike.
+
+Di salnameyê de, hûn dikarin ji bo her wêneyê vê nirxê biguherînin."},{
+Key:1002586,Text:"Li dû vîdyoyek serbixwe diherike"},{
+Key:1002587,Text:"Piştî vîdyoyek serbixwe herikîna xwerû diyar dike.
+
+Di salnameyê de, hûn dikarin ji bo her vîdyoyek serbixwe vê nirxê biguherînin."},{
+Key:1002588,Text:"Li dû belgeyekê diherike"},{
+Key:1002589,Text:"Herikîna xwerû ya piştî belgeyekê diyar dike.
+
+Di salnameyê de, hûn dikarin ji bo her belgeyê vê nirxê biguherînin."},{
+Key:1002590,Text:"Beriya ku bixweber biçe slideya din, navbera dema xwerû bi çirkeyan diyar dike.
+
+Di salnameyê de, hûn dikarin vê nirxê ji bo her tiştê ku bixweber ve girêdayî ye biguhezînin."},{
+Key:1002607,Text:"Weşanvan"},{
+Key:1002608,Text:"&Font:"},{
+Key:1002609,Text:"Fonta ku hûn tê de gotinên stranê û ayetên Încîlê diguherînin diyar dike.
+
+Bi taybetî, ev font ji bo nîşandana nivîsê li ser ekrana pêşkêşkirinê nayê bikar anîn."},{
+Key:1002610,Text:"&Mezinahiya nivîsê:"},{
+Key:1002611,Text:"Mezinahiya tîpên ku hûn tê de gotinên stranê û ayetên Încîlê diguherînin diyar dike.
+
+Bi taybetî, mezinahiya vê tîpê ji bo nîşandana nivîsê li ser ekrana pêşkêşkirinê nayê bikar anîn."},{
+Key:1002612,Text:"&Tîpên akordê:"},{
+Key:1002613,Text:"Fonta ku hûn akordên stranekê tê de diguherînin diyar dike.
+
+Bi taybetî, ev font ji bo nîşandana peymanan li ser ekrana pêşkêşkirinê nayê bikar anîn."},{
+Key:1002614,Text:"&Mezinahiya nivîsê ya peymanan:"},{
+Key:1002615,Text:"Di edîtorê nivîsê de ji bo akordên stranan mezinahiya tîpan diyar dike.
+
+Bi taybetî, mezinahiya vê fontê ji bo nîşandana peymanan li ser ekrana pêşkêşkirinê nayê bikar anîn."},{
+Key:1002616,Text:"&Peyman:"},{
+Key:1002617,Text:"Rengê ku akord di edîtorê nivîsê de têne xuyang kirin diyar dike.
+
+Bi taybetî, ev reng ji bo nîşandana akordan li ser ekrana pêşkêşkirinê nayê bikar anîn."},{
+Key:1002618,Text:"&Spîyên neşikestî:"},{
+Key:1002619,Text:"Rengê ku spîyên neşikestî tê de di edîtorê nivîsê de têne xuyang kirin diyar dike."},{
+Key:1002620,Text:"&Stanzas Tags:"},{
+Key:1002621,Text:"Rengê ku di edîtorê nivîsê de etîketên risteyan tê de têne ronî kirin diyar dike."},{
+Key:1002622,Text:"&Zelalbûn:"},{
+Key:1002623,Text:"Zelalbûna rengê ku tê de etîketên risteyê di edîtorê nivîsê de têne ronî kirin diyar dike."},{
+Key:1002624,Text:"&Akordên ChordPro:"},{
+Key:1002625,Text:"Rengê ku akordên ChordPro di moda ChordPro de di edîtorê nivîsê de têne ronî kirin diyar dike."},{
+Key:1002626,Text:"Zelalbûn:"},{
+Key:1002627,Text:"Zelalbûna rengê ku tê de akordên ChordPro di edîtorê nivîsê de di moda ChordPro de têne ronî kirin diyar dike."},{
+Key:1002628,Text:"&Cîgir tîpan (pêşniyar kirin)"},{
+Key:1002629,Text:"Destûrê dide edîtorê nivîsê ku tîpên winda yên di tîpa heyî de bi tîpên din veguherîne.
+
+Ger hûn tîpek ne-Unicode ya ku veguheztinê bikar tîne, veguheztina karakteran neçalak bike.
+Rewşa hin Hindî, Tamîlî, Bamatî, Malayalam, hwd.
+
+Têbînî ku çêtir e ku meriv tîpek Unicode bikar bîne.
+Ji bo veguheztina stranên xwe yên veguhêz bo nivîsa Unicode, veguherînerek serhêl bikar bînin, mînakî li vir: <color=blue>http://www.suratha.com/reader.htm</color>"},{
+Key:1002630,Text:"&Destûrê bide gihîştina edîtorek nivîsê ya hêsan, ku bi nivîsandina RTL-ê re hevaheng e"},{
+Key:1002631,Text:"Bişkokek din li milê çepê yê toolbarê edîtorê nivîsê nîşan dide, ku ji bo sererastkirina metna stranan rêgezek hêsankirî dide.
+
+Ev edîtorê hêsankirî bi nivîsandina rast-çep (RTL) re hevaheng e, nemaze ji bo Erebî û Îbranî."},{
+Key:1002633,Text:"Notifications"},{
+Key:1002634,Text:"<b>Di destpêkê de, heke hebe agahdar bikin:</b>"},{
+Key:1002635,Text:"&Guhertoyek nû ya VideoPsalm (pêşniyar kirin)"},{
+Key:1002636,Text:"&Koleksiyonên nû (pêşniyar kirin)"},{
+Key:1002637,Text:"&Mizgîniyên Nû (pêşniyar kirin)"},{
+Key:1002638,Text:"&Zimanên nû (pêşniyar kirin)"},{
+Key:1002639,Text:"&Di rewşa dijwariya pêwendiyê de, hebûna proxy-ê tespît bikin"},{
+Key:1002640,Text:"Hebûna proxy-ê kifş bikin"},{
+Key:1002641,Text:"Nîşan dide ka VideoPsalm divê bixweber hebûna proxy tespît bike da ku li ser taybetmendî an nûvekirinên nû bipirse.
+
+Ger VideoPsalm nikaribe Pirtûkan an Mizgîniyan dakêşîne pirtûkxaneya xwe ya serhêl, vê vebijarkê hilbijêrin û dûv re dîsa operasyonê biceribîne.
+
+Tenê vê vebijarkê hilbijêrin heke bêyî wê nexebite. Bi rastî, ev vebijark dakêşana berhevok û Incîlên ji pirtûkxaneya serhêl VideoPsalm hêdî dike."},{
+Key:1002642,Text:"&Îkonên civakî veşêrin"},{
+Key:1002643,Text:"Îkonên civakî (Facebook, Twitter û YouTube) ji toolbarê vedişêre.
+
+Van îkonan di nebûna pêwendiyek înternetê de veşartî dimînin."},{
+Key:1002648,Text:"Customization"},{
+Key:1002649,Text:"&Kamera vîdyoyê"},{
+Key:1002650,Text:"&Pêşî"},{
+Key:1002651,Text:"&Bingehîn"},{
+Key:1002652,Text:"&Nivîstok"},{
+Key:1002653,Text:"&Lewha"},{
+Key:1002654,Text:"&Flake"},{
+Key:1002655,Text:"&Rûnask"},{
+Key:1002656,Text:"<b>Panela slide</b>"},{
+Key:1002657,Text:"&Pêketînî"},{
+Key:1002658,Text:"<b>Toolbar</b>"},{
+Key:1002659,Text:"<b>Panela salnameyê</b>"},{
+Key:1002660,Text:"&Lihevderketin"},{
+Key:1002661,Text:"&Daketin jêr"},{
+Key:1002662,Text:"&Kulîlkên alîkariyê veşêrin"},{
+Key:1002663,Text:"&Vebijarka dîmendera pêşnûmeya vîdyoyê bixweber tespît bike (pêşniyar kirin)"},{
+Key:1002664,Text:"&Marjîna rastê:"},{
+Key:1002665,Text:"&Rêjeya kêm:"},{
+Key:1002666,Text:"Belgeyên ku bi stranan re têkildar in (wêne, vîdyoy, deng, PowerPoints, PDF, hwd.)"},{
+Key:1002668,Text:"Diyar dike ka VideoPsalm divê belgeyên ku bi stran û ayetên Mizgîniyê ve girêdayî ne di pelê salnameyê de hilîne."},{
+Key:1002669,Text:"Tê pêşniyar kirin ku hûn vê vebijarkê hilbijêrin, nemaze heke hûn rojeva xwe li ser PC-ya cûda ji ya ku hûn ê li ser pêşkêşiya xwe temaşe bikin amade dikin."},{
+Key:1002670,Text:"Belgeyên ku di rojevê de cih digirin (slideshow, vîdyo, deng, PowerPoints, PDF, hwd.)"},{
+Key:1002671,Text:"Nîşan dide ka VideoPsalm divê belgeyên ku we li wir danîne di pelê salnameyê de hilîne yan na."},{
+Key:1002672,Text:"&Kopiyek hilanînê ya belgeyan çêbikin"},{
+Key:1002673,Text:"&Youtube :"},{
+Key:1002674,Text:"&Destpêkirin"},{
+Key:1002675,Text:"Diyar dike ka VideoPsalm dê çawa lînkên nû ji vîdyoyên YouTube re format bike.
+Navnîşa parametreyên berdest li vir têne dîtin:
+developers.google.com/youtube/
+player_parameters"},{
+Key:1002676,Text:"&Bandorên siyê nîşan bide (pêşniyar kirin)"},{
+Key:1002677,Text:"Ger VideoPsalm hêdî hêdî nivîsa slaytê nîşan bide, an heke xeletiyek bîranînê çêbibe, vê vebijarkê jêbirin."},{
+Key:1002678,Text:"Vê vebijarkê hilbijêrin da ku VideoPsalm kopiyek hilanînê ya Pirtûk û Încîlê hilîne."},{
+Key:1002679,Text:"&Vimeo:"},{
+Key:1002680,Text:"Destpêkirin"},{
+Key:1002681,Text:"Diyar dike ka VideoPsalm dê zencîreyên nû ji vîdyoyên Vimeo re çawa format bike.
+Navnîşa parametreyên berdest li vir têne dîtin:
+developer.vimeo.com/
+apis / oembed"},{
+Key:1002682,Text:"Firehiya stûnê eyar bikin"},{
+Key:1002683,Text:"<b>Rojev</b>"},{
+Key:1002684,Text:"&Awa:"},{
+Key:1002685,Text:"&Berhevkirin:"},{
+Key:1002686,Text:"&Jimare:"},{
+Key:1002687,Text:"&Dor:"},{
+Key:1002688,Text:"<b>Slides</b>"},{
+Key:1002689,Text:"&Dîtin:"},{
+Key:1002690,Text:"&Jimare:"},{
+Key:1002691,Text:"Vê vebijarkê hilbijêrin da ku firehiya hin stûnên ku li gorî çareseriya dîmendera we pir teng in rast bikin."},{
+Key:1002692,Text:"&Perçeya çepê:"},{
+Key:1002693,Text:"&Rêjeya bilind:"},{
+Key:1002694,Text:"Ekrana pêşkêşkirinê"},{
+Key:1002695,Text:"xala hêzê"},{
+Key:1002696,Text:"Vê vebijarkê jêbikin da ku mezinahiya dîmendera projeksiyonê rast bikin, mînakî dema ku pêşandanê li ser televîzyonek ku keviyên ekranê qut dike temaşe dikin."},{
+Key:1002699,Text:"<b>Lêkolîna Încîlê</b>"},{
+Key:1002700,Text:"&Çavkanî:"},{
+Key:1002701,Text:"<b>Formatên URL-ê ji bo lîstikvanên vîdyoyê yên serhêl:</b>"},{
+Key:1002702,Text:"<b>Tiştên jêrîn di pelê salnameyê de hilînin (pêşniyar kirin):</b>"},{
+Key:1002703,Text:"Rengê diyar dike ku ji bo xêzên horizontî an vertîkal di xuyangên ekranê de bikar bîne (spî ji hêla xwerû)."},{
+Key:1002704,Text:"&Rengê devê:"},{
+Key:1002705,Text:"Diyar dike ka çiqas fireh, di pixelan de, ku piçûkên slaytên PowerPoint bide (200 bi xwerû)."},{
+Key:1002706,Text:"&Firehiya wêneya piçûk:"},{
+Key:1002707,Text:"Kursora mişkê li jor dîmendera pêşkêşkirinê nîşan bidin"},{
+Key:1002708,Text:"Faktora mezinbûnê (%):"},{
+Key:1002709,Text:"Rêjeya mezinkirina pêşandanên PowerPoint-ê heke ew pir piçûk xuya bikin diyar dike. Ev dibe ku gava ekranek ji hêla Windows-ê ve hatî mîheng kirin (di taybetmendiyên pêşandana çavdêriyê de) ku nivîsê mezintir nîşan bide."},{
+Key:1002710,Text:"Nîşana pencereya pêşkêşkirinê di barika peywirê de nîşan bidin"},{
+Key:1002711,Text:"&Vebijarkên vîdyoyê:"},{
+Key:1002712,Text:"Parametreyên motora pêşkêşkirina vîdyoyê li vir binivîse.
+Belgekirina Parameterê dikare li vir were dîtin:
+https://wiki.videolan.org/VLC_command-line_help"},{
+Key:1002713,Text:"Destpêkirin"},{
+Key:1002714,Text:"Vê qutiya kontrolê hilbijêrin da ku îkona pencereya pêşkêşiyê di barika peywirê de nîşan bide.
+Ev qutik bi gelemperî nayê kontrol kirin.
+Tenê heke serîlêdana weya streaming (OBS, hwd.) wê hewce bike wê hilbijêrin.
+
+Bala xwe bidinê ku heke îkona pencereya pêşkêşkirinê di barika peywirê de xuya bibe, ew di navnîşa serîlêdanên ku hûn dikarin bala xwe bidin Alt Tab an jî bi klîkkirina wê bi mişkê ve tê xuyang kirin.
+Dema ku hûn nîşana belgeyek PowerPoint-ê bi navgîniya VideoPsalm ve kontrol dikin ev dikare bandorek neyînî hebe."},{
+Key:1002715,Text:"&Beş û ayet:"},{
+Key:1002716,Text:"<b>Stûnên referansên Încîlê</b>"},{
+Key:1002717,Text:"&Şîfre :"},{
+Key:1002718,Text:"&Navê bikarhêner:"},{
+Key:1002719,Text:"&Moda verastkirinê:"},{
+Key:1002720,Text:"&URL-ya gihîştina dûr:"},{
+Key:1002721,Text:"&Bi serîlêdanek ekrana platformê ya dûr ve girêdin"},{
+Key:1002722,Text:"Nasnameya Torê"},{
+Key:1002723,Text:"Bingehîn"},{
+Key:1002724,Text:"Herçiyek"},{
+Key:1002725,Text:"Ekrana pêşkêşkirinê hilbijêrin."},{
+Key:1002726,Text:"&Pêşkêşkirin li ser:"},{
+Key:1002727,Text:"Ji bo ku bikaribe wan nas bike, bi demkî hejmarek li ser ekranan zêde dike."},{
+Key:1002728,Text:"&Dîmenan nas bikin"},{
+Key:1002729,Text:"Diyaloga Windows-ê ya pir dîmenan û xuyangiya wan vedike. Di vê diyalogê de, sermaseya xwe dirêjî dîmenderên din ên girêdayî bikin, rêgez, çareseriya wan, hwd."},{
+Key:1002730,Text:"&Pêşkêşî…"},{
+Key:1002731,Text:"Pirtûkên Mizgîniyê bi rengîn nîşan dide, da ku hûn bi hêsanî wan nas bikin."},{
+Key:1002732,Text:"&Rengê pirtûkên Mizgîniyê nîşan bidin"},{
+Key:1002733,Text:"Di navnîşa Mizgîniyê de, rêzek yekem nîşan dide ku gihandina sêrbazê importa Încîlê dide."},{
+Key:1002734,Text:"&Încîlê zêde bikin"},{
+Key:1002735,Text:"Sernavên stranan bi rengê wan nîşan dide, da ku hûn bi hêsanî wan nas bikin."},{
+Key:1002736,Text:"&Rengê pirtûk û stranan nîşan bidin"},{
+Key:1002737,Text:"Tiştên salnameyê bi rengê wan nîşan dide, da ku hûn bi hêsanî wan nas bikin."},{
+Key:1002738,Text:"&Rengên elementan nîşan bide"},{
+Key:1002739,Text:"&Bişkokên gihîştina tutorial veşêrin"},{
+Key:1002740,Text:"Zelalbûn:"},{
+Key:1002741,Text:"Zelalbûna rengan diyar dike ku tê de etîketa risteya hilbijartî di edîtorê nivîsê de tê ronî kirin."},{
+Key:1002742,Text:"Etîketa hilbijartî:"},{
+Key:1002743,Text:"Rengê ku etîketa risteya hilbijartî tê de di edîtorê nivîsê de tê ronî kirin diyar dike."},{
+Key:1002744,Text:"Dema ku VideoPsalm bi yek ekranê re digel sepana Zoom / Teams bikar bînin vê vebijarkê neçalak bikin. Ev dihêle hûn pencereya kontrolê ya VideoPsalm li ser pencereya pêşkêşkirina wê bi cîh bikin."},{
+Key:1002745,Text:"Ekrana pêşkêşkirinê li pêşiyê bihêlin"},{
+Key:1002746,Text:"Ekrana pêşkêşkirinê li pêşiyê bihêle (pêşniyar kirin)"},{
+Key:1002747,Text:"Heke VideoPsalm nekare vîdyoyan nîşan bide, vê qutiya kontrolê jêbikişîne.
+Dibe ku ev pirsgirêk li ser hin modelên kartên vîdyoyê an jî bi guhertoya ajokera wê ya grafîkê ve girêdayî ye."},{
+Key:1002748,Text:"&Ger hebe bilezkirina hardware bikar bînin"},{
+Key:1002749,Text:"<b>Reng:</b>"},{
+Key:1002750,Text:"Ekrana pêşkêşkirinê hilbijêrin:"},{
+Key:1002751,Text:"Vê qutiya kontrolê jêbikin da ku VideoPsalm serişteyên amûran ên mîna vê nîşan nede."},{
+Key:1002752,Text:"Vê qutîkê hilbijêrin da ku dema ku hûn wê li ser dîmendera pêşkêşiyê bi cîh bikin (bêpevçûn) kursora mişkê nîşan bide VideoPsalm."},{
+Key:1002753,Text:"Vê qutikê hilbijêrin da ku bişkokên şîn ên ji bo gihîştina dersan veşêrin.
+
+Ji bo ku hûn di her şert û mercî de xwe bigihînin dersan, bişkoja <image=#keyboard_key_16> bişkojka F1 bikirtînin."},{
+Key:1002754,Text:"Tîpografi"},{
+Key:1003000,Text:"Guhertoya {0} ya {1}"},{
+Key:1003006,Text:"Outlook (muwekîlê e-nameya xwe) vekin da ku ji VideoPsalm re e-nameyek bişînin"},{
+Key:1003007,Text:"Ev versiyon rojane ye"},{
+Key:1003008,Text:"&Guhertoya min nûve bike"},{
+Key:1003009,Text:"Guhertoyek nû ya VideoPsalm heye:
+Guhertoya {0} ya {1: D}.
+Vê bişkojkê bikirtînin da ku rûpela dakêşanê vekin.
+Hûn ê li wir dîroka guhertinan bibînin.
+û girêdanek dakêşanê."},{
+Key:1003011,Text:"- Nerazîbûnek rapor bikin
+- Têbînî an pêşniyarek bike"},{
+Key:1003012,Text:"Navnîşana e-nameyê: videopsalm@gmail.com"},{
+Key:1003401,Text:"Ekrana {0}:"},{
+Key:1003402,Text:"Nîşana kompîturê"},{
+Key:1003403,Text:"(ser)"},{
+Key:1003407,Text:"Lîsteya kamerayê nûve bikin"},{
+Key:1003408,Text:"Mîhengan…"},{
+Key:1003409,Text:"Ma hûn pê bawer in ku hûn dixwazin taybetmendiyên vîdyoyê li nirxên xweyên xwerû vegerînin?"},{
+Key:1003410,Text:"To lê zêde bike"},{
+Key:1003411,Text:"Mizgîniyek ji pirtûkxaneya serhêl VideoPsalm dakêşin"},{
+Key:1003412,Text:"Sûret"},{
+Key:1003413,Text:"Kinkirî"},{
+Key:1003414,Text:"Bi hev re tê nîşandan"},{
+Key:1003415,Text:"Indeksa pêşandana hevbeş"},{
+Key:1003416,Text:"Paşnav"},{
+Key:1003417,Text:"Ziman"},{
+Key:1003418,Text:"Demjimêra Flash (ms):"},{
+Key:1003419,Text:"Tepeserkirina fîşa reş di dawiya lûkê de"},{
+Key:1003420,Text:"&Reng:"},{
+Key:1003421,Text:"&Reng:"},{
+Key:1003422,Text:"Rengê jêbirin"},{
+Key:1003423,Text:"&Paşnav :"},{
+Key:1003424,Text:"&Îkon:"},{
+Key:1003425,Text:"Destûrê dide ku stran bi dîtbarî bi îkonekê, di berhevoka xwe de an jî di rojnivîskê de were naskirin."},{
+Key:1003426,Text:"Destûrê dide te ku hûn stranê bi rengekî, di berhevoka wê de an jî di rojnivîskê de bi dîtbarî nas bikin."},{
+Key:1003427,Text:"Kurtenavê berhevokê, ku peydakirina stranek hêsan dike, mînakî JEM440."},{
+Key:1003428,Text:"Destûrê dide berhevok û hemû stranên wê bi rengekî dîtbarî werin nasîn."},{
+Key:1003429,Text:"Destûrê dide we ku hûn di stranê de rêzek din a risteyan hilbijêrin.
+Li ser \"...\" bikirtînin da ku rêzikan biguherînin, bi gotinek din rêza risteyan."},{
+Key:1003430,Text:"Ji bo ku ev guhertin bikeve meriyetê VideoPsalm ji nû ve bidin destpêkirin."},{
+Key:1003431,Text:"Rojev \"{0}\""},{
+Key:1003432,Text:"Şêweya bingehîn"},{
+Key:1003433,Text:"style Collection"},{
+Key:1003434,Text:"Şêweya Încîlê"},{
+Key:1003435,Text:"Ji bo ku ev guhertin bikeve meriyetê VideoPsalm ji nû ve bidin destpêkirin.
+Ger ew nexebite, PC-ê jî ji nû ve bidin destpêkirin."},{
+Key:1003436,Text:"Do Re Mi"},{
+Key:1003437,Text:"A B C"},{
+Key:1003441,Text:"xetên Max"},{
+Key:1003442,Text:"Berê ristên jêrîn dirêj bikin"},{
+Key:1003443,Text:"Nivîsa ji ristên jêrîn an ayetên jêrîn bikar bînin da ku slaytek dagirtin dema ku hîn cîh hebe."},{
+Key:1003444,Text:"Her ayet li ser rêzek nû"},{
+Key:1003445,Text:"Her ayetek li ser rêzek nû nîşan bide."},{
+Key:1003446,Text:"Bi tenê yek beyt jî"},{
+Key:1003447,Text:"Hejmarên ayetan nîşan bide"},{
+Key:1003448,Text:"Rêz"},{
+Key:1003449,Text:"&Karakterên ji bo fîltrekirinê:"},{
+Key:1003450,Text:"Li vir tîpên ku nayên nîşandan binivîsin.
+
+Hin werger tîpên \"taybet\" hene ku hûn naxwazin li ser ekranê werin xuyang kirin, mînak |"},{
+Key:1003451,Text:"Berhevokek diyarkirî dakêşin"},{
+Key:1003452,Text:"Destûrê dide sererastkirina şêwaza hejmarên beytê."},{
+Key:1003453,Text:"Şêweya hejmarên ayetan"},{
+Key:1003454,Text:"Hejmara ayetê"},{
+Key:1003455,Text:"&Dor"},{
+Key:1003456,Text:"Jimara herî zêde ya ayetên Mizgîniyê destnîşan dike ku di her slaytê de werin xuyang kirin.
+
+Ev nirx dema ku ti sînorê karakterê tune be tê bikaranîn (<i>Karakterên herî zêde</i> wekhevî 0 ye)."},{
+Key:1003457,Text:"Ayetên max."},{
+Key:1003458,Text:"Jimara herî zêde ya rêzan destnîşan dike ku di her slaydekê de werin xuyang kirin.
+
+Dema ku vebijarka <image=#wrap_long_lines_16> <i>Xeta Nû</i> <b>neçalak be</b> ev nirx tê bikaranîn."},{
+Key:1003459,Text:"xetên Max"},{
+Key:1003461,Text:"Jimara herî zêde ya karakteran destnîşan dike ku di her slaydekê de werin xuyang kirin.
+
+Dema ku vebijarka <image=#wrap_long_lines_16> <i>Line wrap</i> <b>çalak be</b> ev nirx tê bikaranîn."},{
+Key:1003462,Text:"Jimara herî zêde ya karakteran destnîşan dike ku di her slaydekê de werin xuyang kirin.
+
+Ev nirx dema ku di her slaydekê de tenê ayetek Mizgîniyê tê dîtin tê bikar anîn (<i>Ayetên Max</i> wekhev e 1)."},{
+Key:1003463,Text:"Numreya nasnameya yekta ya Mizgîniyê (ji bo agahdariyê) nîşan dide. Gava ku hûn salnameyek vedikin, VideoPsalm vê hejmarê, ne navê Mizgîniyê, bikar tîne da ku wê nas bike."},{
+Key:1003464,Text:"Navê pelê Mizgîniyê (ji bo agahdariyê) nîşan dide."},{
+Key:1003465,Text:"Ji bo nîşandana pirzimanî ya nivîsa Incîlê, li vir rêza ku ayetên wergerên cihêreng têne xuyang kirin nîşan bidin."},{
+Key:1003466,Text:"Ji bo nîşandana duzimanî ya nivîsa Incîlê, vê vebijarkê hilbijêre ku bixweber ayetên vê Încîlê ji bilî û li jêr ayetên wergerên din werin nîşandan."},{
+Key:1003467,Text:"Vê vebijarkê hilbijêrin ku bi kurteyên navên pirtûkan têkevin referansên vê Încîlê."},{
+Key:1003468,Text:"Vê vebijarkê hilbijêrin ku di panela lêgerînê ya li binê çepê de, navên pirtûkên vê Încîlê bi zimanê VideoPsalm (Fransî) nîşan bidin.
+
+Dema ku ev vebijark neyê hilbijartin, navên pirtûkan wekî ku di vê Încîlê de hatine destnîşankirin têne xuyang kirin.
+
+Ji bo ku navê pirtûkek Mizgîniyê rast bikin, di navnîşa li binê çepê de li ser bikirtînin, paşê wê di panela navîn de biguherînin.
+
+Ji bo eyarkirina navên pirtûkên ku VideoPsalm bikar tîne, darika amûrê ya li jor bikar bînin -> Tabloya \"Guherandin\" -> Bişkoka \"Vebijêrk\" -> Tebqa \"Giştî\" -> Bişkoka \"Wergerandina VideoPsalm\" û n ° 1020000 bigerin."},{
+Key:1003469,Text:"Kurtenivîsa Încîlê ya ku di salnameyê de tê nîşandan diyar dike."},{
+Key:1003470,Text:"Navê Mizgîniyê wekî ku di jêrzemînê de tê xuyang kirin destnîşan dike."},{
+Key:1003471,Text:"Diyar dike ku berhevok ji stranên pirtûkxaneya CCLI pêk tê. Gava ku hûn stranan di formata CCLI de derdixin, ew li vê berhevokê têne zêdekirin."},{
+Key:1003472,Text:"Diyar dike ku berhevok ji ayetên Incîlê pêk tê. Berhevkirineke weha bi îkona \"Încîl\" <image=#bible16> hatiye nîşankirin."},{
+Key:1003473,Text:"Diyar dike ka meriv di vê berhevokê de li stranan bigere. Mînakî, dibe ku hûn nexwazin di berhevokek ku reklam tê de stranan bigerin."},{
+Key:1003474,Text:"Numreya nasnameya yekta ya berhevokê (ji bo agahdariyê) destnîşan dike. Gava ku hûn salnameyek vedikin, VideoPsalm vê hejmarê, ne navê berhevokê, bikar tîne da ku wê nas bike.
+Ji ber heman sedemê, her stranek jî hejmareke bêhempa ye."},{
+Key:1003475,Text:"Navê pelê berhevkirinê (ji bo agahdariyê) nîşan dide."},{
+Key:1003476,Text:"Peldanka li ser dîska weya ku berhevok lê têne hilanîn (ji bo agahdariyê) destnîşan dike. Hûn dikarin di vebijarkên VideoPsalm de cîhê belgeyan biguhezînin."},{
+Key:1003477,Text:"Mafê kopî ya stranê diyar dike. Ji bo dîtina stranek li gorî mafên wê, moda lêgerînê li ser \"Mafê Kopîkirinê\" saz bikin."},{
+Key:1003478,Text:"Çêkerê muzîka stranê diyar dike. Ji bo ku stranek li gorî çêkerê wê bibîne, moda lêgerînê li ser \"Nivîskar û bestekar\" saz bike."},{
+Key:1003479,Text:"Nivîskarê gotinên stranê diyar dike. Ji bo dîtina stranek li gorî nivîskarê wê, moda lêgerînê li ser \"Nivîskar û bestekar\" bi cih bikin."},{
+Key:1003480,Text:"Ji bo stranê referansa (yên) Mizgîniyê diyar dike. Ji bo ku stranek li gorî referansa wê ya Incîl bibînin, moda lêgerînê li ser \"Referans\" bi cih bikin."},{
+Key:1003481,Text:"Navê stranê diyar dike. Hûn dikarin stranek bi navnîşa wê di qutiya lêgerînê de binivîsin."},{
+Key:1003482,Text:"Hejmara stranê diyar dike. Hûn dikarin stranek bi têketina hejmara wê ya di qutiya lêgerînê de bibînin."},{
+Key:1003483,Text:"Pîvana muzîkê ya stranê diyar dike, mînakî 3/4."},{
+Key:1003484,Text:"Xurtkirina stranê, di tûj an jî damaran de diyar dike."},{
+Key:1003485,Text:"Formata stranê diyar dike."},{
+Key:1003486,Text:"Leza muzîkê ya stranê diyar dike, bi gelemperî bi lêdanên di hûrdemê de."},{
+Key:1003487,Text:"Kilîta muzîkê ya stranê (G, F, an C) diyar dike."},{
+Key:1003488,Text:"Mifteya muzîkê ya stranê diyar dike, mînakî \"C\"."},{
+Key:1003489,Text:"Dîroka guherandina dawî ya stranê (ji bo agahdariyê) destnîşan dike."},{
+Key:1003490,Text:"Li vir şîroveyên xwe 3 li ser dengbêjan binivîse. Ji bo ku stranek li ser bingeha gotinên wê 3 bibînin, moda lêgerînê li ser \"Memo 3\" bi cih bikin."},{
+Key:1003491,Text:"Li vir şîroveyên xwe 2 li ser dengbêjan binivîse. Ji bo ku stranek li ser bingeha gotinên wê 2 bibînin, moda lêgerînê li \"Memo 2\" saz bikin."},{
+Key:1003492,Text:"Li vir şîroveyên xwe 1 li ser dengbêjan binivîse. Ji bo ku stranek li gorî têbîniyên wê 1 bibînin, moda lêgerînê li ser \"Memo 1\" bi cih bikin."},{
+Key:1003493,Text:"Mijarên stranê navnîş bikin. Ji bo ku stranek li gorî mijarên wê bibînin, moda lêgerînê li ser \"Mijar\" bi cih bikin."},{
+Key:1003494,Text:"Navnîşa alternatîf a stranê diyar dike. Hûn dikarin stranek bi têketina sernavê wê ya alternatîf di qutiya lêgerînê de bibînin."},{
+Key:1003495,Text:"Hejmara nasnameya stranê diyar dike. Ev hejmar li hin welatan tê bikaranîn. Hûn dikarin bixweber vê hejmarê di serî an pêlavê de nîşan bidin. Ji bo ku stranek li gorî jimareya wê ya CCLI bibînin, moda lêgerînê li \"CCLI\" saz bikin."},{
+Key:1003496,Text:"Curenivîsa nivîsa hilbijartî diguherîne."},{
+Key:1003497,Text:"Navê berhevokê diyar dike."},{
+Key:1003498,Text:"Nîşan dide ku li ser kîjan slaytên (ya yekem, ya paşîn, yên di navbera her duyan de) qadan nîşan dide."},{
+Key:1003499,Text:"Li vir bikirtînin ku hûn taybetmendiyên Mizgîniyê di panela navîn de bibînin."},{
+Key:1003500,Text:"Veguheztinê rakin"},{
+Key:1003501,Text:"Nîvtonek din veguhezînin"},{
+Key:1003502,Text:"Bi nîvtonek kêmtir veguherîne"},{
+Key:1003503,Text:"Bê"},{
+Key:1003504,Text:"Kapoyê rakin"},{
+Key:1003505,Text:"Transpose ji bo capo ku ji serî dûr dikeve"},{
+Key:1003506,Text:"Transpose ji bo capo ku nêzîkî serî tê"},{
+Key:1003507,Text:"Bê"},{
+Key:1003508,Text:"Pelê dengî li ser dengbêjan rakin"},{
+Key:1003510,Text:"Pelên dengî hilbijêrin ku têxin paşê li ser \"Vekirin\" bikirtînin"},{
+Key:1003511,Text:"Te {0} dosya(yên) deng ji xwe re kiriye."},{
+Key:1003512,Text:"Tu pelê deng nehate şandin.
+(Ew (yên) berê di lîsteyê de ne)."},{
+Key:1003513,Text:"Importing files audio"},{
+Key:1003514,Text:"Pelên deng"},{
+Key:1003515,Text:"Peyvên sereke yên ku di wêneyan de digerin"},{
+Key:1003516,Text:"Bê wêne"},{
+Key:1003517,Text:"Bêyî vîdyoyê"},{
+Key:1003518,Text:"&Pelên"},{
+Key:1003519,Text:"&Bass nîşan bide"},{
+Key:1003520,Text:"Peyvên sereke yên ku di vîdyoyan de digerin"},{
+Key:1003521,Text:"&Pirtûka stranê ji CCLI / SongSelect hatîye derxistin"},{
+Key:1003522,Text:"stranên CCLI"},{
+Key:1003523,Text:"Import stranên CCLI"},{
+Key:1003524,Text:"{0} stran berê di berhevoka \"{1}\" de bûn û nehatin derkirin."},{
+Key:1003525,Text:"&Ji bo lêgerînê"},{
+Key:1003526,Text:"&Ronahî:"},{
+Key:1003527,Text:"&Ji bo lêgerînê"},{
+Key:1003528,Text:"&Ronahî:"},{
+Key:1003529,Text:"Agah"},{
+Key:1003536,Text:"Countdown"},{
+Key:1003537,Text:"Kronometre"},{
+Key:1003539,Text:"Transparency"},{
+Key:1003543,Text:"Seet"},{
+Key:1003544,Text:"Countdown"},{
+Key:1003545,Text:"Kronometre"},{
+Key:1003546,Text:"Demek"},{
+Key:1003547,Text:"Heta"},{
+Key:1003548,Text:"Ji bo destpêkirinê"},{
+Key:1003549,Text:"Mizdan"},{
+Key:1003550,Text:"Rawestan"},{
+Key:1003555,Text:"&Destê duyemîn nîşan bide"},{
+Key:1003556,Text:"&Çirkeyên Jerky"},{
+Key:1003557,Text:"&Deqên Jerky"},{
+Key:1003558,Text:"&Hejmaran nîşan bide"},{
+Key:1003559,Text:"&Deqan biqedînin"},{
+Key:1003560,Text:"&Saetên mezûniyetê"},{
+Key:1003561,Text:"Kamera vîdyoyê"},{
+Key:1003562,Text:"Li ser îkona kamerayê bikirtînin da ku kamerayek ku di paşxaneya nivîsê de hatî kişandin nîşan bide.
+
+Ji bo ku hûn xwe bigihînin vebijarkan, li ser bişkoka piçûk \"▼\" bikirtînin."},{
+Key:1003570,Text:"&Destpêk (ms):"},{
+Key:1003571,Text:"&Dawî (ms):"},{
+Key:1003572,Text:"&Bend:"},{
+Key:1003573,Text:"&Di lûkê de bilîzin"},{
+Key:1003576,Text:"&Versiyon ji:"},{
+Key:1003577,Text:"Rast berbi Çep Edîtorê Nivîsê"},{
+Key:1003578,Text:"Di navbera edîtorek nivîsê ya standard (Nivîsandina Çep ber bi Rast) û edîtorek \"Rast Ber bi Çep\" ji bo Erebî, Îbranî, hwd."},{
+Key:1003579,Text:"&Rêber:"},{
+Key:1003580,Text:"&Her tim bi hev re nîşan bide (duzimanî)"},{
+Key:1003581,Text:"&Rewş:"},{
+Key:1003582,Text:"&Rêber:"},{
+Key:1003584,Text:"Songs"},{
+Key:1003585,Text:"Import of songs di format text"},{
+Key:1003586,Text:"Website"},{
+Key:1003593,Text:"&Website"},{
+Key:1003594,Text:"Vexwarina xeta otomatîk"},{
+Key:1003595,Text:"Wek"},{
+Key:1003596,Text:"Hemû bi CAPITALS"},{
+Key:1003597,Text:"Tîpa yekem a mezin"},{
+Key:1003598,Text:"Hemî tîpên piçûk"},{
+Key:1003599,Text:"Bi tîpên mezin / biçûk"},{
+Key:1003600,Text:"Mezinahiya tîpan zêde bikin"},{
+Key:1003601,Text:"Mezinahiya tîpan kêm bike"},{
+Key:1003602,Text:"Du berhevokan bikin yek"},{
+Key:1003603,Text:"Ma hûn pê bawer in ku hûn dixwazin hemî stranan ji \"{0}\" veguherînin
+ji \"{1}\" re?
+(Dê berhevoka {0} were jêbirin)."},{
+Key:1003604,Text:"Stranên ji berhevoka \"{0}\"
+hejmarên wek \"{1}\" hene.
+
+Ma divê em stranên ku li berhevoka \"{0}\" hatine zêdekirin ji nû ve bihejmêrin?"},{
+Key:1003605,Text:"Koleksiyonek parçe bikin"},{
+Key:1003606,Text:"Ma tu bawer î ku dixwazî ​​berhevoka \"{0}\" ji hev veqetînî
+berî strana \"{1}\"?"},{
+Key:1003607,Text:"Ma divê stranên dabeşkirî ji 1-ê hejmar werin dayîn?"},{
+Key:1003608,Text:" - Li pey"},{
+Key:1003609,Text:"Belgeya \"{0}\" jixwe di pirtûkxaneya we de heye.
+Pela \"{1}\"
+Ne mimkûn e ku careke din lê zêde bike."},{
+Key:1003610,Text:"Belgeya \"{0}\" li pirtûkxaneya we hat zêdekirin."},{
+Key:1003611,Text:"&Website"},{
+Key:1003613,Text:"&Koleksiyonê jêbirin"},{
+Key:1003614,Text:"Koleksiyona hilbijartî jêdibe."},{
+Key:1003615,Text:"&Stran jêbirin"},{
+Key:1003616,Text:"Strana hilbijartî jêdibe."},{
+Key:1003617,Text:"&Mizgîniyê jêbirin"},{
+Key:1003618,Text:"Mizgîniya hilbijartî jê dike."},{
+Key:1003619,Text:"&PDF"},{
+Key:1003620,Text:"&Excel"},{
+Key:1003621,Text:"&Bêje"},{
+Key:1003622,Text:"&Audio"},{
+Key:1003623,Text:"&Ducarî (Ctrl Drag & Drop)"},{
+Key:1003624,Text:"Bêje"},{
+Key:1003625,Text:"Excel"},{
+Key:1003626,Text:"PDF"},{
+Key:1003627,Text:"Audio"},{
+Key:1003628,Text:"Audios"},{
+Key:1003629,Text:"PDFs"},{
+Key:1003630,Text:"Words"},{
+Key:1003631,Text:"Excels"},{
+Key:1003632,Text:"Te {0} dosya(yên) vîdyoyê îthal kiriye."},{
+Key:1003633,Text:"No pelê vîdeoyê nehate derkirin.
+(Ew (yên) berê di lîsteyê de ne)."},{
+Key:1003634,Text:"Importing Pelên Vîdyoyê"},{
+Key:1003635,Text:"Pelên vîdyoyê"},{
+Key:1003636,Text:"Te {0} pelê (yên) PowerPoint-ê îthal kiriye."},{
+Key:1003637,Text:"Tu pelê PowerPoint nehate şandin.
+(Ew (yên) berê di lîsteyê de ne)."},{
+Key:1003638,Text:"Importing pelên PowerPoint"},{
+Key:1003639,Text:"Pelên PowerPoint"},{
+Key:1003640,Text:"Te {0} dosya(yên) PDF ji xwe re kiriye."},{
+Key:1003641,Text:"Tu pelê PDF nehat îthalkirin.
+(Ew (yên) berê di lîsteyê de ne)."},{
+Key:1003642,Text:"Importing pelên PDF"},{
+Key:1003643,Text:"pelên PDF"},{
+Key:1003644,Text:"Te {0} dosya(yên) Wordê îthal kiriye."},{
+Key:1003645,Text:"Tu pelê Word nehat îthalkirin.
+(Ew (yên) berê di lîsteyê de ne)."},{
+Key:1003646,Text:"Importing Pelên Word"},{
+Key:1003647,Text:"Pelên Wordê"},{
+Key:1003648,Text:"Te {0} dosya(yên) Excel anîne."},{
+Key:1003649,Text:"Tu pelê Excel nehat îthalkirin.
+(Ew (yên) berê di lîsteyê de ne)."},{
+Key:1003650,Text:"Importkirina pelên Excel"},{
+Key:1003651,Text:"pelên Excel"},{
+Key:1003652,Text:"Pelên vîdyoyê hilbijêrin ku têxin û paşê li \"Open\" bikirtînin"},{
+Key:1003653,Text:"Pelên PowerPoint-ê hilbijêrin ku têxin û paşê li \"Vekirin\" bikirtînin."},{
+Key:1003654,Text:"Pelên PDF-ê hilbijêrin ku têxin û paşê li \"Vekirin\" bikirtînin"},{
+Key:1003655,Text:"Pelên Wordê hilbijêrin ku têxin û paşê li \"Open\" bikirtînin"},{
+Key:1003656,Text:"Pelên Excel-ê hilbijêrin ku têxin paşê li \"Vekirin\" bikirtînin."},{
+Key:1003657,Text:"Alîkarî (F1)"},{
+Key:1003658,Text:"Rûpelek malperê vedike ku alîkariya VideoPsalm nîşan dide."},{
+Key:1003659,Text:"<b>Nîşe</b>
+Ji bo ku belgeyek têxe rojevê,
+li şûna wê bişkoka piçûk \"▼\" bikirtînin."},{
+Key:1003661,Text:"&Rêzkirinên biguherîne"},{
+Key:1003662,Text:"Hesabkirina Mezinahiya Nivîsê ya Optimal..."},{
+Key:1003663,Text:"Avakirina nivîsê..."},{
+Key:1003664,Text:"Nivîsar bike..."},{
+Key:1003665,Text:"Xêzkirina nivîsê..."},{
+Key:1003666,Text:"Zêdekirina beşên nivîsê..."},{
+Key:1003667,Text:"Zêdekirina beşên nivîsê yên rengîn..."},{
+Key:1003668,Text:"Xêzkirina hejmarên ayetên Incîlê..."},{
+Key:1003669,Text:"Çêkirina akordan..."},{
+Key:1003800,Text:"{0} berhevokên veşartî hene.
+Li vir rast bikirtînin
+û \"{1}\" hilbijêre
+wan nîşan bide."},{
+Key:1003801,Text:"&Belgeyek zêde bikin"},{
+Key:1003802,Text:"&Strana nû (Ctrl N)"},{
+Key:1003803,Text:"&Peymanên di navbera []"},{
+Key:1003804,Text:"Heke di stranan de kelûpelên çargoşe hene ku naveroka wan akordan nîşan dide, bo nimûne [C], vê qutîkê hilbijêre."},{
+Key:1003805,Text:"Peymanên di navbera []:"},{
+Key:1003806,Text:"Erê"},{
+Key:1003807,Text:"Na"},{
+Key:1003808,Text:"Ji berhevokê wergirtiye (pêşniyar kirin)"},{
+Key:1003809,Text:"Slide yekem"},{
+Key:1003810,Text:"Slideya dawî"},{
+Key:1003811,Text:"Slaytên navîn"},{
+Key:1003812,Text:"Hemû slaytên"},{
+Key:1003813,Text:"Slide tune"},{
+Key:1003814,Text:"Vebijêrk"},{
+Key:1003815,Text:"Vebijarkên peyamê"},{
+Key:1003816,Text:"Vebijêrk"},{
+Key:1003817,Text:"Vebijarkên saetê"},{
+Key:1003818,Text:"&Peymanên"},{
+Key:1003819,Text:"Agah"},{
+Key:1003820,Text:"Seet"},{
+Key:1003821,Text:"Pîne bikin"},{
+Key:1003822,Text:"Pîne bikin"},{
+Key:1003823,Text:"&Dengbêjên CCLI"},{
+Key:1003824,Text:"VideoPsalm di vekirina pelê PowerPoint ya jêrîn de dijwar e:"},{
+Key:1003825,Text:"Tenê {0} Mizgîniyên pêşîn dikarin werin barkirin, da ku bîr neyê tijekirin.
+{1} Încîl nehatine barkirin."},{
+Key:1003826,Text:"Diyar dike ka nivîsên di nav kevokên çargoşe de wek akordan li jorê nivîsê bên nîşandan."},{
+Key:1003827,Text:"Vîdyoyek bi dengbêjan re têkildar bikin, da ku wê li şûna stranan nîşan bidin."},{
+Key:1003828,Text:"Dengek bi stranê re têkildar bikin, da ku dema ku gotin têne xuyang kirin wê bilîzin."},{
+Key:1003829,Text:"PowerPointek bi dengbêjan re têkildar bikin, da ku wê li şûna stranan nîşan bidin."},{
+Key:1003830,Text:"Belgeyek PDF-ê bi dengbêjan re têkildar bikin, da ku wê li şûna stranan nîşan bidin."},{
+Key:1003831,Text:"Malperek, vîdyoyek YouTube an Vimeo bi dengbêjan re bikin yek, da ku li şûna stranan wê nîşan bidin.
+Di dema pêşandana vîdyoyê de pêwendiyek înternetê dê hewce be.
+
+Ji bo ku bi girêdana înternetê ve girêdayî nebin, pêşî vîdyoyê li ser PC-ya xwe herêmî dakêşin, mînakî bi sepana belaş <b>Dakêşkera Vîdyoyê 4K</b> <u><color=blue>4kdownload.com</color> </u>, paşê pelê vîdyoyê bi dengbêjan veqetînin."},{
+Key:1003832,Text:"Belgeyek Wordê bi dengbêjan re têkildar bikin, da ku li şûna stranan nîşan bidin."},{
+Key:1003833,Text:"Belgeyek Excel bi dengbêjan re têkildar bikin, da ku wê li şûna stranan nîşan bidin."},{
+Key:1003834,Text:"&Malanîn…"},{
+Key:1003835,Text:"&Hênikkirin"},{
+Key:1003836,Text:"&Rêserbirin…"},{
+Key:1003837,Text:"Operasyon dê {0} şêwaz (s) jê bibe."},{
+Key:1003838,Text:"Şêwazek jêhatî tune ku were rakirin."},{
+Key:1003839,Text:"&Koleksiyonên qat bikin"},{
+Key:1003840,Text:"Reprise"},{
+Key:1003841,Text:"Vedigere slida berê."},{
+Key:1003842,Text:"&Daketin jêr"},{
+Key:1003843,Text:"&Lihevderketin"},{
+Key:1003844,Text:"&Beriya vê stranê berhevokê parçe bikin"},{
+Key:1003845,Text:"&Bi hev re bibin yek"},{
+Key:1003846,Text:"&Save collection"},{
+Key:1003847,Text:"&Ziman:"},{
+Key:1003849,Text:"Nîşan dide ku kîjan zimanî ji bo lêgerîn û nîşandana stran û beytên taybetî bikar bîne."},{
+Key:1003850,Text:"Zimanê sereke yê berhevokan"},{
+Key:1003851,Text:"Zimanê sereke yê vê berhevokê"},{
+Key:1003852,Text:"Zimanê vê stranê"},{
+Key:1003853,Text:"Nîşan dide ku kîjan zimanî ji bo lêgerîna taybetî û nîşandana vê stranê bikar bîne."},{
+Key:1003854,Text:"Zimanê sereke yê Încîlê"},{
+Key:1003856,Text:"Ziman jêbirin"},{
+Key:1003857,Text:"VideoPsalm dê zimanê pêwendiya xwe (Fransî) bikar bîne."},{
+Key:1003858,Text:"VideoPsalm dê zimanê asta \"Bingehîn\" bikar bîne."},{
+Key:1003859,Text:"VideoPsalm dê zimanê asta \"Collections\" bikar bîne."},{
+Key:1003860,Text:"VideoPsalm dê zimanê berhevokê bikar bîne."},{
+Key:1003861,Text:"VideoPsalm dê zimanê asta \"Încîl\" bikar bîne."},{
+Key:1003862,Text:"Nîşan dide ku kîjan zimanî ji bo taybetîyên lêgerîn û nîşandana stranên pirtûka stranan bikar bîne."},{
+Key:1003863,Text:"Nîşan dide ku kîjan zimanî ji bo lêgerîna taybetî û nîşandana stranên di berhevokê de bikar bîne."},{
+Key:1003864,Text:"Nîşan dide ku kîjan zimanî ji bo lêkolîna taybetî û nîşandana ayetên Incîlê bikar bînin."},{
+Key:1003865,Text:"Nîşan dide ku kîjan zimanî ji bo lêkolîna taybetî û nîşandana ayetên vê Încîlê bikar bînin."},{
+Key:1003866,Text:"E-mail"},{
+Key:1003867,Text:"Vebijêrk"},{
+Key:1003868,Text:"Vebijarkên ekrana platformê"},{
+Key:1003869,Text:"Pîne bikin"},{
+Key:1003870,Text:"Dîmendera platformê nîşan bide"},{
+Key:1003871,Text:"&Navnîşana malperê:"},{
+Key:1003872,Text:"&Paşnav :"},{
+Key:1003873,Text:"Çewtiya jêrîn qewimî:"},{
+Key:1003874,Text:"Salname nehat tomarkirin"},{
+Key:1003875,Text:"Vekirina salnameyê bi ser neket"},{
+Key:1003876,Text:"Koleksiyon hatin barkirin"},{
+Key:1003877,Text:"Încîlên barkirî"},{
+Key:1003878,Text:"Ekrana platformê"},{
+Key:1003879,Text:"&Navnîşana malperê:"},{
+Key:1003880,Text:"&Paşnav :"},{
+Key:1003881,Text:"Vertîkal bizivirînin"},{
+Key:1003882,Text:"Flip horîzontal"},{
+Key:1003883,Text:"90 ° ber bi rastê ve bizivirin"},{
+Key:1003884,Text:"90 ° berbi çepê bizivirînin"},{
+Key:1003885,Text:"Reng"},{
+Key:1003886,Text:"Alîkarî"},{
+Key:1003893,Text:"Peyvên dengbêjî yên dirêj di rêzê de dixîne."},{
+Key:1003895,Text:"Rêzê hilbijart (Jêbibe)"},{
+Key:1003896,Text:"Rêzên stranan biguherîne (F3)"},{
+Key:1003897,Text:"Rêzek hilbijêre (F4)"},{
+Key:1004050,Text:"Pûlis"},{
+Key:1004051,Text:"Birrîn"},{
+Key:1004052,Text:"Rûn"},{
+Key:1004053,Text:"Îtalîk"},{
+Key:1004054,Text:"Binxetkirin"},{
+Key:1004055,Text:"Alignment"},{
+Key:1004056,Text:"Alignment Vertical"},{
+Key:1004057,Text:"Jayandarî"},{
+Key:1004058,Text:"Demajok"},{
+Key:1004059,Text:"Bend"},{
+Key:1004060,Text:"Mute ?"},{
+Key:1004061,Text:"Destpêkirin"},{
+Key:1004062,Text:"Dawî"},{
+Key:1004063,Text:"Bêdawî?"},{
+Key:1004064,Text:"Mezinkirinî"},{
+Key:1004065,Text:"Vexwarina xeta otomatîk"},{
+Key:1004066,Text:"Bi tîpên mezin / biçûk"},{
+Key:1004067,Text:"Peymanên"},{
+Key:1004068,Text:"sîstema peymanê"},{
+Key:1004069,Text:"Nizm"},{
+Key:1004070,Text:"Hejmarên ayetan"},{
+Key:1004071,Text:"Yek ayet jî"},{
+Key:1004072,Text:"Ayet li ser rêzek nû"},{
+Key:1004100,Text:"Colors"},{
+Key:1004101,Text:"Tijî"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Firehiya dorpêçê"},{
+Key:1004104,Text:"Sî"},{
+Key:1004105,Text:"Tîrêja siyê"},{
+Key:1004106,Text:"Kûrahiya siyê"},{
+Key:1004107,Text:"rêberiya siya"},{
+Key:1004108,Text:"xetên Max"},{
+Key:1004109,Text:"Karakterên Max"},{
+Key:1004110,Text:"Bi risteyên jêrîn"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Sûret"},{
+Key:1004153,Text:"Reng"},{
+Key:1004156,Text:"Body rectangle"},{
+Key:1004157,Text:"Header rectangle"},{
+Key:1004158,Text:"Foot rectangle"},{
+Key:1004500,Text:"Salnameyê li klîpboardê kopî bikin"},{
+Key:1004501,Text:"Danasîna rojevê li ser tabloyê hatiye danîn."},{
+Key:1004502,Text:"Peyv (sernav û gotin) an hejmar ku lê bigerin"},{
+Key:1004503,Text:"Peyv (sernav paşê gotin) an hejmar ku lê bigerin"},{
+Key:1004504,Text:"Peyvên (sernav) an hejmarê ku lê digerin"},{
+Key:1004505,Text:"Peyvên (nivîskar û bestekar) an hejmara ku lê bigerin"},{
+Key:1004506,Text:"Peyv (mijar) an hejmar ku lê bigerin"},{
+Key:1004507,Text:"Peyvên (çavkanî) an jî hejmara ku lê bigerin"},{
+Key:1004508,Text:"CCLI ji bo lêgerînê"},{
+Key:1004509,Text:"Peyvên (mafê kopî) an hejmara ku lê bigerin"},{
+Key:1004510,Text:"Peyvên (bîranîn 1) an hejmara ku lê digerin"},{
+Key:1004511,Text:"Peyvên (bîranîn 2) an hejmara ku lê bigerin"},{
+Key:1004512,Text:"Peyvên (bîranîn 3) an hejmara ku lê bigerin"},{
+Key:1004513,Text:"Stranên bi akordan"},{
+Key:1004514,Text:"Kurteya berhevokê kopî bikin"},{
+Key:1004515,Text:"Kurteya berhevokê li ser Clipboardê hatiye danîn."},{
+Key:1005001,Text:"Dawiya barkirinê"},{
+Key:1005002,Text:"Strana \"{0}\""},{
+Key:1005003,Text:"Barkirina vîdyoyan"},{
+Key:1005004,Text:"Vîdyoya \"{0}\" nayê lîstin.
+{1}"},{
+Key:1005005,Text:"Barkirina wêneyan"},{
+Key:1005006,Text:"Nekarî wêneyê \"{0}\" bixwîne.
+{1}"},{
+Key:1005007,Text:"Loading styles"},{
+Key:1005008,Text:"Dagirtina lîsteya berhevokan ({0} stran di {1} berhevokan de)"},{
+Key:1005009,Text:"Tiştên hilbijartî ji salnameyê jêbirin?"},{
+Key:1005010,Text:"Tiştên jêbirin"},{
+Key:1005011,Text:"Koleksiyona nû"},{
+Key:1005012,Text:"Strana nû"},{
+Key:1005013,Text:"Rojev vala ye.
+Yek vekin an jî stranan bikişînin nav wê
+û ayetên ji VideoPsalm te
+an belgeyên ji ofîsa we:
+
+Wêneyên Slideshow, vîdyoyên serbixwe
+Pelên deng, PDF
+PowerPoints, MS-Words, MS-Excels
+Belgeyên Office vekin
+Chants CCLIs, malperên
+YouTube, Vimeo"},{
+Key:1005014,Text:"Ji bo projeya vîdyoyê slaytek tune.
+Stranek, beyt an mijarek rojevê hilbijêrin
+ji bo projekirina vîdyoyê."},{
+Key:1005015,Text:"Ma tu bi rastî dixwazî ​​berhevoka \"{0}\" jê bibî?
+
+Pelê ku bi vê berhevokê re têkildar e dê ji dîskê neyê jêbirin:
+navê dirêjkirina wê dê bibe \".ignore\"."},{
+Key:1005016,Text:"Komek jêbirin"},{
+Key:1005017,Text:"Ma hûn dixwazin strana \"{0}\" jêbirin?
+
+Piştî tomarkirina guhertinên berhevokan, jêbirina vê stranê dê neveger be."},{
+Key:1005018,Text:"Stranek jêbirin"},{
+Key:1005019,Text:"Hemî tiştan ji salnameyê jêbirin?"},{
+Key:1005020,Text:"Hemî jêbirin"},{
+Key:1005021,Text:"Rojeva bênav"},{
+Key:1005022,Text:"Rojnivîska vala"},{
+Key:1005023,Text:"Di salnameya heyî de guhertinên nehatine tomarkirin.
+Ma hûn dixwazin van guhertinan hilînin?"},{
+Key:1005024,Text:"Rojevê xilas bike"},{
+Key:1005025,Text:"Yek an çend portfoliyoyan guheztinên ne tomarkirî hene.
+Ma hûn dixwazin van guhertinan hilînin?"},{
+Key:1005026,Text:"Koleksiyonên xilas bike"},{
+Key:1005027,Text:"Yek an çend Încîlê de guheztinên ne tomarkirî hene.
+Ma hûn dixwazin van guhertinan hilînin?"},{
+Key:1005028,Text:"Mizgîniyê xilas bikin"},{
+Key:1005029,Text:"Belgeyên li salnameyê zêde bikin"},{
+Key:1005030,Text:"Agendas"},{
+Key:1005031,Text:"Wêne"},{
+Key:1005032,Text:"Videos"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Salnameyê wekî tomar bike"},{
+Key:1005035,Text:"stranên CCLI"},{
+Key:1005036,Text:"Komkirin tune.
+Ji bo destpêkirina Wizard Import Collections li vir bikirtînin
+Ko
+Koleksiyonek nû biafirînin û stranên xwe bi navgîniya tabloya \"Edit\" lê zêde bikin."},{
+Key:1005037,Text:"Format {0}
+{1} × {2} pixel"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Ma hûn pê bawer in ku hûn dixwazin hemî şêwazên li ser asta \"{0}\" jêbirin?"},{
+Key:1005040,Text:"Koleksiyona \"{0}\" ji lêgerînê nayê derxistin"},{
+Key:1005041,Text:"Slide nîşan bide an jî jê derbas bibe"},{
+Key:1005042,Text:"Seasons"},{
+Key:1005043,Text:"Bihar"},{
+Key:1005044,Text:"Havîn"},{
+Key:1005045,Text:"Noel"},{
+Key:1005046,Text:"Themes"},{
+Key:1005047,Text:"Caramel"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"pozbilind"},{
+Key:1005050,Text:"Odeya reş"},{
+Key:1005051,Text:"Mûj"},{
+Key:1005052,Text:"Blueprint"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Berevajî xurt"},{
+Key:1005055,Text:"Dayre"},{
+Key:1005056,Text:"Office 2010 Şîn"},{
+Key:1005057,Text:"Office 2010 Zîv"},{
+Key:1005058,Text:"Office 2010 Reş"},{
+Key:1005059,Text:"Office 2007 Şîn"},{
+Key:1005060,Text:"Office 2007 Kesk"},{
+Key:1005061,Text:"Office 2007 Pink"},{
+Key:1005062,Text:"Office 2007 Zîv"},{
+Key:1005063,Text:"Office 2007 Reş"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Seven"},{
+Key:1005067,Text:"Seven Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Dixana bînxweş"},{
+Key:1005070,Text:"Dixan"},{
+Key:1005071,Text:"Sêv"},{
+Key:1005072,Text:"Colors"},{
+Key:1005073,Text:"Ezmanê şilî"},{
+Key:1005074,Text:"ezmanê Londonê"},{
+Key:1005075,Text:"Şîn"},{
+Key:1005076,Text:"Money Twins"},{
+Key:1005077,Text:"Zêrê reş"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Tûj"},{
+Key:1005080,Text:"Sharp More"},{
+Key:1005081,Text:"Stêrk"},{
+Key:1005082,Text:"Okyanûsên cam"},{
+Key:1005083,Text:"Cîhana Asfaltê"},{
+Key:1005084,Text:"Qehwe"},{
+Key:1005085,Text:"Stardust"},{
+Key:1005086,Text:"Hemî şêwazên jorîn paqij bikin"},{
+Key:1005087,Text:"&Galeriyê vekirî bihêlin"},{
+Key:1005088,Text:"Office 2016 Vivid"},{
+Key:1005089,Text:"Office 2016 Dark"},{
+Key:1005090,Text:"Office 2016 Reş"},{
+Key:1005091,Text:"Office 2013 Spî"},{
+Key:1005092,Text:"Office 2013 Grey Tarî"},{
+Key:1005093,Text:"Office 2013 Gewrê ronahî"},{
+Key:1005094,Text:"Bajarê Tarî"},{
+Key:1005095,Text:"Dil"},{
+Key:1005096,Text:"The Bezier"},{
+Key:1005097,Text:"VS2013 Şîn"},{
+Key:1005098,Text:"VS2013 Ronahî"},{
+Key:1005099,Text:"VS2013 Dark"},{
+Key:1005100,Text:"Anîmasyon tune"},{
+Key:1005102,Text:"Molten"},{
+Key:1005103,Text:"Ronahî winda dibe"},{
+Key:1005104,Text:"Mezinkirinî"},{
+Key:1005105,Text:"Mezinbûn di hûrguliyek hûrgelê de"},{
+Key:1005106,Text:"Scanning"},{
+Key:1005109,Text:"Şikil"},{
+Key:1005110,Text:"Stêrk"},{
+Key:1005118,Text:"Sweep down"},{
+Key:1005119,Text:"Swipe rast"},{
+Key:1005120,Text:"Swipe çepê"},{
+Key:1005121,Text:"Sweep up"},{
+Key:1005122,Text:"Swipe xwarê rast"},{
+Key:1005123,Text:"Swipe xwarê çepê"},{
+Key:1005124,Text:"Swipe jor rast"},{
+Key:1005125,Text:"Swipe jor çepê"},{
+Key:1005126,Text:"Keşif kirin"},{
+Key:1005127,Text:"Keşif bike"},{
+Key:1005128,Text:"Li aliyê rastê vedîtin"},{
+Key:1005129,Text:"Li milê çepê vedîtin"},{
+Key:1005130,Text:"Vedîtin"},{
+Key:1005131,Text:"Li jêr rastê kifş bikin"},{
+Key:1005132,Text:"Li jêr çepê vedîtin"},{
+Key:1005133,Text:"Rast kifş bikin"},{
+Key:1005134,Text:"Çepê kifş bikin"},{
+Key:1005201,Text:"Slide tune"},{
+Key:1005209,Text:"Li peyvan bigerin:"},{
+Key:1005210,Text:"&Sernav û gotin"},{
+Key:1005211,Text:"&Sernav paşê gotin"},{
+Key:1005212,Text:"&Nav"},{
+Key:1005213,Text:"&Nivîskar û bestekar"},{
+Key:1005214,Text:"&Themes"},{
+Key:1005215,Text:"&Çavkanî"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Copyright"},{
+Key:1005218,Text:"&Bîranîn 1"},{
+Key:1005219,Text:"&Bîranîn 2"},{
+Key:1005220,Text:"&Bîranîn 3"},{
+Key:1005221,Text:"&Stranên bi akordan"},{
+Key:1005223,Text:"Vebijêrk"},{
+Key:1005224,Text:"Vebijêrkên VideoPsalm"},{
+Key:1005225,Text:"Qutiya diyalogê ya vebijarkên VideoPsalm nîşan dide."},{
+Key:1005226,Text:"&Malanîn"},{
+Key:1005228,Text:"Wizard ji bo Importkirina Pirtûk, Încîl, Wêne û Vîdyoyan ji pirtûkxaneya serhêl a VideoPsalm û formatên populer nîşan dide."},{
+Key:1005237,Text:"Fontê biguherînin."},{
+Key:1005247,Text:"Wêne"},{
+Key:1005252,Text:"Vebijêrkên ragihandinê biguherînin."},{
+Key:1005255,Text:"Peyv an hevokên lêgerînê, mînak. : şeraba nan"},{
+Key:1005256,Text:"Li gorî referansa wan ayetan hilbijêrin"},{
+Key:1005257,Text:"Ayetên ku hin peyvên sereke an hevok hene bibînin"},{
+Key:1005258,Text:"Peyvên sereke an hevoka lêgerînê paqij bikin (Esc)"},{
+Key:1005259,Text:"Beytên ku tê de hin peyvên sereke hene bibînin."},{
+Key:1005260,Text:"ayet nehat dîtin."},{
+Key:1005268,Text:"Di vê modê de, VideoPsalm bixweber li dora her nivîsa ku hûn dinivîsin, kemberên çargoşe [] lê zêde dike.
+Mînakî, ji bo lê zêdekirina akordek C, \"Do\" binivîsin û VideoPsalm dê \"[Do]\" têxe."},{
+Key:1005269,Text:"Mezinahiya tîpan"},{
+Key:1005270,Text:"Mezinahiya tîpan wekî sedî ji bilindahiya ekranê diguhezîne."},{
+Key:1005271,Text:"&Salnameyê wekî tomar bike"},{
+Key:1005277,Text:"&Rekor"},{
+Key:1005278,Text:"Guherandinên ku we di Berhevkirin, Încîl û şêwazên wan de çêkirine hilîne."},{
+Key:1005279,Text:"Guhertinên ku we di Koleksiyon û Şêwe de çêkirine hilîne.
+
+<b>Hişyarî:</b> Guhertinên ku hûn li Încîlê dikin nayên tomarkirin (nivîs û şêwaz). Ger hewce be, di vebijarkên VideoPsalm de tomarkirina guhertinên ku di Incîlê de hatine çêkirin çalak bikin."},{
+Key:1005283,Text:"&Duration :"},{
+Key:1005284,Text:"&Di ms:"},{
+Key:1005285,Text:"Pêve"},{
+Key:1005286,Text:"Beden"},{
+Key:1005287,Text:"Body style"},{
+Key:1005288,Text:"Destûrê dide sererastkirina şêwaza laş."},{
+Key:1005289,Text:"Li ser hişê xwe"},{
+Key:1005290,Text:"Header Style"},{
+Key:1005291,Text:"Destûrê dide guherandina şêwaza sernivîsê."},{
+Key:1005292,Text:"Ling"},{
+Key:1005293,Text:"Şêweya lingan"},{
+Key:1005294,Text:"Destûrê dide sererastkirina şêwaza lingê."},{
+Key:1005295,Text:"Peymanên"},{
+Key:1005296,Text:"Şêweya Chord"},{
+Key:1005297,Text:"Destûrê dide sererastkirina şêwaza akordê."},{
+Key:1005308,Text:"Radest kirin"},{
+Key:1005313,Text:"asta Style"},{
+Key:1005314,Text:"Asta ku tê de guheztinên şêwaza we dê bicîh bînin destnîşan bikin.
+
+Benda <image=#guîtar> asta herî bilind a şêwazê digire, paşê strana <image=#musîc>, berhevoka <image=#book_blue16>, berhevok <image=#books> û bingeh <image=#bullet_ball_blue_16> tê.
+
+Bingeha <image=#bullet_ball_blue_16> di koka hiyerarşiyê de ye, şêwaza wê ji bo hemî slaytan derbas dibe.
+
+Dema ku hûn taybetmendiyek şêwazê ji nûve astek bilindtir pênase dikin, ew pêşî digire.
+<b>Nimûne:</b> Dema ku tu paşxaneyekê ji stranekê re diyarî dike, hemû risteyên stranê bi wê paşperdeyê têne xuyang kirin, ji xeynî risteyên ku te paşxaneyek ji wan re veqetandiye."},{
+Key:1005315,Text:"Ji bo bêtir fêr bibin, <image=#keyboard_key_16> F1 bikirtînin."},{
+Key:1005318,Text:"Şemitîn"},{
+Key:1005319,Text:"xala hêzê"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Videos"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Rengên nivîsê"},{
+Key:1005329,Text:"Reset"},{
+Key:1005330,Text:"Ji bo asta hilbijartî şêwazê paqij bikin"},{
+Key:1005331,Text:"Destûrê dide te ku hûn hemî taybetmendiyên şêwazê yên asta hilbijartî jêbirin.
+Slidek nestilkirî bixweber şêwaza asta jêrîn mîras digire.
+
+<b>menuya daketina \"Hemû şêwazên jorîn paqij bike\"</b>
+Destûrê dide we ku hûn hemî şêwazên jorîn jêbirin.
+Şêweya asta hilbijartî nayê bandor kirin."},{
+Key:1005332,Text:"Ev bişkok gewr dibe dema ku astê şêwazek xwe tune."},{
+Key:1005333,Text:"&Hemî şêwazên jorîn paqij bikin"},{
+Key:1005337,Text:"&Bilind"},{
+Key:1005338,Text:"&Dor"},{
+Key:1005339,Text:"&Nizm"},{
+Key:1005340,Text:"Li ser vê astê şêwazê bimînin"},{
+Key:1005341,Text:"Li ser asta heyî ya şêwazê bimînin"},{
+Key:1005342,Text:"Dema ku hûn slaytan diguherînin li ser asta şêwaza heyî dimîne.
+Vê bişkoja nepêwîst bi vebijarkên VideoPsalm veşêrin ► Kesanekirin ► Pushpin."},{
+Key:1005343,Text:"Dagirtina nivîsê"},{
+Key:1005345,Text:"Nivîsê bi reng, gradient, wêne, an tevnek hişk tijî dike."},{
+Key:1005346,Text:"Rengê nivîsê"},{
+Key:1005347,Text:"Rêzeya nivîsê"},{
+Key:1005349,Text:"Ji bo xêzkirina nivîsê reng, firehî û şêwaza rêzê diyar dike."},{
+Key:1005350,Text:"Rengê xêzkirina nivîsê"},{
+Key:1005352,Text:"Bandora nivîsê"},{
+Key:1005354,Text:"Li ser nivîsê bandorek dîtbarî, mîna siyek, ronahî, refleks, an zivirîna 3D bicîh tîne."},{
+Key:1005356,Text:"Siya nivîsê"},{
+Key:1005357,Text:"Rengê paşxanê"},{
+Key:1005359,Text:"&Strana nû"},{
+Key:1005360,Text:"&Koleksiyona nû"},{
+Key:1005361,Text:"&Hemî jêbirin"},{
+Key:1005362,Text:"
+
+<b>Mertalê qismî</b>
+Dema vekirina rojnivîskê, <b>nivîsarên</b> berhevok û Încîlên we dê bêne parastin.
+Dê şêwazên salnameyê li berhevok û Încîlên we werin sepandin."},{
+Key:1005363,Text:"
+
+<b>Mertalê qismî</b>
+Dema ku rojnivîskekê vedikin, <b>şêwazên</b> berhevok û Încîlên we dê bêne parastin.
+Nivîsên rojevê dê li ser berhevok û Încîlên we bên sepandin."},{
+Key:1005364,Text:"
+
+<b>Mertala tevahî</b>
+Dema vekirina rojnivîskekê, <b>nivîsar</b> û <b>şêwaz</b> yên berhevok û Încîlên we dê bên parastin.
+Yên di rojevê de ne dê bên sepandin.
+
+<i>Ev stratejiyek e ku meriv dipejirîne dema ku belgeyên di vê PC-ê de referansa we ne.</i>"},{
+Key:1005365,Text:"<b>Nebûna mertalê</b>
+Dema vekirina salnameyê, <b>metn</b> û <b>şêwazên salnameyê</b> dê li ser berhevok û Încîlên we werin sepandin û dê şûna nivîs û şêwazên we bigrin.
+
+<i>Ev stratejiyek e ku meriv dikare bipejirîne dema ku belgeyên referansa we yên PC-ya ku we rojnivîsk li ser çêkiriye ne.</i>"},{
+Key:1005366,Text:"Ji bo ku hûn ji moda \"Viewer\" veguherînin moda \"Guherandin\" an berevajî, bi pênûsê li ser bişkoka bikirtînin."},{
+Key:1005369,Text:"&Li gorî sernavê rêz bikin"},{
+Key:1005370,Text:"&Li gorî hejmarê rêz bikin"},{
+Key:1005371,Text:"Derbare"},{
+Key:1005377,Text:"4: 3.2"},{
+Key:1005378,Text:"Pêşniyara vîdyoyê simul dike
+li ser ekranek bi aliyek 4: 3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Pêşniyara vîdyoyê simul dike
+li ser ekranek 16: 9"},{
+Key:1005381,Text:"4: 3"},{
+Key:1005382,Text:"Pêşniyara vîdyoyê simul dike
+li ser ekranek bi aliyek 4: 3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Pêşniyara vîdyoyê simul dike
+li ser ekranek 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Pêşniyara vîdyoyê simul dike
+li ser ekranek 16: 8"},{
+Key:1005387,Text:"Vêga"},{
+Key:1005388,Text:"Tevahiya rûyê ekranê bikar tîne"},{
+Key:1005389,Text:"Aliyê 4: 3"},{
+Key:1005390,Text:"&Do Re Mi"},{
+Key:1005391,Text:"&A B C"},{
+Key:1005396,Text:"Moda têketina akordan"},{
+Key:1005398,Text:"Akordan li jor gotinan nîşan bide"},{
+Key:1005400,Text:"&Di heman demê de xuyangê pencereyê jî adapte bikin"},{
+Key:1005401,Text:"&Têxe rojevê"},{
+Key:1005402,Text:"&Tiştên hilbijartî rakin"},{
+Key:1005403,Text:"&Di lêkolînê de berhevokê bike"},{
+Key:1005404,Text:"&Koleksiyonê ji lêkolînê derxînin"},{
+Key:1005405,Text:"&Di lêgerînê de hemî berhevokan têxin nav lêgerînê"},{
+Key:1005407,Text:"&Koleksiyonên ku ji lêgerînê hatine derxistin veşêrin"},{
+Key:1005408,Text:"&Koleksiyonên ku ji lêgerînê hatine derxistin nîşan bidin"},{
+Key:1005409,Text:"&Mezinahiya çargoşeyê nîşan bide"},{
+Key:1005410,Text:"Mezinahiya çargoşeyê nîşan bide"},{
+Key:1005411,Text:"Ji bo guheztina mezinahiya çarçoweya hilbijartî (laşê nivîsê, serî an pêlavê), bi karanîna mişkê, li devera pêşdîtinê tê bikar anîn.
+<b>Guhertin li ser asta şêwazê heyî têne sepandin.</b>"},{
+Key:1005412,Text:"&Kurtenivîsê kopî bikin"},{
+Key:1005417,Text:"Nivîstok"},{
+Key:1005418,Text:"Style explorer"},{
+Key:1005419,Text:"Style Explorer nîşan bide an veşêre.
+Di vê panelê de, hûn dikarin di navbera astên şêwaza hiyerarşîk de bigerin, taybetmendiyên kesane ji nû ve bikin û wan biguherînin."},{
+Key:1005420,Text:"Styles"},{
+Key:1005421,Text:"Pûlis"},{
+Key:1005424,Text:"Paşî"},{
+Key:1005425,Text:"Styles"},{
+Key:1005429,Text:"Aspect"},{
+Key:1005430,Text:"Editing"},{
+Key:1005432,Text:"Xuyabûnî"},{
+Key:1005433,Text:"Amûrên"},{
+Key:1005442,Text:"Bi hêmana din re berdewam bikin"},{
+Key:1005443,Text:"Berî ku berdewam bike veqetîne"},{
+Key:1005444,Text:"Bikin ku nivîs winda bibe paşê zincîre"},{
+Key:1005445,Text:"Nivîsar winda bikin û paşê vekin"},{
+Key:1005446,Text:"Nîşandana li gel babeta jêrîn (duzimanî)"},{
+Key:1005447,Text:"Stran an ayetên hilbijartî li salnameyê zêde bikin (Têxin an Alt A)"},{
+Key:1005448,Text:"Li vir bikirtînin ku stran an ayetan li salnameyê zêde bikin.
+
+Her weha hûn dikarin vê bişkojê di salnameyê de kaş bikin û bavêjin cîhê guncan."},{
+Key:1005449,Text:"&To lê zêde bike"},{
+Key:1005454,Text:"Vebijarkên lêgerîna stranê li gorî keywordê hilbijêrin"},{
+Key:1005455,Text:"Peyv an hejmara ku lê bigerin jêbirin (Esc)"},{
+Key:1005457,Text:"Stranek bibîne (Ctrl F)"},{
+Key:1005458,Text:"Stranên ku tê de hin peyvan hene an hejmareke diyarkirî hene bibînin."},{
+Key:1005459,Text:"Încîl tune.
+Li vir bikirtînin da ku sêrbazê importê dest pê bikin
+ji Încîlê û Încîlên ji çavkaniyên populer lê zêde bike."},{
+Key:1005463,Text:"Referansa nîşankirinê paqij bike (Esc)"},{
+Key:1005464,Text:"Referansa ku were hilbijartin, mînak. : Romayî 3: 23-25, 30"},{
+Key:1005465,Text:"Ayetan hilbijêre (Ctrl F)"},{
+Key:1005472,Text:"&Mesele:"},{
+Key:1005475,Text:"&Vê berhevokê têxin nav lêgerîna stranan"},{
+Key:1005479,Text:"&Paşnav :"},{
+Key:1005481,Text:"&Kurtekirin :"},{
+Key:1005483,Text:"&Nivîskar"},{
+Key:1005485,Text:"&Copyright"},{
+Key:1005487,Text:"&Belge:"},{
+Key:1005491,Text:"&Capo çap bike"},{
+Key:1005497,Text:"&Words"},{
+Key:1005499,Text:"&Jimare:"},{
+Key:1005501,Text:"&Sernav:"},{
+Key:1005505,Text:"&Çavkanî:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Nivîskar:"},{
+Key:1005511,Text:"&Berhevkar:"},{
+Key:1005513,Text:"&Newekhev"},{
+Key:1005515,Text:"&Deng:"},{
+Key:1005517,Text:"&Çap:"},{
+Key:1005519,Text:"&Mijar:"},{
+Key:1005521,Text:"&Dor:"},{
+Key:1005523,Text:"&CCLI:"},{
+Key:1005525,Text:"&Qûfle:"},{
+Key:1005527,Text:"&A.k.a:"},{
+Key:1005529,Text:"&Rêza sereke:"},{
+Key:1005531,Text:"&Bîranîn 1"},{
+Key:1005533,Text:"&Bîranîn 2"},{
+Key:1005535,Text:"&Bîranîn 3"},{
+Key:1005537,Text:"&Destnîşan:"},{
+Key:1005540,Text:"&Veguheztin:"},{
+Key:1005542,Text:"&Capo:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Ji bo veguheztina akordên stranê tê bikar anîn."},{
+Key:1005555,Text:"&Mesele:"},{
+Key:1005560,Text:"&Copyright"},{
+Key:1005562,Text:"&Kurtekirin :"},{
+Key:1005564,Text:"&Paşnav :"},{
+Key:1005566,Text:"&Terîf"},{
+Key:1005568,Text:"&Pêşkêş"},{
+Key:1005570,Text:"&Belge:"},{
+Key:1005576,Text:"&Paşnav :"},{
+Key:1005582,Text:"&Paşnav :"},{
+Key:1005584,Text:"&Pêşkêş:"},{
+Key:1005586,Text:"&Kurtekirin :"},{
+Key:1005587,Text:"beşa Încîlê"},{
+Key:1005590,Text:"Ayeta Incîlê"},{
+Key:1005595,Text:"&Ayet:"},{
+Key:1005603,Text:"&Dosya:"},{
+Key:1005606,Text:"Bingehîn"},{
+Key:1005608,Text:"Awayî"},{
+Key:1005612,Text:"Qîmetê milk jê dike"},{
+Key:1005613,Text:"Dema ku hûn nirxa xanî jêbirin, VideoPsalm nirxa yekem a ku di astên jêrîn de tê dîtin bikar tîne.
+
+Mînakî, heke hûn tîpa asta stanzayê derxînin, VideoPsalm dê bi rêz û heke were danîn, tîpê bikar bîne:
+- hinek stran gotin,
+- heke ne ya berhevokê be,
+- heke ne ya berhevokan be,
+- eger ne ya bingehîn.
+
+VideoPsalm bi Incîl, wêne, hwd re heman tiştî dike."},{
+Key:1005615,Text:"Herçiyek"},{
+Key:1005616,Text:"Bingehîn"},{
+Key:1005618,Text:"Collections"},{
+Key:1005619,Text:"Berhevkirî"},{
+Key:1005620,Text:"Singing"},{
+Key:1005621,Text:"Stanza"},{
+Key:1005622,Text:"Încîl"},{
+Key:1005623,Text:"încîl"},{
+Key:1005624,Text:"Xwestek"},{
+Key:1005625,Text:"Kitêba Pîroz"},{
+Key:1005626,Text:"Beş"},{
+Key:1005627,Text:"Ayet"},{
+Key:1005628,Text:"Nirxa standard"},{
+Key:1005629,Text:"Nirx ji text laş"},{
+Key:1005630,Text:"Çep"},{
+Key:1005631,Text:"Navîne"},{
+Key:1005632,Text:"Qanûn"},{
+Key:1005633,Text:"Mafdar kirin"},{
+Key:1005634,Text:"Bilind"},{
+Key:1005635,Text:"Dor"},{
+Key:1005636,Text:"Nizm"},{
+Key:1005650,Text:"&Rojevek vekin"},{
+Key:1005655,Text:"Dema ku ez rojevekê vedikim:"},{
+Key:1005656,Text:"&Nivîsarên berhevok û Incîlên min biparêzin"},{
+Key:1005657,Text:"&Şêwazên berhevok û Încîlên min biparêzin"},{
+Key:1005658,Text:"&Naverok"},{
+Key:1005659,Text:"&Wêneyê Slideshow"},{
+Key:1005660,Text:"&Vîdyoyek serbixwe"},{
+Key:1005661,Text:"&xala hêzê"},{
+Key:1005667,Text:"&Collections"},{
+Key:1005668,Text:"Berhevokan nîşan bide (Alt R)"},{
+Key:1005670,Text:"&Încîl"},{
+Key:1005671,Text:"Încîlê nîşan bide (Alt B)"},{
+Key:1005677,Text:"&Firehiya:"},{
+Key:1005680,Text:"&Blûrî:"},{
+Key:1005681,Text:"&Kûrahî:"},{
+Key:1005682,Text:"&Derhêner:"},{
+Key:1005686,Text:"Ekranek vala, bi rengê reş nîşan dide.
+Rakirina vîdyoprojektorê simule dike."},{
+Key:1005687,Text:"Pêketînî"},{
+Key:1005688,Text:"Ber bi slideya paşîn (an anîmasyona paşîn a PowerPoint) ve biçin."},{
+Key:1005689,Text:"Vemirandina ekranê (Ctrl W)"},{
+Key:1005690,Text:"Nivîsarê nîşan bide (Ctrl T)"},{
+Key:1005691,Text:"Nivîsarê li ser slaydekê nîşan bide an veşêre."},{
+Key:1005692,Text:"Mertal (Ctrl D)"},{
+Key:1005693,Text:"Di dema pêşandana vîdyoyê de slaytên stranê diparêze.
+
+Destûrê dide te ku hûn di dema pêşandana vîdyoya stranê de li ser rojevê bixebitin an li stranek an ayetekê bigerin.
+
+Ji bo derbaskirina mertalê, du caran li ser babetek salnameyê bikirtînin."},{
+Key:1005694,Text:"Bicemidîne (Ctrl R)"},{
+Key:1005695,Text:"Dîmena pêşandana vîdyoyê bêyî cemidandina qada pêşdîtinê cemidîne.
+
+Destûrê dide we ku hûn di dema projekirina vîdyoyê de pêşnumayê binirxînin."},{
+Key:1005696,Text:"Proje (Ctrl P)"},{
+Key:1005697,Text:"Slaytên li ser vîdyoprojektorê proje dike."},{
+Key:1005698,Text:"Moda \"Biguherîne\" (Ctrl E)"},{
+Key:1005699,Text:"Ji moda \"Viewer\" veguherînin moda \"Edit\" an berevajî."},{
+Key:1005702,Text:"Rojeveke ku we ji berê de amade kiriye vekin."},{
+Key:1005703,Text:"&Rojevê bigire"},{
+Key:1005704,Text:"&Rojevê xilas bike"},{
+Key:1005705,Text:"Ji bo jêbirin"},{
+Key:1005706,Text:"Tiştên hilbijartî ji salnameyê derdixe."},{
+Key:1005707,Text:"Lihevderketin"},{
+Key:1005708,Text:"Tiştê berbi destpêka salnameyê vegerînin."},{
+Key:1005709,Text:"Daketin jêr"},{
+Key:1005710,Text:"Babetê ber bi dawiya rojevê ve ber bi jêr ve digerîne."},{
+Key:1005711,Text:"Brightness"},{
+Key:1005712,Text:"Rojevek vekin"},{
+Key:1005713,Text:"Salnameyê li ser dîskê an çîtek USB-yê hilînin."},{
+Key:1005721,Text:"Li gorî referansa wan ayetan hilbijêrin.
+<i>Mînak: Romayî 3: 23-25, 30</i>"},{
+Key:1005722,Text:"Şîrove (wergerîne, bi Îngilîzî bihêle)"},{
+Key:1005723,Text:"Nikarin pelê binivîsin
+{0}:
+{1}"},{
+Key:1005724,Text:"Şaşî"},{
+Key:1005725,Text:"Nekarî pelê bixwîne
+{0}:
+{1}"},{
+Key:1005730,Text:"Ma hûn pê bawer in ku hûn dixwazin şêwaza wêneyên slideshow paqij bikin?
+Şêweya wêneyên slideshow dê nirxek standard bigire."},{
+Key:1005731,Text:"Ma hûn pê bawer in ku hûn dixwazin şêwaza bingehîn jêbirin?
+Şêweya bingehîn dê nirxek standard bigire."},{
+Key:1005732,Text:"Ma hûn guman dikin ku hûn şêwaza berhevokan jêbirin?
+Şêweya berhevokan dê nirxek standard bigire."},{
+Key:1005733,Text:"Ma hûn guman dikin ku hûn şêwaza Mizgîniyê ji holê rakin?
+Şêwaza Încîlê dê nirxek standard bistîne."},{
+Key:1005734,Text:"Ma hûn guman dikin ku hûn dixwazin vê şêwazê jêbirin?
+VideoPsalm dê taybetmendiyên şêwazê yên ku di hiyerarşiyê de jêrîn têne dîtin bicîh bîne."},{
+Key:1005735,Text:"Şêweya zelal"},{
+Key:1005736,Text:"Ma hûn guman dikin ku hûn şêwaza vîdyoyan jêbirin?
+Şêweya vîdyoyan dê nirxek standard bigire."},{
+Key:1005737,Text:"Berhevokek"},{
+Key:1005738,Text:"Komkirin tune"},{
+Key:1005739,Text:"Mizgîniyek"},{
+Key:1005740,Text:"Încîl tune"},{
+Key:1005743,Text:"Fontê mezintir bikin (Ctrl Shift)"},{
+Key:1005744,Text:"Mezinahiya nivîsa hilbijartî zêde bike."},{
+Key:1005745,Text:"Fontê kêm bike (Ctrl Shift,)"},{
+Key:1005746,Text:"Mezinahiya nivîsa hilbijartî kêm dike."},{
+Key:1005747,Text:"Bold (Ctrl B)"},{
+Key:1005748,Text:"Nivîsara hilbijartî qelew dike."},{
+Key:1005749,Text:"Îtalîk (Ctrl I)"},{
+Key:1005750,Text:"Metna hilbijartî kurteçîrok dike."},{
+Key:1005751,Text:"Binxetê (Ctrl U)"},{
+Key:1005752,Text:"Biniya nivîsa hilbijartî xêz dike."},{
+Key:1005753,Text:"Rod"},{
+Key:1005754,Text:"Di nîvê nivîsa hilbijartî de xêzek xêz dike."},{
+Key:1005755,Text:"Nîşan bide / veşêre ¶ (Ctrl Shift 8)"},{
+Key:1005756,Text:"Nîşaneyên paragrafê û sembolên din ên formatkirina veşartî nîşan dide."},{
+Key:1005757,Text:"Rengê tîpan"},{
+Key:1005758,Text:"Rengê nivîsa hilbijartî diguherîne."},{
+Key:1005759,Text:"Rengê xêzkirina nivîsê"},{
+Key:1005760,Text:"Rengek rêzimanê dide nivîsa hilbijartî."},{
+Key:1005761,Text:"Formatkirin Paqij (Ctrl Ciyê)"},{
+Key:1005762,Text:"Formatkirinê bi tevahî ji hilbijartinê paqij dike û tenê nivîsa sade diparêze."},{
+Key:1005763,Text:"Vegere (Ctrl Z)"},{
+Key:1005764,Text:"Operasyona dawî betal dike."},{
+Key:1005765,Text:"Redo (Ctrl Y)"},{
+Key:1005766,Text:"Operasyona dawîn ji nû ve bikin."},{
+Key:1005767,Text:"Birîn (Ctrl X)"},{
+Key:1005768,Text:"Hilbijartinê qut dike û têxe ser Clipboard."},{
+Key:1005769,Text:"Kopî (Ctrl C)"},{
+Key:1005770,Text:"Hilbijartinê kopî dike û li ser Clipboardê bi cih dike."},{
+Key:1005771,Text:"Paste (Ctrl V)"},{
+Key:1005772,Text:"Naveroka Clipboard binivîsin."},{
+Key:1005773,Text:"Find (Ctrl F)"},{
+Key:1005774,Text:"Di belgeyê de li nivîsê bigerin."},{
+Key:1005775,Text:"Biguherîne (Ctrl H)"},{
+Key:1005776,Text:"Li şûna nivîsê di belgeyê de cih digire."},{
+Key:1005777,Text:"Mezinkirin"},{
+Key:1005778,Text:"Hemî nîşan bide"},{
+Key:1005779,Text:"Ji bo guherandina ayetek taybetî, li ser slayta wê bikirtînin."},{
+Key:1005780,Text:"Hilbijartina ayetan"},{
+Key:1005781,Text:"Stranên berhevoka hilbijartî li gorî sernavê wan rêz dike."},{
+Key:1005782,Text:"Salnameya heyî digire (û erêkirina we dipirse ger guheztinên ne tomarkirî hebin)."},{
+Key:1005783,Text:"Ronahiya wêneya paşîn an vîdyoyê eyar dike.
+
+Destûrê dide we ku hûn nivîsê ronî bikin, tewra li ser paşxaneyek xaçkirî."},{
+Key:1005784,Text:"&Danasînek ji salnameyê kopî bikin"},{
+Key:1005785,Text:"&Gotinên stranê tê de"},{
+Key:1005786,Text:"&Ayetên Incîlê tê de"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"Youtube"},{
+Key:1005790,Text:"Rûpelê facebookê VideoPsalm vekin.
+
+Li dora xwe VideoPsalm pêşve bibin:
+- bi tikandina bişkoka wê ya \"Like\",
+- bi bûyîna hevalê wî.
+
+<b>Nîşe:</b> Ji bo rakirina reklaman ji Facebookê, pêveka belaş <b>Adblock Plus</b> saz bikin.
+
+Ji bo veşartina îkonên civakî yên VideoPsalm, wan di \"Guherandin\" → \"Vebijêrk\" → \"Giştî\" de veşêrin."},{
+Key:1005791,Text:"Rûpelê VideoPsalm Twitterê vekin, da ku hûn ji postên blogê yên nû agahdar bibin.
+
+Ji bo veşartina îkonên civakî yên VideoPsalm, wan di \"Guherandin\" → \"Vebijêrk\" → \"Giştî\" de veşêrin."},{
+Key:1005792,Text:"Rûpelê YouTube-ê VideoPsalm vekin, li wir hûn ê li ser karanîna VideoPsalm dersên vîdyoyê bibînin.
+
+Ji bo veşartina îkonên civakî yên VideoPsalm, wan di \"Guherandin\" → \"Vebijêrk\" → \"Giştî\" de veşêrin."},{
+Key:1005793,Text:"Stranek nû ya vala (an jî ragihandinek) li berhevoka hilbijartî zêde dike."},{
+Key:1005794,Text:"Koleksiyona nû ya vala zêde dike."},{
+Key:1005795,Text:"Stranên berhevoka hilbijartî li gorî hejmara wan rêz dike."},{
+Key:1005800,Text:"Stanza"},{
+Key:1005801,Text:"Qoro"},{
+Key:1005802,Text:"Pre-chorus"},{
+Key:1005803,Text:"Pir"},{
+Key:1005804,Text:"Awanasî"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Derî"},{
+Key:1005807,Text:"Şemitîn"},{
+Key:1005808,Text:"Alîkar"},{
+Key:1005809,Text:"Yên din"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"ez"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"NE"},{
+Key:1005829,Text:"BA"},{
+Key:1005850,Text:"Nêzîkî"},{
+Key:1005851,Text:"&Ziman:"},{
+Key:1005852,Text:"&Weşanvan"},{
+Key:1005853,Text:"Gişt"},{
+Key:1005859,Text:"Akordên stranê li gorî pozîsyona kapodiastre veguherînin."},{
+Key:1005860,Text:"Stranên ku sernavê wan (an navnav) an jî gotinên wan peyvên ku hûn tê de hene bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005861,Text:"Lêgerînek du-gavekî pêk tîne, ku avantaja wê ya zû nîşankirina navnîşek kurt a stranan heye:
+
+1. Pêşî, stranên ku sernavê wan (an navnav) wan peyvên ku hûn tê de hene bibînin.
+
+Her ku hûn bêtir peyvan lê zêde dikin, demek tê ku êdî dengbêj nikarin bi cih bibin.
+
+2. Ji vê gavê û pê ve, VideoPsalm dê di gotinên stranan de li peyvan bigere.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005862,Text:"Stranên nivîskar û bestekarên ku hûn têkevin bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005863,Text:"Stranên ku bi mijarên ku hûn fam dikin ve mijûl dibin bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005864,Text:"Stranên ku ji referansên Mizgîniyê yên ku hûn têkevin îlhama xwe bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005865,Text:"Strana ku tê de CCLI heye bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005866,Text:"Stranên ku mafê telîfê wan peyvên ku hûn tê de hene bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005867,Text:"Stranên ku bîranîna wan 1 peyvên ku hûn tê de hene bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005868,Text:"Stranên ku bîranîna wan 2 peyvên ku hûn tê de hene bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005869,Text:"Stranên ku bîranîna wan 3 peyvên ku hûn tê de hene bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005870,Text:"Stranên ku sernav an navên wan peyvên ku hûn tê de hene bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005871,Text:"Stranên ku di gotinan de akord hene bibînin.
+
+Her weha hûn dikarin stranek li gorî jimareya wê bigerin."},{
+Key:1005872,Text:"&Versiyon ji:"},{
+Key:1005873,Text:"&Versiyon ji:"},{
+Key:1005874,Text:"Dîroka guhertoya berhevoka we"},{
+Key:1005875,Text:"Dîroka ku ev berhevok herî dawî ji hêla VideoPsalm ve hatî nûve kirin destnîşan dike.
+
+Bi rêya Wizard Import ji pirtûkxaneya serhêl VideoPsalm, hûn dikarin kontrol bikin ka guhertoyek nû ya vê berhevokê heye.
+
+VideoPsalm serhêl carinan hin berhevokan nûve dike, mînakî ji bo rastkirina tîpan."},{
+Key:1005876,Text:"Dîroka guhertoya weya Incîlê"},{
+Key:1005877,Text:"Dîroka ku ev Încîl herî dawî ji hêla VideoPsalm ve hatî nûve kirin destnîşan dike.
+
+Bi rêya Wizard Import ji pirtûkxaneya serhêl VideoPsalm, hûn dikarin kontrol bikin ka guhertoyek nû ya vê wergerê heye yan na.
+
+VideoPsalm serhêl carinan hin Încîlê nûve dike, mînakî ji bo rastkirina xeletiyên tîpan."},{
+Key:1005878,Text:"Tîrkirin"},{
+Key:1005879,Text:"Compressed"},{
+Key:1005880,Text:"VideoPsalm dikare pirtûk û Incîlên we bitewîne da ku hin cîhê dîskê xilas bike.
+
+Pirtûk û Încîlên ku hûn bi riya sêrbazê importê dakêşin bi gelemperî têne berhev kirin, da ku dakêşanê bilez bikin û seyrûsefera înternetê li ser malpera VideoPsalm kêm bikin."},{
+Key:1005881,Text:"&Tîrkirin"},{
+Key:1005882,Text:"&Compressed"},{
+Key:1005884,Text:"Ma tu bi rastî dixwazî ​​Încîla \"{0}\" jê bibî?
+
+Pela ku bi vê Încîlê re têkildar e dê ji dîskê neyê jêbirin:
+navê dirêjkirina wê dê bibe \".ignore\"."},{
+Key:1005885,Text:"Mizgîniyek jêbirin"},{
+Key:1005886,Text:"Ji kerema xwe bisekinin"},{
+Key:1005887,Text:"Barkirin…"},{
+Key:1005888,Text:"Peymana Kevin"},{
+Key:1005889,Text:"Peymana Nû"},{
+Key:1005890,Text:"Tomara heyî…"},{
+Key:1005891,Text:"&Wêneyên import bikin"},{
+Key:1005892,Text:"Wêneyên ji bo importkirinê hilbijêrin û dûv re li \"Vekirin\" bikirtînin"},{
+Key:1005893,Text:"Te {0} wêne(ên) îthal kiriye."},{
+Key:1005894,Text:"Tu wêne nehatin îtxalkirin.
+(Ew (yên) berê di galeriyê de (ne) ye)."},{
+Key:1005895,Text:"&Pitikan ji nû ve biafirînin"},{
+Key:1005896,Text:"Pitikan ji nû ve biafirînin"},{
+Key:1005897,Text:"Ma hûn dixwazin piçûkan ji nû ve biafirînin?
+
+Dibe ku hewce be ku ji nû ve piçûkên wêneyan were afirandin
+gava ku we li derveyî VideoPsalm guhertin çêkir."},{
+Key:1005898,Text:"&Wêne jêbirin"},{
+Key:1005899,Text:"Wêneyek jêbirin"},{
+Key:1005900,Text:"Ma tu bi rastî dixwazî ​​wêneyê \"{0}\" jê bibî?"},{
+Key:1005901,Text:"&Peldanka wêneyan bigerin"},{
+Key:1005902,Text:"&Wêneyê hilbijartî jêbirin"},{
+Key:1005903,Text:"&Vîdyoyan derxînin"},{
+Key:1005904,Text:"Vîdyoyên ji bo importkirinê hilbijêrin û dûv re li ser \"Vekirin\" bikirtînin"},{
+Key:1005905,Text:"Te {0} vîdyo (yên) îthal kiriye."},{
+Key:1005906,Text:"Vîdyoyek nehate şandin.
+(Ew (yên) berê di galeriyê de (ne) ye)."},{
+Key:1005907,Text:"&Pitikan ji nû ve biafirînin"},{
+Key:1005908,Text:"&Vîdyoyê jêbirin"},{
+Key:1005909,Text:"Vîdyoyek jêbirin"},{
+Key:1005910,Text:"Ma tu bi rastî dixwazî ​​vîdyoya \"{0}\" jê bibî?"},{
+Key:1005911,Text:"&Peldanka vîdyoyan bigerin"},{
+Key:1005912,Text:"&Vîdyoya hilbijartî jêbirin"},{
+Key:1005913,Text:"<Bê vîdyo>"},{
+Key:1005914,Text:"Importing images"},{
+Key:1005915,Text:"Importing Videos"},{
+Key:1005917,Text:"Peldank nayê afirandin
+{0}:
+{1}"},{
+Key:1005918,Text:"Peldanka diyarkirî medya tune:
+{0}"},{
+Key:1005919,Text:"Divê dosya temam bibe."},{
+Key:1005920,Text:"Navê peldankê nikare karakterên jêrîn bihewîne:
+{0}"},{
+Key:1005921,Text:"Koleksiyon û Încîlê sererast bikin"},{
+Key:1005922,Text:"Destûrê dide we ku hûn pirtûk, Încîl, wêne an vîdyoyan vegerînin, mînakî ji hilanînê li ser mifteyek USB."},{
+Key:1005923,Text:"Nêzîkî"},{
+Key:1005930,Text:"&Strana kopî bikin"},{
+Key:1005931,Text:"&Stran biguhezînin"},{
+Key:1005932,Text:"Ma tu bi rastî dixwazî ​​strana \"{0}\" kopî bikî
+ji berhevoka \"{1}\" re?"},{
+Key:1005933,Text:"Ma tu bi rastî dixwazî ​​strana \"{0}\" biguherînî
+ji berhevoka \"{1}\" re?"},{
+Key:1005934,Text:"&Referansan bi karanîna kurtenivîsan binivîse"},{
+Key:1005935,Text:"&Navên pirtûkan bi fransî nîşan bidin"},{
+Key:1005936,Text:" (Kopî)"},{
+Key:1005937,Text:"Koleksiyonek nû heye:
+{0}"},{
+Key:1005938,Text:"Koleksiyonên nû hene: {0}"},{
+Key:1005939,Text:"Serastkirin hatine kirin
+bo berhevoka \"{0}\""},{
+Key:1005940,Text:"Serastkirin hatine kirin
+ji berhevokên jêrîn re: {0}"},{
+Key:1005941,Text:"Wizard import berhevokan vekin"},{
+Key:1005942,Text:"Încîleke nû heye:
+{0}"},{
+Key:1005943,Text:"Încîlên Nû hene: {0}"},{
+Key:1005944,Text:"Serastkirin hatine kirin
+ji Încîlê re \"{0}\""},{
+Key:1005945,Text:"Serastkirin hatine kirin
+ji Încîlên jêrîn re: {0}"},{
+Key:1005946,Text:"Sêrbazê importa Încîlê vekin"},{
+Key:1005947,Text:"VideoPsalm nû peyda dibe
+li {0}"},{
+Key:1005948,Text:"VideoPsalm nû heye li: {0}"},{
+Key:1005949,Text:"Serastkirin hatine kirin
+ravekirinên di {0} de"},{
+Key:1005950,Text:"Serastkirin hatine kirin
+ji etîketên zimanên jêrîn re: {0}"},{
+Key:1005951,Text:"Sêrbazê importa labelê vekin"},{
+Key:1005952,Text:"Guhertoyek nûtir
+ya VideoPsalm heye:"},{
+Key:1005953,Text:"Nûçeyan nîşan bide"},{
+Key:1005954,Text:"Automatique"},{
+Key:1005955,Text:"Peldanka hilbijartî bigerin"},{
+Key:1005956,Text:"Peldanka ku VideoPsalm berhevok, Încîl, wêne û vîdyoyên xwe jê bar dike hilbijêrin."},{
+Key:1005957,Text:"Dozên dawî bibînin"},{
+Key:1005958,Text:"Ji bo parastinê"},{
+Key:1005959,Text:"Destûrê dide we ku hûn berhevok, Încîl, wêne an vîdyoyên xwe hilînin, an jî guhertoyek portable ya VideoPsalm biafirînin, mînakî li ser mifteyek USB."},{
+Key:1005960,Text:"Nûvdekirin"},{
+Key:1005961,Text:"VideoPsalm nikare belgeyên PowerPoint nîşan bide.
+
+(Li ser komputera we serîlêdana celebê PowerPoint nehat dîtin)."},{
+Key:1005962,Text:"Çewtiya PowerPoint"},{
+Key:1005963,Text:"Di berhevoka \"{1}\" de {0} biguherîne"},{
+Key:1005964,Text:"Di berhevokê de {0} biguherîne…"},{
+Key:1005965,Text:"Di berhevoka nû ya \"{1}\" de {0} biguherîne"},{
+Key:1005966,Text:"beşên Încîlê"},{
+Key:1005967,Text:"&Parçeyên Încîlê yên Kesane"},{
+Key:1005968,Text:"&Terîf"},{
+Key:1005969,Text:"&Ziman:"},{
+Key:1005970,Text:"&Weşanvan"},{
+Key:1005971,Text:"&Birêvebir"},{
+Key:1005973,Text:"&Birêvebir"},{
+Key:1005974,Text:"Li jor nivîsê"},{
+Key:1005975,Text:"Akordan li jora nivîsê"},{
+Key:1005976,Text:"Ev moda tê pêşniyar kirin ji bo sererastkirina stranan.
+Dema ku hûn nivîsê biguherînin, her akord bi tîpa ku pê ve girêdayî ye tevdigere.
+
+Dema ku hûn <b>nivîsa ku akor tê de hene</b> kopî bikin, akord bi nivîsê re, di formata ChordPro de têne kopî kirin.
+
+Gava ku hûn nivîsa ku akordên xwe di formata ChordPro de vedigirin, VideoPsalm wan akordan li jorê nivîsê nîşan dide.
+
+<b>Ji bo lêzêdekirina akordê</b>, wê têxe aliyê çepê ya tîpa ku tu dixwazî ​​lê bixî, li dora wê bi kevanan <b>[]</b>.
+
+<b>Ji bo jêbirina peymanekê</b>, nameya ku pê ve girêdayî ye jêbikin, paşê nameyê ji nû ve têkevin.
+
+<b>Ji bo guherandina akordê</b>, jêbibe paşê rast têxe (an jî moda \"<b>Formata ChordPro</b>\" bikar bîne)."},{
+Key:1005977,Text:"Forma ChordPro"},{
+Key:1005978,Text:"Akordan di formata ChordPro de"},{
+Key:1005979,Text:"Di vê modê de:
+
+- VideoPsalm stran û akordan di <b>formata ChordPro</b> de nîşan dide.
+
+- Ev moda îdeal e ji bo guherandina akordan: VideoPsalm bixweber li dora nivîsa ku hûn dinivîsin bendikên çargoşe [] zêde dike.
+Mînakî, ji bo lê zêdekirina akordek C, \"Do\" binivîsin û VideoPsalm dê \"[Do]\" têxe.
+
+Hişyarî: ev mod ji bo sererastkirina stranan ne maqûl e, ji ber ku li gorî dozê, VideoPsalm tîpan bi kemberan dorpêç dike.
+Di şûna wê de, moda <b>\"Nivîsa jorîn\"</b> bikar bînin da ku nivîsê biguherînin."},{
+Key:1005981,Text:"Ji bo kopîkirinê"},{
+Key:1005982,Text:"Danasînek salnameyê kopî dike û li ser Clipboardê bi cih dike."},{
+Key:1005983,Text:"&Destûrê bide PowerPoint ku moda \"Pêşkêşker\" bikar bîne"},{
+Key:1005984,Text:"Dema ku ev qutik were kontrol kirin, VideoPsalm dihêle PowerPoint pêwendiya fermana xwe nîşan bide da ku pêşkeftina pêşkêşiyê kontrol bike."},{
+Key:1005985,Text:"Carekê bigerin"},{
+Key:1005986,Text:"Qeyd"},{
+Key:1005987,Text:"Pêşveçûn bi destan"},{
+Key:1005988,Text:"&Zincîrkirin"},{
+Key:1005989,Text:"&Pêşveçûna otomatîkî"},{
+Key:1005990,Text:"&Pêşveçûn bi destan"},{
+Key:1005991,Text:"&Qeyd"},{
+Key:1005992,Text:"&Carekê bigerin"},{
+Key:1005993,Text:"&Navber (çirk):"},{
+Key:1005994,Text:"&Nivîsar winda bikin û paşê vekin"},{
+Key:1005995,Text:"&Bi hêmana din re berdewam bikin"},{
+Key:1005996,Text:"&Berî ku berdewam bike veqetîne"},{
+Key:1005997,Text:"&Bikin ku nivîs winda bibe paşê zincîre"},{
+Key:1005998,Text:"&Nîşandana li gel babeta jêrîn (duzimanî)"},{
+Key:1005999,Text:"&Ji bo lêkolînê…"},{
+Key:1006000,Text:"Alîkarê Import"},{
+Key:1006001,Text:"Hûn bi xêr hatin sêrbazê importê ya pirtûk, Încîl, wêne û vîdyoyan"},{
+Key:1006002,Text:"Ev sêrbaz bi rêvekirina rêze gavan bi rêvekirina Pirtûkan, Încîl, Wêne û Vîdyoyan ji pirtûkxaneya serhêl a VideoPsalm an ji formatên populer hêsan dike."},{
+Key:1006003,Text:"Ji bo berdewamkirinê Next bikirtînin"},{
+Key:1006004,Text:"&Bijartin…"},{
+Key:1006005,Text:"&Paşê>"},{
+Key:1006006,Text:"&<Pev"},{
+Key:1006007,Text:"&Alîkarî"},{
+Key:1006008,Text:"&Bi dawî bibe"},{
+Key:1006009,Text:"&Terikandin"},{
+Key:1006010,Text:"Hûn dikarin pirtûk, Încîl, wêne, vîdeo an zimanan bînin"},{
+Key:1006011,Text:"Tiştê ku hûn dixwazin import bikin hilbijêrin"},{
+Key:1006012,Text:"Koleksiyonek derxînin"},{
+Key:1006013,Text:"Mizgîniyek derxînin"},{
+Key:1006014,Text:"Wêneyên import bikin"},{
+Key:1006015,Text:"Vîdyoyan derxînin"},{
+Key:1006016,Text:"Zimanek derxînin"},{
+Key:1006020,Text:"&Destpêkirin"},{
+Key:1006021,Text:"Peldankê bi nirxek standard dest pê dike"},{
+Key:1006023,Text:"Kurte berî import"},{
+Key:1006024,Text:"Next bikirtînin da ku hûn importê dest pê bikin"},{
+Key:1006025,Text:"Import di pêşveçûnê de ye"},{
+Key:1006026,Text:"Import qediya"},{
+Key:1006027,Text:"Ji bo girtina sêrbaz, bikirtînin Finish
+
+Li ser Previous bikirtînin da ku berhevokek din an Mizgîniyek din derxînin"},{
+Key:1006029,Text:"Te bi serfirazî {0} stran anîne nav {1} berhevokan."},{
+Key:1006030,Text:"Te bi serketî {0} stran di berhevoka nû ya \"{1}\" de kir."},{
+Key:1006031,Text:"Te Încîla \"{0}\" bi serketî anî."},{
+Key:1006032,Text:"Te bi serkeftî {0} Încîl îthal kir."},{
+Key:1006033,Text:"Te zimanê \"{0}\" bi serketî anî."},{
+Key:1006034,Text:"We bi serkeftî {0} ziman îthal kir."},{
+Key:1006035,Text:"Ma hûn dixwazin îthalatê rawestînin?"},{
+Key:1006036,Text:"Import bi serketî bi dawî nebû."},{
+Key:1006037,Text:"Navekî bidin vê berhevoka nû ya VideoPsalm"},{
+Key:1006038,Text:"Koleksiyona nû dê di bin vî navî de were tomar kirin. Ev nav dikare paşê were guhertin"},{
+Key:1006039,Text:"&Navê berhevkirinê:"},{
+Key:1006040,Text:"Navê vê Mizgîniya VideoPsalm ya nû bidin"},{
+Key:1006041,Text:"Încîla nû wê bi vî navî xilas bibe. Ev nav dikare paşê were guhertin"},{
+Key:1006042,Text:"&Navê ku ji Mizgîniyê re were dayîn:"},{
+Key:1006051,Text:"Koleksiyonên hilbijêre"},{
+Key:1006052,Text:"Mizgîniyê hilbijêre"},{
+Key:1006053,Text:"Pelek hilbijêre"},{
+Key:1006054,Text:"Peldankek hilbijêre"},{
+Key:1006055,Text:"&Dosya:"},{
+Key:1006056,Text:"&Mesele:"},{
+Key:1006057,Text:"Zimanan hilbijêrin"},{
+Key:1006058,Text:"Peldanka \"{0}\" tune."},{
+Key:1006060,Text:"Nikare xwe bigihîne peldanka \"{0}\".
+
+{1}"},{
+Key:1006061,Text:"Pela \"{0}\" tune."},{
+Key:1006062,Text:"Hişyarî: Barkirina hejmareke mezin a pirtûkên stranan dikare bîranîna PC-yê tije bike û lêgerîna stranan hêdî bike.
+Ma hûn pê bawer in ku hûn dixwazin berhevokên {0} dakêşin?"},{
+Key:1006063,Text:"Hişyarî: Barkirina gelek Încîlan dikare bîra PC-yê tije bike û VideoPsalm bi gelemperî bi 50 Încîlên pêşîn ve sînorkirî ye.
+Ma tu bi rastî dixwazî ​​{0} Încîlê daxînî?"},{
+Key:1006064,Text:"Navê nû nikare vala be."},{
+Key:1006065,Text:"Navê nû nikare tîpên jêrîn bihewîne: {0}"},{
+Key:1006066,Text:"Berê berhevokek bi navê \"{0}\" heye."},{
+Key:1006067,Text:"Jixwe Mizgîniyek bi navê \"{0}\" heye."},{
+Key:1006068,Text:"Te îthalatê qut kiriye."},{
+Key:1006069,Text:"Girêdana înternetê ya xwe kontrol bikin."},{
+Key:1006070,Text:"Versiyon ji {0} ve berdest e"},{
+Key:1006071,Text:"Guhertoya nû ji {0} ve berdest e"},{
+Key:1006072,Text:"Guhertoya we ji {0}"},{
+Key:1006073,Text:"Guhertoya we ya {0} rojane ye."},{
+Key:1006074,Text:"Nav"},{
+Key:1006075,Text:"Rewş"},{
+Key:1006076,Text:"nayê daxistin"},{
+Key:1006077,Text:"Biroj"},{
+Key:1006078,Text:"Nûvekirin heye"},{
+Key:1006079,Text:"Nşh"},{
+Key:1006080,Text:"Nûvekirina nû heye"},{
+Key:1006081,Text:"Komek nayê hilbijartin.
+Divê hûn bi kêmanî yek berhevokek hilbijêrin."},{
+Key:1006082,Text:"Încîl nayê hilbijartin.
+Pêdivî ye ku hûn bi kêmanî yek Mizgîniyê hilbijêrin."},{
+Key:1006083,Text:"Zimanek nayê hilbijartin.
+Divê hûn bi kêmanî zimanek hilbijêrin."},{
+Key:1006084,Text:"Kodkirin"},{
+Key:1006085,Text:"Pelê çavkanî: <b>{0}</b>"},{
+Key:1006086,Text:"Peldanka çavkanî:
+<b>{0}</b>"},{
+Key:1006087,Text:"Belgeya lêgerînê"},{
+Key:1006090,Text:"Navê ku ji Mizgîniya nû ya VideoPsalm re hatiye dayîn: <b>{0}</b>"},{
+Key:1006091,Text:"Navê ku ji berhevoka nû ya VideoPsalm re were dayîn: <b>{0}</b>"},{
+Key:1006095,Text:"Di pirtûkxaneya serhêl a VideoPsalm de, dibe ku hin belge werin zêdekirin an nûve kirin (mînak ji bo rastkirina xeletiyek tîpî).
+Bi rewşa belgeyên jorîn ve girêdayî, hûn dikarin biryar bidin ka wan dakêşin an na.
+
+<b>Li vir çawa tê ferqkirin rewşa belgeyan:</b>
+- Belgeyên ku we daxistiye wekî normal têne xuyang kirin.
+- Belgeyên ku we dakêşandine û nûjen in, di <i>îtalîk</i> de xuya dibin. Ew bi OKê têne nîşankirin <image=check_16>.
+Ne hewce ye ku hûn wan ji nû ve dakêşin, ji bilî ku hûn dixwazin her guhertinên ku we li wan kirî betal bikin.
+- Belgeyên ku we dakêşandine û di vê navberê de me serrastkirin li pirtûkxaneya serhêl a VideoPsalm kirine bi <b>qelew</b> xuya dikin. Ew bi qelemê têne nîşankirin <image=pencil2_16>.
+
+Qutiya nivîsê ya li rastê diyar dike ka çi rastkirin li belgeyê hatine kirin: ev dikare ji we re bibe alîkar ku hûn biryar bidin ka hûn dixwazin wê ji nû ve bar bikin.
+
+<b>Hişyarî:</b> Ger hûn belgeya xwe bi ji nû ve barkirina wê nûve bikin, hûn ê her guheztinên ku we li wê kirî, û hem jî taybetmendiyên şêwaza wê winda bikin ji ber ku VideoPsalm ya we bi ya ku barkirî diguhezîne.
+Lêbelê pelê we nayê jêbirin: Ew li ser dîskê dimîne lê di VideoPsalm de nayê dîtin, ji ber ku VideoPsalm navê dirêjkirina xwe dike .ignore.
+
+<b>Serişte</b>: Tenê belgeyên ku ji we re bikêr in dakêşin.
+Ev e ji ber ku heke we pir belgeyên we hebin, dibe ku VideoPsalm hêdî hêdî bar bike, mîna lêgerîna peyva key.
+
+Bala xwe bidinê ku hûn dikarin her gav berhevokek an Mizgîniyek ji VîdyoPsalma xwe jêbikin. Ji bo vê yekê, bişkoka \"<image=delete2_16> Jêbirin\" di tabloya \"Edît\" de bikar bînin."},{
+Key:1006096,Text:"&Dîroka guherandinên \"{0}\""},{
+Key:1006180,Text:"Berhevokan ji pirtûkxaneya serhêl VideoPsalm hilbijêrin ku li VideoPsalm-a xwe zêde bikin"},{
+Key:1006185,Text:"Databasek EasySlides ya ku stranan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .mdb)"},{
+Key:1006190,Text:"Databasek MediaShout ya ku stranan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .mdb)"},{
+Key:1006191,Text:"Databasek WorshipCenter Pro ya ku stranan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .mdb)"},{
+Key:1006195,Text:"Databasek OpenLP ya ku stranan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(pelê dirêjkirina .sqlite)"},{
+Key:1006196,Text:"Databasek VerseView ya ku stranan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm
+(berfirehkirina pelê .db)"},{
+Key:1006197,Text:"Databasek SoftProjector ya ku dengan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .sps)"},{
+Key:1006200,Text:"Peldankek ku stranên di formata \"OpenLyrics\" de vedihewîne hilbijêrin ku têxin nav VideoPsalm
+(pelên dirêjkirina .xml)"},{
+Key:1006205,Text:"Peldankek ku stranên OpenSong vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(pelên bê dirêjkirin)"},{
+Key:1006210,Text:"Koleksiyonek ku ji Psalmoyê di formata RTF-ê de hatî hinardekirin hilbijêrin ku têxin nav VideoPsalm-a xwe
+(pelê bi dirêjkirina .rtf)"},{
+Key:1006211,Text:"Kolekek bi forma nivîsê hilbijêrin ku hûn têxin nav VideoPsalm
+(pelê bi dirêjkirina .txt, .docx, .doc an .rtf)"},{
+Key:1006212,Text:"Databasek EasyWorship 2009-ê hilbijêrin ku stranan vedihewîne ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .db)"},{
+Key:1006213,Text:"Peldankek ku stranên di formata ChordPro de vedihewîne hilbijêrin ku têxin nav VideoPsalm-a xwe
+(Pelên dirêjkirina .chordpro, .chopro, .crd an .cho)"},{
+Key:1006214,Text:"Databasek WebAsaph ya ku stranan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(pelê bi dirêjkirina .ltc)"},{
+Key:1006215,Text:"Peldankek ku stranên di formata CCLI de vedihewîne hilbijêrin ku têxin nav VideoPsalm-a xwe
+(Pelên dirêjkirina .usr)"},{
+Key:1006216,Text:"Peldankek ku stranên bi formata nivîsê vedihewîne hilbijêrin da ku têxin nav VideoPsalm-a xwe
+(Pelên pêvekirina .txt, .docx, .doc an .rtf)"},{
+Key:1006217,Text:"Peldankek ku stranên Pêşkêşker vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(pelên dirêjkirina .txt)"},{
+Key:1006218,Text:"Databasek SongPro ya ku stranan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .sdb an .spdb)"},{
+Key:1006219,Text:"Databasek ZionWorx 2.6 hilbijêrin ku stranan vedihewîne da ku têxe nav VideoPsalm
+(Pelê MainTable.dat)"},{
+Key:1006220,Text:"Ji pirtûkxaneya serhêl ya VideoPsalm Mizgîniyan hilbijêrin ku hûn li VideoPsalm-a xwe zêde bikin"},{
+Key:1006221,Text:"Databasek Biperizin Wî hilbijêrin ku stranan vedihewîne ku hûn têxin nav VideoPsalm
+(Pelê MySongsPE.mdb)"},{
+Key:1006222,Text:"Databasek Lyrix-ê ku dengan vedihewîne hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .LXdata)"},{
+Key:1006225,Text:"Ji BibleDatabase Mizgîniyek hilbijêrin ku hûn têxin nav VideoPsalm
+(pelê bi dirêjkirina .txt)"},{
+Key:1006230,Text:"Mizgîniyek OpenLP hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(pelê dirêjkirina .sqlite)"},{
+Key:1006235,Text:"Mizgîniyek OpenSong hilbijêrin ku hûn têxin nav VideoPsalm
+(pelê bê dirêjkirin)"},{
+Key:1006240,Text:"Mizgîniyek Negirtî hilbijêrin ku hûn têxin nav VîdyoPsalma xwe
+(pelê bi dirêjkirina .txt)"},{
+Key:1006245,Text:"Mizgîniyek Zefania hilbijêrin ku hûn têxin nav VîdyoPsalma xwe
+(pelê dirêjkirina .xml)"},{
+Key:1006246,Text:"Mizgîniyek bi forma \"The Word\" hilbijêrin ku hûn têxin nav VideoPsalm
+(pelê bi dirêjkirina .ont)"},{
+Key:1006247,Text:"Mizgîniyek EasySlides hilbijêrin ku hûn têxin nav VideoPsalm-a xwe
+(berfirehkirina pelê .mdb)"},{
+Key:1006248,Text:"Mizgîniyek bi forma \"Osis\" hilbijêrin ku hûn têxin nav VideoPsalm
+(Pelê dirêjkirina .xml, .osi an .osis)"},{
+Key:1006249,Text:"Pirtûkên ji Mizgîniyek bi formata \"USFM\" hilbijêrin ku hûn têxin nav VideoPsalm
+(Pelên dirêjkirina .sfm an .usfm)"},{
+Key:1006252,Text:"Ji pirtûkxaneya serhêl a VideoPsalm zimanan hilbijêrin ku hûn li VideoPsalm-a xwe zêde bikin"},{
+Key:1006255,Text:"<b>{0} berhevok (an) ji pirtûkxaneya serhêl VideoPsalm</b> derxînin:
+{1}"},{
+Key:1006260,Text:"Stranên <b>ji EasySlides</b> derxînin"},{
+Key:1006265,Text:"Stranên <b>ji MediaShout</b> derxînin"},{
+Key:1006266,Text:"Stranên <b>ji WorshipCenter Pro</b> derxînin"},{
+Key:1006270,Text:"Stranên <b>ji OpenLP</b> derxînin"},{
+Key:1006271,Text:"Stranên <b>ji VerseView</b> derxînin"},{
+Key:1006272,Text:"Stranên <b>ji SoftProjector</b> derxînin"},{
+Key:1006275,Text:"Stranên <b>bi formata \"OpenLyrics\"</b> derxînin"},{
+Key:1006280,Text:"Stranên <b>ji OpenSong</b> derxînin"},{
+Key:1006285,Text:"<b>berhevokek Zebûr</b> derxînin"},{
+Key:1006286,Text:"<b>berhevokek bi formata nivîsê</b> derxînin"},{
+Key:1006287,Text:"Stranên <b>ji EasyWorship 2009</b> derxînin"},{
+Key:1006288,Text:"Stranên <b>di formata ChordPro de</b> derxînin"},{
+Key:1006289,Text:"Stranên <b>ji WebAsaph</b> derxînin"},{
+Key:1006290,Text:"Stranên <b>bi formata CCLI</b> derxînin"},{
+Key:1006291,Text:"Stranên <b>di formata nivîsê de</b> derxînin"},{
+Key:1006292,Text:"Stranên <b>ji Pêşkêşker</b> derxînin"},{
+Key:1006293,Text:"Stranên <b>ji Lyrix</b> derxînin"},{
+Key:1006294,Text:"Stranên <b>ji SongPro</b> derxînin"},{
+Key:1006295,Text:"<b>{0} Încîl ji pirtûkxaneya serhêl a VideoPsalm</b> derxînin:
+{1}"},{
+Key:1006300,Text:"<b>Mizgîniyek ji Daneyên Încîlê</b> derxînin"},{
+Key:1006305,Text:"<b>Mizgîniyek OpenLP</b> derxînin"},{
+Key:1006310,Text:"<b>Mizgîniyek OpenSong</b> derxînin"},{
+Key:1006315,Text:"<b>Mizgîniyek ji Mizgîniya Unbound</b> derxînin"},{
+Key:1006316,Text:"<b>Mizgîniyek bi formata \"The Word\"</b> derxînin"},{
+Key:1006320,Text:"<b>Mizgîniyek Zefania</b> derxînin"},{
+Key:1006321,Text:"<b>Mizgîniyek EasySlides</b> derxînin"},{
+Key:1006322,Text:"<b>Mizgîniyek bi formata \"Osis\"</b> derxînin"},{
+Key:1006323,Text:"<b>Mizgîniyek bi forma \"USFM\"</b> derxînin"},{
+Key:1006325,Text:"<b>{0} ziman(an) ji pirtûkxaneya serhêl VideoPsalm</b> derxînin:
+{1}"},{
+Key:1006340,Text:"Databasek EasySlide hilbijêrin"},{
+Key:1006345,Text:"Databasek MediaShout hilbijêrin"},{
+Key:1006346,Text:"Databasek WorshipCenter Pro hilbijêrin"},{
+Key:1006347,Text:"Databasek Biperizin Wî hilbijêrin"},{
+Key:1006350,Text:"Databasek OpenLP hilbijêrin"},{
+Key:1006351,Text:"Databasek VerseView hilbijêrin"},{
+Key:1006352,Text:"Databasek SoftProjector hilbijêrin"},{
+Key:1006355,Text:"Peldanka ku stranên di formata \"OpenLyrics\" de tê de hene hilbijêrin"},{
+Key:1006360,Text:"Peldankek ku stranên ji OpenSong vedihewîne hilbijêrin"},{
+Key:1006365,Text:"Pelek RTF ya ku stranên ku ji Psalmo hatine derxistin vedihewîne hilbijêrin"},{
+Key:1006366,Text:"Pelek ku stranên di formata nivîsê de tê de hene hilbijêrin"},{
+Key:1006367,Text:"Databasek EasyWorship 2009 hilbijêrin"},{
+Key:1006368,Text:"Peldankek ku stranên di formata \"ChordPro\" de vedihewîne hilbijêrin"},{
+Key:1006369,Text:"Databasek WebAsaph hilbijêrin"},{
+Key:1006370,Text:"Peldankek ku stranên di formata \"CCLI\" de vedihewîne hilbijêrin"},{
+Key:1006371,Text:"Peldankek ku stranên di formata nivîsê de tê de hene hilbijêrin"},{
+Key:1006372,Text:"Peldankek ku stranên Pêşkêşker tê de hene hilbijêrin"},{
+Key:1006373,Text:"Databasek Lyrix hilbijêrin"},{
+Key:1006374,Text:"Databasek SongPro hilbijêrin"},{
+Key:1006375,Text:"Mizgîniyek ji BibleDatabase hilbijêrin"},{
+Key:1006380,Text:"Mizgîniyek OpenLP hilbijêrin"},{
+Key:1006385,Text:"Mizgîniyek OpenSong hilbijêrin"},{
+Key:1006390,Text:"Mizgîniyek ji Mizgîniya Unbound hilbijêrin"},{
+Key:1006395,Text:"Mizgîniyek Zefania hilbijêrin"},{
+Key:1006396,Text:"Mizgîniyek bi forma \"The Word\" hilbijêrin"},{
+Key:1006397,Text:"Mizgîniyek EasySlides hilbijêrin"},{
+Key:1006398,Text:"Mizgîniyek bi forma \"Osis\" hilbijêrin"},{
+Key:1006399,Text:"Pirtûkên ji Încîlê bi formata \"USFM\" hilbijêrin"},{
+Key:1006405,Text:"Database EasySlide"},{
+Key:1006410,Text:"Database MediaShout 4"},{
+Key:1006411,Text:"Database MediaShout 3"},{
+Key:1006412,Text:"WorshipCenter Pro Database"},{
+Key:1006413,Text:"Biperizin Wî Database"},{
+Key:1006415,Text:"Database OpenLP"},{
+Key:1006416,Text:"EasyWorship 2009 Database"},{
+Key:1006417,Text:"Database VerseView"},{
+Key:1006418,Text:"Database SoftProjector"},{
+Key:1006420,Text:"Peldanka \"{0}\".
+stranên bi formata \"OpenLyrics\" (pêvek .xml) tune."},{
+Key:1006425,Text:"Peldanka \"{0}\".
+dengbêjên OpenSong-ê nahewîne (Stranên OpenSong pelên bê dirêjkirin in)."},{
+Key:1006430,Text:"Stranên ku ji Psalmo hatine derxistin"},{
+Key:1006431,Text:"Stranên di formata nivîsê de"},{
+Key:1006432,Text:"Peldanka \"{0}\".
+dengbêjên di formata \"ChordPro\" de (.chordpro, .chopro, .crd an .cho dirêjkirin) tune."},{
+Key:1006433,Text:"Database WebAsaph"},{
+Key:1006434,Text:"Peldanka \"{0}\".
+tu stranek di formata \"CCLI\" de (pêvekirina .txt an .usr) tune."},{
+Key:1006435,Text:"Peldanka \"{0}\".
+di formata nivîsê de tu stranek tune (.txt, .docx, .doc an .rtf pêvekirin)."},{
+Key:1006436,Text:"Peldanka \"{0}\".
+Dengbêjên Pêşkêşker (.txt dirêjkirin) tê de tune."},{
+Key:1006437,Text:"Database Lyrix"},{
+Key:1006438,Text:"SongPro Database"},{
+Key:1006439,Text:"Database ZionWorx 2.6"},{
+Key:1006440,Text:"BibleDatabase Bibles"},{
+Key:1006445,Text:"Încîlên OpenLP"},{
+Key:1006450,Text:"Încîlên OpenSong"},{
+Key:1006455,Text:"Mizgîniyên Mizgîniyê yên negirêdayî"},{
+Key:1006460,Text:"Zefania Bibles"},{
+Key:1006461,Text:"Încîl di forma \"The Word\"."},{
+Key:1006462,Text:"Încîlên EasySlides"},{
+Key:1006463,Text:"Încîl di forma \"Osis\"."},{
+Key:1006464,Text:"Pirtûkên Încîlê yên di forma \"USFM\"."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Ez ji Xudan hez dikim 1"},{
+Key:1006506,Text:"YWAM 1.rtf"},{
+Key:1006507,Text:"My chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Ez ji Xudan hez dikim"},{
+Key:1006510,Text:"Daneyên MSAccess"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.sfm"},{
+Key:1006515,Text:"Hemû pelan"},{
+Key:1006520,Text:"Databasên Sqlite"},{
+Key:1006525,Text:"Databasên Paradoks"},{
+Key:1006526,Text:"Databasên WebAsaph"},{
+Key:1006600,Text:"Pirtûkxaneya serhêl a VideoPsalm an çavkaniyek din hilbijêrin"},{
+Key:1006601,Text:"Pirtûkxaneya serhêl a VideoPsalm bi gelek zimanan gelek berhevok dihewîne"},{
+Key:1006602,Text:"Pirtûkxaneya serhêl VideoPsalm (di dema importê de pêwendiya înternetê hewce ye)"},{
+Key:1006603,Text:"Stran di formatek populer de ku ji dîska xweya hişk tê import kirin"},{
+Key:1006604,Text:"Pirtûkxaneya serhêl a VideoPsalm an çavkaniyek din hilbijêrin"},{
+Key:1006605,Text:"Pirtûkxaneya serhêl ya VideoPsalm gelek wergerên Încîlê yên bi zimanên cihê dihewîne"},{
+Key:1006606,Text:"Pirtûkxaneya serhêl VideoPsalm (di dema importê de pêwendiya înternetê hewce ye)"},{
+Key:1006607,Text:"Mizgîniyek bi qalibek populer, ku ji dîska weya hişk derxe"},{
+Key:1006608,Text:"Çavkanî formata stranên te çi ne?"},{
+Key:1006609,Text:"Forma çavkaniya Încîlê çi ye?"},{
+Key:1006610,Text:"Hûn dikarin Încîlê bi formatek populer a ku li ser PC-ya we hatî hilanîn, têxin nav VideoPsalm-a xwe"},{
+Key:1006611,Text:"Hûn dikarin dengbêjên formata populer ên ku li ser PC-ya xwe hatine hilanîn nav VideoPsalm-a xwe têxin hundur"},{
+Key:1006612,Text:"Hilbijêrin ku hûn wêneyan li VideoPsalm-a xwe têxin hundur"},{
+Key:1006613,Text:"Înternetê wêneyên paşîn ên ecêb hene"},{
+Key:1006614,Text:"Wêneyên hilbijarkek malperan (di dema importê de pêwendiya înternetê hewce ye)"},{
+Key:1006615,Text:"Wêneyên ji dîska te"},{
+Key:1006616,Text:"Hilbijêre ku meriv vîdyoyan li VideoPsalm-a xwe têxe"},{
+Key:1006617,Text:"Înternetê hin vîdyoyên paşîn ên ecêb hene"},{
+Key:1006618,Text:"Vîdyoyên ji hilbijarkek malperan (di dema importê de pêwendiya înternetê hewce ye)"},{
+Key:1006619,Text:"Vîdyoyên ji dîska te"},{
+Key:1006620,Text:"Wekî VideoPsalm li ser Facebookê"},{
+Key:1006621,Text:"Berdest in ji"},{
+Key:1006622,Text:"Pirsgirêkê ji VideoPsalm re ragihînin"},{
+Key:1006700,Text:"Pirtûkxaneya Serhêl VideoPsalm
+(Bi hezaran stranan navnîş dike)"},{
+Key:1006701,Text:"EasySlides"},{
+Key:1006702,Text:"MediaShout"},{
+Key:1006703,Text:"OpenLP"},{
+Key:1006704,Text:"VerseView"},{
+Key:1006705,Text:"OpenLyrics"},{
+Key:1006706,Text:"OpenSong"},{
+Key:1006707,Text:"Psalmo"},{
+Key:1006708,Text:"Nivîs (komkirin)"},{
+Key:1006709,Text:"EasyWorship"},{
+Key:1006710,Text:"ChordPro"},{
+Key:1006711,Text:"WebAsaph"},{
+Key:1006712,Text:"CCLI"},{
+Key:1006713,Text:"Nivîsar (sirûd)"},{
+Key:1006714,Text:"Bo pêşerojê"},{
+Key:1006715,Text:"Lyrix"},{
+Key:1006716,Text:"SongPro"},{
+Key:1006717,Text:"ZionWorx 2.6"},{
+Key:1006718,Text:"WorshipCenter Pro"},{
+Key:1006719,Text:"Biperizin Wî"},{
+Key:1006720,Text:"SoftProjector"},{
+Key:1006750,Text:"Pirtûkxaneya Serhêl VideoPsalm
+(Lîsteya bi sedan Încîl)"},{
+Key:1006751,Text:"Bible Database"},{
+Key:1006752,Text:"OpenLP"},{
+Key:1006753,Text:"OpenSong"},{
+Key:1006754,Text:"Încîl negirêdayî"},{
+Key:1006755,Text:"Zefania"},{
+Key:1006756,Text:"EasySlides"},{
+Key:1006757,Text:"Osis"},{
+Key:1006758,Text:"USFM (Wycliffe / SIL / Paratex)"},{
+Key:1006759,Text:"Peyv (theword.net)"},{
+Key:1006800,Text:"Stranên <b>ji ZionWorx 2.6</b> derxînin"},{
+Key:1006801,Text:"Databasek ZionWorx 2.6 hilbijêrin"},{
+Key:1006802,Text:"Stranên <b>ji Wî Biperizin</b> derxînin"},{
+Key:1007000,Text:"Backup"},{
+Key:1007001,Text:"Ma hûn dixwazin di peldankê de paşvekêşana VideoPsalm dest pê bikin
+\"{0}\"?"},{
+Key:1007004,Text:"Nikare li peldanka hilbijartî were hilanîn,
+ji ber ku ew di peldanka belgeyên VideoPsalm ên heyî de cih digire
+({0})."},{
+Key:1007005,Text:"Li ser ajoka {0} cîhê têr tune.
+Ew ê {1:,.} MB bigire, û tenê {2:,.} MB heye."},{
+Key:1007006,Text:"Nekare hilanînê temam bike:
+
+{0}"},{
+Key:1007007,Text:"Nikare Microsoft .NET Framework 4.0 dakêşîne:
+
+{0}
+
+Ev dibe ku ji ber nebûna girêdana înternetê.
+Piştgir dê bi gelemperî berdewam bike,
+lê hûn ê nikaribin Microsoft .NET Framework 4.0 ji hilanînê saz bikin."},{
+Key:1007008,Text:"{0} ne berdest e"},{
+Key:1007009,Text:"Bîranîn: Piştgir nekarî kopî bike
+sazkerê Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Piştgiriya bi serkeftî pêk hat."},{
+Key:1007011,Text:"Ma hûn dixwazin paşvekişandinê berdin?"},{
+Key:1007030,Text:"Peldankek hilbijêrin an peldankek nû biafirînin ku li wir paşvekêşana VideoPsalm bi cîh bikin"},{
+Key:1007031,Text:"Vegere belgeyên we (berhevkirin, Încîl, wêne, vîdyo, şêwaz) li cîhê ku hûn diyar dikin kopî dike, mînakî:
+- mifteyek USB,
+- dîskek hişk a derveyî,
+- peldankek torê,
+- hwd.
+
+<b>Piştgir bi taybetî destûrê dide te:</b>
+- Belgeyên xwe bi dubarekirina wan li ser navgînek din ewle bikin,
+- guhertoyek portable ya VideoPsalm ava bikin, mînakî li ser mifteyek USB,
+- bi hêsanî belgeyên xwe bi karanîna fonksiyona vegerandina li wir veguhezînin komputerek din,
+- Belgeyên xwe dubare bikin da ku bi şêwazên wan ên li ser heman komputerê ji mîhengên gelek berhevokan sûd werbigirin.
+
+<b>Nîşe:</b> Ji bo senkronîzekirina belgeyên VideoPsalm di navbera gelek komputeran de, hûn dikarin rasterast karûbarek hevdengkirinê wekî SkyDrive an DropBox hilbijêrin."},{
+Key:1007032,Text:"Belgeyên ku tomar bikin hilbijêrin:"},{
+Key:1007033,Text:"&The collections"},{
+Key:1007034,Text:"&Încîl"},{
+Key:1007035,Text:"&Images"},{
+Key:1007036,Text:"&Videos"},{
+Key:1007037,Text:"&Belgeyên xwe li ser hilînin:"},{
+Key:1007038,Text:"Li vir peldanka ku hûn ê belgeyên VideoPsalm tê de hilînin diyar bikin.
+
+Mînakî: \"E: \\ Piştgiriya My VideoPsalm\"
+
+Ger peldank tune be, ew bixweber di dema hilanînê de tê afirandin."},{
+Key:1007039,Text:"&Serlêdanek VideoPsalm a portable biafirînin"},{
+Key:1007040,Text:"Hemî pelên îcrakar ên ku ji bo xebata VideoPsalm hewce ne li peldanka hilanînê zêde dike.
+
+Bi gelemperî, hûn ê bixwazin ku serîlêdanek VideoPsalm a portable li ser ajokerek USB-ê biafirînin.
+
+Piştgiriyek portable destûrê dide VideoPsalm ku li ser komputerek din, rasterast ji ajokera USB-yê bixebite, bêyî ku hewce bike ku VideoPsalm li ser wê saz bike.
+
+Bi destpêkirina VideoPsalm ji dirûvê USB-ê, hûn ê bigihîjin hemî fonksiyonên VideoPsalm, tevî hilanînê. Ev dihêle ku VideoPsalm li ser dîska hişk a komputera din were hilanîn, da ku paşê ew bêyî çîpê USB-ê were xebitandin.
+
+<b>Girîng</b>
+Vebijarkên VideoPsalm li hilanînê nayê zêdekirin.
+Cara yekem ku hûn VideoPsalm-ê li ser komputerek diyarkirî dimeşînin, dibe ku hûn hewce ne ku vebijarkên VideoPsalm biguhezînin, mînakî destûrnameya dêrê."},{
+Key:1007041,Text:"&Sazkerê Microsoft .NET Framework 4.0 zêde bikin"},{
+Key:1007042,Text:"Ji bo ku bixebite, VideoPsalm pêdivî bi .NET Framework 4.0 ji Microsoft heye. Di kompîturên nû de bi gelemperî .NET Framework 4.0 an bilindtir ji berê ve hatî saz kirin. Ev rewş ji bo Windows 10-ê ye. Heke hûn nebawer in ku .NET Framework 4.0 li ser komputera din hatî saz kirin an na, qutika \"Add .NET Framework 4.0 installer\" hilbijêrin. Wê hingê VideoPsalm dê kopiyek sazkerê .NET Framework 4.0 li ser çîpê USB-ê bi cîh bike (dibe ku ji bo vê yekê pêwendiyek înternetê hewce bike).
+
+Ji dirûvê USB, hûn hingê dikarin bi hêsanî .NET Framework 4.0 li ser komputera din saz bikin berî ku VideoPsalm dest pê bikin. Sazkirina .NET Framework 4.0 pir zû ye û bi gelemperî ji nû ve destpêkirina Windows-ê hewce nake.
+
+Hûn dikarin pelê sazkirinê ya .NET Framework 4.0 di peldanka hilanînê de bibînin. Navê vê pelê \"dotNetFx40_Full_x86_x64.exe\" ye. Ji bo destpêkirina sazkirina .NET Framework 4.0 li ser komputerek din, vê pelê du caran bikirtînin."},{
+Key:1007043,Text:"&Piştgiriyê dest pê bikin"},{
+Key:1007044,Text:"Daxistina Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"&Peldanka belgeyên VideoPsalm (peldanka ku dê were hilanîn):"},{
+Key:1007046,Text:"Beriya tomarkirina ya min, berhevokan di peldanka diyarkirî de bihêlin"},{
+Key:1007047,Text:"Beriya ku ya min li wir tomar bike, berhevokên peldanka diyarkirî jêbirin"},{
+Key:1007048,Text:"Berî ku ya min xilas bike, Mizgîniyan di peldanka diyarkirî de bihêlin"},{
+Key:1007049,Text:"Berî ku ya min xilas bike, Mizgîniyan ji peldanka diyarkirî jêbirin"},{
+Key:1007050,Text:"Berî ku yên min li wir hilînin, wêneyan di peldanka diyarkirî de bihêlin"},{
+Key:1007051,Text:"Berî ku min li wir tomar bike, wêneyan ji peldanka diyarkirî jêbirin"},{
+Key:1007052,Text:"Berî tomarkirina ya min vîdyoyan di peldanka diyarkirî de bihêlin"},{
+Key:1007053,Text:"Berî ku ya min li wir tomar bike, vîdyoyan ji peldanka diyarkirî jêbirin"},{
+Key:1007054,Text:"Peldankek hilbijêrin an peldankek nû biafirînin da ku paşvekêşana VideoPsalm bi cîh bikin"},{
+Key:1007058,Text:"Berî tomarkirina ya min, belgeyan di peldanka diyarkirî de bihêlin"},{
+Key:1007059,Text:"Berî tomarkirina ya min, belgeyan ji peldanka diyarkirî jêbirin"},{
+Key:1007060,Text:"&Belgeyên"},{
+Key:1008000,Text:"Vegerandina hilanînê"},{
+Key:1008001,Text:"Ma hûn dixwazin paşgirek VideoPsalm ji peldankê vegerînin
+\"{0}\"?
+
+Hişyarî: Li gorî vebijarkên ku we hilbijartiye, belgeyên we yên heyî dê werin guheztin an jêbirin."},{
+Key:1008002,Text:"Ji kerema xwe peldanka hilanînê têkeve da ku were vegerandin."},{
+Key:1008004,Text:"Ji peldanka ku we hilbijart nikare hilanînê vegerîne,
+ji ber ku ew di peldanka belgeyên VideoPsalm ên heyî de cih digire."},{
+Key:1008006,Text:"Vegerandin temam nabe:
+
+{0}"},{
+Key:1008010,Text:"Vegerandin bi serkeftî qediya."},{
+Key:1008011,Text:"Ma hûn dixwazin dev ji restorasyonê berdin?"},{
+Key:1008012,Text:"Vegerandina hilanînê"},{
+Key:1008032,Text:"Belgeyên ji bo vegerandinê hilbijêrin:"},{
+Key:1008033,Text:"&The collections"},{
+Key:1008034,Text:"&Încîl"},{
+Key:1008035,Text:"&Images"},{
+Key:1008036,Text:"&Videos"},{
+Key:1008043,Text:"&Nûvdekirin"},{
+Key:1008044,Text:"Beriya ku wan ji hilanînê sererast bikin, berhevokên min bihêlin"},{
+Key:1008045,Text:"Beriya ku wan ji hilanînê sererast bikin, berhevokên min jêbirin"},{
+Key:1008046,Text:"Berî ku wan ji paşvekêşanê vegerînim, Mizgîniyên min bihêlin"},{
+Key:1008047,Text:"Berî ku wan ji hilanînê sererast bikim, Încîlên min jêbikin"},{
+Key:1008048,Text:"Berî ku wan ji hilanînê sererast bikin, wêneyên min bihêlin"},{
+Key:1008049,Text:"Berî ku wan ji hilanînê sererast bikim, wêneyên min jêbirin"},{
+Key:1008050,Text:"Berî ku wan ji hilanînê sererast bikin vîdyoyên min bihêlin"},{
+Key:1008051,Text:"Berî ku wan ji hilanînê sererast bikin vîdyoyên min jêbirin"},{
+Key:1008052,Text:"&Piştgiriyek ji:"},{
+Key:1008053,Text:"Li vir peldanka ku dê belgeyên VideoPsalm jê werin sererast kirin diyar bikin.
+
+Mînak: \"E: \\ VideoPsalm\""},{
+Key:1008054,Text:"&Peldanka belgeyên VideoPsalm (peldanka ku dê hilanînê were sererast kirin):"},{
+Key:1008055,Text:"Hênikkirin"},{
+Key:1008056,Text:"Peldankek ku paşvekêşana VideoPsalm vedihewîne hilbijêrin"},{
+Key:1008060,Text:"&Belgeyên"},{
+Key:1008061,Text:"Berî ku wan ji hilanînê sererast bikim, belgeyên min bihêlin"},{
+Key:1008062,Text:"Berî ku wan ji hilanînê sererast bikim, belgeyên min jêbirin"},{
+Key:1008999,Text:"Projektora vîdyoyê"},{
+Key:1009001,Text:"{0} stran"},{
+Key:1009003,Text:"{0} lîsteyên ayetan"},{
+Key:1009007,Text:"Beşa {0}"},{
+Key:1009009,Text:"{0} Încîl"},{
+Key:1009010,Text:"Wêne \"{0}\""},{
+Key:1009013,Text:"{0} ({1} slayd)"},{
+Key:1009015,Text:"Barkirina şêwaza xwerû"},{
+Key:1009016,Text:"Barkirina Style Portfolio"},{
+Key:1009017,Text:"Berhevoka \"{0}\" tê barkirin"},{
+Key:1009018,Text:"Loading Bibles Style"},{
+Key:1009019,Text:"Mizgîniyê \"{0}\" tê barkirin"},{
+Key:1009020,Text:"Peldank: {0}"},{
+Key:1009100,Text:"{0} ({1} stran)"},{
+Key:1009101,Text:"{0} (tenê stranek)"},{
+Key:1009102,Text:"{0} (dengdêr tune)"},{
+Key:1009103,Text:"Jixwe pelek \"{0}\" heye
+tê de VideoPsalm dixwaze berhevoka nû \"{1}\" hilîne.
+
+Ne mimkûn e ku meriv vê berhevoka nû xilas bike.
+Vê berhevoka nû kurteyek an navek yekta bidin û ji nû ve biceribînin ku guhertinan hilînin."},{
+Key:1009104,Text:"Qeyd nehat kirin"},{
+Key:1009105,Text:"Nekarî pelê biguheze
+{0}
+dijî
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} berhevok"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} ayet)"},{
+Key:1009114,Text:"Koleksiyonê xilas nabe.
+Navekî bidin berhevokê da ku bikarin wê xilas bikin."},{
+Key:1009117,Text:"Website"},{
+Key:1009118,Text:"{0} ({1} malper)"},{
+Key:1010000,Text:"Zêdetir rengan nîşan bide"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Nêzîkî"},{
+Key:1010003,Text:"&Rohnî"},{
+Key:1010004,Text:"betal kirin"},{
+Key:1010005,Text:"okay"},{
+Key:1010006,Text:"Kêm rengan nîşan bidin"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"B"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Bêyî têxistina zeviyê bigire"},{
+Key:1011001,Text:"Kurtenivîsa kodê"},{
+Key:1011002,Text:"A.k.a"},{
+Key:1011003,Text:"Nivîskarê stranê"},{
+Key:1011004,Text:"Nivîskarê berhevokê"},{
+Key:1011005,Text:"Capo"},{
+Key:1011006,Text:"Qûfle"},{
+Key:1011007,Text:"Composer"},{
+Key:1011008,Text:"Mafê kopîkirina stranê"},{
+Key:1011009,Text:"Mafê berhevkirinê"},{
+Key:1011010,Text:"Labelê stanza"},{
+Key:1011011,Text:"Label û jimareya risteyê"},{
+Key:1011012,Text:"Çap"},{
+Key:1011013,Text:"Destûra dêrê"},{
+Key:1011014,Text:"Key line"},{
+Key:1011015,Text:"Bîranîn 1"},{
+Key:1011016,Text:"Bîranîn 2"},{
+Key:1011017,Text:"Bîranîn 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Helwesta Stanza"},{
+Key:1011020,Text:"Hejmara stanza"},{
+Key:1011021,Text:"Stran No."},{
+Key:1011022,Text:"Têbînî stanza"},{
+Key:1011023,Text:"Hejmara stranên di berhevokê de"},{
+Key:1011024,Text:"Hejmara risteyan"},{
+Key:1011025,Text:"Balkêşî"},{
+Key:1011026,Text:"Rêzeya risteyan"},{
+Key:1011027,Text:"Destnîşan"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Mijad"},{
+Key:1011030,Text:"Song Title"},{
+Key:1011031,Text:"Sernavê pirtûkê"},{
+Key:1011032,Text:"Deng"},{
+Key:1011033,Text:"3. Hemî qadan jêbirin"},{
+Key:1011034,Text:"2. Zeviyên standard bikar bînin"},{
+Key:1011035,Text:"Birêvebir"},{
+Key:1011036,Text:"Ziman"},{
+Key:1011037,Text:"Weşanvan"},{
+Key:1011038,Text:"Transposition"},{
+Key:1011101,Text:"Kurtenivîsa Incîlê"},{
+Key:1011102,Text:"Kurtenivîsa pirtûkê"},{
+Key:1011103,Text:"Beş"},{
+Key:1011104,Text:"Mafê telîfê Mizgîniyê"},{
+Key:1011105,Text:"Danasîna Încîlê"},{
+Key:1011107,Text:"Weşanvan"},{
+Key:1011108,Text:"Ziman"},{
+Key:1011109,Text:"Navê Incîlê"},{
+Key:1011110,Text:"Navê pirtûkê"},{
+Key:1011111,Text:"Hejmara beşên pirtûkê"},{
+Key:1011112,Text:"Hejmara ayetan di beşê de"},{
+Key:1011113,Text:"Xwestek"},{
+Key:1011114,Text:"Ayet"},{
+Key:1011115,Text:"Rêveberê Încîlê"},{
+Key:1011116,Text:"Navê Navnetewî ya Încîlê"},{
+Key:1011200,Text:"&Zeviyek têxe:"},{
+Key:1011201,Text:"Forma nivîsê ku di serî an lingê ristek an beytekê de tê xuyang kirin"},{
+Key:1011202,Text:"Forma nivîsê ya ku li vir were xuyang kirin binivîse.
+Ev nivîs belaş e û bi gelemperî ji rêzek qadên pêşwext pêk tê."},{
+Key:1011203,Text:"Lîsteya qadên pêşwextkirî"},{
+Key:1011204,Text:"Ji bo têxistina qadeke pêşwextkirî, wê ji navnîşê hilbijêrin.
+
+Zev dê bixweber di qutiya nivîsê ya jorîn de, li xala têketinê, were danîn."},{
+Key:1011213,Text:"Dîtin:"},{
+Key:1012000,Text:"Pela \"{0}\" jixwe heye.
+
+Ma hûn dixwazin wê veguherînin?"},{
+Key:1012001,Text:"Pelê heyî"},{
+Key:1013000,Text:"Pêşdîtinê veşêre"},{
+Key:1013001,Text:"Pêşdîtin nîşan bide"},{
+Key:1013002,Text:"Bi nîsbet mezin bikin da ku ekranê tije bikin"},{
+Key:1013003,Text:"Hilweşîne heta nîşana tevahî"},{
+Key:1013004,Text:"Dubarekirinê vemirînin"},{
+Key:1013005,Text:"Dubarekirinê çalak bikin"},{
+Key:1013006,Text:"Ji nû ve dest pê bikin"},{
+Key:1013007,Text:"Rawestandin (F5)"},{
+Key:1013008,Text:"Bixwîne (F5)"},{
+Key:1013010,Text:"Bûyin"},{
+Key:1013011,Text:"Bêdeng"},{
+Key:1013012,Text:"Bend"},{
+Key:1013014,Text:"Bi gerdûnî sînorên vîdyoyê diyar bikin"},{
+Key:1013015,Text:"Ji bo her stanza sînorên vîdyoyê diyar bikin"},{
+Key:1013016,Text:"Dem derbas bû"},{
+Key:1013017,Text:"Dema tevahî"},{
+Key:1013018,Text:"Dema mayî"},{
+Key:1013019,Text:"Bikirtînin da ku biçin nirxa din"},{
+Key:1014001,Text:"&Polîs:"},{
+Key:1014002,Text:"&Birîn:"},{
+Key:1015000,Text:"Vebijarkên saetê"},{
+Key:1015001,Text:"&Analog"},{
+Key:1015002,Text:"&Digital"},{
+Key:1015003,Text:"&Nivîstok"},{
+Key:1015004,Text:"&Derçûyên saetan"},{
+Key:1015005,Text:"&Mezûnên deqîqe"},{
+Key:1015006,Text:"Destê deqeyê"},{
+Key:1015007,Text:"Destê duyemîn"},{
+Key:1015014,Text:"&Nivîstok"},{
+Key:1015015,Text:"&Çirkan nîşan bide"},{
+Key:1015016,Text:"&Sifiran di kronometreyê de veşêrin"},{
+Key:1015017,Text:"&Di jimartinê de sifiran veşêrin"},{
+Key:1015018,Text:"&AM / PM"},{
+Key:1015019,Text:"Destê saetê"},{
+Key:1016000,Text:"Vebijarkên ekrana platformê"},{
+Key:1016001,Text:"&Sînorên ekranê veşêrin"},{
+Key:1016002,Text:"&Slideya paşîn nîşan bide"},{
+Key:1016003,Text:"&Pêşveçûn nîşan bide"},{
+Key:1016004,Text:"&Pêşandan nîşan bide"},{
+Key:1016005,Text:"&Wextê nîşan bide"},{
+Key:1016006,Text:"&Vertically"},{
+Key:1016007,Text:"&Horizontally"},{
+Key:1016008,Text:"&Bi chips"},{
+Key:1016009,Text:"&Bi kurtenivîsan"},{
+Key:1018000,Text:"mn"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"deqqe"},{
+Key:1018003,Text:"minutes"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"dem"},{
+Key:1018006,Text:"dem"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"roj"},{
+Key:1018009,Text:"rojan"},{
+Key:1018010,Text:"hefte"},{
+Key:1018011,Text:"hefte"},{
+Key:1018012,Text:"hefteyan"},{
+Key:1018013,Text:"meh"},{
+Key:1018014,Text:"meh"},{
+Key:1018015,Text:"sal"},{
+Key:1018016,Text:"salan"},{
+Key:1019000,Text:"Nêzîkî"},{
+Key:1019001,Text:"Kêmkirin"},{
+Key:1019002,Text:"Mezinkirin"},{
+Key:1019003,Text:"Asta jêrîn"},{
+Key:1019004,Text:"Alîkarî"},{
+Key:1019005,Text:"Ribonê vekin (Ctrl F1)"},{
+Key:1019006,Text:"Rîbonê nîşan dide ku ew her gav were bicîh kirin, tewra piştî ku çalakiyek bikirtîne"},{
+Key:1019007,Text:"Ribonê qut bike (Ctrl F1)"},{
+Key:1019008,Text:"Tenê navê tabloyên di rîbonê de nîşan bide"},{
+Key:1019009,Text:"Ribonê li ser tabloyên wê hilweşînin. Ji bo dîtina kontrolên wê tabloyek bikirtînin."},{
+Key:1019010,Text:"Tabloyan nîşan bide"},{
+Key:1019011,Text:"Her gav tablo û kontrolên ribbonê nîşan bidin."},{
+Key:1019012,Text:"Tab û kontrolan nîşan bidin"},{
+Key:1019013,Text:"Ribonê veşêre. Li jorê serîlêdanê bikirtînin da ku wê nîşan bidin."},{
+Key:1019014,Text:"Ribonê bixweber veşêre"},{
+Key:1019100,Text:"&Ji bo lêgerînê"},{
+Key:1019101,Text:"&Ji holê rakirin"},{
+Key:1019102,Text:"Ji bo lêgerînê nivîsê binivîse..."},{
+Key:1019301,Text:"&okay"},{
+Key:1019302,Text:"&betal kirin"},{
+Key:1019303,Text:"&Erê"},{
+Key:1019304,Text:"&Na"},{
+Key:1019305,Text:"&Terk kirin"},{
+Key:1019306,Text:"&Dubare bixebitin"},{
+Key:1019307,Text:"&Berçavnegirtin"},{
+Key:1019308,Text:"&betal kirin"},{
+Key:1019309,Text:"&To birrîn"},{
+Key:1019310,Text:"&Ji bo kopîkirinê"},{
+Key:1019311,Text:"&To stick on"},{
+Key:1019312,Text:"&Ji bo jêbirin"},{
+Key:1019313,Text:"&Hemî hilbijêrin"},{
+Key:1019314,Text:"Rengên din…"},{
+Key:1019315,Text:"Rengên standard"},{
+Key:1019316,Text:"Rengên mijarê"},{
+Key:1019317,Text:"Automatique"},{
+Key:1019318,Text:"Divê pêkhateya şîn di navbera 0 û 255 de be"},{
+Key:1019319,Text:"Divê pêkhateya kesk di navbera 0 û 255 de be"},{
+Key:1019320,Text:"Divê pêkhateya sor di navbera 0 û 255 de be"},{
+Key:1019321,Text:"Rengên Dawî"},{
+Key:1019322,Text:"Divê ronahî di navbera 0 û 100 de be"},{
+Key:1019323,Text:"Têrbûn divê di navbera 0 û 100 de be"},{
+Key:1019324,Text:"Divê siya di navbera 0 û 360 de be"},{
+Key:1019325,Text:"Nirxa hexadecimal nederbasdar"},{
+Key:1019326,Text:"Nerazîbûn divê di navbera 0 û 255 de be"},{
+Key:1019327,Text:"Nerazîbûn"},{
+Key:1019328,Text:"Brightness"},{
+Key:1019329,Text:"Luminance"},{
+Key:1019330,Text:"Têrbûn"},{
+Key:1019331,Text:"Tint"},{
+Key:1019332,Text:"Biçe çepê"},{
+Key:1019333,Text:"Li rastê bigerin"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Derketin"},{
+Key:1020002,Text:"Leviticus"},{
+Key:1020003,Text:"Numbers"},{
+Key:1020004,Text:"Deuteronomy"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Dadweran"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samûyêl"},{
+Key:1020009,Text:"2 Samûyêl"},{
+Key:1020010,Text:"1 Kings"},{
+Key:1020011,Text:"2 padîşahan"},{
+Key:1020012,Text:"1 Dîrok"},{
+Key:1020013,Text:"2 Dîrok"},{
+Key:1020014,Text:"Ezraîl"},{
+Key:1020015,Text:"Nehemiah"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Kar"},{
+Key:1020018,Text:"Zebûr"},{
+Key:1020019,Text:"Proverbs"},{
+Key:1020020,Text:"Ecclesiastes"},{
+Key:1020021,Text:"Strana Stranên"},{
+Key:1020022,Text:"Îşaya"},{
+Key:1020023,Text:"Jeremiah"},{
+Key:1020024,Text:"Şînên Yêremya"},{
+Key:1020025,Text:"Ezekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadiah"},{
+Key:1020031,Text:"Jonah"},{
+Key:1020032,Text:"Micah"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Hebaqûk"},{
+Key:1020035,Text:"Sophaniah"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Zekerya"},{
+Key:1020038,Text:"Malachi"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luke"},{
+Key:1020042,Text:"Jeans"},{
+Key:1020043,Text:"Karên Şandiyan"},{
+Key:1020044,Text:"Romans"},{
+Key:1020045,Text:"1 Korîntî"},{
+Key:1020046,Text:"2 Korîntî"},{
+Key:1020047,Text:"Galatî"},{
+Key:1020048,Text:"Efesî"},{
+Key:1020049,Text:"Filîpî"},{
+Key:1020050,Text:"Kolosiyan"},{
+Key:1020051,Text:"1 Selanîkî"},{
+Key:1020052,Text:"2 Selanîkî"},{
+Key:1020053,Text:"1 Tîmotêyos"},{
+Key:1020054,Text:"2 Tîmotêyos"},{
+Key:1020055,Text:"Titus"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"Îbranî"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Petrûs"},{
+Key:1020060,Text:"2 Petrûs"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 Yûhenna"},{
+Key:1020063,Text:"3 Yûhenna"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apocalypse"},{
+Key:1020100,Text:"Gn"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"Lv"},{
+Key:1020103,Text:"Nb"},{
+Key:1020104,Text:"Dt"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"Jg"},{
+Key:1020107,Text:"Rt"},{
+Key:1020108,Text:"1S"},{
+Key:1020109,Text:"2S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"Esd"},{
+Key:1020115,Text:"Zayî"},{
+Key:1020116,Text:"Rohilat"},{
+Key:1020117,Text:"Jb"},{
+Key:1020118,Text:"Ps"},{
+Key:1020119,Text:"Pr"},{
+Key:1020120,Text:"Ec"},{
+Key:1020121,Text:"Ct"},{
+Key:1020122,Text:"E"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"Lm"},{
+Key:1020125,Text:"Ez"},{
+Key:1020126,Text:"Dn"},{
+Key:1020127,Text:"Hestî"},{
+Key:1020128,Text:"Jl"},{
+Key:1020129,Text:"Im"},{
+Key:1020130,Text:"Ab"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"Mid"},{
+Key:1020133,Text:"N/A"},{
+Key:1020134,Text:"Ha"},{
+Key:1020135,Text:"Wiha"},{
+Key:1020136,Text:"Ag"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"Mt"},{
+Key:1020140,Text:"Mc"},{
+Key:1020141,Text:"Lc"},{
+Key:1020142,Text:"Jn"},{
+Key:1020143,Text:"Ac"},{
+Key:1020144,Text:"Rm"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"Ga"},{
+Key:1020148,Text:"Ep"},{
+Key:1020149,Text:"Ph"},{
+Key:1020150,Text:"Berqirrik"},{
+Key:1020151,Text:"1th"},{
+Key:1020152,Text:"2th"},{
+Key:1020153,Text:"1 Tm"},{
+Key:1020154,Text:"2 Tm"},{
+Key:1020155,Text:"Tt"},{
+Key:1020156,Text:"Phm"},{
+Key:1020157,Text:"Hey"},{
+Key:1020158,Text:"Jc"},{
+Key:1020159,Text:"1P"},{
+Key:1020160,Text:"2P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"Jd"},{
+Key:1020165,Text:"Ap"},{
+Key:1021000,Text:"Rêzên strana \"{0}\""},{
+Key:1021001,Text:"&Rêzkirin:"},{
+Key:1021002,Text:"&Rêza risteyan biguherîne:"},{
+Key:1021003,Text:"&Hemû beşên stranê:"},{
+Key:1021004,Text:"Rêzek nû çêbikin"},{
+Key:1021005,Text:"&Nşh"},{
+Key:1021006,Text:"Rêzên hilbijartî jêbirin"},{
+Key:1021007,Text:"&Ji bo jêbirin"},{
+Key:1021008,Text:"Li dû hêmana rêza hilbijartî ya dawîn ristên hilbijartî lê zêde bikin
+an jî risteyan bi mişkê kaş bikin / daxin cîhê guncaw"},{
+Key:1021009,Text:"&To lê zêde bike"},{
+Key:1021010,Text:"&Rêzên hilbijartî biguherîne (Alt Up)"},{
+Key:1021011,Text:"&Rêzên hilbijartî berjêr bikin (Alt Down)"},{
+Key:1021012,Text:"&Rêzên hilbijartî klon bikin"},{
+Key:1021014,Text:"&Rêzek nû bi xistina koroyê"},{
+Key:1021015,Text:"&Rêzeke nû ji risteyan"},{
+Key:1021016,Text:"Hemî hilbijêrin (Ctrl A)"},{
+Key:1021017,Text:"Paste (Ctrl V)"},{
+Key:1021018,Text:"Jêbirin (Del)"},{
+Key:1021019,Text:"Hemî jêbirin (Ctrl Del)"},{
+Key:1021020,Text:"Birîn (Ctrl X)"},{
+Key:1021021,Text:"Kopî (Ctrl C)"},{
+Key:1021022,Text:"&Xalên hilbijartî li rêzê zêde bikin"},{
+Key:1021023,Text:"&Hemî hilbijêrin (Ctrl A)"},{
+Key:1021024,Text:"&Hemî hilbijêrin (Ctrl A)"},{
+Key:1021025,Text:"&Rêzên hilbijartî jêbirin (Jêbibe)"},{
+Key:1021026,Text:"&Xalên dubare paqij bikin / jêbirin"},{
+Key:1021027,Text:"&Paqij kirin"},{
+Key:1021028,Text:"Xalên dubare jêbirin"},{
+Key:1021029,Text:"Rêzên stranan"},{
+Key:1021030,Text:"Te stran an rêzikên wê guhertiye.
+
+<b>Tu bi rastî dixwazî ​​pencereyê bigirî?</b>
+(Guhertinên we dê winda bibin)."},{
+Key:1021031,Text:"Ma hûn pê bawer in ku hûn dixwazin risteyên dubare jêbirin?"},{
+Key:1021032,Text:"(VideoPsalm dê bixweber rêzika têkildar biafirîne)."},{
+Key:1021033,Text:"Ma tu bi rastî dixwazî ​​{0} risteyên hilbijartî jê bibî?"},{
+Key:1021034,Text:"Ma tu bi rastî dixwazî ​​{0} rêzikên hilbijartî jê bibî?"},{
+Key:1021035,Text:"&Ji bo jêbirin"},{
+Key:1021036,Text:"Di stranê de bend tune.
+Nikarin rêzan biguherînin.
+Paceya guherandina rêzê bigire
+paşê çend bend li stranê zêde bike."},{
+Key:1021037,Text:"Tutorial dest pê bikin"},{
+Key:1021038,Text:"Rêza yekem nîşan bide"},{
+Key:1021039,Text:"Hemî nîşan bide"},{
+Key:1021040,Text:"Benda ducarî"},{
+Key:1022000,Text:"Vebijarkên kamerayê"},{
+Key:1022001,Text:"&Çareserkirin:"},{
+Key:1022002,Text:"&Qezenc:"},{
+Key:1022003,Text:"&Ronahî:"},{
+Key:1022004,Text:"&Dijîtî:"},{
+Key:1022005,Text:"&Têrbûn:"},{
+Key:1022006,Text:"&Balansa spî:"},{
+Key:1022007,Text:"&Gamma:"},{
+Key:1022008,Text:"&Tint:"},{
+Key:1022009,Text:"&Tûrbûn:"},{
+Key:1022010,Text:"&Telafîkirina ronahiya paşîn"},{
+Key:1022011,Text:"&Reng"},{
+Key:1022012,Text:"Pencereya taybetmendiyên kameraya xwecihî vekin."},{
+Key:1022013,Text:"Taybetmendiyên xwecihî..."},{
+Key:1022014,Text:"Taybetmendiyên vîdyoyê li nirxên xweyên xwerû vegerînin."},{
+Key:1022015,Text:"&Destpêkirin"},{
+Key:1023000,Text:"Li şûna {0} hene."},{
+Key:1023001,Text:"Ma hûn dixwazin li belgeya mayî bigerin?"},{
+Key:1023002,Text:"Ma hûn dixwazin ji dawiya belgeyê lêgerîna xwe bidomînin?"},{
+Key:1023003,Text:"Ma hûn dixwazin ji destpêka belgeyê ve lêgerîna xwe bidomînin?"},{
+Key:1023004,Text:"Lêgerîna di hilbijartinê de qediya."},{
+Key:1023005,Text:"Tişta ku lê hat lêgerîn nehat dîtin."},{
+Key:1023006,Text:"Destpêka belgeyê gihîştiye."},{
+Key:1023007,Text:"Dawiya belgeyê gihîştiye."},{
+Key:1023008,Text:"Lêgerîn qediya."},{
+Key:1024000,Text:"Find an şûna"},{
+Key:1024001,Text:"&Ji bo lêgerînê"},{
+Key:1024002,Text:"&Ji bo lêgerînê:"},{
+Key:1024003,Text:"&Li:"},{
+Key:1024004,Text:"&Case hesas"},{
+Key:1024005,Text:"&Tenê peyvên tevahî"},{
+Key:1024006,Text:"&îfadeya bi rêkûpêk"},{
+Key:1024007,Text:"&To şûna"},{
+Key:1024009,Text:"&Biguherîne bi:"},{
+Key:1024014,Text:"&To şûna"},{
+Key:1024015,Text:"&Hemî veguherînin"},{
+Key:1024016,Text:"&Next bibînin"},{
+Key:1024017,Text:"Nêzîkî"},{
+Key:1024018,Text:"Gişt"},{
+Key:1024019,Text:"Binî"},{
+Key:1024020,Text:"Serê"},{
+Key:1025000,Text:"Pêketînî"},{
+Key:1025001,Text:"Pêşî"},{
+Key:1025002,Text:"Nêzîkî"},{
+Key:1026000,Text:"<image=#help2_32;align=bottom> Te hîna li ser <b>rêza risteyan</b>, bi gotineke din <b>rêzikên stranekê</b> vekir.
+
+Rêzkirin pir bikêr in<nbsp>:
+• Ji bo dubarekirina koroyê çend caran <b>bêyî kopîkirina metna koroyê li her derê</b>.
+• Rêzkirina risteyan li gorî rewşan eyar bike.
+
+<b>Mînak<nbsp>:</b> Rêzeya stranekê bi koroya di navbera sê risteyên wê de<nbsp>:
+<b>S1<nbsp><color=red>R</color><nbsp>S2<nbsp><color=red>R</color><nbsp> S3</b>"},{
+Key:1026001,Text:"<b>Lîsteya rêzikan</b>
+Ev panel rêzikên ku we ji bo dengbêjan çêkirine navnîş dike.
+Di dema dersê de, VideoPsalm bixweber rêzek çêdike heke tune be."},{
+Key:1026002,Text:"Ji bo afirandina rêzikekê, bişkoka <b>\"Nû\"</b> bikirtînin.
+Ev rêzek nû bi hemî rist û koroyên stranê re zêde dike."},{
+Key:1026003,Text:"Ji bo <b>biguherîne</b> rêzikek, li ser bikirtînin da ku wê hilbijêrin, paşê..."},{
+Key:1026004,Text:"... Rêza hilbijartî di <b>edîtorê rêzê</b> de tê nîşandan.
+
+Çend rê hene ku meriv rêzek<nbsp> biguherîne:
+<image=#keyboard_key_32> <b>Li ser klavyeyê</b>
+Bingehan rasterast li ser klavyeyê binivîse, mînak <b><color=red>S1<nbsp>R<nbsp>S2 </color></b>.
+
+<image=#mouse_32> <b>Mişk</b>
+Mişkê bikar bînin da ku bi \"kaşkirin û avêtinê\" risteyan ji nû ve rêz bikin.
+
+<image=#element_copy_32> Ji bo <b>dubarekirina</b> ristekê, bişkojka <b>\"Ctrl\"</b> bigire paşê, bi mişkê, risteyê kaş bikin û daxin cîhek nû."},{
+Key:1026005,Text:"Di vê panelê de <b>hemî risteyên stranê</b> tê navnîş kirin.
+
+Ji bo <b>lê zêde bike</b> yek ji rêzikan li rêzê, <b>du caran</b> bitikîne."},{
+Key:1026006,Text:"Ji bo lê zêdekirina çend risteyên<nbsp> yekcar:
+<b>1. Bi tikandina bişkoka <b>\"Ctrl\"</b></b> risteyan hilbijêrin.
+
+Paşê<nbsp>:
+<b>2. \"Kaş bikin û daxin\"</b> ristên hilbijartî bi mişkê, li ser edîtorê rêzê, li jor.
+
+an..."},{
+Key:1026007,Text:"... Li ser bişkoka <b>\"Zêde bike\"</b> bikirtînin."},{
+Key:1026008,Text:"Ji bo dîtina <b>nivîsa tam</b> ya ristekê, mişkê li ser ristekê bihêle, heta ku bilbilek herikbar naveroka wê nîşan bide.
+
+An..."},{
+Key:1026009,Text:"... Li ser bişkojka \"Hemû gotinên stranan nîşan bide\" bikirtînin."},{
+Key:1026010,Text:"Hin stran çend caran bend hatine kopîkirin / lêxistin.
+Ew bi nîşanek <image=#element_copy_16;align=bottom> têne nîşankirin.
+Ji bo <b>rakirina van ristên dubare ji stranê</b>, bişkoka <b>\"Paqij\"</b> bikirtînin.
+
+Dema ku hûn stranek paqij dikin, VideoPsalm bixweber tevahiya klîbê li navnîşa klîpên li milê çepê zêde dike."},{
+Key:1026011,Text:"Bişkokên <b>\"Bigere jor\"</b> û <b>\"Dest biçe\"</b> bikar bînin da ku rêzan ji nû ve rêz bikin."},{
+Key:1026012,Text:"Bişkojka <b>\"Jêbibe\"</b> bikirtînin da ku rêzan jêbirin."},{
+Key:1026013,Text:"Dema ku we sererastkirina rêzikan qedand, <b>\"OK\"</b> bikirtînin.
+Di vê demê de, stran di berhevoka xwe de tê nûve kirin."},{
+Key:1026014,Text:"<image=#check_32;align=bottom> Xwezî<nbsp>!
+Te ev tutorial qedand<nbsp>!
+
+<b>Ji bo bêtir agahdarî<nbsp>:</b>
+<image=#youtube_16;align=bottom> <href=https://www.youtube.com/watch?v=5ZfK_FI1UaM&list=PL_zwcIxrt5zVNX7BuE__1GqTM1Nxgi_g1> Derhênerên YouTube</href>
+<image=#earth_16;align=bottom> <href=http://bit.ly/VP_QuickStart> Alîkariya serhêl</href>
+<image=#facebook_16;align=bottom> <href=https://www.facebook.com/VideoPsalm> FaceBook</href>
+<image=#mail_16;align=bottom> <href=mailto:videopsalm@gmail.com?Subject=Verse%20order%20tutorial>videopsalm@gmail.com</href>"},{
+Key:1050000,Text:"Save changes"},{
+Key:1050001,Text:"Tiştên guhertî yên ku hûn dixwazin hilînin hilbijêrin:"},{
+Key:1050002,Text:"Hemî hilbijêrin"},{
+Key:1050003,Text:"hemûyan hilbijêrî"},{
+Key:1050004,Text:"Koleksiyonan bi cih bikin"},{
+Key:1050005,Text:"Koleksiyonên qat bikin"},{
+Key:1050006,Text:"<size=+3>Tomar bike</size>
+<i>Hêmanên li jor hatine hilbijartin hilîne,
+paşê VideoPsalm bigire.</i>"},{
+Key:1050007,Text:"<size=+3>Tomar bike</size>
+<i>Hêmanên li jor hatine hilbijartin hilîne,
+paşê vegerin VideoPsalm.</i>"},{
+Key:1050008,Text:"<size=+3>Tomar neke</size>
+<i>Hemî guherandinên nehatine hilanîn berde,
+paşê VideoPsalm bigire.</i>"},{
+Key:1050009,Text:"<size=+3>Betal bike</size>
+<i>Vegere VîdyoPsalm.</i>
+ "}]}

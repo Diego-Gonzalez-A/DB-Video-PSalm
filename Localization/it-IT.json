@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Italian (Italy)"},{
+Key:1000000,Text:"Traduzione"},{
+Key:1000001,Text:"N."},{
+Key:1000003,Text:"&Aggiungi..."},{
+Key:1000004,Text:"Aggiungere una o più lingue di VideoPsalm"},{
+Key:1000006,Text:"&Invia"},{
+Key:1000007,Text:"Inviare le etichette via email a VideoPsalm nel prossimo Setup"},{
+Key:1000009,Text:"&Applicare"},{
+Key:1000011,Text:"&Salva"},{
+Key:1000012,Text:"Applicare la lingua selezionata nel VideoPsalm. Le modifiche vengono salvate automaticamente in anticipo."},{
+Key:1000013,Text:"Salvare le modifiche apportate alle etichette"},{
+Key:1000015,Text:"&Eliminare"},{
+Key:1000016,Text:"VideoPsalm eliminare la lingua selezionata e tutte le sue etichette"},{
+Key:1000022,Text:"&{0} denominate:"},{
+Key:1000024,Text:"&Lingue:"},{
+Key:1000029,Text:"Etichette discografiche"},{
+Key:1000030,Text:"Le etichette sono cambiati.
+
+Salvare le modifiche?"},{
+Key:1000031,Text:"Rimuovere una lingua"},{
+Key:1000032,Text:"Vuoi veramente eliminare la lingua {0} VideoPsalm?
+
+Questa operazione cancellerà tutti i testi di questa lingua ed è irreversibile."},{
+Key:1000035,Text:"VideoPsalm viene fornito per creare file compressi con estensione. zip
+contenente le etichette nelle loro rispettive lingue.
+Allegare il file appropriato all'email che si apre, quindi pubblicare questa e-mail a videopsalm@gmail.com."},{
+Key:1000036,Text:"Invia e-mail etichette"},{
+Key:1000037,Text:"<b>In questa finestra di 'Traduzione', è possibile modificare i testi che appaiono nelle forme di VideoPsalm.</b>
+Questo ti permette di tradurre, adattare o correggere qualsiasi interfaccia testo di VideoPsalm, in VideoPsalm anche.
+
+<i>Se questo componente richiede troppo spazio, ridurlo facendo clic sul pulsante riduzione piccola si trova in alto a sinistra, o ridimensionare il mouse con il separatore orizzontale.</i>
+
+VideoPsalm è fornito in diverse lingue. Le lingue VideoPsalm sono elencate nel riquadro sotto a sinistra intitolate 'lingue'.
+Se il tuo linguaggio non appaiono in questo elenco, è possibile tradurre qui, VideoPsalm nella tua lingua. Si noti che questo sarà probabilmente diverse ore di lavoro.
+
+Qui è come avere VideoPsalm nella tua lingua:
+
+-Aggiungi la tua lingua alla lista selezionando tra quelli trovare tramite il pulsante «Aggiungi <image=add2_16>».
+-Nella tabella qui sotto a destra, VideoPsalm Visualizza le etichette dei linguaggi controllati.
+-Tradurre le etichette nella tua lingua.
+
+Nella tabella, è possibile modificare le etichette a vostro piacere, come in un foglio di calcolo Excel.
+La tabella offre una casella di ricerca. Così, per visualizzare solo le etichette contenenti parole specifiche, digitare queste parole nella casella Cerca e quindi fare clic sul pulsante \"ricerca\".
+È possibile utilizzare anche l'area del filtro che si trova sotto ciascuna lingua intestazione per filtrare le etichette di una lingua che contiene alcune parole specifiche.
+
+Per facilitare il vostro lavoro, selezionare una o più altre lingue che conoscete, in modo da capire meglio il significato di ogni etichetta e di essere in grado di leggere in più lingue contemporaneamente.
+Controllare i commenti, perché permettono di comprendere meglio il significato di alcune etichette e dove vengono utilizzati.
+
+<b>Nota:</b> È meglio lasciare i commenti in inglese, perché molte persone capiscono l'inglese.
+
+Per vedere il risultato del vostro lavoro di traduzione:
+-Selezionare la lingua nelle lingue pannello facendo clic su
+   poi
+-Clicca sul pulsante 'Applica' (in basso).
+
+VideoPsalm verrà visualizzato nella lingua selezionata.
+
+Non dimenticare di salvare il lavoro di traduzione cliccando sul pulsante \"Salva <image=disk_blue>.
+Dopo aver salvato una nuova lingua, è possibile selezionare nella finestra Opzioni.
+
+Vi preghiamo di inviarci il vostro traduzioni o correzioni via e-mail a <b>videopsalm@gmail.com</b> cliccando sul pulsante \"Invia <image=mail_16>\".
+Quando si fa clic su questo pulsante, accadono due cose:
+1. Il tuo client di posta si aprirà automaticamente, ad esempio Outlook.
+2. Una cartella Explorer apre in cui VideoPsalm ha collocato i file compressi con estensione zip denominato lingue.
+
+Trascinare il file appropriato nella email e post-it affinché noi possiamo incorporarlo in una versione futura di VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Come tradurre VideoPsalm nella tua lingua?"},{
+Key:1000039,Text:"Lingue in cui è tradotto VideoPsalm. Selezionare le lingue che si desidera visualizzare le etichette nella tabella. Per aggiungere la vostra lingua all'elenco, fare clic sul pulsante 'Aggiungi'."},{
+Key:1001000,Text:"Aggiungi lingue"},{
+Key:1001001,Text:"&Lingue:"},{
+Key:1001002,Text:"Selezionare le lingue da aggiungere"},{
+Key:1001003,Text:"&Aggiungi"},{
+Key:1001004,Text:"Annulla"},{
+Key:1001005,Text:"Guida (F1)"},{
+Key:1002000,Text:"Opzioni"},{
+Key:1002003,Text:"&Generale"},{
+Key:1002004,Text:"&Display"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Collezioni"},{
+Key:1002015,Text:"&Bibbie"},{
+Key:1002103,Text:"&Lingua:"},{
+Key:1002105,Text:"&VideoPsalm cartella documenti:"},{
+Key:1002106,Text:"Scegliere la cartella di documenti VideoPsalm:"},{
+Key:1002112,Text:"&Salvare le modifiche apportate per i versetti biblici (testo e stile)"},{
+Key:1002202,Text:"&Sostituire le virgolette « <size=+4>'» di citazioni in francese « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Utilizzare le regole francesi di tipografia"},{
+Key:1002204,Text:"&Nelle canzoni, sostituire trattini da trattini unificatori"},{
+Key:1002205,Text:"&I versetti biblici, sostituire trattini da trattini unificatori"},{
+Key:1002304,Text:"&Metodo di rendering:"},{
+Key:1002306,Text:"Standard"},{
+Key:1002307,Text:"Migliorato"},{
+Key:1002502,Text:"&Applicare"},{
+Key:1002503,Text:"Salvare le modifiche e tenere aperta la finestra"},{
+Key:1002504,Text:"Ok"},{
+Key:1002505,Text:"Salvare le modifiche e chiudere la finestra"},{
+Key:1002508,Text:"Chiudere la finestra senza salvare le modifiche"},{
+Key:1002510,Text:"&Licenza della Chiesa:"},{
+Key:1002513,Text:"Testo opzionale che si entra qui può essere visualizzato automaticamente nell'intestazione o piè di pagina della diapositiva.
+
+Ad esempio, è possibile specificare qui il numero di licenza CILCI della tua Chiesa."},{
+Key:1002516,Text:"&Campi dell'header:"},{
+Key:1002517,Text:"&Campi nella subfooter:"},{
+Key:1002531,Text:"Per cambiare il tipo di carattere viene visualizzato VideoPsalm.
+
+Font standard:
+- <b>Tahoma</b> per Windows XP
+- <b>Segoe UI</b> per Windows Vista e Windows 7, Windows 8
+
+Dimensioni standard: 8,25"},{
+Key:1002532,Text:"È necessario riavviare VideoPsalm per un cambiamento di politica di cui tener conto pienamente."},{
+Key:1002533,Text:"Se questa casella è selezionata, VideoPsalm andrà a sostituire gli apostrofi dritti con un apostrofo francese, che è una virgola messo in altezza nelle diapositive.
+
+Quando si digita il testo di una canzone nell'editor, si consiglia di utilizzare il carattere che trova facilmente sulla tastiera, di solito l'apostrofo dritto."},{
+Key:1002534,Text:"Se questa casella è selezionata, VideoPsalm si riorganizza in diapositiva la spaziatura di alcuni caratteri di punteggiatura secondo la tipografia francese.
+
+Per esempio, se una canzone contiene le parole seguenti: <b>Signore!</b>
+
+VideoPsalm display: <b>Signore!</b>
+
+Ecco i caratteri di punteggiatura che godono di un trattamento speciale:
+<b>: ; ! ? »</b><i>VideoPsalm posto un unificatore spazio prima e spazio dopo.</i><b>«</b><i>VideoPsalm inserire uno spazio prima e uno spazio unificatore dopo.</i>
+
+VideoPsalm organizza non spaziatura di altri caratteri di punteggiatura.
+
+Quando si immettono le parole di una canzone nuova, è consigliabile che si seguono le regole tradizionali della tipografia, cioè attaccare la punteggiatura alle parole che li riguardano. In questo modo, sarete in grado di rispettare il display francese tipografia contrassegnando questa casella, o alle regole del tuo paese non selezionare questa casella di controllo.
+
+<b>Nota:</b> È possibile che le regole della tipografia francese non si applicano nel vostro paese, anche se la lingua è il francese, per esempio in francophone Africa, Belgio, in Quebec o in Svizzera.
+
+Per un riferimento completo su spazi e punteggiatura della tipografia francese, vedi <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, pagina 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Font:"},{
+Key:1002536,Text:"&Dimensione:"},{
+Key:1002539,Text:"Se questa casella è selezionata, VideoPsalm informarvi, durante il suo avvio, dell'esistenza di nuove funzioni del programma o la notizia:
+-le collezioni
+-Bibbie,
+- e lingue VideoPsalm.
+
+Nuove collezioni, Bibbie in nuove lingue e nuove lingue per VideoPsalm a volte vengono aggiunti alla libreria on-line VideoPsalm.
+
+In questo caso, aggiungere in pochi click questi nuovi documenti per l'installazione tramite la procedura guidata di importazione."},{
+Key:1002540,Text:"Se questa casella è selezionata, VideoPsalm richiede le parole legate da un trattino di rimanere sulla stessa linea nelle diapositive.
+
+Valore per i testi delle canzoni di default: <b>controllato</b>"},{
+Key:1002541,Text:"Se questa casella è selezionata, VideoPsalm richiede le parole legate da un trattino di rimanere sulla stessa linea nelle diapositive.
+
+Default value per i versetti della Bibbia: <b>non selezionato</b>"},{
+Key:1002542,Text:"Se questa casella è selezionata, VideoPsalm consente di salvare tutte le modifiche che hai fatto per i versetti della Bibbia (testo e stile).
+
+Se questa casella non è selezionata:
+
+<b>1.</b> quando si chiude VideoPsalm, esso non informerà che il vostro bibbie sono state modificate,
+
+<b>2</b> quando si salvano le modifiche, VideoPsalm non salva le modifiche apportate alle Bibbie (testo e stile),
+
+<b>3</b> troverete il vostro Bibbie intatte al successivo avvio di VideoPsalm."},{
+Key:1002543,Text:"Scegli la lingua in cui si desidera VideoPsalm viene visualizzata qui.
+
+Se la tua lingua non appare nella lista, forse è disponibile nella libreria VideoPsalm on-line tramite la procedura guidata di importazione.
+
+Se VideoPsalm non esiste nella tua lingua, vi preghiamo di informarci via email a videopsalm@gmail.com
+
+In alternativa, si può aiutare a tradurre i testi di VideoPsalm nella tua lingua tramite lo strumento di traduzione di VideoPsalm o correggere eventuali errori.
+
+Avviare lo strumento di traduzione VideoPsalm con il tasto \"Translate VideoPsalm\"."},{
+Key:1002544,Text:"Selezionare la cartella da cui VideoPsalm caricare i suoi libri, Bibbie, immagini e video qui.
+
+Quando si modifica la cartella, VideoPsalm aggiorna le collezioni, Bibbie, immagini e video con quelli della nuova cartella.
+
+<b>Attenzione</b> : prima di cambiare la cartella, verificare che hai salvato le modifiche."},{
+Key:1002545,Text:"Per cambiare il tipo di carattere viene visualizzato VideoPsalm.
+
+Dimensioni standard: 8,25
+
+È inoltre possibile modificare la dimensione del font tramite le opzioni di Windows: pannello di controllo -&gt; display-> leggibilità sullo schermo."},{
+Key:1002547,Text:"&Tradurre VideoPsalm"},{
+Key:1002548,Text:"Apre lo strumento con cui si può tradurre VideoPsalm nella tua lingua, o correggere eventuali errori di ortografia."},{
+Key:1002549,Text:"Si sta per cambiare la cartella da dove VideoPsalm caricherà i suoi documenti.
+VideoPsalm sarà scaricare i documenti attuali e poi caricare quelli nuova cartella.
+Questa operazione può richiedere alcuni secondi.{0}
+
+Modificare la cartella del documento?"},{
+Key:1002550,Text:"Ci sono modifiche non salvate (collezioni, Bibbie o calendario).
+Se si conferma l'operazione di registrazione ora, questi cambiamenti andranno persi."},{
+Key:1002551,Text:"Cambiando la cartella documenti"},{
+Key:1002552,Text:"&Ordine del giorno"},{
+Key:1002553,Text:"Modelli predefiniti:"},{
+Key:1002554,Text:"&canzoni:"},{
+Key:1002555,Text:"&Versetto della Bibbia:"},{
+Key:1002556,Text:"&Immagini di slideshow:"},{
+Key:1002557,Text:"&video autonoma:"},{
+Key:1002558,Text:"&Presentazioni PowerPoint:"},{
+Key:1002559,Text:"&Avanzamento automatico di timeout predefinito:"},{
+Key:1002560,Text:"secondi"},{
+Key:1002561,Text:"&Aggiungere una lingua"},{
+Key:1002562,Text:"Apre la procedura guidata di importazione delle lingue in cui è tradotto VideoPsalm, da dove è possibile aggiungere nuove lingue al tuo VideoPsalm."},{
+Key:1002580,Text:"Flusso di testo di default dopo una canzone"},{
+Key:1002581,Text:"Determina il flusso di testo predefinito dopo l'ultima strofa di una canzone.
+
+Questo valore è anche preso in considerazione per le canzoni che visualizzano spontaneamente senza ordine del giorno.
+Nel calendario, è possibile modificare questo valore per ogni canzone."},{
+Key:1002582,Text:"Flusso di testo predefinito dopo versetti della Bibbia"},{
+Key:1002583,Text:"Determina il flusso di testo predefinito dopo l'ultima strofa di un brano biblico.
+
+Questo valore è anche preso in considerazione nei passaggi biblici che visualizzano spontaneamente senza ordine del giorno.
+Nel calendario, è possibile modificare questo valore per ogni passaggio della Bibbia."},{
+Key:1002584,Text:"Flusso di testo di default dopo uno slideshow di immagini"},{
+Key:1002585,Text:"Determina il flusso di testo predefinito dopo una presentazione di immagini.
+
+Nel calendario, è possibile modificare questo valore per ciascuna immagine."},{
+Key:1002586,Text:"Flusso di testo di default dopo un autonomo dei"},{
+Key:1002587,Text:"Determina il flusso di testo predefinito dopo un autonomo dei.
+
+Nel calendario, è possibile modificare questo valore per ogni video stand-alone."},{
+Key:1002588,Text:"Flusso di testo di default dopo un PowerPoint"},{
+Key:1002589,Text:"Determina il flusso di testo predefinito dopo una presentazione di PowerPoint.
+
+Nel calendario, è possibile modificare questo valore per ciascun PowerPoint."},{
+Key:1002590,Text:"Determina l'intervallo di tempo predefinito in pochi secondi prima del passaggio automatico alla diapositiva successiva.
+
+Nel calendario, è possibile modificare questo valore per ogni elemento che scorre automaticamente."},{
+Key:1002591,Text:"&Memorizzare le immagini di sfondo nell'agenda (consigliato)"},{
+Key:1002592,Text:"Memorizzare le immagini di sfondo nell'agenda"},{
+Key:1002593,Text:"Indica se VideoPsalm dovrebbe archiviare qualsiasi canzoni di immagini di sfondo e biblica in versi file agenda, quando si salva."},{
+Key:1002594,Text:"&Ordine del giorno Archivio video di sfondo (consigliato)"},{
+Key:1002595,Text:"Archivio video di sfondo nell'agenda"},{
+Key:1002596,Text:"Indica se VideoPsalm dovrebbe memorizzare qualsiasi video di sfondo delle canzoni e biblica in versi file agenda, quando lo si salva."},{
+Key:1002597,Text:"&Agenda archivio immagini slideshow (consigliato)"},{
+Key:1002598,Text:"Memorizzare immagini slideshow nell'agenda"},{
+Key:1002599,Text:"Indica se VideoPsalm dovrebbe archiviare le immagini possibili di slideshow nel file calendario quando si salva."},{
+Key:1002600,Text:"&Memorizzare l'agenda di video stand-alone (consigliato)"},{
+Key:1002601,Text:"Memorizzare i video autonomi nell'agenda"},{
+Key:1002602,Text:"Indica se VideoPsalm dovrebbe archiviare ogni autonoma nei video file agenda, quando lo si salva."},{
+Key:1002603,Text:"&Memorizzare le presentazioni PowerPoint in agenda (consigliato)"},{
+Key:1002604,Text:"Memorizzare le presentazioni PowerPoint in agenda"},{
+Key:1002605,Text:"Indica se VideoPsalm dovrebbe archiviare qualsiasi presentazioni PowerPoint in file calendario quando si salva."},{
+Key:1002606,Text:"Si consiglia di selezionare questa opzione, soprattutto se si preparano all'ordine del giorno su un altro PC rispetto a quella su cui si visualizzerà la tua presentazione."},{
+Key:1002607,Text:"&Editor"},{
+Key:1002608,Text:"&Tipo di carattere:"},{
+Key:1002609,Text:"Specifica il tipo di carattere in cui si modifica il testo di una canzone e i versetti della Bibbia.
+
+In particolare, questo tipo di carattere non viene utilizzato per visualizzare il testo sullo schermo."},{
+Key:1002610,Text:"&Dimensione testo:"},{
+Key:1002611,Text:"Specifica la dimensione del carattere in cui si modifica il testo di una canzone e i versetti della Bibbia.
+
+Questa dimensione non è particolarmente utilizzata per visualizzare il testo sullo schermo."},{
+Key:1002612,Text:"&Carattere degli accordi:"},{
+Key:1002613,Text:"Specifica il tipo di carattere in cui si modifica gli accordi di una canzone.
+
+Questo font non è particolarmente utilizzato per visualizzare gli accordi nella schermata di presentazione."},{
+Key:1002614,Text:"&Dimensione del testo degli accordi:"},{
+Key:1002615,Text:"Specifica la dimensione del font degli accordi di una canzone nell'editor di testo.
+
+Questa dimensione non è particolarmente utilizzata per visualizzare gli accordi nella schermata di presentazione."},{
+Key:1002616,Text:"&Colore degli accordi:"},{
+Key:1002617,Text:"Specifica il colore in cui gli accordi vengono visualizzati nell'editor di testo.
+
+In particolare, questo colore non viene utilizzato per visualizzare gli accordi nella schermata di presentazione."},{
+Key:1002618,Text:"&Colore bianco unificatore:"},{
+Key:1002619,Text:"Specifica il colore in cui rottura bianco sono visualizzati nell'editor di testo."},{
+Key:1002620,Text:"&Colore dei tag di strofe:"},{
+Key:1002621,Text:"Specifica il colore in cui sono evidenziati i tag di strofe nell'editor di testo."},{
+Key:1002622,Text:"&Trasparenza dei tag di strofe:"},{
+Key:1002623,Text:"Specifica la trasparenza del colore in cui sono evidenziati i tag di strofe nell'editor di testo."},{
+Key:1002624,Text:"&Colore di ChordPro accordi:"},{
+Key:1002625,Text:"Specifica il colore in cui sono evidenziati i ChordPro accordi in modalità testo ChordPro Editor."},{
+Key:1002626,Text:"&Trasparenza degli accordi ChordPro:"},{
+Key:1002627,Text:"Specifica la trasparenza del colore in cui accordi ChordPro sono evidenziati in modalità testo ChordPro Editor."},{
+Key:1002628,Text:"&Sostituire i caratteri (consigliati)"},{
+Key:1002629,Text:"Permette il testo editor di ignorare i caratteri mancanti nel carattere corrente di quelli di un altro carattere.
+
+Se si utilizza un tipo di carattere non Unicode che opera la traslitterazione, disabilitare la sostituzione di caratteri.
+È il caso di alcuni Hindi, Tamil, Bamati, i caratteri di Malayalam, ecc.
+
+Si noti che è preferibile usare un font Unicode.
+Per convertire le tue canzoni preparati al testo Unicode, utilizzare un convertitore online, ad esempio qui: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Consentire l'accesso a una semplificata, compatibile con editor di testo scrittura RTL"},{
+Key:1002631,Text:"Viene visualizzato un ulteriore pulsante sulla sinistra della barra degli strumenti dell'editor di testo, che fornisce l'accesso a una modalità semplificata di modifica del testo delle canzoni.
+
+Questo Editor semplificato è compatibile con scrittura da destra a sinistra (RTL), particolarmente per l'arabo e l'ebraico."},{
+Key:1002632,Text:"Scegli il metodo di rendering video che funziona meglio per il tuo PC. VideoPsalm può visualizzare i video in wmv su più PC formato."},{
+Key:1002633,Text:"&Notifiche"},{
+Key:1002634,Text:"All'avvio, avvisare se c'è:"},{
+Key:1002635,Text:"&Una nuova versione di VideoPsalm (consigliato)"},{
+Key:1002636,Text:"&Nuove collezioni (consigliati)"},{
+Key:1002637,Text:"&Nuove Bibbie (consigliate)"},{
+Key:1002638,Text:"&Nuove lingue (consigliati)"},{
+Key:1002639,Text:"&In caso di difficoltà di connessione, la presenza di un proxy"},{
+Key:1002640,Text:"La presenza di un proxy"},{
+Key:1002641,Text:"Indica se VideoPsalm dovrebbe rilevare automaticamente la presenza di un proxy per informarsi su nuovi prodotti o aggiornamenti.
+
+Se VideoPsalm non può scaricare libri o Bibbie nella sua libreria online, selezionare questa opzione e quindi ritentare l'operazione.
+
+Selezionare questa opzione solo se ciò non avviene. Infatti, questa opzione provoca un rallentamento nel download di libri e bibbie dalla libreria on-line di VideoPsalm."},{
+Key:1002642,Text:"&Nascondi icone sociali"},{
+Key:1002643,Text:"Nasconde le icone social di Google toolbar (Facebook, Twitter e YouTube).
+
+Queste icone rimangono nascoste in assenza di una connessione internet."},{
+Key:1002644,Text:"&Canzoni audio archivio agenda (consigliato)"},{
+Key:1002645,Text:"Archivio di brani audio nell'agenda"},{
+Key:1002646,Text:"Indica se VideoPsalm dovrebbe archiviare qualsiasi audio delle canzoni nel file calendario quando si salva."},{
+Key:1002648,Text:"&Personalizzazione"},{
+Key:1002649,Text:"&Videocamera"},{
+Key:1002650,Text:"&Precedente"},{
+Key:1002651,Text:"&Base"},{
+Key:1002652,Text:"&Testo"},{
+Key:1002653,Text:"&Scudo"},{
+Key:1002654,Text:"&Fiocco di neve"},{
+Key:1002655,Text:"&Bug"},{
+Key:1002656,Text:"Pannello scorrevole"},{
+Key:1002657,Text:"&Prossimo"},{
+Key:1002658,Text:"Barra degli strumenti"},{
+Key:1002659,Text:"Agenda di bordo"},{
+Key:1002660,Text:"&Monte"},{
+Key:1002661,Text:"&Vattene"},{
+Key:1002662,Text:"&Nascondere le descrizioni comandi"},{
+Key:1003000,Text:"Versione {0} dal {1}."},{
+Key:1003003,Text:"Chiudere"},{
+Key:1003005,Text:"&Contattare VideoPsalm"},{
+Key:1003006,Text:"Aprire Outlook (il vostro client di posta elettronica) per inviare una email a VideoPsalm"},{
+Key:1003007,Text:"Questa versione è aggiornata"},{
+Key:1003008,Text:"&Aggiornare la mia versione"},{
+Key:1003009,Text:"C'è una versione più recente di VideoPsalm:
+Versione {0} per la piastra 1: {d}.
+Fare clic su questo pulsante per aprire la pagina di download.
+Qui troverete la storia delle modifiche
+e un link per il download."},{
+Key:1003011,Text:"-Relazione
+-Fare un'osservazione o un suggerimento"},{
+Key:1003012,Text:"Indirizzo e-mail: videopsalm@gmail.com"},{
+Key:1003500,Text:"Rimuovere il recepimento"},{
+Key:1003501,Text:"Recepito un semitono più"},{
+Key:1003502,Text:"Recepito un semitono minore"},{
+Key:1003503,Text:"Senza"},{
+Key:1003504,Text:"Eliminare il capo"},{
+Key:1003505,Text:"Trasporre un capo che si allontana dalla testa"},{
+Key:1003506,Text:"Trasporre un capo che si avvicina alla testa"},{
+Key:1003507,Text:"Senza"},{
+Key:1003508,Text:"Estrarre il file audio alla voce"},{
+Key:1003509,Text:"&File audio:"},{
+Key:1003510,Text:"Selezionare i file audio da importare e quindi fare clic su 'Apri'."},{
+Key:1003511,Text:"Sono stati importati {0} file audio (s)."},{
+Key:1003512,Text:"Nessun file audio è stato importato.
+(Egli (s) è già presente (s) nell'elenco)."},{
+Key:1003513,Text:"Importazione di file audio"},{
+Key:1003514,Text:"File audio"},{
+Key:1003515,Text:"Parole chiave di ricerca nelle immagini"},{
+Key:1003516,Text:"Senza immagine"},{
+Key:1003517,Text:"Senza video"},{
+Key:1003518,Text:"&File"},{
+Key:1003519,Text:"&Visualizzare il basso"},{
+Key:1003520,Text:"Parole chiave per la ricerca in video"},{
+Key:1003521,Text:"&Raccolta di brani importati da CETTA / SongSelect"},{
+Key:1003522,Text:"Canzoni di CETTA"},{
+Key:1003523,Text:"Importazione delle canzoni di CETTA"},{
+Key:1003524,Text:"{0} canzoni erano già nella collezione '{1}' e non sono stati importati."},{
+Key:1003525,Text:"&Ricerca"},{
+Key:1003526,Text:"&Luminosità:"},{
+Key:1003527,Text:"&Ricerca"},{
+Key:1003528,Text:"&Luminosità:"},{
+Key:1003529,Text:"Messaggio"},{
+Key:1003530,Text:"Polizia"},{
+Key:1003531,Text:"Colori"},{
+Key:1003532,Text:"Messaggio"},{
+Key:1003533,Text:"Visibilità"},{
+Key:1003534,Text:"Modello"},{
+Key:1003535,Text:"Tipo"},{
+Key:1003536,Text:"Conto alla rovescia"},{
+Key:1003537,Text:"Cronometro"},{
+Key:1003538,Text:"Opzioni"},{
+Key:1003539,Text:"Trasparenza"},{
+Key:1003540,Text:"Visualizzare il messaggio"},{
+Key:1003541,Text:"Sfondo"},{
+Key:1003542,Text:"Visualizzazione dell'orologio"},{
+Key:1003543,Text:"Orologio"},{
+Key:1003544,Text:"Conto alla rovescia"},{
+Key:1003545,Text:"Cronometro"},{
+Key:1003546,Text:"Durante"},{
+Key:1003547,Text:"Fino a"},{
+Key:1003548,Text:"Inizio"},{
+Key:1003549,Text:"Pausa"},{
+Key:1003550,Text:"Fermata"},{
+Key:1003551,Text:"Stile"},{
+Key:1003552,Text:"Grasso"},{
+Key:1003553,Text:"Corsivo"},{
+Key:1003554,Text:"Ha sottolineato"},{
+Key:1003555,Text:"Visualizzare la seconda mano"},{
+Key:1003556,Text:"Balbuzie secondi"},{
+Key:1003557,Text:"Minuti a scatti"},{
+Key:1003558,Text:"Visualizzare le cifre"},{
+Key:1003559,Text:"Laurearsi i minuti"},{
+Key:1003560,Text:"Ore laureati"},{
+Key:1003561,Text:"Videocamera"},{
+Key:1003562,Text:"Visualizza le riprese di una telecamera dietro al testo."},{
+Key:1003563,Text:"&Aggiungere canzoni al formato CILC..."},{
+Key:1003564,Text:"Importazione..."},{
+Key:1003565,Text:"Importazione"},{
+Key:1003566,Text:"Permette di importare file audio nel vostro VideoPsalm"},{
+Key:1003567,Text:"Navigazione..."},{
+Key:1003568,Text:"Sfoglia"},{
+Key:1003569,Text:"Apre la cartella dei file audio dal tuo VideoPsalm"},{
+Key:1003570,Text:"&Avviare (ms):"},{
+Key:1003571,Text:"&Fine (ms):"},{
+Key:1003572,Text:"&Volume:"},{
+Key:1003573,Text:"&Giocare loop"},{
+Key:1003575,Text:"&Modificato"},{
+Key:1003576,Text:"&Versione di:"},{
+Key:1003577,Text:"\"Destra\" editor di testo a sinistra"},{
+Key:1003578,Text:"Alterna tra un editor di testo standard (scrittura da sinistra a destra) e a sinistra di \"Destra\" Editor per arabo, ebraico, ecc."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Visualizza sempre congiuntamente (bilingue)"},{
+Key:1003581,Text:"&Posizione:"},{
+Key:1004050,Text:"Polizia"},{
+Key:1004051,Text:"Dimensione"},{
+Key:1004052,Text:"Grasso"},{
+Key:1004053,Text:"Corsivo"},{
+Key:1004054,Text:"Evidenziata"},{
+Key:1004055,Text:"Allineamento"},{
+Key:1004056,Text:"Allineamento verticale"},{
+Key:1004057,Text:"Animazione"},{
+Key:1004058,Text:"Durata"},{
+Key:1004059,Text:"Volume"},{
+Key:1004060,Text:"Muto?"},{
+Key:1004061,Text:"Inizio"},{
+Key:1004062,Text:"Fine"},{
+Key:1004063,Text:"Loop?"},{
+Key:1004064,Text:"Vedere l'immagine ingrandita"},{
+Key:1004100,Text:"Colori"},{
+Key:1004101,Text:"Riempimento"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Larghezza dell'entourage"},{
+Key:1004104,Text:"Ombra"},{
+Key:1004105,Text:"Raggio dell'ombra"},{
+Key:1004106,Text:"Profondità dell'ombra"},{
+Key:1004107,Text:"Direzione dell'ombra"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Immagine"},{
+Key:1004153,Text:"Colore"},{
+Key:1004156,Text:"Rettangolo del corpo"},{
+Key:1004157,Text:"Rettangolo di intestazione"},{
+Key:1004158,Text:"Il rettangolo di piede"},{
+Key:1004500,Text:"Copiare negli Appunti il calendario"},{
+Key:1004501,Text:"Una descrizione dell'agenda è stata inserita negli Appunti."},{
+Key:1004502,Text:"Parole (titolo e testo) o n. a cercare"},{
+Key:1004503,Text:"Parole (titolo e testo) o n. a cercare"},{
+Key:1004504,Text:"Parole (titolo) o cercare di no."},{
+Key:1004505,Text:"Parole (autore e compositore) o n. a cercare"},{
+Key:1004506,Text:"Parole (temi) o numero di ricerca"},{
+Key:1004507,Text:"Numero di ricerca o parole (riferimenti)"},{
+Key:1004508,Text:"CETTA a cercare"},{
+Key:1004509,Text:"Parole (copyright) o numero di ricerca"},{
+Key:1004510,Text:"Parole (Nota 1) o n. a cercare"},{
+Key:1004511,Text:"Parole (Nota 2) o n. a cercare"},{
+Key:1004512,Text:"Parole (nota 3) o n. a cercare"},{
+Key:1004513,Text:"Canzoni con accordi"},{
+Key:1004514,Text:"Copiare il riassunto del compendio"},{
+Key:1004515,Text:"Il riassunto del compendio è stato inserito negli Appunti."},{
+Key:1005001,Text:"Fine del caricamento"},{
+Key:1005002,Text:"Canzone di '{0}'."},{
+Key:1005003,Text:"Caricamento di video"},{
+Key:1005004,Text:"Impossibile leggere il video '{0}'.
+{1}."},{
+Key:1005005,Text:"Caricamento immagini"},{
+Key:1005006,Text:"Impossibile leggere l'immagine '{0}'.
+{1}."},{
+Key:1005007,Text:"Caricamento di stili"},{
+Key:1005008,Text:"Riempimento della lista delle collezioni (canzoni {0} {1} collezioni)"},{
+Key:1005009,Text:"Eliminare gli elementi selezionati agenda?"},{
+Key:1005010,Text:"Rimuovere gli elementi"},{
+Key:1005011,Text:"Nuova collezione"},{
+Key:1005012,Text:"Nuova canzone"},{
+Key:1005013,Text:"L'agenda è vuota.
+Apri un o trascinare qui le canzoni e versi per aggiungere all'ordine del giorno."},{
+Key:1005014,Text:"Non non c'è nessun scivolo a video - progetto.
+Selezionare un brano o versi per il video - progetto."},{
+Key:1005015,Text:"Vuoi davvero eliminare l'insieme '{0}'?
+
+Il file corrispondente a questo insieme non verrà eliminato dal disco:
+la sua estensione sarà rinominata \".ignore."},{
+Key:1005016,Text:"Eliminazione di una raccolta"},{
+Key:1005017,Text:"Si desidera eliminare la canzone '{0}'?
+
+Dopo la registrazione delle modifiche per i libri, la rimozione di questa canzone sarà irreversibile."},{
+Key:1005018,Text:"Eliminare una canzone"},{
+Key:1005019,Text:"Rimuovere tutti gli elementi dell'agenda?"},{
+Key:1005020,Text:"Cancellare tutto"},{
+Key:1005021,Text:"Ordine del giorno senza un nome"},{
+Key:1005022,Text:"Calendario vuoto"},{
+Key:1005023,Text:"L'attuale agenda ha non salvate le modifiche.
+Salvare le modifiche?"},{
+Key:1005024,Text:"Salvare il calendario"},{
+Key:1005025,Text:"Uno o più insiemi hanno non salvate le modifiche.
+Salvare le modifiche?"},{
+Key:1005026,Text:"Collezioni di dischi"},{
+Key:1005027,Text:"Uno o più Bibbie hanno non salvate le modifiche.
+Salvare le modifiche?"},{
+Key:1005028,Text:"Salvare le Bibbie"},{
+Key:1005029,Text:"Aggiungere documenti all'ordine del giorno"},{
+Key:1005030,Text:"Diari"},{
+Key:1005031,Text:"Immagini"},{
+Key:1005032,Text:"Video"},{
+Key:1005033,Text:"Presentazioni PowerPoint"},{
+Key:1005034,Text:"Salvare il calendario sotto"},{
+Key:1005035,Text:"Canzoni di CETTA"},{
+Key:1005036,Text:"Non non c'è nessun insieme.
+Clicca qui per avviare i rapporti di importazione guidata."},{
+Key:1005037,Text:"Formato: {0}
+{1} × {2} pixel"},{
+Key:1005038,Text:"ms: {0}"},{
+Key:1005039,Text:"Vuoi davvero cancellare tutti gli stili sotto il '{0}'?"},{
+Key:1005040,Text:"La collezione '{0}' è escluso dalla ricerca"},{
+Key:1005041,Text:"Visualizzare o spostare la diapositiva"},{
+Key:1005042,Text:"Stagioni"},{
+Key:1005043,Text:"Primavera"},{
+Key:1005044,Text:"Estate"},{
+Key:1005045,Text:"Natale"},{
+Key:1005046,Text:"Temi"},{
+Key:1005047,Text:"Caramello"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Fantasia"},{
+Key:1005050,Text:"Camera oscura"},{
+Key:1005051,Text:"Nebbia"},{
+Key:1005052,Text:"Blueprint"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Contrasto forte"},{
+Key:1005055,Text:"Ufficio"},{
+Key:1005056,Text:"Office 2010 blu"},{
+Key:1005057,Text:"Office 2010 argento"},{
+Key:1005058,Text:"Office 2010 nero"},{
+Key:1005059,Text:"Office 2007 blu"},{
+Key:1005060,Text:"Office 2007 verde"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 argento"},{
+Key:1005063,Text:"Office 2007 nero"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Sette"},{
+Key:1005067,Text:"Sette Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Incenso"},{
+Key:1005070,Text:"Fumo"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Colori"},{
+Key:1005073,Text:"Liquid sky"},{
+Key:1005074,Text:"Cielo di Londra"},{
+Key:1005075,Text:"Blu"},{
+Key:1005076,Text:"Denaro gemelli"},{
+Key:1005077,Text:"Oro nero"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Sharp"},{
+Key:1005080,Text:"Sharp più"},{
+Key:1005081,Text:"Stelle"},{
+Key:1005082,Text:"Oceani di vetro"},{
+Key:1005083,Text:"Il mondo di asfalto"},{
+Key:1005084,Text:"Caffè"},{
+Key:1005085,Text:"Polvere di stelle"},{
+Key:1005086,Text:"Eliminare tutti gli stili qui sotto"},{
+Key:1005087,Text:"Mantenere il loggiato"},{
+Key:1005100,Text:"Nessuna animazione"},{
+Key:1005102,Text:"Dissolvenza"},{
+Key:1005103,Text:"Dissolvenza luce"},{
+Key:1005104,Text:"Ingrandire l'immagine"},{
+Key:1005105,Text:"Espansione in dissolvenza luce"},{
+Key:1005106,Text:"Scansione"},{
+Key:1005107,Text:"Scansione a destra"},{
+Key:1005109,Text:"Modulo"},{
+Key:1005110,Text:"Star"},{
+Key:1005118,Text:"Scansione verso il basso"},{
+Key:1005120,Text:"Scansione a sinistra"},{
+Key:1005121,Text:"Scansione verso l'alto"},{
+Key:1005122,Text:"Scansione dall'alto a destra"},{
+Key:1005123,Text:"Scansione dall'alto a sinistra"},{
+Key:1005124,Text:"Scansione dal basso a destra"},{
+Key:1005125,Text:"Scansione dal basso a sinistra"},{
+Key:1005126,Text:"Scopri"},{
+Key:1005127,Text:"Scoprire giù"},{
+Key:1005128,Text:"Scoprire il diritto"},{
+Key:1005129,Text:"Scopri la sinistra"},{
+Key:1005130,Text:"Scopri l'alto"},{
+Key:1005131,Text:"Scopri l'alto a destra"},{
+Key:1005132,Text:"Scopri l'alto a sinistra"},{
+Key:1005133,Text:"Scoprire il destra giù"},{
+Key:1005134,Text:"Scoprire il basso a sinistra"},{
+Key:1005200,Text:"Diapositive"},{
+Key:1005201,Text:"No slide"},{
+Key:1005209,Text:"Parole di ricerca in:"},{
+Key:1005210,Text:"&Titolo e testo"},{
+Key:1005211,Text:"&Titolo e testo"},{
+Key:1005212,Text:"&Titolo"},{
+Key:1005213,Text:"&Autore e compositore"},{
+Key:1005214,Text:"&Temi"},{
+Key:1005215,Text:"&Riferimenti"},{
+Key:1005216,Text:"&CETTA"},{
+Key:1005217,Text:"&Copyright"},{
+Key:1005218,Text:"&MEMO 1"},{
+Key:1005219,Text:"&Memo 2"},{
+Key:1005220,Text:"&MEMO 3"},{
+Key:1005221,Text:"&Canzoni con accordi"},{
+Key:1005223,Text:"Opzioni"},{
+Key:1005224,Text:"Opzioni di VideoPsalm"},{
+Key:1005225,Text:"Viene visualizzata la finestra di dialogo Opzioni VideoPsalm."},{
+Key:1005226,Text:"Importazione"},{
+Key:1005228,Text:"Viene visualizzata l'importazione guidata libri, Bibbie, immagini e video dalla libreria on-line VideoPsalm e popolari formati."},{
+Key:1005230,Text:"Eliminare"},{
+Key:1005232,Text:"Rimuovere il canto, la raccolta o la Bibbia selezionato."},{
+Key:1005237,Text:"Cambiare il tipo di carattere."},{
+Key:1005247,Text:"Immagini"},{
+Key:1005252,Text:"Modificare le preferenze di notifica."},{
+Key:1005253,Text:"Chiudere questa finestra e ricordare le informazioni la prossima volta."},{
+Key:1005254,Text:"Chiudere questa finestra e non ricordo più queste informazioni."},{
+Key:1005255,Text:"Ricerca per parole o una frase, per esempio: pane vino"},{
+Key:1005256,Text:"Selezionare i versi di loro riferimento"},{
+Key:1005257,Text:"Ricerca di versi che contengono certe parole chiave o frase"},{
+Key:1005258,Text:"Eliminare la parola chiave o frase da ricerca (ESC)"},{
+Key:1005259,Text:"La ricerca dei versetti che contengono determinate parole chiave.
+
+Ad esempio:
+
+-Per trovare i versetti che contengono la frase <b>\"figli di Dio\"</b>, digitare alcune parole come <b>\"figlio di Dio\"</b>.
+
+-Per trovare il versetto che contiene la frase <b>'ha preso la tazza'</b>, digitare queste parole multipli: <b>«ilpritlacoupe»</b>.
+
+Non preoccuparti di accenti o segni di punteggiatura o minuscole/maiuscole.
+
+Nessun bisogno di digitare le parole nel suo complesso o nell'ordine.
+
+Aggiungere altre parole del versetto per ridurre l'elenco dei versi trovati.
+
+Premere il pulsante <b>Insert</b> per aggiungere il versetto trovato e selezionato per l'ordine del giorno."},{
+Key:1005260,Text:"Nessun versetto trovato."},{
+Key:1005268,Text:"In questa modalità, VideoPsalm aggiunge automaticamente la parentesi quadre [] intorno al testo da immettere.
+Ad esempio, per aggiungere un accordo c, tipo «Fare» e VideoPsalm inserire \"[Do]."},{
+Key:1005269,Text:"Dimensione del carattere"},{
+Key:1005270,Text:"Cambia la dimensione del font come percentuale dell'altezza dello schermo."},{
+Key:1005271,Text:"&Salva come..."},{
+Key:1005277,Text:"Salva"},{
+Key:1005278,Text:"Salva le modifiche apportate nei libri, Bibbie e loro stili."},{
+Key:1005279,Text:"Salva le modifiche apportate nelle collezioni e stili.
+
+<b>Attenzione:</b> Le modifiche apportate per le Bibbie non vengono salvate (testo e stili). Per salvare queste modifiche, abilitare l'opzione corrispondente nella finestra Opzioni per VideoPsalm."},{
+Key:1005283,Text:"Lunghezza:"},{
+Key:1005284,Text:"In ms:"},{
+Key:1005285,Text:"Elemento"},{
+Key:1005286,Text:"Corpo"},{
+Key:1005287,Text:"Lo stile del corpo"},{
+Key:1005288,Text:"Consente la modifica dello stile del corpo."},{
+Key:1005289,Text:"Intestazione"},{
+Key:1005290,Text:"Stile di intestazione"},{
+Key:1005291,Text:"Consente la modifica dello stile dell'intestazione."},{
+Key:1005292,Text:"Piede"},{
+Key:1005293,Text:"Stile del piede"},{
+Key:1005294,Text:"Consente la modifica dello stile del piede."},{
+Key:1005295,Text:"Accordi"},{
+Key:1005296,Text:"Stile degli accordi"},{
+Key:1005297,Text:"Consente la modifica dello stile degli accordi."},{
+Key:1005308,Text:"Libro"},{
+Key:1005313,Text:"Livello di stile"},{
+Key:1005314,Text:"Impostare il livello al quale si applicheranno le modifiche di stile.
+
+Il versetto è il livello più alto stile, quindi solo cantando, collezione, collezioni e la base.
+
+Analogamente, il versetto ha il livello più alto stile, poi arriva il capitolo, il libro, il testamento, la Bibbia, Bibbie e la base di nuovo.
+
+La base sta alla radice della gerarchia, lo stile si applica a tutte le diapositive.
+
+Un livello più elevato possibile eseguire l'override di uno stile definito in un attributo di livello inferiore."},{
+Key:1005315,Text:"<b></b>Questo meccanismo consente di modificare lo stile di diapositive modo generale o individuale.
+
+<b>Esempio</b>
+Se si assegna un sottofondo di una canzone, vengono visualizzati tutti i versi di questa canzone con questo sfondo, ad eccezione di tutti i versi che ti hanno assegnato un fondo specifico."},{
+Key:1005318,Text:"Diapositiva"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"Presentazioni PowerPoint"},{
+Key:1005322,Text:"Video"},{
+Key:1005323,Text:"CETTA SongSelect"},{
+Key:1005326,Text:"I colori di testo"},{
+Key:1005329,Text:"Reset"},{
+Key:1005330,Text:"Cancella lo stile per il livello selezionato"},{
+Key:1005331,Text:"È possibile eliminare tutti gli attributi di stile del livello selezionato.
+Una diapositiva senza stile eredita automaticamente inferiore stile livello.
+
+Ad esempio:
+-Una stanza ha uno stile con un font Candara.
+-Canto, nel frattempo, ha uno stile con un font Segoe UI.
+
+Quando si cancella lo stile del versetto, verrà visualizzato con lo stile di livello inferiore. Nel nostro esempio, sarà il font Segoe UI.
+
+<b>Menu a discesa «eliminare tutti sopra gli stili»</b>
+È possibile eliminare lo stile del livello selezionato e tutti gli stili più elevati.
+
+Ad esempio, se il livello di stile 'Codice' è selezionato, lo stile della collezione verrà eliminato così come gli stili di tutti i brani della raccolta e quelli delle loro strofe."},{
+Key:1005332,Text:"Questo pulsante è disattivato quando il livello non è possedere lo stile."},{
+Key:1005333,Text:"&Eliminare tutti sopra gli stili"},{
+Key:1005337,Text:"&In alto"},{
+Key:1005338,Text:"&Medio"},{
+Key:1005339,Text:"&Fondo"},{
+Key:1005340,Text:"Rimanere su questo livello di stile"},{
+Key:1005341,Text:"Rimanere al livello attuale di stile"},{
+Key:1005342,Text:"Rimane al livello corrente di stile quando si modifica la diapositiva.
+
+Così:
+<b>1.</b> Quando si visualizzano i versi di una canzone, VideoPsalm, posiziona il livello dello stile su 'strofa'.
+<b>2.</b> Per modificare lo stile di canto del versetto, selezionare il livello di stile \"canzone\".
+<b>3.</b> Per rimanere sulla formattazione dello stile delle canzoni, premere la puntina da disegno.
+<b>4.</b> Quando si passa da una stanza alla successiva, il livello di stile rimane su \"canzone\"."},{
+Key:1005343,Text:"Riempimento del testo"},{
+Key:1005345,Text:"Riempimento del testo con un colore a tinta unita, una sfumatura, un'immagine o una texture."},{
+Key:1005346,Text:"Colore del testo"},{
+Key:1005347,Text:"Struttura del testo"},{
+Key:1005349,Text:"Specifica il colore, larghezza e la linea di contorno di stile del testo."},{
+Key:1005350,Text:"Colore del testo"},{
+Key:1005352,Text:"L'effetto di testo"},{
+Key:1005354,Text:"Applicare un effetto visivo al testo, come un'ombra, una luce, una riflessione o una rotazione 3-d."},{
+Key:1005356,Text:"Text shadow"},{
+Key:1005357,Text:"Colore di sfondo"},{
+Key:1005359,Text:"&Nuova canzone"},{
+Key:1005360,Text:"&Nuova collezione"},{
+Key:1005361,Text:"&Eliminare tutte le"},{
+Key:1005362,Text:"
+
+<b>Parziale scudo</b>
+All'apertura di un ordine del giorno, saranno conservati i <b>testi</b> dei tuoi libri e bibbie.
+Gli stili del calendario verranno applicati ai tuoi libri e bibbie."},{
+Key:1005363,Text:"
+
+<b>Parziale scudo</b>
+All'apertura di un ordine del giorno, si conserverà gli <b>stili</b> dei tuoi libri e bibbie.
+I testi dell'agenda verranno applicati ai tuoi libri e bibbie."},{
+Key:1005364,Text:"
+
+<b>Scudo completo</b>
+Saranno conservati presso l'apertura di un'agenda, <b>testi</b> e <b>stili</b> dei tuoi libri e bibbie.
+Quelli dell'agenda non verranno applicate.
+
+<i>Questa è la strategia da adottare per documenti di questo PC sono il tuo riferimento.</i>"},{
+Key:1005365,Text:"
+
+<b>Assenza di scudo</b>
+All'apertura di un ordine del giorno, i <b>testi</b> e <b>gli stili</b> del calendario verrà applicato ai tuoi libri e bibbie e sostituzione i propri testi e stili.
+
+<i>Questa è la strategia da adottare per i documenti di riferimento sono quelli del PC su cui è stato creato l'ordine del giorno.</i>"},{
+Key:1005366,Text:"Per cambiare da \"Spettatore\" alla modalità \"Modifica\" o viceversa, fare clic sul pulsante con la matita."},{
+Key:1005369,Text:"Ordina per titolo"},{
+Key:1005370,Text:"Ordinati per numero"},{
+Key:1005371,Text:"Info su..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simula la proiezione video
+su uno schermo all'aspetto 4:3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simula la proiezione video
+su un aspetto dello schermo 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simula la proiezione video
+su uno schermo all'aspetto 4:3"},{
+Key:1005383,Text:"16.10"},{
+Key:1005384,Text:"Simula la proiezione video
+su una schermata aspetto 16.10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simula la proiezione video
+su un aspetto dello schermo 16:8"},{
+Key:1005387,Text:"Corrente"},{
+Key:1005388,Text:"Utilizza l'intera superficie dello schermo"},{
+Key:1005389,Text:"Aspetto 4:3"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Modalità di inserimento degli accordi"},{
+Key:1005398,Text:"Visualizzare gli accordi sopra testi"},{
+Key:1005400,Text:"Regolare anche l'aspetto della finestra"},{
+Key:1005401,Text:"&Aggiungi al calendario"},{
+Key:1005402,Text:"&Delete (Elimina)"},{
+Key:1005403,Text:"&Includere codice nella ricerca"},{
+Key:1005404,Text:"&Escludere l'insieme della ricerca"},{
+Key:1005405,Text:"&Includere tutte le collezioni nella ricerca"},{
+Key:1005407,Text:"&Nascondere esclusi dalle collezioni di ricerca"},{
+Key:1005408,Text:"&Visualizza esclusi dalle collezioni di ricerca"},{
+Key:1005409,Text:"&Viene visualizzato il rettangolo di ridimensionamento"},{
+Key:1005410,Text:"Visualizza il rettangolo di ridimensionamento"},{
+Key:1005411,Text:"Consente di ridimensionare la cornice selezionata (corpo del testo, intestazione o piè di pagina).
+
+Il telaio può essere ridimensionato con il mouse nell'area di anteprima.
+
+<b>Come ridimensionare una cornice</b>
+
+1. Selezionare un frame per ridimensionare:
+-il corpo
+-l'intestazione,
+- o il piede.
+
+2. Selezionare il livello di stile richiesto, ad esempio \"Bibbie\".
+
+3. Premere il bug a forza di VideoPsalm una visualizzazione diapositive in stile \"Bibbie\".
+Infatti, se il bug non è premuto, VideoPsalm passa automaticamente allo stile 'Versi', non appena si visualizza un versetto.
+
+4 Visualizzare un versetto. L'area di anteprima viene visualizzato il fotogramma utilizzando lo stile 'Bibbie'.
+
+5 Modificare la dimensione e la posizione del fotogramma utilizzando il mouse.
+
+6. Rimuovere il bug, per ritornare lo stile 'Versi' VideoPsalm quando si mostrerà nuovamente una diapositiva."},{
+Key:1005412,Text:"&Copia l'un sommario del codice negli Appunti"},{
+Key:1005417,Text:"Testo"},{
+Key:1005418,Text:"Stile Explorer"},{
+Key:1005419,Text:"Visualizza o nasconde lo stile Explorer.
+In questa finestra, è possibile spostarsi tra i livelli di stili gerarchici, per reimpostare le proprietà dell'individuo e modificarli."},{
+Key:1005420,Text:"Stili"},{
+Key:1005421,Text:"Polizia"},{
+Key:1005424,Text:"Sfondo"},{
+Key:1005425,Text:"Stili"},{
+Key:1005429,Text:"Aspetto"},{
+Key:1005430,Text:"Edizione"},{
+Key:1005432,Text:"Aspetto"},{
+Key:1005433,Text:"Strumenti"},{
+Key:1005442,Text:"Passare all'elemento successivo"},{
+Key:1005443,Text:"Spegnere prima di andare"},{
+Key:1005444,Text:"Rimuovere il testo poi seguire"},{
+Key:1005445,Text:"Rimuovere il testo e poi si spegne"},{
+Key:1005446,Text:"Visualizzare insieme con l'elemento successivo (bilingue)"},{
+Key:1005447,Text:"Aggiungere la voce o l'agenda di versi selezionati (Insert o Alt + A)"},{
+Key:1005448,Text:"Fai clic qui per aggiungere la voce o i versi dell'ordine del giorno.
+
+In alternativa, è possibile trascinare e rilasciare questo pulsante del calendario al luogo che dovrebbe essere."},{
+Key:1005449,Text:"&Aggiungi"},{
+Key:1005454,Text:"Selezionare le opzioni di ricerca per canzoni per parole chiave"},{
+Key:1005455,Text:"Eliminare le parole o il numero di ricerca (ESC)"},{
+Key:1005457,Text:"Cerca una canzone (Ctrl + F)"},{
+Key:1005458,Text:"Cerca le canzoni che contengono determinate parole o hanno un numero.
+
+Ad esempio:
+
+-Per trovare la canzone n. 250, tipo «250»
+
+-Per trovare la canzone che contiene il testo della canzone <b>' come un faro nella notte \"</b>, digitare alcune parole come <b>'notte di luce'</b>.
+
+Non preoccuparti per gli accenti o segni di punteggiatura.
+
+Non c'è bisogno di prendere le parole come un intero o nell'ordine.
+
+Aggiungere altre parole della canzone per ridurre la lista dei brani trovati.
+
+Premere il tasto <b>Insert</b> per aggiungere il primo brano trovato all'ordine del giorno."},{
+Key:1005459,Text:"Non non c'è nessuna Bibbia.
+Clicca qui per avviare l'importazione guidata
+Bibbie e aggiungere Bibbie da fonti popolari."},{
+Key:1005463,Text:"Eliminare il riferimento per visualizzare (ESC)"},{
+Key:1005464,Text:"Riferimento per selezionare, ad esempio: Romani 03.23-25, 30"},{
+Key:1005465,Text:"Selezionare versi (Ctrl + F)"},{
+Key:1005472,Text:"&File:"},{
+Key:1005475,Text:"&Includere questo insieme nella ricerca di canzoni"},{
+Key:1005479,Text:"&Nome:"},{
+Key:1005481,Text:"&Abbreviazione:"},{
+Key:1005483,Text:"&Autore:"},{
+Key:1005485,Text:"&Copyright:"},{
+Key:1005487,Text:"&Documento:"},{
+Key:1005491,Text:"&Stampa il capo"},{
+Key:1005497,Text:"&Testi"},{
+Key:1005499,Text:"&Numero:"},{
+Key:1005501,Text:"&Titolo:"},{
+Key:1005505,Text:"&Riferimento:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Autore:"},{
+Key:1005511,Text:"&Compositore:"},{
+Key:1005513,Text:"&Vari"},{
+Key:1005515,Text:"&Tono:"},{
+Key:1005517,Text:"&Formato:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Sequenza:"},{
+Key:1005523,Text:"&CILCI:"},{
+Key:1005525,Text:"&Chiave:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Linea di chiave:"},{
+Key:1005531,Text:"&Nota 1:"},{
+Key:1005533,Text:"&Nota 2:"},{
+Key:1005535,Text:"&Nota 3:"},{
+Key:1005537,Text:"&Firma:"},{
+Key:1005540,Text:"&Trasposizione:"},{
+Key:1005541,Text:"Stampare il capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Ad applicare gli accordi della canzone."},{
+Key:1005555,Text:"&File:"},{
+Key:1005560,Text:"&Copyright:"},{
+Key:1005562,Text:"&Abbreviazione:"},{
+Key:1005564,Text:"&Nome:"},{
+Key:1005566,Text:"&Descrizione:"},{
+Key:1005568,Text:"&Introduzione:"},{
+Key:1005570,Text:"&Documento:"},{
+Key:1005576,Text:"&Nome:"},{
+Key:1005582,Text:"&Nome:"},{
+Key:1005584,Text:"&Introduzione:"},{
+Key:1005586,Text:"&Abbreviazione:"},{
+Key:1005587,Text:"Capitolo della Bibbia"},{
+Key:1005590,Text:"Versetto della Bibbia"},{
+Key:1005595,Text:"&Strofa:"},{
+Key:1005603,Text:"&File:"},{
+Key:1005606,Text:"Nessuna selezione"},{
+Key:1005608,Text:"Stile"},{
+Key:1005612,Text:"Rimuove il valore della proprietà"},{
+Key:1005613,Text:"Quando si elimina il valore di una proprietà, VideoPsalm utilizza il primo valore trovato nei livelli inferiori.
+
+Per esempio, se si rimuove la polizia a livello del versetto, VideoPsalm usi, in ordine e se è impostata, il tipo di carattere:
+-canto,
+-in caso contrario la raccolta,
+-Se una delle collezioni,
+-in caso contrario la base.
+
+VideoPsalm è lo stesso con Bibbie, immagini, ecc."},{
+Key:1005615,Text:"Nessuno"},{
+Key:1005616,Text:"Base"},{
+Key:1005618,Text:"Collezioni"},{
+Key:1005619,Text:"Collezione"},{
+Key:1005620,Text:"Voce"},{
+Key:1005621,Text:"Strofa"},{
+Key:1005622,Text:"Bibbie"},{
+Key:1005623,Text:"Bibbia"},{
+Key:1005624,Text:"Testamento"},{
+Key:1005625,Text:"Libro della Bibbia"},{
+Key:1005626,Text:"Capitolo"},{
+Key:1005627,Text:"Versetto"},{
+Key:1005628,Text:"Valore predefinito"},{
+Key:1005629,Text:"Valore dal corpo del testo"},{
+Key:1005630,Text:"Sinistra"},{
+Key:1005631,Text:"Centrato"},{
+Key:1005632,Text:"Destra"},{
+Key:1005633,Text:"Giustificato"},{
+Key:1005634,Text:"In alto"},{
+Key:1005635,Text:"Medio"},{
+Key:1005636,Text:"Fondo"},{
+Key:1005650,Text:"&Apri il calendario..."},{
+Key:1005651,Text:"&Aggiungi calendari..."},{
+Key:1005652,Text:"&Aggiungere immagini slideshow..."},{
+Key:1005653,Text:"&Aggiungere video autonomo..."},{
+Key:1005654,Text:"&Aggiungere alcuni PowerPoints..."},{
+Key:1005655,Text:"Quando apro un calendario:"},{
+Key:1005656,Text:"&Conservare i testi dei miei libri e bibbie"},{
+Key:1005657,Text:"&Preservare gli stili dei miei libri e bibbie"},{
+Key:1005667,Text:"&Collezioni"},{
+Key:1005668,Text:"Visualizza le collezioni (Alt + R)"},{
+Key:1005670,Text:"&Bibbie"},{
+Key:1005671,Text:"Visualizza le Bibbie (Alt + B)"},{
+Key:1005677,Text:"&Larghezza:"},{
+Key:1005680,Text:"&Sfocatura:"},{
+Key:1005681,Text:"&Profondità:"},{
+Key:1005682,Text:"&Direzione:"},{
+Key:1005686,Text:"Visualizza un schermata vuota, nero colore.
+Simula l'estinzione del proiettore."},{
+Key:1005687,Text:"Successivo"},{
+Key:1005688,Text:"Avanzare alla diapositiva successiva."},{
+Key:1005689,Text:"Spegnere lo schermo (Ctrl + W)"},{
+Key:1005690,Text:"Visualizzare il testo (Ctrl + T)"},{
+Key:1005691,Text:"Mostra o nasconde il testo su una diapositiva."},{
+Key:1005692,Text:"Scudo (Ctrl + B)"},{
+Key:1005693,Text:"Conserva la voce essendo diapositive di proiezione video.
+
+Per lavorare sull'agenda o la ricerca di una canzone o un versetto durante la proiezione dei video di canto.
+
+Per eseguire l'override dello scudo, fare doppio clic su un elemento dell'ordine del giorno."},{
+Key:1005694,Text:"Congelare"},{
+Key:1005695,Text:"Blocca schermo di proiezione video senza congelamento l'area di anteprima.
+
+Per visualizzare in anteprima la presentazione durante la proiezione dei video."},{
+Key:1005696,Text:"Progetto (Ctrl + P)"},{
+Key:1005697,Text:"Proiettate diapositive sul proiettore."},{
+Key:1005698,Text:"Modalità 'Edition' (Ctrl + E)"},{
+Key:1005699,Text:"Interruttori da \"Spettatore\" alla modalità \"Modifica\" o viceversa."},{
+Key:1005702,Text:"Aprire un documento o un calendario"},{
+Key:1005703,Text:"Si apre un calendario, o aggiungere una presentazione di PowerPoint, immagini per una presentazione, video, ecc."},{
+Key:1005704,Text:"Salvare il calendario"},{
+Key:1005705,Text:"Eliminare"},{
+Key:1005706,Text:"Rimuove gli elementi selezionati nell'agenda (delete)."},{
+Key:1005707,Text:"Monte (Ctrl + PGSU)"},{
+Key:1005708,Text:"Monte dell'elemento all'inizio dell'agenda."},{
+Key:1005709,Text:"Giù (Ctrl + PGGIÙ)"},{
+Key:1005710,Text:"Giù l'elemento verso la fine dell'agenda."},{
+Key:1005711,Text:"Luminosità"},{
+Key:1005712,Text:"Apri calendario"},{
+Key:1005713,Text:"Salva l'agenda del disco o una chiave USB."},{
+Key:1005721,Text:"Seleziona i versi di loro riferimento.
+<i>Esempio: Romani 03.23-25, 30</i>
+
+Non inserire gli accenti nei nomi dei libri.
+<i>Esempio: ' n<b>e</b>h<b>e</b>mie' piuttosto che \"N<b>é</b>mie h<b>é</b>\".</i>
+
+Immettere un <b>': '</b>, un <b>\".\"</b> o un <b>'v'</b> per separare i capitoli dei versi.
+
+Premere il tasto <b>'Inserisci'</b> per aggiungere i versetti selezionati all'ordine del giorno."},{
+Key:1005722,Text:"Commenti (non tradurre, per lasciare in inglese)"},{
+Key:1005723,Text:"Impossibile scrivere il file.
+{0} :
+{1}."},{
+Key:1005724,Text:"Errore"},{
+Key:1005725,Text:"Impossibile leggere il file.
+{0} :
+{1}."},{
+Key:1005730,Text:"Sei sicuro di che voler rimuovere lo stile delle immagini slideshow?
+Lo stile di presentazione immagini avrà un valore standard."},{
+Key:1005731,Text:"Sei sicuro di che voler rimuovere lo stile di base?
+Lo stile di base avrà un valore standard."},{
+Key:1005732,Text:"Sei sicuro di che voler rimuovere lo stile delle collezioni?
+Lo stile delle collezioni avrà un valore standard."},{
+Key:1005733,Text:"Sei sicuro di che voler rimuovere stile Bibbie?
+Lo stile delle bibbie avrà un valore standard."},{
+Key:1005734,Text:"Sei sicuro di che voler eliminare questo stile?
+VideoPsalm applicare gli attributi di stile trovati inferiori nella gerarchia."},{
+Key:1005735,Text:"Stile chiaro"},{
+Key:1005736,Text:"Sei sicuro di che voler rimuovere lo stile dei video?
+Lo stile dei video avrà un valore standard."},{
+Key:1005737,Text:"Una collezione"},{
+Key:1005738,Text:"Nessuna collezione"},{
+Key:1005739,Text:"Una Bibbia"},{
+Key:1005740,Text:"Nessuna Bibbia"},{
+Key:1005743,Text:"Ingrandire il font (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Aumenta la dimensione del carattere."},{
+Key:1005745,Text:"Ridurre il carattere (Ctrl + Maiusc +,)"},{
+Key:1005746,Text:"Riduce la dimensione del carattere."},{
+Key:1005747,Text:"Grassetto (Ctrl + B)"},{
+Key:1005748,Text:"Mettere il testo selezionato in grassetto."},{
+Key:1005749,Text:"Corsivo (Ctrl + I)"},{
+Key:1005750,Text:"Mettere il testo selezionato in corsivo."},{
+Key:1005751,Text:"Sottolineato (Ctrl + U)"},{
+Key:1005752,Text:"Sottolineare il testo selezionato."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Disegna una linea nel mezzo del testo selezionato."},{
+Key:1005755,Text:"Mostra / Nascondi ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Consente di visualizzare i segni di paragrafo e altri nascosti simboli di formattazione."},{
+Key:1005757,Text:"Colore del carattere"},{
+Key:1005758,Text:"Cambiare il colore del testo."},{
+Key:1005759,Text:"Colore del testo"},{
+Key:1005760,Text:"Dà un colore al testo."},{
+Key:1005761,Text:"Cancellare la formattazione (Ctrl + spazio)"},{
+Key:1005762,Text:"Completamente cancella la formattazione della selezione e conserva solo il testo normale."},{
+Key:1005763,Text:"Annulla (Ctrl + Z)"},{
+Key:1005764,Text:"Annulla l'ultima operazione."},{
+Key:1005765,Text:"Redo (Ctrl + Y)"},{
+Key:1005766,Text:"Ripete l'ultima operazione."},{
+Key:1005767,Text:"Taglia (Ctrl + X)"},{
+Key:1005768,Text:"Tagliare la selezione e inserirlo negli Appunti."},{
+Key:1005769,Text:"Copia (Ctrl + C)"},{
+Key:1005770,Text:"Copia la selezione e lo inserisce negli Appunti."},{
+Key:1005771,Text:"Incolla (Ctrl + V)"},{
+Key:1005772,Text:"Consente di incollare il contenuto degli Appunti."},{
+Key:1005773,Text:"Ricerca (Ctrl + F)"},{
+Key:1005774,Text:"Cercare il testo nel documento."},{
+Key:1005775,Text:"Sostituire (Ctrl + H)"},{
+Key:1005776,Text:"Sostituisce il testo nel documento."},{
+Key:1005777,Text:"Ingrandire"},{
+Key:1005778,Text:"Visualizza tutti"},{
+Key:1005779,Text:"Per modificare un versetto specifico, fai clic sulla sua slitta."},{
+Key:1005780,Text:"Selezione di versi"},{
+Key:1005781,Text:"Ordina la raccolta selezionata di loro canzoni titolo."},{
+Key:1005782,Text:"Chiude l'agenda attuale (e chiede la conferma se ci sono non sono state salvate le modifiche)."},{
+Key:1005783,Text:"Regola la luminosità dell'immagine o dei precedenti.
+
+Permette l'evidenziazione di testo, anche su uno sfondo di barriole."},{
+Key:1005784,Text:"&Copiare una descrizione dell'agenda"},{
+Key:1005785,Text:"&Includono i testi delle canzoni"},{
+Key:1005786,Text:"&Includono i versetti biblici"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Apre la pagina di facebook VideoPsalm.
+
+Far sapere VideoPsalm intorno a te:
+-cliccando sul pulsante \"mi piace\"
+-diventando suo amico.
+
+<b>Nota:</b> Per eliminare la pubblicità in Facebook, installare il plugin gratuito <b>Adblock Plus</b>.
+
+Per nascondere le icone sociale VideoPsalm, disabilitarle nella scheda di \"Général\" → \"Opzioni\"."},{
+Key:1005791,Text:"Apre la pagina di Twitter di VideoPsalm, di essere informato sui nuovi articoli dal Blog.
+
+Per nascondere le icone sociale VideoPsalm, disabilitarle nella scheda di \"Général\" → \"Opzioni\"."},{
+Key:1005792,Text:"Apre la pagina di VideoPsalm YouTube, dove troverete video tutorial sull'uso di VideoPsalm.
+
+Per nascondere le icone sociale VideoPsalm, disabilitarle nella scheda di \"Général\" → \"Opzioni\"."},{
+Key:1005793,Text:"Aggiunge una nuova canzone vuota (o un annuncio) per la raccolta selezionata."},{
+Key:1005794,Text:"Aggiunge un nuovo insieme vuoto."},{
+Key:1005795,Text:"Ordina le canzoni della raccolta selezionata dal loro numero."},{
+Key:1005800,Text:"Strofa"},{
+Key:1005801,Text:"Coro"},{
+Key:1005802,Text:"Attessa"},{
+Key:1005803,Text:"Ponte"},{
+Key:1005804,Text:"Etichetta"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Uscita"},{
+Key:1005807,Text:"Slip"},{
+Key:1005808,Text:"Strumentale"},{
+Key:1005809,Text:"Altri"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"IO"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Chiudere"},{
+Key:1005851,Text:"&Lingua:"},{
+Key:1005852,Text:"&Editore:"},{
+Key:1005853,Text:"Tutti i"},{
+Key:1005859,Text:"Recepire gli accordi della canzone a seconda della posizione del capodiastre."},{
+Key:1005860,Text:"Trovare le canzoni tra cui il titolo (o alias) o i testi contengono le parole che immesse.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005861,Text:"Esegue una ricerca in due fasi, che il vantaggio di Visualizza velocemente un breve elenco di canzoni:
+
+1 Trovare in una prima volta le canzoni tra cui il titolo (o alias) contiene le parole che si immettono.
+
+Che si aggiungono parole, c'è un momento dove la maggior parte qualsiasi canzone può essere d'accordo.
+
+2. Da questo punto, VideoPsalm cerca le parole nei testi delle canzoni.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005862,Text:"Trovare canzoni di cantautori che si entra.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005863,Text:"Trovare canzoni che trattano argomenti in cui si entra.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005864,Text:"Trovare le canzoni ispirate da riferimenti biblici che si immettono.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005865,Text:"È la canzone che ha il CCLI si entra.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005866,Text:"Trovare canzoni cui copyright contiene le parole che si immettono.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005867,Text:"Trovare canzoni cui memo 1 contiene le parole che si immettono.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005868,Text:"Trovare canzoni cui memo 2 contiene le parole che si immettono.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005869,Text:"Trovare memo canzoni 3 che contengono le parole che immesse.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005870,Text:"Trovare canzoni il cui titolo o alias contiene le parole che si immettono.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005871,Text:"Trovare le canzoni che hanno accordi nei testi.
+
+In alternativa, è possibile cercare una canzone dal suo numero."},{
+Key:1005872,Text:"&Versione di:"},{
+Key:1005873,Text:"&Versione di:"},{
+Key:1005874,Text:"Data della vostra versione di raccolta"},{
+Key:1005875,Text:"Indica la data in cui questa raccolta è stata aggiornata da VideoPsalm per l'ultima volta.
+
+Tramite la libreria online VideoPsalm importazione guidata, è possibile verificare se c'è una versione più recente di questo manuale.
+
+VideoPsalm on-line gli aggiornamenti a volte alcune collezioni, per correggere ad esempio eventuali errori di battitura."},{
+Key:1005876,Text:"Data della versione della Bibbia di"},{
+Key:1005877,Text:"Indica la data in cui questa Bibbia è stata aggiornata da VideoPsalm per l'ultima volta.
+
+Via il VideoPsalm libreria on-line importazione guidata, è possibile controllare se c'è una versione più recente di questa traduzione.
+
+VideoPsalm on-line gli aggiornamenti a volte alcune Bibbie, per correggere ad esempio eventuali errori di battitura."},{
+Key:1005878,Text:"Compressa"},{
+Key:1005879,Text:"Compressa"},{
+Key:1005880,Text:"VideoPsalm può comprimere le vostre collezioni e la Bibbia, così risparmiare spazio su disco.
+
+Libri e Bibbie che si scarica tramite la procedura guidata di importazione sono tipicamente compresso, in modo da accelerare il download e per ridurre il traffico internet sul sito VideoPsalm."},{
+Key:1005881,Text:"&Compressa"},{
+Key:1005882,Text:"&Compressa"},{
+Key:1005884,Text:"Vuoi veramente eliminare la Bibbia '{0}'?
+
+Il file corrispondente a questa Bibbia non verrà eliminato dal disco:
+la sua estensione sarà rinominata \".ignore."},{
+Key:1005885,Text:"Eliminare una Bibbia"},{
+Key:1005886,Text:"Si prega di attendere per favore"},{
+Key:1005887,Text:"Caricamento in corso..."},{
+Key:1005888,Text:"Antico Testamento"},{
+Key:1005889,Text:"Nuovo Testamento"},{
+Key:1005890,Text:"Record corrente..."},{
+Key:1005891,Text:"&Importare immagini"},{
+Key:1005892,Text:"Selezionare le immagini che si desidera importare e quindi fare clic su 'Apri'."},{
+Key:1005893,Text:"Hai importato {0} frame (s)."},{
+Key:1005894,Text:"Nessuna foto è stata importata.
+(Lei (s) è trovata (s) in galleria)."},{
+Key:1005895,Text:"&Ricreare le miniature"},{
+Key:1005896,Text:"Ricreare le miniature"},{
+Key:1005897,Text:"Si desidera ricreare le miniature?
+
+Può essere necessario ricreare le miniature delle immagini
+Quando sono state apportate modifiche di fuori VideoPsalm."},{
+Key:1005898,Text:"&Eliminare l'immagine"},{
+Key:1005899,Text:"Rimuovere un'immagine"},{
+Key:1005900,Text:"Vuoi davvero eliminare l'immagine '{0}'?"},{
+Key:1005901,Text:"&Esplorate la cartella immagini"},{
+Key:1005902,Text:"&Eliminare l'immagine selezionata"},{
+Key:1005903,Text:"&Importare i video"},{
+Key:1005904,Text:"Selezionare i video che si desidera importare e quindi fare clic su 'Apri'."},{
+Key:1005905,Text:"Hai importato {0} video (s)."},{
+Key:1005906,Text:"Nessun video è stato importato.
+(Lei (s) è trovata (s) in galleria)."},{
+Key:1005907,Text:"&Ricreare le miniature"},{
+Key:1005908,Text:"&Eliminare il video"},{
+Key:1005909,Text:"Eliminare un video"},{
+Key:1005910,Text:"Vuoi veramente eliminare il video '{0}'?"},{
+Key:1005911,Text:"&Esplorate la cartella video"},{
+Key:1005912,Text:"&Eliminare il video selezionato"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Importazione di immagini"},{
+Key:1005915,Text:"Importare i video"},{
+Key:1005917,Text:"Impossibile creare la cartella
+{0} :
+{1}."},{
+Key:1005918,Text:"La cartella specificata non ha il supporto:
+{0}"},{
+Key:1005919,Text:"La cartella deve essere compilata."},{
+Key:1005920,Text:"Un nome di cartella non può contenere i seguenti caratteri:
+{0}"},{
+Key:1005921,Text:"Ripristinare i libri e bibbie"},{
+Key:1005922,Text:"Per ripristinare le collezioni, Bibbie, immagini o video, ad esempio da un backup su un USB stick."},{
+Key:1005923,Text:"Chiudere"},{
+Key:1005930,Text:"&Copiare la canzone a"},{
+Key:1005931,Text:"&Spostare il brano a"},{
+Key:1005932,Text:"Davvero vuole copiare la canzone '{0}'.
+per la collezione '{1}'?"},{
+Key:1005933,Text:"Vuoi davvero passare la canzone '{0}'.
+per la collezione '{1}'?"},{
+Key:1005934,Text:"&Inserire i riferimenti tramite le abbreviazioni"},{
+Key:1005935,Text:"&Visualizzare il nome di libri in francese"},{
+Key:1005936,Text:"(Copia)"},{
+Key:1005937,Text:"Un nuovo libro è disponibile:
+{0}"},{
+Key:1005938,Text:"Nuove collezioni sono disponibili: {0}"},{
+Key:1005939,Text:"Le correzioni sono state fatte
+la collezione '{0}'."},{
+Key:1005940,Text:"Le correzioni sono state fatte
+codici: {0}"},{
+Key:1005941,Text:"Aprire il procedura guidata di importazione di collezioni"},{
+Key:1005942,Text:"Una nuova Bibbia è disponibile:
+{0}"},{
+Key:1005943,Text:"Nuove bibbie sono disponibili: {0}"},{
+Key:1005944,Text:"Le correzioni sono state fatte
+la Bibbia '{0}'."},{
+Key:1005945,Text:"Le correzioni sono state fatte
+nelle bibbie seguente: {0}"},{
+Key:1005946,Text:"Aprire la procedura guidata per l'importazione di Bibbie"},{
+Key:1005947,Text:"VideoPsalm è nuovamente disponibile
+in: {0}"},{
+Key:1005948,Text:"VideoPsalm è appena disponibile in: {0}"},{
+Key:1005949,Text:"Le correzioni sono state fatte
+le etichette: {0}"},{
+Key:1005950,Text:"Le correzioni sono state fatte
+le etichette delle lingue seguenti: {0}"},{
+Key:1005951,Text:"Aprire l'importazione della creazione guidata etichetta"},{
+Key:1005952,Text:"Una versione più recente
+VideoPsalm è disponibile:"},{
+Key:1005953,Text:"Visualizzazione notizie"},{
+Key:1005954,Text:"Automatico"},{
+Key:1005955,Text:"Esplorate la cartella selezionata"},{
+Key:1005956,Text:"Scegliere una cartella"},{
+Key:1005957,Text:"Visualizzare i file recenti"},{
+Key:1005958,Text:"Salva"},{
+Key:1005959,Text:"Permette di salvare le raccolte, Bibbie, immagini o video, o fare una versione portatile di VideoPsalm, ad esempio su una chiavetta USB."},{
+Key:1005960,Text:"&Ripristinare..."},{
+Key:1005961,Text:"VideoPsalm è in grado di visualizzare documenti PowerPoint.
+
+(Nessuna applicazione tipo PowerPoint è stata rilevata sul vostro PC)."},{
+Key:1005962,Text:"Errore PowerPoint"},{
+Key:1005963,Text:"Rendere {0} modificabile nella raccolta '{1}'."},{
+Key:1005964,Text:"Rendere {0} modificabile nell'insieme..."},{
+Key:1005965,Text:"Rendere {0} modificabile nella nuova collezione '{1}'."},{
+Key:1005966,Text:"Brani biblici"},{
+Key:1005967,Text:"&Personalizzato passaggi della Bibbia"},{
+Key:1005968,Text:"&Descrizione:"},{
+Key:1005969,Text:"&Lingua:"},{
+Key:1005970,Text:"&Editore:"},{
+Key:1005971,Text:"&Amministratore:"},{
+Key:1005973,Text:"&Amministratore:"},{
+Key:1005974,Text:"Sopra il testo"},{
+Key:1005975,Text:"Accordi sopra il testo"},{
+Key:1005976,Text:"Questa è la modalità consigliata per modificare il testo della canzone.
+Quando si modifica il testo, ogni accordo si muove con la lettera a cui è ancorata.
+
+Quando si <b>Copia testo contenente gli accordi</b>, gli accordi vengono copiati con testo, il formato ChordPro.
+
+Quando si incolla il testo che contiene gli accordi in formato ChordPro, VideoPsalm visualizza questi accordi sopra il testo.
+
+<b>Per aggiungere un accordo</b>, inserto sinistra della lettera che si desidera ancorarla, circondandolo con tra parentesi <b>[]</b>.
+
+<b>Per eliminare un accordo</b>, cancellare la lettera a cui è ancorata e quindi digitare di nuovo la lettera.
+
+<b>Per modificare un contratto</b>, eliminare poi inserirlo correttamente (o utilizzare la modalità \" <b>Formato ChordPro</b> \")."},{
+Key:1005977,Text:"Formato ChordPro"},{
+Key:1005978,Text:"Accordi in formato ChordPro"},{
+Key:1005979,Text:"In questo modo:
+
+VideoPsalm - Visualizza i testi e gli accordi con il <b>formato ChordPro</b>.
+
+-È il modo ideale per la modifica degli accordi: VideoPsalm aggiunge automaticamente tra parentesi [] intorno al testo da immettere.
+Ad esempio, per aggiungere una corda c, tipo «Fare» e VideoPsalm inserire \"[Do]\".
+
+Attenzione: questa modalità non è adatta per l'editing di testi, perché a seconda dei casi, VideoPsalm circonda le lettere dei ganci.
+Utilizzare piuttosto '<b>sopra il testo</b>' modalità per modificare il testo."},{
+Key:1005980,Text:"Accordi"},{
+Key:1005981,Text:"Copia"},{
+Key:1005982,Text:"Copia una descrizione del calendario e inserirlo negli Appunti."},{
+Key:1005983,Text:"&Permettono di utilizzare \"presentatore\" di PowerPoint."},{
+Key:1005984,Text:"Quando questa casella è selezionata, VideoPsalm foglie PowerPoint visualizzano l'interfaccia di comando per guidare l'avanzamento della presentazione."},{
+Key:1005985,Text:"Sfoglia una volta"},{
+Key:1005986,Text:"Loop"},{
+Key:1005987,Text:"Avanzare manualmente"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Avanzamento automatico..."},{
+Key:1005990,Text:"&Avanzare manualmente"},{
+Key:1005991,Text:"&Loop"},{
+Key:1005992,Text:"&Sfoglia una volta"},{
+Key:1005993,Text:"&Intervallo (secondi):"},{
+Key:1005994,Text:"&Fare scomparire il testo e poi si spegne"},{
+Key:1005995,Text:"&Follow-up con l'elemento successivo"},{
+Key:1005996,Text:"&Spegnere prima di andare"},{
+Key:1005997,Text:"&Seguire poi scomparendo testo"},{
+Key:1005998,Text:"&Visualizzare insieme con l'elemento successivo (bilingue)"},{
+Key:1005999,Text:"&Esplora"},{
+Key:1006000,Text:"Importazione guidata"},{
+Key:1006001,Text:"Benvenuti all'importazione di libri, Bibbie, immagini e video Wizard"},{
+Key:1006002,Text:"Questa procedura guidata semplifica l'importazione di libri, Bibbie, immagini e video dalla libreria on-line VideoPsalm o formati popolari guidandovi attraverso una serie di passaggi."},{
+Key:1006003,Text:"Fare clic su avanti per continuare"},{
+Key:1006004,Text:"&Scegliere..."},{
+Key:1006005,Text:"&Successivo &gt;"},{
+Key:1006006,Text:"&&lt; Precedente"},{
+Key:1006007,Text:"&Guida"},{
+Key:1006008,Text:"&Finitura"},{
+Key:1006009,Text:"&Abbandono"},{
+Key:1006010,Text:"È possibile importare libri, Bibbie, immagini o video"},{
+Key:1006011,Text:"Scegli cosa vuoi importare"},{
+Key:1006012,Text:"Importare un insieme"},{
+Key:1006013,Text:"Importare una Bibbia"},{
+Key:1006014,Text:"Importare immagini"},{
+Key:1006015,Text:"Importare i video"},{
+Key:1006016,Text:"Importare una lingua"},{
+Key:1006020,Text:"&Inizializzare"},{
+Key:1006021,Text:"Inizializza la cartella a un valore standard"},{
+Key:1006023,Text:"Riassunto prima dell'importazione"},{
+Key:1006024,Text:"Fare clic su avanti per avviare l'importazione"},{
+Key:1006025,Text:"Importazione corrente"},{
+Key:1006026,Text:"Importazione è completo"},{
+Key:1006027,Text:"Per chiudere la procedura guidata, fare clic su fine
+
+Fare clic su indietro per importare un'altra raccolta o una altra Bibbia"},{
+Key:1006029,Text:"Hai {0} importato con successo canzoni in insiemi {1}."},{
+Key:1006030,Text:"Hai {0} importato con successo canzoni della nuova collezione '{1}'."},{
+Key:1006031,Text:"Hai importato la '{0}' Bibbia con successo."},{
+Key:1006032,Text:"Hai importato {0} Bibbie con successo."},{
+Key:1006033,Text:"Hai importato la lingua '{0}' con successo."},{
+Key:1006034,Text:"{0} Lingue sono stati importati correttamente."},{
+Key:1006035,Text:"Si desidera interrompere l'importazione?"},{
+Key:1006036,Text:"Importazione non è stata completata correttamente."},{
+Key:1006037,Text:"Immettere un nome per questa nuova collezione di VideoPsalm"},{
+Key:1006038,Text:"La nuova collezione sarà salvata sotto questo nome. Questo nome può essere cambiato successivamente"},{
+Key:1006039,Text:"&Nome da dare all'insieme:"},{
+Key:1006040,Text:"Dare un nome a questa nuova Bibbia di VideoPsalm"},{
+Key:1006041,Text:"La nuova Bibbia verrà salvata sotto questo nome. Questo nome può essere cambiato successivamente"},{
+Key:1006042,Text:"&Nome da dare alla Bibbia:"},{
+Key:1006051,Text:"Selezionare collezioni"},{
+Key:1006052,Text:"Selezionare Bibbie"},{
+Key:1006053,Text:"Selezionare un file."},{
+Key:1006054,Text:"Selezionare una cartella"},{
+Key:1006055,Text:"&File:"},{
+Key:1006056,Text:"&File:"},{
+Key:1006057,Text:"Selezionare lingue"},{
+Key:1006058,Text:"La cartella '{0}' non esiste."},{
+Key:1006060,Text:"Non è possibile accedere alla cartella '{0}'.
+
+{1}."},{
+Key:1006061,Text:"Il file '{0}' non esiste."},{
+Key:1006062,Text:"Attenzione: Il caricamento di molte collezioni può riempire la memoria del PC e rallentare la ricerca di canzoni.
+Davvero scaricare tu collezioni {0}?"},{
+Key:1006063,Text:"Attenzione: Il caricamento di molte Bibbie può riempire la memoria del PC.
+Davvero scaricare si {0} Bibbie?"},{
+Key:1006064,Text:"Il nuovo nome non può essere vuoto."},{
+Key:1006065,Text:"Il nuovo nome non può contenere i seguenti characters:: {0}"},{
+Key:1006066,Text:"C'è già una collezione con il nome '{0}'."},{
+Key:1006067,Text:"C'è già una Bibbia con il nome '{0}'."},{
+Key:1006068,Text:"Si fermò all'importazione."},{
+Key:1006069,Text:"Controllare la connessione a internet."},{
+Key:1006070,Text:"Disponibile dal {0}"},{
+Key:1006071,Text:"Nuova versione disponibile poiché il {0}"},{
+Key:1006072,Text:"La versione risale il {0}"},{
+Key:1006073,Text:"La versione di {0} è aggiornata."},{
+Key:1006074,Text:"Titolo"},{
+Key:1006075,Text:"Stato"},{
+Key:1006076,Text:"Non scaricato"},{
+Key:1006077,Text:"Aggiornamento"},{
+Key:1006078,Text:"Aggiornamento disponibile"},{
+Key:1006079,Text:"Nuovo"},{
+Key:1006080,Text:"Nuovo aggiornamento disponibile"},{
+Key:1006081,Text:"Nessun insieme è selezionata.
+È necessario selezionare almeno un insieme."},{
+Key:1006082,Text:"Nessuna Bibbia è selezionata.
+È necessario selezionare almeno una Bibbia."},{
+Key:1006083,Text:"Nessuna lingua è selezionata.
+È necessario selezionare almeno una lingua."},{
+Key:1006084,Text:"Codice"},{
+Key:1006085,Text:"Source file <b>: {0}</b>"},{
+Key:1006086,Text:"Cartella di origine:
+<b>{0}</b>"},{
+Key:1006087,Text:"Documento di ricerca"},{
+Key:1006090,Text:"Nome dato per la nuova Bibbia di VideoPsalm: <b>: {0}</b>"},{
+Key:1006091,Text:"Per la nuova collezione di VideoPsalm: name: <b>: {0}</b>"},{
+Key:1006095,Text:"Nella biblioteca di VideoPsalm online, capita che alcuni documenti vengono aggiunti o aggiornati (ad esempio per correggere un errore di battitura).
+A seconda dello stato dei documenti di cui sopra, si può decidere se scaricarli o meno.
+
+<b>Ecco come distinguere lo stato dei documenti:</b>
+-I documenti che avete scaricato non vengono visualizzati nel normale.
+-I documenti che hanno caricato e vengono aggiornati sono indicati in <i>corsivo</i>. Sono contrassegnati con un <image=check_16>OK.
+Non è necessario ri - scaricare, tranne nel caso in cui si desidera annullare tutte le modifiche che avete fatto.
+-I documenti che hai caricato e che nel frattempo abbiamo fatto le correzioni nella libreria on-line VideoPsalm, vengono visualizzati in <b>grassetto</b>. Sono contrassegnati con una matita <image=pencil2_16>.
+
+La casella di testo a destra descrive quali correzioni sono state apportate al documento: questo può aiutare a decidere se si desidera ri - scaricare.
+
+<b>Attenzione:</b> Se si aggiorna il tuo documento in ri-caricamento, perderai tutte le modifiche che hai fatto, così come il suo stile gli attributi perché VideoPsalm tuo che sostituisce il download.
+Il tuo file non viene eliminato, tuttavia: rimane sul disco, ma diventa invisibile in VideoPsalm perché VideoPsalm Rinomina la sua espansione in .ignore.
+
+<b>Consiglio</b> : Scarica solo i documenti che ti saranno utili.
+In effetti, se hai troppi documenti, carico di VideoPsalm diventerà forse più lento, proprio come la ricerca per parola chiave.
+
+Si noti che è possibile in qualsiasi momento rimuovere un libro o una Bibbia del vostro VideoPsalm. Per fare questo, utilizzare il pulsante ' <image=delete2_16>eliminare ' nella scheda 'Edizione'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Cronologia delle modifiche a '{0}'."},{
+Key:1006100,Text:"Collezioni della biblioteca di VideoPsalm online"},{
+Key:1006105,Text:"EasySlides canzoni"},{
+Key:1006110,Text:"MediaShout canzoni"},{
+Key:1006115,Text:"OpenLP canzoni"},{
+Key:1006116,Text:"VerseView canzoni"},{
+Key:1006120,Text:"Le canzoni nel formato 'OpenLyrics'."},{
+Key:1006125,Text:"OpenSong canzoni"},{
+Key:1006130,Text:"Una raccolta di Psalmo"},{
+Key:1006131,Text:"Una collezione in formato testo"},{
+Key:1006132,Text:"Canzoni di EasyWorship 2009"},{
+Key:1006133,Text:"Canzoni in formato \"ChordPro\"."},{
+Key:1006134,Text:"Canzoni di WebAsaph"},{
+Key:1006135,Text:"Canzoni in formato «CETTA."},{
+Key:1006140,Text:"Bibbie dalla libreria di VideoPsalm online"},{
+Key:1006145,Text:"Un Database di Bibbia Bibbia"},{
+Key:1006150,Text:"Una Bibbia di OpenLP"},{
+Key:1006155,Text:"Una Bibbia di OpenSong"},{
+Key:1006160,Text:"Una Bibbia di Unbound Bible"},{
+Key:1006165,Text:"Una Bibbia Zefania"},{
+Key:1006166,Text:"Una Bibbia di EasySlides"},{
+Key:1006167,Text:"Una Bibbia in formato \"Osis\"."},{
+Key:1006168,Text:"Una Bibbia nei libri formato «USFM» (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Selezionare le raccolte della biblioteca di VideoPsalm online che si desidera importare nel tuo VideoPsalm"},{
+Key:1006185,Text:"Selezionare un database di EasySlides contenente le canzoni che si desidera importare nel vostro VideoPsalm (file con estensione mdb)"},{
+Key:1006190,Text:"Selezionare un database di MediaShout contenente le canzoni che si desidera importare nel vostro VideoPsalm (file con estensione mdb)"},{
+Key:1006195,Text:"Selezionare un database di OpenLP contenente le canzoni che si desidera importare nel vostro VideoPsalm (file di estensione .sqlite)"},{
+Key:1006196,Text:"Selezionare un database di VerseView contenente le canzoni che si desidera importare nel vostro VideoPsalm (file di estensione DB)"},{
+Key:1006200,Text:"Selezionare una cartella che contiene canzoni in formato 'OpenLyrics' che si desidera importare nel vostro VideoPsalm (file di estensione. Xml)"},{
+Key:1006205,Text:"Selezionare una cartella contenente canzoni OpenSong che si desidera importare nel vostro VideoPsalm (i file senza estensione)"},{
+Key:1006210,Text:"Selezionare un Psalmo compendio RTF formato esportato che si desidera importare nel vostro VideoPsalm (estensione file. rtf)"},{
+Key:1006211,Text:"Seleziona una collezione in formato testo che si desidera importare nel vostro VideoPsalm (file di estensione. txt)"},{
+Key:1006212,Text:"Selezionare un database di EasyWorship 2009 contenente i brani che si desidera importare nel vostro VideoPsalm (estensione file. DB)"},{
+Key:1006213,Text:"Selezionare una cartella che contiene canzoni in formato ChordPro che si desidera importare nel vostro VideoPsalm (file di estensione .chordpro, .chopro, CRD o .cho)"},{
+Key:1006214,Text:"Selezionare un database di WebAsaph contenente le canzoni che si desidera importare nel vostro VideoPsalm (.ltc di estensione di file)"},{
+Key:1006215,Text:"Selezionare una cartella che contiene canzoni in formato CETTA da importare nel vostro VideoPsalm (file di estensione .usr)"},{
+Key:1006220,Text:"Selezionare bibbie della libreria on-linea VideoPsalm che si desidera importare nel tuo VideoPsalm"},{
+Key:1006225,Text:"Selezionare una Bibbia della Bibbia Database si desidera importare nel vostro VideoPsalm (file di estensione. txt)"},{
+Key:1006230,Text:"Selezionare una Bibbia di OpenLP, si desidera importare nel vostro VideoPsalm (file di estensione .sqlite)"},{
+Key:1006235,Text:"Selezionare una Bibbia di OpenSong si desidera importare nel vostro VideoPsalm (file senza estensione)"},{
+Key:1006240,Text:"Selezionare una Bibbia di Unbound Bible, si desidera importare nel vostro VideoPsalm (file di estensione. txt)"},{
+Key:1006245,Text:"Selezionare una Bibbia Zefania che si desidera importare nel vostro VideoPsalm (file di estensione. Xml)"},{
+Key:1006247,Text:"Selezionare una Bibbia di EasySlides si desidera importare nel vostro VideoPsalm (file con estensione mdb)"},{
+Key:1006248,Text:"Selezionare una Bibbia in formato \"Osis\" da importare nel vostro VideoPsalm (estensione. xml, .osi o .osis.)"},{
+Key:1006249,Text:"Selezionare i libri di una Bibbia \"USFM\" formato da importare nel vostro VideoPsalm (file estensione di .sfm o .usfm)"},{
+Key:1006252,Text:"Selezionare lingue della libreria on-linea VideoPsalm che si desidera importare nel tuo VideoPsalm"},{
+Key:1006255,Text:"Importare <b>{0} insieme (s) della biblioteca di VideoPsalm online</b> :
+{1}."},{
+Key:1006260,Text:"Importazione <b>EasySlides canzoni</b>"},{
+Key:1006265,Text:"Importare <b>le canzoni di MediaShout</b>"},{
+Key:1006270,Text:"Importazione <b>di OpenLP canzoni</b>"},{
+Key:1006271,Text:"Importazione <b>VerseView canzoni</b>"},{
+Key:1006275,Text:"Importare <b>brani in formato «OpenLyrics»</b>"},{
+Key:1006280,Text:"Importazione <b>della canzone OpenSong</b>"},{
+Key:1006285,Text:"Importare <b>un insieme di Psalmo</b>"},{
+Key:1006286,Text:"Importare <b>un insieme di testo</b>"},{
+Key:1006287,Text:"<b>Importare le canzoni di EasyWorship 2009</b>"},{
+Key:1006288,Text:"Importazione <b>di brani in formato ChordPro</b>"},{
+Key:1006289,Text:"Importare <b>le canzoni di WebAsaph</b>"},{
+Key:1006290,Text:"Importare il <b>formato CETTA canzoni</b>"},{
+Key:1006295,Text:"Importare <b>{0} Bibbia (s) dalla biblioteca del VideoPsalm on-line</b> :
+{1}."},{
+Key:1006300,Text:"Importare <b>una Bibbia della Bibbia Database</b>"},{
+Key:1006305,Text:"Importare <b>una Bibbia di OpenLP</b>"},{
+Key:1006310,Text:"Importare <b>una Bibbia di OpenSong</b>"},{
+Key:1006315,Text:"Importare <b>una Bibbia di Unbound Bible</b>"},{
+Key:1006320,Text:"Importare <b>Una Bibbia Zefania</b>"},{
+Key:1006321,Text:"Importare <b>Una Bibbia EasySlides</b>"},{
+Key:1006322,Text:"Importare <b>una Bibbia in formato \"Osis\"</b>"},{
+Key:1006323,Text:"Importare <b>una Bibbia in formato «USFM»</b>"},{
+Key:1006325,Text:"Importare <b>{0} lingua (s) della biblioteca di VideoPsalm online</b> :
+{1}."},{
+Key:1006340,Text:"Selezionare un database di EasySlide"},{
+Key:1006345,Text:"Selezionare un database MediaShout"},{
+Key:1006350,Text:"Selezionare un database di OpenLP"},{
+Key:1006351,Text:"Selezionare un database di VerseView"},{
+Key:1006355,Text:"Selezionare una cartella che contiene canzoni nel formato 'OpenLyrics'."},{
+Key:1006360,Text:"Selezionare una cartella che contiene canzoni di OpenSong"},{
+Key:1006365,Text:"Selezionare un file RTF contenente esportati Psalmo canzoni"},{
+Key:1006366,Text:"Selezionare un file contenente brani in formato testo"},{
+Key:1006367,Text:"Selezionare un database di EasyWorship 2009"},{
+Key:1006368,Text:"Selezionare una cartella che contiene canzoni in formato \"ChordPro\"."},{
+Key:1006369,Text:"Selezionare un database WebAsaph"},{
+Key:1006370,Text:"Selezionare una cartella che contiene canzoni in formato «CETTA."},{
+Key:1006375,Text:"Selezionare una Bibbia di BibleDatabase"},{
+Key:1006380,Text:"Selezionare una Bibbia di OpenLP"},{
+Key:1006385,Text:"Selezionare una Bibbia di OpenSong"},{
+Key:1006390,Text:"Selezionare una Bibbia di Unbound Bible"},{
+Key:1006395,Text:"Selezionare una Bibbia Zefania"},{
+Key:1006397,Text:"Selezionare una Bibbia di EasySlides"},{
+Key:1006398,Text:"Selezionare una Bibbia in formato \"Osis\"."},{
+Key:1006399,Text:"Selezionare i libri di una Bibbia nel formato \"USFM."},{
+Key:1006405,Text:"EasySlide database"},{
+Key:1006410,Text:"4 MediaShout database"},{
+Key:1006411,Text:"3 MediaShout database"},{
+Key:1006415,Text:"OpenLP database"},{
+Key:1006416,Text:"Database di EasyWorship 2009"},{
+Key:1006417,Text:"VerseView database"},{
+Key:1006420,Text:"La cartella '{0}'.
+non contiene alcun canto presso il formato 'OpenLyrics' (estensione xml)."},{
+Key:1006425,Text:"La cartella '{0}'.
+non contiene nessuna canzone OpenSong (le canzoni di OpenSong sono i file senza estensione)."},{
+Key:1006430,Text:"Canzoni esportate da Psalmo"},{
+Key:1006431,Text:"Canzoni in formato testo"},{
+Key:1006432,Text:"La cartella '{0}'.
+non contiene alcun canto presso il formato \"ChordPro\" (estensione. chopro/chordpro, crd e cho)."},{
+Key:1006433,Text:"WebAsaph database"},{
+Key:1006434,Text:"La cartella '{0}'.
+non contiene nessuna canzone in formato «CETTA» (estensione .usr)."},{
+Key:1006440,Text:"Bibbie BibleDatabase"},{
+Key:1006445,Text:"Bibbie OpenLP"},{
+Key:1006450,Text:"OpenSong Bibbie"},{
+Key:1006455,Text:"Unbound Bible Bibbie"},{
+Key:1006460,Text:"Bibbie Zefania"},{
+Key:1006462,Text:"Bibbie EasySlides"},{
+Key:1006463,Text:"Bibbie in formato \"Osis\"."},{
+Key:1006464,Text:"Libri della Bibbia nel formato \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Amo il Signore 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Il mio chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Amo il Signore"},{
+Key:1006510,Text:"Database MSAccess"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Tutti i file"},{
+Key:1006520,Text:"Database SQLite"},{
+Key:1006525,Text:"Paradox database"},{
+Key:1006526,Text:"Database WebAsaph"},{
+Key:1006600,Text:"Scegliere la libreria online di VideoPsalm o un'altra fonte"},{
+Key:1006601,Text:"VideoPsalm libreria on-line contiene molte collezioni in diverse lingue"},{
+Key:1006602,Text:"Biblioteca di VideoPsalm online (connessione internet richiesta durante l'importazione)"},{
+Key:1006603,Text:"Canzoni in un popolare, per importare sul tuo disco rigido formato"},{
+Key:1006604,Text:"Scegliere la libreria online di VideoPsalm o un'altra fonte"},{
+Key:1006605,Text:"VideoPsalm libreria on-line contiene molte traduzioni della Bibbia in diverse lingue"},{
+Key:1006606,Text:"Biblioteca di VideoPsalm online (connessione internet richiesta durante l'importazione)"},{
+Key:1006607,Text:"Una Bibbia in un popolare, per importare sul tuo disco rigido formato"},{
+Key:1006608,Text:"Qual è la fonte del vostro formato canzoni?"},{
+Key:1006609,Text:"Qual è il formato di origine della Bibbia?"},{
+Key:1006610,Text:"È possibile importare nel vostro VideoPsalm una Bibbia in un formato popolare memorizzata nel tuo PC"},{
+Key:1006611,Text:"È possibile importare nel vostro VideoPsalm in un canzoni popolare formato memorizzata nel vostro PC"},{
+Key:1007000,Text:"Backup"},{
+Key:1007001,Text:"Si desidera avviare il backup di VideoPsalm nella cartella
+« {0} » ?"},{
+Key:1007004,Text:"Non è possibile eseguire il backup nella cartella selezionata,
+perché si trova nella cartella corrente dei documenti VideoPsalm
+({0})."},{
+Key:1007005,Text:"Non c'è abbastanza spazio su disco {0}.
+Dovrebbe {1: #, #. #} MB e ci sono solo {2: #, #. #} MB disponibili."},{
+Key:1007006,Text:"Non ha potuto completare il backup:
+
+{0}"},{
+Key:1007007,Text:"Impossibile scaricare il Microsoft .NET Framework 4.0:
+
+{0}
+
+Questo può essere dovuto alla mancanza di connessione Internet.
+Il backup continuerà normalmente,
+ma non sarà in grado di installare Microsoft .NET Framework 4.0 dal backup."},{
+Key:1007008,Text:"non disponibile: {0}"},{
+Key:1007009,Text:"Promemoria: Backup potrebbe non copiare
+il setup del Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Il backup è terminato correttamente."},{
+Key:1007011,Text:"Si desidera abbandonare il backup?"},{
+Key:1007030,Text:"Selezionare una cartella o creare all-in-one per effettuare un backup dei VideoPsalm"},{
+Key:1007031,Text:"Il backup copiare documenti (libri, Bibbie, immagini, video, stili) nel percorso che si specifica, ad esempio:
+-una USB
+-un hard disk esterno,
+-una cartella di rete,
+-ecc.
+
+<b>Backup consente di tra cui:</b>
+-per garantire i documenti da loro duplicazione su un altro supporto,
+-per costruire una versione portatile di VideoPsalm, ad esempio su una chiavetta USB,
+-trasferire facilmente i vostri documenti su un altro computer utilizzando la funzione di ripristino,
+-duplicare i vostri documenti per configurazioni multiple di collezioni con i loro stili sullo stesso computer.
+
+<b>Nota:</b> Per sincronizzare i record di VideoPsalm tra diversi computer, è possibile scegliere più direttamente per una sincronizzazione come servizio SkyDrive o DropBox."},{
+Key:1007032,Text:"Selezionare i documenti che si desidera salvare:"},{
+Key:1007033,Text:"&Collezioni"},{
+Key:1007034,Text:"&Le Bibbie"},{
+Key:1007035,Text:"&Immagini"},{
+Key:1007036,Text:"&Video"},{
+Key:1007037,Text:"&Salvare i documenti su:"},{
+Key:1007038,Text:"Specificare la cartella in cui salvare documenti di VideoPsalm qui.
+
+Per esempio: «E:\\Ma VideoPsalm backup.
+
+Se la cartella non esiste, viene creato automaticamente quando il backup."},{
+Key:1007039,Text:"&Creare un'applicazione portatile VideoPsalm"},{
+Key:1007040,Text:"Aggiunge tutti i file eseguibili necessari per il funzionamento della VideoPsalm della cartella di backup.
+
+In generale, è su una chiave USB che si desidera creare un'applicazione portatile VideoPsalm.
+
+Una copia di backup portatile per eseguire VideoPsalm su qualsiasi altro computer, direttamente dalla chiave USB, senza la necessità di installare VideoPsalm.
+
+A partire VideoPsalm da chiave USB, avrai accesso a tutte le funzioni di VideoPsalm, incluso il backup. Questo permette di risparmiare VideoPsalm sul disco rigido del computer, quindi successivamente eseguirlo senza la chiave USB.
+
+<b>Importante</b>
+Il backup non vengono aggiunte opzioni di VideoPsalm.
+L'esecuzione prima del VideoPsalm su un determinato computer, potrebbe essere necessario regolare le opzioni di VideoPsalm, ad esempio la licenza per la Chiesa."},{
+Key:1007041,Text:"&Aggiungere il programma di installazione di Microsoft .NET Framework 4.0"},{
+Key:1007042,Text:"Per operare, VideoPsalm richiede il .NET Framework 4.0 da Microsoft. Computer più recenti hanno spesso il .NET Framework 4.0 o superiore preinstallato. Se non siete sicuri che il .NET Framework 4.0 è installato su un altro computer, selezionare la casella \"Aggiungi configurazione di .NET Framework 4.0. VideoPsalm sarà poi posto sulla chiavetta USB una copia del programma di installazione di .NET Framework 4.0 (connessione a internet può essere richiesta a questo).
+
+Dalla chiave USB, si può facilmente installare il .NET Framework 4.0 su un altro computer prima di iniziare a VideoPsalm. Installazione di .NET Framework 4.0 è molto rapido e non riavviare Windows normalmente.
+
+Troverete l'installazione del file .NET Framework 4.0 nella cartella di backup. Questo file è denominato \"dotNetFx40_Full_x86_x64.exe. Per avviare l'installazione di .NET Framework 4.0 su un altro computer, fare doppio clic su questo file."},{
+Key:1007043,Text:"&Start backup"},{
+Key:1007044,Text:"Il download di Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"&Cartella (che verrà salvato) VideoPsalm documenti:"},{
+Key:1007046,Text:"Lasciate le collezioni della cartella specificata prima di salvare il mio"},{
+Key:1007047,Text:"Rimuovere le collezioni della cartella specificata prima di salvare il mio"},{
+Key:1007048,Text:"Lasciare le bibbie della cartella specificata prima ci salva miniera"},{
+Key:1007049,Text:"Rimuovere le bibbie della cartella specificato prima è salvare il mio"},{
+Key:1007050,Text:"Lasciare le immagini nella cartella specificata prima è salvare il mio"},{
+Key:1007051,Text:"Eliminare immagini dalla cartella specificata prima è salvare il mio"},{
+Key:1007052,Text:"Lasciate che i video nella cartella specificata prima è salvare il mio"},{
+Key:1007053,Text:"Eliminare i video dalla cartella specificata prima di salvare il mio"},{
+Key:1007054,Text:"Selezionare una cartella o creare uno per effettuare un backup dei VideoPsalm"},{
+Key:1007055,Text:"Consentire audio dalla cartella specificata prima, è salvare la miniera"},{
+Key:1007056,Text:"Rimuovere audio dalla cartella specificata prima è salvare la miniera"},{
+Key:1007057,Text:"&Audio"},{
+Key:1008000,Text:"Ripristinare un backup"},{
+Key:1008001,Text:"Si desidera ripristinare un backup di VideoPsalm dalla cartella
+« {0} » ?
+
+Attenzione: A seconda delle opzioni che avete selezionato, i documenti attuali saranno sostituiti o eliminati."},{
+Key:1008002,Text:"Si prega di inserire la cartella di backup da ripristinare."},{
+Key:1008004,Text:"Grado di ripristinare un backup dalla cartella che avete scelto,
+perché si trova nella cartella corrente dei documenti VideoPsalm."},{
+Key:1008006,Text:"Impossibile completare il ripristino:
+
+{0}"},{
+Key:1008010,Text:"Il restauro è stato concluso."},{
+Key:1008011,Text:"Si desidera abbandonare il restauro?"},{
+Key:1008012,Text:"Ripristinare un backup"},{
+Key:1008032,Text:"Selezionare i documenti che si desidera ripristinare:"},{
+Key:1008033,Text:"&Collezioni"},{
+Key:1008034,Text:"&Le Bibbie"},{
+Key:1008035,Text:"&Immagini"},{
+Key:1008036,Text:"&Video"},{
+Key:1008043,Text:"&Ripristino"},{
+Key:1008044,Text:"Lasciare mio raccolte prima del ripristino da backup"},{
+Key:1008045,Text:"Eliminare le mie raccolte prima di ripristinare dal backup"},{
+Key:1008046,Text:"Lasciare le mie Bibbie prima di ripristinare da backup"},{
+Key:1008047,Text:"Eliminare le mie Bibbie prima del ripristino da backup"},{
+Key:1008048,Text:"Lasciate che le mie immagini prima del ripristino da backup"},{
+Key:1008049,Text:"Eliminare le mie immagini prima del ripristino da backup"},{
+Key:1008050,Text:"Lasciate che il mio video prima di ripristinare da backup"},{
+Key:1008051,Text:"Eliminare il mio video prima di ripristinare da backup"},{
+Key:1008052,Text:"&Ripristinare un backup da:"},{
+Key:1008053,Text:"Qui specificare la cartella da cui verrà ripristinato il record di VideoPsalm.
+
+Esempio: 'E:\\VideoPsalm'."},{
+Key:1008054,Text:"&Cartella (la cartella dove verrà ripristinato il backup) VideoPsalm documenti:"},{
+Key:1008055,Text:"Aggiornamento"},{
+Key:1008056,Text:"Selezionare una cartella che contiene una copia di backup dei VideoPsalm"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Lasciate che il mio audio prima di ripristinare dal backup"},{
+Key:1008059,Text:"Eliminare il mio audio prima di ripristinare dal backup"},{
+Key:1008999,Text:"Video proiettore"},{
+Key:1009000,Text:"una canzone"},{
+Key:1009001,Text:"canzoni: {0}"},{
+Key:1009002,Text:"una lista di versi"},{
+Key:1009003,Text:"elenchi: {0} di versi"},{
+Key:1009004,Text:"un'immagine"},{
+Key:1009005,Text:"immagini: {0}"},{
+Key:1009006,Text:"Bibbia '{0}'."},{
+Key:1009007,Text:"Capitolo: {0}"},{
+Key:1009009,Text:"Bibbie: {0}"},{
+Key:1009010,Text:"Immagine '{0}'."},{
+Key:1009011,Text:"{0} ({1} immagini)"},{
+Key:1009012,Text:"immagini: {0}"},{
+Key:1009013,Text:"{0} ({1} slides)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Lo stile predefinito di caricamento"},{
+Key:1009016,Text:"Caricamento dello stile delle collezioni"},{
+Key:1009017,Text:"Caricamento della collezione '{0}'."},{
+Key:1009018,Text:"Caricamento dello stile delle bibbie"},{
+Key:1009019,Text:"Caricamento della Bibbia '{0}'."},{
+Key:1009020,Text:"File: {0}"},{
+Key:1009100,Text:"{0} ({1} canzoni)"},{
+Key:1009101,Text:"{0} (una singola canzone)"},{
+Key:1009102,Text:"{0} (senza voce)"},{
+Key:1009103,Text:"Esiste già un file '{0}'.
+in cui VideoPsalm vuoi salvare la nuova collezione '{1}'.
+
+È Impossibile salvare questa nuova collezione.
+Dare un'abbreviazione o un nome unico per questa nuova collezione e provare a salvare ancora una volta."},{
+Key:1009104,Text:"Registrazione non riuscita"},{
+Key:1009105,Text:"Impossibile spostare il file.
+{0}
+vermi
+{1}.
+
+(2)"},{
+Key:1009107,Text:"Collezioni: {0}"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} versi)"},{
+Key:1009111,Text:"Video '{0}'."},{
+Key:1009112,Text:"{0} ({1} video)"},{
+Key:1009113,Text:"video: {0}"},{
+Key:1009114,Text:"Impossibile salvare l'insieme.
+Nome dell'insieme per essere in grado di salvarlo."},{
+Key:1010000,Text:"Vedere più colori"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Chiudere"},{
+Key:1010003,Text:"&Trasparente"},{
+Key:1010004,Text:"Annulla"},{
+Key:1010005,Text:"Ok"},{
+Key:1010006,Text:"Visualizzare un numero inferiore di colori"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Chiudere senza inserire il campo."},{
+Key:1011001,Text:"Abbreviazione della collezione"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Autore della canzone"},{
+Key:1011004,Text:"Autore della raccolta"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Chiave"},{
+Key:1011007,Text:"Compositore"},{
+Key:1011008,Text:"Copyright della canzone"},{
+Key:1011009,Text:"Diritto d'autore del libro"},{
+Key:1011010,Text:"Etichetta del versetto"},{
+Key:1011011,Text:"Etichetta e il numero di versi"},{
+Key:1011012,Text:"Formato"},{
+Key:1011013,Text:"Licenza della Chiesa"},{
+Key:1011014,Text:"Riga di chiave"},{
+Key:1011015,Text:"MEMO 1"},{
+Key:1011016,Text:"Memo 2"},{
+Key:1011017,Text:"MEMO 3"},{
+Key:1011018,Text:"CETTA"},{
+Key:1011019,Text:"Posizione del versetto"},{
+Key:1011020,Text:"Il versetto n."},{
+Key:1011021,Text:"Canto n."},{
+Key:1011022,Text:"Nota del versetto"},{
+Key:1011023,Text:"Numero di canzoni dall'insieme"},{
+Key:1011024,Text:"Numero delle strofe"},{
+Key:1011025,Text:"Riferimento"},{
+Key:1011026,Text:"Sequenza di strofe"},{
+Key:1011027,Text:"Firma"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Titolo della canzone"},{
+Key:1011031,Text:"Titolo del libro"},{
+Key:1011032,Text:"Tono"},{
+Key:1011033,Text:"3. Rimuovere tutti i campi"},{
+Key:1011034,Text:"2. Usare campi standard"},{
+Key:1011035,Text:"Amministratore"},{
+Key:1011036,Text:"Lingua"},{
+Key:1011037,Text:"Editor"},{
+Key:1011038,Text:"Recepimento"},{
+Key:1011101,Text:"Abbreviazione della Bibbia"},{
+Key:1011102,Text:"Abbreviazione del libro"},{
+Key:1011103,Text:"Capitolo"},{
+Key:1011104,Text:"Copyright della Bibbia"},{
+Key:1011105,Text:"Descrizione della Bibbia"},{
+Key:1011107,Text:"Editor"},{
+Key:1011108,Text:"Lingua"},{
+Key:1011109,Text:"Nome della Bibbia"},{
+Key:1011110,Text:"Nome del libro"},{
+Key:1011111,Text:"Numero dei capitoli del libro"},{
+Key:1011112,Text:"Numero di versi del capitolo"},{
+Key:1011113,Text:"Testamento"},{
+Key:1011114,Text:"Versetto"},{
+Key:1011115,Text:"Amministratore della Bibbia"},{
+Key:1011200,Text:"&Inserire un campo:"},{
+Key:1011201,Text:"Formattare il testo visualizzato nell'intestazione o piè di pagina strophe o versetto"},{
+Key:1011202,Text:"Immettere il testo da visualizzare.
+Questo testo è libero e in genere è costituito da una serie di campi predefiniti.
+
+Esempi di campi predefiniti per una canzone:
+-il titolo della canzone: <b>[titolo canzone]</b>
+-il numero del brano: <b>[la canzone n.]</b>
+-il titolo del libro: <b>[titolo dell'insieme]</b>
+-l'abbreviazione per l'insieme: <b>[abbreviazione della collezione]</b>
+-ecc.
+
+Per un verso:
+-il nome del libro: <b>[nome del libro]</b>
+-Capitolo: <b>[capitolo]</b>
+-il versetto: <b>[verse]</b>
+Full-riferimento:
+  <b>[Nome libro] [capitolo]: [versi]</b>
+-il nome della Bibbia: <b>[nome della Bibbia]</b>
+-ecc.
+
+Al momento della proiezione dei video, VideoPsalm sostituisce i campi predefiniti dal loro valore. 
+
+I campi predefiniti devono essere racchiuso da parentesi quadre <b>[]</b>. Essi devono essere inseriti senza fallire e osservare le lettere maiuscole e minuscole.
+
+<b>Per inserire facilmente un campo predefinito, utilizzare l'elenco a scorrimento sotto il diritto di inserire un campo.</b>
+
+Il formato può essere costituito da più righe.
+
+Per ripristinare il formato originale di valore, rimuovere completamente (Ctrl + A, eliminare)."},{
+Key:1011203,Text:"Un elenco di campi predefiniti"},{
+Key:1011204,Text:"Per inserire un campo predefinito, selezionarlo nell'elenco.
+
+Il campo verrà automaticamente inserito nel testo sopra, casella nel punto di inserimento."},{
+Key:1012000,Text:"Il file '{0}' esiste già.
+
+Si desidera sostituirlo?"},{
+Key:1012001,Text:"File esistente"},{
+Key:1013000,Text:"Nascondi anteprima"},{
+Key:1013001,Text:"Visualizzare l'anteprima"},{
+Key:1013002,Text:"Ingrandire proporzionalmente a riempire lo schermo"},{
+Key:1013003,Text:"Ridurre fino a schermo intero"},{
+Key:1013004,Text:"Disattivare la ripetizione"},{
+Key:1013005,Text:"Attivare la ripetizione"},{
+Key:1013006,Text:"All'inizio"},{
+Key:1013007,Text:"Sospendere"},{
+Key:1013008,Text:"Lettura"},{
+Key:1013009,Text:"Vai alla fine"},{
+Key:1013010,Text:"Suono"},{
+Key:1013011,Text:"Muto"},{
+Key:1013012,Text:"Volume"},{
+Key:1013013,Text:"Ricerca"},{
+Key:1013014,Text:"Globalmente definire i limiti del video"},{
+Key:1013015,Text:"Definire i confini del video per ogni stanza"},{
+Key:1013016,Text:"Tempo trascorso"},{
+Key:1013017,Text:"Tempo totale"},{
+Key:1013018,Text:"Tempo rimanente"},{
+Key:1013019,Text:"Fare clic per passare al valore successivo"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minuto"},{
+Key:1018003,Text:"minuti"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"tempo"},{
+Key:1018006,Text:"ore"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"giorno"},{
+Key:1018009,Text:"giorni"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"settimana"},{
+Key:1018012,Text:"settimane"},{
+Key:1018013,Text:"mese"},{
+Key:1018014,Text:"mese"},{
+Key:1018015,Text:"anno"},{
+Key:1018016,Text:"anni"},{
+Key:1019000,Text:"Chiudere"},{
+Key:1019001,Text:"Ridurre"},{
+Key:1019002,Text:"Ingrandire"},{
+Key:1019003,Text:"Livello inferiore"},{
+Key:1019004,Text:"Guida"},{
+Key:1019100,Text:"&Ricerca"},{
+Key:1019101,Text:"&Eliminare"},{
+Key:1019301,Text:"&Ok"},{
+Key:1019302,Text:"&Annulla"},{
+Key:1019303,Text:"&Sì"},{
+Key:1019304,Text:"&Non"},{
+Key:1019305,Text:"&Abbandonare"},{
+Key:1019306,Text:"&Riprova"},{
+Key:1019307,Text:"&Ignorare"},{
+Key:1019308,Text:"&Annulla"},{
+Key:1019309,Text:"&Taglio"},{
+Key:1019310,Text:"&Copia"},{
+Key:1019311,Text:"&Incolla"},{
+Key:1019312,Text:"&Eliminare"},{
+Key:1019313,Text:"&Seleziona tutto"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Esodo"},{
+Key:1020002,Text:"Levitico"},{
+Key:1020003,Text:"Numeri"},{
+Key:1020004,Text:"Deuteronomio"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Giudici"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuele"},{
+Key:1020010,Text:"1 Re"},{
+Key:1020011,Text:"2 Re"},{
+Key:1020012,Text:"1 Cronache"},{
+Key:1020013,Text:"2 Cronache"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Neemia"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Lavoro"},{
+Key:1020018,Text:"Salmi"},{
+Key:1020019,Text:"Proverbi"},{
+Key:1020020,Text:"Ecclesiaste"},{
+Key:1020021,Text:"Cantico dei Cantici"},{
+Key:1020022,Text:"Isaia"},{
+Key:1020023,Text:"Geremia"},{
+Key:1020024,Text:"Lamentazioni di Geremia"},{
+Key:1020025,Text:"Ezechiele"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Osea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Abdia"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICAH"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Abacuc"},{
+Key:1020035,Text:"Sofonia"},{
+Key:1020036,Text:"Aggeo"},{
+Key:1020037,Text:"Zaccaria"},{
+Key:1020038,Text:"Malachia"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Atti degli Apostoli"},{
+Key:1020044,Text:"Romani"},{
+Key:1020045,Text:"1 Corinzi"},{
+Key:1020046,Text:"2 Corinzi"},{
+Key:1020047,Text:"Galati"},{
+Key:1020048,Text:"Efesini"},{
+Key:1020049,Text:"Filippesi"},{
+Key:1020050,Text:"Colossesi"},{
+Key:1020051,Text:"1 Tessalonicesi"},{
+Key:1020052,Text:"2 Tessalonicesi"},{
+Key:1020053,Text:"1 Timoteo"},{
+Key:1020054,Text:"2 Timoteo"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Filemone"},{
+Key:1020057,Text:"Ebrei"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Pietro"},{
+Key:1020060,Text:"2 Pietro"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 Giovanni"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apocalisse"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1CH"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Fa"},{
+Key:1020116,Text:"È"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"CE"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Am"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Così"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"Gv"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2CO"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Gara"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Egli"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Gv"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

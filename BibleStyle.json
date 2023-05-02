@@ -1,0 +1,2 @@
+{Header:{FontSize:50,TextAlignment:1,Italic:1,Template:"[BibleBookName] [BibleChapterID]:[BibleVerseID]"},Body:{TextAlignment:0,Wrap:1},Footer:{Template:"[BibleDescription]
+[SiteLicense]"},Background:{BodyRect:"0,700,10000,8600"}}

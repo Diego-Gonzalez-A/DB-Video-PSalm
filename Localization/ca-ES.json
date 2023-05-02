@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Catalan (Catalan)"},{
+Key:1000000,Text:"Traducció"},{
+Key:1000001,Text:"NO."},{
+Key:1000003,Text:"&Afegeix..."},{
+Key:1000004,Text:"Afegir una o més llengües a VideoPsalm"},{
+Key:1000006,Text:"&Enviar"},{
+Key:1000007,Text:"Enviar les etiquetes per correu electrònic a VideoPsalm a l'organització següent"},{
+Key:1000009,Text:"&S'apliquen"},{
+Key:1000011,Text:"&Desa"},{
+Key:1000012,Text:"Aplicar l'idioma seleccionat a VideoPsalm. Els canvis es guarden automàticament per endavant."},{
+Key:1000013,Text:"Desa els canvis a les etiquetes"},{
+Key:1000015,Text:"&Suprimir"},{
+Key:1000016,Text:"VideoPsalm suprimir l'idioma seleccionat i totes les seves etiquetes de"},{
+Key:1000022,Text:"&{0} denominats:"},{
+Key:1000024,Text:"&Idiomes:"},{
+Key:1000029,Text:"Etiquetes de disc"},{
+Key:1000030,Text:"Les etiquetes han canviat.
+
+Voleu desar aquests canvis?"},{
+Key:1000031,Text:"Podeu suprimir una llengua"},{
+Key:1000032,Text:"Voleu suprimir la llengua {0} de VideoPsalm realment?
+
+Aquesta operació suprimirà tots els textos d'aquesta llengua i és irreversible."},{
+Key:1000035,Text:"VideoPsalm arriba a crear fitxers comprimits amb. zip ampliació
+que contenen les etiquetes en la seva llengua respectiva.
+Adjuntar l'arxiu corresponent a l'e-mail que apareix, llavors enviar aquest correu electrònic a videopsalm@gmail.com."},{
+Key:1000036,Text:"Enviar correu electrònic d'etiquetes"},{
+Key:1000037,Text:"<b>En aquesta finestra de 'Traducció', pot editar els textos que apareixen en les formes de VideoPsalm.</b>
+Això li permet traduir, adaptar-se o corregir qualsevol interfície de text de VideoPsalm, en VideoPsalm fins i tot.
+
+<i>Si aquest component pren cap amunt de massa espai, reduir-lo fent clic al botó de reducció petit situat a la part superior esquerra, o canviar la mida del ratolí amb el separador horitzontal.</i>
+
+VideoPsalm es proporciona en diversos idiomes. Les llengües de VideoPsalm s'enumeren en el panell per sota per la esquerra titulat \"llengües\".
+Si el teu idioma no apareix en aquesta llista, vostè pot traduir aquí, VideoPsalm al vostre idioma. Tingueu en compte que aquest serà probablement unes quantes hores de treball.
+
+Aquí és com tenir VideoPsalm en el seu idioma:
+
+-Afegir l'idioma de la llista seleccionant entre aquells es troben mitjançant el botó \"Afegeix <image=add2_16>\".
+-A la taula per sota a la dreta, VideoPsalm Mostra les etiquetes de llengües seleccionades.
+-Traduir les etiquetes en el vostre idioma.
+
+A la taula, podeu editar les etiquetes en el seu temps lliure, com en un full de càlcul Excel.
+La taula ofereix un quadre de cerca. Així, per mostrar només les etiquetes que contenen determinades paraules, escriure aquestes paraules a la Caixa de recerca i llavors faci clic damunt el botó \"Cerca\".
+També podeu utilitzar l'àrea de filtre situat sota cada llengua de capçalera per filtrar les etiquetes d'un llenguatge que conté algunes paraules específiques.
+
+Per facilitar el seu treball, seleccioneu un o més idiomes que ja saps, per tal de comprendre millor el significat de cada etiqueta i ser capaç de llegir en llengües múltiples simultàniament.
+Comproveu els comentaris, perquè permeten que els facilitin la comprensió de la importància de certes etiquetes i on s'utilitzen.
+
+<b>Nota:</b> És millor deixar els comentaris en anglès, perquè moltes persones entendre anglès.
+
+Per veure el resultat del seu treball de traducció:
+-Seleccioni la seva llengua en els idiomes tauler fent clic
+   llavors
+-Faci clic al botó \"Aplicar\" (part inferior).
+
+VideoPsalm es mostrarà en l'idioma que heu seleccionat.
+
+No us oblideu de desar la feina de traducció fent clic al botó \"Desa la <image=disk_blue>.
+Després de desar un nou llenguatge, el pot seleccionar a la finestra d'opcions.
+
+Si us plau, envieu-nos les traduccions o correccions per correu electrònic a <b>videopsalm@gmail.com</b> fent clic al botó \"enviar <image=mail_16>\".
+Quan feu clic a aquest botó, passar dues coses:
+1. El seu client d'e-mail s'obrirà automàticament, per exemple l'Outlook.
+2. Una carpeta d'Explorador s'obre en el que VideoPsalm ha col. locat fitxers comprimits amb. zip ampliació anomenada llengües.
+
+Arrossegar i deixar anar el fitxer corresponent a l'e-mail i enviar-lo de manera que podem incorporar-lo en una versió futura de VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Com traduir VideoPsalm al teu idioma?"},{
+Key:1000039,Text:"Llengües en què es tradueix VideoPsalm. Seleccioneu les llengües que voleu mostrar les etiquetes a la taula. Per afegir el teu idioma a la llista, feu clic al botó \"Afegeix\"."},{
+Key:1001000,Text:"Afegiu llengües"},{
+Key:1001001,Text:"&Idiomes:"},{
+Key:1001002,Text:"Seleccioneu les llengües que voleu afegir"},{
+Key:1001003,Text:"&Afegir"},{
+Key:1001004,Text:"Cancel·la"},{
+Key:1001005,Text:"Ajuda (F1)"},{
+Key:1002000,Text:"Opcions"},{
+Key:1002003,Text:"&General"},{
+Key:1002004,Text:"&Exhibició"},{
+Key:1002005,Text:"&Vídeo"},{
+Key:1002014,Text:"&Col·leccions"},{
+Key:1002015,Text:"&Bíblies"},{
+Key:1002103,Text:"&Idioma:"},{
+Key:1002105,Text:"&VideoPsalm carpeta de documents:"},{
+Key:1002106,Text:"Trieu la carpeta de documents de VideoPsalm:"},{
+Key:1002112,Text:"&Desar tots els canvis que feu a la versos Bíblics (text i l'estil)"},{
+Key:1002202,Text:"&Canviï cita « <size=+4>'» per cotitzacions francès « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Les normes franceses de tipografia"},{
+Key:1002204,Text:"&En les cançons, substituir guions per guions nonbreaking"},{
+Key:1002205,Text:"&En els versos Bíblics, substituir guions per guions nonbreaking"},{
+Key:1002304,Text:"&Mètode de visualització realista:"},{
+Key:1002306,Text:"Estàndard"},{
+Key:1002307,Text:"Millorat"},{
+Key:1002502,Text:"&S'apliquen"},{
+Key:1002503,Text:"Deseu els canvis i mantenir la finestra oberta"},{
+Key:1002504,Text:"OK"},{
+Key:1002505,Text:"Deseu els canvis i tancar la finestra"},{
+Key:1002508,Text:"Tanqueu la finestra sense desar els canvis"},{
+Key:1002510,Text:"&Llicència de l'església:"},{
+Key:1002513,Text:"Un text opcional que introduïu aquí es pot mostrar automàticament a la capçalera o al peu de pàgina de diapositiva.
+
+Per exemple, podeu especificar aquí el nombre de llicència CILC de l'església."},{
+Key:1002516,Text:"&Camps de la capçalera:"},{
+Key:1002517,Text:"&Camps a la subfooter:"},{
+Key:1002531,Text:"Per canviar el tipus de lletra que és mostrat VideoPsalm.
+
+Tipus de lletra estàndard:
+- <b>Tahoma</b> per a Windows XP
+- <b>Font Segoe UI</b> per a Windows Vista, Windows set i Windows 8
+
+Mida estàndard: 8,25"},{
+Key:1002532,Text:"És necessari reiniciar el VideoPsalm per a un canvi de política que cal tenir en compte plenament."},{
+Key:1002533,Text:"Si aquesta casella està marcada, VideoPsalm se substituiran els apòstrofs rectes amb un apòstrof francès, que és una coma col. locat a l'alçada de les diapositives.
+
+Quan introduïu la lletra de una cançó a l'editor, us recomanem que useu el personatge que fàcilment podeu saber al seu teclat, normalment el recte apòstrof."},{
+Key:1002534,Text:"Si aquesta casella està marcada, VideoPsalm reorganitza en diapositiva l'espaiat d'alguns personatges de Puntuació d'acord amb la tipografia francesa.
+
+Per exemple, si una cançó conté les paraules següents: <b>Senyor!</b>
+
+Exhibició de VideoPsalm: <b>Senyor!</b>
+
+Aquí hi ha els caràcters de Puntuació que gaudir d'un tractament especial:
+<b>: ; ! ? »</b><i>VideoPsalm posar un espai abans de nonbreaking i l'espai després de.</i><b>«</b><i>VideoPsalm posar un espai abans i un espai nonbreaking després.</i>
+
+VideoPsalm organitza no l'espaiat dels caràcters altres signes de Puntuació.
+
+Quan entris a les paraules d'una nova cançó, us recomanem que vostè segueixi les regles tradicionals de tipografia, és a dir, s'adhereixen a les paraules que els signes de Puntuació. D'aquesta manera, vostè serà capaç de complir amb l'exhibició de la tipografia francesa, marcant aquesta casella, o a les normes del seu país si no seleccioneu aquesta casella.
+
+<b>Nota:</b> És possible que les normes de la tipografia francesa no s'apliquen en el seu país fins i tot si l'idioma és el francès, per exemple en la parla de la francesa d'Àfrica, a Bèlgica, al Quebec o a Suïssa.
+
+Per a una referència completa sobre els espais i signes de Puntuació de la tipografia francesa, vegeu <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, pàg. 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Tipus de lletra:"},{
+Key:1002536,Text:"&Mida:"},{
+Key:1002539,Text:"Si aquesta casella està marcada, VideoPsalm informar, durant la posada en marxa, de l'existència de noves funcions del programa o les notícies sobre:
+-les col·leccions
+-Bíblies,
+- i VideoPsalm idiomes.
+
+De vegades s'afegeixen noves col·leccions, Bíblies en llengües noves i nous llenguatges per a VideoPsalm a la biblioteca en línia de VideoPsalm.
+
+Quan això ocorre, afegir en uns pocs clics aquests documents nous a la seva instal·lació mitjançant l'Auxiliar d'importació."},{
+Key:1002540,Text:"Si aquesta casella està marcada, VideoPsalm requereix les paraules enllaçats per un guió de romandre en la mateixa línia a les diapositives.
+
+Valor per a les lletres de les cançons per defecte: <b>comprovat</b>"},{
+Key:1002541,Text:"Si aquesta casella està marcada, VideoPsalm requereix les paraules enllaçats per un guió de romandre en la mateixa línia a les diapositives.
+
+Valor pels versos de Bíblies per defecte: <b>sense control</b>"},{
+Key:1002542,Text:"Si aquesta casella està marcada, VideoPsalm li permet desar tots els canvis que heu fet pels versets de la Bíblia (text i l'estil).
+
+Si aquesta casella no està marcada:
+
+<b>1.</b> quan tanqueu VideoPsalm, no us notificarà que s'han canviat el seu Bíblies,
+
+<b>2</b> quan deseu els canvis, VideoPsalm no desar els canvis fets a les Bíblies (text i estil),
+
+<b>3</b> hi ha el seu Bíblies intactes a la pròxima posada en marxa de VideoPsalm."},{
+Key:1002543,Text:"Trieu l'idioma en què vol a VideoPsalm es mostra aquí.
+
+Si el teu idioma no apareix a la llista, potser està disponible a la Biblioteca de VideoPsalm en línia mitjançant l'Auxiliar d'importació.
+
+Si VideoPsalm no existeix en el vostre idioma, si us plau informeu-nos per correu electrònic a videopsalm@gmail.com
+
+Alternativament, vostè pot ajudar a traduir els textos de VideoPsalm en el seu idioma mitjançant l'eina de traducció de VideoPsalm o corregir errors.
+
+L'inici de l'eina de traducció VideoPsalm amb el botó \"Traduir VideoPsalm\"."},{
+Key:1002544,Text:"Seleccioneu la carpeta des de quin VideoPsalm carregar seu llibres, Bíblies, imatges i vídeos aquí.
+
+Quan canvieu la carpeta, VideoPsalm Actualitza seu col·leccions, Bíblies, imatges i vídeos amb els de la carpeta nova.
+
+<b>Atenció</b> : abans de canviar la carpeta, comproveu que heu desat els canvis."},{
+Key:1002545,Text:"Per canviar el tipus de lletra que és mostrat VideoPsalm.
+
+Mida estàndard: 8,25
+
+També pot canviar la mida de font mitjançant les opcions de finestres:-> amenitat a la pantalla d'exhibició de -&gt; de quadre de Control."},{
+Key:1002547,Text:"&Traduir VideoPsalm"},{
+Key:1002548,Text:"S'obrirà l'eina amb la qual podeu traduir VideoPsalm al vostre idioma, o Corregiu els errors d'ortografia."},{
+Key:1002549,Text:"Esteu a punt de canviar la carpeta des d'on, VideoPsalm es carrega seus documents.
+VideoPsalm es descarregar els seus documents actuals i llavors carregui els carpeta nova.
+Això pot trigar uns quants segons.{0}
+
+Realment voleu canviar la carpeta del document?"},{
+Key:1002550,Text:"Hi ha canvis sense desar (coŀleccions, Bíblies o calendari).
+Si confirma l'operació del Registre d'ara, aquests canvis es perdran."},{
+Key:1002551,Text:"Canviar la carpeta de documents"},{
+Key:1002552,Text:"&Ordre del dia"},{
+Key:1002553,Text:"Pautes per defecte:"},{
+Key:1002554,Text:"&cançons:"},{
+Key:1002555,Text:"&Vers de la Bíblia:"},{
+Key:1002556,Text:"&Imatges de la presentació de diapositives:"},{
+Key:1002557,Text:"&vídeos autònoms:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Avanç automàtic de temps d'espera per defecte:"},{
+Key:1002560,Text:"segons"},{
+Key:1002561,Text:"&Afegir un idioma"},{
+Key:1002562,Text:"Obre el Assistent per a importació de les llengües en què es tradueix VideoPsalm, des d'on podeu afegir noves llengües al seu VideoPsalm."},{
+Key:1002580,Text:"Flux de text per defecte després d'una cançó"},{
+Key:1002581,Text:"Determina el flux de text per defecte després de l'últim vers d'una cançó.
+
+Aquest valor també es té en compte per a les cançons que us mostren espontàniament sense ordre del dia.
+En el calendari, podeu canviar aquest valor per a cada cançó."},{
+Key:1002582,Text:"Flux de text per defecte després versicles de la Bíblia"},{
+Key:1002583,Text:"Determina el flux de text per defecte després de l'últim vers d'un passatge bíblic.
+
+Aquest valor també es té en compte en els passatges bíblics que vostè mostri espontàniament sense ordre del dia.
+En el calendari, podeu canviar aquest valor per a cada passatge bíblic."},{
+Key:1002584,Text:"Flux de text per defecte després un slideshow d'imatge"},{
+Key:1002585,Text:"Determina el flux de text per defecte després un slideshow d'imatge.
+
+En el calendari, podeu canviar aquest valor per a cada imatge."},{
+Key:1002586,Text:"Flux de text per defecte després d'un vídeo independent"},{
+Key:1002587,Text:"Determina el flux de text per defecte després d'un vídeo independent.
+
+En el calendari, podeu canviar aquest valor per a cada vídeo independent."},{
+Key:1002588,Text:"Flux de text per defecte després d'un PowerPoint"},{
+Key:1002589,Text:"Determina el flux de text per defecte després d'un PowerPoint.
+
+En el calendari, podeu canviar aquest valor per a cada PowerPoint."},{
+Key:1002590,Text:"Determina l'interval de temps per defecte en segons abans de l'interruptor automàtic a la diapositiva següent.
+
+En el calendari, podeu canviar aquest valor per a cada element que flueix automàticament."},{
+Key:1002591,Text:"&Emmagatzemar les imatges de fons a l'agenda (recomanat)"},{
+Key:1002592,Text:"Emmagatzemar les imatges de fons a l'agenda"},{
+Key:1002593,Text:"Indica si VideoPsalm ha d'emmagatzemar qualsevol cançons d'imatges de fons i bíblica en els versos d'arxiu de programa, quan el guarda."},{
+Key:1002594,Text:"&Programa de vídeos de fons de botiga (recomanat)"},{
+Key:1002595,Text:"Emmagatzemar els vídeos de fons a l'agenda"},{
+Key:1002596,Text:"Indica si VideoPsalm ha d'emmagatzemar els vídeos de fons de cançons i bíblica en els versos d'arxiu de programa, quan el guarda."},{
+Key:1002597,Text:"&Agenda de botiga slideshow imatges (recomanat)"},{
+Key:1002598,Text:"Emmagatzemar imatges de diapositives a l'agenda"},{
+Key:1002599,Text:"Indica si VideoPsalm ha d'emmagatzemar les imatges possibles de diapositives a l'arxiu calendari quan el guarda."},{
+Key:1002600,Text:"&Emmagatzemar l'agenda de vídeos independent (opció recomanada)"},{
+Key:1002601,Text:"Emmagatzemar els vídeos autònoms en l'agenda"},{
+Key:1002602,Text:"Indica si VideoPsalm ha d'emmagatzemar qualsevol autònoma en els vídeos d'arxiu de programa, quan el guarda."},{
+Key:1002603,Text:"&Emmagatzemar els PowerPoints en l'agenda (recomanat)"},{
+Key:1002604,Text:"Emmagatzemar els PowerPoints en l'agenda"},{
+Key:1002605,Text:"Indica si VideoPsalm ha d'emmagatzemar qualsevol PowerPoints al fitxer calendari quan el guarda."},{
+Key:1002606,Text:"Us recomanem que seleccioneu aquesta opció, especialment si vostè es prepara en un altre PC que aquell en el qual es mostrarà la presentació l'agenda."},{
+Key:1002607,Text:"&L'editor"},{
+Key:1002608,Text:"&Tipus de lletra:"},{
+Key:1002609,Text:"Especifica el tipus de lletra en la qual vostè editar la lletra d'una cançó i els versos de la Bíblia.
+
+En particular, aquest tipus de lletra no s'utilitza per visualitzar el text a la pantalla."},{
+Key:1002610,Text:"&Mida del text:"},{
+Key:1002611,Text:"Especifica la mida de la font en la qual vostè editar la lletra d'una cançó i els versos de la Bíblia.
+
+Aquesta lletra no s'utilitza particularment per mostrar el text a la pantalla."},{
+Key:1002612,Text:"&Tipus de lletra dels acords:"},{
+Key:1002613,Text:"Especifica el tipus de lletra en la qual vostè editar els acords d'una cançó.
+
+Aquesta font no és particularment utilitzat per mostrar acords a la pantalla de presentació."},{
+Key:1002614,Text:"&Mida del text dels acords:"},{
+Key:1002615,Text:"Especifica la mida de la font dels acords d'una cançó en l'editor de text.
+
+Aquesta lletra no s'utilitza particularment per mostrar els acords a la pantalla de presentació."},{
+Key:1002616,Text:"&Color dels acords:"},{
+Key:1002617,Text:"Especifica el color en el qual els acords són mostrats en l'editor de text.
+
+En particular, aquest color no és utilitzat per mostrar acords a la pantalla de presentació."},{
+Key:1002618,Text:"&Color blanc sense salt:"},{
+Key:1002619,Text:"Especifica el color en que ruptura blanc són mostrats en l'editor de text."},{
+Key:1002620,Text:"&Color de les etiquetes d'estrofes:"},{
+Key:1002621,Text:"Especifica el color en el qual es destaquen les etiquetes d'estrofes en l'editor de text."},{
+Key:1002622,Text:"&Transparència de les etiquetes d'estrofes:"},{
+Key:1002623,Text:"Especifica la transparència del color en el qual es destaquen les etiquetes d'estrofes en l'editor de text."},{
+Key:1002624,Text:"&Color dels acords ChordPro:"},{
+Key:1002625,Text:"Especifica el color en el qual es destaquen els acords de ChordPro en el mode de text ChordPro Editor."},{
+Key:1002626,Text:"&Transparència dels acords ChordPro:"},{
+Key:1002627,Text:"Especifica la transparència del color en acords que ChordPro se subratllen en el mode de text ChordPro Editor."},{
+Key:1002628,Text:"&Substitueixi fonts (recomanats)"},{
+Key:1002629,Text:"Permet el text editor substituir els personatges que falten a la font actual per aquells de una altra font.
+
+Inhabilita la substitució dels personatges si esteu utilitzant una font de no-Unicodi que opera la seva transliteració.
+És el cas d'alguns Hindi, el tàmil, Bamati, tipus de lletra Malayalam, etc..
+
+Tingueu en compte que és preferible utilitzar una font Unicode.
+Per convertir les seves cançons preparats per Unicode text, utilitzar un convertidor en línia, per exemple aquí: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Permetre l'accés a un simplificat, compatible amb l'editor de text de l'escriptura RTL"},{
+Key:1002631,Text:"Mostra un botó addicional a l'esquerra de la barra d'eines de l'editor de text, que proporciona accés a un simplificat el mode d'edició del text de les cançons.
+
+Aquest Editor simplificat és compatible amb l'escriptura de dreta a esquerra (RTL), especialment per l'àrab i hebreu."},{
+Key:1002632,Text:"Triar el mètode de rendició de vídeo que funciona millor per al seu PC. VideoPsalm pot visualitzar els vídeos en wmv al format la majoria de PCs."},{
+Key:1002633,Text:"&Notificacions"},{
+Key:1002634,Text:"A l'inici, avisar si hi ha:"},{
+Key:1002635,Text:"&Una nova versió de VideoPsalm (opció recomanada)"},{
+Key:1002636,Text:"&Noves col·leccions (recomanats)"},{
+Key:1002637,Text:"&Bíblies nous (recomanats)"},{
+Key:1002638,Text:"&Nous llenguatges (recomanats)"},{
+Key:1002639,Text:"&En cas de dificultat de connexió, la presència d'un servidor intermediari"},{
+Key:1002640,Text:"La presència d'un servidor intermediari"},{
+Key:1002641,Text:"Indica si VideoPsalm hauria de detectar automàticament la presència d'un servidor intermediari per demanar informació sobre nous productes o actualitzacions.
+
+Si VideoPsalm no pot descarregar llibres o Bíblies en la biblioteca virtual, seleccioni aquesta opció i llavors intentar l'operació.
+
+Seleccioneu aquesta opció només si això fa no. De fet, aquesta opció provoca un alentiment en descarregar Bíblies i llibres de la biblioteca de VideoPsalm en línia."},{
+Key:1002642,Text:"&Amagar icones socials"},{
+Key:1002643,Text:"Amaga les icones de la barra d'eines social (Facebook, Twitter i YouTube).
+
+Aquestes icones romanen ocults en l'absència d'una connexió a internet."},{
+Key:1002644,Text:"&Agenda de botiga d'àudio cançons (recomanat)"},{
+Key:1002645,Text:"Botiga d'àudio cançons a l'agenda"},{
+Key:1002646,Text:"Indica si VideoPsalm ha d'emmagatzemar qualsevol àudio de les cançons a l'arxiu calendari quan el guarda."},{
+Key:1002648,Text:"&Personalització"},{
+Key:1002649,Text:"&Càmera de vídeo"},{
+Key:1002650,Text:"&Anterior"},{
+Key:1002651,Text:"&Base"},{
+Key:1002652,Text:"&Text"},{
+Key:1002653,Text:"&Escut"},{
+Key:1002654,Text:"&Floc de neu"},{
+Key:1002655,Text:"&Error"},{
+Key:1002656,Text:"Tauler de diapositiva"},{
+Key:1002657,Text:"&Següent"},{
+Key:1002658,Text:"Barra d'eines"},{
+Key:1002659,Text:"Agenda Consell"},{
+Key:1002660,Text:"&Puig"},{
+Key:1002661,Text:"&Baixi"},{
+Key:1002662,Text:"&Amagar ToolTips"},{
+Key:1003000,Text:"La versió {0} de el {1}"},{
+Key:1003003,Text:"Tancar"},{
+Key:1003005,Text:"&Contactar amb VideoPsalm"},{
+Key:1003006,Text:"Obrir Outlook (el seu client d'e-mail) per enviar un correu electrònic a VideoPsalm"},{
+Key:1003007,Text:"Aquesta versió s'Actualitza"},{
+Key:1003008,Text:"&La meva versió d'Actualització"},{
+Key:1003009,Text:"Hi ha una versió més nova de VideoPsalm:
+Versió {0} per a la placa 1: {d}.
+Feu clic a aquest botó per obrir la pàgina de descàrrega.
+Aquí hi trobareu la història dels canvis
+i un descarregar enllaç."},{
+Key:1003011,Text:"-L'informe
+-Fer un comentari o un suggeriment"},{
+Key:1003012,Text:"Adreça electrònica: videopsalm@gmail.com"},{
+Key:1003500,Text:"Treure la transposició"},{
+Key:1003501,Text:"Transposat un semitò més"},{
+Key:1003502,Text:"Transposat un semitò menys"},{
+Key:1003503,Text:"Sense"},{
+Key:1003504,Text:"Suprimir el capo"},{
+Key:1003505,Text:"Transposar per un capo que s'allunya de la capçalera"},{
+Key:1003506,Text:"Transposar per un capo que s'acosta a la capçalera"},{
+Key:1003507,Text:"Sense"},{
+Key:1003508,Text:"Desprotegiu el fitxer d'àudio a la veu"},{
+Key:1003509,Text:"&Arxiu d'àudio:"},{
+Key:1003510,Text:"Seleccionar els arxius d'àudio d'importació i feu clic a 'obrir'."},{
+Key:1003511,Text:"Ha importat {0} arxiu d'àudio (s)."},{
+Key:1003512,Text:"Cap arxiu d'àudio s'ha importat.
+((S) és ja trobà (s) en la llista)."},{
+Key:1003513,Text:"Importar arxius d'àudio"},{
+Key:1003514,Text:"Arxius d'àudio"},{
+Key:1003515,Text:"Paraules clau per buscar en imatges"},{
+Key:1003516,Text:"Sense imatge"},{
+Key:1003517,Text:"Sense vídeo"},{
+Key:1003518,Text:"&Arxius"},{
+Key:1003519,Text:"&Mostrar el baix"},{
+Key:1003520,Text:"Paraules clau per buscar en vídeos"},{
+Key:1003521,Text:"&Recull de cançons importats d'CCLI / SongSelect"},{
+Key:1003522,Text:"Cançons CCLI"},{
+Key:1003523,Text:"Importació de cançons CCLI"},{
+Key:1003524,Text:"{0} cançons ja estaven en la col·lecció \"{1}\" i no s'han importat."},{
+Key:1003525,Text:"&Cerca"},{
+Key:1003526,Text:"&Brillantor:"},{
+Key:1003527,Text:"&Cerca"},{
+Key:1003528,Text:"&Brillantor:"},{
+Key:1003529,Text:"Missatge"},{
+Key:1003530,Text:"Policia"},{
+Key:1003531,Text:"Colors"},{
+Key:1003532,Text:"Missatge"},{
+Key:1003533,Text:"Visibilitat"},{
+Key:1003534,Text:"Model de"},{
+Key:1003535,Text:"Tipus"},{
+Key:1003536,Text:"Compte enrere"},{
+Key:1003537,Text:"Cronòmetre"},{
+Key:1003538,Text:"Opcions"},{
+Key:1003539,Text:"Transparència"},{
+Key:1003540,Text:"Visualitza el missatge"},{
+Key:1003541,Text:"Fons"},{
+Key:1003542,Text:"Veient el rellotge"},{
+Key:1003543,Text:"Rellotge"},{
+Key:1003544,Text:"Compte enrere"},{
+Key:1003545,Text:"Cronòmetre"},{
+Key:1003546,Text:"Durant"},{
+Key:1003547,Text:"Fins a"},{
+Key:1003548,Text:"Inici"},{
+Key:1003549,Text:"Pausa"},{
+Key:1003550,Text:"Parada"},{
+Key:1003551,Text:"Estil"},{
+Key:1003552,Text:"Greix"},{
+Key:1003553,Text:"Cursiva"},{
+Key:1003554,Text:"Va destacar"},{
+Key:1003555,Text:"Mostrar la segona mà"},{
+Key:1003556,Text:"Segons la tartamudesa"},{
+Key:1003557,Text:"Minuts desigual"},{
+Key:1003558,Text:"Exhibició dígits"},{
+Key:1003559,Text:"Graduar-se l'Acta"},{
+Key:1003560,Text:"Postgrau hores"},{
+Key:1003561,Text:"Càmera de vídeo"},{
+Key:1003562,Text:"Visualitza el rodatge d'una càmera darrere el text."},{
+Key:1003563,Text:"&Afegir cançons en el format CILC..."},{
+Key:1003564,Text:"Importa..."},{
+Key:1003565,Text:"Importació"},{
+Key:1003566,Text:"Permet importar arxius d'àudio en el seu VideoPsalm"},{
+Key:1003567,Text:"Navegant..."},{
+Key:1003568,Text:"Navegar"},{
+Key:1003569,Text:"Obre la carpeta d'arxius d'àudio per la seva VideoPsalm"},{
+Key:1003570,Text:"&Inici (ms):"},{
+Key:1003571,Text:"&Final (ms):"},{
+Key:1003572,Text:"&Volum:"},{
+Key:1003573,Text:"&Jugar enrotllat"},{
+Key:1003575,Text:"&Modificada"},{
+Key:1003576,Text:"&Versió de:"},{
+Key:1003577,Text:"Editor de text \"Correcta\" esquerra"},{
+Key:1003578,Text:"Canvia entre un editor de text estàndard (escriptura d'esquerra a dreta) i a l'esquerra \"Correcta\" Editor per àrab, hebreu, etc."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Mostra sempre conjuntament (bilingüe)"},{
+Key:1003581,Text:"&Posició:"},{
+Key:1004050,Text:"Policia"},{
+Key:1004051,Text:"Mida"},{
+Key:1004052,Text:"Greix"},{
+Key:1004053,Text:"Format de cursiva"},{
+Key:1004054,Text:"Va destacar"},{
+Key:1004055,Text:"L'alineació"},{
+Key:1004056,Text:"Alineació vertical"},{
+Key:1004057,Text:"L'animació"},{
+Key:1004058,Text:"Durada"},{
+Key:1004059,Text:"Volum"},{
+Key:1004060,Text:"Mut?"},{
+Key:1004061,Text:"Inici"},{
+Key:1004062,Text:"Final"},{
+Key:1004063,Text:"Bucle?"},{
+Key:1004064,Text:"Veure imatge més gran"},{
+Key:1004100,Text:"Colors"},{
+Key:1004101,Text:"D'emplenament"},{
+Key:1004102,Text:"L'Entourage"},{
+Key:1004103,Text:"L'amplada de l'entorn"},{
+Key:1004104,Text:"Ombra"},{
+Key:1004105,Text:"Radi de l'ombra"},{
+Key:1004106,Text:"Profunditat d'ombra"},{
+Key:1004107,Text:"Direcció de l'ombra"},{
+Key:1004151,Text:"Vídeo"},{
+Key:1004152,Text:"Imatge"},{
+Key:1004153,Text:"Color"},{
+Key:1004156,Text:"Rectangle del cos"},{
+Key:1004157,Text:"Rectangle de capçalera"},{
+Key:1004158,Text:"El rectangle de peu"},{
+Key:1004500,Text:"Copiar el calendari al porta-retalls"},{
+Key:1004501,Text:"Una descripció de l'agenda ha col·locat al portapapers."},{
+Key:1004502,Text:"Paraules (títol i lletres) o n º de buscar"},{
+Key:1004503,Text:"Paraules (títol i lletres) o n º de buscar"},{
+Key:1004504,Text:"Paraules (títol) o buscar no."},{
+Key:1004505,Text:"Paraules (compositor i autor) o n º de buscar"},{
+Key:1004506,Text:"Paraules (temes) o número de buscar"},{
+Key:1004507,Text:"Paraules (referències) o número de buscar"},{
+Key:1004508,Text:"CCLI a buscar"},{
+Key:1004509,Text:"Paraules (copyright) o número de buscar"},{
+Key:1004510,Text:"Paraules (nota 1) o n º de buscar"},{
+Key:1004511,Text:"Paraules (Nota 2) o n º de buscar"},{
+Key:1004512,Text:"Paraules (nota 3) o n º de buscar"},{
+Key:1004513,Text:"Cançons amb acords"},{
+Key:1004514,Text:"Copiar el resum del compendi"},{
+Key:1004515,Text:"El resum del compendi va ser posat al porta-retalls."},{
+Key:1005001,Text:"Final de la càrrega"},{
+Key:1005002,Text:"Cançó de \"{0}\"."},{
+Key:1005003,Text:"Vídeos de càrrega"},{
+Key:1005004,Text:"Impossible de llegir el vídeo \"{0}\".
+{1}"},{
+Key:1005005,Text:"Carregar imatges"},{
+Key:1005006,Text:"No es pot llegir la imatge \"{0}\".
+{1}"},{
+Key:1005007,Text:"Càrrega d'estils"},{
+Key:1005008,Text:"Farciment de la llista de col·leccions ({0} cançons {1} col·leccions)"},{
+Key:1005009,Text:"Voleu suprimir els elements de l'agenda seleccionat?"},{
+Key:1005010,Text:"Eliminació d'elements"},{
+Key:1005011,Text:"Nova col·lecció"},{
+Key:1005012,Text:"Nova cançó"},{
+Key:1005013,Text:"L'agenda és buit.
+Obert un o arrossegueu aquí les cançons i versos per afegir a l'agenda."},{
+Key:1005014,Text:"No hi ha cap diapositiva per vídeo - projecte.
+Seleccionar una cançó o versos per al vídeo - projecte."},{
+Key:1005015,Text:"Voleu suprimir la col·lecció '{0}' realment?
+
+L'arxiu corresponent a aquesta col lecció no se suprimirà del disc:
+seva extensió serà rebatejat \".ignore."},{
+Key:1005016,Text:"Suprimeix una col·lecció"},{
+Key:1005017,Text:"Voleu suprimir la cançó '{0}'?
+
+Després del registre de les esmenes als llibres, l'eliminació d'aquesta cançó serà irreversible."},{
+Key:1005018,Text:"Suprimir una cançó"},{
+Key:1005019,Text:"Suprimir tots els elements de l'agenda?"},{
+Key:1005020,Text:"Suprimeix tot"},{
+Key:1005021,Text:"Ordre del dia sense un nom"},{
+Key:1005022,Text:"Calendari buit"},{
+Key:1005023,Text:"L'agenda actual conté canvis no desats.
+Voleu desar aquests canvis?"},{
+Key:1005024,Text:"Deseu el calendari"},{
+Key:1005025,Text:"Col·leccions d'un o més teniu canvis sense desar.
+Voleu desar aquests canvis?"},{
+Key:1005026,Text:"Leccions de discos"},{
+Key:1005027,Text:"Un o més Bíblies teniu canvis sense desar.
+Voleu desar aquests canvis?"},{
+Key:1005028,Text:"Salvar les Bíblies"},{
+Key:1005029,Text:"Afegeix documents a l'agenda"},{
+Key:1005030,Text:"Diaris"},{
+Key:1005031,Text:"Imatges"},{
+Key:1005032,Text:"Vídeos"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Deseu el calendari sota"},{
+Key:1005035,Text:"Cançons CCLI"},{
+Key:1005036,Text:"No hi ha cap col·lecció.
+Feu clic aquí per iniciar la importació informes Mag."},{
+Key:1005037,Text:"Format: {0}
+{1} × {2} píxels"},{
+Key:1005038,Text:"ms: {0}"},{
+Key:1005039,Text:"Voleu suprimir tots els estils per sota de l '{0}' realment?"},{
+Key:1005040,Text:"La col·lecció '{0}' està exclòs de la recerca"},{
+Key:1005041,Text:"Visualitza o moure's de la diapositiva"},{
+Key:1005042,Text:"Temporades"},{
+Key:1005043,Text:"Primavera"},{
+Key:1005044,Text:"L'estiu"},{
+Key:1005045,Text:"Nadal"},{
+Key:1005046,Text:"Temes"},{
+Key:1005047,Text:"Carmel"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Imaginació"},{
+Key:1005050,Text:"Cambra fosca"},{
+Key:1005051,Text:"Boira"},{
+Key:1005052,Text:"Pla del"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort contrast"},{
+Key:1005055,Text:"Oficina"},{
+Key:1005056,Text:"Office 2010 blau"},{
+Key:1005057,Text:"Office 2010 argent"},{
+Key:1005058,Text:"Negre d'Office 2010"},{
+Key:1005059,Text:"Office 2007 blau"},{
+Key:1005060,Text:"Office 2007 verd"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 argent"},{
+Key:1005063,Text:"Office 2007 negre"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Set"},{
+Key:1005067,Text:"Set clàssic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"L'encens"},{
+Key:1005070,Text:"Fum"},{
+Key:1005071,Text:"Poma"},{
+Key:1005072,Text:"Colors"},{
+Key:1005073,Text:"Cel líquid"},{
+Key:1005074,Text:"Cel de Londres"},{
+Key:1005075,Text:"Blau"},{
+Key:1005076,Text:"Bessons de diners"},{
+Key:1005077,Text:"Or negre"},{
+Key:1005078,Text:"Apagada"},{
+Key:1005079,Text:"Agut"},{
+Key:1005080,Text:"Sharp més"},{
+Key:1005081,Text:"Amb estrelles"},{
+Key:1005082,Text:"Oceans de vidre"},{
+Key:1005083,Text:"El món de l'asfalt"},{
+Key:1005084,Text:"Cafè"},{
+Key:1005085,Text:"Pols d'estels"},{
+Key:1005086,Text:"Suprimeix tots els estils per sota"},{
+Key:1005087,Text:"Mantenir la galeria oberta"},{
+Key:1005100,Text:"No hi ha animació"},{
+Key:1005102,Text:"S'esvaeixen"},{
+Key:1005103,Text:"Llum esvanir-se"},{
+Key:1005104,Text:"Veure imatge més gran"},{
+Key:1005105,Text:"L'expansió s'esvaeixen llum"},{
+Key:1005106,Text:"D'exploració"},{
+Key:1005107,Text:"Escanejar a la dreta"},{
+Key:1005109,Text:"Formulari"},{
+Key:1005110,Text:"Estrelles"},{
+Key:1005118,Text:"Escannegi avall"},{
+Key:1005120,Text:"Exploració a l'esquerra"},{
+Key:1005121,Text:"D'exploració cap amunt"},{
+Key:1005122,Text:"Escanejar des de dalt a la dreta"},{
+Key:1005123,Text:"Exploració de la part superior a l'esquerra"},{
+Key:1005124,Text:"Exploració del fons a la dreta"},{
+Key:1005125,Text:"Exploració de la part inferior a l'esquerra"},{
+Key:1005126,Text:"Descobrir"},{
+Key:1005127,Text:"Descobrir cap avall"},{
+Key:1005128,Text:"Descobrir el dret"},{
+Key:1005129,Text:"Descobreix l'esquerra"},{
+Key:1005130,Text:"Descobrir cap amunt"},{
+Key:1005131,Text:"Descobrir la part superior dreta"},{
+Key:1005132,Text:"Descobrir la part superior esquerra"},{
+Key:1005133,Text:"Descobrir la dreta avall"},{
+Key:1005134,Text:"Descobrir la part inferior esquerra"},{
+Key:1005200,Text:"Diapositives"},{
+Key:1005201,Text:"Cap diapositiva"},{
+Key:1005209,Text:"Cerca paraules en:"},{
+Key:1005210,Text:"&Títol i lletres"},{
+Key:1005211,Text:"&Títol i lletres"},{
+Key:1005212,Text:"&Títol"},{
+Key:1005213,Text:"&Autor i compositor"},{
+Key:1005214,Text:"&Temes"},{
+Key:1005215,Text:"&Referències"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Drets d'autor"},{
+Key:1005218,Text:"&Nota 1"},{
+Key:1005219,Text:"&Nota 2"},{
+Key:1005220,Text:"&Nota 3"},{
+Key:1005221,Text:"&Cançons amb acords"},{
+Key:1005223,Text:"Opcions"},{
+Key:1005224,Text:"VideoPsalm opcions"},{
+Key:1005225,Text:"Mostra el quadre de diàleg Opcions VideoPsalm."},{
+Key:1005226,Text:"Importació"},{
+Key:1005228,Text:"Mostra els llibres de Assistent per a importació, Bíblies, imatges i vídeos de la biblioteca en línia de VideoPsalm i formats populars."},{
+Key:1005230,Text:"Suprimir"},{
+Key:1005232,Text:"Treure el cant, la col. lecció o Bíblia seleccionat."},{
+Key:1005237,Text:"Canviar el tipus de lletra."},{
+Key:1005247,Text:"Imatges"},{
+Key:1005252,Text:"Editar les preferències de notificació."},{
+Key:1005253,Text:"Tanca aquesta finestra i recordar la informació la propera vegada."},{
+Key:1005254,Text:"Tanca aquesta finestra i ja no recordo aquesta informació."},{
+Key:1005255,Text:"Paraules o frase de cerca, per exemple: pa vi"},{
+Key:1005256,Text:"Seleccioneu versos per la seva referència"},{
+Key:1005257,Text:"Buscar els versets que contenen certes paraules clau o frase"},{
+Key:1005258,Text:"Suprimir la paraula clau o frase de cerca (ESC)"},{
+Key:1005259,Text:"Cerca els versets que contenen certes paraules clau.
+
+Per exemple:
+
+-Per trobar els versets que contenen la frase <b>\"fills de Déu\"</b>, escriu unes paraules com <b>\"fill de Déu\"</b>.
+
+-Per trobar el vers que conté la frase <b>\"va prendre la Copa\"</b>, escriu aquestes paraules múltiples: <b>«ilpritlacoupe»</b>.
+
+No preocupar-se per accents o signes de puntuació, o majúscules/minúscules.
+
+No cal escriure les paraules en el seu conjunt o en l'ordre.
+
+Afegir altres paraules del vers per reduir la llista dels trobats versos.
+
+Premeu el botó <b>Insereix</b> per afegir el vers trobat i seleccionats a l'agenda."},{
+Key:1005260,Text:"Cap vers no trobat."},{
+Key:1005268,Text:"En aquest mode, VideoPsalm afegeix automàticament entre claudàtors [] al voltant del text que introduïu.
+Per exemple, per afegir un c d'acord, escriviu «Fer» i VideoPsalm s'Insereix \"[fer]."},{
+Key:1005269,Text:"Cos de lletra"},{
+Key:1005270,Text:"Canvia la mida de font com a percentatge de l'alçada de la pantalla."},{
+Key:1005271,Text:"&Desa com..."},{
+Key:1005277,Text:"Desa"},{
+Key:1005278,Text:"Desa els canvis que heu fet en els llibres, Bíblies i els seus estils."},{
+Key:1005279,Text:"Desa els canvis que heu fet a les col·leccions i estils.
+
+<b>L'atenció:</b> Els canvis que feu a les Bíblies no es guarden (text i estils). Per desar aquests canvis, activar l'opció corresponent a les opcions de VideoPsalm."},{
+Key:1005283,Text:"Longitud:"},{
+Key:1005284,Text:"En ms:"},{
+Key:1005285,Text:"Element"},{
+Key:1005286,Text:"Cos"},{
+Key:1005287,Text:"L'estil de cos"},{
+Key:1005288,Text:"Permet l'edició de l'estil del cos."},{
+Key:1005289,Text:"Capçalera"},{
+Key:1005290,Text:"Estil de capçalera"},{
+Key:1005291,Text:"Permet l'edició de l'estil de la capçalera."},{
+Key:1005292,Text:"Peu"},{
+Key:1005293,Text:"Estil del peu"},{
+Key:1005294,Text:"Permet l'edició de l'estil del peu."},{
+Key:1005295,Text:"Acords"},{
+Key:1005296,Text:"L'estil dels acords"},{
+Key:1005297,Text:"Permet l'edició de l'estil dels acords."},{
+Key:1005308,Text:"Llibre"},{
+Key:1005313,Text:"Nivell d'estil"},{
+Key:1005314,Text:"Establir el nivell en el qual s'aplicaran els canvis d'estil.
+
+El vers té el nivell de l'estil més alt, llavors només cantant, col·lecció, col·leccions i la base.
+
+De la mateixa manera, el vers té el nivell de l'estil més alt, llavors ve el capítol, el llibre, el testament, la Bíblia, Bíblies i la base de nou.
+
+La base està en l'arrel de la jerarquia, el seu estil s'aplica a totes les diapositives.
+
+Un nivell més alt pot substituir un estil definit en un nivell inferior d'atribut."},{
+Key:1005315,Text:"<b></b>Aquest mecanisme permet canviar l'estil de les diapositives de manera general o particular.
+
+<b>Exemple</b>
+Si s'assigna un fons d'una cançó, tots els versos d'aquesta cançó apareixen amb aquest bagatge, excepte tots els versets que s'ha assignat un fons específic."},{
+Key:1005318,Text:"Diapositiva"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Vídeos"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Els colors de text"},{
+Key:1005329,Text:"Restablir"},{
+Key:1005330,Text:"Esborra l'estil del nivell seleccionat"},{
+Key:1005331,Text:"Podeu suprimir tots els atributs d'estil del nivell seleccionat.
+Una diapositiva sense estil hereta l'estil automàticament més baix nivell.
+
+Per exemple:
+-Una estrofa té un estil amb un tipus de lletra Candara.
+-Cant, mentrestant, té un estil amb una font Segoe UI.
+
+Quan vostè Esborra l'estil del vers, es mostrarà amb l'estil de nivell inferior. En el nostre exemple, serà la font Segoe UI.
+
+<b>Menú desplegable «suprimir tot damunt d'estils»</b>
+Podeu suprimir l'estil del nivell seleccionat i tots els estils més alt.
+
+Per exemple, si el nivell de l'estil 'Codi' és seleccionat, l'estil de la col·lecció se suprimiran, així com els estils de totes les cançons de la col·lecció i els de la seva estrofes."},{
+Key:1005332,Text:"Aquest botó s'esmorteeix quan el nivell de té cap estil propi."},{
+Key:1005333,Text:"&Suprimeix tot damunt d'estils"},{
+Key:1005337,Text:"&Part superior"},{
+Key:1005338,Text:"&Mitjà"},{
+Key:1005339,Text:"&Part inferior"},{
+Key:1005340,Text:"Allotjar en aquest nivell d'estil"},{
+Key:1005341,Text:"Mantenir-se en el nivell actual d'estil"},{
+Key:1005342,Text:"Es manté en el nivell actual d'estil quan es canvia la diapositiva.
+
+Per tant:
+<b>1.</b> Quan es mostrar el vers d'una cançó, VideoPsalm, posiciona el nivell d'estil el \"estrofa\".
+<b>2.</b> Per a canviar l'estil de cant del vers, seleccionar el nivell de l'estil \"cançó\".
+<b>3.</b> Per mantenir-se en el format de l'estil de les cançons, premeu el Pushpin.
+<b>4.</b> Quan es canvia des d'una estrofa a la següent, el nivell d'estil roman en \"cançó\"."},{
+Key:1005343,Text:"L'emplenament del text"},{
+Key:1005345,Text:"Omplir el text amb un color sòlid, un gradient, una imatge o una textura."},{
+Key:1005346,Text:"Color del text"},{
+Key:1005347,Text:"Contorn del text"},{
+Key:1005349,Text:"Especifica el color, amplada i la línia per al contorn de l'estil de text."},{
+Key:1005350,Text:"Color del text"},{
+Key:1005352,Text:"L'efecte de text"},{
+Key:1005354,Text:"Aplica un efecte visual al text, com ara una ombra, una llum, un reflex o un gir de 3-d."},{
+Key:1005356,Text:"Ombra del text"},{
+Key:1005357,Text:"Color del fons"},{
+Key:1005359,Text:"&Nova cançó"},{
+Key:1005360,Text:"&Nova col·lecció"},{
+Key:1005361,Text:"&Suprimeix tot"},{
+Key:1005362,Text:"
+
+<b>Escut parcial</b>
+A la inauguració d'una agenda, es conserven els <b>textos</b> dels seus llibres i Bíblies.
+S'aplicaran els estils del calendari als seus llibres i Bíblies."},{
+Key:1005363,Text:"
+
+<b>Escut parcial</b>
+A la inauguració d'una agenda, es conserven els <b>estils</b> dels seus llibres i Bíblies.
+Els textos de l'agenda s'aplicaran als seus llibres i Bíblies."},{
+Key:1005364,Text:"
+
+<b>Escut de ple</b>
+A la inauguració d'una agenda, <b>textos</b> i <b>estils</b> dels seus llibres i Bíblies es conserven.
+Els de l'agenda no s'aplicaran.
+
+<i>Això és l'estratègia a adoptar quan documents d'aquest PC són la seva referència.</i>"},{
+Key:1005365,Text:"
+
+<b>Absència d'escut</b>
+En l'obertura d'una agenda, <b>textos</b> i <b>estils</b> del calendari s'aplicaran als seus llibres i Bíblies i substituir els seus textos i estils.
+
+<i>Això és l'estratègia a adoptar quan els documents de referència són els del PC en el qual vostè crear l'agenda.</i>"},{
+Key:1005366,Text:"Per canviar de la \"espectador\" a \"Edita\" mode o viceversa, feu clic al botó amb el llapis."},{
+Key:1005369,Text:"Ordenar per títol"},{
+Key:1005370,Text:"Ordenats per nombre"},{
+Key:1005371,Text:"Sobre..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simula la projecció de vídeo
+en una pantalla a l'aspecte 4:3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simula la projecció de vídeo
+en un aspecte de pantalla 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simula la projecció de vídeo
+en una pantalla a l'aspecte 4:3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simula la projecció de vídeo
+en un aspecte de pantalla 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simula la projecció de vídeo
+en un aspecte de pantalla 16:8"},{
+Key:1005387,Text:"Corrent"},{
+Key:1005388,Text:"Utilitza tota la superfície de la pantalla"},{
+Key:1005389,Text:"L'aspecte 4:3"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Mode d'inserció dels acords"},{
+Key:1005398,Text:"Mostrar els acords sobre les lletres"},{
+Key:1005400,Text:"També ajustar l'aparença de la finestra"},{
+Key:1005401,Text:"&Afegir al calendari"},{
+Key:1005402,Text:"&Suprimeix (Suprimeix)"},{
+Key:1005403,Text:"&Codi d'incloure en la cerca"},{
+Key:1005404,Text:"&Excloure la col·lecció d'investigació"},{
+Key:1005405,Text:"&Inclouen totes les col·leccions a la cerca"},{
+Key:1005407,Text:"&Amaga exclosos de les col·leccions de recerca"},{
+Key:1005408,Text:"&Mostra exclosos de les col·leccions de recerca"},{
+Key:1005409,Text:"&El rectangle de la mida d'exhibició"},{
+Key:1005410,Text:"Mostra el rectangle de Canvi de mida"},{
+Key:1005411,Text:"Permet canviar la mida de l'estructura (el text del cos, la capçalera o el peu) seleccionat.
+
+L'estructura es poden redimensionar amb el ratolí a l'àrea de visualització prèvia.
+
+<b>Com canviar la mida d'un marc</b>
+
+1. Seleccionar una estructura per canviar la mida:
+-el cos
+-l'encapçalament,
+- o al peu.
+
+2. Seleccionar el nivell necessari d'estil, per exemple \"Bíblies\".
+
+3. Premeu en l'error d'obligar a VideoPsalm una exhibició de diapositives en l'estil \"Bíblies\".
+De fet, si l'error no és premut, VideoPsalm automàticament canvia a l'estil de \"Vers\" tan aviat com es mostrar un vers.
+
+4 Mostren un vers. La zona de vista prèvia Mostra l'estructura que utilitza l'estil \"Bíblies\".
+
+5 Canviar la mida i la posició del quadre amb el ratolí.
+
+6. Traieu l'error, per tornar VideoPsalm a l'estil de \"Vers\" quan es mostrarà una altra vegada una diapositiva."},{
+Key:1005412,Text:"&Copia els un resum del codi al porta-retalls"},{
+Key:1005417,Text:"Text"},{
+Key:1005418,Text:"Explorador d'estils"},{
+Key:1005419,Text:"Mostra o amaga l'estil de l'Explorador.
+En aquesta finestra, podeu navegar entre els nivells d'estils jeràrquics, per restaurar les propietats de l'individu i editar-los."},{
+Key:1005420,Text:"Estils"},{
+Key:1005421,Text:"Policia"},{
+Key:1005424,Text:"Fons"},{
+Key:1005425,Text:"Estils"},{
+Key:1005429,Text:"Aspecte"},{
+Key:1005430,Text:"Edició"},{
+Key:1005432,Text:"Aparició"},{
+Key:1005433,Text:"Eines"},{
+Key:1005442,Text:"Continuar amb l'element següent"},{
+Key:1005443,Text:"Girar-se abans d'anar"},{
+Key:1005444,Text:"Suprimiu el text i després seguir"},{
+Key:1005445,Text:"Eliminar el text i llavors giri's"},{
+Key:1005446,Text:"Mostrar junts amb l'element següent (bilingüe)"},{
+Key:1005447,Text:"Afegir la veu o l'agenda seleccionat versos (inserció o Alt + A)"},{
+Key:1005448,Text:"Feu clic aquí per afegir la veu o els versos a l'agenda.
+
+Alternativament, pot arrossegar i deixar anar aquest botó en el calendari al lloc que hauria de ser."},{
+Key:1005449,Text:"&Afegir"},{
+Key:1005454,Text:"Escull les opcions per buscar cançons per paraules clau"},{
+Key:1005455,Text:"Suprimir les paraules o el número a la recerca (ESC)"},{
+Key:1005457,Text:"Cerca una cançó (Ctrl + F)"},{
+Key:1005458,Text:"Cerca les cançons que continguin certes paraules o tenen un número.
+
+Per exemple:
+
+-Per trobar la cançó núm. 250, de tipus «250»
+
+-Trobar la cançó que conté les lletres de cançó <b>' com un far en la nit \"</b>, escrigui unes quantes paraules com <b>'nit de llum'</b>.
+
+No et preocupis per la accents o signes de Puntuació.
+
+No hi ha necessitat de prendre les paraules en el seu conjunt o en l'ordre.
+
+Afegir altres paraules de la cançó per reduir la llista de cançons s'ha trobat.
+
+Premeu el botó <b>Insereix</b> per afegir la primera cançó que s'ha trobat en l'agenda."},{
+Key:1005459,Text:"No hi ha cap Bíblia.
+Feu clic aquí per iniciar l'Auxiliar d'importació
+Bíblies i afegir Bíblies de les fonts populars."},{
+Key:1005463,Text:"Suprimir la referència per mostrar (ESC)"},{
+Key:1005464,Text:"Referència per seleccionar, p. ex: Romans 3:23-25, 30"},{
+Key:1005465,Text:"Seleccioneu versos (Ctrl + F)"},{
+Key:1005472,Text:"&Fitxer:"},{
+Key:1005475,Text:"&Aquesta col lecció d'incloure en la recerca de cançons"},{
+Key:1005479,Text:"&Nom:"},{
+Key:1005481,Text:"&Abreviatura:"},{
+Key:1005483,Text:"&Autor:"},{
+Key:1005485,Text:"&Drets d'autor:"},{
+Key:1005487,Text:"&Document:"},{
+Key:1005491,Text:"&El capo d'impressió"},{
+Key:1005497,Text:"&Lletres de cançons"},{
+Key:1005499,Text:"&Nombre:"},{
+Key:1005501,Text:"&Títol:"},{
+Key:1005505,Text:"&Referència:"},{
+Key:1005507,Text:"&Drets d'autor:"},{
+Key:1005509,Text:"&Autor:"},{
+Key:1005511,Text:"&Compositor:"},{
+Key:1005513,Text:"&Diversos"},{
+Key:1005515,Text:"&To:"},{
+Key:1005517,Text:"&Format:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Seqüència:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Clau:"},{
+Key:1005527,Text:"&Àlies:"},{
+Key:1005529,Text:"&Línia clau:"},{
+Key:1005531,Text:"&Nota 1:"},{
+Key:1005533,Text:"&Nota 2:"},{
+Key:1005535,Text:"&Nota 3:"},{
+Key:1005537,Text:"&Signatura:"},{
+Key:1005540,Text:"&Transposició:"},{
+Key:1005541,Text:"El capo d'impressió?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"D'implementar els acords de la cançó."},{
+Key:1005555,Text:"&Fitxer:"},{
+Key:1005560,Text:"&Drets d'autor:"},{
+Key:1005562,Text:"&Abreviatura:"},{
+Key:1005564,Text:"&Nom:"},{
+Key:1005566,Text:"&Descripció/controls:"},{
+Key:1005568,Text:"&Introducció:"},{
+Key:1005570,Text:"&Document:"},{
+Key:1005576,Text:"&Nom:"},{
+Key:1005582,Text:"&Nom:"},{
+Key:1005584,Text:"&Introducció:"},{
+Key:1005586,Text:"&Abreviatura:"},{
+Key:1005587,Text:"Capítol de la Bíblia"},{
+Key:1005590,Text:"Vers de la Bíblia"},{
+Key:1005595,Text:"&Vers:"},{
+Key:1005603,Text:"&Fitxer:"},{
+Key:1005606,Text:"No hi ha selecció"},{
+Key:1005608,Text:"Estil"},{
+Key:1005612,Text:"Elimina el valor de la propietat"},{
+Key:1005613,Text:"Quan suprimiu el valor d'una propietat, VideoPsalm utilitza el primer valor trobat en els nivells inferiors.
+
+Per exemple, si es treu la policia a nivell del vers, usos VideoPsalm, en l'ordre i que estigui ben, el tipus de lletra:
+-cant,
+-en cas contrari la col·lecció,
+-Si una de les col·leccions,
+-en cas contrari la base.
+
+VideoPsalm és el mateix amb Bíblies, fotografies, etc."},{
+Key:1005615,Text:"Cap"},{
+Key:1005616,Text:"Base"},{
+Key:1005618,Text:"Col·leccions"},{
+Key:1005619,Text:"Col. lecció"},{
+Key:1005620,Text:"Veu"},{
+Key:1005621,Text:"L'estrofa"},{
+Key:1005622,Text:"Bíblies"},{
+Key:1005623,Text:"Bíblia"},{
+Key:1005624,Text:"Testament"},{
+Key:1005625,Text:"Llibre de la Bíblia"},{
+Key:1005626,Text:"Capítol"},{
+Key:1005627,Text:"Vers"},{
+Key:1005628,Text:"Valor per defecte"},{
+Key:1005629,Text:"El valor del cos del text"},{
+Key:1005630,Text:"L'esquerra"},{
+Key:1005631,Text:"Centrat en"},{
+Key:1005632,Text:"Dret"},{
+Key:1005633,Text:"Justificada"},{
+Key:1005634,Text:"Part superior"},{
+Key:1005635,Text:"Mitjà"},{
+Key:1005636,Text:"Part inferior"},{
+Key:1005650,Text:"&Obrir un calendari..."},{
+Key:1005651,Text:"&Afegir calendaris..."},{
+Key:1005652,Text:"&Afegir imatges slideshow..."},{
+Key:1005653,Text:"&Afegir vídeos autònoms..."},{
+Key:1005654,Text:"&Afegir alguns PowerPoints..."},{
+Key:1005655,Text:"Quan obro un calendari:"},{
+Key:1005656,Text:"&Preservar els textos dels meus llibres i Bíblies"},{
+Key:1005657,Text:"&Preservar els estils dels meus llibres i Bíblies"},{
+Key:1005667,Text:"&Col·leccions"},{
+Key:1005668,Text:"Mostra les col·leccions (Alt + R)"},{
+Key:1005670,Text:"&Bíblies"},{
+Key:1005671,Text:"Visualitza les Bíblies (Alt + B)"},{
+Key:1005677,Text:"&Amplada:"},{
+Key:1005680,Text:"&Blur:"},{
+Key:1005681,Text:"&Profunditat:"},{
+Key:1005682,Text:"&Direcció:"},{
+Key:1005686,Text:"Mostra una pantalla en blanc, negre, color.
+Simula l'extinció del projector."},{
+Key:1005687,Text:"Següent"},{
+Key:1005688,Text:"Avançar a la diapositiva següent."},{
+Key:1005689,Text:"Girar-se de la pantalla (Control + W)"},{
+Key:1005690,Text:"Text de la pantalla (Control + T)"},{
+Key:1005691,Text:"Mostra o amaga el text en una diapositiva."},{
+Key:1005692,Text:"Escut (Ctrl + B)"},{
+Key:1005693,Text:"Conserva les veus que les diapositives de projecció de vídeo.
+
+Per treballar en l'agenda o la recerca d'una cançó o un vers durant la projecció en video de cant.
+
+Per substituir l'escut, feu doble clic a un element de l'agenda."},{
+Key:1005694,Text:"Congelació"},{
+Key:1005695,Text:"Es congela la pantalla de projecció de vídeo sense congelar l'àrea de visualització prèvia.
+
+Per obtenir una visualització prèvia de la presentació durant la projecció de vídeo."},{
+Key:1005696,Text:"Projecte (Ctrl + P)"},{
+Key:1005697,Text:"Projecció diapositives a la pantalla del projector."},{
+Key:1005698,Text:"Mode d 'Edició' (Control + E)"},{
+Key:1005699,Text:"Canvis de el \"espectador\" a \"Edita\" mode o viceversa."},{
+Key:1005702,Text:"Obre un calendari o un document"},{
+Key:1005703,Text:"Obre un calendari, o afegir una presentació de PowerPoint, imatges per una presentació de diapositives, vídeos, etc."},{
+Key:1005704,Text:"Deseu el calendari"},{
+Key:1005705,Text:"Suprimir"},{
+Key:1005706,Text:"Suprimeix els elements seleccionats a l'agenda (suprimeixi)."},{
+Key:1005707,Text:"Puig (Ctrl + pàg)"},{
+Key:1005708,Text:"Monte l'element a l'inici de l'agenda."},{
+Key:1005709,Text:"S (Ctrl + pàgina avall)"},{
+Key:1005710,Text:"Avall l'element al final de l'agenda."},{
+Key:1005711,Text:"Brillantor"},{
+Key:1005712,Text:"Obrir un calendari"},{
+Key:1005713,Text:"Desa l'agenda al disc o una clau USB."},{
+Key:1005721,Text:"Selecciona els versos per la seva referència.
+<i>Exemple: Romans 3:23-25, 30</i>
+
+No introdueixi accents en els noms dels llibres.
+<i>Exemple: ' n<b>e</b>h<b>e</b>mie \"en lloc de\" N<b>é</b>h<b>é</b>mie \".</i>
+
+Introduir un <b>': '</b>, un <b>\".\"</b> o una <b>\"v\"</b> per separar els capítols dels versos.
+
+Premeu la tecla <b>'Inserir'</b> per afegir els versos seleccionats a l'agenda."},{
+Key:1005722,Text:"Comentaris (no es tradueixen, per deixar en anglès)"},{
+Key:1005723,Text:"No es pot escriure al fitxer
+{0} :
+{1}"},{
+Key:1005724,Text:"Error"},{
+Key:1005725,Text:"No es pot llegir el fitxer
+{0} :
+{1}"},{
+Key:1005730,Text:"Esteu segur que voleu suprimir l'estil de imatges de la presentació de diapositives?
+L'estil de imatges slideshow tindrà un valor estàndard."},{
+Key:1005731,Text:"Esteu segur que voleu suprimir l'estil de base?
+L'estil de base tindrà un valor estàndard."},{
+Key:1005732,Text:"Esteu segur que voleu suprimir l'estil de les col·leccions?
+L'estil de les col·leccions tindrà un valor estàndard."},{
+Key:1005733,Text:"Esteu segur que voleu suprimir l'estil Bíblies?
+L'estil de les Bíblies tindrà un valor estàndard."},{
+Key:1005734,Text:"Esteu segur que voleu suprimir aquest estil?
+VideoPsalm aplicar els atributs d'estil s'ha trobat més baix dins la jerarquia."},{
+Key:1005735,Text:"Estil clar"},{
+Key:1005736,Text:"Esteu segur que voleu suprimir l'estil dels vídeos?
+L'estil dels vídeos tindrà un valor estàndard."},{
+Key:1005737,Text:"Una col lecció"},{
+Key:1005738,Text:"Sense col·lecció"},{
+Key:1005739,Text:"Una Bíblia"},{
+Key:1005740,Text:"No hi ha Bíblia"},{
+Key:1005743,Text:"Amplia el tipus de lletra (Control + Maj +.)"},{
+Key:1005744,Text:"Augmenta la mida de font."},{
+Key:1005745,Text:"Reduir el tipus de lletra (Control + Maj +,)"},{
+Key:1005746,Text:"Redueix la mida de la font."},{
+Key:1005747,Text:"Negreta (Ctrl + B)"},{
+Key:1005748,Text:"Posar el text seleccionat per mostrar en negreta."},{
+Key:1005749,Text:"Cursiva (Control + I)"},{
+Key:1005750,Text:"Posar el text seleccionat a la cursiva."},{
+Key:1005751,Text:"Assenyalat (Ctrl + U)"},{
+Key:1005752,Text:"Subratllar el text seleccionat."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Dibuixa una línia al mig del text seleccionat."},{
+Key:1005755,Text:"Mostra / amaga ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Visualitza marques de paràgraf i altres símbols de format amagat."},{
+Key:1005757,Text:"Color de lletra"},{
+Key:1005758,Text:"Canviar el color del text."},{
+Key:1005759,Text:"Color del text"},{
+Key:1005760,Text:"Dóna un color al text."},{
+Key:1005761,Text:"Clar format (Ctrl + Espai)"},{
+Key:1005762,Text:"Totalment Esborra el format de la selecció i conserva només el text sense format."},{
+Key:1005763,Text:"Desfer (Ctrl + Z)"},{
+Key:1005764,Text:"Cancel·la l'última operació."},{
+Key:1005765,Text:"Refer (Ctrl + Y)"},{
+Key:1005766,Text:"Refà l'última operació."},{
+Key:1005767,Text:"Talla (Ctrl + X)"},{
+Key:1005768,Text:"Retalla la selecció i inserir-lo al porta-retalls."},{
+Key:1005769,Text:"Còpia (Ctrl + C)"},{
+Key:1005770,Text:"Copia la selecció i la col·loca al porta-retalls."},{
+Key:1005771,Text:"Enganxa (Ctrl + V)"},{
+Key:1005772,Text:"Enganxa el contingut del porta-retalls."},{
+Key:1005773,Text:"Cerca (Ctrl + F)"},{
+Key:1005774,Text:"Cerca el text del document."},{
+Key:1005775,Text:"Substitueix (control + H)"},{
+Key:1005776,Text:"Substitueix el text del document."},{
+Key:1005777,Text:"Ampliar"},{
+Key:1005778,Text:"Mostra-ho tot"},{
+Key:1005779,Text:"Per editar un vers específic, feu clic a la diapositiva."},{
+Key:1005780,Text:"Selecció de versos"},{
+Key:1005781,Text:"Ordena la col·lecció seleccionada per les seves cançons de títol."},{
+Key:1005782,Text:"Tanca l'agenda actual (i demana la confirmació si allà no desats els canvis)."},{
+Key:1005783,Text:"Ajusta la brillantor de la imatge o el fons de vídeo.
+
+Permet el ressaltat de text, fins i tot sobre un fons de barriole."},{
+Key:1005784,Text:"&Copiar una descripció de l'agenda"},{
+Key:1005785,Text:"&Inclouen les lletres de cançons"},{
+Key:1005786,Text:"&Inclouen versos Bíblics"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Refilar"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Obre la pàgina de facebook VideoPsalm.
+
+Deixa saber VideoPsalm al teu voltant:
+-clicant el botó \"m'agrada\"
+-per convertir-se en el seu amic.
+
+<b>Nota:</b> Per eliminar els anuncis de Facebook, instal·li el plugin lliure <b>Adblock Plus</b>.
+
+Per amagar icones socials VideoPsalm, impossibilitar-los a la pestanya \"Opcions\" → \"Général\"."},{
+Key:1005791,Text:"Obre la pàgina de VideoPsalm Twitter, per estar informat dels nous articles dels blocs.
+
+Per amagar icones socials VideoPsalm, impossibilitar-los a la pestanya \"Opcions\" → \"Général\"."},{
+Key:1005792,Text:"Obre la pàgina de VideoPsalm YouTube, on trobareu tutorials en vídeo sobre l'ús de VideoPsalm.
+
+Per amagar icones socials VideoPsalm, impossibilitar-los a la pestanya \"Opcions\" → \"Général\"."},{
+Key:1005793,Text:"Afegeix una nova cançó buit (o un anunci) a la col·lecció seleccionada."},{
+Key:1005794,Text:"Afegeix una nova col·lecció de buit."},{
+Key:1005795,Text:"Ordena les cançons de la col·lecció seleccionada pel seu nombre."},{
+Key:1005800,Text:"L'estrofa"},{
+Key:1005801,Text:"Cor"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Pont"},{
+Key:1005804,Text:"Etiqueta"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Sortida"},{
+Key:1005807,Text:"Relliscada"},{
+Key:1005808,Text:"Instrumental i de cambra"},{
+Key:1005809,Text:"Altres"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"JO"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Tancar"},{
+Key:1005851,Text:"&Idioma:"},{
+Key:1005852,Text:"&Editor:"},{
+Key:1005853,Text:"Tots els"},{
+Key:1005859,Text:"Transposar acords cançó en funció de la posició de la capodiastre."},{
+Key:1005860,Text:"Trobar les cançons, incloent-hi el títol (o àlies) o les lletres hi ha les paraules que introduïu.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005861,Text:"Realitza una cerca en dues etapes, que l'avantatge de mostrar de pressa una breu llista de cançons:
+
+1 Descobriment en una primera cançons de temps incloent-hi el títol (o àlies) conté les paraules que entres.
+
+Que afegir paraules, no hi arriba un moment on la majoria qualsevol cançó pot d'acord.
+
+2. Des d'aquest punt, VideoPsalm es busca les paraules en les lletres de les cançons.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005862,Text:"Trobar cançons de compositors que introduïu.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005863,Text:"Trobar cançons que tenen a veure amb temes que entres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005864,Text:"Trobar les cançons inspirat per referències bíbliques que entres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005865,Text:"És la cançó que té el CCLI entrar.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005866,Text:"Trobar cançons el drets d'autor conté les paraules que entres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005867,Text:"Trobar cançons la nota 1 conté les paraules que entres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005868,Text:"Trobar cançons la nota 2 conté les paraules que entres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005869,Text:"Trobar cançons 3 nota que contenen les paraules que entres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005870,Text:"Trobar cançons el títol dels quals o àlies conté les paraules que entres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005871,Text:"Trobar les cançons que tenen acords en les lletres.
+
+Alternativament, vostè pot buscar una cançó pel seu número."},{
+Key:1005872,Text:"&Versió de:"},{
+Key:1005873,Text:"&Versió de:"},{
+Key:1005874,Text:"Data de la seva versió de la col·lecció"},{
+Key:1005875,Text:"Indica la data en què aquesta col·lecció s'ha actualitzat per VideoPsalm per última vegada.
+
+Través de la biblioteca en línia de VideoPsalm Auxiliar d'importació, pot comprovar si hi ha una versió més nova d'aquest manual.
+
+En línia VideoPsalm a vegades Actualitza algunes col·leccions, per corregir per exemple qualsevol errors tipogràfics."},{
+Key:1005876,Text:"Data de la seva versió de Bíblia"},{
+Key:1005877,Text:"Indica la data en què aquesta Bíblia s'ha actualitzat per VideoPsalm per última vegada.
+
+Mitjançant l'auxiliar importació de VideoPsalm Biblioteca en línia, vostè pot comprovar si hi ha una versió més nova d'aquesta traducció.
+
+En línia VideoPsalm a vegades Actualitza algunes Bíblies, per corregir per exemple qualsevol errors tipogràfics."},{
+Key:1005878,Text:"Comprimit"},{
+Key:1005879,Text:"Comprimit"},{
+Key:1005880,Text:"VideoPsalm pot comprimir els seus cobraments i el seu Bíblies, així estalviar espai de disc.
+
+Llibres i Bíblies que descarrega mitjançant l'Auxiliar d'importació són típicament comprimit, per tal d'accelerar la descàrrega i per reduir el tràfic d'internet en el lloc de VideoPsalm."},{
+Key:1005881,Text:"&Comprimit"},{
+Key:1005882,Text:"&Comprimit"},{
+Key:1005884,Text:"Voleu suprimir la Bíblia '{0}' realment?
+
+L'arxiu corresponent a aquesta Bíblia no se suprimirà del disc:
+seva extensió serà rebatejat \".ignore."},{
+Key:1005885,Text:"Suprimir una Bíblia"},{
+Key:1005886,Text:"Si us plau, espereu"},{
+Key:1005887,Text:"De càrrega en curs..."},{
+Key:1005888,Text:"Antic Testament"},{
+Key:1005889,Text:"Nou Testament"},{
+Key:1005890,Text:"Registre actual..."},{
+Key:1005891,Text:"&Imatges d'importació"},{
+Key:1005892,Text:"Seleccioneu les imatges que voleu importar i feu clic a \"Obre\"."},{
+Key:1005893,Text:"Ha importat {0} Marc (s)."},{
+Key:1005894,Text:"S'ha importat cap imatge.
+(Ella (s) es troba (s) a la galeria)."},{
+Key:1005895,Text:"&Torneu a crear les miniatures"},{
+Key:1005896,Text:"Torneu a crear les miniatures"},{
+Key:1005897,Text:"Voleu tornar a crear les miniatures?
+
+Podria ser necessari tornar a crear les miniatures de les imatges
+Quan heu fet canvis fora de VideoPsalm."},{
+Key:1005898,Text:"&Suprimeix la imatge"},{
+Key:1005899,Text:"Eliminar una imatge"},{
+Key:1005900,Text:"Voleu suprimir la imatge '{0}' realment?"},{
+Key:1005901,Text:"&Explorar la carpeta d'imatges"},{
+Key:1005902,Text:"&Suprimir la imatge seleccionada"},{
+Key:1005903,Text:"&Vídeos d'importació"},{
+Key:1005904,Text:"Selecciona els vídeos que voleu importar i feu clic a \"Obre\"."},{
+Key:1005905,Text:"Ha importat {0} video (s)."},{
+Key:1005906,Text:"S'ha importat cap vídeo.
+(Ella (s) es troba (s) a la galeria)."},{
+Key:1005907,Text:"&Torneu a crear les miniatures"},{
+Key:1005908,Text:"&Suprimeix el vídeo"},{
+Key:1005909,Text:"Suprimir un vídeo"},{
+Key:1005910,Text:"Voleu suprimir el vídeo '{0}' realment?"},{
+Key:1005911,Text:"&Explorar la carpeta de vídeos"},{
+Key:1005912,Text:"&Suprimeix el vídeo seleccionat"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Importació d'imatges"},{
+Key:1005915,Text:"Vídeos d'importació"},{
+Key:1005917,Text:"No es pot crear la carpeta
+{0} :
+{1}"},{
+Key:1005918,Text:"La carpeta especificada no inclou suport tècnic:
+{0}"},{
+Key:1005919,Text:"La carpeta són obligatoris."},{
+Key:1005920,Text:"Un nom de carpeta no pot contenir els caràcters següents:
+{0}"},{
+Key:1005921,Text:"Restauració llibres i Bíblies"},{
+Key:1005922,Text:"Per restaurar el col. leccions, Bíblies, fotografies o vídeos, per exemple d'una còpia de seguretat en un USB s'enganxen."},{
+Key:1005923,Text:"Tancar"},{
+Key:1005930,Text:"&Copiar la cançó per"},{
+Key:1005931,Text:"&Moure la cançó per"},{
+Key:1005932,Text:"Realment voleu copiar la cançó \"{0}\".
+a la col·lecció '{1}'?"},{
+Key:1005933,Text:"Realment vols moure la cançó \"{0}\".
+a la col·lecció '{1}'?"},{
+Key:1005934,Text:"&Introduïu les referències mitjançant les abreviatures"},{
+Key:1005935,Text:"&Mostrar el nom de llibres en francès"},{
+Key:1005936,Text:"(Còpia)"},{
+Key:1005937,Text:"Un llibre nou està disponible:
+{0}"},{
+Key:1005938,Text:"Hi ha noves col·leccions: {0}"},{
+Key:1005939,Text:"S'han fet correccions
+la col·lecció \"{0}\"."},{
+Key:1005940,Text:"S'han fet correccions
+codis següents: {0}"},{
+Key:1005941,Text:"Obrir l'auxiliar importació de col·leccions"},{
+Key:1005942,Text:"Una Bíblia nou està disponible:
+{0}"},{
+Key:1005943,Text:"Hi ha Bíblies nous: {0}"},{
+Key:1005944,Text:"S'han fet correccions
+la Bíblia \"{0}\"."},{
+Key:1005945,Text:"S'han fet correccions
+en les Bíblies següents: {0}"},{
+Key:1005946,Text:"Obrir l'Auxiliar per a importació de Bíblies"},{
+Key:1005947,Text:"VideoPsalm està novament disponible
+a {0}"},{
+Key:1005948,Text:"VideoPsalm està novament disponible en: {0}"},{
+Key:1005949,Text:"S'han fet correccions
+les etiquetes a {0}"},{
+Key:1005950,Text:"S'han fet correccions
+les etiquetes de les llengües següents: {0}"},{
+Key:1005951,Text:"Obriu la importació d'Auxiliar d'etiquetes"},{
+Key:1005952,Text:"Una versió més recent
+VideoPsalm està disponible:"},{
+Key:1005953,Text:"Seleccionar Notícies"},{
+Key:1005954,Text:"Automàtica"},{
+Key:1005955,Text:"Explorar la carpeta seleccionada"},{
+Key:1005956,Text:"Trieu una carpeta"},{
+Key:1005957,Text:"Visualitza fitxers recents"},{
+Key:1005958,Text:"Desa"},{
+Key:1005959,Text:"Permet guardar el seu coŀleccions, Bíblies, imatges o vídeos, o fer una versió portàtil de VideoPsalm, per exemple en un pal d'USB."},{
+Key:1005960,Text:"&Restaura..."},{
+Key:1005961,Text:"VideoPsalm no és capaç de mostrar els documents del PowerPoint.
+
+(Sense aplicació de tipus PowerPoint s'ha detectat en el seu PC)."},{
+Key:1005962,Text:"PowerPoint de l'error"},{
+Key:1005963,Text:"Fer {0} editable de la col·lecció \"{1}\"."},{
+Key:1005964,Text:"Fer {0} editable de la col·lecció..."},{
+Key:1005965,Text:"Fer {0} editable de la nova col·lecció \"{1}\"."},{
+Key:1005966,Text:"Passatges bíblics"},{
+Key:1005967,Text:"&Costum passatges de la Bíblia"},{
+Key:1005968,Text:"&Descripció/controls:"},{
+Key:1005969,Text:"&Idioma:"},{
+Key:1005970,Text:"&Editor:"},{
+Key:1005971,Text:"&L'administrador:"},{
+Key:1005973,Text:"&L'administrador:"},{
+Key:1005974,Text:"Dalt el text"},{
+Key:1005975,Text:"Acords sobre el text"},{
+Key:1005976,Text:"Aquesta és la manera recomanada d'editar les lletres.
+En editar el text, es mou cada acord amb la lletra a la qual es troba ancorat.
+
+Quan vostè <b>còpia text que continguin acords</b>, convenis són copiats amb text, el format de ChordPro.
+
+Quan s'enganxa text que conté els acords en el format de ChordPro, VideoPsalm Mostra aquests acords sobre el text.
+
+<b>Per afegir un acord</b>, Insereix l'esquerra de la lletra que voleu moll, per que l'envolta amb suports <b>[]</b>.
+
+<b>Per suprimir un acord</b>, suprimir la lletra que es talla i després torneu a escriure la carta.
+
+<b>Modificar un acord</b>, suprimir llavors inserir-lo correctament (o utilitzar el mode \" <b>Format ChordPro</b> \")."},{
+Key:1005977,Text:"Format de ChordPro"},{
+Key:1005978,Text:"Acords en el format ChordPro"},{
+Key:1005979,Text:"En aquesta manera:
+
+-VideoPsalm Mostra les lletres i acords amb el <b>format de ChordPro</b>.
+
+-És la manera ideal per editar acords: VideoPsalm afegeix automàticament entre claudàtors [] al voltant del text que introduïu.
+Per exemple, afegir un acord c, escriviu «Fer» i VideoPsalm inserirà \"[Do]\".
+
+Atenció: aquest mode no és adequat per editar la lletra, perquè segons els casos, VideoPsalm envolta les lletres de ganxos.
+Utilitzar bastant<b>per sobre el text</b>\"mode editar el text."},{
+Key:1005980,Text:"Acords"},{
+Key:1005981,Text:"Còpia"},{
+Key:1005982,Text:"Copia una descripció del calendari i posar-lo al portapapers."},{
+Key:1005983,Text:"&Permeten PowerPoint utilitzar \"presentador\"."},{
+Key:1005984,Text:"Quan aquesta casella està marcada, fulles VideoPsalm PowerPoint mostrar la interfície d'ordres per conduir l'avenç de la presentació."},{
+Key:1005985,Text:"Navegar una vegada"},{
+Key:1005986,Text:"LOOP"},{
+Key:1005987,Text:"Avançant manualment"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Avanç automàtic..."},{
+Key:1005990,Text:"&Avançant manualment"},{
+Key:1005991,Text:"&LOOP"},{
+Key:1005992,Text:"&Navegar una vegada"},{
+Key:1005993,Text:"&Interval (segons):"},{
+Key:1005994,Text:"&Fer desaparèixer el text i llavors giri's"},{
+Key:1005995,Text:"&Seguiment amb l'element següent"},{
+Key:1005996,Text:"&Girar-se abans d'anar"},{
+Key:1005997,Text:"&Desapareixent text llavors seguir"},{
+Key:1005998,Text:"&Mostrar junts amb l'element següent (bilingüe)"},{
+Key:1005999,Text:"&Explorador"},{
+Key:1006000,Text:"Assistent per a importació"},{
+Key:1006001,Text:"Benvinguts a la importació de llibres, Bíblies, imatges i vídeos auxiliar"},{
+Key:1006002,Text:"Aquest auxiliar Simplifica la importació de llibres, Bíblies, imatges i vídeos de la biblioteca en línia VideoPsalm o formats populars guiar-lo a través d'una sèrie de passos."},{
+Key:1006003,Text:"Clic Pròxim continuar"},{
+Key:1006004,Text:"&Triar..."},{
+Key:1006005,Text:"&Següent &gt;"},{
+Key:1006006,Text:"&&lt; Anterior"},{
+Key:1006007,Text:"&Ajuda"},{
+Key:1006008,Text:"&Acabat"},{
+Key:1006009,Text:"&Abandonament"},{
+Key:1006010,Text:"Podeu importar llibres, Bíblies, fotografies o vídeos"},{
+Key:1006011,Text:"Trieu el que voleu importar"},{
+Key:1006012,Text:"Importar una col·lecció"},{
+Key:1006013,Text:"Importar una Bíblia"},{
+Key:1006014,Text:"Imatges d'importació"},{
+Key:1006015,Text:"Vídeos d'importació"},{
+Key:1006016,Text:"Una llengua de la importació"},{
+Key:1006020,Text:"&Inicialitzar"},{
+Key:1006021,Text:"S'inicialitza la carpeta a un valor estàndard"},{
+Key:1006023,Text:"Resum abans d'importar"},{
+Key:1006024,Text:"Feu clic a endavant per iniciar la importació"},{
+Key:1006025,Text:"Importació actual"},{
+Key:1006026,Text:"Importació s'ha completat"},{
+Key:1006027,Text:"Per tancar l'auxiliar, feu clic a final
+
+Feu clic a Endarrere per importar una altra col lecció o una Bíblia un altre"},{
+Key:1006029,Text:"Té cançons {0} importat correctament en col·leccions {1}."},{
+Key:1006030,Text:"Té cançons {0} importat correctament a la col·lecció nova \"{1}\"."},{
+Key:1006031,Text:"Ha importat l '{0}\"Bíblia amb èxit."},{
+Key:1006032,Text:"Ha importat {0} Bíblies amb èxit."},{
+Key:1006033,Text:"Ha importat l '{0}' llengua amb èxit."},{
+Key:1006034,Text:"Ha importat correctament {0} llengües."},{
+Key:1006035,Text:"Voleu aturar la importació?"},{
+Key:1006036,Text:"Importació no s'ha completat correctament."},{
+Key:1006037,Text:"Introduïu un nom per a aquesta nova col. lecció de VideoPsalm"},{
+Key:1006038,Text:"La nova col·lecció es desarà sota aquest nom. Aquest nom es pot canviar més tard"},{
+Key:1006039,Text:"&Nom que es donarà a la col·lecció:"},{
+Key:1006040,Text:"Doni un nom a aquesta nova Bíblia de VideoPsalm"},{
+Key:1006041,Text:"La Bíblia nova es desarà sota aquest nom. Aquest nom es pot canviar més tard"},{
+Key:1006042,Text:"&Nom que es donarà a la Bíblia:"},{
+Key:1006051,Text:"Seleccioneu coŀleccions"},{
+Key:1006052,Text:"Seleccioneu Bíblies"},{
+Key:1006053,Text:"Seleccioneu un fitxer"},{
+Key:1006054,Text:"Seleccioneu una carpeta"},{
+Key:1006055,Text:"&Fitxer:"},{
+Key:1006056,Text:"&Fitxer:"},{
+Key:1006057,Text:"Seleccionar idiomes"},{
+Key:1006058,Text:"La carpeta \"{0}\" no existeix."},{
+Key:1006060,Text:"No es pot accedir a la carpeta \"{0}\".
+
+{1}"},{
+Key:1006061,Text:"El fitxer \"{0}\" no existeix."},{
+Key:1006062,Text:"Atenció: La càrrega de moltes col·leccions podeu omplir la memòria de PC i lenta la cerca de cançons.
+Realment descarregar vostè {0} recollides?"},{
+Key:1006063,Text:"Atenció: La càrrega de moltes Bíblies emplenar la memòria de PC.
+Realment descarregar vostè {0} Bíblies?"},{
+Key:1006064,Text:"El nou nom no pot estar buit."},{
+Key:1006065,Text:"El nou nom no pot contenir els caràcters següents: {0}"},{
+Key:1006066,Text:"Ja hi ha una col·lecció amb el nom \"{0}\"."},{
+Key:1006067,Text:"Ja hi ha una Bíblia amb el nom \"{0}\"."},{
+Key:1006068,Text:"Que es va aturar la importació."},{
+Key:1006069,Text:"Comproveu la connexió a internet."},{
+Key:1006070,Text:"Disponibles des de: {0}"},{
+Key:1006071,Text:"Nova versió disponible des de: {0}"},{
+Key:1006072,Text:"Les dates de versió de el {0}"},{
+Key:1006073,Text:"La versió del {0} està al dia."},{
+Key:1006074,Text:"Títol"},{
+Key:1006075,Text:"Estat"},{
+Key:1006076,Text:"No ha baixat"},{
+Key:1006077,Text:"Actualització"},{
+Key:1006078,Text:"Actualització disponible"},{
+Key:1006079,Text:"Nou"},{
+Key:1006080,Text:"Nova actualització disponible"},{
+Key:1006081,Text:"S'ha seleccionat cap col·lecció.
+Heu de seleccionar com a mínim una col·lecció."},{
+Key:1006082,Text:"S'ha seleccionat cap Bíblia.
+Heu de seleccionar com a mínim una Bíblia."},{
+Key:1006083,Text:"S'ha seleccionat cap llengua.
+Heu de seleccionar almenys una llengua."},{
+Key:1006084,Text:"Codi"},{
+Key:1006085,Text:"El fitxer font: <b>{0}</b>"},{
+Key:1006086,Text:"Carpeta d'origen:
+<b>{0}</b>"},{
+Key:1006087,Text:"Recerca de document"},{
+Key:1006090,Text:"Nom donat a la nova Bíblia de VideoPsalm: <b>: {0}</b>"},{
+Key:1006091,Text:"A la nova col·lecció de VideoPsalm name: <b>: {0}</b>"},{
+Key:1006095,Text:"A la Biblioteca de VideoPsalm en línia, resulta que alguns documents són afegits o actualitzats (p. ex per corregir un error tipogràfic).
+Segons l'estat dels documents anteriors, vostè pot decidir si o no descarregar-los.
+
+<b>Aquí és com distingir l'estat dels documents:</b>
+-Els documents que heu baixat no es mostren en normal.
+-Els documents que heu pujat i s'actualitzen es mostren en <i>cursiva</i>. Ells són marcats amb un <image=check_16>d'acord.
+Vostè no necessita re - descarregar, excepte en el cas on que voleu cancel·lar tots els canvis que heu fet.
+-Els documents que has pujat i que mentrestant hem fet les correccions a la biblioteca en línia de VideoPsalm, apareixen en <b>negreta</b>. Ells són marcats amb un llapis <image=pencil2_16>.
+
+Quadre de text a la dreta descriu quines correccions s'han fet al document: això pot ajudar a decidir si vol re - descarregar.
+
+<b>L'atenció:</b> Si Actualitza el document amb el re-uploading, perdreu tots els canvis que heu fet, així com l'estil atribueix perquè VideoPsalm reemplaça el seu que es descarrega.
+El seu propi arxiu no és suprimit, no obstant això: queda al disc però es converteix en invisible en VideoPsalm perquè VideoPsalm canvia el nom de l'expansió en .ignore.
+
+<b>Consell</b> : només descarregar els documents que seran útils.
+En efecte, si teniu documents massa, càrrega de VideoPsalm es convertirà en potser més lent, com fer cerques per paraula clau.
+
+Tingueu en compte que pot en qualsevol moment treure un llibre o una Bíblia de la VideoPsalm. Per fer-ho, utilitzeu el botó ' <image=delete2_16>suprimir \"a la pestanya 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&L'Historial de canvis a \"{0}\"."},{
+Key:1006100,Text:"Col·leccions de la Biblioteca de VideoPsalm en línia"},{
+Key:1006105,Text:"EasySlides cançons"},{
+Key:1006110,Text:"MediaShout cançons"},{
+Key:1006115,Text:"OpenLP cançons"},{
+Key:1006116,Text:"VerseView cançons"},{
+Key:1006120,Text:"Les cançons en el format \"OpenLyrics\"."},{
+Key:1006125,Text:"OpenSong cançons"},{
+Key:1006130,Text:"Una col lecció de Psalmo"},{
+Key:1006131,Text:"Una col·lecció en format de text"},{
+Key:1006132,Text:"Cançons de EasyWorship 2009"},{
+Key:1006133,Text:"Cançons en format \"ChordPro\"."},{
+Key:1006134,Text:"Cançons de WebAsaph"},{
+Key:1006135,Text:"Cançons en format «CCLI."},{
+Key:1006140,Text:"Bíblies de la Biblioteca de VideoPsalm en línia"},{
+Key:1006145,Text:"Una Bíblia Bíblia base de dades"},{
+Key:1006150,Text:"Una Bíblia de OpenLP"},{
+Key:1006155,Text:"Una Bíblia de OpenSong"},{
+Key:1006160,Text:"Una Bíblia de Bíblia independent"},{
+Key:1006165,Text:"Una Bíblia de Zefania"},{
+Key:1006166,Text:"Una Bíblia de EasySlides"},{
+Key:1006167,Text:"Una Bíblia en el format \"Osis\"."},{
+Key:1006168,Text:"Una Bíblia en els llibres de format «USFM» (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Seleccioneu les col·leccions de la Biblioteca de VideoPsalm en línia que voleu importar a la VideoPsalm"},{
+Key:1006185,Text:"Seleccioneu una base de dades de EasySlides que conté les cançons que voleu importar al seu VideoPsalm (ampliació d'arxiu. mdb)"},{
+Key:1006190,Text:"Seleccioneu una base de dades de MediaShout que conté les cançons que voleu importar al seu VideoPsalm (ampliació d'arxiu. mdb)"},{
+Key:1006195,Text:"Seleccioneu una base de dades de OpenLP que conté les cançons que voleu importar al seu VideoPsalm (arxiu de SQLite d'ampliació)"},{
+Key:1006196,Text:"Seleccioneu una base de dades de VerseView que conté les cançons que voleu importar el seu VideoPsalm (arxiu de DB extensió)"},{
+Key:1006200,Text:"Seleccioneu una carpeta que conté cançons en format \"OpenLyrics\" que voleu importar al seu VideoPsalm (fitxers d'extensió. XML)"},{
+Key:1006205,Text:"Seleccioneu una carpeta que conté OpenSong cançons que voleu importar al seu VideoPsalm (fitxers sense extensió)"},{
+Key:1006210,Text:"Seleccioneu un exportat Psalmo compendi RTF format que voleu importar al seu VideoPsalm (arxiu. rtf d'ampliació)"},{
+Key:1006211,Text:"Seleccioneu una col·lecció de llocs en el format de text que voleu importar al seu VideoPsalm. (extensió txt)"},{
+Key:1006212,Text:"Seleccioneu una base de dades de EasyWorship 2009 que conté les cançons que voleu importar al seu VideoPsalm (arxiu de DB d'ampliació)"},{
+Key:1006213,Text:"Seleccioneu una carpeta que conté cançons en format de ChordPro que voleu importar a el VideoPsalm (.chordpro, .chopro, .crd o .cho fitxers d'extensió)"},{
+Key:1006214,Text:"Seleccioneu una base de dades de WebAsaph que conté les cançons que voleu importar a el VideoPsalm (.ltc d'extensió de fitxer)"},{
+Key:1006215,Text:"Seleccioneu una carpeta que conté cançons en el format CCLI per importar a la VideoPsalm (arxius d'extensió .usr)"},{
+Key:1006220,Text:"Seleccioneu Bíblies de la biblioteca en línia de VideoPsalm que voleu importar a la VideoPsalm"},{
+Key:1006225,Text:"Seleccioneu una Bíblia de base de Bíblia dades que voleu importar al seu VideoPsalm. (extensió txt)"},{
+Key:1006230,Text:"Seleccioneu una Bíblia de OpenLP, que voleu importar al seu VideoPsalm (arxiu de SQLite d'ampliació)"},{
+Key:1006235,Text:"Seleccioneu una Bíblia de OpenSong, que voleu importar al seu VideoPsalm (fitxer sense extensió)"},{
+Key:1006240,Text:"Seleccioneu una d'independent bíblics, que voleu importar al seu VideoPsalm. (extensió txt)"},{
+Key:1006245,Text:"Seleccioneu una Bíblia Zefania que voleu importar a el VideoPsalm (extensió. XML arxiu)"},{
+Key:1006247,Text:"Seleccioneu una Bíblia de EasySlides, que voleu importar al seu VideoPsalm (ampliació d'arxiu. mdb)"},{
+Key:1006248,Text:"Seleccioneu una Bíblia en format \"Osis\" importar en el seu VideoPsalm (extensió. XML, .osi, .osis arxiu o)"},{
+Key:1006249,Text:"Seleccioneu els llibres d'una Bíblia \"USFM\" format per importar el seu VideoPsalm (.sfm o .usfm arxius d'extensió)"},{
+Key:1006252,Text:"Seleccionar idiomes de la biblioteca en línia de VideoPsalm que voleu importar a la VideoPsalm"},{
+Key:1006255,Text:"<b>{0} Col·lecció (s) de la Biblioteca de VideoPsalm en línia</b> d'importació:
+{1}"},{
+Key:1006260,Text:"<b>Cançons de EasySlides</b> d'importació"},{
+Key:1006265,Text:"<b>Les cançons de MediaShout</b> d'importació"},{
+Key:1006270,Text:"Importació <b>de les cançons de OpenLP</b>"},{
+Key:1006271,Text:"Importar <b>cançons VerseView</b>"},{
+Key:1006275,Text:"Importar <b>cançons en format «OpenLyrics»</b>"},{
+Key:1006280,Text:"Importació <b>de la cançó d'OpenSong</b>"},{
+Key:1006285,Text:"Importar <b>una col·lecció de Psalmo</b>"},{
+Key:1006286,Text:"Importar <b>una col·lecció de text</b>"},{
+Key:1006287,Text:"<b>Importació les cançons de EasyWorship 2009</b>"},{
+Key:1006288,Text:"Importació <b>de les cançons en ChordPro format</b>"},{
+Key:1006289,Text:"<b>Les cançons de WebAsaph</b> d'importació"},{
+Key:1006290,Text:"Importar <b>format CCLI cançons</b>"},{
+Key:1006295,Text:"Importació: <b>{0} Bíblia (s) de la Biblioteca de VideoPsalm en línia</b>
+{1}"},{
+Key:1006300,Text:"<b>Una Bíblia de la Bíblia de base de dades</b> d'importació"},{
+Key:1006305,Text:"<b>Una Bíblia de OpenLP</b> d'importació"},{
+Key:1006310,Text:"<b>Una Bíblia de OpenSong</b> d'importació"},{
+Key:1006315,Text:"<b>Una Bíblia de Bíblia independent</b> d'importació"},{
+Key:1006320,Text:"<b>Una Bíblia de Zefania</b> d'importació"},{
+Key:1006321,Text:"<b>Una Bíblia de EasySlides</b> d'importació"},{
+Key:1006322,Text:"Importar <b>una Bíblia en el format \"Osis\"</b>"},{
+Key:1006323,Text:"Importar <b>una Bíblia en el format «USFM»</b>"},{
+Key:1006325,Text:"<b>{0} Language (s) de la Biblioteca de VideoPsalm en línia</b> d'importació:
+{1}"},{
+Key:1006340,Text:"Seleccioneu una base de dades de EasySlide"},{
+Key:1006345,Text:"Seleccioneu una base de dades MediaShout"},{
+Key:1006350,Text:"Seleccioneu una base de dades de OpenLP"},{
+Key:1006351,Text:"Seleccioneu una base de dades de VerseView"},{
+Key:1006355,Text:"Seleccioneu una carpeta que conté cançons en el format \"OpenLyrics\"."},{
+Key:1006360,Text:"Seleccioneu una carpeta que conté cançons de OpenSong"},{
+Key:1006365,Text:"Seleccioneu un fitxer RTF que conté cançons de Psalmo exportades"},{
+Key:1006366,Text:"Seleccioneu un fitxer que conté cançons en format de text"},{
+Key:1006367,Text:"Seleccioneu una base de dades de EasyWorship 2009"},{
+Key:1006368,Text:"Seleccioneu una carpeta que conté cançons en format \"ChordPro\"."},{
+Key:1006369,Text:"Seleccioneu una base de dades WebAsaph"},{
+Key:1006370,Text:"Seleccioneu una carpeta que conté cançons en format «CCLI."},{
+Key:1006375,Text:"Seleccioneu una Bíblia de BibleDatabase"},{
+Key:1006380,Text:"Seleccioneu una Bíblia de OpenLP"},{
+Key:1006385,Text:"Seleccioneu una Bíblia de OpenSong"},{
+Key:1006390,Text:"Seleccioneu una Bíblia de Bíblia independent"},{
+Key:1006395,Text:"Seleccioneu una Bíblia de Zefania"},{
+Key:1006397,Text:"Seleccioneu una Bíblia de EasySlides"},{
+Key:1006398,Text:"Seleccioneu una Bíblia en el format \"Osis\"."},{
+Key:1006399,Text:"Seleccioneu els llibres d'una Bíblia en el format \"USFM."},{
+Key:1006405,Text:"EasySlide base de dades"},{
+Key:1006410,Text:"Base de dades de MediaShout 4"},{
+Key:1006411,Text:"Base de dades de MediaShout 3"},{
+Key:1006415,Text:"OpenLP base de dades"},{
+Key:1006416,Text:"Base de dades de EasyWorship 2009"},{
+Key:1006417,Text:"VerseView base de dades"},{
+Key:1006420,Text:"La carpeta \"{0}\".
+conté cap cant el format \"OpenLyrics\" (extensió xml)."},{
+Key:1006425,Text:"La carpeta \"{0}\".
+conté cap cançó de OpenSong (les cançons de OpenSong els fitxers sense extensió)."},{
+Key:1006430,Text:"Cançons exportats des de Psalmo"},{
+Key:1006431,Text:"Cançons en format de text"},{
+Key:1006432,Text:"La carpeta \"{0}\".
+conté cap cant el format \"ChordPro\" (chopro/chordpro d'extensió, crd i cho)."},{
+Key:1006433,Text:"WebAsaph base de dades"},{
+Key:1006434,Text:"La carpeta \"{0}\".
+conté cap cançó en format «CCLI» (.usr extensió)."},{
+Key:1006440,Text:"Bíblies de BibleDatabase"},{
+Key:1006445,Text:"Bíblies d'OpenLP"},{
+Key:1006450,Text:"Bíblies d'OpenSong"},{
+Key:1006455,Text:"Bíblia independent de Bíblies"},{
+Key:1006460,Text:"Bíblies de Zefania"},{
+Key:1006462,Text:"Bíblies d'EasySlides"},{
+Key:1006463,Text:"Bíblies en el format \"Osis\"."},{
+Key:1006464,Text:"Llibres de la Bíblia en el format \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"M'encanta el Senyor 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"El meu chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"M'encanta el Senyor"},{
+Key:1006510,Text:"MSAccess bases de dades"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Tots els fitxers"},{
+Key:1006520,Text:"Bases de dades de SQLite"},{
+Key:1006525,Text:"Base de dades de paradoxa"},{
+Key:1006526,Text:"Base de dades WebAsaph"},{
+Key:1006600,Text:"Triar la biblioteca en línia de VideoPsalm o una altra font"},{
+Key:1006601,Text:"VideoPsalm biblioteca virtual conté moltes col·leccions en diversos idiomes"},{
+Key:1006602,Text:"VideoPsalm Biblioteca (requereix connexió a internet durant la importació) en línia"},{
+Key:1006603,Text:"Cançons en un popular, per importar el seu format de disc dur"},{
+Key:1006604,Text:"Triar la biblioteca en línia de VideoPsalm o una altra font"},{
+Key:1006605,Text:"VideoPsalm biblioteca virtual conté moltes traduccions de la Bíblia en diferents llengües"},{
+Key:1006606,Text:"VideoPsalm Biblioteca (requereix connexió a internet durant la importació) en línia"},{
+Key:1006607,Text:"Una Bíblia en un popular, per importar el seu format de disc dur"},{
+Key:1006608,Text:"Què és la font del seu format cançons?"},{
+Key:1006609,Text:"Què és el format de font de Bíblia?"},{
+Key:1006610,Text:"Podeu importar al seu VideoPsalm una Bíblia en un format popular emmagatzemades al teu PC"},{
+Key:1006611,Text:"Vostè pot importar el seu VideoPsalm en un cançons popular format emmagatzemades al teu PC"},{
+Key:1007000,Text:"Còpia de seguretat"},{
+Key:1007001,Text:"Voleu iniciar la còpia de seguretat de VideoPsalm a la carpeta
+« {0} » ?"},{
+Key:1007004,Text:"No es pot realitzar la còpia de seguretat de la carpeta seleccionada,
+perquè es troba a la carpeta actual dels VideoPsalm documents
+({0})."},{
+Key:1007005,Text:"No hi ha prou espai al disc {0}.
+Hauria {1: #, #. #} MB i només hi ha {2: #, #. #} disponible MB."},{
+Key:1007006,Text:"No s'ha pogut completar la còpia de seguretat:
+
+{0}"},{
+Key:1007007,Text:"Incapaç de descarregar el Microsoft .NET Estructura 4.0:
+
+{0}
+
+Això pot ser degut a la falta de connexió a Internet.
+La còpia de seguretat continuarà normalment,
+però no serà capaç d'instal·lar Microsoft .NET Estructura 4.0 de la còpia de seguretat."},{
+Key:1007008,Text:"{0} no està disponible"},{
+Key:1007009,Text:"Recordatori: Còpia de seguretat no ha pogut copiar
+l'organització del Microsoft .NET Estructura 4.0."},{
+Key:1007010,Text:"S'acaba correctament la còpia de seguretat."},{
+Key:1007011,Text:"Voleu abandonar la còpia de seguretat?"},{
+Key:1007030,Text:"Seleccioneu una carpeta o crear all-in-one per col·locar una còpia de seguretat de VideoPsalm"},{
+Key:1007031,Text:"La còpia de seguretat còpia de documents (llibres, Bíblies, fotos, vídeos, estils) a la ubicació que especifiqueu, per exemple:
+-un USB
+-una empenta dura externa,
+-una carpeta de xarxa,
+-etc.
+
+<b>Permet de còpia de seguretat incloent-hi:</b>
+-protegir els documents per duplicar-los en un altre medi,
+-per construir una versió portàtil de VideoPsalm, per exemple en un pal d'USB,
+-transferir fàcilment els seus documents en un altre ordinador utilitzant el restaurar funció,
+-duplicar els documents per a múltiples configuracions de col·leccions amb els seus estils al mateix ordinador.
+
+<b>Nota:</b> Per sincronitzar els registres de VideoPsalm entre diversos equips, pot triar més directament per una sincronització, com ara Servei de SkyDrive o DropBox."},{
+Key:1007032,Text:"Seleccioneu els documents que voleu desar:"},{
+Key:1007033,Text:"&Col·leccions"},{
+Key:1007034,Text:"&Les Bíblies"},{
+Key:1007035,Text:"&Imatges"},{
+Key:1007036,Text:"&Vídeos"},{
+Key:1007037,Text:"&Guardar els seus documents a:"},{
+Key:1007038,Text:"Especifiqueu la carpeta on desar documents de VideoPsalm aquí.
+
+Per exemple: «E:\\Ma VideoPsalm còpia de seguretat.
+
+Si la carpeta no existeix, es creen automàticament quan el backup."},{
+Key:1007039,Text:"&Crea una aplicació portàtil de VideoPsalm"},{
+Key:1007040,Text:"Afegeix tots els arxius executables necessaris per al funcionament de el VideoPsalm a la carpeta de còpia de seguretat.
+
+En general, és en una clau d'USB que vol crear una aplicació de VideoPsalm portàtil.
+
+Una còpia de seguretat portàtil córrer VideoPsalm a qualsevol altre ordinador, directament des de la clau d'USB, sense la necessitat d'instal·lar VideoPsalm.
+
+VideoPsalm a partir de la clau d'USB, vostè tindrà accés a totes les funcions de VideoPsalm, incloent-hi la còpia de seguretat. Això permet guardar VideoPsalm al disc dur de l'ordinador, així que posteriorment executar-lo sense la clau d'USB.
+
+<b>Important</b>
+VideoPsalm opcions no s'afegeixen a la còpia de seguretat.
+A la primera representació de VideoPsalm en un determinat ordinador, pot necessitar ajustar les opcions de VideoPsalm, per exemple, la llicència per a l'església."},{
+Key:1007041,Text:"&Afegir programa d'instal·lació de Microsoft .NET Framework 4.0"},{
+Key:1007042,Text:"Per operar, VideoPsalm necessita el .NET Framework 4.0 des de Microsoft. Ordinadors més nous tenen sovint el .NET Framework 4.0 o superior preinstal·lat. Si vostè no està segur que el .NET Framework 4.0 està instal·lat a l'altre ordinador, activeu la casella \"afegir d'organització de .NET Estructura 4.0. VideoPsalm llavors posarà en el pal d'USB una còpia de l'organització de .NET Framework 4.0 (una connexió a internet pot ser necessari per a això).
+
+De la clau d'USB, pot fàcilment instal·lar el .NET Framework 4.0 a l'altre ordinador abans d'iniciar VideoPsalm. Instal·lació del .NET Framework 4.0 és molt ràpid i no s'inicia Windows normalment.
+
+Trobareu la instal·lació del .NET Framework 4.0 fitxer a la carpeta de còpia de seguretat. Aquest fitxer s'anomena \"dotNetFx40_Full_x86_x64.exe. Per començar la instal·lació del .NET Framework 4.0 en un altre ordinador, feu doble clic a aquest arxiu."},{
+Key:1007043,Text:"&Còpia de seguretat d'inici"},{
+Key:1007044,Text:"La descàrrega de Microsoft .NET Estructura 4.0"},{
+Key:1007045,Text:"&Carpeta (carpeta que es desaran) VideoPsalm documents:"},{
+Key:1007046,Text:"Deixar les col·leccions de la carpeta especificada abans per salvar el meu"},{
+Key:1007047,Text:"Treure col·leccions de la carpeta especificada abans d'estalviar el meu"},{
+Key:1007048,Text:"Deixa que les Bíblies de la carpeta especificada abans allà deseu el meu"},{
+Key:1007049,Text:"Treure les Bíblies de la carpeta especificada abans és salvar el meu"},{
+Key:1007050,Text:"Deixar les imatges a la carpeta especificada abans és salvar el meu"},{
+Key:1007051,Text:"Eliminar imatges de la carpeta especificada abans és salvar el meu"},{
+Key:1007052,Text:"Deixar que els vídeos a la carpeta especificada abans és salvar el meu"},{
+Key:1007053,Text:"Suprimir vídeos de la carpeta especificada abans d'estalviar el meu"},{
+Key:1007054,Text:"Seleccioneu una carpeta o crear-ne un per col·locar una còpia de seguretat de VideoPsalm"},{
+Key:1007055,Text:"Permeten d'àudio des de la carpeta especificat abans és salvar la mina"},{
+Key:1007056,Text:"Àudio de treure de la carpeta especificat abans és salvar la mina"},{
+Key:1007057,Text:"&Àudios"},{
+Key:1008000,Text:"Restaurar una còpia de seguretat"},{
+Key:1008001,Text:"Voleu restaurar una còpia de seguretat de VideoPsalm des de la carpeta
+« {0} » ?
+
+Atenció: En funció de les opcions que heu seleccionat, els documents actuals es substituït o suprimit."},{
+Key:1008002,Text:"Si us plau, introduïu la carpeta de la còpia de seguretat per restaurar."},{
+Key:1008004,Text:"No es pot restaurar una còpia de seguretat de la carpeta que heu triat,
+perquè es troba a la carpeta actual dels VideoPsalm documents."},{
+Key:1008006,Text:"No es pot completar la restauració:
+
+{0}"},{
+Key:1008010,Text:"La restauració s'ha aturat."},{
+Key:1008011,Text:"Voleu abandonar la restauració?"},{
+Key:1008012,Text:"Restaurar una còpia de seguretat"},{
+Key:1008032,Text:"Seleccioneu els documents que voleu restaurar:"},{
+Key:1008033,Text:"&Col·leccions"},{
+Key:1008034,Text:"&Les Bíblies"},{
+Key:1008035,Text:"&Imatges"},{
+Key:1008036,Text:"&Vídeos"},{
+Key:1008043,Text:"&Restauració"},{
+Key:1008044,Text:"Deixar que les meves col·leccions abans de restaurar des de reserva"},{
+Key:1008045,Text:"Suprimir les meves col·leccions abans de restaurar des de reserva"},{
+Key:1008046,Text:"Deixar que el meu Bíblies abans de restaurar des de reserva"},{
+Key:1008047,Text:"Suprimir el meu Bíblies abans de restaurar des de reserva"},{
+Key:1008048,Text:"Deixar que el meu imatges abans de restaurar des de reserva"},{
+Key:1008049,Text:"Suprimir el meu imatges abans de restaurar des de reserva"},{
+Key:1008050,Text:"Deixar que els meus vídeos abans de restaurar des de reserva"},{
+Key:1008051,Text:"Suprimir el meu vídeos abans de restaurar des de reserva"},{
+Key:1008052,Text:"&Restaurar una còpia de seguretat de:"},{
+Key:1008053,Text:"Aquí especificar la carpeta des d'on es restauraran els registres de VideoPsalm.
+
+Exemple: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Carpeta (la carpeta on es restauraran la còpia de seguretat) VideoPsalm documents:"},{
+Key:1008055,Text:"L'Actualització"},{
+Key:1008056,Text:"Seleccioneu una carpeta que conté una còpia de seguretat de VideoPsalm"},{
+Key:1008057,Text:"&Àudios"},{
+Key:1008058,Text:"Deixa meva àudios abans de restaurar des de reserva"},{
+Key:1008059,Text:"Suprimir el meu àudio abans de restaurar des de reserva"},{
+Key:1008999,Text:"Projector de vídeo"},{
+Key:1009000,Text:"una cançó"},{
+Key:1009001,Text:"cançons de {0}"},{
+Key:1009002,Text:"una llista de versos"},{
+Key:1009003,Text:"llistes de {0} de versos"},{
+Key:1009004,Text:"una imatge"},{
+Key:1009005,Text:"{0} imatges"},{
+Key:1009006,Text:"Bíblia \"{0}\"."},{
+Key:1009007,Text:"Capítol: {0}"},{
+Key:1009009,Text:"Bíblies: {0}"},{
+Key:1009010,Text:"Imatge \"{0}\"."},{
+Key:1009011,Text:"{0} ({1} imatges)"},{
+Key:1009012,Text:"{0} imatges"},{
+Key:1009013,Text:"{0} ({1} diapositives)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"S'està carregant l'estil per defecte"},{
+Key:1009016,Text:"Càrrega de l'estil de les col·leccions"},{
+Key:1009017,Text:"Càrrega de la col·lecció \"{0}\"."},{
+Key:1009018,Text:"Càrrega de l'estil de les Bíblies"},{
+Key:1009019,Text:"Càrrega de la Bíblia \"{0}\"."},{
+Key:1009020,Text:"Fitxer: {0}"},{
+Key:1009100,Text:"{0} ({1} cançons)"},{
+Key:1009101,Text:"{0} (una cançó)"},{
+Key:1009102,Text:"{0} (sense veus)"},{
+Key:1009103,Text:"Ja hi ha un fitxer \"{0}\".
+en el qual VideoPsalm vols desar la nova col·lecció \"{1}\".
+
+És impossible estalviar d'aquesta nova col·lecció.
+Donar una abreviatura o un nom exclusiu per a aquesta nova col·lecció i intenti salvar una altra vegada."},{
+Key:1009104,Text:"Ha fallat el Registre"},{
+Key:1009105,Text:"No es pot desplaçar el fitxer
+{0}
+cucs
+{1}.
+
+{2}"},{
+Key:1009107,Text:"Col·leccions: {0}"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} versos)"},{
+Key:1009111,Text:"Vídeo \"{0}\"."},{
+Key:1009112,Text:"{0} ({1} vídeos)"},{
+Key:1009113,Text:"vídeos: {0}"},{
+Key:1009114,Text:"No es pot desar la col. lecció.
+Nom de la col·lecció de ser capaç de salvar-lo."},{
+Key:1010000,Text:"Veure més colors"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Tancar"},{
+Key:1010003,Text:"&Transparent"},{
+Key:1010004,Text:"Cancel·la"},{
+Key:1010005,Text:"OK"},{
+Key:1010006,Text:"Menys colors d'exhibició"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Tanqui sense inserció de camp"},{
+Key:1011001,Text:"L'abreviatura de la col·lecció"},{
+Key:1011002,Text:"Àlies"},{
+Key:1011003,Text:"L'autor de la cançó"},{
+Key:1011004,Text:"L'autor de la col·lecció"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Clau"},{
+Key:1011007,Text:"Compositor"},{
+Key:1011008,Text:"Drets d'autor de la cançó"},{
+Key:1011009,Text:"Drets d'autor del llibre"},{
+Key:1011010,Text:"Etiqueta del vers"},{
+Key:1011011,Text:"Etiqueta i el número de vers"},{
+Key:1011012,Text:"Format"},{
+Key:1011013,Text:"Llicència de l'església"},{
+Key:1011014,Text:"Fila clau"},{
+Key:1011015,Text:"Nota 1"},{
+Key:1011016,Text:"Nota 2"},{
+Key:1011017,Text:"Nota 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Posició del vers"},{
+Key:1011020,Text:"El vers núm."},{
+Key:1011021,Text:"Cant núm."},{
+Key:1011022,Text:"Nota del vers"},{
+Key:1011023,Text:"Nombre de cançons de la col·lecció"},{
+Key:1011024,Text:"Nombre d'estrofes"},{
+Key:1011025,Text:"Referència"},{
+Key:1011026,Text:"Seqüència d'estrofes"},{
+Key:1011027,Text:"Signatura"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Títol de la cançó"},{
+Key:1011031,Text:"Títol del llibre"},{
+Key:1011032,Text:"To"},{
+Key:1011033,Text:"3. Treure tots els camps"},{
+Key:1011034,Text:"2. L'ús estàndards camps"},{
+Key:1011035,Text:"L'administrador"},{
+Key:1011036,Text:"Llengua"},{
+Key:1011037,Text:"Editor de"},{
+Key:1011038,Text:"Transposició"},{
+Key:1011101,Text:"L'abreviatura de la Bíblia"},{
+Key:1011102,Text:"L'abreviatura del llibre"},{
+Key:1011103,Text:"Capítol"},{
+Key:1011104,Text:"Drets d'autor de la Bíblia"},{
+Key:1011105,Text:"Descripció de la Bíblia"},{
+Key:1011107,Text:"Editor de"},{
+Key:1011108,Text:"Llengua"},{
+Key:1011109,Text:"Nom de la Bíblia"},{
+Key:1011110,Text:"Nom del llibre"},{
+Key:1011111,Text:"Nombre de capítols del llibre"},{
+Key:1011112,Text:"Nombre de versos del capítol"},{
+Key:1011113,Text:"Testament"},{
+Key:1011114,Text:"Vers"},{
+Key:1011115,Text:"L'administrador de la Bíblia"},{
+Key:1011200,Text:"&Insereix un camp:"},{
+Key:1011201,Text:"Donar format al text que es visualitza a la capçalera o al peu strophe o vers"},{
+Key:1011202,Text:"Introduïu el text que es visualitzarà.
+Aquest text és lliure i en general, consisteix en una sèrie de camps predefinits.
+
+Exemples de camps predefinits per a una cançó:
+-el títol de la cançó: <b>[títol de la cançó]</b>
+-el nombre de la cançó: <b>[la cançó n º]</b>
+-el títol del llibre: <b>[títol de la col·lecció]</b>
+-l'abreviatura de la col·lecció: <b>[l'abreviatura de la col·lecció]</b>
+-etc.
+
+Per un vers:
+-el nom del llibre: <b>[nom del llibre]</b>
+-Capítol: <b>[capítol]</b>
+-el vers: <b>[vers]</b>
+referència completa:
+  <b>[Nom del llibre] [capítol]: [vers]</b>
+-el nom de la Bíblia: <b>[nom de la Bíblia]</b>
+-etc.
+
+En el moment de la projecció de vídeo, VideoPsalm substitueix els camps predefinits pel seu valor. 
+
+Els camps predefinits ha estar envoltat de claudàtors <b>[]</b>. S'ha d'ingressar sens falta i observar les majúscules i minúscules.
+
+<b>Per fàcilment inserir un camp predefinides, feu servir la llista que es mouen per sota de titulat 'inserir un camp'.</b>
+
+El format pot consistir en diverses línies.
+
+Per restaurar el seu format original de valor, treure'l completament (Ctrl + A, suprimir)."},{
+Key:1011203,Text:"Una llista dels camps predefinits"},{
+Key:1011204,Text:"Per inserir un camp predefinides, seleccioneu-lo a la llista.
+
+El camp s'Insereix automàticament en el text anterior, el quadre al punt d'inserció."},{
+Key:1012000,Text:"El fitxer \"{0}\" ja existeix.
+
+Voleu substituir-lo?"},{
+Key:1012001,Text:"Fitxer existent"},{
+Key:1013000,Text:"Amagar presentar"},{
+Key:1013001,Text:"Mostrar la vista prèvia"},{
+Key:1013002,Text:"Engrandir-se proporcionalment per omplir la pant"},{
+Key:1013003,Text:"Reduir fins a pantalla sencera"},{
+Key:1013004,Text:"Impossibilitar la repetició"},{
+Key:1013005,Text:"Activar la repetició"},{
+Key:1013006,Text:"El començament"},{
+Key:1013007,Text:"Suspendre"},{
+Key:1013008,Text:"Lectura"},{
+Key:1013009,Text:"Anar al final"},{
+Key:1013010,Text:"So"},{
+Key:1013011,Text:"Mut"},{
+Key:1013012,Text:"Volum"},{
+Key:1013013,Text:"Recerca"},{
+Key:1013014,Text:"Definir globalment els límits del vídeo"},{
+Key:1013015,Text:"Defineixen els límits del vídeo per cada estrofa"},{
+Key:1013016,Text:"Temps transcorregut"},{
+Key:1013017,Text:"Temps total"},{
+Key:1013018,Text:"Temps restant"},{
+Key:1013019,Text:"Feu clic per moure el valor següent"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minut"},{
+Key:1018003,Text:"minuts"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"temps"},{
+Key:1018006,Text:"hores"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"dia"},{
+Key:1018009,Text:"dies"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"setmana"},{
+Key:1018012,Text:"setmanes"},{
+Key:1018013,Text:"mes"},{
+Key:1018014,Text:"mes"},{
+Key:1018015,Text:"l'any"},{
+Key:1018016,Text:"anys"},{
+Key:1019000,Text:"Tancar"},{
+Key:1019001,Text:"Reduir"},{
+Key:1019002,Text:"Ampliar"},{
+Key:1019003,Text:"Nivell inferior"},{
+Key:1019004,Text:"Ajuda"},{
+Key:1019100,Text:"&Cerca"},{
+Key:1019101,Text:"&Suprimir"},{
+Key:1019301,Text:"&OK"},{
+Key:1019302,Text:"&Cancel·la"},{
+Key:1019303,Text:"&Sí"},{
+Key:1019304,Text:"&Habitacions"},{
+Key:1019305,Text:"&Abandonar"},{
+Key:1019306,Text:"&Torna a provar"},{
+Key:1019307,Text:"&Ignorar"},{
+Key:1019308,Text:"&Cancel·la"},{
+Key:1019309,Text:"&Tallar"},{
+Key:1019310,Text:"&Còpia"},{
+Key:1019311,Text:"&Pasta"},{
+Key:1019312,Text:"&Suprimir"},{
+Key:1019313,Text:"&Selecciona-ho tot"},{
+Key:1020000,Text:"Gènesi"},{
+Key:1020001,Text:"Èxode"},{
+Key:1020002,Text:"Levític"},{
+Key:1020003,Text:"Números"},{
+Key:1020004,Text:"Deuteronomi"},{
+Key:1020005,Text:"Josuè"},{
+Key:1020006,Text:"Jutges"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Reis"},{
+Key:1020011,Text:"2 Reis"},{
+Key:1020012,Text:"1 Cròniques"},{
+Key:1020013,Text:"2 Cròniques"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemies"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Feina"},{
+Key:1020018,Text:"Salms"},{
+Key:1020019,Text:"Proverbis"},{
+Key:1020020,Text:"Eclesiastès"},{
+Key:1020021,Text:"Càntic dels Càntics"},{
+Key:1020022,Text:"Isaïes"},{
+Key:1020023,Text:"Jeremies"},{
+Key:1020024,Text:"Lamentacions de Jeremies"},{
+Key:1020025,Text:"Ezequiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Abdi"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICAH"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habacuc"},{
+Key:1020035,Text:"Sofonies"},{
+Key:1020036,Text:"Ageu"},{
+Key:1020037,Text:"Zacaries"},{
+Key:1020038,Text:"Malaquies"},{
+Key:1020039,Text:"Mateu"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Fets dels apòstols"},{
+Key:1020044,Text:"Romans"},{
+Key:1020045,Text:"1 Corintis"},{
+Key:1020046,Text:"2 Corintis"},{
+Key:1020047,Text:"Gàlates"},{
+Key:1020048,Text:"Efesis"},{
+Key:1020049,Text:"Filipencs"},{
+Key:1020050,Text:"Colossencs"},{
+Key:1020051,Text:"1 Tessalonicencs"},{
+Key:1020052,Text:"2 Tessalonicencs"},{
+Key:1020053,Text:"1 Timoteu"},{
+Key:1020054,Text:"2 Timoteu"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Filemó"},{
+Key:1020057,Text:"Hebreus"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1A Pere"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 Joan"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Judes"},{
+Key:1020065,Text:"Apocalipsi"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NOTA:"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"@ RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Fa"},{
+Key:1020116,Text:"És"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"CE"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Sóc"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Així que"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"Mt"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"Jn"},{
+Key:1020143,Text:"L'AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1"},{
+Key:1020152,Text:"2"},{
+Key:1020153,Text:"Cursa"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Va"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

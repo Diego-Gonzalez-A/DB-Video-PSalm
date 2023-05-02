@@ -1,0 +1,2193 @@
+﻿{VersionDate:"20170824",Items:[{
+Key:1,Text:"Czech (Czech Republic)"},{
+Key:1000000,Text:"Překlad"},{
+Key:1000001,Text:"ID"},{
+Key:1000003,Text:"&Přidat"},{
+Key:1000004,Text:"Přidat jeden nebo více jazyků do Videopsalmu"},{
+Key:1000006,Text:"&Odeslat"},{
+Key:1000007,Text:"Poslat štítky emailem do Videopsalmu, abyste ho mohli integrovat do Setup programu"},{
+Key:1000009,Text:"&Použít"},{
+Key:1000011,Text:"&Uložit"},{
+Key:1000012,Text:"Aplikovat vybraný jazyk do Videopsalmu. Změny budou uloženy automaticky."},{
+Key:1000013,Text:"Uložit změny do štítků"},{
+Key:1000015,Text:"&Smazat"},{
+Key:1000016,Text:"Odstranit vybraný jazyk z Videopsalmu, včetně všech jeho štítků"},{
+Key:1000022,Text:"&{0} štítky:"},{
+Key:1000024,Text:"&Jazyky:"},{
+Key:1000029,Text:"Uložit štítky"},{
+Key:1000030,Text:"Štítky byly upraveny.
+
+Chcete tyto změny uložit?"},{
+Key:1000031,Text:"Odstranit jazyk"},{
+Key:1000032,Text:"Opravdu chcete odstranit {0} jazyk z VideoPsalmu?
+
+Tato operace odstraní všechny texty tohoto jazyka, tato operace je nezvratná."},{
+Key:1000035,Text:"VideoPsalm vytvoří komprimované soubory s příponou .zip obsahující  popisky v jejich příslušných jazycích.
+Příslušný soubor připojte k e-mailu a odešlete na videopsalm@gmail.com."},{
+Key:1000036,Text:"Odešlete si popisky přes e-mail."},{
+Key:1000037,Text:"<b>v tomto okně \"Překlad\", můžete upravovat texty, které se objevují v podobě VideoPsalm.</b>
+To umožňuje překládat, upravit nebo opravit jakýkoliv textové rozhraní VideoPsalm, v VideoPsalm i.
+
+<i>-Li tuto součást zabírá příliš mnoho místa, snížit klepnutím na malé snížení tlačítko umístěné v levém horním, nebo změnit jeho velikost myši s horizontální oddělovač.</i>
+
+VideoPsalm je k dispozici v několika jazycích. VideoPsalm jazyky jsou uvedeny v panelu pod levý s názvem \"jazyky\".
+Pokud váš jazyk není uveden v tomto seznamu, můžete zde, VideoPsalm přeložit do svého jazyka. Všimněte si, že to bude zřejmě několik hodin práce.
+
+Zde je, jak se VideoPsalm ve vašem jazyce:
+
+-Přidáte jazyk do seznamu výběrem mezi těmi najdou přes tlačítko \"přidat <image=add2_16>\".
+-V tabulce vpravo VideoPsalm zobrazí popisky kontrolované jazyků.
+-Přeložte popisky ve vašem jazyce.
+
+V tabulce můžete upravovat popisky ve svém volném čase, stejně jako tabulky aplikace Excel.
+Tabulka nabízí vyhledávací pole. Zobrazit pouze popisky obsahující určitá slova, tato slova do pole Hledat zadejte a klepněte na tlačítko \"vyhledat\".
+Oblast filtrů se nachází pod každý jazyk záhlaví můžete použít také k filtrování štítky obsahující některé konkrétní slova jazyka.
+
+Pro usnadnění vaší práce, vyberte jeden nebo více dalších jazyků, víte, tak, aby lépe pochopili význam každého štítku a být schopen číst ve více jazycích současně.
+Kontrolujte komentáře, protože umožňují lépe porozumět významu určitých značek a kde se používají.
+
+<b>Poznámka:</b> To je nejlepší nechat komentáře v angličtině, protože mnoho lidí rozumět anglicky.
+
+Chcete-li vidět výsledek své práce překladu:
+-Vyberte jazyk v jazycích Panel klepnutím na
+   pak
+-Klikněte na tlačítko \"Použít\" (dole).
+
+VideoPsalm se zobrazí v jazyce, který jste vybrali.
+
+Nezapomeňte uložit práci od překladu klepnutím na tlačítko \"uložit <image=disk_blue>.
+Poté, co jste uložili nový jazyk, můžete ji vybrat v okně Možnosti.
+
+Zašlete nám prosím vaše překlady nebo opravy podle e-mailu na <b>videopsalm@gmail.com</b> po kliknutí na tlačítko \"poslat <image=mail_16>\".
+Po klepnutí na toto tlačítko, nastanou dvě věci:
+1. Váš e-mailový klient se otevře automaticky, například aplikaci Outlook.
+2. Složky Průzkumník otevře, kde VideoPsalm má umístěny komprimované soubory s příponou .zip s názvem jazyky.
+
+Přetahování příslušný soubor v e-mailu a odeslat tak, že jsme jej začlenit do budoucí verze VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Jak se VideoPsalm přeložit do svého jazyka?"},{
+Key:1000039,Text:"Jazyky, v nichž se projevuje VideoPsalm. Vyberte jazyky, které chcete zobrazit popisky v tabulce. Chcete-li přidat svůj jazyk do seznamu, klepněte na tlačítko 'Přidat'."},{
+Key:1001000,Text:"Přidat jazyky"},{
+Key:1001001,Text:"&Jazyky:"},{
+Key:1001002,Text:"Vyberte jazyky, které chcete přidat"},{
+Key:1001003,Text:"&Přidat"},{
+Key:1001004,Text:"Zavřít"},{
+Key:1001005,Text:"Nápověda (F1)"},{
+Key:1002000,Text:"Možnosti"},{
+Key:1002003,Text:"&Obecné"},{
+Key:1002004,Text:"&Displej"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Zpěvníky"},{
+Key:1002015,Text:"&Bible"},{
+Key:1002103,Text:"&Jazyk:"},{
+Key:1002105,Text:"&VideoPsalm složka dokumenty:"},{
+Key:1002106,Text:"Vyberte složku, kde je uložen Videopsalm:"},{
+Key:1002112,Text:"&Uložit všechny změny, které provedete biblických veršů (text a styl)"},{
+Key:1002202,Text:"&Nahradit Citáty « <size=+4>'» od francouzské uvozovky « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Použít pravidla francouzské typografie"},{
+Key:1002204,Text:"&V písních Nahraďte spojovníky v pevný spojovník"},{
+Key:1002205,Text:"&V biblických veršů Nahraďte spojovníky v pevný spojovník"},{
+Key:1002304,Text:"&Metoda vykreslování:"},{
+Key:1002306,Text:"Standardní"},{
+Key:1002307,Text:"Rozšíření"},{
+Key:1002502,Text:"&Použít"},{
+Key:1002503,Text:"Uložte provedené změny bez zavření okna"},{
+Key:1002504,Text:"OK"},{
+Key:1002505,Text:"Uložte provedené změny a zavřete okno."},{
+Key:1002508,Text:"Okno zavřete bez uložení změn"},{
+Key:1002510,Text:"&Církevní licence"},{
+Key:1002513,Text:"Nepovinný text, který zde zadáte, lze automaticky zobrazen v záhlaví nebo zápatí snímku.
+
+Například můžete zde zadat číslo licence CILC své církve."},{
+Key:1002516,Text:"&Pole záhlaví:"},{
+Key:1002517,Text:"&Pole zápatí:"},{
+Key:1002531,Text:"Chcete-li změnit písmo, které se zobrazí VideoPsalm.
+
+Standardní fonty:
+- <b>Písmo Tahoma</b> pro systém Windows XP
+- <b>Segoe UI</b> pro systém Windows Vista, Windows 7 a Windows 8
+
+Standardní velikost: 8,25"},{
+Key:1002532,Text:"Je nutné restartovat VideoPsalm pro změnu politiky plně brát v úvahu."},{
+Key:1002533,Text:"Pokud je toto políčko zaškrtnuto, bude VideoPsalm rovných apostrofů nahradit francouzský apostrof, který je čárka umístí do výšky v snímky.
+
+Když zadáte text písně v editoru, doporučujeme použít znak, který snadno najdete na klávesnici, obvykle rovnou apostrof."},{
+Key:1002534,Text:"Pokud je toto políčko zaškrtnuto, VideoPsalm uspořádá v snímku mezery některé znaky interpunkce podle francouzské typografie.
+
+Například, pokud píseň obsahuje tato slova: <b>Lord!</b>
+
+VideoPsalm displeje: <b>Lord!</b>
+
+Tady je interpunkčních znaků, které se těší zvláštnímu zacházení:
+<b>: ; ! ? »</b><i>VideoPsalm místo Nerozdělitelná mezera před a mezera za.</i><b>«</b><i>VideoPsalm místo mezery před a pevná mezera po.</i>
+
+VideoPsalm uspořádá nejsou mezery mezi jiné znaky interpunkce.
+
+Při zadání slova nové písně, doporučujeme sledovat tradiční pravidla typografie, tedy držet rozdělení slov, které se jich týkají. Tímto způsobem budete moci v souladu s displejem francouzské typografie zaškrtnutím tohoto políčka, nebo předpisy vaší země není zaškrtnutím tohoto políčka.
+
+<b>Poznámka:</b> Je možné, že francouzské typografie pravidla se nevztahují ve své zemi i v případě, jazykem je francouzština, například ve frankofonní Afriky, Belgie, v Quebecu nebo ve Švýcarsku.
+
+Získáte úplný přehled o mezery a interpunkce francouzské typografie, <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, strana 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Písmo:"},{
+Key:1002536,Text:"&Velikost:"},{
+Key:1002539,Text:"Je-li toto políčko zaškrtnuto, informovat vás, VideoPsalm během jeho spuštění, o existenci nových funkcí programu nebo zprávy o:
+-Zpěvníky
+-Bible,
+- a VideoPsalm jazyky.
+
+Nové zpěvníky, Bible v nových a nových jazyků pro VideoPsalm se někdy přidávají do knihovny online VideoPsalm.
+
+Dojde-li k tomu, přidáte pár kliknutí tyto nové dokumenty do vaší instalace pomocí Průvodce importem."},{
+Key:1002540,Text:"Pokud je toto políčko zaškrtnuto, vyžaduje VideoPsalm slova spojuje spojovník zůstat ve stejném řádku v snímky.
+
+Výchozí hodnota pro texty písní: <b>zaškrtnuto</b>"},{
+Key:1002541,Text:"Pokud je toto políčko zaškrtnuto, vyžaduje VideoPsalm slova spojuje spojovník zůstat ve stejném řádku v snímky.
+
+Výchozí hodnota pro verše bible: <b>Nekontrolovaná</b>"},{
+Key:1002542,Text:"Pokud je toto políčko zaškrtnuto, VideoPsalm vám umožní uložit všechny změny, které jste provedli na verše z Bible (text a styl).
+
+Pokud toto políčko není zaškrtnuto:
+
+<b>1.</b> při zavření VideoPsalm to nezobrazí se žádné upozornění, že vaše bible byly změněny,
+
+<b>2</b> když uložíte provedené změny, VideoPsalm neukládá změny provedené Bible (text a styl),
+
+<b>3</b> najdete nedotčené Bible při dalším spuštění VideoPsalm."},{
+Key:1002543,Text:"Zvolte jazyk, ve kterém chcete VideoPsalm je zobrazen zde.
+
+Pokud váš jazyk není uveden v seznamu, možná je k dispozici v knihovně VideoPsalm on-line prostřednictvím Průvodce importem.
+
+Je-li ve vašem jazyce neexistuje VideoPsalm, nás prosím informujte mailem na videopsalm@gmail.com
+
+Případně můžete pomoci přeložit texty VideoPsalm ve vašem jazyce prostřednictvím VideoPsalm překlad nástroj nebo opravte případné chyby.
+
+Spusťte nástroj pro překlad VideoPsalm tlačítko \"Přeložit VideoPsalm\"."},{
+Key:1002544,Text:"Vyberte složku, ze které VideoPsalm načítá svoje zpěvníky, Bible, obrázky a videa.
+
+Když změníte tuto složku, VideoPsalm aktualizuje své zpěvníky, Bible, obrázky a videa s těmi z nové složky.
+
+<b>Upozornění</b> : před změnou složky zkontrolujte, zda jste uložili provedené změny."},{
+Key:1002545,Text:"Chcete-li změnit písmo, které se zobrazí VideoPsalm.
+
+Standardní velikost: 8,25
+
+Můžete také změnit velikost písma pomocí možností Windows: Ovládací panely -&gt; zobrazení-> čitelnost na obrazovce."},{
+Key:1002547,Text:"&Přeložit VideoPsalm"},{
+Key:1002548,Text:"Otevře nástroj, se kterým můžete přeložit do svého jazyka VideoPsalm, nebo opravte veškeré pravopisné chyby."},{
+Key:1002549,Text:"Se chystáte změnit složku kde VideoPsalm načte své dokumenty.
+VideoPsalm uvolnit své stávající dokumenty a pak nahrát tyto nové složky.
+To může trvat několik sekund.{0}
+
+Opravdu chcete změnit složku dokumentu?"},{
+Key:1002550,Text:"Existují neuložené změny (zpěvníku, Bible nebo programu).
+Pokud nyní potvrdíte novou složku, budou tyto změny ztraceny."},{
+Key:1002551,Text:"Změna složky Dokumenty"},{
+Key:1002552,Text:"&Program"},{
+Key:1002553,Text:"Výchozí vzory:"},{
+Key:1002554,Text:"&písně:"},{
+Key:1002555,Text:"&Biblické verše:"},{
+Key:1002556,Text:"&Přidat obrázků:"},{
+Key:1002557,Text:"&Přidat videa:"},{
+Key:1002558,Text:"&Powerpoint"},{
+Key:1002559,Text:"&Časový limit výchozí automatické zálohy:"},{
+Key:1002560,Text:"sekundy"},{
+Key:1002561,Text:"&Přidání jazyka"},{
+Key:1002562,Text:"Otevře Průvodce importem z jazyků, v nichž se projevuje VideoPsalm, od kde můžete přidat nové jazyky do vašeho VideoPsalm."},{
+Key:1002580,Text:"Výchozí tok textu písně"},{
+Key:1002581,Text:"Definujte, co má být zobrazeno
+
+Tato hodnota je také vzít v úvahu pro písně, zobrazující spontánně bez agendy.
+V kalendáři můžete změnit tuto hodnotu pro každou píseň."},{
+Key:1002582,Text:"Výchozí tok textu poté, co Bible verše"},{
+Key:1002583,Text:"Určuje výchozí tok textu po poslední verš biblické pasáže.
+
+Tato hodnota je také vzít v úvahu v biblické pasáže, které zobrazíte spontánně bez agendy.
+V kalendáři můžete změnit tuto hodnotu pro jednotlivé pasáže Bible."},{
+Key:1002584,Text:"Výchozí tok textu po obrázku slideshow"},{
+Key:1002585,Text:"Určuje výchozí tok textu po obrázku slideshow.
+
+V kalendáři můžete změnit tuto hodnotu pro každý obrázek."},{
+Key:1002586,Text:"Výchozí tok textu po samostatné video"},{
+Key:1002587,Text:"Určuje výchozí tok textu po samostatné video.
+
+V kalendáři můžete změnit tuto hodnotu pro každé samostatné video."},{
+Key:1002588,Text:"Výchozí tok textu po PowerPoint"},{
+Key:1002589,Text:"Určete, jaké má být výchozí nastavení na konci Powerpointové prezentace.
+
+V programu můžete změnit tuto hodnotu pro každou aplikaci PowerPoint."},{
+Key:1002590,Text:"Určuje interval výchozí dobu v sekundách, automatický přechod na další snímek.
+
+V kalendáři můžete změnit tuto hodnotu pro každý prvek, který automaticky přetékal."},{
+Key:1002591,Text:"&Uložit obrázky na pozadí v programu (doporučeno)"},{
+Key:1002592,Text:"Uložit obrázky na pozadí v programu."},{
+Key:1002593,Text:"Označuje, zda VideoPsalm by ukládání skladeb, obrázky pozadí a biblické v agendě soubor veršů, kdy ukládáte jej."},{
+Key:1002594,Text:"&Uložení pozadí videa (doporučeno) agendy"},{
+Key:1002595,Text:"Uložení pozadí videa v programu."},{
+Key:1002596,Text:"Označuje, zda VideoPsalm by měly ukládat žádné video pozadí skladeb a biblické v agendě soubor veršů, když jej uložíte."},{
+Key:1002597,Text:"&Uložit prezentaci obrázků do programu (doporučeno)."},{
+Key:1002598,Text:"Uložení prezentace obrázků v programu."},{
+Key:1002599,Text:"Označuje, zda VideoPsalm by ukládat možné obrázky prezentace v souboru kalendáře, když jej uložíte."},{
+Key:1002600,Text:"&Uložení samotného videa do programu (doporučeno)."},{
+Key:1002601,Text:"Uložení autonomní videa v agendě"},{
+Key:1002602,Text:"Označuje, zda VideoPsalm by měla ukládat žádné autonomní v agendě soubor videa, když jej uložíte."},{
+Key:1002603,Text:"&Obchod PowerPoints v programu.(doporučeno)"},{
+Key:1002604,Text:"Obchod PowerPoints v agendě"},{
+Key:1002605,Text:"Definuje, zda VideoPsalm by měl ukládat případné powerpoints soubory do programu při uložení"},{
+Key:1002606,Text:"Tato možnost je doporučená, zvláště když si připravujete váš program na jiném PC.  "},{
+Key:1002607,Text:"&Textový editor"},{
+Key:1002608,Text:"&Písmo:"},{
+Key:1002609,Text:"Udává písmo, ve kterém upravujete text písně a verše z Bible.
+
+Toto písmo není použil k zobrazení textu na obrazovce."},{
+Key:1002610,Text:"&Velikost textu:"},{
+Key:1002611,Text:"Určuje velikost písma, ve kterém upravujete text písně a verše z Bible.
+
+Tato velikost písma není používá k zobrazení textu na obrazovce."},{
+Key:1002612,Text:"&Písmo dohod:"},{
+Key:1002613,Text:"Udává písmo, ve kterém upravujete dohody skladby.
+
+Toto písmo není používá k zobrazení dohody o prezentaci na obrazovce."},{
+Key:1002614,Text:"&Velikost textu dohod:"},{
+Key:1002615,Text:"Určuje velikost písma dohod skladby v textovém editoru.
+
+Tato velikost písma není používá k zobrazení dohody na obrazovce prezentace."},{
+Key:1002616,Text:"&Barva dohod:"},{
+Key:1002617,Text:"Určuje barvu, v němž jsou zobrazeny dohod v textovém editoru.
+
+Tato barva není použil k zobrazení dohody na obrazovce prezentace."},{
+Key:1002618,Text:"&Pevná bílá barva:"},{
+Key:1002619,Text:"Určuje barvu, v nichž lámání bílá jsou zobrazeny v textovém editoru."},{
+Key:1002620,Text:"&Barva značek sloky:"},{
+Key:1002621,Text:"Určuje barvu značky sloky jsou zvýrazněny v textovém editoru."},{
+Key:1002622,Text:"&Transparentnost značek sloky:"},{
+Key:1002623,Text:"Určuje průhlednost barvy značky sloky jsou zvýrazněny v textovém editoru."},{
+Key:1002624,Text:"&Barva Akordů"},{
+Key:1002625,Text:"Určuje barvu, v němž jsou zvýrazněny ChordPro dohod v textovém režimu ChordPro Editor."},{
+Key:1002626,Text:"&Transparentnost ChordPro dohod:"},{
+Key:1002627,Text:"Určuje průhlednost barvy uvedených smluv jsou zvýrazněny ChordPro v textovém režimu ChordPro Editor."},{
+Key:1002628,Text:"&Nahradit písmo (doporučeno)"},{
+Key:1002629,Text:"Umožňuje text editoru přepsat chybějící znaky v platném písmu ti jiné písmo.
+
+Zakážete nahrazování znaků, pokud používáte písmo než Unicode, které provozuje transliteration.
+To je případ některých Hindština, Tamil, Bamati, Malayalam písma, atd.
+
+Všimněte si, že je vhodnější použít písmo Unicode.
+Chcete-li převést vaše skladby připraven Unicode text, použijte on-line převodník, například zde: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Povolit přístup k zjednodušený, kompatibilní s RTL písmo textového editoru"},{
+Key:1002631,Text:"Další tlačítka se zobrazí na levé straně panelu nástrojů textového editoru, který poskytuje přístup k režimu zjednodušené úpravy textu písní.
+
+Tento zjednodušený Editor je kompatibilní s psaním zprava doleva (RTL), zejména pro arabštiny a hebrejštiny."},{
+Key:1002632,Text:"Zvolte metodu vykreslování videa, která je nejlepší pro vaše PC. VideoPsalm může zobrazit videa ve formátu wmv na většině počítačů formátu."},{
+Key:1002633,Text:"&Oznámení"},{
+Key:1002634,Text:"Při spuštění upozorní, pokud existuje:"},{
+Key:1002635,Text:"&Nová verze VideoPsalmu (doporučeno)"},{
+Key:1002636,Text:"&Nové zpěvníky (doporučeno)"},{
+Key:1002637,Text:"&Nová Bible (doporučeno)"},{
+Key:1002638,Text:"&Nové jazyky (doporučeno)"},{
+Key:1002639,Text:"&V případě obtíží připojení, přítomnost proxy"},{
+Key:1002640,Text:"Přítomnost proxy"},{
+Key:1002641,Text:"Označuje, zda VideoPsalm by měla automaticky rozpoznat přítomnost proxy se informovat o nových výrobcích nebo aktualizace.
+
+Je-li VideoPsalm nemůže stáhnout Bible v jeho online knihovny nebo knihy, vyberte tuto možnost a zkuste operaci opět provést.
+
+Tuto možnost použijte, pouze v případě, že tomu tak není. Ostatně tato možnost způsobí zpomalení stahování knih a Bible z knihovny VideoPsalm on-line."},{
+Key:1002642,Text:"&Skrýt ikony na sociální"},{
+Key:1002643,Text:"Skryje panel nástrojů sociální ikony (Facebook, Twitter a YouTube).
+
+Tyto ikony zůstávají skryty v nepřítomnosti připojení k Internetu."},{
+Key:1002644,Text:"&Uložení audio písně v programu.(doporučeno)"},{
+Key:1002645,Text:"Ukládat audio písně v programu."},{
+Key:1002646,Text:"Označuje, zda VideoPsalm by ukládat zvuk písní v souboru kalendáře, když jej uložíte."},{
+Key:1002648,Text:"&Vlastní nastavení"},{
+Key:1002649,Text:"&Video kamera"},{
+Key:1002650,Text:"&Předchozí"},{
+Key:1002651,Text:"&Základna"},{
+Key:1002652,Text:"&Text"},{
+Key:1002653,Text:"&Štít"},{
+Key:1002654,Text:"&Sněhová vločka"},{
+Key:1002655,Text:"&Chyba"},{
+Key:1002656,Text:"Nasuňte Panel"},{
+Key:1002657,Text:"&Další"},{
+Key:1002658,Text:"Panel nástrojů"},{
+Key:1002659,Text:"Programový panel"},{
+Key:1002660,Text:"&Hora"},{
+Key:1002661,Text:"&Běž"},{
+Key:1002662,Text:"&Skrýt popisy"},{
+Key:1002663,Text:"Automaticky detekovat rozlišení obrazovky (doporučeno)"},{
+Key:1002664,Text:"&Pravý okraj"},{
+Key:1002665,Text:"&Spodní okraj"},{
+Key:1002670,Text:"Dokumenty vložené v programu (Slideshow, videa, audio, Powerpoint, PDF, atd.)"},{
+Key:1002672,Text:"&Vytvořte dokument kopií zálohy"},{
+Key:1002673,Text:"&Youtube"},{
+Key:1002674,Text:"&Reset"},{
+Key:1002676,Text:"&Zobrazte stínové efekty"},{
+Key:1002678,Text:"Vyberte tuto možnost pro zálohování / obnovovací kopii vašich zpěvníků a Biblí."},{
+Key:1002679,Text:"&Vimeo:"},{
+Key:1002680,Text:"Reset"},{
+Key:1002681,Text:""},{
+Key:1002683,Text:"<b>Program</b>"},{
+Key:1002684,Text:"&Typ:"},{
+Key:1002685,Text:"&Zpěvník:"},{
+Key:1002686,Text:"&Číslo:"},{
+Key:1002687,Text:"&Sekvence:"},{
+Key:1002688,Text:"<b>Slide</b>"},{
+Key:1002689,Text:"&Viditelnost:"},{
+Key:1002690,Text:"&Číslo:"},{
+Key:1002692,Text:"&Levý okraj:"},{
+Key:1002693,Text:"&Horní okraj:"},{
+Key:1002694,Text:"Obrazovka prezentace"},{
+Key:1002695,Text:"PowerPoint soubor"},{
+Key:1002698,Text:"Přidejte kodeky k zobrazení více video formátů (AVI, MOV, MP4, atd.)"},{
+Key:1002699,Text:"<b>Hledejte biblické verše pomocí slova nebo frází.</b>"},{
+Key:1002701,Text:"<b>URL formát pro online video přehrávač:</b>"},{
+Key:1003000,Text:"Verze {0} z {1}"},{
+Key:1003003,Text:"Zavřít"},{
+Key:1003005,Text:"&Kontaktní VideoPsalm"},{
+Key:1003006,Text:"Otevřené aplikace Outlook (e-mailový klient) poslat e-mail na VideoPsalm"},{
+Key:1003007,Text:"Tato verze je aktualizován"},{
+Key:1003008,Text:"&Aktualizovat mou verzi"},{
+Key:1003009,Text:"Existuje novější verze VideoPsalm:
+Verze {0} pro desku 1: {d}.
+Klepnutím na toto tlačítko otevřete stránku pro stažení.
+Najdete zde historii změn
+a odkaz ke stažení."},{
+Key:1003011,Text:"-Zpráva
+-Učinit poznámku nebo návrh"},{
+Key:1003012,Text:"E-mailová adresa: videopsalm@gmail.com"},{
+Key:1003500,Text:"Odstranit provedení"},{
+Key:1003501,Text:"Provedeny více půltón"},{
+Key:1003502,Text:"Provedeny půltón méně"},{
+Key:1003503,Text:"Bez"},{
+Key:1003504,Text:"Odstranit capo"},{
+Key:1003505,Text:"Transpozice pro capo, který se pohybuje od hlavy"},{
+Key:1003506,Text:"Transpozice pro capo, která se blíží do hlavy"},{
+Key:1003507,Text:"Bez"},{
+Key:1003508,Text:"Podívejte se na zvukový soubor na zpěv"},{
+Key:1003509,Text:"&Zvukový soubor:"},{
+Key:1003510,Text:"Vyberte zvukové soubory pro import a klepněte na tlačítko \"otevřít\"."},{
+Key:1003511,Text:"Importovali jste zvukový soubor {0} (s)."},{
+Key:1003512,Text:"Žádný zvukový soubor nebyl importován.
+((S) se již našel (s) v seznamu)."},{
+Key:1003513,Text:"Import audio souborů"},{
+Key:1003514,Text:"Zvukové soubory"},{
+Key:1003515,Text:"Klíčová slova pro vyhledávání v obrázcích"},{
+Key:1003516,Text:"Bez obrazu"},{
+Key:1003517,Text:"Bez videa"},{
+Key:1003518,Text:"&Soubory"},{
+Key:1003519,Text:"&Zobrazit bass"},{
+Key:1003520,Text:"Klíčová slova pro vyhledávání videa"},{
+Key:1003521,Text:"&Kolekce importovaných písně CCLI / SongSelect"},{
+Key:1003522,Text:"Písně CCLI"},{
+Key:1003523,Text:"Import CCLI písní"},{
+Key:1003524,Text:"{0} písně byly již v kolekci {1} a nebyly importovány."},{
+Key:1003525,Text:"&Hledat"},{
+Key:1003526,Text:"&Jas:"},{
+Key:1003527,Text:"&Hledat"},{
+Key:1003528,Text:"&Jas:"},{
+Key:1003529,Text:"Zpráva"},{
+Key:1003530,Text:"Policie"},{
+Key:1003531,Text:"Barvy"},{
+Key:1003532,Text:"Zpráva"},{
+Key:1003533,Text:"Viditelnost"},{
+Key:1003534,Text:"Model"},{
+Key:1003535,Text:"Typ"},{
+Key:1003536,Text:"Odpočítávání"},{
+Key:1003537,Text:"Stopky"},{
+Key:1003538,Text:"Možnosti"},{
+Key:1003539,Text:"Průhlednost"},{
+Key:1003540,Text:"Zobrazit zprávu"},{
+Key:1003541,Text:"Pozadí"},{
+Key:1003542,Text:"Zobrazení hodin"},{
+Key:1003543,Text:"Hodiny"},{
+Key:1003544,Text:"Odpočítávání"},{
+Key:1003545,Text:"Stopky"},{
+Key:1003546,Text:"Během"},{
+Key:1003547,Text:"Až do"},{
+Key:1003548,Text:"Začátek"},{
+Key:1003549,Text:"Pauza"},{
+Key:1003550,Text:"Stop"},{
+Key:1003551,Text:"Styl"},{
+Key:1003552,Text:"Tuk"},{
+Key:1003553,Text:"Kurzíva"},{
+Key:1003554,Text:"Zdůraznil"},{
+Key:1003555,Text:"Zobrazí druhé ruky"},{
+Key:1003556,Text:"Koktavý sekund"},{
+Key:1003557,Text:"Minuty trhané"},{
+Key:1003558,Text:"Zobrazit číslice"},{
+Key:1003559,Text:"Absolvent minuty"},{
+Key:1003560,Text:"Absolvent hodin"},{
+Key:1003561,Text:"Video kamera"},{
+Key:1003562,Text:"Zobrazí, natáčení kamery za textem."},{
+Key:1003563,Text:"&Přidání skladby do CILC formátu..."},{
+Key:1003564,Text:"Importujte..."},{
+Key:1003565,Text:"Importovat"},{
+Key:1003566,Text:"Umožňuje import audio souborů do vašeho VideoPsalm"},{
+Key:1003567,Text:"Navigace..."},{
+Key:1003568,Text:"Procházet"},{
+Key:1003569,Text:"Otevře složku audio souborů do vašeho VideoPsalm"},{
+Key:1003570,Text:"&Start (ms):"},{
+Key:1003571,Text:"&Konec (ms):"},{
+Key:1003572,Text:"&Objem:"},{
+Key:1003573,Text:"&Hrát smyčkou"},{
+Key:1003575,Text:"&Změněna"},{
+Key:1003576,Text:"&Verze:"},{
+Key:1003577,Text:"Textový editor \"Správně\" vlevo"},{
+Key:1003578,Text:"Přepíná mezi standardním textovém editoru (zápis zleva doprava) a \"Správně\" Editor vlevo pro arabštinu, hebrejštinu, atd."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Vždy společně Ukázat (dvojjazyčné)"},{
+Key:1003581,Text:"&Pozice:"},{
+Key:1003584,Text:"Písně"},{
+Key:1003585,Text:"Importujte písně z textového formátu"},{
+Key:1003593,Text:"&Přidat webový odkaz"},{
+Key:1003594,Text:"Automaticky zalomit slovo"},{
+Key:1003596,Text:"Všechna písmena velká"},{
+Key:1003597,Text:"První písmeno velké"},{
+Key:1003598,Text:"Všechna písmena malá"},{
+Key:1003599,Text:"Velká písmena / Malá písmena"},{
+Key:1003600,Text:"Zvětšit velikost fontu"},{
+Key:1003601,Text:"Snížit velikost fontu"},{
+Key:1003602,Text:"Sloučit dva zpěvníky"},{
+Key:1003605,Text:"Rozdělit zpěvník"},{
+Key:1003606,Text:""},{
+Key:1003608,Text:"- Více"},{
+Key:1003609,Text:"Dokument “{0}”  už existuje ve vaší knihovně. Soubor “{1}”
+ je nemožné znovu přidat."},{
+Key:1003610,Text:"Dokument “{0}” byl přidán do vaší knihovny."},{
+Key:1003611,Text:"&Přidat webovou adresu"},{
+Key:1003613,Text:"Smazat zpěvník"},{
+Key:1003614,Text:"Smazat vybraný zpěvník."},{
+Key:1003615,Text:"Smazat píseň"},{
+Key:1003616,Text:"Smazat vybranou píseň."},{
+Key:1003617,Text:"&Smazat Bibli"},{
+Key:1003618,Text:"Smazat vybranou Bibli."},{
+Key:1003619,Text:"&Přidat PDF soubor"},{
+Key:1003620,Text:"&Přidat Excel soubor"},{
+Key:1003621,Text:"&Přidat Word soubor"},{
+Key:1003622,Text:"&Přidat audio soubor"},{
+Key:1003623,Text:"&Duplikovat"},{
+Key:1003624,Text:"Word"},{
+Key:1003625,Text:"Excel"},{
+Key:1003626,Text:"PDF"},{
+Key:1003627,Text:"Audio"},{
+Key:1003628,Text:"Audio soubory"},{
+Key:1003629,Text:"PDF soubory"},{
+Key:1003630,Text:"Word soubory"},{
+Key:1003631,Text:"Excel soubory"},{
+Key:1003632,Text:"Importovali jste {0} video soubory."},{
+Key:1003633,Text:"Žádný video soubor se neimportoval. (už byly i v seznamu)."},{
+Key:1003634,Text:"Importovat video soubory"},{
+Key:1003635,Text:"Video soubory"},{
+Key:1003636,Text:"Importovali jste {0} PowerPoint soubory."},{
+Key:1003637,Text:"Žádný PowerPoint soubor nebyl importován (už byli v seznamu)."},{
+Key:1003638,Text:"Importované PowerPoint soubory"},{
+Key:1003639,Text:"PowerPoint soubory"},{
+Key:1003640,Text:"Importovali jste {0} PDF soubory."},{
+Key:1003641,Text:"Žádný PDF soubor nebyl importován. (Už byli v seznamu)"},{
+Key:1003642,Text:"Importujte PDF soubory"},{
+Key:1003643,Text:"PDF soubory"},{
+Key:1003644,Text:"Importovali jste {0} Word souborů"},{
+Key:1003645,Text:"Žádný Word soubor nebyl importován (už byli v seznamu)."},{
+Key:1003646,Text:"Importujte Word soubory"},{
+Key:1003647,Text:"Word soubory"},{
+Key:1003648,Text:"Importovali jste {0} Excel soubory"},{
+Key:1003649,Text:"Žádný Excel soubor nebyl importován (soubor už byl v seznamu)."},{
+Key:1003650,Text:"Importujte Excelové soubory"},{
+Key:1003651,Text:"Excel soubory"},{
+Key:1003652,Text:"Vyberte videol soubory k importování a poté klikněte na \"Otevřít\""},{
+Key:1003653,Text:"Vyberte PowerPoint soubory k importování a poté klikněte na \"Otevřít\""},{
+Key:1003654,Text:"Vyberte PDF soubory k importování a poté klikněte na \"Otevřít\""},{
+Key:1003655,Text:"Vyberte Word soubory k importování a poté klikněte na \"Otevřít\""},{
+Key:1003656,Text:"Vyberte Excel soubory k importování a poté klikněte na \"Otevřít\""},{
+Key:1003657,Text:"Nápověda (F1)"},{
+Key:1003658,Text:"Otevřete webovou stránku, která otevře nápovědu k VideoPsalmu."},{
+Key:1003801,Text:"&Přidat dokument"},{
+Key:1003802,Text:"&Nová píseň"},{
+Key:1003803,Text:"Akordy mezi []"},{
+Key:1003804,Text:"Vyberte tuto možnost, když píseň obsahuje závorky reprezantující akordy, např.: [E]."},{
+Key:1003805,Text:"Akordy mezi []"},{
+Key:1003806,Text:"Ano"},{
+Key:1003807,Text:"Ne"},{
+Key:1003809,Text:"První slide"},{
+Key:1003810,Text:"Poslední slide"},{
+Key:1003811,Text:"Prostřední slide"},{
+Key:1003812,Text:"Všechny slidy"},{
+Key:1003813,Text:"Žádný slide"},{
+Key:1003814,Text:"Nastavení"},{
+Key:1003815,Text:"Nastavení zprávy"},{
+Key:1003816,Text:"Nastavení"},{
+Key:1003817,Text:"Nastavení hodin"},{
+Key:1003818,Text:"&Akordy"},{
+Key:1003819,Text:"Zpráva"},{
+Key:1003820,Text:"Hodiny"},{
+Key:1003821,Text:"Zobrazit zprávu"},{
+Key:1003822,Text:"Zobrazit hodiny (odpočet, stopky)"},{
+Key:1003823,Text:"&Přidat CCLI píseň"},{
+Key:1003834,Text:"&Importovat"},{
+Key:1003835,Text:"&Obnovit"},{
+Key:1003836,Text:"&Navigovat na..."},{
+Key:1004050,Text:"Font"},{
+Key:1004051,Text:"Velikost"},{
+Key:1004052,Text:"Tučně"},{
+Key:1004053,Text:"Kurzíva"},{
+Key:1004054,Text:"Podtržené"},{
+Key:1004055,Text:"Zarovnání"},{
+Key:1004056,Text:"Svislé zarovnání"},{
+Key:1004057,Text:"Animace"},{
+Key:1004058,Text:"Doba trvání"},{
+Key:1004059,Text:"Hlasitost"},{
+Key:1004060,Text:"Ztlumit?"},{
+Key:1004061,Text:"Začátek"},{
+Key:1004062,Text:"Konec"},{
+Key:1004063,Text:"Smyčka?"},{
+Key:1004064,Text:"Zoom"},{
+Key:1004065,Text:"Zarovnat dloué věty automaticky"},{
+Key:1004066,Text:"Velká / malá písmena"},{
+Key:1004100,Text:"Barvy"},{
+Key:1004101,Text:"Náplň"},{
+Key:1004102,Text:"Aplikace Entourage"},{
+Key:1004103,Text:"Šířka aplikaci entourage"},{
+Key:1004104,Text:"Stín"},{
+Key:1004105,Text:"Poloměr stínu"},{
+Key:1004106,Text:"Hloubka stínu"},{
+Key:1004107,Text:"Směr stínu"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Obrázek"},{
+Key:1004153,Text:"Barva"},{
+Key:1004156,Text:"Obdélník těla"},{
+Key:1004157,Text:"Obdélník záhlaví"},{
+Key:1004158,Text:"Noha obdélník"},{
+Key:1004500,Text:"Kopírovat program do schránky."},{
+Key:1004501,Text:"Popis agendy byla umístěna do schránky."},{
+Key:1004502,Text:"Slova (titul a text) nebo ne. usilovat"},{
+Key:1004503,Text:"Slova (titul a text) nebo ne. usilovat"},{
+Key:1004504,Text:"Slova (titul) nebo ne."},{
+Key:1004505,Text:"Slova (autor a skladatel) nebo ne. usilovat"},{
+Key:1004506,Text:"Slova (motivy) nebo číslo pro vyhledávání"},{
+Key:1004507,Text:"Slova (odkazy) nebo číslo pro vyhledávání"},{
+Key:1004508,Text:"CCLI usilovat"},{
+Key:1004509,Text:"Slova (copyright) nebo číslo pro vyhledávání"},{
+Key:1004510,Text:"Slova (Poznámka 1) nebo ne. usilovat"},{
+Key:1004511,Text:"Slova (Poznámka 2) nebo ne. usilovat"},{
+Key:1004512,Text:"Slova (Poznámka 3) nebo ne. usilovat"},{
+Key:1004513,Text:"Písně s akordy"},{
+Key:1004514,Text:"Kopírovat shrnutí kompendia"},{
+Key:1004515,Text:"Shrnutí kompendia byl umístěn do schránky."},{
+Key:1005001,Text:"Konec načítání"},{
+Key:1005002,Text:"Píseň o {0}."},{
+Key:1005003,Text:"Načtení videa"},{
+Key:1005004,Text:"Nelze načíst video {0}.
+{1}."},{
+Key:1005005,Text:"Načítání obrázků"},{
+Key:1005006,Text:"Nelze načíst obrázek '{0}'.
+{1}."},{
+Key:1005007,Text:"Načtení stylů"},{
+Key:1005008,Text:"Naplnění seznamu kolekce ({0} písní v {1} sbírky)"},{
+Key:1005009,Text:"Odstranit položky z vybraného programu?"},{
+Key:1005010,Text:"Odebrání položek"},{
+Key:1005011,Text:"Nový zpěvník"},{
+Key:1005012,Text:"Nová píseň"},{
+Key:1005013,Text:"Program je prázdný. Otevřete či přetáhněte sem písně a Biblické verše. Případně můžete danou píseň či verš označit a kliknout na tlačítko \"Přidat\"."},{
+Key:1005014,Text:"Neexistuje žádný snímek na video - projekt.
+Vyberte skladbu nebo verše pro video - projekt."},{
+Key:1005015,Text:"Opravdu chcete odstranit kolekci {0}?
+
+Soubor odpovídající této kolekce nebude odstraněn z disku:
+jeho rozšíření bude přejmenován \".ignore."},{
+Key:1005016,Text:"Odstranit kolekci"},{
+Key:1005017,Text:"Přejete si odstranit skladbu '{0}'?
+
+Po zápisu změny do knihy bude nevratné odstranění této písně."},{
+Key:1005018,Text:"Odstranit skladbu"},{
+Key:1005019,Text:"Odebrat všechny položky z programu?"},{
+Key:1005020,Text:"Odstranit vše"},{
+Key:1005021,Text:"Program bez názvu"},{
+Key:1005022,Text:"Prázdný program"},{
+Key:1005023,Text:"Současný program obsahuje neuložené změny.
+Chcete tyto změny uložit?"},{
+Key:1005024,Text:"Uložit program"},{
+Key:1005025,Text:"Jednu nebo více kolekcí neuložené změny.
+Chcete tyto změny uložit?"},{
+Key:1005026,Text:"Uložit zpěvníky"},{
+Key:1005027,Text:"Jeden nebo více Bible neuložené změny.
+Chcete tyto změny uložit?"},{
+Key:1005028,Text:"Uložit Bible"},{
+Key:1005029,Text:"Přidávání dokumentů do agendy"},{
+Key:1005030,Text:"Programy"},{
+Key:1005031,Text:"Obrazy"},{
+Key:1005032,Text:"Videa"},{
+Key:1005033,Text:"Powerpoints"},{
+Key:1005034,Text:"Uložit program pod"},{
+Key:1005035,Text:"CCLI písně"},{
+Key:1005036,Text:"Není žádná kolekce.
+Klepnutím sem spustíte Průvodce importem zprávy."},{
+Key:1005037,Text:"Formát {0}
+{1} × {2} pixelů"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Opravdu chcete odstranit všechny styly pod {0}?"},{
+Key:1005040,Text:"Kolekce {0} je vyloučen z vyhledávání"},{
+Key:1005041,Text:"Zobrazit nebo posunutím"},{
+Key:1005042,Text:"Roční období"},{
+Key:1005043,Text:"Jaro"},{
+Key:1005044,Text:"Léto"},{
+Key:1005045,Text:"Vánoční"},{
+Key:1005046,Text:"Témata"},{
+Key:1005047,Text:"Karamel"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Představivost"},{
+Key:1005050,Text:"Temná komora"},{
+Key:1005051,Text:"Mlha"},{
+Key:1005052,Text:"Modrotisk"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontrast"},{
+Key:1005055,Text:"Kancelář"},{
+Key:1005056,Text:"Office 2010 modrý"},{
+Key:1005057,Text:"Systém Office 2010 Stříbrná"},{
+Key:1005058,Text:"Systém Office 2010 černá"},{
+Key:1005059,Text:"Office 2007 Blue"},{
+Key:1005060,Text:"Office 2007 zelená"},{
+Key:1005061,Text:"Office 2007 růže"},{
+Key:1005062,Text:"Office 2007 stříbrná"},{
+Key:1005063,Text:"Office 2007 černá"},{
+Key:1005064,Text:"Systém Windows"},{
+Key:1005065,Text:"Metropole"},{
+Key:1005066,Text:"Sedm"},{
+Key:1005067,Text:"Sedm Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Kadidlo"},{
+Key:1005070,Text:"Kouř"},{
+Key:1005071,Text:"Jablko"},{
+Key:1005072,Text:"Barvy"},{
+Key:1005073,Text:"Tekuté obloha"},{
+Key:1005074,Text:"Londýn obloha"},{
+Key:1005075,Text:"Modrá"},{
+Key:1005076,Text:"Peníze dvojčata"},{
+Key:1005077,Text:"Černé zlato"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Ostrý"},{
+Key:1005080,Text:"Sharp více"},{
+Key:1005081,Text:"Hvězdy"},{
+Key:1005082,Text:"Oceány skla"},{
+Key:1005083,Text:"Svět asfalt"},{
+Key:1005084,Text:"Káva"},{
+Key:1005085,Text:"Prach z hvězd"},{
+Key:1005086,Text:"Odstranit všechny styly níže"},{
+Key:1005087,Text:"Udržovat otevřené Galerie"},{
+Key:1005088,Text:"Office 2016 - Barevný"},{
+Key:1005089,Text:"Office 2016 - Tmavý"},{
+Key:1005090,Text:"Office 2016 - Černý"},{
+Key:1005091,Text:"Office 2013 - Bílý"},{
+Key:1005092,Text:"Office 2013 - Světle šedá"},{
+Key:1005093,Text:"Office 2013 - Světle šedá"},{
+Key:1005100,Text:"Bez animace"},{
+Key:1005102,Text:"Slábnutí"},{
+Key:1005103,Text:"Světlo zmizí"},{
+Key:1005104,Text:"Viz větší obrázek"},{
+Key:1005105,Text:"Expanze v světla fade"},{
+Key:1005106,Text:"Skenování"},{
+Key:1005107,Text:"Skenování doprava"},{
+Key:1005109,Text:"Forma"},{
+Key:1005110,Text:"Hvězda"},{
+Key:1005118,Text:"Skenování dolů"},{
+Key:1005120,Text:"Skenovat vlevo"},{
+Key:1005121,Text:"Skenování nahoru"},{
+Key:1005122,Text:"Skenování shora doprava"},{
+Key:1005123,Text:"Skenování shora doleva"},{
+Key:1005124,Text:"Skenování zdola doprava"},{
+Key:1005125,Text:"Skenování zdola doleva"},{
+Key:1005126,Text:"Objevte"},{
+Key:1005127,Text:"Objevte dolů"},{
+Key:1005128,Text:"Objevte právo"},{
+Key:1005129,Text:"Objevte levice"},{
+Key:1005130,Text:"Objevte nahoru"},{
+Key:1005131,Text:"Objevte vpravo nahoře"},{
+Key:1005132,Text:"Objevte vlevo nahoře"},{
+Key:1005133,Text:"Objevte doprava dolů"},{
+Key:1005134,Text:"Objevte vlevo dole"},{
+Key:1005200,Text:"Snímky"},{
+Key:1005201,Text:"Žádný snímek"},{
+Key:1005209,Text:"Hledání slov v:"},{
+Key:1005210,Text:"&Nadpis a text"},{
+Key:1005211,Text:"&Nadpis a text"},{
+Key:1005212,Text:"&Titul"},{
+Key:1005213,Text:"&Autor a skladatel"},{
+Key:1005214,Text:"&Témata"},{
+Key:1005215,Text:"&Odkazy"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Autorská práva"},{
+Key:1005218,Text:"&Poznámka 1"},{
+Key:1005219,Text:"&Poznámka 2"},{
+Key:1005220,Text:"&Poznámka 3"},{
+Key:1005221,Text:"&Písně s akordy"},{
+Key:1005223,Text:"Možnosti programu"},{
+Key:1005224,Text:"VideoPsalm možnosti"},{
+Key:1005225,Text:"Zobrazí dialogové okno Možnosti VideoPsalm."},{
+Key:1005226,Text:"Importovat"},{
+Key:1005228,Text:"Zobrazí průvodce importem zpěvníků , Bible, obrázků a videí z on-line knihoven VideoPsalmu a populárních formátů."},{
+Key:1005230,Text:"Smazat"},{
+Key:1005232,Text:"Odstraňte vybranou píseň, kolekci, či Bibli."},{
+Key:1005237,Text:"Změňte písmo."},{
+Key:1005247,Text:"Obrázky"},{
+Key:1005252,Text:"Upravte nastavení oznámení."},{
+Key:1005253,Text:"Zavřít toto okno a připomenout mi to příště."},{
+Key:1005254,Text:"Zavřete toto okno a už mi tyto informace nepřipomínejte."},{
+Key:1005255,Text:"Slova nebo fráze k vyhledání."},{
+Key:1005256,Text:"Výběr veršů jejich odkazem"},{
+Key:1005257,Text:"Vyhledávání veršů, které obsahují určitá klíčová slova nebo fráze"},{
+Key:1005258,Text:"Odstranit klíčové slovo nebo slovní spojení k hledání (ESC)"},{
+Key:1005259,Text:"Hledat verše, které obsahují určitá klíčová slova.
+
+Například:
+
+-Chcete-li najít verše, které obsahují frázi <b>\"synové Boží\"</b>, zadejte několik slov jako <b>\"dítě Boha\"</b>.
+
+-Chcete-li najít verš, který obsahuje větu <b>\"vzal kalich\"</b>, zadejte tyto násobky slova: <b>«ilpritlacoupe»</b>.
+
+Nemusíte se starat o akcenty nebo interpunkci, nebo malá/velká písmena.
+
+Není třeba zadávat slova jako celku nebo v pořadí.
+
+Přidáte další slova, verše omezit seznam nalezených veršů.
+
+Stiskněte tlačítko <b>Vložit</b> přidat verš našel a vybrali k agendě."},{
+Key:1005260,Text:"Žádné nalezené verš."},{
+Key:1005268,Text:"V tomto režimu VideoPsalm automaticky přidá hranaté závorky [] kolem textu, který zadáte.
+Můžete například přidat c akord, zadejte «Do» a VideoPsalm bude vložit \"[to]."},{
+Key:1005269,Text:"Velikost písma"},{
+Key:1005270,Text:"Změní velikost písma jako procento výšky obrazovky."},{
+Key:1005271,Text:"&Uložit program jako"},{
+Key:1005277,Text:"&Uložit "},{
+Key:1005278,Text:"Uloží změny provedené ve zpěvnících, Bibli a jejich stylech."},{
+Key:1005279,Text:"Uloží změny, které jste provedli ve zpěvnících a stylech formátu.
+
+<b>Pozornost:</b> Změny, které provedete do Bible nejsou uloženy (text a styly). Chcete-li tyto změny uložit, povolte odpovídající možnost v možnostech pro VideoPsalm."},{
+Key:1005283,Text:"Délka:"},{
+Key:1005284,Text:"V ms:"},{
+Key:1005285,Text:"Položka"},{
+Key:1005286,Text:"Tělo"},{
+Key:1005287,Text:"Styl textu"},{
+Key:1005288,Text:"Umožňuje úpravy stylu těla."},{
+Key:1005289,Text:"Záhlaví"},{
+Key:1005290,Text:"Styl záhlaví"},{
+Key:1005291,Text:"Umožňuje úpravy stylu formátu záhlaví."},{
+Key:1005292,Text:"Zápatí"},{
+Key:1005293,Text:"Styl zápatí"},{
+Key:1005294,Text:"Umožňuje úpravy stylu formátu zápatí."},{
+Key:1005295,Text:"Akordy"},{
+Key:1005296,Text:"Formát akordů"},{
+Key:1005297,Text:"Umožňuje úpravy stylu formátu akordů."},{
+Key:1005308,Text:"Kniha"},{
+Key:1005313,Text:"Úroveň stylu"},{
+Key:1005314,Text:"Nastavte úroveň, na které se použije změny stylu.
+
+Verš má úroveň nejvyšší stylu, pak jen zpěv, sbírky, sbírky a základu.
+
+Podobně verš má úroveň nejvyšší stylu, pak přijde kapitoly, kniha, v zákoně, Bible, Bible a základu znovu.
+
+Základna je v kořenovém adresáři hierarchie, její styl se aplikuje na všechny snímky.
+
+Vyšší úroveň může přepsat styl definovaný v nižší úrovni atributu."},{
+Key:1005315,Text:"<b></b>Tento mechanismus umožňuje změnit styl tak celkově, nebo jednotlivé snímky.
+
+<b>Příklad</b>
+Pokud přiřadíte pozadí skladby, všechny verše této písně se s tímto pozadím, s výjimkou verše, které jste přiřadili určité zázemí."},{
+Key:1005318,Text:"Slajd"},{
+Key:1005319,Text:"Aplikace PowerPoint"},{
+Key:1005320,Text:"Powerpoints"},{
+Key:1005322,Text:"Videa"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Barvy textu"},{
+Key:1005329,Text:"Obnovit"},{
+Key:1005330,Text:"Vymaže styl pro vybranou úroveň"},{
+Key:1005331,Text:"Můžete odstranit všechny atributy stylu vybrané úrovně.
+Snímek bez stylu zdědí automaticky nižší úrovně stylu.
+
+Například:
+-Jedna sloka má styl, Candara písmem.
+-Zpěv, přitom má styl s písmo Segoe UI.
+
+Když vymažete styl verše, zobrazí se stylem nižší úrovně. V našem příkladu bude písmo Segoe UI.
+
+<b>Drop-down menu «odstranit všechny výše uvedené styly»</b>
+Můžete odstranit styl vybraná úroveň a všechny vyšší styly.
+
+Například pokud je vybrána úroveň stylu \"Kód\", styl v kolekci budou odstraněny stejně jako styly ze všech písní ze sbírky a ty jejich sloky."},{
+Key:1005332,Text:"Toto tlačítko je nedostupné, když úroveň nemá žádný vlastní styl."},{
+Key:1005333,Text:"&Odstranit všechny výše uvedené styly"},{
+Key:1005337,Text:"&Nahoře"},{
+Key:1005338,Text:"&Střední"},{
+Key:1005339,Text:"&Dole"},{
+Key:1005340,Text:"Zůstat na této úrovni stylu"},{
+Key:1005341,Text:"Zůstat na současné úrovni stylu"},{
+Key:1005342,Text:"Zůstane na současné úrovni stylu když změníte snímku.
+
+Tedy:
+<b>1.</b> Při zobrazení verš písně, VideoPsalm, pozice úroveň stylu 'stanza'.
+<b>2.</b> Pro změnu stylu zpěvu verše, vyberte úroveň stylu \"song\".
+<b>3.</b> Zůstat na formátování stylu písní, stiskněte na špendlík.
+<b>4.</b> Při přepnutí z jedné sloky na další úroveň stylu zůstává na \"song\"."},{
+Key:1005343,Text:"Vyplnění textu"},{
+Key:1005345,Text:"Vyplnění textu s plnou barvou, přechodem, obrázek nebo texturu."},{
+Key:1005346,Text:"Barva textu"},{
+Key:1005347,Text:"Osnova textu"},{
+Key:1005349,Text:"Určuje barvu, šířku a čáry pro ohraničení stylu textu."},{
+Key:1005350,Text:"Barva textu"},{
+Key:1005352,Text:"Textový efekt"},{
+Key:1005354,Text:"Použít vizuální efekt pro text, například stín, světlo, odraz nebo rotační 3-d."},{
+Key:1005356,Text:"Stín textu"},{
+Key:1005357,Text:"Barva pozadí"},{
+Key:1005359,Text:"&Nová píseň"},{
+Key:1005360,Text:"&Nový zpěvník"},{
+Key:1005361,Text:"&Odstranit vše"},{
+Key:1005362,Text:"
+
+<b>Částečné štít</b>
+Při zahájení agendy, bude zachována <b>texty</b> knih a Bible.
+Styly kalendáře se použije na své knihy a Bible."},{
+Key:1005363,Text:"
+
+<b>Částečné štít</b>
+Při zahájení agendy, bude zachována <b>styly</b> knih a Bible.
+Znění programu bude použita na své knihy a Bible."},{
+Key:1005364,Text:"
+
+<b>Plná štít</b>
+Při zahájení agendy, bude zachována <b>texty</b> a <b>styly</b> knih a Bible.
+Ty agendy se neuplatní.
+
+<i>To je strategie přijmout, když jsou vaše referenční dokumenty tohoto PC.</i>"},{
+Key:1005365,Text:"
+
+<b>Absence štít</b>
+Při zahájení schůzky, <b>textů</b> a <b>styly</b> kalendáře budou použita pro své knihy a Bible a nahradit své vlastní texty a stylů.
+
+<i>To je strategie k přijetí referenční dokumenty jsou ty z PC, ve kterém jste vytvořili pořad.</i>"},{
+Key:1005366,Text:"Chcete-li změnit z \"Prohlížeč\" na \"Edit\" režimu nebo naopak, klepněte na tlačítko s tužkou."},{
+Key:1005369,Text:"Seřadit podle názvu"},{
+Key:1005370,Text:"Seřadit podle čísla"},{
+Key:1005371,Text:"O programu"},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simuluje videoprojekci
+na obrazovce v poměru stran 4:3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simuluje videoprojekci
+na obrazovku v poměru stran 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simuluje videoprojekci
+na obrazovce v poměru stran 4:3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simuluje videoprojekci
+na obrazovku v poměru stran 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simuluje videoprojekci
+na obrazovku v poměru stran 16:8"},{
+Key:1005387,Text:"Výchozí"},{
+Key:1005388,Text:"Využívá celou plochu obrazovky"},{
+Key:1005389,Text:"Stran 4:3"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"C D E"},{
+Key:1005396,Text:"Způsob vkládání akordů"},{
+Key:1005398,Text:"Zobrazit akordy nad texty"},{
+Key:1005400,Text:"Povolit formu vzhledu"},{
+Key:1005401,Text:"&Přidat do programu"},{
+Key:1005402,Text:"&Odstranit vybranou položku"},{
+Key:1005403,Text:"&Zahrnout zpěvník do vyhledávání"},{
+Key:1005404,Text:"&Vynechat zpěvník z vyhledávání."},{
+Key:1005405,Text:"&Zahrnout všechny zpěvníky do vyhledávání."},{
+Key:1005407,Text:"&Skrýt zpěvníky, které nemají být zahrnuty do vyhledávání."},{
+Key:1005408,Text:"&Zobrazit zpěvníky vyloučené z vyhledávání"},{
+Key:1005409,Text:"&Zobrazit obdélník velikosti"},{
+Key:1005410,Text:"Zobrazí velikost obdélníku"},{
+Key:1005411,Text:"Umožňuje změnit velikost rámce (základní text, záhlaví nebo zápatí) vybrána.
+
+Rámeček lze velikost s myší v oblasti náhledu.
+
+<b>Jak změnit velikost rámečku</b>
+
+1. Vyberte rámeček velikost:
+-tělo
+-Hlavička,
+- nebo nohy.
+
+2. Vyberte požadovaný styl úrovně, například \"Bible\".
+
+3. Stiskněte na bug přinutit VideoPsalm zobrazení snímky ve stylu \"Bible\".
+Vskutku není-li chyba, VideoPsalm automaticky přepne do \"Verš\" styl jak zobrazení verš.
+
+4 Zobrazí verš. Oblast náhledu zobrazí rámeček pomocí stylu \"Bible\".
+
+5 Změnit velikost a polohu rámečku pomocí myši.
+
+6. Odstraňte chybu vrátit VideoPsalm do stylu \"Poezie\", když se znovu zobrazí snímek."},{
+Key:1005412,Text:"&Kopírovat Přehled kódu do schránky"},{
+Key:1005417,Text:"Text"},{
+Key:1005418,Text:"Průzkumník stylů"},{
+Key:1005419,Text:"Zobrazí nebo skryje styl Průzkumníka.
+V tomto okně můžete přecházet mezi úrovní hierarchické stylů, nastavení vlastnosti jedince a upravovat je."},{
+Key:1005420,Text:"Styly"},{
+Key:1005421,Text:"Policie"},{
+Key:1005424,Text:"Pozadí"},{
+Key:1005425,Text:"Styly"},{
+Key:1005429,Text:"Aspekt"},{
+Key:1005430,Text:"Edice"},{
+Key:1005432,Text:"Vzhled"},{
+Key:1005433,Text:"Nástroje"},{
+Key:1005442,Text:"Pokračovat v další položce"},{
+Key:1005443,Text:"Vypnout před odchodem"},{
+Key:1005444,Text:"Odstraňte text a pak postupujte podle"},{
+Key:1005445,Text:"Odstraňte text a potom vypněte"},{
+Key:1005446,Text:"Zobrazit společně s dalším prvkem (dvojjazyčné)"},{
+Key:1005447,Text:"Zpěv nebo vybrané agendy verše (Insert nebo Alt + A)"},{
+Key:1005448,Text:"Klepnutím sem přidáte zpěv nebo verše k agendě.
+
+Případně si můžete přetahovat toto tlačítko v kalendáři na místo, které by měly být."},{
+Key:1005449,Text:"&Přidat"},{
+Key:1005454,Text:"Vyberte možnosti pro vyhledávání skladeb podle klíčových slov"},{
+Key:1005455,Text:"Odstranit slova nebo čísla na search (ESC)"},{
+Key:1005457,Text:"Hledat píseň (Ctrl + F)"},{
+Key:1005458,Text:"Hledat písně, které obsahují určitá slova nebo číslo.
+
+Například:
+
+-Chcete-li najít píseň č. 250, typ «250»
+
+-Najít píseň, která obsahuje texty <b>' jako maják v noci \"</b>, zadejte několik slov jako <b>\"světlo v noci\"</b>.
+
+Neboj se o akcenty nebo interpunkci.
+
+Není třeba brát slova jako celku nebo v pořadí.
+
+Přidáte další slova písně snížit seznam nalezených písní.
+
+Stiskněte tlačítko <b>Vložit</b> a přidejte první píseň na pořadu jednání."},{
+Key:1005459,Text:"Neexistuje žádná Bible.
+Klepnutím sem spustíte Průvodce importem
+Bible a přidejte Bible z oblíbených zdrojů."},{
+Key:1005463,Text:"Odstranit odkaz na zobrazení (ESC)"},{
+Key:1005464,Text:"Odkaz na výběr, např.: Římanům 3:23-25, 30"},{
+Key:1005465,Text:"Výběr Biblických veršů (Ctrl + F)"},{
+Key:1005472,Text:"&Soubor:"},{
+Key:1005475,Text:"&Zahrnout tento zpěvník do vyhledávání písní"},{
+Key:1005479,Text:"&Jméno:"},{
+Key:1005481,Text:"&Zkratka:"},{
+Key:1005483,Text:"&Autor:"},{
+Key:1005485,Text:"&Autorská práva:"},{
+Key:1005487,Text:"&Dokument:"},{
+Key:1005491,Text:"&Tisk capo"},{
+Key:1005497,Text:"&Texty"},{
+Key:1005499,Text:"&Číslo:"},{
+Key:1005501,Text:"&Název:"},{
+Key:1005505,Text:"&Reference:"},{
+Key:1005507,Text:"&Autorská práva:"},{
+Key:1005509,Text:"&Autor:"},{
+Key:1005511,Text:"&Skladatel:"},{
+Key:1005513,Text:"&Různé"},{
+Key:1005515,Text:"&Tón:"},{
+Key:1005517,Text:"&Formát:"},{
+Key:1005519,Text:"&Téma:"},{
+Key:1005521,Text:"&Sekvence:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Klíč:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Hlavní linie:"},{
+Key:1005531,Text:"&Poznámka 1:"},{
+Key:1005533,Text:"&Poznámka 2:"},{
+Key:1005535,Text:"&Poznámka 3:"},{
+Key:1005537,Text:"&Podpis:"},{
+Key:1005540,Text:"&Provedení:"},{
+Key:1005541,Text:"Tisknout capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Provádění dohod skladby."},{
+Key:1005555,Text:"&Soubor:"},{
+Key:1005560,Text:"&Autorská práva:"},{
+Key:1005562,Text:"&Zkratka:"},{
+Key:1005564,Text:"&Jméno:"},{
+Key:1005566,Text:"&Popis:"},{
+Key:1005568,Text:"&Úvod:"},{
+Key:1005570,Text:"&Dokument:"},{
+Key:1005576,Text:"&Jméno:"},{
+Key:1005582,Text:"&Jméno:"},{
+Key:1005584,Text:"&Úvod:"},{
+Key:1005586,Text:"&Zkratka:"},{
+Key:1005587,Text:"Kapitola Bible"},{
+Key:1005590,Text:"Idnes.cz"},{
+Key:1005595,Text:"&Verš:"},{
+Key:1005603,Text:"&Soubor:"},{
+Key:1005606,Text:"Žádný výběr"},{
+Key:1005608,Text:"Styl"},{
+Key:1005612,Text:"Odebere hodnotu vlastnosti"},{
+Key:1005613,Text:"Když odstraníte hodnoty vlastnosti, VideoPsalm použije první hodnota v nižších úrovních.
+
+Například, pokud odeberete policie na úrovni verše, VideoPsalm využití, v pořádku a pokud je nastavena, písmo:
+-zpěv,
+-jinak kolekce,
+-Li jeden ze sbírek,
+-jinak základnu.
+
+VideoPsalm je shodný s Biblí, obrázky, atd."},{
+Key:1005615,Text:"Žádný"},{
+Key:1005616,Text:"Základna"},{
+Key:1005618,Text:"Zpěvníky"},{
+Key:1005619,Text:"Zpěvník"},{
+Key:1005620,Text:"Zpěv"},{
+Key:1005621,Text:"Sloka"},{
+Key:1005622,Text:"Bible"},{
+Key:1005623,Text:"Bible"},{
+Key:1005624,Text:"Zákon"},{
+Key:1005625,Text:"Kniha Bible"},{
+Key:1005626,Text:"Kapitola"},{
+Key:1005627,Text:"Verš"},{
+Key:1005628,Text:"Výchozí hodnota"},{
+Key:1005629,Text:"Hodnota od těla textu"},{
+Key:1005630,Text:"Zarovnání doleva"},{
+Key:1005631,Text:"Zarovnání na střed"},{
+Key:1005632,Text:"Zarovnání doprava"},{
+Key:1005633,Text:"Zarovnání do bloků"},{
+Key:1005634,Text:"Nahoře"},{
+Key:1005635,Text:"Střední"},{
+Key:1005636,Text:"Dole"},{
+Key:1005650,Text:"&Otevřít program..."},{
+Key:1005651,Text:"&Přidat program..."},{
+Key:1005652,Text:"&Přidat obrázky"},{
+Key:1005653,Text:"&Přidat video"},{
+Key:1005654,Text:"&Přidat Powerpoint prezentaci"},{
+Key:1005655,Text:"Když otevřu kalendář:"},{
+Key:1005656,Text:"&Zachovat znění mých knih a Bible"},{
+Key:1005657,Text:"&Zachovat styly z mých knih a Bible"},{
+Key:1005658,Text:"&Přidat program"},{
+Key:1005659,Text:"&Přidat obrázky"},{
+Key:1005660,Text:"&Přidat video"},{
+Key:1005661,Text:"&Přidat PowerPoint prezetaci"},{
+Key:1005667,Text:"&Zpěvníky"},{
+Key:1005668,Text:"Zobrazení zpěvníků (Alt + R)"},{
+Key:1005670,Text:"&Bible"},{
+Key:1005671,Text:"Zobrazí Bible (Alt + B)"},{
+Key:1005677,Text:"&Šířka:"},{
+Key:1005680,Text:"&Rozostření:"},{
+Key:1005681,Text:"&Hloubka:"},{
+Key:1005682,Text:"&Směr:"},{
+Key:1005686,Text:"Zobrazí prázdná obrazovka, černá barva.
+Simuluje zániku projektoru."},{
+Key:1005687,Text:"Další"},{
+Key:1005688,Text:"Přejít na další snímek."},{
+Key:1005689,Text:"Vypnout obrazovku (Ctrl + W)"},{
+Key:1005690,Text:"Zobrazený text (Ctrl + T)"},{
+Key:1005691,Text:"Zobrazí nebo skryje text na snímku."},{
+Key:1005692,Text:"Štít (Ctrl + B)"},{
+Key:1005693,Text:"Zachová zpěv je projekce snímků.
+
+Do práce na agendu nebo vyhledat skladby nebo verš během videoprojekce zpěvu.
+
+Chcete-li přepsat štít, poklepejte na položku v programu."},{
+Key:1005694,Text:"Ukotvit"},{
+Key:1005695,Text:"Zamrzne video projekční plátno bez zmrazení oblasti náhledu.
+
+Chcete-li zobrazit náhled prezentace během projekce."},{
+Key:1005696,Text:"Projekt (Ctrl + P)"},{
+Key:1005697,Text:"Předpokládané snímky na projektoru."},{
+Key:1005698,Text:"Režim \"Edition\" (Ctrl + E)"},{
+Key:1005699,Text:"Přepne z \"Prohlížeč\" na \"Edit\" režimu nebo naopak."},{
+Key:1005702,Text:"Otevřít program nebo dokument"},{
+Key:1005703,Text:"&Zavřít program"},{
+Key:1005704,Text:"Uložit program"},{
+Key:1005705,Text:"Smazat"},{
+Key:1005706,Text:"Odstraňte vybrané položky z programu."},{
+Key:1005707,Text:"Hora (Ctrl + Page up)"},{
+Key:1005708,Text:"Přesuňte položku na začátek programu."},{
+Key:1005709,Text:"(Ctrl + Page down)"},{
+Key:1005710,Text:"Přesuňte položku na konec programu."},{
+Key:1005711,Text:"Jas"},{
+Key:1005712,Text:"Otevřít program."},{
+Key:1005713,Text:"Uloží program na disku nebo USB klíče."},{
+Key:1005721,Text:"Vybere verše jejich odkazem.
+<i>Příklad: Římanům 3:23-25, 30</i>
+
+Nezadávejte diakritiku v názvech knih.
+<i>Příklad: š<b>e</b>h<b>e</b>mie' spíše než \"N<b>é</b>h<b>é</b>mie\".</i>
+
+Zadejte buď <b>': '</b>, <b>\".\"</b> nebo <b>\"v\"</b> k oddělení kapitoly verše.
+
+Stiskněte klávesu <b>'Vložit'</b> přidat verše na pořadu jednání."},{
+Key:1005722,Text:"Komentáře (není přeložit, v angličtině)"},{
+Key:1005723,Text:"Soubor nelze zapsat.
+{0} :
+{1}."},{
+Key:1005724,Text:"Chyba"},{
+Key:1005725,Text:"Nelze číst soubor
+{0} :
+{1}."},{
+Key:1005730,Text:"Jste si jisti, že chcete odstranit styl prezentace obrázků?
+Styl prezentace snímků bude trvat standardní hodnotu."},{
+Key:1005731,Text:"Jste si jisti, že chcete odstranit základní styl?
+Základní styl bude mít standardní hodnotu."},{
+Key:1005732,Text:"Jste si jisti, že chcete odstranit  formátování ve zpěvníku?
+Styl kolekce bude trvat standardní hodnotu."},{
+Key:1005733,Text:"Jste si jisti, že chcete odstranit styl Bible?
+Styl Bible bude trvat standardní hodnotu."},{
+Key:1005734,Text:"Jste si jisti, že chcete odstranit tento styl?
+VideoPsalm aplikovat atributy stylu nalezené nižší v hierarchii."},{
+Key:1005735,Text:"Smazat styl"},{
+Key:1005736,Text:"Jste si jisti, že chcete odstranit styl videa?
+Styl videa bude trvat standardní hodnotu."},{
+Key:1005737,Text:"Zpěvník"},{
+Key:1005738,Text:"Žádný zpěvník"},{
+Key:1005739,Text:"Bible"},{
+Key:1005740,Text:"Žádná Bible"},{
+Key:1005743,Text:"Zvětšení písma (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Zvětší velikost písma."},{
+Key:1005745,Text:"Zmenšete písmo (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Zmenší velikost písma."},{
+Key:1005747,Text:"Tučné (Ctrl + B)"},{
+Key:1005748,Text:"Vložte vybraný text na tučný."},{
+Key:1005749,Text:"Kurzíva (Ctrl + I)"},{
+Key:1005750,Text:"Vložte vybraný text na kurzívu."},{
+Key:1005751,Text:"Poukázal (Ctrl + U)"},{
+Key:1005752,Text:"Podtrhne vybraný text."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Nakreslí čáru uprostřed vybraného textu."},{
+Key:1005755,Text:"Zobrazit / skrýt ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Zobrazí znaky konce odstavce a další skryté formátovací symboly."},{
+Key:1005757,Text:"Barva písma"},{
+Key:1005758,Text:"Změňte barvu textu."},{
+Key:1005759,Text:"Barva textu"},{
+Key:1005760,Text:"Dává barvu textu."},{
+Key:1005761,Text:"Smazat formátování (Ctrl + mezerník)"},{
+Key:1005762,Text:"Zcela vymaže formátování výběru a zachová pouze prostý text."},{
+Key:1005763,Text:"Vrácení zpět (Ctrl + Z)"},{
+Key:1005764,Text:"Zruší poslední operaci."},{
+Key:1005765,Text:"Znovu: (Ctrl + Y)"},{
+Key:1005766,Text:"Provede znovu poslední operaci."},{
+Key:1005767,Text:"Řez (Ctrl + X)"},{
+Key:1005768,Text:"Vyjme výběr a vloží jej do schránky."},{
+Key:1005769,Text:"Kopírovat (Ctrl + C)"},{
+Key:1005770,Text:"Zkopíruje výběr a vloží jej do schránky."},{
+Key:1005771,Text:"Vložit (Ctrl + V)"},{
+Key:1005772,Text:"Vloží obsah schránky."},{
+Key:1005773,Text:"Hledání (Ctrl + F)"},{
+Key:1005774,Text:"Hledat text v dokumentu."},{
+Key:1005775,Text:"Nahradit (Ctrl + H)"},{
+Key:1005776,Text:"Nahradí text v dokumentu."},{
+Key:1005777,Text:"Zvětšení"},{
+Key:1005778,Text:"Zobrazit vše"},{
+Key:1005779,Text:"Chcete-li upravit konkrétní poezie, klepněte na jeho snímku."},{
+Key:1005780,Text:"Výběr veršů"},{
+Key:1005781,Text:"Seřadí kolekce vybraných podle jejich názvu písně."},{
+Key:1005782,Text:"Zavřít výchozí program (a požádá o potvrzení, pokud existují neuložené změny)."},{
+Key:1005783,Text:"Upraví jas obrázku, nebo na pozadí video.
+
+Umožňuje zvýraznění textu, i nad barriole pozadí."},{
+Key:1005784,Text:"&Kopírovat popis programu"},{
+Key:1005785,Text:"&Zahrnout texty písní"},{
+Key:1005786,Text:"&Zahrnout včetně Biblických veršů"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Otevře stránku Facebooku VideoPsalm.
+
+Dejte vědět VideoPsalm kolem sebe:
+-Klepnutím na tlačítko \"Líbí se mi\"
+-tím, že se jeho přítel.
+
+<b>Poznámka:</b> Chcete-li odstranit reklamy v Facebook, nainstalujte zdarma plugin <b>Adblock Plus</b>.
+
+Chcete-li skrýt VideoPsalm sociální ikony, zakážete v záložce \"Général\" → \"Možnosti\"."},{
+Key:1005791,Text:"Otevře stránku VideoPsalm Twitter, být informováni o nových článcích z blogů.
+
+Chcete-li skrýt VideoPsalm sociální ikony, zakážete v záložce \"Général\" → \"Možnosti\"."},{
+Key:1005792,Text:"Otevře stránku s VideoPsalm YouTube, kde najdete video návody na použití VideoPsalm.
+
+Chcete-li skrýt VideoPsalm sociální ikony, zakážete v záložce \"Général\" → \"Možnosti\"."},{
+Key:1005793,Text:"Přidá novou prázdnou píseň (nebo reklama) do vybrané kolekce."},{
+Key:1005794,Text:"Přidá novou prázdnou kolekci."},{
+Key:1005795,Text:"Seřadí písně kolekce vybraných podle jejich počtu."},{
+Key:1005800,Text:"Sloka"},{
+Key:1005801,Text:"Sbor"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Most"},{
+Key:1005804,Text:"Popisek"},{
+Key:1005805,Text:"Úvod"},{
+Key:1005806,Text:"Výstup"},{
+Key:1005807,Text:"SLIP"},{
+Key:1005808,Text:"Instrumentální"},{
+Key:1005809,Text:"Ostatní"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"JÁ"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Zavřít"},{
+Key:1005851,Text:"&Jazyk:"},{
+Key:1005852,Text:"&Vydavatel:"},{
+Key:1005853,Text:"Všechny"},{
+Key:1005859,Text:"Transponovat píseň dohody v závislosti na pozici capodiastre."},{
+Key:1005860,Text:"Najít písně včetně název (nebo také alias) nebo texty obsahují slova, která zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005861,Text:"Provede hledání ve dvou etapách, že výhoda rychle zobrazit krátký seznam skladeb:
+
+1 Najít v první době písní včetně název (nebo také alias) obsahuje slova, která zadáte.
+
+Přidat slova, že přijde čas, kde mohou souhlasit většina nějakou píseň.
+
+2. Od tohoto okamžiku bude VideoPsalm Hledat klíčová slova v textech písní.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005862,Text:"Najdete skladby písničkářů, který zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005863,Text:"Najdete písně, které se zabývají tématy, které zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005864,Text:"Najdete písně inspirované biblické odkazy, které zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005865,Text:"Je to píseň, která má CCLI zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005866,Text:"Najdete písně, jejichž autorská práva obsahuje slova, která zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005867,Text:"Najdete písně, jejichž Poznámka 1 obsahuje slova, která zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005868,Text:"Najdete písně, jejichž Poznámka 2 obsahuje slova, která zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005869,Text:"Najdete písně 3 penále obsahující slova, které že jste zadali.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005870,Text:"Najít písně, jehož název nebo alias obsahuje slova, která zadáte.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005871,Text:"Najdete písně, které mají smlouvy v textech.
+
+Případně můžete vyhledat píseň od jeho číslo."},{
+Key:1005872,Text:"&Verze:"},{
+Key:1005873,Text:"&Verze:"},{
+Key:1005874,Text:"Datum verze sbírky"},{
+Key:1005875,Text:"Označuje datum, kdy tato kolekce byla aktualizována VideoPsalm za poslední dobu.
+
+Prostřednictvím on-line knihovna VideoPsalm Průvodce importem, můžete zkontrolovat, zda existuje novější verze této příručky.
+
+VideoPsalm on-line aktualizace někdy nějaké sbírky, opravit například překlepy."},{
+Key:1005876,Text:"Datum verze Bible"},{
+Key:1005877,Text:"Označuje datum, kdy tato Bible aktualizovány pomocí VideoPsalm za poslední dobu.
+
+Pomocí Průvodce importem on-line knihovna VideoPsalm můžete zkontrolovat, zda existuje novější verze tohoto překladu.
+
+VideoPsalm on-line aktualizace někdy nějaké Bible, opravit například překlepy."},{
+Key:1005878,Text:"Komprimovat"},{
+Key:1005879,Text:"Komprimovat"},{
+Key:1005880,Text:"VideoPsalm mohou komprimovat své sbírky a vaše bible, tak ušetřit místo na disku.
+
+Knihy a Bible, které stáhnete pomocí Průvodce importem jsou obvykle komprimované, zrychlit stahování a snížit provoz internetu na stránkách VideoPsalm."},{
+Key:1005881,Text:"&Komprimovat"},{
+Key:1005882,Text:"&Komprimovat"},{
+Key:1005884,Text:"Opravdu chcete odstranit Bibli {0}?
+
+Soubor odpovídající této Bible nebude odstraněn z disku:
+jeho rozšíření bude přejmenován \".ignore."},{
+Key:1005885,Text:"Odstranit Bibli"},{
+Key:1005886,Text:"Počkejte, prosím, prosím"},{
+Key:1005887,Text:"Probíhá načítání..."},{
+Key:1005888,Text:"Starý zákon"},{
+Key:1005889,Text:"Nový zákon"},{
+Key:1005890,Text:"Aktuální záznam..."},{
+Key:1005891,Text:"&Importovat obrazy"},{
+Key:1005892,Text:"Vyberte obrázky, které chcete importovat a klepněte na \"otevřeno\"."},{
+Key:1005893,Text:"Importovali jste {0} rám (s)."},{
+Key:1005894,Text:"Nebyl importován žádný obrázek.
+((S) se našla (s) v galerii)."},{
+Key:1005895,Text:"&Opětovné vytvoření miniatury"},{
+Key:1005896,Text:"Opětovné vytvoření miniatury"},{
+Key:1005897,Text:"Chcete znovu vytvořit miniatury?
+
+To může být nutné znovu vytvořit miniatury obrazů
+Když jste provedli změny mimo VideoPsalm."},{
+Key:1005898,Text:"&Odstranit obrázek"},{
+Key:1005899,Text:"Odstranit obrázek"},{
+Key:1005900,Text:"Opravdu chcete odstranit obrázek '{0}'?"},{
+Key:1005901,Text:"&Prozkoumejte složku images"},{
+Key:1005902,Text:"&Odstranit vybraný obrázek"},{
+Key:1005903,Text:"&Import videa"},{
+Key:1005904,Text:"Vyberte videa, která chcete importovat a klepněte na \"otevřeno\"."},{
+Key:1005905,Text:"Importovali jste {0} video (s)."},{
+Key:1005906,Text:"Žádné video nebyl importován.
+((S) se našla (s) v galerii)."},{
+Key:1005907,Text:"&Opětovné vytvoření miniatury"},{
+Key:1005908,Text:"&Odstranit video"},{
+Key:1005909,Text:"Odstranění videa"},{
+Key:1005910,Text:"Opravdu chcete odstranit video {0}?"},{
+Key:1005911,Text:"&Prozkoumejte složky videa"},{
+Key:1005912,Text:"&Odstranit vybrané video"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Import obrazů"},{
+Key:1005915,Text:"Import videa"},{
+Key:1005917,Text:"Složku nelze vytvořit.
+{0} :
+{1}."},{
+Key:1005918,Text:"Zadaná složka nemá žádnou podporu:
+{0}"},{
+Key:1005919,Text:"Složka musí být vyplněno."},{
+Key:1005920,Text:"Název složky nesmí obsahovat následující znaky:
+{0}"},{
+Key:1005921,Text:"Obnovení knihy a Bible"},{
+Key:1005922,Text:"Chcete-li obnovit sbírky, Bible, obrázky nebo videa, například ze zálohy na USB stick."},{
+Key:1005923,Text:"Zavřít"},{
+Key:1005930,Text:"&Kopírovat skladby na"},{
+Key:1005931,Text:"&Přesuňte skladby na"},{
+Key:1005932,Text:"Opravdu chcete zkopírovat skladby {0}.
+na kolekci {1}?"},{
+Key:1005933,Text:"Opravdu chcete přesunout skladbu {0}.
+na kolekci {1}?"},{
+Key:1005934,Text:"&Zadejte odkazy pomocí zkratky"},{
+Key:1005935,Text:"&Zobrazí název knihy ve francouzštině"},{
+Key:1005936,Text:"(Kopie)"},{
+Key:1005937,Text:"Nová kniha je k dispozici:
+{0}"},{
+Key:1005938,Text:"Nové kolekce jsou k dispozici: {0}"},{
+Key:1005939,Text:"Byly provedeny opravy
+kolekce {0}."},{
+Key:1005940,Text:"Byly provedeny opravy
+Následující kódy: {0}"},{
+Key:1005941,Text:"Otevřete Průvodce importem sbírky"},{
+Key:1005942,Text:"Nová Bible je k dispozici:
+{0}"},{
+Key:1005943,Text:"Nová Bible jsou k dispozici: {0}"},{
+Key:1005944,Text:"Byly provedeny opravy
+Bible {0}."},{
+Key:1005945,Text:"Byly provedeny opravy
+v Bible následující: {0}"},{
+Key:1005946,Text:"Otevře průvodce pro import Bible"},{
+Key:1005947,Text:"VideoPsalm je nově k dispozici
+v {0}"},{
+Key:1005948,Text:"VideoPsalm je nově k dispozici: {0}"},{
+Key:1005949,Text:"Byly provedeny opravy
+popisky v {0}"},{
+Key:1005950,Text:"Byly provedeny opravy
+popisky jazyků po: {0}"},{
+Key:1005951,Text:"Otevřete import Průvodce štítky"},{
+Key:1005952,Text:"Novější verze
+VideoPsalm je k dispozici:"},{
+Key:1005953,Text:"Zobrazit novinky"},{
+Key:1005954,Text:"Automatický"},{
+Key:1005955,Text:"Prozkoumejte vybranou složku"},{
+Key:1005956,Text:"Vyberte složku"},{
+Key:1005957,Text:"Zobrazit poslední otevřené soubory"},{
+Key:1005958,Text:"Zálohovat VideoPsalm"},{
+Key:1005959,Text:"Umožňuje uložit své sbírky, Bible, obrázky nebo videa, nebo přenosná verze VideoPsalm, například na USB flash disk."},{
+Key:1005960,Text:"&Obnovit VideoPsalm ze zálohy"},{
+Key:1005961,Text:"VideoPsalm není schopen zobrazit dokumenty aplikace PowerPoint.
+
+(Na počítači byl zjištěn žádný typ aplikace PowerPoint)."},{
+Key:1005962,Text:"Chyba aplikace PowerPoint"},{
+Key:1005963,Text:"Značka {0} lze upravovat v kolekci {1}."},{
+Key:1005964,Text:"Značka {0} lze upravovat v kolekci..."},{
+Key:1005965,Text:"Značka {0} lze upravovat v nové kolekci {1}."},{
+Key:1005966,Text:"Biblické pasáže"},{
+Key:1005967,Text:"&Vlastní pasáže z Bible"},{
+Key:1005968,Text:"&Popis:"},{
+Key:1005969,Text:"&Jazyk:"},{
+Key:1005970,Text:"&Vydavatel:"},{
+Key:1005971,Text:"&Správce:"},{
+Key:1005973,Text:"&Správce:"},{
+Key:1005974,Text:"Nad textem"},{
+Key:1005975,Text:"Dohody nad textem"},{
+Key:1005976,Text:"Toto je doporučený režim upravovat text.
+Pokud upravíte text, každá dohoda se pohybuje s dopisem, ke kterému je ukotven.
+
+Když budete <b>Kopírovat text obsahující dohody</b>, dohody jsou zkopírovány s text, formát ChordPro.
+
+Když vložíte text, který obsahuje dohod v ChordPro formátu, VideoPsalm zobrazí tyto dohody nad textem.
+
+<b>Přidat dohodu</b>, vložte levice dopis, který chcete ukotvit, tím, že to s kolem hranaté závorky <b>[]</b>.
+
+<b>Odstranit dohodu</b>, odstraňte dopis, ke kterému je ukotven a poté znovu zadejte písmeno.
+
+<b>Upravit dohodu</b>, odstranit a pak vložte správně (nebo použít režim \" <b>Formát ChordPro</b> \")."},{
+Key:1005977,Text:"ChordPro formát"},{
+Key:1005978,Text:"Smlouvy ve formátu ChordPro"},{
+Key:1005979,Text:"V tomto režimu:
+
+-VideoPsalm zobrazí texty a akordy s <b>ChordPro formát</b>.
+
+-To je ideální režim pro úpravu dohod: VideoPsalm automaticky přidá hranaté závorky [] kolem textu, který zadáte.
+Například přidat c akord, zadejte «Do» a VideoPsalm vloží \"[to]\".
+
+Pozor: tento mód není vhodná pro editaci textů, protože podle případu VideoPsalm obklopuje dopisy háčků.
+Spíše \"<b>nad textem</b>\" režim slouží k text upravte."},{
+Key:1005980,Text:"Dohody"},{
+Key:1005981,Text:"Kopírovat"},{
+Key:1005982,Text:"Zkopíruje popis programu a umístěte jej do schránky."},{
+Key:1005983,Text:"&Povolit použití \"moderátor\" v aplikaci PowerPoint."},{
+Key:1005984,Text:"Když je toto políčko zaškrtnuto, VideoPsalm listy aplikace PowerPoint zobrazí jeho příkazové rozhraní řídit rozvoj prezentace."},{
+Key:1005985,Text:"Procházet jednou"},{
+Key:1005986,Text:"Smyčka"},{
+Key:1005987,Text:"Předem ručně"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Automatická záloha..."},{
+Key:1005990,Text:"&Předem ručně"},{
+Key:1005991,Text:"&Smyčka"},{
+Key:1005992,Text:"&Procházet jednou"},{
+Key:1005993,Text:"&Interval (sekundy):"},{
+Key:1005994,Text:"&Zmizí text a potom vypněte"},{
+Key:1005995,Text:"&Navázat s dalším prvkem"},{
+Key:1005996,Text:"&Vypnout před odchodem"},{
+Key:1005997,Text:"&Mizí text pak následovat"},{
+Key:1005998,Text:"&Zobrazit společně s dalším prvkem (dvojjazyčné)"},{
+Key:1005999,Text:"&Průzkumník"},{
+Key:1006000,Text:"Průvodce importem"},{
+Key:1006001,Text:"Vítejte na dovoz knih, Bible, obrázky a video průvodce"},{
+Key:1006002,Text:"Tento průvodce zjednodušuje import knih, Bible, obrázky a videa z knihovny online VideoPsalm nebo populárních formátů vás provede řadou kroků."},{
+Key:1006003,Text:"Klepněte na tlačítko Další pokračovat"},{
+Key:1006004,Text:"&Vyberte..."},{
+Key:1006005,Text:"&Další &gt;"},{
+Key:1006006,Text:"&&lt; Předchozí"},{
+Key:1006007,Text:"&Pomoc"},{
+Key:1006008,Text:"&Dokončit"},{
+Key:1006009,Text:"&Opuštění"},{
+Key:1006010,Text:"Můžete importovat knihy, Bible, obrázky nebo videa"},{
+Key:1006011,Text:"Vyberte si, co chcete importovat"},{
+Key:1006012,Text:"Importovat soubor"},{
+Key:1006013,Text:"Importovat Bibli"},{
+Key:1006014,Text:"Importovat obrazy"},{
+Key:1006015,Text:"Import videa"},{
+Key:1006016,Text:"Importovat jazyk"},{
+Key:1006020,Text:"&Inicializovat"},{
+Key:1006021,Text:"Inicializuje složku na standardní hodnotu"},{
+Key:1006023,Text:"Shrnutí před importem"},{
+Key:1006024,Text:"Klepněte na tlačítko Další spusťte import"},{
+Key:1006025,Text:"Současný"},{
+Key:1006026,Text:"Import je dokončena"},{
+Key:1006027,Text:"Chcete-li ukončit průvodce, klepněte na tlačítko Dokončit
+
+Klepněte na tlačítko zpět, chcete-li importovat další kolekce nebo další Bible"},{
+Key:1006029,Text:"Máte {0} byl úspěšně importován písně ve sbírkách {1}."},{
+Key:1006030,Text:"Máte {0} byl úspěšně importován písní v nové kolekci {1}."},{
+Key:1006031,Text:"Importovali jste '{0}' Bible s úspěchem."},{
+Key:1006032,Text:"Importovali jste {0} Bible s úspěchem."},{
+Key:1006033,Text:"Importovali jste jazyk {0} s úspěchem."},{
+Key:1006034,Text:"Se úspěšně importováno {0} jazyků."},{
+Key:1006035,Text:"Chcete zastavit import?"},{
+Key:1006036,Text:"Import nebyl dokončen správně."},{
+Key:1006037,Text:"Zadejte název pro toto nové kolekce VideoPsalm"},{
+Key:1006038,Text:"Nová kolekce bude uložena pod tímto názvem. Tento název lze později změnit."},{
+Key:1006039,Text:"&Jméno dát do kolekce:"},{
+Key:1006040,Text:"Zadejte název pro toto nové Bible VideoPsalm"},{
+Key:1006041,Text:"Nová Bible bude uložena pod tímto názvem. Tento název lze později změnit."},{
+Key:1006042,Text:"&Jméno dát do Bible:"},{
+Key:1006051,Text:"Výběr kolekcí"},{
+Key:1006052,Text:"Vybrat Bible"},{
+Key:1006053,Text:"Výběr souboru"},{
+Key:1006054,Text:"Vyberte složku"},{
+Key:1006055,Text:"&Soubor:"},{
+Key:1006056,Text:"&Soubor:"},{
+Key:1006057,Text:"Vybrat jazyky"},{
+Key:1006058,Text:"Složka {0} neexistuje."},{
+Key:1006060,Text:"Složka {0} není přístupná.
+
+{1}."},{
+Key:1006061,Text:"Soubor {0} neexistuje."},{
+Key:1006062,Text:"Upozornění: Načítání mnoha sbírek lze vyplnit na PC paměť a zpomalit hledání písní.
+Si opravdu stáhnout {0} sbírky?"},{
+Key:1006063,Text:"Upozornění: Načítání mnoha Bible lze vyplnit na PC paměť.
+Si opravdu stáhnout {0} Bible?"},{
+Key:1006064,Text:"Nový název nesmí být prázdný."},{
+Key:1006065,Text:"Nový název nesmí obsahovat následujících znaků: {0}"},{
+Key:1006066,Text:"Kolekce s názvem {0} již existuje."},{
+Key:1006067,Text:"Bible s názvem {0} již existuje."},{
+Key:1006068,Text:"Jste zastavili dovoz."},{
+Key:1006069,Text:"Zkontrolujte připojení k Internetu."},{
+Key:1006070,Text:"K dispozici od {0}"},{
+Key:1006071,Text:"Nová verze k dispozici od {0}"},{
+Key:1006072,Text:"Vaše verze pochází z {0}"},{
+Key:1006073,Text:"Tato verze {0} je aktuální."},{
+Key:1006074,Text:"Titul"},{
+Key:1006075,Text:"Stát"},{
+Key:1006076,Text:"Nestažené"},{
+Key:1006077,Text:"Aktualizovat"},{
+Key:1006078,Text:"Aktualizace je k dispozici"},{
+Key:1006079,Text:"Nové"},{
+Key:1006080,Text:"K dispozici nové aktualizace"},{
+Key:1006081,Text:"Je vybrána žádná kolekce.
+Je třeba vybrat alespoň jednu kolekci."},{
+Key:1006082,Text:"Je vybrána žádná Bible.
+Je třeba vybrat alespoň Bibli."},{
+Key:1006083,Text:"Je vybrán žádný jazyk.
+Je třeba vybrat alespoň jeden jazyk."},{
+Key:1006084,Text:"Kód"},{
+Key:1006085,Text:"Zdrojový soubor kódu: <b>{0}</b>"},{
+Key:1006086,Text:"Zdrojová složka:
+<b>{0}</b>"},{
+Key:1006087,Text:"Hledání dokumentu"},{
+Key:1006090,Text:"Název nové Bible VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Nová kolekce VideoPsalm názvem: <b>{0}</b>"},{
+Key:1006095,Text:"V knihovně VideoPsalm on-line, to se stane, že některé dokumenty jsou přidány nebo aktualizovány (např. opravit překlep).
+V závislosti na stavu výše uvedených dokumentů můžete rozhodnout, zda si je stáhnout.
+
+<b>Zde je, jak rozlišit stav dokumentů:</b>
+-Dokumenty, které jste nestáhli jsou zobrazeny v normální.
+-Dokumenty, které jste odeslali a které jsou aktualizovány jsou zobrazeny <i>kurzívou</i>. Jsou označeny <image=check_16>OK.
+Není třeba znovu - stahování, s výjimkou v případě, kdy chcete zrušit všechny změny, které jste provedli.
+-Dokumenty, které jste odeslali a které jsme do té doby oprav v VideoPsalm online library, jsou uvedeny <b>tučně</b>. Jsou označeny s tužkou <image=pencil2_16>.
+
+Textové pole na pravé straně popisuje, jaké opravy byly provedeny v dokumentu: to může pomoci při rozhodování, pokud chcete, aby re - stáhnout.
+
+<b>Pozornost:</b> Pokud aktualizujete dokument re-upload, budou ztraceny všechny změny, které jste provedli, stejně jako její styl atributy, protože VideoPsalm nahrazuje vaše stahování.
+Vlastní soubor není odstraněn, avšak: zůstává na disku ale stává neviditelnou v VideoPsalm, protože VideoPsalm přejmenuje na expanzi do .ignore.
+
+<b>Rada</b> : stáhnout pouze dokumenty, které budou užitečné.
+V podstatě Pokud máte příliš mnoho dokumentů, načítání VideoPsalm se stane snad pomalejší, stejně jako hledání podle klíčového slova.
+
+Všimněte si můžete kdykoli odstranit knihu nebo Bible své VideoPsalm. Chcete-li to provést, použijte tlačítko ' <image=delete2_16>Odstranit \"v záložce 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Historie změn v {0}."},{
+Key:1006100,Text:"Sbírky knihovny VideoPsalm online"},{
+Key:1006105,Text:"EasySlides písně"},{
+Key:1006110,Text:"MediaShout písně"},{
+Key:1006115,Text:"OpenLP písně"},{
+Key:1006116,Text:"VerseView písně"},{
+Key:1006120,Text:"Skladby ve formátu \"OpenLyrics\"."},{
+Key:1006125,Text:"OpenSong písně"},{
+Key:1006130,Text:"Kolekce Psalmo"},{
+Key:1006131,Text:"Kolekce v textovém formátu"},{
+Key:1006132,Text:"Písně EasyWorship 2009"},{
+Key:1006133,Text:"Skladby ve formátu \"ChordPro\"."},{
+Key:1006134,Text:"Písně WebAsaph"},{
+Key:1006135,Text:"Písně ve formátu «CCLI."},{
+Key:1006140,Text:"Bible z knihovny VideoPsalm online"},{
+Key:1006145,Text:"Bible Bible databáze"},{
+Key:1006150,Text:"Bible OpenLP"},{
+Key:1006155,Text:"Bible OpenSong"},{
+Key:1006160,Text:"Bible nevázaného Bible"},{
+Key:1006165,Text:"Zefania Bible"},{
+Key:1006166,Text:"Bible EasySlides"},{
+Key:1006167,Text:"Bible ve formátu \"Osis\"."},{
+Key:1006168,Text:"Bible v knihách «USFM» formát (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Vyberte sbírky knihovny VideoPsalm online, který chcete importovat do svého VideoPsalm"},{
+Key:1006185,Text:"Vyberte databázi obsahující skladby, které chcete importovat do VideoPsalm (s příponou MDB) EasySlides"},{
+Key:1006190,Text:"Vyberte databázi obsahující skladby, které chcete importovat do VideoPsalm (s příponou MDB) MediaShout"},{
+Key:1006195,Text:"Vyberte databázi obsahující skladby, které chcete importovat do VideoPsalm (soubor rozšíření .sqlite) OpenLP"},{
+Key:1006196,Text:"Vyberte databázi obsahující skladby, které chcete importovat do VideoPsalm (soubor s příponou .db přípony) VerseView"},{
+Key:1006200,Text:"Vyberte složku, která obsahuje písně ve formátu \"OpenLyrics\", který chcete importovat do VideoPsalm (rozšíření XML soubory)"},{
+Key:1006205,Text:"Vyberte složku obsahující OpenSong písně, které chcete importovat do VideoPsalm (soubory bez přípony)"},{
+Key:1006210,Text:"Vyberte exportované Psalmo kompendium RTF Formát, který chcete importovat do VideoPsalm (přípona RTF soubor)"},{
+Key:1006211,Text:"Vyberte kolekci v textovém formátu, který chcete importovat do VideoPsalm (přípona TXT soubor)"},{
+Key:1006212,Text:"Vyberte databázi obsahující skladby, které chcete importovat do VideoPsalm (soubor s příponou .db přípony) 2009 EasyWorship"},{
+Key:1006213,Text:"Vyberte složku, která obsahuje písně v ChordPro formátu, který chcete importovat do VideoPsalm (.chordpro, .chopro, .crd nebo .cho soubory rozšíření)"},{
+Key:1006214,Text:"Vyberte databázi obsahující skladby, které chcete importovat do VideoPsalm (soubor příponu .ltc) WebAsaph"},{
+Key:1006215,Text:"Vyberte složku, která obsahuje písně CCLI formát pro import do VideoPsalm (soubory usr rozšíření)"},{
+Key:1006220,Text:"Vyberte Bible online knihovny VideoPsalm, který chcete importovat do svého VideoPsalm"},{
+Key:1006225,Text:"Výběr Bibli z Bible databáze chcete importovat do VideoPsalm (přípona TXT soubor)"},{
+Key:1006230,Text:"Vyberte Bibli OpenLP, chcete-li importovat do VideoPsalm (soubor rozšíření .sqlite)"},{
+Key:1006235,Text:"Vyberte Bibli OpenSong, které chcete importovat do VideoPsalm (soubor bez přípony)"},{
+Key:1006240,Text:"Vyberte Bibli nevázaného Bible, chcete-li importovat do VideoPsalm (přípona TXT soubor)"},{
+Key:1006245,Text:"Vyberte Zefania Bible, kterou chcete importovat do VideoPsalm (přípona souboru XML)"},{
+Key:1006247,Text:"Vyberte Bibli EasySlides, které chcete importovat do VideoPsalm (s příponou MDB)"},{
+Key:1006248,Text:"Vyberte Bibli ve formátu \"Osis\" importovat do vašeho VideoPsalm (rozšíření soubor .xml, .osi nebo .osis)"},{
+Key:1006249,Text:"Vyberte knihy Bible \"USFM\" formát pro import do VideoPsalm (rozšíření .sfm nebo .usfm soubory)"},{
+Key:1006252,Text:"Vyberte jazyky VideoPsalm online knihovny, kterou chcete importovat do svého VideoPsalm"},{
+Key:1006255,Text:"Importujte <b>{0} v kolekci (s) knihovny VideoPsalm online</b> :
+{1}."},{
+Key:1006260,Text:"Importovat <b>EasySlides písní</b>"},{
+Key:1006265,Text:"Importovat <b>písně MediaShout</b>"},{
+Key:1006270,Text:"Import <b>z OpenLP písní</b>"},{
+Key:1006271,Text:"Importovat <b>VerseView písní</b>"},{
+Key:1006275,Text:"Importovat <b>skladby ve formátu «OpenLyrics»</b>"},{
+Key:1006280,Text:"Import <b>OpenSong skladby</b>"},{
+Key:1006285,Text:"Importujte <b>soubor Psalmo</b>"},{
+Key:1006286,Text:"Importovat <b>textový soubor</b>"},{
+Key:1006287,Text:"<b>Import písně EasyWorship 2009</b>"},{
+Key:1006288,Text:"<b>Import skladeb ve formátu ChordPro</b>"},{
+Key:1006289,Text:"Importovat <b>písně WebAsaph</b>"},{
+Key:1006290,Text:"Importovat <b>Formát písně CCLI</b>"},{
+Key:1006291,Text:"Importovat <b> textový formát písní </b>"},{
+Key:1006295,Text:"Importujte <b>{0} Bible (s) z knihovny VideoPsalm online</b> :
+{1}."},{
+Key:1006300,Text:"Importovat <b>Bible Bible databáze</b>"},{
+Key:1006305,Text:"Importovat <b>Bible OpenLP</b>"},{
+Key:1006310,Text:"Importovat <b>Bibli OpenSong</b>"},{
+Key:1006315,Text:"Importovat <b>Bibli nevázaného Bible</b>"},{
+Key:1006320,Text:"Importovat <b>Zefania Bible</b>"},{
+Key:1006321,Text:"Importovat <b>EasySlides Bible</b>"},{
+Key:1006322,Text:"Importovat <b>Bibli ve formátu \"Osis\"</b>"},{
+Key:1006323,Text:"Importovat <b>Bibli ve formátu «USFM»</b>"},{
+Key:1006325,Text:"Importujte <b>{0} jazyka (s) knihovny VideoPsalm online</b> :
+{1}."},{
+Key:1006340,Text:"Vyberte databázi EasySlide"},{
+Key:1006345,Text:"Vyberte databázi MediaShout"},{
+Key:1006350,Text:"Vyberte databázi OpenLP"},{
+Key:1006351,Text:"Vyberte databázi VerseView"},{
+Key:1006355,Text:"Vyberte složku, která obsahuje písně ve formátu \"OpenLyrics\"."},{
+Key:1006360,Text:"Vyberte složku, která obsahuje písně OpenSong"},{
+Key:1006365,Text:"Vyberte soubor ve formátu RTF obsahující exportovaný písně Psalmo"},{
+Key:1006366,Text:"Vyberte soubor obsahující písně v textovém formátu"},{
+Key:1006367,Text:"Vyberte databázi EasyWorship 2009"},{
+Key:1006368,Text:"Vyberte složku, která obsahuje písně ve formátu \"ChordPro\"."},{
+Key:1006369,Text:"Vyberte databázi WebAsaph"},{
+Key:1006370,Text:"Vyberte složku, která obsahuje písně ve formátu «CCLI."},{
+Key:1006375,Text:"Vyberte Bible BibleDatabase"},{
+Key:1006380,Text:"Vyberte Bible OpenLP"},{
+Key:1006385,Text:"Vyberte Bibli OpenSong"},{
+Key:1006390,Text:"Vyberte Bibli nevázaného Bible"},{
+Key:1006395,Text:"Vyberte Zefania Bible"},{
+Key:1006397,Text:"Vyberte Bible EasySlides"},{
+Key:1006398,Text:"Vyberte Bibli ve formátu \"Osis\"."},{
+Key:1006399,Text:"Vyberte knihy Bible ve formátu \"USFM."},{
+Key:1006405,Text:"EasySlide databáze"},{
+Key:1006410,Text:"MediaShout 4 databáze"},{
+Key:1006411,Text:"MediaShout 3 databáze"},{
+Key:1006415,Text:"OpenLP databáze"},{
+Key:1006416,Text:"Databáze EasyWorship 2009"},{
+Key:1006417,Text:"VerseView databáze"},{
+Key:1006420,Text:"Složka {0}.
+obsahuje žádný zpěv na formát \"OpenLyrics\" (rozšíření xml)."},{
+Key:1006425,Text:"Složka {0}.
+obsahuje žádné OpenSong písní (písně OpenSong jsou soubory bez přípony)."},{
+Key:1006430,Text:"Písně exportované z Psalmo"},{
+Key:1006431,Text:"Písně v textovém formátu"},{
+Key:1006432,Text:"Složka {0}.
+obsahuje žádný zpěv na \"ChordPro\" (rozšíření chopro/chordpro, crd a cho) formátu."},{
+Key:1006433,Text:"WebAsaph databáze"},{
+Key:1006434,Text:"Složku {0}.
+obsahuje žádná píseň ve formátu «CCLI» (soubory s příponou usr)."},{
+Key:1006440,Text:"BibleDatabase Bible"},{
+Key:1006445,Text:"OpenLP Bible"},{
+Key:1006450,Text:"OpenSong Bible"},{
+Key:1006455,Text:"Nevázané Bible Bible"},{
+Key:1006460,Text:"Zefania Bible"},{
+Key:1006462,Text:"EasySlides Bible"},{
+Key:1006463,Text:"Bible ve formátu \"Osis\"."},{
+Key:1006464,Text:"Knihy Bible ve formátu \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Mám rád pán 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Moje chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Mám rád pán"},{
+Key:1006510,Text:"Databáze MSAccess"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Všechny soubory"},{
+Key:1006520,Text:"Databáze SQLite"},{
+Key:1006525,Text:"Databáze Paradox"},{
+Key:1006526,Text:"Databáze WebAsaph"},{
+Key:1006600,Text:"Vyberte si on-line knihovna VideoPsalm nebo jiný zdroj"},{
+Key:1006601,Text:"VideoPsalm online knihovna obsahuje mnoho sbírek v několika jazycích"},{
+Key:1006602,Text:"VideoPsalm online (připojení k Internetu vyžaduje během importu) knihovna"},{
+Key:1006603,Text:"Písně v populární, k importu na vašem pevném disku formátu"},{
+Key:1006604,Text:"Vyberte si on-line knihovna VideoPsalm nebo jiný zdroj"},{
+Key:1006605,Text:"VideoPsalm online knihovna obsahuje mnoho překladů Bible v různých jazycích"},{
+Key:1006606,Text:"VideoPsalm online (připojení k Internetu vyžaduje během importu) knihovna"},{
+Key:1006607,Text:"Bible v populární, k importu na vašem pevném disku formátu"},{
+Key:1006608,Text:"Co je zdrojem písně formátu?"},{
+Key:1006609,Text:"Co je formát zdroje Bible?"},{
+Key:1006610,Text:"Můžete importovat do vašeho VideoPsalm Bibli v populárním formátu uloženy v PC"},{
+Key:1006611,Text:"Můžete importovat do svého VideoPsalm v populárním formátu skladby uložené v PC"},{
+Key:1006617,Text:""},{
+Key:1006618,Text:"Videa z vybrané webové stránky (pro tuto možnost je důležité internetové spojení během importu videa)"},{
+Key:1006619,Text:"Videa z vašeho hard disku"},{
+Key:1006620,Text:"Dejte \"líbí se mi\" facebookové stránce"},{
+Key:1006621,Text:"Dostupné od"},{
+Key:1006700,Text:"VideoPsalm online knihovna (tisíce písní)"},{
+Key:1006701,Text:"EasySlide"},{
+Key:1006702,Text:"MediaShout"},{
+Key:1006703,Text:"OpenLP"},{
+Key:1006704,Text:"VerseView"},{
+Key:1006705,Text:"OpenLyrics"},{
+Key:1006706,Text:"OpenSong"},{
+Key:1006707,Text:"Psalmo"},{
+Key:1006708,Text:"Text (zpěvník)"},{
+Key:1006709,Text:"EasyWorship"},{
+Key:1006710,Text:"ChordPro"},{
+Key:1006711,Text:"WebAsaph"},{
+Key:1006712,Text:"CCLI"},{
+Key:1006713,Text:"Texty (písně)"},{
+Key:1006714,Text:"Presenter"},{
+Key:1006715,Text:"Lyrix"},{
+Key:1006750,Text:"VideoPsalm online knihovna (stovky Biblických překladů v různých jazycích)"},{
+Key:1006751,Text:"Databáze Biblí"},{
+Key:1006752,Text:"Open LP"},{
+Key:1006753,Text:"OpenSong"},{
+Key:1006756,Text:"EasySlides"},{
+Key:1007000,Text:"Zálohování"},{
+Key:1007001,Text:"Přejete si spustit zálohování VideoPsalm ve složce
+« {0} » ?"},{
+Key:1007004,Text:"Nelze provést zálohu ve vybrané složce,
+protože se nachází v aktuální složce VideoPsalm dokumentů
+({0})."},{
+Key:1007005,Text:"Není dostatek místa na disku {0}.
+By {1: #, #. #} MB a existují pouze {2: #, #. #} MB k dispozici."},{
+Key:1007006,Text:"Nelze provést zálohování:
+
+{0}"},{
+Key:1007007,Text:"Nelze stáhnout rozhraní Microsoft .NET Framework 4.0:
+
+{0}
+
+To může být způsobeno absencí připojení k Internetu.
+Zálohování bude pokračovat normálně,
+ale nebude schopen nainstalovat rozhraní Microsoft .NET Framework 4.0 ze zálohy."},{
+Key:1007008,Text:"nedostupné {0}"},{
+Key:1007009,Text:"Připomenutí: Zálohování nemůže zkopírovat.
+instalace rozhraní Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Zálohování je řádně dokončena."},{
+Key:1007011,Text:"Přejete si opustit zálohování?"},{
+Key:1007030,Text:"Vyberte složku nebo vytvořte All-in-one umístit zálohu VideoPsalm"},{
+Key:1007031,Text:"Zálohy kopírovat dokumenty (knihy, Bible, obrázky, videa, styly) do umístění, které zadáte, například:
+-na USB
+-externí pevný disk,
+-síťovou složku,
+-atd.
+
+<b>Zálohování umožňuje včetně:</b>
+-zajistit své dokumenty pomocí duplikování na jiném médiu,
+-vybudovat přenosné verzi VideoPsalm, například na USB flash disk,
+-snadno přenášet vaše dokumenty v jiném počítači pomocí funkce obnovení,
+-Duplikovat dokumenty pro více konfigurací sbírek s jejich styly ve stejném počítači.
+
+<b>Poznámka:</b> Chcete-li synchronizovat záznamy o VideoPsalm mezi několika počítači, můžete zvolit přímo k synchronizaci například služby SkyDrive nebo odkládací schránky."},{
+Key:1007032,Text:"Vyberte dokumenty, které chcete uložit:"},{
+Key:1007033,Text:"&Zpěvníky"},{
+Key:1007034,Text:"&Bible"},{
+Key:1007035,Text:"&Obrazy"},{
+Key:1007036,Text:"&Videa"},{
+Key:1007037,Text:"&Uložte dokumenty:"},{
+Key:1007038,Text:"Zadejte složku, ve kterém ukládáte dokumenty o VideoPsalm zde.
+
+Například: «E:\\Ma záložní VideoPsalm.
+
+Pokud složka neexistuje, bude vytvořen automaticky při zálohování."},{
+Key:1007039,Text:"&Vytvořit aplikaci pro přenosné VideoPsalm"},{
+Key:1007040,Text:"Přidá všechny spustitelné soubory, které jsou nezbytné pro provoz VideoPsalm do záložní složky.
+
+Obecně to je na USB klíč, který chcete vytvořit přenosné aplikace VideoPsalm.
+
+Přenosné zálohování spustit na jiném počítači, přímo z USB klíče, aniž by bylo nutné nainstalovat VideoPsalm VideoPsalm.
+
+VideoPsalm od USB klíče, budete mít přístup ke všem funkcím VideoPsalm, včetně zálohování. To umožňuje ušetřit VideoPsalm na pevném disku počítače, tak následně spustit bez klíče USB.
+
+<b>Důležité</b>
+VideoPsalm možnosti nejsou přidány do zálohování.
+Na první představení VideoPsalm v daném počítači budete muset upravit VideoPsalm možnosti, například licenci pro církev."},{
+Key:1007041,Text:"&Přidejte rozhraní Microsoft .NET Framework 4.0 Instalační program"},{
+Key:1007042,Text:"Fungovat, potřebuje VideoPsalm .NET Framework 4.0 od společnosti Microsoft. U novějších počítačů mají často .NET Framework 4.0 nebo vyšším předinstalován. Pokud si nejste jisti, že je v počítači nainstalován .NET Framework 4.0, zaškrtněte políčko \"přidat instalaci rozhraní .NET Framework 4.0. VideoPsalm se pak místo na USB stick kopii instalace rozhraní .NET Framework 4.0 (připojení k Internetu může být nezbytné k tomuto).
+
+Z USB klíče můžete snadno nainstalovat rozhraní .NET Framework 4.0 v počítači dříve, než začnete VideoPsalm. Instalace rozhraní .NET Framework 4.0 je velmi rychlá a obvyklým způsobem není restartujte systém Windows.
+
+Instalace rozhraní .NET Framework 4.0 souboru najdete ve složce pro zálohování. Tento soubor má název \"dotNetFx40_Full_x86_x64.exe. Chcete-li zahájit instalaci rozhraní .NET Framework 4.0 v jiném počítači, poklepejte na tento soubor."},{
+Key:1007043,Text:"&Spustit zálohování"},{
+Key:1007044,Text:"Rozhraní Microsoft .NET Framework 4.0 ke stažení"},{
+Key:1007045,Text:"&Složka (složka, která bude uložena) VideoPsalm dokumenty:"},{
+Key:1007046,Text:"Ať sbírky určené složky před mně"},{
+Key:1007047,Text:"Odstranit sbírky určené složky před zachránit moje"},{
+Key:1007048,Text:"Nechte Bible určené složky než zachránit moje"},{
+Key:1007049,Text:"Odstranit Bible složky zadané před je zachránit moje"},{
+Key:1007050,Text:"Obrazy ve složce zadané před je zachránit moje dovolená"},{
+Key:1007051,Text:"Odstranit obrázky ze složky zadané před je zachránit moje"},{
+Key:1007052,Text:"Nechť videa ve složce zadané před je zachránit moje"},{
+Key:1007053,Text:"Odstranění videa z určené složky před zachránit moje"},{
+Key:1007054,Text:"Vyberte složku nebo vytvořit jeden umístit zálohu VideoPsalm"},{
+Key:1007055,Text:"Povolit zvuk ze zadané složky před je zachránit moje"},{
+Key:1007056,Text:"Odebrání zvuku ze složky zadané před je zachránit moje"},{
+Key:1007057,Text:"&Audionahrávky"},{
+Key:1008000,Text:"Obnovení zálohy"},{
+Key:1008001,Text:"Přejete si obnovit zálohu VideoPsalm ze složky
+« {0} » ?
+
+Upozornění: V závislosti na možnosti, které jste vybrali, vaše stávající dokumenty budou odstranit nebo nahradit."},{
+Key:1008002,Text:"Zadejte složku ze zálohy obnovit."},{
+Key:1008004,Text:"Nelze obnovit zálohu ze složky, kterou jste si vybrali,
+protože se nachází v aktuální složce VideoPsalm dokumentů."},{
+Key:1008006,Text:"Nepodařilo se dokončit obnovení:
+
+{0}"},{
+Key:1008010,Text:"Obnovení bylo ukončeno."},{
+Key:1008011,Text:"Chcete se vzdát obnovy?"},{
+Key:1008012,Text:"Obnovení zálohy"},{
+Key:1008032,Text:"Vyberte dokumenty, které chcete obnovit:"},{
+Key:1008033,Text:"&Zpěvníky"},{
+Key:1008034,Text:"&Bible"},{
+Key:1008035,Text:"&Obrazy"},{
+Key:1008036,Text:"&Videa"},{
+Key:1008043,Text:"&Obnovení"},{
+Key:1008044,Text:"Ať mé sbírky před obnovením ze zálohy"},{
+Key:1008045,Text:"Před obnovením ze zálohy odstranit mé sbírky"},{
+Key:1008046,Text:"Ať mé Bible před obnovením ze zálohy"},{
+Key:1008047,Text:"Odstranit mé Bible před obnovením ze zálohy"},{
+Key:1008048,Text:"Ať mé obrazy před obnovením ze zálohy"},{
+Key:1008049,Text:"Odstranit mé obrazy před obnovením ze zálohy"},{
+Key:1008050,Text:"Ať moje videa před obnovením ze zálohy"},{
+Key:1008051,Text:"Odstranění videa před obnovením ze zálohy"},{
+Key:1008052,Text:"&Obnovení zálohy od:"},{
+Key:1008053,Text:"Zde určete složku, ze které bude obnoven záznamy o VideoPsalm.
+
+Příklad: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Složka (složka, kde bude záloha obnovena) VideoPsalm dokumenty:"},{
+Key:1008055,Text:"Aktualizovat"},{
+Key:1008056,Text:"Vyberte složku, která obsahuje záložní VideoPsalm"},{
+Key:1008057,Text:"&Audionahrávky"},{
+Key:1008058,Text:"Ať mé audionahrávky před obnovením ze zálohy"},{
+Key:1008059,Text:"Odstranit můj zvuk před obnovením ze zálohy"},{
+Key:1008999,Text:"Video projektor"},{
+Key:1009000,Text:"skladba"},{
+Key:1009001,Text:"písně {0}"},{
+Key:1009002,Text:"seznam veršů"},{
+Key:1009003,Text:"seznamy {0} veršů"},{
+Key:1009004,Text:"obrázek"},{
+Key:1009005,Text:"obrazy {0}"},{
+Key:1009006,Text:"Bible {0}."},{
+Key:1009007,Text:"Kapitola {0}"},{
+Key:1009009,Text:"Bible {0}"},{
+Key:1009010,Text:"Obrázek '{0}'."},{
+Key:1009011,Text:"{0} ({1} obrazy)"},{
+Key:1009012,Text:"obrazy {0}"},{
+Key:1009013,Text:"{0} ({1} snímků)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Načtení výchozího stylu"},{
+Key:1009016,Text:"Načtení stylu sbírek"},{
+Key:1009017,Text:"Načtení kolekce {0}."},{
+Key:1009018,Text:"Načtení stylu Bible"},{
+Key:1009019,Text:"Načítání Bible {0}."},{
+Key:1009020,Text:"Soubor: {0}"},{
+Key:1009100,Text:"{0} ({1} písně)"},{
+Key:1009101,Text:"{0} (jedna píseň)"},{
+Key:1009102,Text:"{0} (zpěv)"},{
+Key:1009103,Text:"Soubor {0} již existuje.
+v němž by VideoPsalm uložit novou kolekci {1}.
+
+Není možné uložit tuto novou kolekci.
+Zkratka nebo jedinečný název této nové kolekci a opakujte uložení."},{
+Key:1009104,Text:"Registrace se nezdařila."},{
+Key:1009105,Text:"Nelze přesunout soubor
+{0}
+červi
+{1}.
+
+{2}"},{
+Key:1009107,Text:"Sbírky {0}"},{
+Key:1009110,Text:"{0} {1}: {2} ({{3} verše)"},{
+Key:1009111,Text:"Video {0}."},{
+Key:1009112,Text:"{0} ({1} videa)"},{
+Key:1009113,Text:"videa {0}"},{
+Key:1009114,Text:"Nepodařilo se uložit kolekci.
+Název kolekce mohli zachránit ji."},{
+Key:1009117,Text:"Webová stránka"},{
+Key:1010000,Text:"Viz více barev"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Zavřít"},{
+Key:1010003,Text:"&Průhledná"},{
+Key:1010004,Text:"Storno"},{
+Key:1010005,Text:"Ok"},{
+Key:1010006,Text:"Zobrazit méně barev"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Ukončete bez vložení pole"},{
+Key:1011001,Text:"Zkratka sbírky"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Autor písně"},{
+Key:1011004,Text:"Autor sbírky"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Klíč"},{
+Key:1011007,Text:"Skladatel"},{
+Key:1011008,Text:"Copyright skladby"},{
+Key:1011009,Text:"Copyright knihy"},{
+Key:1011010,Text:"Popisek poezie"},{
+Key:1011011,Text:"Verše číslo a popisek"},{
+Key:1011012,Text:"Formát"},{
+Key:1011013,Text:"Licenci církve"},{
+Key:1011014,Text:"Hlavní řádek"},{
+Key:1011015,Text:"Poznámka 1"},{
+Key:1011016,Text:"Poznámka 2"},{
+Key:1011017,Text:"Poznámka 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Pozice poezie"},{
+Key:1011020,Text:"Verš č."},{
+Key:1011021,Text:"Chorál č."},{
+Key:1011022,Text:"Poznámka: poezie"},{
+Key:1011023,Text:"Počet písní ze sbírky"},{
+Key:1011024,Text:"Počet sloky"},{
+Key:1011025,Text:"Referenční"},{
+Key:1011026,Text:"Pořadí Slok"},{
+Key:1011027,Text:"Podpis"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Téma"},{
+Key:1011030,Text:"Název skladby"},{
+Key:1011031,Text:"Název knihy"},{
+Key:1011032,Text:"Tón"},{
+Key:1011033,Text:"3. Odstranit všechna pole"},{
+Key:1011034,Text:"2. Použijte standardní pole"},{
+Key:1011035,Text:"Správce"},{
+Key:1011036,Text:"Jazyk"},{
+Key:1011037,Text:"Editor"},{
+Key:1011038,Text:"Provedení"},{
+Key:1011101,Text:"Zkratka Bible"},{
+Key:1011102,Text:"Zkratka knihy"},{
+Key:1011103,Text:"Kapitola"},{
+Key:1011104,Text:"Copyright Bible"},{
+Key:1011105,Text:"Popis Bible"},{
+Key:1011107,Text:"Editor"},{
+Key:1011108,Text:"Jazyk"},{
+Key:1011109,Text:"Jméno Bible"},{
+Key:1011110,Text:"Název knihy"},{
+Key:1011111,Text:"Počet kapitol knihy"},{
+Key:1011112,Text:"Počet veršů v kapitole"},{
+Key:1011113,Text:"Zákon"},{
+Key:1011114,Text:"Verš"},{
+Key:1011115,Text:"Správce Bible"},{
+Key:1011200,Text:"&Vloží pole:"},{
+Key:1011201,Text:"Zformátovat text zobrazený v záhlaví nebo zápatí sloka nebo verši"},{
+Key:1011202,Text:"Zadejte text, který chcete zobrazit.
+Tento text je zdarma a obecně sestává z řady předdefinovaných polí.
+
+Příklady předdefinovaných polí za hubičku:
+-název skladby: <b>[název skladby]</b>
+-počet písní: <b>[píseň č.]</b>
+-Název knihy: <b>[název kolekce]</b>
+-zkratka pro kolekci: <b>[zkratka sbírky]</b>
+-atd.
+
+Pro verš:
+-Název knihy: <b>[název knihy]</b>
+-Kapitola: <b>[kapitoly]</b>
+-verše: <b>[verše]</b>
+Full-reference:
+  <b>[Název knihy] [Kapitola]: [verše]</b>
+-jméno Bible: <b>[název Bible]</b>
+-atd.
+
+V době video projekce VideoPsalm nahradí pole předdefinovány podle jejich hodnoty. 
+
+Předdefinované pole by měla být obklopen hranaté závorky <b>[]</b>. Musí být zadán bez selhání a dodržujte velká a malá písmena.
+
+<b>Snadno vložit předdefinované pole, použijte rolovací seznam pod názvem vložte pole.</b>
+
+Formát se může skládat z více řádků.
+
+Chcete-li obnovit původní formát hodnoty, úplně odstranit (Ctrl + A, odstranit)."},{
+Key:1011203,Text:"Seznam předdefinovaných polí"},{
+Key:1011204,Text:"Chcete-li vložit předdefinované pole, vyberte jej v seznamu.
+
+Toto pole bude automaticky vložena do textu výše, pole na pozici kurzoru."},{
+Key:1011213,Text:"Viditelnost:"},{
+Key:1012000,Text:"Soubor {0} již existuje.
+
+Chcete jej nahradit?"},{
+Key:1012001,Text:"Existující soubor"},{
+Key:1013000,Text:"Skrýt náhled"},{
+Key:1013001,Text:"Zobrazit náhled"},{
+Key:1013002,Text:"Úměrně zvětšit na celou obrazovku"},{
+Key:1013003,Text:"Snížit na celý displej"},{
+Key:1013004,Text:"Zakázat opakování"},{
+Key:1013005,Text:"Aktivovat opakování"},{
+Key:1013006,Text:"Začít od začátku"},{
+Key:1013007,Text:"Pozastavit"},{
+Key:1013008,Text:"Čtení"},{
+Key:1013009,Text:"Jít na konec"},{
+Key:1013010,Text:"Zvuk"},{
+Key:1013011,Text:"Ztlumení"},{
+Key:1013012,Text:"Objem"},{
+Key:1013013,Text:"Výzkum"},{
+Key:1013014,Text:"Globálně definujte hranice videa"},{
+Key:1013015,Text:"Definovat hranice video pro každou sloku"},{
+Key:1013016,Text:"Uplynulý čas"},{
+Key:1013017,Text:"Celkový čas"},{
+Key:1013018,Text:"Zbývající čas"},{
+Key:1013019,Text:"Klepnutím přejdete na další hodnotu"},{
+Key:1014000,Text:"Nastavení zprávy"},{
+Key:1014001,Text:"&Font:"},{
+Key:1014002,Text:"&Velikost:"},{
+Key:1015000,Text:"Nastavení hodin"},{
+Key:1015001,Text:"&Analogové hodiny"},{
+Key:1015002,Text:"&Digitální hody"},{
+Key:1015003,Text:"&Text"},{
+Key:1015004,Text:"&Hodinov"},{
+Key:1015006,Text:"Minutová ručička"},{
+Key:1015007,Text:"Sekundová ručička"},{
+Key:1015014,Text:"&Text"},{
+Key:1015015,Text:"&Zobrazit vteřiny"},{
+Key:1015017,Text:"&Skrýt nulu v odpočítávání"},{
+Key:1015018,Text:"&Americký čas (AM/PM)"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minuta"},{
+Key:1018003,Text:"minuty"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"čas"},{
+Key:1018006,Text:"hodiny"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"den"},{
+Key:1018009,Text:"dny"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"týden"},{
+Key:1018012,Text:"týdny"},{
+Key:1018013,Text:"měsíc"},{
+Key:1018014,Text:"měsíc"},{
+Key:1018015,Text:"rok"},{
+Key:1018016,Text:"roky"},{
+Key:1019000,Text:"Zavřít"},{
+Key:1019001,Text:"Snížit"},{
+Key:1019002,Text:"Zvětšení"},{
+Key:1019003,Text:"Nižší úroveň"},{
+Key:1019004,Text:"Pomoc"},{
+Key:1019100,Text:"&Hledat"},{
+Key:1019101,Text:"&Smazat"},{
+Key:1019301,Text:"&Ok"},{
+Key:1019302,Text:"&Storno"},{
+Key:1019303,Text:"&Ano"},{
+Key:1019304,Text:"&Bez"},{
+Key:1019305,Text:"&Opustit"},{
+Key:1019306,Text:"&Opakovat"},{
+Key:1019307,Text:"&Ignorovat"},{
+Key:1019308,Text:"&Storno"},{
+Key:1019309,Text:"&Řez"},{
+Key:1019310,Text:"&Kopírovat"},{
+Key:1019311,Text:"&Vložit"},{
+Key:1019312,Text:"&Smazat"},{
+Key:1019313,Text:"&Vybrat vše"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Leviticus"},{
+Key:1020003,Text:"Čísla"},{
+Key:1020004,Text:"Deuteronomium"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Soudci"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Kr"},{
+Key:1020011,Text:"2 Králové"},{
+Key:1020012,Text:"1 Paralipomenon"},{
+Key:1020013,Text:"2 Kroniky"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemjáš"},{
+Key:1020016,Text:"Ester"},{
+Key:1020017,Text:"Úloha"},{
+Key:1020018,Text:"Žalmy"},{
+Key:1020019,Text:"Přísloví"},{
+Key:1020020,Text:"Kazatel"},{
+Key:1020021,Text:"Píseň písní"},{
+Key:1020022,Text:"Izaiáš"},{
+Key:1020023,Text:"Jeremiáš"},{
+Key:1020024,Text:"Lamentací Jeremiáše"},{
+Key:1020025,Text:"Ezechiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Ozeáš"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Abdiáš"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MÍKA"},{
+Key:1020033,Text:"Nachum"},{
+Key:1020034,Text:"Hlavatá"},{
+Key:1020035,Text:"Sofoniáš"},{
+Key:1020036,Text:"Hudečková"},{
+Key:1020037,Text:"Zachariáš"},{
+Key:1020038,Text:"Malachi"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Skutky apoštolů"},{
+Key:1020044,Text:"Římané"},{
+Key:1020045,Text:"1 Korintským"},{
+Key:1020046,Text:"2 Korintským"},{
+Key:1020047,Text:"Galatským"},{
+Key:1020048,Text:"Efezským"},{
+Key:1020049,Text:"Filipským"},{
+Key:1020050,Text:"Koloským"},{
+Key:1020051,Text:"1 Tesalonickým"},{
+Key:1020052,Text:"2 Tesalonickým 2:"},{
+Key:1020053,Text:"1 Timoteovi"},{
+Key:1020054,Text:"2 Timoteovi"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Vlasta"},{
+Key:1020057,Text:"Židům"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Petr"},{
+Key:1020060,Text:"2 Petr"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 Jan"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apokalypsa"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2 K"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Má"},{
+Key:1020116,Text:"Je"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"ES"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Am"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Tak"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"JN"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"11"},{
+Key:1020152,Text:"2"},{
+Key:1020153,Text:"Závod"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"On"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1J"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3J"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

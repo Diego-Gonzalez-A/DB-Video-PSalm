@@ -1,0 +1,2014 @@
+﻿{VersionDate:"20160615",Items:[{
+Key:1,Text:"Svenska (Sweden)"},{
+Key:1000000,Text:"Översättning"},{
+Key:1000001,Text:"Id"},{
+Key:1000003,Text:"&Lägg till..."},{
+Key:1000004,Text:"Lägga till ett eller flera språk i VideoPsalm"},{
+Key:1000006,Text:"&Skicka"},{
+Key:1000007,Text:"Skicka ändringarna via e-post till VideoPsalm så de kan integreras i nästa installation"},{
+Key:1000009,Text:"&Tillämpa"},{
+Key:1000011,Text:"&Spara"},{
+Key:1000012,Text:"Använd det språk som valts i VideoPsalm. Ändringarna sparas automatiskt."},{
+Key:1000013,Text:"Spara ändringarna"},{
+Key:1000015,Text:"&Ta bort"},{
+Key:1000016,Text:"Ta bort det valda språket och alla dess fält från VidoePsalm"},{
+Key:1000022,Text:"{0} etiketter:"},{
+Key:1000024,Text:"&Språk:"},{
+Key:1000029,Text:"Spara fält"},{
+Key:1000030,Text:"Fält har förändrats.
+
+Vill du spara ändringarna?"},{
+Key:1000031,Text:"Ta bort ett språk"},{
+Key:1000032,Text:"Vill du verkligen ta bort språket {0} från VideoPsalm?
+
+Den här åtgärden tar bort alla texter av detta språk och är oåterkalleligt."},{
+Key:1000035,Text:"VideoPsalm skapade komprimerade filer som innehåller fälten i deras respektive språk.
+Bifoga relevant fil till den epost som just öppnades och skicka detta till videopsalm@gmail.com."},{
+Key:1000036,Text:"Skicka översättning per epost"},{
+Key:1000037,Text:"<b>I \"Översättningsfönstret\" kan du redigera texterna som visas i VideoPsalm.</b>
+Detta gör att du kan översätta, anpassa eller korrigera text i VideoPsalms gränssnitt, i VideoPsalm självt.
+
+<i>Om denna panel tar upp mycket utrymme, minska den genom att klicka på knappen överst till vänster eller ändra storlek med musen på den vågräta avgränsaren.</i>
+
+VideoPsalm finns i flera språk. De olika språken visas i panelen nedan till vänster med titeln \"språk\".
+Om ditt språk inte visas i listan, kan du här översätta VideoPsalm till ditt språk. Observera att detta förmodligen blir flera timmars arbete.
+
+Här beskrivs  hur du kan få VideoPsalm på ditt språk:
+
+-Lägg till ditt språk i listan genom att välja bland dem som du hittar via knappen \"Lägg <image=add2_16>\".
+-I tabellen nedan till höger visas VideoPsalmfälten i valt  språk.
+-Översätt fälten till ditt språk.
+
+I tabellen kan du redigera etiketterna enligt ditt tycke som i ett Excel-kalkylblad.
+Tabellen erbjuder en sökruta till din hjälp för att, till exempel, visa endast fält med ett specifikt ord. Skriv dessa ord i sökrutan och klicka på knappen \"Sök\".
+Du kan också filtret som finns under varje språkrubrik för att filtrera på ett språk som innehåller vissa specifika ord.
+
+För att underlätta ditt arbete kan du välja ett eller flera andra språk för att bättre förstå innebörden av varje fält och för att kunna läsa på flera språk samtidigt.
+Kolla kommentarerna eftersom de ger en bättre förståelse om innebörden av viss uttryck och där de används.
+
+<b>Obs:</b> Det är bäst att lämna kommentarer på engelska, eftersom många förstår engelska.
+
+För att se resultatet av din översättningsarbete:
+-Välj språk i språkpanelen 
+-Klicka på knappen \"Verkställ\" (längst ner).
+
+VideoPsalm kommer att visas på det språk du har valt.
+
+Glöm inte att spara ditt arbete från översättningen genom att klicka på knappen \"spara <image=disk_blue>.
+När du har sparat ett nytt språk, kan du välja den i alternativfönstret.
+
+Skicka vänligen oss dina översättningar eller korrigeringar med e-post till <b>videopsalm@gmail.com</b> genom att klicka på knappen \"Skicka <image=mail_16>\".
+När du klickar på denna knapp, hända två saker:
+1. Din e-postklient öppnas automatiskt, till exempel Outlook.
+2. En Explorer-mappen öppnas i vilken VideoPsalm har placerat komprimerade filer med respektive språk.
+
+Dra och släpp filen i e-posten och skicka den så att vi kan integrera den i en framtida version av VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Hur kan du översätta VideoPsalm till ditt språk?"},{
+Key:1000039,Text:"Språk som VideoPsalm är översatt. Markera de språk du vill visa etiketterna i tabellen. Lägg till ditt språk i listan, klicka på knappen \"Lägg till\"."},{
+Key:1001000,Text:"Lägga till språk"},{
+Key:1001001,Text:"&Språk:"},{
+Key:1001002,Text:"Välj språk att lägga till"},{
+Key:1001003,Text:"&Lägg till"},{
+Key:1001004,Text:"Avbryt"},{
+Key:1001005,Text:"Hjälp (F1)"},{
+Key:1002000,Text:"Alternativ"},{
+Key:1002003,Text:"&Allmänna"},{
+Key:1002004,Text:"&Display"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Sångböcker"},{
+Key:1002015,Text:"&Biblar"},{
+Key:1002103,Text:"&Språk:"},{
+Key:1002105,Text:"&VideoPsalm dokument-mapp:"},{
+Key:1002106,Text:"Välj mappen VideoPsalm dokument:"},{
+Key:1002112,Text:"&Spara de ändringar du gör i de bibliska verserna (text och stil)"},{
+Key:1002202,Text:"&Ersätt raka apostroftecken \" <size=+4>' </size> \" med sneda \" <size=+4>’ </size>\""},{
+Key:1002203,Text:"&Använda de franska reglerna av typografi"},{
+Key:1002204,Text:"&Ersätt bindestrecken av hårda bindestreck i sångerna,"},{
+Key:1002205,Text:"&Ersätt bindestrecken med hårda bindestreck i de bibliska verserna,"},{
+Key:1002304,Text:"&Renderingsmetod:"},{
+Key:1002306,Text:"Standard"},{
+Key:1002307,Text:"Förbättrad"},{
+Key:1002502,Text:"&Tillämpa"},{
+Key:1002503,Text:"Spara ändringarna och håll fönstret öppet"},{
+Key:1002504,Text:"OK"},{
+Key:1002505,Text:"Spara ändringarna och Stäng fönstret"},{
+Key:1002508,Text:"Stäng fönstret utan att spara ändringarna"},{
+Key:1002510,Text:"&Licens för kyrkan:"},{
+Key:1002513,Text:"Valfri text som du anger här kan automatiskt visas i sidhuvudet eller sidfoten på bilden.
+
+Här kan du, till exempel, ange CCLI-licensen till din kyrka."},{
+Key:1002516,Text:"&Fält i sidhuvudet:"},{
+Key:1002517,Text:"&Fält i sidfoten:"},{
+Key:1002531,Text:"Ändra teckensnitt som VideoPsalm visas i.
+
+Standard teckensnitt:
+- <b>Tahoma</b> för Windows XP
+- <b>Segoe UI</b> för Windows Vista, Windows 7 och Windows 8
+
+Standard storlek: 8.25"},{
+Key:1002532,Text:"Det är nödvändigt att starta om VideoPsalm för en förändring skall gälla fullt ut."},{
+Key:1002533,Text:"Om denna är ikryssad kommer VideoPsalm att ersätta raka apostrofer med en fransk apostrof, som är ett kommatecken som placeras i höjd i bilderna.
+
+När du anger texten till en sång i redigeraren, rekommenderar vi att du använder tecknet som du lätt hittar på tangentbordet, oftast rak apostrof."},{
+Key:1002534,Text:"Om detta är ikryssat, ordnar VideoPsalm i bild avståndet i vissa tecken av skiljetecken i enlighet med den franska typografin.
+
+Till exempel, om en sång innehåller följande ord: <b>Herren!</b> kommer VideoPsalm på skärmen att visa: <b>Herren !</b>
+
+Här är de skiljetecken som får särskild behandling:
+<b>: ; ! ? »</b> <i>VideoPsalm placerar ett hårt blanksteg före och efter.</i>
+<b>«</b> <i>VideoPsalm placerar ett mellanslag före och  ett hårt blanksteg efter.</i>
+
+VideoPsalm ordnar inte avståndet mellan andra interpunktionstecken.
+
+När du anger en ny sång, rekommenderar vi att du följer traditionella reglerna för typografi, dvs sätta skiljetecken tätt till ord som berör dem. På detta sätt kommer du att kunna följa fransk typografivisning genom att markera denna ruta eller reglerna i ditt land genom att inte markera den här kryssrutan.
+
+<b>Obs:</b> Det är möjligt att franska typografiregler inte gäller i ditt land även om språket är franska, till exempel i fransktalande Afrika, Belgien, i Quebec eller i Schweiz.
+
+För en fullständig referens på blanksteg och skiljetecken av fransk typografi, se <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, sidan 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Teckensnitt:"},{
+Key:1002536,Text:"&Storlek:"},{
+Key:1002539,Text:"Om detta är ikryssat kommer VideoPsalm, vid start, informera om förekomsten av nya uppdateringar eller nyheter om:
+- Sångböcker
+- Biblar,
+- VideoPsalm språk.
+
+Nya sångböcker, biblar i nya språk och nya språk för VideoPsalm läggs till ibland i VideoPsalm onlinebibliotek.
+
+När detta sker kan du enkelt importera dem till din PC via  Importguiden."},{
+Key:1002540,Text:"Om detta är ikryssat, håller VideoPsalm orden som är förbundna med ett bindestreck samlade på samma rad på bildskärmen.
+
+Standardvärde för texten till sångerna: <b>markerat</b>"},{
+Key:1002541,Text:"Om detta är ikryssat, håller VideoPsalm orden som är förbundna med ett bindestreck samlade på samma rad på bildskärmen.
+
+Standardvärde för bibelverserna: <b>okontrollerat</b>"},{
+Key:1002542,Text:"Om detta är ikryssat, låter VideoPsalm dig spara alla ändringar du gjort i verserna av biblar (text och stil).
+
+Om kryssrutan inte är markerad:
+
+<b>1.</b> när du stänger VideoPsalm, kommer det inte att meddela dig att din biblar har ändrats,
+
+<b>2</b> när du sparar dina ändringar, kommer VideoPsalm inte att spara ändringarna i biblar (text och stil),
+
+<b>3</b> hittar du din biblar i originalversion vid nästa start av VideoPsalm."},{
+Key:1002543,Text:"Välj det språk som du vill att VideoPsalm ska visas på.
+
+Om ditt språk inte visas i listan, kanske det är tillgänglig i VideoPsalmbiblioteket online via guiden Importera.
+
+Om VideoPsalm inte finns på ditt språk kan du informera oss via e-post på videopsalm@gmail.com
+
+Alternativt kan du översätta texterna, eller korrigera eventuella fel i VideoPsalm på ditt språk via verktyget VideoPsalm översättning.
+
+Starta översättningsverktyget för VideoPsalm med knappen \"Översätta VideoPsalm\"."},{
+Key:1002544,Text:"Välj mappen från vilken VideoPsalm läsa böcker, biblar, bilder och videos.
+
+När du ändrar mappen, uppdaterar VideoPsalm dess sångböcker, biblar, bilder och videoklipp till dem i den nya mappen.
+
+<b>OBS!</b> : innan du ändrar mappen, kontrollera att du har sparat dina ändringar."},{
+Key:1002545,Text:"Ändra teckensnitt som  VideoPsalm visas i.
+
+Standard storlek: 8.25
+
+Du kan också ändra teckenstorleken via alternativen i Windows: Kontrollpanelen -&gt; display-> läsbarhet på skärmen."},{
+Key:1002547,Text:"&Översätt VideoPsalm"},{
+Key:1002548,Text:"Öppnar verktyget där du kan översätta VideoPsalm till ditt språk, eller rätta eventuella stavfel."},{
+Key:1002549,Text:"Du håller på att ändra mappen där VideoPsalm kommer att ladda sina dokument.
+VideoPsalm inaktiverar alla aktuella dokument och kommer sedan ladda upp den nya mappen.
+Detta kan ta några sekunder.{0}
+
+Vill du verkligen ändra dokumentetmappen?"},{
+Key:1002550,Text:"Det finns osparade ändringar (sångböcker, biblar eller agendor).
+Om du bekräftar den nya mappen nu går dessa ändringar förlorade."},{
+Key:1002551,Text:"Ändra dokumentmappen"},{
+Key:1002552,Text:"&Agenda"},{
+Key:1002553,Text:"Standardordning:"},{
+Key:1002554,Text:"&sånger:"},{
+Key:1002555,Text:"&Bibelverser:"},{
+Key:1002556,Text:"&Bildspelsbilder:"},{
+Key:1002557,Text:"&separata videor:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Standard timeout för automatisk bildväxling:"},{
+Key:1002560,Text:"sekunder"},{
+Key:1002561,Text:"&Lägg till ett språk"},{
+Key:1002562,Text:"Öppnar guiden Import av språk  där du kan lägga till nya språk till din VideoPsalm."},{
+Key:1002580,Text:"Standard övergång efter en sång"},{
+Key:1002581,Text:"Bestämmer vad som visas efter sista versen av sången.
+
+Detta värde gäller också för de sånger som du visar spontant utan agenda.
+Du kan ändra detta värde för varje sång i agendan."},{
+Key:1002582,Text:"Standard övergång efter ett bibelord"},{
+Key:1002583,Text:"Bestämmer vad som visas efter den sista versen av en bibelpassage.
+
+Detta värde gäller också för de bibelpassager som du visar spontant utan agenda.
+I agendan kan du ändra detta värde för varje bibelpassage."},{
+Key:1002584,Text:"Standard övergång efter en bild i bildspel"},{
+Key:1002585,Text:"Bestämmer övergång  efter sista bilden i ett bildspel.
+
+I agendan kan du ändra detta värde för varje bild."},{
+Key:1002586,Text:"Standard övergång efter en fristående video"},{
+Key:1002587,Text:"Bestämmer vad som visas efter en fristående video.
+
+I agendan kan du ändra detta värde för varje fristående video."},{
+Key:1002588,Text:"Standard övergång efter en PowerPoint"},{
+Key:1002589,Text:"Bestämmer övergångar efter en PowerPoint.
+
+I agendan kan du ändra detta värde för varje PowerPoint."},{
+Key:1002590,Text:"Avgör standardintervallet i sekunder innan automatisk övergång till nästa bild.
+
+I agendan kan du ändra detta värde för varje element som visas automatiskt."},{
+Key:1002591,Text:"&Lagra bakgrundsbilder in i agendan (rekommenderas)"},{
+Key:1002592,Text:"Lagra bakgrundsbilder in i agendan"},{
+Key:1002593,Text:"Anger om VideoPsalm ska lagra bakgrundbilder för sånger och bibelverser i agenda när du sparar den."},{
+Key:1002594,Text:"S&parar bakgrunsvideo i agendan. (rekommenderas) agenda"},{
+Key:1002595,Text:"Lagra bakgrundsvideo i agendan"},{
+Key:1002596,Text:"Anger om VideoPsalm ska spara eventuella bakgrundsvideor för sånger och bibelverser i agendan när du sparar den."},{
+Key:1002597,Text:"Sp&ara bildspelsbilder i agendan (rekommenderas)"},{
+Key:1002598,Text:"Lagra bildspelsbilder i agendan"},{
+Key:1002599,Text:"Anger om VideoPsalm ska lagra möjligt bildspelsbilder i agendan när du sparar den."},{
+Key:1002600,Text:"&Lagra fristående videos i agewndan (rekommenderas)"},{
+Key:1002601,Text:"Lagra videorna i dagordningen"},{
+Key:1002602,Text:"Anger om VideoPsalm ska lagra alla videor i agendan när du sparar den."},{
+Key:1002603,Text:"Spara &PowerPoints i agendan (rekommenderas)"},{
+Key:1002604,Text:"Spara PowerPoints i agendan"},{
+Key:1002605,Text:"Anger om VideoPsalm ska spara alla PowerPoints i agenda-filen när du sparar den."},{
+Key:1002606,Text:"Vi rekommenderar att du väljer detta alternativ, särskilt om du förbereder din agenda på en annan dator än den som du ska visa presentationen på."},{
+Key:1002607,Text:"&Texteditor"},{
+Key:1002608,Text:"&Teckensnitt:"},{
+Key:1002609,Text:"Anger teckensnittet som används vid redigering av texten i en sång och verser i Bibeln.
+
+Detta påverkar inte visningen på projektorn."},{
+Key:1002610,Text:"&Textstorlek:"},{
+Key:1002611,Text:"Anger storleken på teckensnittet som används vid redigering av texten i en sång och verser i Bibeln.
+
+Detta påverkar inte visningen på projektorn."},{
+Key:1002612,Text:"&Typsnitt av ackord:"},{
+Key:1002613,Text:"Anger teckensnittet som används vid redigering av ackord i en sång.
+
+Detta påverkar inte visningen på projektorn."},{
+Key:1002614,Text:"&Storleken på texten i ackorden:"},{
+Key:1002615,Text:"Anger storleken på teckensnittet som används vid redigering av ackord i textredigeraren.
+
+Detta påverkar inte visningen på projektorn."},{
+Key:1002616,Text:"&Färg för ackord:"},{
+Key:1002617,Text:"Anger färgen som ackorden visas i redigeraren.
+
+Detta behöver inte påverka visningen på projektorn."},{
+Key:1002618,Text:"Färg på hårda mellanrum:"},{
+Key:1002619,Text:"Anger färgen som hårda mellanrum visas i redigeraren."},{
+Key:1002620,Text:"Färg på verskoder:"},{
+Key:1002621,Text:"Anger färgen som koderna för vers och refräng markeras i textredigeraren."},{
+Key:1002622,Text:"Vers-kodernas genomskinlighet:"},{
+Key:1002623,Text:"Anger genomskinlighetsnivån på fägen på vers-koderna i textredigeraren."},{
+Key:1002624,Text:"&Färgen på ChordPro-ackorden:"},{
+Key:1002625,Text:"Anger färgen som ChordPro-ackorden är markerade i textläge."},{
+Key:1002626,Text:"ChordPro-ackordens genomskinlighet:"},{
+Key:1002627,Text:"Angergenomskinligheten på färgen på ChordPro-ackorden."},{
+Key:1002628,Text:"&Ersatt teckensnitt (rekommenderas)"},{
+Key:1002629,Text:"Låter texteditorn ersätta saknade tecken i det aktuella teckensnittet med ett annat teckensnitt.
+
+Inaktivera ersättning av tecken om du använder ett icke-Unicode-teckensnitt vid translitterering.
+Det är fallet med vissa Hindi, Tamil, Bamati, Malayalam typsnitt, etc.
+
+Observera att det är bättre att använda ett Unicode-teckensnitt.
+För att konvertera dina sånger till Unicode-text kan du använda en online-omvandlare, till exempel här: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Ge tillgång till en förenklad testeditor som är kompatibel med RTL (Right-to-Left)"},{
+Key:1002631,Text:"Visar en extra knapp till vänster i verktygsfältet i textredigeraren, som ger tillgång till en förenklad redigering av texten i sångerna.
+
+Denna förenklade editor är kompatibel med texter skrivna från höger till vänster (RTL), särskilt för arabiska och hebreiska."},{
+Key:1002632,Text:"Välj den video-renderingsmetod som fungerar bäst för din dator. VideoPsalm kan visa video i wmv på de flesta PCs."},{
+Key:1002633,Text:"&Noteringar"},{
+Key:1002634,Text:"Vid start, meddela om det finns:"},{
+Key:1002635,Text:"&En ny version av VideoPsalm (rekommenderas)"},{
+Key:1002636,Text:"&Nya sångböcker (rekommenderas)"},{
+Key:1002637,Text:"&Nya biblar (rekommenderas)"},{
+Key:1002638,Text:"&Nya språk (rekommenderas)"},{
+Key:1002639,Text:"Vid problem med internetanslutning aktivera automatisk detektering av en proxy-anslutning"},{
+Key:1002640,Text:"Auto-detektering av proxy"},{
+Key:1002641,Text:"Anger om VideoPsalm ska identifiera förekomsten av en proxy för att söka efter nya produkter eller uppdateringar automatiskt.
+
+Om VideoPsalm inte kan ladda ner sångböcker eller biblar från sitt online-bibliotek, Välj det här alternativet och försök sedan igen.
+
+Välj det här alternativet bara om det inte fungerar utan. Detta val innebär att nedladdning av sångböcker och biblar från biblioteket i VideoPsalm online kan ta längre tid."},{
+Key:1002642,Text:"&Dölj sociala ikoner"},{
+Key:1002643,Text:"Döljer sociala ikoner (Facebook, Twitter och YouTube) från verktygsfältet.
+
+Dessa ikoner förblir dolda i avsaknad av en internet-anslutning."},{
+Key:1002644,Text:"&Lagra ljudfiler i agendan (rekommenderas)"},{
+Key:1002645,Text:"Lagra audio låtar i dagordningen"},{
+Key:1002646,Text:"Anger om VideoPsalm ska lagra ljudfiler av sångerna i agendan när du sparar den."},{
+Key:1002648,Text:"&Anpassning"},{
+Key:1002649,Text:"&Videokamera"},{
+Key:1002650,Text:"&Föregående"},{
+Key:1002651,Text:"Släcka projektorn"},{
+Key:1002652,Text:"&Text"},{
+Key:1002653,Text:"&Sköld"},{
+Key:1002654,Text:"&Frys"},{
+Key:1002655,Text:"&Häftstift"},{
+Key:1002656,Text:"BildPanel"},{
+Key:1002657,Text:"&Nästa"},{
+Key:1002658,Text:"Verktygsfält"},{
+Key:1002659,Text:"AgendaPanel"},{
+Key:1002660,Text:"Flytta &upp"},{
+Key:1002661,Text:"Flytta &ned"},{
+Key:1002662,Text:"&Dölj funktionsbeskrivningarna"},{
+Key:1003000,Text:"Version {0} från {1}"},{
+Key:1003002,Text:"Läser in {0}"},{
+Key:1003003,Text:"Stäng"},{
+Key:1003005,Text:"&Kontakta VideoPsalm"},{
+Key:1003006,Text:"Öppna Outlook (din e-postklient) för att skicka ett mail till VideoPsalm"},{
+Key:1003007,Text:"Denna version är uppdaterad"},{
+Key:1003008,Text:"&Uppdatera min version"},{
+Key:1003009,Text:"Det finns en nyare version av VideoPsalm:
+Version {0} från {1:D}.
+Klicka här för att öppna sidan för nedladdning.
+Här hittar du ändringar
+och en nedladdningslänk."},{
+Key:1003011,Text:"-Rapportera ett fel
+-Göra en kommentar eller ett förslag till förbättringar"},{
+Key:1003012,Text:"E-postadress: videopsalm@gmail.com"},{
+Key:1003500,Text:"Nollställ transposition"},{
+Key:1003501,Text:"Transponera upp en halvton"},{
+Key:1003502,Text:"Transponera ned en halvton"},{
+Key:1003503,Text:"Ingen"},{
+Key:1003504,Text:"Nollställ capo"},{
+Key:1003505,Text:"Transponera för ett capo som flyttas längre bort från huvudet"},{
+Key:1003506,Text:"Transponera för ett capa som flyttas närmare huvudet"},{
+Key:1003507,Text:"Ingen"},{
+Key:1003508,Text:"Tag bort ljudfilen från sången"},{
+Key:1003509,Text:"&Ljudfil:"},{
+Key:1003510,Text:"Välj ljudfilerna du vill importera och klicka på \"öppna\"."},{
+Key:1003511,Text:"Du har importerat {0} ljudfil(er)."},{
+Key:1003512,Text:"Ingen ljudfil har importerats.
+(De fanns redan i listan)."},{
+Key:1003513,Text:"Importera ljudfiler"},{
+Key:1003514,Text:"Ljudfiler"},{
+Key:1003515,Text:"Sökord för att söka bland bilder"},{
+Key:1003516,Text:"Utan bild"},{
+Key:1003517,Text:"Utan video"},{
+Key:1003518,Text:"&Filer"},{
+Key:1003519,Text:"Visa &basackord"},{
+Key:1003520,Text:"Sökord för attl söka bland videor"},{
+Key:1003521,Text:"&Samling av importerade sånger  från CCLI / SongSelect"},{
+Key:1003522,Text:"CCLI sånger"},{
+Key:1003523,Text:"Import av CCLI sånger"},{
+Key:1003524,Text:"{0} sånger fanns redan i samlingen '{1}' och importerades inte."},{
+Key:1003525,Text:"&Sök"},{
+Key:1003526,Text:"&Ljusstyrka:"},{
+Key:1003527,Text:"&Sök"},{
+Key:1003528,Text:"&Ljusstyrka:"},{
+Key:1003529,Text:"Meddelande"},{
+Key:1003530,Text:"Typsnitt"},{
+Key:1003531,Text:"Färger"},{
+Key:1003532,Text:"Meddelande"},{
+Key:1003533,Text:"Synlighet"},{
+Key:1003534,Text:"Modell"},{
+Key:1003535,Text:"Typ"},{
+Key:1003536,Text:"Nedräkning"},{
+Key:1003537,Text:"Stoppur"},{
+Key:1003538,Text:"Alternativ"},{
+Key:1003539,Text:"Genomskinlighet"},{
+Key:1003540,Text:"Visa meddelandet"},{
+Key:1003541,Text:"Bakgrund"},{
+Key:1003542,Text:"Visa klockan"},{
+Key:1003543,Text:"Klocka"},{
+Key:1003544,Text:"Nedräkning"},{
+Key:1003545,Text:"Stoppur"},{
+Key:1003546,Text:"Varaktighet"},{
+Key:1003547,Text:"Räkna ned till"},{
+Key:1003548,Text:"Start"},{
+Key:1003549,Text:"Paus"},{
+Key:1003550,Text:"Stopp"},{
+Key:1003551,Text:"Stil"},{
+Key:1003552,Text:"Fet"},{
+Key:1003553,Text:"Kursiv"},{
+Key:1003554,Text:"Understruken"},{
+Key:1003555,Text:"Visa sekundvisare"},{
+Key:1003556,Text:"Hoppande sekundvisare"},{
+Key:1003557,Text:"Hoppande minutvisare"},{
+Key:1003558,Text:"Visa siffror"},{
+Key:1003559,Text:"Visa minutstreck"},{
+Key:1003560,Text:"Visa timstreck"},{
+Key:1003561,Text:"Videokamera"},{
+Key:1003562,Text:"Visar liveströmmen av en kamera som bakgrund bakom texten."},{
+Key:1003563,Text:"&Lägga till sånger i  CCLI format..."},{
+Key:1003564,Text:"Importera..."},{
+Key:1003565,Text:"Importera"},{
+Key:1003566,Text:"Gör det möjligt för att importera ljudfiler till VideoPsalm"},{
+Key:1003567,Text:"Bläddra..."},{
+Key:1003568,Text:"Bläddra"},{
+Key:1003569,Text:"Öppnar mappen för ljudfiler till VideoPsalm"},{
+Key:1003570,Text:"&Start (ms):"},{
+Key:1003571,Text:"&Slut (ms):"},{
+Key:1003572,Text:"&Volym:"},{
+Key:1003573,Text:"&Loop"},{
+Key:1003575,Text:"&Ändrad"},{
+Key:1003576,Text:"&Version:"},{
+Key:1003577,Text:"Texteditor \"Right to left\""},{
+Key:1003578,Text:"Växlar mellan en vanlig texteditor (skriva från vänster till höger) och en som skriver från höger till vänsterr för arabiska, hebreiska, etc."},{
+Key:1003579,Text:"&Guid:"},{
+Key:1003580,Text:"&Visa alltid biblar tvåspråkigt"},{
+Key:1003581,Text:"&Position:"},{
+Key:1004050,Text:"Typsnitt"},{
+Key:1004051,Text:"Storlek"},{
+Key:1004052,Text:"Fet"},{
+Key:1004053,Text:"Kursiv"},{
+Key:1004054,Text:"Understruken"},{
+Key:1004055,Text:"Justering"},{
+Key:1004056,Text:"Lodrät justering"},{
+Key:1004057,Text:"Bildövergångar"},{
+Key:1004058,Text:"Varaktighet"},{
+Key:1004059,Text:"Volym"},{
+Key:1004060,Text:"Avstängd (Mute)?"},{
+Key:1004061,Text:"Start"},{
+Key:1004062,Text:"Slut"},{
+Key:1004063,Text:"Loop?"},{
+Key:1004064,Text:"Zoom"},{
+Key:1004100,Text:"Färger"},{
+Key:1004101,Text:"Fyllning"},{
+Key:1004102,Text:"Kontur"},{
+Key:1004103,Text:"Kontur tjocklek"},{
+Key:1004104,Text:"Skugga"},{
+Key:1004105,Text:"Radie på skuggan"},{
+Key:1004106,Text:"Djup av skugga"},{
+Key:1004107,Text:"Riktning av skuggan"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Bild"},{
+Key:1004153,Text:"Färg"},{
+Key:1004156,Text:"Rektangel av brödtext"},{
+Key:1004157,Text:"Topptext-rektangel"},{
+Key:1004158,Text:"Fottext-rektangeln"},{
+Key:1004500,Text:"Kopiera agendan till Urklipp"},{
+Key:1004501,Text:"En beskrivning av agendan har placerats i Urklipp."},{
+Key:1004502,Text:"Ord (titel och text) eller sångnummer att söka efter"},{
+Key:1004503,Text:"Ord (titel och text) eller sångnummer att söka efter"},{
+Key:1004504,Text:"Ord (titel) eller sångnummer att söka efter"},{
+Key:1004505,Text:"Ord (författare och kompositör) eller sångnummer att söka efter"},{
+Key:1004506,Text:"Ord (i teman) eller sångnummer att söka efter"},{
+Key:1004507,Text:"Ord (i referenser) eller sångnummer att söka efter"},{
+Key:1004508,Text:"Sök i CCLI"},{
+Key:1004509,Text:"Ord (i copyright) eller sångnummer att söka efter"},{
+Key:1004510,Text:"Ord (i memo 1) eller sångnummer att söka efter"},{
+Key:1004511,Text:"Ord (i memo 2) eller sångnummer att söka efter"},{
+Key:1004512,Text:"Ord (i memo 3) eller sångnummer att söka efter"},{
+Key:1004513,Text:"Sånger med ackord"},{
+Key:1004514,Text:"Kopiera sammanfattningen av sångbok"},{
+Key:1004515,Text:"Sammanfattningen av sångboken i kopierad till Urklipp."},{
+Key:1005001,Text:"Läsning slutförd"},{
+Key:1005002,Text:"Sång av {0}."},{
+Key:1005003,Text:"Laddar videor"},{
+Key:1005004,Text:"Det gick inte att läsa videon {0}.
+{1}"},{
+Key:1005005,Text:"Laddar bilder"},{
+Key:1005006,Text:"Det gick inte att läsa bilden {0}.
+{1}"},{
+Key:1005007,Text:"Läser in stilar"},{
+Key:1005008,Text:"Fyller sångbokslistan. ({0} sånger i {1} sångböcker)"},{
+Key:1005009,Text:"Radera de valda punkterna från agendan?"},{
+Key:1005010,Text:"Ta bort objekt"},{
+Key:1005011,Text:"Ny sångbok"},{
+Key:1005012,Text:"Ny sång"},{
+Key:1005013,Text:"Agendan är tom.
+Öppna en lagrad agenda, eller dra sånger och bibelverser hit för att lägga dem till agendan."},{
+Key:1005014,Text:"Det finns inget att visa. Välj en sång eller bibelvers för att visa dem."},{
+Key:1005015,Text:"Vill du verkligen ta bort sångboken {0}?
+
+Den fil som motsvarar denna sångbok tas inte bort från disken:
+Filtypen blir omdöpt till \".ignore\"."},{
+Key:1005016,Text:"Ta bort en sångbok"},{
+Key:1005017,Text:"Vill du ta bort sången '{0}'?
+
+Efter att ha tryckt \"spara\" blir borttagningen permanent."},{
+Key:1005018,Text:"Ta bort en sång"},{
+Key:1005019,Text:"Ta bort alla objekt i agendan?"},{
+Key:1005020,Text:"Ta bort allt"},{
+Key:1005021,Text:"Agenda utan namn"},{
+Key:1005022,Text:"Tom agenda"},{
+Key:1005023,Text:"Den nuvarande agendan har ändringar som inte sparats.
+Vill du spara ändringarna?"},{
+Key:1005024,Text:"Spara agendan"},{
+Key:1005025,Text:"En eller flera sångböcker har ändringar som inte sparats.
+Vill du spara ändringarna?"},{
+Key:1005026,Text:"Spara sångböcker"},{
+Key:1005027,Text:"En eller flera biblar har ändringar som inte sparats.
+Vill du spara ändringarna?"},{
+Key:1005028,Text:"Spara biblar"},{
+Key:1005029,Text:"Lägg till dokument till agendan"},{
+Key:1005030,Text:"Agendor"},{
+Key:1005031,Text:"Bilder"},{
+Key:1005032,Text:"Videor"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Spara agendan under"},{
+Key:1005035,Text:"CCLI sånger"},{
+Key:1005036,Text:"Det finns ingen sångbok.
+Klicka här för att starta guiden för import av sångböcker."},{
+Key:1005037,Text:"Format {0}
+{1} × {2} pixlar"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Vill du verkligen ta bort alla stilar placerade ovanför {0}?"},{
+Key:1005040,Text:"Sångboken {0} är utesluten från sökning"},{
+Key:1005041,Text:"Visa eller hoppa över bilden"},{
+Key:1005042,Text:"Säsonger"},{
+Key:1005043,Text:"Våren"},{
+Key:1005044,Text:"Sommar"},{
+Key:1005045,Text:"Jul"},{
+Key:1005046,Text:"Teman"},{
+Key:1005047,Text:"Karamell"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Fantasi"},{
+Key:1005050,Text:"Mörkt rum"},{
+Key:1005051,Text:"Dimma"},{
+Key:1005052,Text:"Blueprint"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Hög kontrast"},{
+Key:1005055,Text:"Office"},{
+Key:1005056,Text:"Office 2010 Blå"},{
+Key:1005057,Text:"Office 2010 silver"},{
+Key:1005058,Text:"Office 2010 svart"},{
+Key:1005059,Text:"Office 2007 blå"},{
+Key:1005060,Text:"Office 2007 grön"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 Silver"},{
+Key:1005063,Text:"Office 2007 svart"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Sju"},{
+Key:1005067,Text:"Sju klassiska"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Rökelse"},{
+Key:1005070,Text:"Rök"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Färger"},{
+Key:1005073,Text:"Flytande himmel"},{
+Key:1005074,Text:"London himmel"},{
+Key:1005075,Text:"Blå"},{
+Key:1005076,Text:"Money Twins"},{
+Key:1005077,Text:"Svart guld"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Skarp"},{
+Key:1005080,Text:"Skarp +"},{
+Key:1005081,Text:"Stjärnor"},{
+Key:1005082,Text:"Hav av glas"},{
+Key:1005083,Text:"Värld av asfalt"},{
+Key:1005084,Text:"Kaffe"},{
+Key:1005085,Text:"Star dust"},{
+Key:1005086,Text:"Ta bort alla stilar ovanför"},{
+Key:1005087,Text:"Håll galleriet öppet"},{
+Key:1005100,Text:"Ingen animering"},{
+Key:1005102,Text:"Fade"},{
+Key:1005103,Text:"Jämn övergång"},{
+Key:1005104,Text:"Jämn övergång från mitten"},{
+Key:1005105,Text:"Växer fram från mitten"},{
+Key:1005106,Text:"Skanning"},{
+Key:1005107,Text:"Skanna till höger"},{
+Key:1005109,Text:"Form"},{
+Key:1005110,Text:"Stjärna"},{
+Key:1005118,Text:"Scanna nedåt"},{
+Key:1005120,Text:"Skanna till vänster"},{
+Key:1005121,Text:"Scanning uppåt"},{
+Key:1005122,Text:"Skanna från toppen till höger"},{
+Key:1005123,Text:"Skanna från toppen till vänster"},{
+Key:1005124,Text:"Skanna från botten till höger"},{
+Key:1005125,Text:"Skanna från längst ner till vänster"},{
+Key:1005126,Text:"Täck över"},{
+Key:1005127,Text:"Täck över nedåt"},{
+Key:1005128,Text:"Täck över åt höger"},{
+Key:1005129,Text:"Täck över åt vänster"},{
+Key:1005130,Text:"Täck över uppåt"},{
+Key:1005131,Text:"Täck över från övra vänstra hörnet"},{
+Key:1005132,Text:"Täck över från övra högra hörnet"},{
+Key:1005133,Text:"Täck över från nedre vänstra hörnet"},{
+Key:1005134,Text:"Täck över från nedre högra hörnet"},{
+Key:1005200,Text:"Bilder"},{
+Key:1005201,Text:"Ingen bild"},{
+Key:1005209,Text:"Sökord:"},{
+Key:1005210,Text:"&Titel och text"},{
+Key:1005211,Text:"&Titel och därefter text"},{
+Key:1005212,Text:"&Titel"},{
+Key:1005213,Text:"&Författare och kompositör"},{
+Key:1005214,Text:"&Teman"},{
+Key:1005215,Text:"&Referenser"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Copyright"},{
+Key:1005218,Text:"Memo &1"},{
+Key:1005219,Text:"Memo &2"},{
+Key:1005220,Text:"Memeo &3"},{
+Key:1005221,Text:"Sånger med ackord"},{
+Key:1005223,Text:"Alternativ"},{
+Key:1005224,Text:"Alternativ för VideoPsalm"},{
+Key:1005225,Text:"Visar dialogrutan där du kan ändra diverse inställningar för VideoPsalm."},{
+Key:1005226,Text:"Import"},{
+Key:1005228,Text:"Visar importguiden för sångböcker, biblar, bilder och videor från VideoPsalm onlinebibliotek och från andra populära format."},{
+Key:1005230,Text:"Ta bort"},{
+Key:1005232,Text:"Ta bort den markerade sången, sångboken eller bibel."},{
+Key:1005237,Text:"Ändra teckensnittet."},{
+Key:1005247,Text:"Bilder"},{
+Key:1005252,Text:"Redigera felaviseringar."},{
+Key:1005253,Text:"Stäng detta fönster men påminn mig igen nästa gång."},{
+Key:1005254,Text:"Stäng detta fönster och påminn mig inte igen."},{
+Key:1005255,Text:"Sök efter ord eller fras, t.ex.: bröd vin"},{
+Key:1005256,Text:"Välj verser efter referens"},{
+Key:1005257,Text:"Sök efter verser som innehåller vissa nyckelord eller en fras"},{
+Key:1005258,Text:"Töm sökfältet (ESC)"},{
+Key:1005259,Text:"Sök verser som innehåller bestämda nyckelord.
+
+Till exempel:
+
+-För att hitta verser som innehåller frasen <b>\"Guds älskade barn\"</b>, skriver du några ord som <b>\"Gud barn\"</b>.
+
+-För att hitta den versen som innehåller den meningen <b>\"han tog kalken\"</b>, skriver du orden sammanhängande: <b>«toghankalken»</b>.
+
+Bry dig inte om accenter,  skiljetecken eller gemener/VERSALER.
+
+Du behöver inte skriva orden som helhet eller i ordning.
+
+Lägg till andra ord av versen fölr att minska listan över hittade verser.
+
+Tryck på knappen <b>Infoga</b> att lägga till versen du hittat och valt till agendan."},{
+Key:1005260,Text:"Ingen vers hittad."},{
+Key:1005268,Text:"I denna mode lägger VideoPsalm automatiskt till hakparenteser [] runt texten som du anger.
+Till exempel kommer att att lägga till ett C-ackord, skriver \"C\" och VideoPsalm infogar \"[C]\"."},{
+Key:1005269,Text:"Teckenstorlek"},{
+Key:1005270,Text:"Ändras teckenstorleken i procent av höjden på skärmen."},{
+Key:1005271,Text:"&Spara som..."},{
+Key:1005277,Text:"&Spara"},{
+Key:1005278,Text:"Sparar de ändringar du gjort i sångböckerna, biblar och deras stilar."},{
+Key:1005279,Text:"Sparar de ändringar du gjort i sångböcker och stilar.
+
+<b>OBS:</b> De ändringar du gör i biblar sparas inte (text och stilar). Spara ändringarna genom att aktivera detta alternativ i Alternativen för VideoPsalm."},{
+Key:1005283,Text:"Varaktighet:"},{
+Key:1005284,Text:"I ms:"},{
+Key:1005285,Text:"Element"},{
+Key:1005286,Text:"Huvudfält"},{
+Key:1005287,Text:"Stil för Brödtext"},{
+Key:1005288,Text:"Tillåter ändring av stilen på brödtexten."},{
+Key:1005289,Text:"Sidhuvud"},{
+Key:1005290,Text:"Stilen på sidhuvudet"},{
+Key:1005291,Text:"Tillåter ändring av stilen på texten i sidhuvudet."},{
+Key:1005292,Text:"Fot-text"},{
+Key:1005293,Text:"Stil på fot-text"},{
+Key:1005294,Text:"Tillåter ändring av stilen på fot-texten."},{
+Key:1005295,Text:"Ackord"},{
+Key:1005296,Text:"Stil för ackorden"},{
+Key:1005297,Text:"Tillåter ändring av stilen på ackorden."},{
+Key:1005308,Text:"Bok"},{
+Key:1005313,Text:"Stilnivå"},{
+Key:1005314,Text:"Ange vid vilken din nivå dina förändringar kommer att gälla.
+
+Versen har den högsta stil, följt av sången, sångboken, sångböckerna och basen.
+
+Likaså, bibelversen har den högsta nivå, följt av kapitlet, bibelboken, testamentet, bibeln, biblar och basen igen.
+
+Basen är roten till hierarkin, förändringar du gör här gäller för allt.
+
+En högre nivå kan dock åsidosätta en stil som definieras i en lägre nivå. Exempelvis om du sätter basen till fet stil och därefter sätter en vers till att inte ha fet stil, kommer denna vers att visas utan fet still medan allt annat visas i fet stil."},{
+Key:1005315,Text:"<b></b>Denna mekanism låter dig ändra formatmallen på allmänna eller enskilda bilder.
+
+<b>Exempel</b>
+Om du väljerr en bakgrund till en sång, visas alla verser av den här sången med denna bakgrund utom de verserna som du har tilldelat en viss bakgrund."},{
+Key:1005318,Text:"Bild"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Videor"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Textfärger"},{
+Key:1005329,Text:"Återställ"},{
+Key:1005330,Text:"Rensar stil-attribut för den valda nivån"},{
+Key:1005331,Text:"Du kan radera alla stil-inställningarna för den valda nivån.
+En bild utan stil ärver automatiskt stilen från en lägre nivå.
+
+Till exempel:
+-En vers har en stil med typsnittet \"Arial Fet\".
+-Sången, som versen ingår i, har typsnittet \"Segone UI\".
+
+När du raderar stilen för versen, visas den med stilen på lägre nivå. I vårt exempel blir det med typsnittet Segoe UI.
+
+<b>Menyn «ta bort alla stilar över»</b>
+Radera stilen för den valda nivån och alla högre stil-nivåer.
+
+Till exempel om stil-nivån \"Sångbok\" är markerad tas stil för Sångboken bort, inkluderat stilarna för alla sångerna och verserna i den sångboken."},{
+Key:1005332,Text:"Den här knappen är nedtonad när nivån inte har någon egen stil."},{
+Key:1005333,Text:"&Ta bort alla stilar över"},{
+Key:1005337,Text:"&Topp"},{
+Key:1005338,Text:"&Mitten"},{
+Key:1005339,Text:"&Botten"},{
+Key:1005340,Text:"Stanna på denna stil-nivå"},{
+Key:1005341,Text:"Stannma på aktuell stil-nivå"},{
+Key:1005342,Text:"Stannar kvar på den nuvarande stil-nivån när du ändrar bilden.
+
+Alltså:
+<b>1.</b> När du visar versen av en sång blir stil-nivån satt till \"vers\"'.
+<b>2.</b> För att ändra stil på hela sången sätter du stil-nivån till \"sång\". Om du därefter växlar till en annan vers hoppar stil-nivån till vers igen.
+<b>3.</b> För att undgå detta kan du sätt stilnivån till \"sång\" och markera häftstiftet.
+<b>4.</b> När du växlar från en vers till nästa kommer stil-nivån då att stå kvar på \"sång\"."},{
+Key:1005343,Text:"Fyllning av texten"},{
+Key:1005345,Text:"Fyller texten med en heltäckande färg, en övertoning, en bild eller en struktur."},{
+Key:1005346,Text:"Färg på texten"},{
+Key:1005347,Text:"Textkontur"},{
+Key:1005349,Text:"Anger färg, bredd och linjetyp för konturen av texten."},{
+Key:1005350,Text:"Färg på textkonturen"},{
+Key:1005352,Text:"Texteffekten"},{
+Key:1005354,Text:"Använd en visuell effekt för texten, som en skugga, ett ljus, en reflektion eller en 3-d rotation."},{
+Key:1005356,Text:"Textskugga"},{
+Key:1005357,Text:"Bakgrundsfärg"},{
+Key:1005359,Text:"&Ny sång"},{
+Key:1005360,Text:"&Ny sångbok"},{
+Key:1005361,Text:"Ta bort alla"},{
+Key:1005362,Text:"
+
+<b>Partiell sköld</b>
+När du öppnar en agenda, kommer <b>texterna</b> i dina sångböcker och biblar att bevaras men agendans <b>stilar</b> kommer att användas på dina sångböcker och biblar (och skriva över de stilar de hade innan)."},{
+Key:1005363,Text:"
+
+<b>Partiell sköld</b>
+När du öppnar en agenda kommer <b>stilarna</b> i dina böcker och biblar att bevaras men agendans <b>texter</b> kommer att skriva över texterna i dina sångböcker och bibler."},{
+Key:1005364,Text:"
+
+<b>Full sköld</b>
+När du öppnar en agenda kommer <b>texter</b> och <b>stilar</b> av dina böcker och biblar att bevaras som de är.
+
+<i>Detta är ett bra val när du vill behålla dina egna stilar, men visa en agenda någon tagit med sig från ett annat ställe.</i>"},{
+Key:1005365,Text:"
+
+<b>Ingen sköld</b>
+När du öppnar en agenda kommer <b>texter</b> och <b>stilar</b> i dina sångböcker och biblar bli överskrivna av de som är i agendan."},{
+Key:1005366,Text:"Ändra från \"Viewer\" till \"Redigera\"-läge eller vice versa, klicka på knappen med penna."},{
+Key:1005369,Text:"Sortera efter titel"},{
+Key:1005370,Text:"Sortera efter nummer"},{
+Key:1005371,Text:"Om..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simulerar videoprojektion
+på en skärm med bred/höjd-förhållandet 4:3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simulerar videoprojektion
+på en skärm med bred/höjd-förhållandet 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simulerar videoprojektion
+på en skärm med bred/höjd-förhållandet 4:3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simulerar videoprojektion
+på en skärm med bred/höjd-förhållandet 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simulerar videoprojektion
+på en skärm med bred/höjd-förhållandet 16:8"},{
+Key:1005387,Text:"Nuvarande"},{
+Key:1005388,Text:"Använder hela  skärmen"},{
+Key:1005389,Text:"4:3 bredd/höjd-förhållande"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"C D E"},{
+Key:1005396,Text:"Läge för insättning av ackord"},{
+Key:1005398,Text:"Visa ackord ovanför texter"},{
+Key:1005400,Text:"Aktivera form skin"},{
+Key:1005401,Text:"&Lägg till i agendan"},{
+Key:1005402,Text:"Ta bort valda element"},{
+Key:1005403,Text:"&Inkludera sångboken i sökandet"},{
+Key:1005404,Text:"&Uteslut denna sångbok från sökning"},{
+Key:1005405,Text:"&Inkludera alla sångböcker i sökning"},{
+Key:1005407,Text:"&Dölj sångböcker som är uteslutna från sökning"},{
+Key:1005408,Text:"&Visa sångböcker som är uteslutna från sökning"},{
+Key:1005409,Text:"&Visa resize-rektangeln"},{
+Key:1005410,Text:"Visar resize-rektangeln"},{
+Key:1005411,Text:"Låter dig ändra storlek på den valda ramen (brödtext, sidhuvud eller sidfot).
+
+Ramen kan storleksändras med musen i förhandsgranskningsområdet.
+
+<b>Hur du storleksändrar en ram</b>
+
+1. Välj en ram för att ändra storlek på:
+- brödtexten
+- sidhuvudet,
+- eller foten.
+
+2. Välj önskad formatmall nivå, till exempel \"biblar\".
+
+3. Tryck på häftstiftet för att tvinga VideoPsalm att stanna kvar på denna stil-nivå.
+Om du inte gör detta så kommer VideoPsalm automatiskt att hoppa tillbaka till \"vers\" så snart du visar en vers.
+
+4 Visa en tillfällig vers. Förhandsgranskningsområdet visar ramen med formatmallen \"Biblar\".
+
+5 Ändra storlek och placering av ramen med hjälp av musen.
+
+6. Avmarkera häftstiftet så att VideoPsalm kan återgå till formatmallen \"Vers\" nästa gång du visar en vers."},{
+Key:1005412,Text:"&Kopiera en sammanfattning av sångboken till Urklipp"},{
+Key:1005417,Text:"Text"},{
+Key:1005418,Text:"Stil-utforskaren"},{
+Key:1005419,Text:"Visar eller döljer stil-utforskaren.
+I det här fönstret kan du navigera mellan nivåer av  stilar, att återställa enskilda egenskaper eller redigera dem."},{
+Key:1005420,Text:"Stilar"},{
+Key:1005421,Text:"Typsnitt"},{
+Key:1005424,Text:"Bakgrund"},{
+Key:1005425,Text:"Stilar"},{
+Key:1005429,Text:"Bildförhållande"},{
+Key:1005430,Text:"Ändra"},{
+Key:1005432,Text:"Utseende"},{
+Key:1005433,Text:"Verktyg"},{
+Key:1005442,Text:"Fortsätt med nästa punkt"},{
+Key:1005443,Text:"Stäng av, därefter fortsätt"},{
+Key:1005444,Text:"Dölj texten, därefter fortsätt"},{
+Key:1005445,Text:"Dölj texten, därefter stäng av"},{
+Key:1005446,Text:"Visa tillsammans med nästa element (tvåspråkig)"},{
+Key:1005447,Text:"Lägg till markerad sång eller bibelvers till agendan (Lägg till eller Alt + L)"},{
+Key:1005448,Text:"Klicka här för att lägga till sången eller bibelverser i agendan.
+
+Alternativt kan du dra och släppa knappen i agendan till den plats där sången/versen skall vara."},{
+Key:1005449,Text:"&Lägg till"},{
+Key:1005454,Text:"Välj alternativ för att söka efter  nyckelord"},{
+Key:1005455,Text:"Töm sökfältet (ESC)"},{
+Key:1005457,Text:"Söka efter en sång (Ctrl + F)"},{
+Key:1005458,Text:"Sök sånger som innehåller vissa ord eller har ett bestämt nummer.
+
+Till exempel:
+
+- Hitta sången nr 250, skriv «250»
+
+- Hitta sången som innehåller texten <b>\"som en ledstjärna i natten\"</b>, skriv ett par ord som <b>\"ledstjärna natt\"</b>.
+
+Oroa dig inte över accenter eller skiljetecken.
+
+Du behöver intet ta orden som helhet eller i ordning.
+
+Du kan lägga till andra ord av sången att minska listan över hittade sånger.
+
+Tryck på knappen <b>Tägg till</b> för att lägga till den markerade sången till agendan."},{
+Key:1005459,Text:"Det finns ingen bibel.
+Klicka här för att starta importguiden för att importera biblar."},{
+Key:1005463,Text:"Töm referensfältet (ESC)"},{
+Key:1005464,Text:"Sök bibelvers genom att skriva in bibelreferensen, t.ex.: Romarbrevet 3:23-25, 30"},{
+Key:1005465,Text:"Välj verser (Ctrl + F)"},{
+Key:1005472,Text:"Katalog:"},{
+Key:1005475,Text:"Inkludera denna sångbok vid sökning efter sånger."},{
+Key:1005479,Text:"&Namn:"},{
+Key:1005481,Text:"&Förkortning:"},{
+Key:1005483,Text:"&Författare:"},{
+Key:1005485,Text:"&Upphovsrätt:"},{
+Key:1005487,Text:"&Dokument:"},{
+Key:1005491,Text:"&Skriva ut capo"},{
+Key:1005497,Text:"&Text"},{
+Key:1005499,Text:"&Nummer:"},{
+Key:1005501,Text:"&Titel:"},{
+Key:1005505,Text:"&Referens:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Författare:"},{
+Key:1005511,Text:"&Kompositör:"},{
+Key:1005513,Text:"Diverse"},{
+Key:1005515,Text:"&Ton:"},{
+Key:1005517,Text:"&Format:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Sekvens:"},{
+Key:1005523,Text:"&CCLI:"},{
+Key:1005525,Text:"&Tonart:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Key line:"},{
+Key:1005531,Text:"&Memo 1:"},{
+Key:1005533,Text:"&Memo 2:"},{
+Key:1005535,Text:"&Memo 3:"},{
+Key:1005537,Text:"&Signatur:"},{
+Key:1005539,Text:"Capo/transponering:"},{
+Key:1005540,Text:"&Transponering:"},{
+Key:1005541,Text:"Skriv ut capo?"},{
+Key:1005542,Text:"&Capo:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Låter dig transponera ackorden i sången."},{
+Key:1005555,Text:"&Katalog:"},{
+Key:1005560,Text:"&Copyright:"},{
+Key:1005562,Text:"&Förkortning:"},{
+Key:1005564,Text:"&Namn:"},{
+Key:1005566,Text:"&Beskrivning:"},{
+Key:1005568,Text:"&Inledning:"},{
+Key:1005570,Text:"&Filnamn:"},{
+Key:1005576,Text:"&Namn:"},{
+Key:1005582,Text:"&Namn:"},{
+Key:1005584,Text:"&Inledning:"},{
+Key:1005586,Text:"&Förkortning:"},{
+Key:1005587,Text:"Bibelnkapitel"},{
+Key:1005590,Text:"Bibelvers"},{
+Key:1005595,Text:"&Vers:"},{
+Key:1005603,Text:"&Fil:"},{
+Key:1005606,Text:"Inget valt"},{
+Key:1005608,Text:"Stil"},{
+Key:1005612,Text:"Nollställ denna egenskap"},{
+Key:1005613,Text:"När du tar bort värdet av en egenskapt, används VideoPsalm det första värdet i de lägre nivåerna.
+
+Till exempel, om du tar bort typsnittet på med vers kommer VideoPsalm att använda det först typsnittet den finner i följande ordning:
+- sång,
+- sångbok
+- sångböcker
+- basen
+
+VideoPsalm följer samma tilvägagångssätt med biblar, bilder, etc."},{
+Key:1005615,Text:"Ingen"},{
+Key:1005616,Text:"Base"},{
+Key:1005618,Text:"Sångböcker"},{
+Key:1005619,Text:"Sångbok"},{
+Key:1005620,Text:"Sång"},{
+Key:1005621,Text:"Vers"},{
+Key:1005622,Text:"Biblar"},{
+Key:1005623,Text:"Bibel"},{
+Key:1005624,Text:"Testamente"},{
+Key:1005625,Text:"Bibelbok"},{
+Key:1005626,Text:"Kapitel"},{
+Key:1005627,Text:"Vers"},{
+Key:1005628,Text:"Standardvärde"},{
+Key:1005629,Text:"Värde från brödtexten"},{
+Key:1005630,Text:"Vänsterställd"},{
+Key:1005631,Text:"Centrerad"},{
+Key:1005632,Text:"Högerställd"},{
+Key:1005633,Text:"Blockjusterad"},{
+Key:1005634,Text:"Topp"},{
+Key:1005635,Text:"Mitten"},{
+Key:1005636,Text:"Botten"},{
+Key:1005650,Text:"&Öppna en agenda..."},{
+Key:1005651,Text:"&Lägg till agenda..."},{
+Key:1005652,Text:"&Lägg till bildspelsbilder..."},{
+Key:1005653,Text:"&Lägg till videor..."},{
+Key:1005654,Text:"&Lägg till PowerPoints..."},{
+Key:1005655,Text:"När jag öppnar en agenda:"},{
+Key:1005656,Text:"&Bevara texterna i mina böcker och biblar"},{
+Key:1005657,Text:"&Bevara stilar(formattering) av mina böcker och biblar"},{
+Key:1005667,Text:"&Sångböcker"},{
+Key:1005668,Text:"Visar sångböckerna (Alt + S)"},{
+Key:1005670,Text:"&Biblar"},{
+Key:1005671,Text:"Visar biblar (Alt + B)"},{
+Key:1005677,Text:"&Bredd:"},{
+Key:1005680,Text:"&Gör oskarp:"},{
+Key:1005681,Text:"&Djup:"},{
+Key:1005682,Text:"&Riktning:"},{
+Key:1005686,Text:"Visar en tom svart skärm.
+Simulerar avstängd projektor."},{
+Key:1005687,Text:"Nästa"},{
+Key:1005688,Text:"Gå vidare till nästa bild."},{
+Key:1005689,Text:"Stäng av skärmen (Ctrl + W)"},{
+Key:1005690,Text:"Visas texten (Ctrl + T)"},{
+Key:1005691,Text:"Visar eller döljer texten på en bild."},{
+Key:1005692,Text:"Sköld (Ctrl + B)"},{
+Key:1005693,Text:"Bevarar de sångverser som visas nu.
+
+Låter dig arbeta med agendan eller söka efter en sång eller bibelvers medans du visar en sång
+
+Dul åsidosätter skölden om du dubbelklickar på ett objekt i agendan."},{
+Key:1005694,Text:"Frys"},{
+Key:1005695,Text:"Fryser projektorbilden utan att frysa förhandsgranskningsrutan.
+
+Låter dig förhandsgranska en annan presentation medan en presentation på projektorn pågår."},{
+Key:1005696,Text:"Visa (Ctrl + P)"},{
+Key:1005697,Text:"Visar bilden på projektorn."},{
+Key:1005698,Text:"Läge \"Edit\" (Ctrl + E)"},{
+Key:1005699,Text:"Växlar mellan \"Visa\" och Redigerings-läge."},{
+Key:1005702,Text:"Öppnar en lagrad agenda.
+\"Sköld\"-inställning görs med alternativen vid \"öppna agnda-ikonen\" vid agenda-förstret."},{
+Key:1005703,Text:"Stäng agendan"},{
+Key:1005704,Text:"Spara agendan"},{
+Key:1005705,Text:"Ta bort"},{
+Key:1005706,Text:"Tar bort de markerade punkterna i agendan."},{
+Key:1005707,Text:"Flytta upp (Ctrl + Page up)"},{
+Key:1005708,Text:"Flyttar punkten till början av agendan."},{
+Key:1005709,Text:"Flytta ner (Ctrl + Page down)"},{
+Key:1005710,Text:"Flyttar punkten till slutet av agendan."},{
+Key:1005711,Text:"Ljusstyrka"},{
+Key:1005712,Text:"Öppna en agenda"},{
+Key:1005713,Text:"Sparar dagordningen på disken eller på ett USB-minne."},{
+Key:1005721,Text:"Väljer bibelverserna med hjälp av bibelreferenserna.
+<i>Exempel: Romarbrevet 3:23-25, 30</i>
+
+
+
+Skriv ett <b>\":\"</b> eller <b>\".\"</b> eller <b>\"v\"</b> för att skilja mellan kapittel och vers.
+
+Tryck på <b>\"Infoga\"</b> för att lägga de markerade verserna in i agendan."},{
+Key:1005722,Text:"Kommentarer (Översätt inte, låt de vara på engelska)"},{
+Key:1005723,Text:"Kan inte skriva filen
+{0} :
+{1}"},{
+Key:1005724,Text:"Fel"},{
+Key:1005725,Text:"Det gick inte att läsa filen
+{0} :
+{1}"},{
+Key:1005730,Text:"Är du säker på att du vill ta bort stilen för bildspelsbilder?
+Stilen förd bildspelsbilder kommer att sättasd till ett standardvärde."},{
+Key:1005731,Text:"Är du säker du vill ta bort Base-stilen?
+Base-stilen kommer att sättas till ett standardvärde."},{
+Key:1005732,Text:"Är du säker på att du vill ta bort stilen till sångböcker?
+Stilen kommer att sättas till ett standardväde."},{
+Key:1005733,Text:"Är du säker på att du vill ta bort stilen för biblar?
+Stilen kommer att sättas till ett standardvärde."},{
+Key:1005734,Text:"Är du säker du vill ta bort denna stil?
+VideoPsalm kommer att tillämpa stil-attribut som hittas lägre ned i hierarkin."},{
+Key:1005735,Text:"Radera stil"},{
+Key:1005736,Text:"Är du säker på att du vill ta bort stilen för videor?
+Stilen kommer att sättas till ett standardvärde."},{
+Key:1005737,Text:"En sångbok"},{
+Key:1005738,Text:"Ingen sångbok"},{
+Key:1005739,Text:"En bibel"},{
+Key:1005740,Text:"Ingen bibel"},{
+Key:1005743,Text:"Förstora teckensnitt (Ctrl + Skift +.)"},{
+Key:1005744,Text:"Ökar teckenstorleken."},{
+Key:1005745,Text:"Minska teckensnitt (Ctrl + Skift +,)"},{
+Key:1005746,Text:"Minskar storleken på teckensnittet."},{
+Key:1005747,Text:"Fetstil (Ctrl + B)"},{
+Key:1005748,Text:"Gör den markerade texten fet."},{
+Key:1005749,Text:"Kursiv (Ctrl + I)"},{
+Key:1005750,Text:"Gör den markerade texten till kursiv stil."},{
+Key:1005751,Text:"Understruken (Ctrl + U)"},{
+Key:1005752,Text:"Stryk under markerad text."},{
+Key:1005753,Text:"Genomstruken"},{
+Key:1005754,Text:"Ritar en linje i den markerade texten."},{
+Key:1005755,Text:"Visa / Dölj ¶ (Ctrl + Skift + 8)"},{
+Key:1005756,Text:"Visar stycketecken och andra dolda formateringssymboler."},{
+Key:1005757,Text:"Teckenfärg"},{
+Key:1005758,Text:"Ändra färg på texten."},{
+Key:1005759,Text:"Färg på textens kontur"},{
+Key:1005760,Text:"Ger en färg till textens kontur."},{
+Key:1005761,Text:"Rensa formatering (Ctrl + space)"},{
+Key:1005762,Text:"Tar bort all formatering på den markerade texen och behåller endast den oformaterad texten."},{
+Key:1005763,Text:"Ångra (Ctrl + Z)"},{
+Key:1005764,Text:"Tar bort den sista operationen."},{
+Key:1005765,Text:"Gör om (Ctrl + Y)"},{
+Key:1005766,Text:"Gör om den senaste operationen."},{
+Key:1005767,Text:"Klipp ut (Ctrl + X)"},{
+Key:1005768,Text:"Klipper ut markeringen och infogar den i Urklipp."},{
+Key:1005769,Text:"Kopiera (Ctrl + C)"},{
+Key:1005770,Text:"Kopierar markeringen och placerar det i Urklipp."},{
+Key:1005771,Text:"Klistra in (Ctrl + V)"},{
+Key:1005772,Text:"Klistrar in innehållet i Urklipp."},{
+Key:1005773,Text:"Sök (Ctrl + F)"},{
+Key:1005774,Text:"Sök efter text i dokumentet."},{
+Key:1005775,Text:"Ersätt (Ctrl + H)"},{
+Key:1005776,Text:"Ersätter text i dokumentet."},{
+Key:1005777,Text:"Förstora"},{
+Key:1005778,Text:"Visa alla"},{
+Key:1005779,Text:"Om du vill redigera en viss vers, klicka på den aktuella bilden."},{
+Key:1005780,Text:"Urval av verser"},{
+Key:1005781,Text:"Sorterar den markerade sångboken efter titel "},{
+Key:1005782,Text:"Stänger agendan (och ber om din bekräftelse om det finns osparade ändringar)."},{
+Key:1005783,Text:"Justerar ljusstyrkan på bilden eller bakgrundsvideon.
+
+Detta gör texten mer markerad och ökar läsbarheten."},{
+Key:1005784,Text:"&Kopiera en beskrivning av agendan"},{
+Key:1005785,Text:"&Inkludera sångtexter"},{
+Key:1005786,Text:"&Inkludera bibelverser"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Öppnar VideoPsalms facebooksida.
+
+Låt VideoPsalm bli känt i din vänkrets:
+-genom att klicka på \"Gilla-knappen\"
+-genom att blivän med oss på Facebook.
+
+<b>Obs:</b> För att slippa annonserna i Facebook, installera ett gratis plugin som heter <b>Adblock Plus</b>.
+
+Om du vill dölja VideoPsalms sociala ikoner, inaktivera dem i \"Alternativ\" → \"Allmänna\" fliken."},{
+Key:1005791,Text:"Öppnar VideoPsalms Twittersida, där du finner nyheter och information om VideoPsalm.
+
+Om du vill dölja VideoPsalms sociala ikoner, inaktivera dem i \"Alternativ\" → \"Allmänna\" fliken."},{
+Key:1005792,Text:"Öppnar VideoPsalms YouTube-kanal, där du hittar Video-självstudier för användning av VideoPsalm.
+
+Om du vill dölja VideoPsalms sociala ikoner, inaktivera dem i \"Alternativ\" → \"Allmänna\" fliken."},{
+Key:1005793,Text:"Lägger till en ny tom sång (eller en kungörelse) till den valda sångboken."},{
+Key:1005794,Text:"Lägger till en ny tom sångbok."},{
+Key:1005795,Text:"Sorterar sångerna i den markerade sångboken efter sångnummer."},{
+Key:1005800,Text:"Vers"},{
+Key:1005801,Text:"Refräng"},{
+Key:1005802,Text:"Pre-Refräng"},{
+Key:1005803,Text:"Bridge"},{
+Key:1005804,Text:"Etikett"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Outro"},{
+Key:1005807,Text:"Slide"},{
+Key:1005808,Text:"Instrumental"},{
+Key:1005809,Text:"Andra"},{
+Key:1005820,Text:"V"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"P"},{
+Key:1005823,Text:"B"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"I"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"S"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Stäng"},{
+Key:1005851,Text:"&Språk:"},{
+Key:1005852,Text:"&Utgivare:"},{
+Key:1005853,Text:"Alla"},{
+Key:1005859,Text:"Transponera sångens ackord beroende på capodiastres position."},{
+Key:1005860,Text:"Hitta sångerna där titel, alias eller texterna innehåller de ord som du anger.
+
+Alternativt kan du söka efter en sång genom att skriva in dess nummer."},{
+Key:1005861,Text:"Utför en sökning i två etapper. Fördelen är snabbt få fram en kort lista med sånger:
+
+1 Finner sånger vars titel eller alias innehåller de ord du skrivit in.
+Medan du anger ord kommer en punkt då ingen mer sång visas.
+
+2. Från denna punkt, kommer att VideoPsalm söka efter ord i texten till sångerna.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005862,Text:"Hitta sångar av kompositörer som du anger.
+
+Alternativt kan du söka efter en sång genom att skriva in dess nummer."},{
+Key:1005863,Text:"Hitta sånger som behandlar ämnen som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005864,Text:"Hitta sånger inspirerade av bibelreferenser som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005865,Text:"Hitta sången med det CCLI som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005866,Text:"Hitta alla sånger vars upphovsrätt innehåller de ord som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005867,Text:"Hitta alla sånger vars Memo 1 innehåller de ord som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005868,Text:"Hitta alla sånger vars Memo 2 innehåller de ord som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005869,Text:"Hitta alla sånger vars Memo 3 innehåller de ord som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005870,Text:"Hitta alla sånger vars titel eller alias innehåller de ord som du anger.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005871,Text:"Hitta de sånger som har ackord i texterna.
+
+Alternativt kan du söka efter en sång genom att ange dess nummer."},{
+Key:1005872,Text:"&Version av:"},{
+Key:1005873,Text:"&Version av:"},{
+Key:1005874,Text:"Datum för din version av sångboken"},{
+Key:1005875,Text:"Anger det datum då denna sångbok sista gången uppdaterades i VideoPsalm.
+
+Via VideoPsalm onlinebiblioteks importguide kan du kontrollera om det finns en nyare version av denna sångbok.
+
+VideoPsalm uppdateras ibland sångböckerna i online-biblioteket, för att t.ex. rätta til stavfel."},{
+Key:1005876,Text:"Datum för din version av Bibeln"},{
+Key:1005877,Text:"Anger det datum då denna Bibel sist blev uppdaterad av VideoPsalm.
+
+Via VideoPsalm onlinebiblioteks importguid kan du kontrollera om det finns en nyare version av denna översättning.
+
+VideoPsalm online uppdateras ibland vissa biblar, för att t.ex. rätta till stavfel."},{
+Key:1005878,Text:"Komprimerad"},{
+Key:1005879,Text:"Komprimerad"},{
+Key:1005880,Text:"VideoPsalm kan komprimera dina sångböcker och din biblar för att spara diskutrymme.
+
+Sångböcker och biblar som du hämtar via importguiden är vanligtvis komprimerade, för att göra nedladdningen snabbare och minska Internettrafiken på VideoPsalms webbplats."},{
+Key:1005881,Text:"&Komprimerad"},{
+Key:1005882,Text:"&Komprimerad"},{
+Key:1005884,Text:"Vill du verkligen ta bort Bibeln '{0}'?
+
+Den fil som innehåller denna bibel tas inte bort från disken:
+dess filtyp blir omdöpt till \".ignore."},{
+Key:1005885,Text:"Ta bort en bibel"},{
+Key:1005886,Text:"Vänligen vänta"},{
+Key:1005887,Text:"Inläsning pågår..."},{
+Key:1005888,Text:"Gamla Testamentet"},{
+Key:1005889,Text:"Nya Testamentet"},{
+Key:1005890,Text:"Sparar..."},{
+Key:1005891,Text:"&Importera bilder"},{
+Key:1005892,Text:"Markera bilderna du vill importera och klicka på \"öppna\"."},{
+Key:1005893,Text:"Du har importerat {0} bild(er)."},{
+Key:1005894,Text:"Ingen bild har importerats.
+(De(n) fanns redan i galleriet)."},{
+Key:1005895,Text:"&Återskapa miniatyrer"},{
+Key:1005896,Text:"Återskapa miniatyrer"},{
+Key:1005897,Text:"Vill du återskapa miniatyrerna?
+
+Det kan vara nödvändigt att återskapa miniatyrbilder av bilder när du har gjort ändringar utanför VideoPsalm."},{
+Key:1005898,Text:"&Ta bort bilden"},{
+Key:1005899,Text:"Ta bort en bild"},{
+Key:1005900,Text:"Vill du verkligen ta bort bilden {0}?"},{
+Key:1005901,Text:"&Utforska bildbiblioteket"},{
+Key:1005902,Text:"&Ta bort den valda bilden"},{
+Key:1005903,Text:"&Importera videor"},{
+Key:1005904,Text:"Välj den video du vill importera och klicka på \"öppna\"."},{
+Key:1005905,Text:"Du har importerat {0} video(s)."},{
+Key:1005906,Text:"Ingen video har importerats.
+(De(n) fanns redan i galleriet)."},{
+Key:1005907,Text:"&Återskapa miniatyrer"},{
+Key:1005908,Text:"&Ta bort videon"},{
+Key:1005909,Text:"Ta bort en video"},{
+Key:1005910,Text:"Vill du verkligen ta bort videon '{0}'?"},{
+Key:1005911,Text:"&Utforska bibioteket med videoklipp"},{
+Key:1005912,Text:"&Ta bort den markerade videon"},{
+Key:1005913,Text:"<Utan video>"},{
+Key:1005914,Text:"Importera bilder"},{
+Key:1005915,Text:"Importera videor"},{
+Key:1005917,Text:"Kan inte skapa biblioteket
+{0} :
+{1}"},{
+Key:1005918,Text:"Det angivna biblioteket har ingen drive:
+{0}"},{
+Key:1005919,Text:"Biblioteket får inte vara tomt."},{
+Key:1005920,Text:"Ett biblioteksnamn får inte innehålla följande tecken:
+{0}"},{
+Key:1005921,Text:"Återställ sångböcker och biblar"},{
+Key:1005922,Text:"Återställer sångböcker, biblar, bilder eller videor, till exempel från en säkerhetskopia på ett USB-minne."},{
+Key:1005923,Text:"Stäng"},{
+Key:1005930,Text:"&Kopiera sången till"},{
+Key:1005931,Text:"&Flytta sången till"},{
+Key:1005932,Text:"Vill du kopiera sången '{0}'.
+till sångboken {1}?"},{
+Key:1005933,Text:"Vill du verkligen flytta sången '{0}'.
+till sångboken {1}?"},{
+Key:1005934,Text:"&Ange referenser via förkortningar"},{
+Key:1005935,Text:"&Visa namnet på böcker på svenska"},{
+Key:1005936,Text:"(Kopia)"},{
+Key:1005937,Text:"En ny sångbok är tillgänglig:
+{0}"},{
+Key:1005938,Text:"Nya sångböcker finns tillgängliga: {0}"},{
+Key:1005939,Text:"Korrigeringar har gjorts
+i sångboken {0}."},{
+Key:1005940,Text:"Korrigeringar har gjorts i
+följande sångböcker: {0}"},{
+Key:1005941,Text:"Öppna importguiden för import av sångböcker"},{
+Key:1005942,Text:"En ny bibel finns tillgänglig:
+{0}"},{
+Key:1005943,Text:"Nya biblar är tillgängliga: {0}"},{
+Key:1005944,Text:"Korrigeringar har gjorts i
+bibeln \"{0}\"."},{
+Key:1005945,Text:"Korrigeringar har gjorts
+i följande biblar: {0}"},{
+Key:1005946,Text:"Öppna guiden för att importera biblar"},{
+Key:1005947,Text:"VideoPsalm är nu tillgänglig
+på {0}"},{
+Key:1005948,Text:"VideoPsalm är nu tillgänglig på: {0}"},{
+Key:1005949,Text:"Korrigeringar har gjorts i
+översättningarna till {0}"},{
+Key:1005950,Text:"Korrigeringar har gjorts i översättningarna till dessa språk: {0}"},{
+Key:1005951,Text:"Öppna guiden för import av språketiketter"},{
+Key:1005952,Text:"En nyare version av
+VideoPsalm är tillgängligt:"},{
+Key:1005953,Text:"Visa nyheter"},{
+Key:1005954,Text:"Automatisk"},{
+Key:1005955,Text:"Utforska det markerade biblioteket"},{
+Key:1005956,Text:"Välj ett bibliotek"},{
+Key:1005957,Text:"Visar de senaste använda bibioteken"},{
+Key:1005958,Text:"Backup"},{
+Key:1005959,Text:"Kan spara dina sångböcker, biblar, bilder eller videor, eller göra en bärbar version av VideoPsalm, till exempel på ett USB-minne."},{
+Key:1005960,Text:"&Återställ..."},{
+Key:1005961,Text:"VideoPsalm klaradeinte att visa PowerPoint-dokumentet.
+
+(Inget PowerPoint-program hittades på din PC)."},{
+Key:1005962,Text:"PowerPoint-fel"},{
+Key:1005963,Text:"Gör {0} redigerbar i sångboken \"{1}\"."},{
+Key:1005964,Text:"Gör {0} redigerbar i sångboken..."},{
+Key:1005965,Text:"Gör {0} redigerbar i den nya sångboken \"{1}\"."},{
+Key:1005966,Text:"Bibelverser"},{
+Key:1005967,Text:"Personifierade bibelverser"},{
+Key:1005968,Text:"&Beskrivning:"},{
+Key:1005969,Text:"&Språk:"},{
+Key:1005970,Text:"&Utgivare:"},{
+Key:1005971,Text:"&Administratör:"},{
+Key:1005973,Text:"&Administratör:"},{
+Key:1005974,Text:"Ovanför texten"},{
+Key:1005975,Text:"Ackord ovanför texten"},{
+Key:1005976,Text:"Detta är det rekommenderade läget att redigera texterna.
+När du redigerar text, flyttar varje ackord med bokstaven där den är förankrad.
+
+När du <b>kopiar text som innehåller ackord</b>,  kopieras ackorden med texten, i formatet ChordPro.
+
+När du klistrar in text som innehåller ackord i formatet ChordPro, visar VideoPsalm dessa ackord ovanför texten.
+
+<b>Lägga till ett ackord</b>, infoga ackordet vänster om det tecken som du vill förankra den till, och omge det med hakparenteser <b>[]</b>.
+
+<b>Ta bort ett ackord</b>, ta bort den bokstav som den är förankrad till och skriv sedan bokstaven igen.
+
+<b>Att ändra ett ackord</b>, ta bort det först och skriv sedan in det korrekt (eller använd \" <b>ChordPro-format</b> \"-läge)."},{
+Key:1005977,Text:"ChordPro-format"},{
+Key:1005978,Text:"Ackordl i ChordPro-format"},{
+Key:1005979,Text:"I det här läget:
+
+-VideoPsalm visar texter och ackord med <b>ChordPro format</b>.
+
+-Det är den idealiska läget för redigering ackord: VideoPsalm lägger automatiskt till hakparenteser [] runt texten som du anger.
+Till exempel för att lägga till ett C-ackord, skriv «C» och VideoPsalm infogar \"[C]\".
+
+Obs: detta läge är inte lämplig för att redigera texter, eftersom VideoPsalm kommer att omge bokstäverna med [].
+Använd istället \"<b>ovanför texten</b>\"-läget för att redigera texten."},{
+Key:1005980,Text:"Ackord"},{
+Key:1005981,Text:"Kopiera"},{
+Key:1005982,Text:"Kopierar en beskrivning av agendan och placera den i Urklipp."},{
+Key:1005983,Text:"&Tillåt PowerPoint att du använder sitt \"visa-fönster\"."},{
+Key:1005984,Text:"När denna ruta är markerad, låter VideoPsalm PowerPoint visa sin kontrollpanel."},{
+Key:1005985,Text:"Spela till slut"},{
+Key:1005986,Text:"Loop"},{
+Key:1005987,Text:"Gå framåt manuellt"},{
+Key:1005988,Text:"&Vad händer sedan..."},{
+Key:1005989,Text:"&Timer..."},{
+Key:1005990,Text:"Växla framåt manuellt"},{
+Key:1005991,Text:"&Loop"},{
+Key:1005992,Text:"Spela till slut"},{
+Key:1005993,Text:"&Tidsintervall (sekunder):"},{
+Key:1005994,Text:"&Göm texten och stäng därefter av"},{
+Key:1005995,Text:"Fortsätt med nästa punkt på agendan"},{
+Key:1005996,Text:"Stäng av, därefter fortsätt"},{
+Key:1005997,Text:"Dölj texten, fortsätt därefter"},{
+Key:1005998,Text:"&Visa tillsammans med nästa punkt (tvåspråkig)"},{
+Key:1005999,Text:"&Utforska"},{
+Key:1006000,Text:"Importguiden"},{
+Key:1006001,Text:"Välkommen till import av sångböcker, biblar, bilder och videor."},{
+Key:1006002,Text:"Den här steg-för-steg-guiden förenklar import av sångböcker, biblar, bilder och videor från VideoPsalms online-bibliotek  eller andra populära format."},{
+Key:1006003,Text:"Klicka på Nästa för att fortsätta"},{
+Key:1006004,Text:"&Välj..."},{
+Key:1006005,Text:"&Nästa >"},{
+Key:1006006,Text:"< &Tidigare"},{
+Key:1006007,Text:"&Hjälp"},{
+Key:1006008,Text:"&Slutför"},{
+Key:1006009,Text:"Avbryt"},{
+Key:1006010,Text:"Du kan importera sångböcker, biblar, bilder, videor eller språk"},{
+Key:1006011,Text:"Välj vad du vill importera"},{
+Key:1006012,Text:"Importera en sångbok"},{
+Key:1006013,Text:"Importera en bibel"},{
+Key:1006014,Text:"Importera bilder"},{
+Key:1006015,Text:"Importera videor"},{
+Key:1006016,Text:"Importera ett språk"},{
+Key:1006020,Text:"Nollställ"},{
+Key:1006021,Text:"Nollställer biblioteket till ett standardvärde"},{
+Key:1006023,Text:"Sammanfattning innan importen"},{
+Key:1006024,Text:"Klicka Nästa för att starta importen"},{
+Key:1006025,Text:"Import pågår"},{
+Key:1006026,Text:"Importen är slutförd"},{
+Key:1006027,Text:"Klicka på Slutför för att stänga guiden,
+
+Klicka på Tillbaka om du vill importera en annan sångbok eller en annan bibel"},{
+Key:1006029,Text:"{0} sånger i {1} sångböcker har importerats."},{
+Key:1006030,Text:"{0} sånger har importerats in i den nya sångboken {1}."},{
+Key:1006031,Text:"Bibeln {0} är importerad."},{
+Key:1006032,Text:"{0} biblar är importerade."},{
+Key:1006033,Text:"Språket\"{0}\" är nu importerat."},{
+Key:1006034,Text:"{0} språk är importerat."},{
+Key:1006035,Text:"Vill du avbryta importen?"},{
+Key:1006036,Text:"Importen slutfördes inte korrekt."},{
+Key:1006037,Text:"Ange ett namn för denna nya sångbok"},{
+Key:1006038,Text:"Den nya sångboken kommer att sparas under detta namn. Detta namn kan ändras senare."},{
+Key:1006039,Text:"&Namn till sångboken:"},{
+Key:1006040,Text:"Ge ett namn till denna nya bibel"},{
+Key:1006041,Text:"Den nya bibeln kommer att sparas under detta namn. Detta namn kan ändras senare"},{
+Key:1006042,Text:"&Namn att ge till bibeln:"},{
+Key:1006051,Text:"Välj sångböcker"},{
+Key:1006052,Text:"Välj biblar"},{
+Key:1006053,Text:"Välj en fil"},{
+Key:1006054,Text:"Välj ett bibliotek"},{
+Key:1006055,Text:"&Fil:"},{
+Key:1006056,Text:"&Bibliotek"},{
+Key:1006057,Text:"Välj språk"},{
+Key:1006058,Text:"Biblioteket {0} finns inte."},{
+Key:1006060,Text:"Kan inte komma åt biblioteket \"{0}\".
+
+{1}"},{
+Key:1006061,Text:"Filen \"{0}\" finns inte."},{
+Key:1006062,Text:"Obs: Inläsning av många sångböcker kan fylla datorns minne och göra sökning av sånger långsam.
+Vill du verkligen hämta {0} sångböcker?"},{
+Key:1006063,Text:"Obs: Inläsning av många biblar kan fylla datorns minne.
+Vill du verkligen hämta {0} biblar?"},{
+Key:1006064,Text:"Det nya namnet kan inte vara tomt."},{
+Key:1006065,Text:"Det nya namnet får inte innehålla följande tecken: {0}"},{
+Key:1006066,Text:"Det finns redan en sångbok med namnet {0}."},{
+Key:1006067,Text:"Det finns redan en bibel med namnet {0}."},{
+Key:1006068,Text:"Du avbröt importen."},{
+Key:1006069,Text:"Kontrollera din Internetanslutning."},{
+Key:1006070,Text:"Tillgänglig från {0}"},{
+Key:1006071,Text:"Ny version tillgänglig sedan {0}"},{
+Key:1006072,Text:"Din nuvarande version är från {0}"},{
+Key:1006073,Text:"Din version från {0} är aktuell."},{
+Key:1006074,Text:"Titel"},{
+Key:1006075,Text:"Status"},{
+Key:1006076,Text:"Inte hämtat"},{
+Key:1006077,Text:"Uppdaterad"},{
+Key:1006078,Text:"Uppdatering tillgänglig"},{
+Key:1006079,Text:"Ny"},{
+Key:1006080,Text:"Ny uppdatering tillgänglig"},{
+Key:1006081,Text:"Ingen sångbok är markerad.
+Du måste välja minst en sångbok."},{
+Key:1006082,Text:"Ingen bibel är markerad.
+Du måste välja minst en bibel."},{
+Key:1006083,Text:"Inget språk har valts.
+Du måste välja minst ett språk."},{
+Key:1006084,Text:"Kod"},{
+Key:1006085,Text:"Källfil: <b>{0}</b>"},{
+Key:1006086,Text:"Källbibliotek:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokument att söka"},{
+Key:1006090,Text:"Namnet på den nya bibeln för VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Namnet att ge den nya videoPsalm-sångboken: <b>{0}</b>"},{
+Key:1006095,Text:"I VideoPsalms online-bibliotek händer det att dokument läggs till eller uppdateras (t.ex. att rätta ett stavfel).
+Du kan bestämma om du vill ladda ner dem eller inte.
+
+<b>Så här ser du skillnad på dokumenten i biblioteket:</b>
+-De dokument som du inte har hämtat visas i normal.
+-De dokument som du har laddat upp och är \"up-to-date\" visas i <i>kursiv stil</i>. De markeras också med ett OK <image=check_16>.
+Du behöver inte hämta dem igen, förutom i fall där du vill återställa alla ändringar du har gjort.
+-De dokument som du har hämtat, och som vi efteråt gjort rättelser i, visas i <b>fetstil</b>. De markeras också med en penna <image=pencil2_16>.
+
+Rutan till höger beskriver vilka korrigeringar som har gjorts i dokumentet: Detta kan hjälpa dig att avgöra om du vill hämta det igen eller inte.
+
+<b>Obs:</b> Om du uppdaterar ditt dokument genom att hämta det på nytt kommer du att förlora alla ändringar du har gjort, såväl som dess stil attribut eftersom VideoPsalm ersätter allt med den nya filen.
+Din egen filen tas inte bort, den finns kvar på disken men blir osynlig i VideoPsalm eftersom VideoPsalm döper om filtypen till .ignore.
+
+<b>Tips</b> : Hämta endast de dokument som du kommer att ha nytta av.
+Om du har alltför många dokument, blir starten av VideoPsalm kanske långsam, liksom sökning med nyckelord.
+
+Observera att du kan när som helst kan bort en sångbok eller en bibel från din VideoPsalm. För att göra detta, Använd knappen \" <image=delete2_16> Ta bort ' på fliken 'Édit'."},{
+Key:1006096,Text:"&Logg över ändringar i {0}."},{
+Key:1006100,Text:"VideoPsalms online- bibliotek av sångböcker (innehåller tusentals av sånger)"},{
+Key:1006105,Text:"EasySlides sånger"},{
+Key:1006110,Text:"MediaShout sånger"},{
+Key:1006115,Text:"OpenLP sånger"},{
+Key:1006116,Text:"VerseView sånger"},{
+Key:1006120,Text:"Sånger i formatet \"OpenLyrics\"."},{
+Key:1006125,Text:"OpenSong sånger"},{
+Key:1006130,Text:"Psalmo sångbok"},{
+Key:1006131,Text:"Sångbok i textformat"},{
+Key:1006132,Text:"EasyWorship 2009 sånger"},{
+Key:1006133,Text:" \"ChordPro\" sånger"},{
+Key:1006134,Text:"WebAsaph sånger"},{
+Key:1006135,Text:"Sånger i \"CCLI\"-format."},{
+Key:1006140,Text:"Biblar från VideoPsalms online-bibliotek (innehåller dussintals av biblar)"},{
+Key:1006145,Text:"\"BibleDatabase\" bibel"},{
+Key:1006150,Text:"OpenLP bibel"},{
+Key:1006155,Text:"OpenSong bibel"},{
+Key:1006160,Text:"\"Unbound Bible\" bilel"},{
+Key:1006165,Text:"\"Zefania\" bibel"},{
+Key:1006166,Text:" \"EasySlides\" bibel"},{
+Key:1006167,Text:"Bibel i \"Osis\"-format."},{
+Key:1006168,Text:"Bibelbocker i \"USFM\"-format (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Välj de sångböcker du vill importera"},{
+Key:1006185,Text:"Välj en  EasySlides-databas som innehåller de sånger du vill importera till din VideoPsalm (filtypen .mdb)"},{
+Key:1006190,Text:"Välj en MediaShout-databas som innehåller de sånger du vill importera till din VideoPsalm (filtypen .mdb)"},{
+Key:1006195,Text:"Välj en OpenLP-databas som innehåller de sånger du vill importera till din VideoPsalm (filtyp .sqlitel)"},{
+Key:1006196,Text:"Välj en VerseView-databas som innehåller de sånger du vill importera till din VideoPsalm (filtyp .db)"},{
+Key:1006200,Text:"Välj ett bibliotek som innehåller sånger i \"OpenLyrics\"-format som du vill importera till din VideoPsalm (filtyp .xml)"},{
+Key:1006205,Text:"Välj ett bibliotek som innehåller OpenSong-sånger som du vill importera till din VideoPsalm (filer utan filtyp)"},{
+Key:1006210,Text:"Välj en sångbok som är exporterad från Psalmo i RTF-format som du vill importera till din VideoPsalm (filtyp .rtf)"},{
+Key:1006211,Text:"Välj en sångbok i textformat som du vill importera till din VideoPsalm (filtyp .txt)"},{
+Key:1006212,Text:"Välj en \"EasyWorship 2009\"-databas som innehåller de sånger du vill importera till din VideoPsalm (filtyp .db)"},{
+Key:1006213,Text:"Välj ett bibliotek som innehåller sånger i ChordPro-format som du vill importera till din VideoPsalm (filtypen kan vara .chordpro, .chopro, .crd eller .cho)"},{
+Key:1006214,Text:"Välj en \"WebAsaph\"-databas som innehåller de sånger som du vill importera till din VideoPsalm (filtyp .ltc)"},{
+Key:1006215,Text:"Välj ett bibliotek som innehåller sånger i CCLI-format som du vill importera till din VideoPsalm (filtyp .usr)"},{
+Key:1006220,Text:"Välj de biblar du vill importera"},{
+Key:1006225,Text:"Välj den \"BibleDatabase\"-bibel du vill importera till din VideoPsalm (filtyp .txt)"},{
+Key:1006230,Text:"Välj en bibel i OpenLP-format du vill importera till din VideoPsalm (filtyp .sqlite)"},{
+Key:1006235,Text:"Välj en bibel i OpenSong-format som du vill importera till din VideoPsalm (fil utan filtyp)"},{
+Key:1006240,Text:"Välj en \"UnboundBible\"-bibel som du vill importera till din VideoPsalm (filtyp .txt)"},{
+Key:1006245,Text:"Välj en \"Zefania\"-bibel som du vill importera till din VideoPsalm (filtyp .xml)"},{
+Key:1006247,Text:"Välj en bibel i \"EasySlides\"-format du vill importera till din VideoPsalm (filtyp .mdb)"},{
+Key:1006248,Text:"Välj en bibel i \"Osis\"-format att importera till din VideoPsalm (filtypen kan vara .xml, .osi eller .osis)"},{
+Key:1006249,Text:"Välj bibelböcker \"USFM\"-format att importera till din VideoPsalm (filtyp kan vara .sfm eller .usfm)"},{
+Key:1006252,Text:"Välj det språk du önskar importera till VideoPsalm"},{
+Key:1006255,Text:"Importera <b>{0} sångböcker från VideoPsalm online bibliotek</b> :
+{1}"},{
+Key:1006260,Text:"Importera <b>EasySlides sånger</b>"},{
+Key:1006265,Text:"Importera <b> MediaShout-sånger</b>"},{
+Key:1006270,Text:"Importera <b>OpenLP-sånger</b>"},{
+Key:1006271,Text:"Importera <b>VerseView-sånger</b>"},{
+Key:1006275,Text:"Importera <b>OpenLyrics-sånger</b>"},{
+Key:1006280,Text:"Importera <b>OpenSong-sånger</b>"},{
+Key:1006285,Text:"Importera <b> Psalmo-sångbok</b>"},{
+Key:1006286,Text:"Importera <b>sångbok i textformat</b>"},{
+Key:1006287,Text:"<b>Importera \"EasyWorship 2009\"-sånger</b>"},{
+Key:1006288,Text:"Importera <b>ChordPro-sånger</b>"},{
+Key:1006289,Text:"Importera <b>WebAsaph-sånger</b>"},{
+Key:1006290,Text:"Importera <b>CCLI-sånger</b>"},{
+Key:1006295,Text:"Importera <b>{0} biblar frånVideoPsalm online-bibliotek</b>:
+{1}"},{
+Key:1006300,Text:"Importera en <b>BibleDatabase-bibel</b>"},{
+Key:1006305,Text:"Importera en <b>OpenLP-bibel</b>"},{
+Key:1006310,Text:"Importera en <b> OpenSong-bibel</b>"},{
+Key:1006315,Text:"Importera en <b>UnboundBible-bibel</b>"},{
+Key:1006320,Text:"Importera en <b>Zefania-bibel</b>"},{
+Key:1006321,Text:"Importera en <b>EasySlides-bibel</b>"},{
+Key:1006322,Text:"Importera en <b> \"OSIS\"-bibel</b>"},{
+Key:1006323,Text:"Importera en <b>\"USFM\"-bibel</b>"},{
+Key:1006325,Text:"Importera <b>{0} språk från VideoPsalms online-bibliotek</b> :
+{1}"},{
+Key:1006340,Text:"Välj en EasySlide-databas"},{
+Key:1006345,Text:"Välj en MediaShout-databas"},{
+Key:1006350,Text:"Välj en OpenLP-databas"},{
+Key:1006351,Text:"Välj en  VerseView-databas"},{
+Key:1006355,Text:"Välj ett bibliotek som innehåller OpenLyrics-sånger"},{
+Key:1006360,Text:"Välj ett bibliotek som innehåller OpenSong-sånger"},{
+Key:1006365,Text:"Välj en RTF-fil som innehåller exporterade Psalmo-sånger"},{
+Key:1006366,Text:"Välj en fil som innehåller sånger i textformat"},{
+Key:1006367,Text:"Välj en \"EasyWorship 2009\"-databas"},{
+Key:1006368,Text:"Välj ett bibliotek som innehåller sånger i \"ChordPro\"-format."},{
+Key:1006369,Text:"Välj en WebAsaph-databas"},{
+Key:1006370,Text:"Välj ett biblioteksom innehåller sånger i CCLI-format."},{
+Key:1006375,Text:"Välj en BibleDatabase-bibel"},{
+Key:1006380,Text:"Välj en OpenLP-bibel"},{
+Key:1006385,Text:"Välj en OpenSong-bibel"},{
+Key:1006390,Text:"Välj en \"UnboundBible\"-bibel"},{
+Key:1006395,Text:"Välj en Zefania-bibel"},{
+Key:1006397,Text:"Välj en EasySlides-bibel"},{
+Key:1006398,Text:"Välj en \"Osis\"-bibel"},{
+Key:1006399,Text:"Välj bibelböcker i formatet \"USFM\"."},{
+Key:1006405,Text:"EasySlide-databas"},{
+Key:1006410,Text:"MediaShout 4 -databas"},{
+Key:1006411,Text:"MediaShout 3 -databas"},{
+Key:1006415,Text:"OpenLP-databas"},{
+Key:1006416,Text:"\"EasyWorship 2009\"-databas"},{
+Key:1006417,Text:"VerseView-databas"},{
+Key:1006420,Text:"Mappen {0}.
+innehåller inga sånger formatet \"OpenLyrics\" (filtyp xml)."},{
+Key:1006425,Text:"Mappen {0}.
+innehåller inga sånger i OpenSong-format (sånger av OpenSong är filer utan filtyp)."},{
+Key:1006430,Text:"Sånger som exporterats från Psalmo"},{
+Key:1006431,Text:"Sånger i textformat"},{
+Key:1006432,Text:"Mappen {0}.
+innehåller inga sånger i \"ChordPro\"-format (filtypen kan vara chopro/chordpro, crd och cho)."},{
+Key:1006433,Text:"WebAsaph-databas"},{
+Key:1006434,Text:"Mappen \"{0}\"
+ innehåller inga sånger i CCLI-format (filtyp .usr)."},{
+Key:1006440,Text:"BibleDatabase-biblar"},{
+Key:1006445,Text:"OpenLP-biblar"},{
+Key:1006450,Text:"OpenSong-biblar"},{
+Key:1006455,Text:"\"UnboundBible\"-biblar"},{
+Key:1006460,Text:"Zefania-biblar"},{
+Key:1006462,Text:"EasySlides-biblar"},{
+Key:1006463,Text:"\"Osis\"-biblar"},{
+Key:1006464,Text:"Bibelböcker i formatet \"USFM\""},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"KJV"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Jag älskar Herren 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Mina sånger.txt"},{
+Key:1006508,Text:"KJV.mdb"},{
+Key:1006509,Text:"Jag älskar Herren"},{
+Key:1006510,Text:"MSAccess databaser"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.sfm"},{
+Key:1006515,Text:"Alla filer"},{
+Key:1006520,Text:"Sqlite databaser"},{
+Key:1006525,Text:"Paradox-databasen"},{
+Key:1006526,Text:"WebAsaph-databaser"},{
+Key:1006600,Text:"Välj VideoPsalms online-bibliotek eller en annan källa"},{
+Key:1006601,Text:"VideoPsalms online-bibliotek innehåller många sångböcker på flera språk"},{
+Key:1006602,Text:"VideoPsalms online-bibliotek (Internetanslutning krävs under import)"},{
+Key:1006603,Text:"Sånger från en fil på din dator. Filen kan vara ett av de många format som VideoPsalm kan importera från."},{
+Key:1006604,Text:"Välj VideoPsalms online-bibliotek eller en annan källa"},{
+Key:1006605,Text:"VideoPsalms online-bibliotek innehåller många översättningar av Bibeln på olika språk"},{
+Key:1006606,Text:"VideoPsalms online-bibliotek (Internetanslutning krävs under import)"},{
+Key:1006607,Text:"Import av en bibel från en fil på din dator. Filen skall vara i ett av de många format som VideoPsalm kan importera från."},{
+Key:1006608,Text:"Vilket är käll-formatet på de sånger du vill importera?"},{
+Key:1006609,Text:"Vilket käll-format har filen med bibeln du vill importera?"},{
+Key:1006610,Text:"Du kan importera en bibel som finns lagrad på din dator till din VideoPsalm. Programmet hanterar ett antal populära format."},{
+Key:1006611,Text:"Du kan importera sånger från många populära format som finns lagrade i din dator till din VideoPsalm."},{
+Key:1007000,Text:"Backup"},{
+Key:1007001,Text:"Vill du starta backup av VideoPsalm ibiblioteket
+\"{0}\" ?"},{
+Key:1007004,Text:"Kan inte utföra backup i det markerade biblioteket,
+eftersom det ligger i den VideoPsalms eget dokumentbibliotek
+({0})."},{
+Key:1007005,Text:"Det finns inte tillräckligt med utrymme på enheten {0}.
+Det bör finnas {1: #, #. #} MB, och det finns bara {2: #, #. #} MB tillgängligt."},{
+Key:1007006,Text:"Kunde inte slutföra säkerhetskopieringen:
+
+{0}"},{
+Key:1007007,Text:"Det gick inte att hämta Microsoft .NET Framework 4.0:
+
+{0}
+
+Detta kan bero på avsaknad av Internet-anslutning.
+Säkerhetskopieringen fortsätter normalt,
+men du kommer inte att kunna installera Microsoft .NET Framework 4.0 från säkerhetskopian."},{
+Key:1007008,Text:"otillgänglig {0}"},{
+Key:1007009,Text:"Påminnelse: Backup kunde inte kopiera
+installationsfilen av Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Säkerhetskopieringen slutfördes korrekt."},{
+Key:1007011,Text:"Vill du avbryta säkerhetskopieringen?"},{
+Key:1007030,Text:"Välj ett bibliotek eller skapa ett nytt där du vill placera en säkerhetskopia av VideoPsalm"},{
+Key:1007031,Text:"Backup kopierar dina dokument (sångböcker, biblar, bilder, videor, stilar) till den plats som du anger, till exempel:
+-ett USB-minne
+-en extern hårddisk,
+-en nätverksmapp,
+-etc.
+
+<b>Backup-funktionen kan användas till:</b>
+-att säkra dina dokument genom att duplicera dem på ett annat medium,
+-att bygga en bärbar version av VideoPsalm, till exempel på ett USB-minne,
+-enkelt överföra dina dokument till en annan dator med funktionen återställning,
+-att kopiera dina dokument för flera konfigurationer av samlingar med sina stilar på samma dator.
+
+<b>Obs:</b> För att synkronisera VideoPsalm mellan flera datorer kan du välja en mer direkt synkronisering som SkyDrive eller DropBox."},{
+Key:1007032,Text:"Markera de dokument du vill säkerhetskopiera:"},{
+Key:1007033,Text:"&Sångböcker"},{
+Key:1007034,Text:"&Biblar"},{
+Key:1007035,Text:"&Bilder"},{
+Key:1007036,Text:"&Videor"},{
+Key:1007037,Text:"&Spara dina dokument på:"},{
+Key:1007038,Text:"Ange det bibliotek där du vill att VideoPsalm skall spara sina filer.
+
+Till exempel: «E:\\Min VideoPsalm backup.
+
+Om mappen inte finns skapas den automatiskt när säkerhetskopian görs."},{
+Key:1007039,Text:"&Skapa en bärbar VideoPsalm-applikation"},{
+Key:1007040,Text:"Lägger till alla nödvändiga programfiler för VideoPsalm i säkerhetskopieringsbiblioteket.
+
+Vanligtvis används detta för att göra en körbar kopia av VideoPsalm på ett USB-minne.
+
+En sådan USB-kopia låter dig köra VideoPsalm på vilken PC som helst utan att programmet måste installeras. 
+
+När du startar VideoPsalm från USB-minnet har du tillgång till alla funktioner i VideoPsalm, inklusive backup. Detta gör det möjligt för att spara VideoPsalm på hårddisken på den andra datorn, och därefter köra det - utan USB-minnet.
+
+<b>Viktigt</b>
+VideoPsalms insällningar läggs inte med i säkerhetskopieringen.
+Första gången du kör VideoPsalm på en ny dator kan du behöva göra de inställningar du önskar, till exempel licensupplysningar för kyrkan."},{
+Key:1007041,Text:"&Lägg till Microsoft .NET Framework 4.0 installationsprogram"},{
+Key:1007042,Text:"VideoPsalm fungerar inte utan Microsoft .NET Framework 4.0. Nyare datorer har ofta .NET 4.0, eller senare, förinstallerat. Om du inte är säker på att detta gäller på den PC där säkerhetskopian skall installeras, ska du kryssa i  
+rutan \"Lägg till installationen av .NET Framework 4.0. VideoPsalm kommer då att placera en kopia av installationen av .NET Framework 4.0 på USB-minnet (en internet-anslutning kan krävas att detta).
+
+Från USB-minnet kan du enkelt installera .NET Framework 4.0 på den andra datorn innan du börjar VideoPsalm. Installation av .NET Framework 4.0 är mycket snabb och startar normalt inte om Windows.
+
+Du hittar installtionsfilen för .NET Framework 4.0-fil i backup-biblioteket. Filen heter \"dotNetFx40_Full_x86_x64.exe. För att starta installationen av .NET Framework 4.0 på en annan dator, dubbelklicka på denna fil."},{
+Key:1007043,Text:"&Starta backup"},{
+Key:1007044,Text:"Ladda ner Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"&VideoPsalms dokument-bibliotek (biblioteket som det tas backup av):"},{
+Key:1007046,Text:"Låt sångböcker i backup-biblioteket ligga kvar och lägg till mina."},{
+Key:1007047,Text:"Ta bort sångböcker i backup-biblioteket innan säkerhetskopieringen"},{
+Key:1007048,Text:"Lämna biblar kvar i backup-biblioteket, och lägg till mina."},{
+Key:1007049,Text:"Ta bort biblar från backup-biblioteket innan säkerhetskopieringen"},{
+Key:1007050,Text:"Låt bilder ligga kvar i backup-biblioteket och lägg till mina."},{
+Key:1007051,Text:"Tag bort bilder från backup-biblioteket innan säkerhetskopieringen."},{
+Key:1007052,Text:"Låt videor ligga kvar i backup-biblioteket och lägg till mina."},{
+Key:1007053,Text:"Tag bort videor från backup-biblioteket innan säkerhetskopieringen."},{
+Key:1007054,Text:"Välj ett bibliotek eller skapa ett nytt där du vill spara säkerhetskopian av VideoPsalm"},{
+Key:1007055,Text:"Låt ljudfiler ligga kvar i backup-biblioteket och lägg till mina."},{
+Key:1007056,Text:"Tag bort ljudfiler från backup-biblioteket innan säkerhetskopieringen."},{
+Key:1007057,Text:"&Ljudfiler"},{
+Key:1008000,Text:"Återställa en säkerhetskopia"},{
+Key:1008001,Text:"Vill du återställa en säkerhetskopia av VideoPsalm från biblioteket
+\" {0} \"?
+
+Obs: Beroende på vilka alternativ du valt kommer dina befintliga dokument att ersättas eller tas bort."},{
+Key:1008002,Text:"Ange biblioteket som innehållern säkerhetskopian du vill återställa."},{
+Key:1008004,Text:"Det gick inte att återställa en säkerhetskopia från det bibliotek du valt eftersom det ligger i VideoPsalms eget dokumentbibliotek."},{
+Key:1008006,Text:"Det gick inte att slutföra återställningen:
+
+{0}"},{
+Key:1008010,Text:"Återställningen genomfördes korrekt"},{
+Key:1008011,Text:"Vill du avbryta återställningen?"},{
+Key:1008012,Text:"Återställa en säkerhetskopia"},{
+Key:1008032,Text:"Markera de dokument du vill återställa:"},{
+Key:1008033,Text:"&Sångböcker"},{
+Key:1008034,Text:"&Biblar"},{
+Key:1008035,Text:"&Bilder"},{
+Key:1008036,Text:"&Videor"},{
+Key:1008043,Text:"&Återställ"},{
+Key:1008044,Text:"Behåll mina sångböcker och lägg till de från säkerhetskopian"},{
+Key:1008045,Text:"Ta bort mina sångböcker innan du återställer från en säkerhetskopia"},{
+Key:1008046,Text:"Behåll mina biblar innan du återställer från en säkerhetskopia"},{
+Key:1008047,Text:"Ta bort mina biblar innan du återställer från en säkerhetskopia"},{
+Key:1008048,Text:"Behåll mina bilder innan du återställer från en säkerhetskopia"},{
+Key:1008049,Text:"Ta bort mina bilder innan du återställer från en säkerhetskopia"},{
+Key:1008050,Text:"Behåll mina videor innan du återställer från en säkerhetskopia"},{
+Key:1008051,Text:"Ta bort mina videor innan du återställer från en säkerhetskopia"},{
+Key:1008052,Text:"&Återställ en säkerhetskopia från:"},{
+Key:1008053,Text:"Här anger du biblioteket från vilken VideoPsalm-dokumenten kommer att återställas.
+
+Exempel: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"VideoPsalms dokument-bibliotek (det bibliotek dit säkerhetskopian ska återställas):"},{
+Key:1008055,Text:"Uppdatera"},{
+Key:1008056,Text:"Välj ett bibliotek som innehåller en säkerhetskopia av VideoPsalm"},{
+Key:1008057,Text:"&Ljudfiler"},{
+Key:1008058,Text:"Behåll mina ljudfiler innan du återställer från en säkerhetskopia"},{
+Key:1008059,Text:"Ta bort mina ljudfiler innan återställning från en säkerhetskopia"},{
+Key:1008999,Text:"Videoprojektor"},{
+Key:1009000,Text:"en sång"},{
+Key:1009001,Text:"{0} sånger"},{
+Key:1009002,Text:"en lista över bibelverser"},{
+Key:1009003,Text:"{0} listor med bibelverser"},{
+Key:1009004,Text:"en bild"},{
+Key:1009005,Text:"{0} bilder"},{
+Key:1009006,Text:"Bibeln {0}."},{
+Key:1009007,Text:"Kapitel {0}"},{
+Key:1009009,Text:"{0} biblar"},{
+Key:1009010,Text:"Bild: \"{0}\"."},{
+Key:1009011,Text:"{0} ({1} bilder)"},{
+Key:1009012,Text:"{0} bilder"},{
+Key:1009013,Text:"{0} ({1} bilder)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Läser in standardstilen"},{
+Key:1009016,Text:"Läser in sångbok-stilen"},{
+Key:1009017,Text:"Läser in sångboken {0}."},{
+Key:1009018,Text:"Läser in bibel-stilen"},{
+Key:1009019,Text:"Läser in bibeln {0}."},{
+Key:1009020,Text:"Biblioteket: {0}"},{
+Key:1009100,Text:"{0} ({1} sånger)"},{
+Key:1009101,Text:"{0} (en enda sång)"},{
+Key:1009102,Text:"{0} (ingen sång)"},{
+Key:1009103,Text:"Det finns redan en fil \"{0}\".
+där VideoPsalm skulle spara den nya sångboken {1}.
+
+Det är omöjligt att spara denna nya sångbok.
+Ge sångboken en förkortning eller ett unikt namn och försök spara igen."},{
+Key:1009104,Text:"Lagringen misslyckades"},{
+Key:1009105,Text:"Det går inte att flytta filen
+{0}
+till
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} sångböcker"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} bibelverser)"},{
+Key:1009111,Text:"Video: \"{0}\"."},{
+Key:1009112,Text:"{0} ({1} videor)"},{
+Key:1009113,Text:"{0} videor"},{
+Key:1009114,Text:"Det gick inte att spara.
+Ge ett namn till sångboken så att den kan sparas."},{
+Key:1010000,Text:"Visa fler färger"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Stäng"},{
+Key:1010003,Text:"&Transparent"},{
+Key:1010004,Text:"Avbryt"},{
+Key:1010005,Text:"OK"},{
+Key:1010006,Text:"Visa färre färger"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"G"},{
+Key:1010010,Text:"B"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Stäng utan att infoga fältet"},{
+Key:1011001,Text:"Sångbokens förkortning"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Sångens författare"},{
+Key:1011004,Text:"Sångbokens författare"},{
+Key:1011005,Text:"Capo"},{
+Key:1011006,Text:"Key"},{
+Key:1011007,Text:"Kompositör"},{
+Key:1011008,Text:"Sångens copyright"},{
+Key:1011009,Text:"Sångbokens copyright"},{
+Key:1011010,Text:"Versens etikett"},{
+Key:1011011,Text:"Versens etikett och nummer"},{
+Key:1011012,Text:"Format"},{
+Key:1011013,Text:"Kyrkans licens"},{
+Key:1011014,Text:"Key line"},{
+Key:1011015,Text:"Memo 1"},{
+Key:1011016,Text:"Memo 2"},{
+Key:1011017,Text:"Memo 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Versens placering"},{
+Key:1011020,Text:"Versnummer"},{
+Key:1011021,Text:"Sångnummer"},{
+Key:1011022,Text:"Versnotering"},{
+Key:1011023,Text:"Antal sånger i sångboken"},{
+Key:1011024,Text:"Antal verser"},{
+Key:1011025,Text:"Referens"},{
+Key:1011026,Text:"Versordning"},{
+Key:1011027,Text:"Signatur"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Sångtitel"},{
+Key:1011031,Text:"Sångbokens titel"},{
+Key:1011032,Text:"Tone"},{
+Key:1011033,Text:"3. Ta bort alla fält"},{
+Key:1011034,Text:"2. Använd standard fält"},{
+Key:1011035,Text:"Administratör"},{
+Key:1011036,Text:"Språk"},{
+Key:1011037,Text:"Utgivare"},{
+Key:1011038,Text:"Transponering"},{
+Key:1011101,Text:"Förkortning av bibelutgåvan"},{
+Key:1011102,Text:"Förkortning av Bibelboken"},{
+Key:1011103,Text:"Kapitel"},{
+Key:1011104,Text:"Copyright"},{
+Key:1011105,Text:"Beskrivning av bibeln"},{
+Key:1011107,Text:"Utgivare"},{
+Key:1011108,Text:"Språk"},{
+Key:1011109,Text:"Namnet på Bibeln"},{
+Key:1011110,Text:"Namnet på bibelboken"},{
+Key:1011111,Text:"Antal kapitel"},{
+Key:1011112,Text:"Antal verser"},{
+Key:1011113,Text:"Testamente"},{
+Key:1011114,Text:"Vers"},{
+Key:1011115,Text:"Administratören av bibeln"},{
+Key:1011200,Text:"&Infoga ett fält:"},{
+Key:1011201,Text:"Formatera texten som visas i sidhuvudet eller sidfoten till versen"},{
+Key:1011202,Text:"Ange den text som ska visas.
+Denna text är fri och består i allmänhet av en serie fördefinierade fält.
+
+Exempel på fördefinierade fält för en sång:
+- Titeln på sången: <b>[lSångens titel]</b>
+- Sångens nummer: <b>[Sångnummer]</b>
+- Sångbokens titel: <b>[Sångbokens titel]</b>
+- Sångbokens förkortning: <b>[Sångbokens förkortning]</b>
+-etc.
+
+För en bibelvers:
+- Bibelns namn: <b>[Namn på bibeln]</b>
+- Bibelnbokens namn: <b>[Namn på bibelboken]</b>
+- Kapitel: <b>[Kapitel]</b>
+- Versen: <b>[Vers]</b>
+För full referens skriver du:
+  <b>[Namn på bibelboken] [kapitel]: [Vers]</b>
+- Namnet på Bibeln: <b>[Namn på Bibeln]</b>
+-etc.
+
+Vid visning ersätter VideoPsalm de fördefinierat fälten med deras värde. 
+
+De fördefinierade fälten skall omges av hakparenteser <b>[]</b>. De måste anges exakt även med små och stora bokstäver.
+
+<b>För att enkelt infoga ett fördefinierat fält, använd scroll-listan \"Infoga ett fält\".</b>
+
+Formatet kan innehålla flera rader.
+
+Om du vill återställa dess ursprungliga format, ta bort det helt (Ctrl + A, Ta bort)."},{
+Key:1011203,Text:"Lista över fördefinierade fält"},{
+Key:1011204,Text:"Om du vill infoga ett fördefinierat fält, markerar du det i listan.
+
+Fältet infogas automatiskt i texten ovan, vid insättningspunkten."},{
+Key:1012000,Text:"Filen {0} finns redan.
+
+Vill du ersätta den?"},{
+Key:1012001,Text:"Befintlig fil"},{
+Key:1013000,Text:"Dölj förhandsgranskning"},{
+Key:1013001,Text:"Visa förhandsgranskning"},{
+Key:1013002,Text:"Förstora proportionellt för att fylla skärmen"},{
+Key:1013003,Text:"Minska videostorleken så att den får plats på skärmen"},{
+Key:1013004,Text:"Inaktivera upprepning"},{
+Key:1013005,Text:"Aktivera upprepning"},{
+Key:1013006,Text:"Börja från början"},{
+Key:1013007,Text:"Pause"},{
+Key:1013008,Text:"Spela"},{
+Key:1013009,Text:"Gå till slutet"},{
+Key:1013010,Text:"Ljud"},{
+Key:1013011,Text:"Mute"},{
+Key:1013012,Text:"Volym"},{
+Key:1013013,Text:"Spår"},{
+Key:1013014,Text:"Globalt definiera gränserna för video"},{
+Key:1013015,Text:"Definiera gränserna för video för varje strof"},{
+Key:1013016,Text:"Förfluten tid"},{
+Key:1013017,Text:"Total tid"},{
+Key:1013018,Text:"Återstående tid"},{
+Key:1013019,Text:"Klicka för att visa ett annat värde"},{
+Key:1018000,Text:"m"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minut"},{
+Key:1018003,Text:"minuter"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"timme"},{
+Key:1018006,Text:"timmar"},{
+Key:1018007,Text:"d"},{
+Key:1018008,Text:"dag"},{
+Key:1018009,Text:"dagar"},{
+Key:1018010,Text:"v"},{
+Key:1018011,Text:"vecka"},{
+Key:1018012,Text:"veckor"},{
+Key:1018013,Text:"månad"},{
+Key:1018014,Text:"månader"},{
+Key:1018015,Text:"år"},{
+Key:1018016,Text:"år"},{
+Key:1019000,Text:"Stäng"},{
+Key:1019001,Text:"Minska"},{
+Key:1019002,Text:"Förstora"},{
+Key:1019003,Text:"Lägre nivå"},{
+Key:1019004,Text:"Hjälp"},{
+Key:1019100,Text:"&Sök"},{
+Key:1019101,Text:"&Ta bort"},{
+Key:1019301,Text:"&OK"},{
+Key:1019302,Text:"&Avbryt"},{
+Key:1019303,Text:"&Ja"},{
+Key:1019304,Text:"&Nej"},{
+Key:1019305,Text:"&Avbryt"},{
+Key:1019306,Text:"&Försök igen"},{
+Key:1019307,Text:"&Ignorera"},{
+Key:1019308,Text:"&Ångra"},{
+Key:1019309,Text:"&Klipp ut"},{
+Key:1019310,Text:"&Kopiera"},{
+Key:1019311,Text:"&Klistra in"},{
+Key:1019312,Text:"&Ta bort"},{
+Key:1019313,Text:"&Markera alla"},{
+Key:1020000,Text:"Första Mosebok"},{
+Key:1020001,Text:"Andra Mosebok"},{
+Key:1020002,Text:"Tredje Mosebok"},{
+Key:1020003,Text:"Fjärde Mosebok"},{
+Key:1020004,Text:"Femte Mosebok"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Domarboken"},{
+Key:1020007,Text:"Rut"},{
+Key:1020008,Text:"Första Samuelsboken"},{
+Key:1020009,Text:"Andra Samuelsboken"},{
+Key:1020010,Text:"Första Kungaboken"},{
+Key:1020011,Text:"Andra Kungaboken"},{
+Key:1020012,Text:"Första Krönikeboken"},{
+Key:1020013,Text:"Andra Krönikeboken"},{
+Key:1020014,Text:"Esra"},{
+Key:1020015,Text:"Nehemja"},{
+Key:1020016,Text:"Ester"},{
+Key:1020017,Text:"Job"},{
+Key:1020018,Text:"Psaltaren"},{
+Key:1020019,Text:"Ordspråksboken"},{
+Key:1020020,Text:"Predikaren"},{
+Key:1020021,Text:"Höga Visan"},{
+Key:1020022,Text:"Jesaja"},{
+Key:1020023,Text:"Jeremia"},{
+Key:1020024,Text:"Klagovisorna"},{
+Key:1020025,Text:"Hesekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadja"},{
+Key:1020031,Text:"Jona"},{
+Key:1020032,Text:"Mika"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habackuk"},{
+Key:1020035,Text:"Sefanja"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Sakarja"},{
+Key:1020038,Text:"Malaki"},{
+Key:1020039,Text:"Matteus"},{
+Key:1020040,Text:"Markus"},{
+Key:1020041,Text:"Lukas"},{
+Key:1020042,Text:"Johannes"},{
+Key:1020043,Text:"Apostlagärningarna"},{
+Key:1020044,Text:"Romarbrevet"},{
+Key:1020045,Text:"Första Korintierbrevet"},{
+Key:1020046,Text:"Andra Korintierbrevet"},{
+Key:1020047,Text:"Galaterbrevet"},{
+Key:1020048,Text:"Efesierbrevet"},{
+Key:1020049,Text:"Filipperbrevet"},{
+Key:1020050,Text:"Kolosserbrevet"},{
+Key:1020051,Text:"Första Tessalonikerbrevet"},{
+Key:1020052,Text:"Andra Tessalonikerbrevet"},{
+Key:1020053,Text:"Första Timotesbrevet"},{
+Key:1020054,Text:"Andra Timoteusbrevet"},{
+Key:1020055,Text:"Titus"},{
+Key:1020056,Text:"Filemon"},{
+Key:1020057,Text:"Hebreerbrevet"},{
+Key:1020058,Text:"Jakobs brev"},{
+Key:1020059,Text:"Första Petrusbrevet"},{
+Key:1020060,Text:"Andra Petrusbrevet"},{
+Key:1020061,Text:"Första Johannesbrevet"},{
+Key:1020062,Text:"Andra Johannesbrevet"},{
+Key:1020063,Text:"Tredje Johannesbrevet"},{
+Key:1020064,Text:"Judas brev"},{
+Key:1020065,Text:"Uppenbarelseboken"},{
+Key:1020100,Text:"1 Mos"},{
+Key:1020101,Text:"2 Mos"},{
+Key:1020102,Text:"3 Mos"},{
+Key:1020103,Text:"4 Mos"},{
+Key:1020104,Text:"5 Mos"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"Dom"},{
+Key:1020107,Text:"Rut"},{
+Key:1020108,Text:"1 Sam"},{
+Key:1020109,Text:"2 Sam"},{
+Key:1020110,Text:"1 Kung"},{
+Key:1020111,Text:"2 Kung"},{
+Key:1020112,Text:"1 Krön"},{
+Key:1020113,Text:"2 Krön"},{
+Key:1020114,Text:"Esra"},{
+Key:1020115,Text:"Neh"},{
+Key:1020116,Text:"Est"},{
+Key:1020117,Text:"Job"},{
+Key:1020118,Text:"Ps"},{
+Key:1020119,Text:"Ords"},{
+Key:1020120,Text:"Pred"},{
+Key:1020121,Text:"Höga"},{
+Key:1020122,Text:"Jes"},{
+Key:1020123,Text:"Jer"},{
+Key:1020124,Text:"Klag"},{
+Key:1020125,Text:"Hes"},{
+Key:1020126,Text:"Dan"},{
+Key:1020127,Text:"Hos"},{
+Key:1020128,Text:"Joel"},{
+Key:1020129,Text:"Amos"},{
+Key:1020130,Text:"Ob"},{
+Key:1020131,Text:"Jona"},{
+Key:1020132,Text:"Mika"},{
+Key:1020133,Text:"Nah"},{
+Key:1020134,Text:"Hab"},{
+Key:1020135,Text:"Sef"},{
+Key:1020136,Text:"Hagg"},{
+Key:1020137,Text:"Sak"},{
+Key:1020138,Text:"Mal"},{
+Key:1020139,Text:"Matt"},{
+Key:1020140,Text:"Mark"},{
+Key:1020141,Text:"Luk"},{
+Key:1020142,Text:"Joh"},{
+Key:1020143,Text:"Apg"},{
+Key:1020144,Text:"Rom"},{
+Key:1020145,Text:"1 Kor"},{
+Key:1020146,Text:"2 Kor"},{
+Key:1020147,Text:"Gal"},{
+Key:1020148,Text:"Ef"},{
+Key:1020149,Text:"Fil"},{
+Key:1020150,Text:"Kol"},{
+Key:1020151,Text:"1 Tess"},{
+Key:1020152,Text:"2 Tess"},{
+Key:1020153,Text:"1 Tim"},{
+Key:1020154,Text:"2 Tim"},{
+Key:1020155,Text:"Tit"},{
+Key:1020156,Text:"Filem"},{
+Key:1020157,Text:"Hebr"},{
+Key:1020158,Text:"Jak"},{
+Key:1020159,Text:"1 Petr"},{
+Key:1020160,Text:"2 Petr"},{
+Key:1020161,Text:"1 Joh"},{
+Key:1020162,Text:"2 Joh"},{
+Key:1020163,Text:"3 Joh"},{
+Key:1020164,Text:"Jud"},{
+Key:1020165,Text:"Upp"}]}

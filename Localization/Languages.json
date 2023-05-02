@@ -1,0 +1,53 @@
+﻿{Items:[{
+Name:"af-ZA",DisplayName:"Afrikaans (South Africa)",VersionDate:"20171218000000"},{
+Name:"ar-SA",DisplayName:"Arabic (Saudi Arabia)",VersionDate:"20150516000000"},{
+Name:"bg-BG",DisplayName:"Bulgarian (Bulgaria)",VersionDate:"20150516000000"},{
+Name:"ca-ES",DisplayName:"Catalan (Catalan)",VersionDate:"20150516000000"},{
+Name:"cs-CZ",DisplayName:"Czech (Czech Republic)",VersionDate:"20170824000000"},{
+Name:"da-DK",DisplayName:"Danish (Denmark)",VersionDate:"20150516000000"},{
+Name:"de-DE",DisplayName:"Deutsch (Deutschland)",VersionDate:"20171017000000"},{
+Name:"el-GR",DisplayName:"Greek (Greece)",VersionDate:"20150516000000"},{
+Name:"en-GB",DisplayName:"English (UK)",VersionDate:"20230128000000"},{
+Name:"en-US",DisplayName:"English (United States)",VersionDate:"20171202000000"},{
+Name:"en-ZM",DisplayName:"English (Zambia)",VersionDate:"20230128000000"},{
+Name:"es-CL",DisplayName:"Español (Chile)",VersionDate:"20170201000000"},{
+Name:"es-CO",DisplayName:"Español (Colombia)",VersionDate:"20220119000000"},{
+Name:"es-ES",DisplayName:"Español (España)",VersionDate:"20220119000000"},{
+Name:"es-MX",DisplayName:"Español (Mexico)",VersionDate:"20170824000000"},{
+Name:"et-EE",DisplayName:"Estonian (Estonia)",VersionDate:"20150516000000"},{
+Name:"fa-IR",DisplayName:"Persian",VersionDate:"20150516000000"},{
+Name:"fi-FI",DisplayName:"Finnish (Finland)",VersionDate:"20160124000000"},{
+Name:"fr-FR",DisplayName:"Français (France)",VersionDate:"20180128091818"},{
+Name:"he-IL",DisplayName:"Hebrew (Israel)",VersionDate:"20150516000000"},{
+Name:"hi-IN",DisplayName:"Hindi (India)",VersionDate:"20150516000000"},{
+Name:"ht-CR",DisplayName:"Créole (Haïti)",VersionDate:"20150516000000"},{
+Name:"hu-HU",DisplayName:"Hungarian (Hungary)",VersionDate:"20171104000000"},{
+Name:"id-ID",DisplayName:"Indonesian (Indonesia)",VersionDate:"20150516000000"},{
+Name:"it-IT",DisplayName:"Italian (Italy)",VersionDate:"20150516000000"},{
+Name:"ja-JP",DisplayName:"Japanese (Japan)",VersionDate:"20150516000000"},{
+Name:"ko-KR",DisplayName:"Korean (Korea)",VersionDate:"20171220000000"},{
+Name:"kur",DisplayName:"Kurdish",VersionDate:"20220119000000"},{
+Name:"lt-LT",DisplayName:"Lietuvių (Lietuva)",VersionDate:"20171007000000"},{
+Name:"lv-LV",DisplayName:"Latvian (Latvia)",VersionDate:"20150516000000"},{
+Name:"ms-MY",DisplayName:"Malay (Malaysia)",VersionDate:"20150516000000"},{
+Name:"mww",DisplayName:"Hmong Daw",VersionDate:"20150516000000"},{
+Name:"nb-NO",DisplayName:"Norwegian (Bokmål)",VersionDate:"20171219000000"},{
+Name:"nl-NL",DisplayName:"Dutch (Netherlands)",VersionDate:"20171228000000"},{
+Name:"nn-NO",DisplayName:"Norwegian 1.20 (Nynorsk) (copy from Bokmål at the moment)",VersionDate:"20180103000000"},{
+Name:"pl-PL",DisplayName:"Polish (Poland)",VersionDate:"20171018000000"},{
+Name:"pt-BR",DisplayName:"Português (Brasil)",VersionDate:"20180122000000"},{
+Name:"pt-PT",DisplayName:"Portuguese (Brazil, at the moment Portugal)",VersionDate:"20161031000000"},{
+Name:"ro-RO",DisplayName:"Romanian (Romania)",VersionDate:"20150516000000"},{
+Name:"ru-RU",DisplayName:"Russian (Russia)",VersionDate:"20150516000000"},{
+Name:"sk-SK",DisplayName:"Slovak (Slovakia)",VersionDate:"20150516000000"},{
+Name:"sl-SI",DisplayName:"Slovenian (Slovenia)",VersionDate:"20150516000000"},{
+Name:"sv-SE",DisplayName:"Svenska (Sweden)",VersionDate:"20160615000000"},{
+Name:"ta-IN",DisplayName:"Tamil (India)",VersionDate:"20220119000000"},{
+Name:"th-TH",DisplayName:"Thai (Thailand)",VersionDate:"20150516000000"},{
+Name:"tr-TR",DisplayName:"Turkish (Turkey)",VersionDate:"20150516000000"},{
+Name:"uk-UA",DisplayName:"Ukrainian (Ukraine)",VersionDate:"20150516000000"},{
+Name:"ur-PA",DisplayName:"فرانسیسی (فرانس)",VersionDate:"20150516000000"},{
+Name:"vi-VN",DisplayName:"Vietnamese (Vietnam)",VersionDate:"20150516000000"},{
+Name:"zh-Hans",DisplayName:"Chinese (Simplified)",VersionDate:"20150714000000"},{
+Name:"zh-Hant",DisplayName:"Chinese (Traditional) 繁體中文",VersionDate:"20160502000000"},{
+Name:"Comments",VersionDate:"20130215000000"}]}

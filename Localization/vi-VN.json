@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Vietnamese (Vietnam)"},{
+Key:1000000,Text:"Dịch thuật"},{
+Key:1000001,Text:"Không."},{
+Key:1000003,Text:"&Thêm..."},{
+Key:1000004,Text:"Thêm một hoặc nhiều ngôn ngữ để VideoPsalm"},{
+Key:1000006,Text:"&Gửi"},{
+Key:1000007,Text:"Gửi các nhãn bằng email đến VideoPsalm vào các thiết lập tiếp theo"},{
+Key:1000009,Text:"&Áp dụng"},{
+Key:1000011,Text:"&Tiết kiệm"},{
+Key:1000012,Text:"Áp dụng các ngôn ngữ được chọn trong VideoPsalm. Những thay đổi được lưu tự động trước."},{
+Key:1000013,Text:"Lưu thay đổi để nhãn"},{
+Key:1000015,Text:"&Xóa"},{
+Key:1000016,Text:"VideoPsalm xóa ngôn ngữ được chọn và tất cả các nhãn"},{
+Key:1000022,Text:"&{0} đồng:"},{
+Key:1000024,Text:"&Ngôn ngữ:"},{
+Key:1000029,Text:"Hãng thu âm"},{
+Key:1000030,Text:"Nhãn đã thay đổi.
+
+Bạn có muốn lưu những thay đổi này không?"},{
+Key:1000031,Text:"Loại bỏ một ngôn ngữ"},{
+Key:1000032,Text:"Bạn có thực sự muốn xóa {0} ngôn ngữ của VideoPsalm?
+
+Thao tác này sẽ xóa tất cả các văn bản của ngôn ngữ này và là không thể đảo ngược."},{
+Key:1000035,Text:"VideoPsalm đến tạo tập tin nén Zip phần mở rộng
+có chứa các nhãn trong ngôn ngữ tương ứng của họ.
+Đính kèm các tập tin thích hợp để các email mà bật lên, sau đó gửi email này để videopsalm@gmail.com."},{
+Key:1000036,Text:"Gửi email nhãn"},{
+Key:1000037,Text:"<b>Trong cửa sổ 'Dịch' này, bạn có thể chỉnh sửa văn bản xuất hiện trong các hình thức VideoPsalm.</b>
+Điều này cho phép bạn dịch, thích ứng hoặc chỉnh sửa bất kỳ văn bản giao diện của VideoPsalm, trong VideoPsalm thậm chí.
+
+<i>Nếu thành phần này chiếm không gian quá nhiều, làm giảm nó bằng cách nhấp vào nút nhỏ giảm nằm ở góc trên bên trái, hoặc thay đổi kích cỡ chuột với tách ngang.</i>
+
+VideoPsalm được cung cấp trong nhiều ngôn ngữ. Các ngôn ngữ VideoPsalm được liệt kê trong bảng dưới đây để các bên trái có tiêu đề 'ngôn ngữ'.
+Nếu ngôn ngữ của bạn không xuất hiện trong danh sách này, bạn có thể ở đây, Dịch VideoPsalm sang ngôn ngữ của bạn. Lưu ý rằng điều này sẽ là có lẽ một số giờ làm việc.
+
+Dưới đây là làm thế nào để có VideoPsalm trong ngôn ngữ của bạn:
+
+-Thêm ngôn ngữ của bạn vào danh sách bằng cách chọn một trong những bạn sẽ tìm thấy thông qua các nút \"Thêm <image=add2_16>\".
+-Trong bảng dưới đây ở bên phải, VideoPsalm Hiển thị các nhãn kiểm tra ngôn ngữ.
+-Dịch các nhãn trong ngôn ngữ của bạn.
+
+Trong bảng, bạn có thể chỉnh sửa các nhãn lúc giải trí của bạn, như trong một bảng tính Excel.
+Bảng cung cấp một hộp tìm kiếm. Vì vậy, để hiển thị chỉ nhãn có chứa các từ cụ thể, gõ các từ vào hộp tìm kiếm và sau đó bấm vào nút \"tìm kiếm\".
+Bạn cũng có thể sử dụng khu vực lọc nằm dưới mỗi ngôn ngữ tiêu đề để lọc các nhãn của một ngôn ngữ có chứa một số từ cụ thể.
+
+Để tạo thuận lợi cho công việc của bạn, hãy chọn một hoặc nhiều hơn các ngôn ngữ bạn đã biết, để hiểu rõ hơn về ý nghĩa của mỗi nhãn hiệu và có thể đọc bằng nhiều ngôn ngữ cùng một lúc.
+Kiểm tra các ý kiến bởi vì chúng cho phép sự hiểu biết tốt hơn về ý nghĩa của một số nhãn và nơi họ được sử dụng.
+
+<b>Lưu ý:</b> Nó là tốt nhất để các ý kiến bằng tiếng Anh, bởi vì nhiều người hiểu tiếng Anh.
+
+Để xem kết quả của công việc dịch thuật của bạn:
+-Chọn ngôn ngữ của bạn bằng ngôn ngữ bảng bằng cách nhấp vào
+   sau đó
+-Nhấp vào nút 'Áp dụng' (phía dưới).
+
+VideoPsalm sẽ được hiển thị bằng ngôn ngữ bạn đã chọn.
+
+Đừng quên lưu công việc của bạn từ bản dịch bằng cách nhấp vào nút \"lưu <image=disk_blue>.
+Sau khi bạn đã lưu một ngôn ngữ mới, bạn có thể chọn nó trong cửa sổ tùy chọn.
+
+Xin vui lòng gửi cho chúng tôi tham khảo hoặc chỉnh qua email tại <b>videopsalm@gmail.com</b> bằng cách nhấp vào nút \"gửi <image=mail_16>\" của bạn.
+Khi bạn nhấp vào nút này, hai điều xảy ra:
+1. Khách hàng email sẽ tự động mở, ví dụ: Outlook.
+2. Một thư mục Explorer mở trong đó VideoPsalm đã đặt tập tin nén Zip phần mở rộng tên ngôn ngữ.
+
+Kéo và thả các tập tin thích hợp trong email và gửi nó để chúng tôi có thể kết hợp nó thành một phiên bản tương lai của VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Làm thế nào để dịch VideoPsalm sang ngôn ngữ của bạn?"},{
+Key:1000039,Text:"Ngôn ngữ trong đó VideoPsalm dịch. Chọn ngôn ngữ bạn muốn hiển thị các nhãn trong bảng. Để thêm ngôn ngữ của bạn vào danh sách, bấm vào nút 'Add'."},{
+Key:1001000,Text:"Thêm ngôn ngữ"},{
+Key:1001001,Text:"&Ngôn ngữ:"},{
+Key:1001002,Text:"Chọn ngôn ngữ để thêm"},{
+Key:1001003,Text:"&Thêm"},{
+Key:1001004,Text:"Hủy bỏ"},{
+Key:1001005,Text:"Trợ giúp (F1)"},{
+Key:1002000,Text:"Tùy chọn"},{
+Key:1002003,Text:"&Tổng quát"},{
+Key:1002004,Text:"&Hiển thị"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Các bộ sưu tập"},{
+Key:1002015,Text:"&Kinh Thánh"},{
+Key:1002103,Text:"&Ngôn ngữ:"},{
+Key:1002105,Text:"&VideoPsalm tài liệu thư mục:"},{
+Key:1002106,Text:"Chọn cặp tài liệu của VideoPsalm:"},{
+Key:1002112,Text:"&Lưu bất kỳ thay đổi nào bạn thực hiện với những câu thơ trong kinh thánh (văn bản và phong cách)"},{
+Key:1002202,Text:"&Thay thế thống kê « <size=+4>'» bởi pháp thống kê « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Sử dụng các quy tắc pháp của typography"},{
+Key:1002204,Text:"&Trong bài hát, thay thế dấu gạch ngang bằng dấu gạch ngang nonbreaking"},{
+Key:1002205,Text:"&Trong những câu thơ trong kinh thánh, thay thế dấu gạch ngang bằng dấu gạch ngang nonbreaking"},{
+Key:1002304,Text:"&Rendering phương pháp:"},{
+Key:1002306,Text:"Tiêu chuẩn"},{
+Key:1002307,Text:"Cải thiện"},{
+Key:1002502,Text:"&Áp dụng"},{
+Key:1002503,Text:"Lưu thay đổi của bạn và giữ cho các cửa sổ mở"},{
+Key:1002504,Text:"Ok"},{
+Key:1002505,Text:"Lưu thay đổi của bạn và đóng cửa sổ"},{
+Key:1002508,Text:"Đóng cửa sổ mà không lưu thay đổi của bạn"},{
+Key:1002510,Text:"&Giấy phép của giáo hội:"},{
+Key:1002513,Text:"Tùy chọn văn bản mà bạn nhập ở đây có thể được tự động hiển thị trong tiêu đề hoặc chân trượt.
+
+Ví dụ, bạn có thể chỉ định ở đây số giấy phép CILC của nhà thờ của bạn."},{
+Key:1002516,Text:"&Các lĩnh vực của tiêu đề:"},{
+Key:1002517,Text:"&Các lĩnh vực trong subfooter:"},{
+Key:1002531,Text:"Để thay đổi phông chữ là hiển thị VideoPsalm.
+
+Tiêu chuẩn phông chữ:
+- <b>Tahoma</b> cho Windows XP
+- <b>Segoe UI</b> cho Windows Vista, Windows 7 và Windows 8
+
+Kích thước tiêu chuẩn: 8,25"},{
+Key:1002532,Text:"Nó là cần thiết để khởi động lại VideoPsalm cho một sự thay đổi chính sách để được đưa vào tài khoản đầy đủ."},{
+Key:1002533,Text:"Nếu hộp này được chọn, VideoPsalm sẽ thay thế các dấu nháy thẳng với một apostrophe Pháp, mà là một dấu phẩy đặt trong chiều cao trong các trang trình bày.
+
+Khi bạn nhập các lyrics của bài hát trong trình soạn thảo, chúng tôi khuyên bạn nên sử dụng các ký tự mà bạn dễ dàng tìm thấy trên bàn phím của bạn, thường apostrophe thẳng."},{
+Key:1002534,Text:"Nếu hộp này được chọn, VideoPsalm rearranges trong slide các khoảng cách của một số ký tự của dấu chấm câu phù hợp với các Pháp typography.
+
+Ví dụ, nếu một bài hát có chứa các từ sau đây: <b>Chúa!</b>
+
+VideoPsalm Hiển thị: <b>Chúa!</b>
+
+Dưới đây là các ký tự chấm câu đó tận hưởng điều trị đặc biệt:
+<b>: ; ! ? »</b><i>VideoPsalm đặt một không gian trước khi nonbreaking và space sau đợt.</i><b>«</b><i>VideoPsalm đặt một không gian trước và một không gian nonbreaking sau đợt.</i>
+
+VideoPsalm sắp xếp không khoảng cách của các ký tự dấu chấm câu khác.
+
+Khi bạn nhập vào những lời của một bài hát mới, chúng tôi khuyên rằng bạn thực hiện theo các quy tắc truyền thống của typography, tức là thanh dấu chấm câu để từ đó liên quan đến họ. Bằng cách này, bạn sẽ có thể để phù hợp với màn hình Pháp typography bởi ticking hộp này, hoặc các quy tắc của quốc gia của bạn bởi không chọn hộp kiểm này.
+
+<b>Lưu ý:</b> Có thể rằng Pháp typography quy định không áp dụng ở quốc gia của bạn ngay cả khi các ngôn ngữ là tiếng Pháp, ví dụ trong những phi, Bỉ, Quebec hoặc ở Thụy sĩ.
+
+Cho một tham chiếu đầy đủ vào các dấu cách và dấu chấm câu của Pháp typography, xem <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, trang 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Phông:"},{
+Key:1002536,Text:"&Kích thước:"},{
+Key:1002539,Text:"Nếu hộp này được chọn, VideoPsalm thông báo cho bạn, trong khi khởi động của nó, sự tồn tại của các tính năng mới của chương trình hoặc tin tức về:
+-Các bộ sưu tập
+-Kinh Thánh,
+- và ngôn ngữ VideoPsalm.
+
+Các bộ sưu tập mới, kinh thánh trong ngôn ngữ mới và các ngôn ngữ mới cho VideoPsalm đôi khi được bổ sung vào thư viện trực tuyến VideoPsalm.
+
+Khi điều này xảy ra, thêm vào một vài lần bấm chuột các tài liệu mới để cài đặt của bạn thông qua Import Wizard."},{
+Key:1002540,Text:"Nếu hộp này được chọn, VideoPsalm yêu cầu từ liên kết bởi một dấu nối để vẫn còn trên cùng một dòng trong các trang trình bày.
+
+Mặc định giá trị cho các lyrics của bài hát: <b>kiểm tra</b>"},{
+Key:1002541,Text:"Nếu hộp này được chọn, VideoPsalm yêu cầu từ liên kết bởi một dấu nối để vẫn còn trên cùng một dòng trong các trang trình bày.
+
+Mặc định giá trị cho những câu kinh thánh: <b>đánh dấu</b>"},{
+Key:1002542,Text:"Nếu hộp này được chọn, VideoPsalm cho phép bạn lưu bất kỳ thay đổi nào bạn thực hiện cho những câu thơ trong kinh thánh (văn bản và phong cách).
+
+Nếu hộp này không được kiểm tra:
+
+<b>1.</b> thông báo khi bạn đóng VideoPsalm, nó sẽ không cho bạn rằng kinh thánh của bạn đã bị thay đổi,
+
+<b>2</b> khi bạn lưu các thay đổi, VideoPsalm không lưu các thay đổi được thực hiện cho kinh thánh (văn bản và phong cách),
+
+<b>3</b> bạn sẽ tìm thấy của bạn còn nguyên vẹn Bibles lúc khởi động tiếp theo của VideoPsalm."},{
+Key:1002543,Text:"Chọn ngôn ngữ mà bạn muốn VideoPsalm được hiển thị ở đây.
+
+Nếu ngôn ngữ của bạn không xuất hiện trong danh sách, có lẽ là có sẵn trong thư viện VideoPsalm trực tuyến thông qua Import Wizard.
+
+Nếu VideoPsalm không tồn tại trong ngôn ngữ của bạn, xin vui lòng thông báo cho chúng tôi qua email tại videopsalm@gmail.com
+
+Ngoài ra, bạn có thể giúp dịch các văn bản của VideoPsalm trong ngôn ngữ của bạn thông qua công cụ dịch thuật VideoPsalm hoặc chỉnh sửa bất kỳ lỗi nào.
+
+Bắt đầu công cụ dịch thuật VideoPsalm với nút \"Dịch VideoPsalm\"."},{
+Key:1002544,Text:"Chọn thư mục từ đó VideoPsalm tải của mình cuốn sách, kinh thánh, hình ảnh và video ở đây.
+
+Khi bạn thay đổi thư mục, VideoPsalm làm mới bộ sưu tập của mình, kinh thánh, hình ảnh và video với những người trong thư mục mới.
+
+<b>Thận trọng</b> : trước khi thay đổi thư mục, xác minh rằng bạn đã lưu thay đổi của bạn."},{
+Key:1002545,Text:"Để thay đổi phông chữ là hiển thị VideoPsalm.
+
+Kích thước tiêu chuẩn: 8,25
+
+Bạn cũng có thể thay đổi kích thước phông chữ thông qua các tùy chọn của Windows: Control Panel -&gt; Hiển thị-> dễ đọc trên màn hình."},{
+Key:1002547,Text:"&Dịch VideoPsalm"},{
+Key:1002548,Text:"Mở công cụ mà bạn có thể dịch VideoPsalm sang ngôn ngữ của bạn, hoặc chỉnh sửa bất kỳ lỗi chính tả."},{
+Key:1002549,Text:"Bạn đang về để thay đổi thư mục từ nơi VideoPsalm sẽ tải tài liệu của nó.
+VideoPsalm sẽ lấy tài liệu hiện tại của nó và sau đó tải lên thư mục mới.
+Điều này có thể mất một vài giây nữa.{0}
+
+Bạn có thực sự muốn thay đổi thư mục tài liệu?"},{
+Key:1002550,Text:"Có được lưu thay đổi (các bộ sưu tập, kinh thánh, hoặc lịch).
+Nếu bạn xác nhận việc vận hành hồ sơ bây giờ, những thay đổi này sẽ bị mất."},{
+Key:1002551,Text:"Thay đổi cặp tài liệu"},{
+Key:1002552,Text:"&Chương trình nghị sự"},{
+Key:1002553,Text:"Mô hình mặc định:"},{
+Key:1002554,Text:"&bài hát:"},{
+Key:1002555,Text:"&Kinh Thánh câu thơ:"},{
+Key:1002556,Text:"&Slideshow hình ảnh:"},{
+Key:1002557,Text:"&tự trị video:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Timeout mặc định tự động trước:"},{
+Key:1002560,Text:"giây"},{
+Key:1002561,Text:"&Thêm một ngôn ngữ"},{
+Key:1002562,Text:"Mở thuật sĩ nhập khẩu của các ngôn ngữ trong đó VideoPsalm dịch, từ nơi bạn có thể thêm ngôn ngữ mới của bạn VideoPsalm."},{
+Key:1002580,Text:"Dòng chảy văn bản mặc định sau khi một bài hát"},{
+Key:1002581,Text:"Xác định dòng chảy văn bản mặc định sau khi đoạn cuối của một bài hát.
+
+Giá trị này cũng được đưa vào tài khoản cho các bài hát mà bạn hiển thị một cách tự nhiên mà không có chương trình nghị sự.
+Trong lịch, bạn có thể thay đổi giá trị này cho mỗi bài hát."},{
+Key:1002582,Text:"Dòng chảy văn bản mặc định sau khi kinh Thánh câu thơ"},{
+Key:1002583,Text:"Xác định dòng chảy văn bản mặc định sau khi đoạn cuối của một đoạn trong kinh thánh.
+
+Giá trị này cũng được đưa vào tài khoản trong đoạn kinh thánh mà bạn hiển thị một cách tự nhiên mà không có chương trình nghị sự.
+Trong lịch, bạn có thể thay đổi giá trị này cho mỗi đoạn văn của kinh thánh."},{
+Key:1002584,Text:"Dòng chảy văn bản mặc định sau khi một chiếu hình ảnh"},{
+Key:1002585,Text:"Xác định dòng chảy văn bản mặc định sau khi một chiếu hình ảnh.
+
+Trong lịch, bạn có thể thay đổi giá trị này cho mỗi hình ảnh."},{
+Key:1002586,Text:"Dòng chảy văn bản mặc định sau khi một độc lập video"},{
+Key:1002587,Text:"Xác định dòng chảy văn bản mặc định sau khi một độc lập video.
+
+Trong lịch, bạn có thể thay đổi giá trị này cho mỗi video độc lập."},{
+Key:1002588,Text:"Dòng chảy văn bản mặc định sau khi một PowerPoint"},{
+Key:1002589,Text:"Xác định dòng chảy văn bản mặc định sau khi một PowerPoint.
+
+Trong lịch, bạn có thể thay đổi giá trị này cho mỗi PowerPoint."},{
+Key:1002590,Text:"Xác định khoảng thời gian mặc định thời gian bằng giây trước khi tự động chuyển để trượt tiếp theo.
+
+Trong lịch, bạn có thể thay đổi giá trị này cho mỗi phần tử chảy tự động."},{
+Key:1002591,Text:"&Lưu trữ hình ảnh nền trong chương trình nghị sự (khuyến cáo)"},{
+Key:1002592,Text:"Lưu trữ hình ảnh nền trong chương trình nghị sự"},{
+Key:1002593,Text:"Chỉ ra cho dù VideoPsalm nên lưu trữ bất kỳ bài hát hình ảnh nền và kinh thánh trong câu thơ tập tin chương trình nghị sự, khi bạn lưu nó."},{
+Key:1002594,Text:"&Cửa hàng nền video (khuyến cáo) chương trình nghị sự"},{
+Key:1002595,Text:"Lưu trữ nền video trong chương trình nghị sự"},{
+Key:1002596,Text:"Chỉ ra cho dù VideoPsalm nên lưu trữ bất kỳ video nền của bài hát và kinh thánh trong câu thơ tập tin chương trình nghị sự, khi bạn lưu nó."},{
+Key:1002597,Text:"&Cửa hàng slideshow hình ảnh (khuyến cáo) chương trình nghị sự"},{
+Key:1002598,Text:"Lưu trữ hình ảnh trình chiếu trong chương trình nghị sự"},{
+Key:1002599,Text:"Chỉ ra cho dù VideoPsalm nên lưu hình ảnh có thể chiếu trong tập tin lịch khi bạn lưu nó."},{
+Key:1002600,Text:"&Lưu trữ các chương trình nghị sự độc lập video (khuyến cáo)"},{
+Key:1002601,Text:"Lưu trữ các video tự trị trong chương trình nghị sự"},{
+Key:1002602,Text:"Chỉ ra cho dù VideoPsalm nên lưu bất kỳ tự trị trong video tập tin chương trình nghị sự, khi bạn lưu nó."},{
+Key:1002603,Text:"&Cửa hàng PowerPoints trong chương trình nghị sự (khuyến cáo)"},{
+Key:1002604,Text:"Cửa hàng PowerPoints trong chương trình nghị sự"},{
+Key:1002605,Text:"Chỉ ra cho dù VideoPsalm nên lưu PowerPoints bất kỳ trong tập tin lịch khi bạn lưu nó."},{
+Key:1002606,Text:"Chúng tôi khuyên rằng bạn chọn tuỳ chọn này, đặc biệt là nếu bạn chuẩn cho chương trình nghị sự của bạn trên các máy tính khác hơn là một trong những ngày mà bạn sẽ hiển thị trình bày của bạn."},{
+Key:1002607,Text:"&Biên tập viên"},{
+Key:1002608,Text:"&Phông:"},{
+Key:1002609,Text:"Chỉ định phông chữ mà bạn chỉnh sửa các lyrics của bài hát và câu thơ của kinh thánh.
+
+Đáng chú ý, font này không được sử dụng để hiển thị văn bản trên màn hình."},{
+Key:1002610,Text:"&Kích thước văn bản:"},{
+Key:1002611,Text:"Chỉ định kích thước phông chữ mà bạn chỉnh sửa các lyrics của bài hát và câu thơ của kinh thánh.
+
+Kích thước phông chữ này không đặc biệt được sử dụng để hiển thị văn bản trên màn hình."},{
+Key:1002612,Text:"&Phông chữ của các Hiệp định:"},{
+Key:1002613,Text:"Chỉ định phông chữ mà bạn chỉnh sửa các thoả thuận của một bài hát.
+
+Font này không đặc biệt được sử dụng để hiển thị các thỏa thuận trên màn hình trình bày."},{
+Key:1002614,Text:"&Kích thước của các văn bản của các Hiệp định:"},{
+Key:1002615,Text:"Chỉ định kích thước phông chữ của các thoả thuận của một bài hát trong trình soạn thảo văn bản.
+
+Kích thước phông chữ này không đặc biệt được sử dụng để hiển thị các thoả thuận trên màn hình trình bày."},{
+Key:1002616,Text:"&Màu sắc của các Hiệp định:"},{
+Key:1002617,Text:"Xác định màu sắc mà các thoả thuận được hiển thị trong trình soạn thảo văn bản.
+
+Đáng chú ý, màu này không được sử dụng để hiển thị các thỏa thuận trên màn hình trình bày."},{
+Key:1002618,Text:"&Nonbreaking trắng màu:"},{
+Key:1002619,Text:"Xác định màu sắc mà phá vỡ trắng được hiển thị trong trình soạn thảo văn bản."},{
+Key:1002620,Text:"&Màu sắc của các thẻ đoạn:"},{
+Key:1002621,Text:"Xác định màu sắc trong đó các thẻ đoạn được đánh dấu trong trình soạn thảo văn bản."},{
+Key:1002622,Text:"&Minh bạch của các thẻ đoạn:"},{
+Key:1002623,Text:"Xác định các tính minh bạch của màu sắc trong đó các thẻ đoạn được đánh dấu trong trình soạn thảo văn bản."},{
+Key:1002624,Text:"&Màu sắc của các Hiệp định ChordPro:"},{
+Key:1002625,Text:"Chỉ định màu sắc trong đó các thoả thuận ChordPro được nhấn mạnh trong chế độ văn bản biên tập ChordPro."},{
+Key:1002626,Text:"&Minh bạch của các Hiệp định ChordPro:"},{
+Key:1002627,Text:"Chỉ định các tính minh bạch của màu sắc trong thỏa thuận mà ChordPro được nêu bật trong chế độ văn bản biên tập ChordPro."},{
+Key:1002628,Text:"&Thay thế phông chữ (khuyến cáo)"},{
+Key:1002629,Text:"Cho phép các văn bản biên tập viên để ghi đè lên các nhân vật mất tích trong phông chữ hiện tại bởi những người trong một phông chữ.
+
+Vô hiệu hóa sự thay thế vật nếu bạn đang sử dụng một font Unicode mà hoạt động phiên âm.
+Trường hợp của một số tiếng Hin-ddi, Tamil, Bamati, Malayalam phông chữ, vv.
+
+Lưu ý rằng nó là thích hợp hơn để sử dụng một phông chữ Unicode.
+Để chuyển đổi các bài hát của bạn chuẩn bị để văn bản Unicode, sử dụng một chuyển đổi trực tuyến, ví dụ ở đây: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Cho phép truy cập vào một đơn giản, tương thích với trình soạn thảo văn bản kinh thánh RTL"},{
+Key:1002631,Text:"Hiển thị một nút bổ sung trên bên trái của thanh công cụ của trình biên tập văn bản, cung cấp quyền truy cập vào một chế độ đơn giản chỉnh sửa văn bản của các bài hát.
+
+Biên tập viên này đơn giản là tương thích với viết từ phải sang trái (RTL), đặc biệt là cho tiếng ả Rập và tiếng Do Thái."},{
+Key:1002632,Text:"Chọn phương pháp kết xuất video phù hợp nhất cho máy tính của bạn. VideoPsalm có thể hiển thị các video trong wmv trên hầu hết máy tính định dạng."},{
+Key:1002633,Text:"&Thông báo"},{
+Key:1002634,Text:"Lúc khởi động, thông báo nếu có là:"},{
+Key:1002635,Text:"&Một phiên bản mới của VideoPsalm (khuyến cáo)"},{
+Key:1002636,Text:"&Các bộ sưu tập mới (khuyến cáo)"},{
+Key:1002637,Text:"&Bibles mới (khuyến cáo)"},{
+Key:1002638,Text:"&Ngôn ngữ mới (khuyến cáo)"},{
+Key:1002639,Text:"&Trong trường hợp khó khăn trong việc kết nối, sự hiện diện của một proxy"},{
+Key:1002640,Text:"Sự hiện diện của một proxy"},{
+Key:1002641,Text:"Chỉ ra cho dù VideoPsalm nên tự động phát hiện sự hiện diện của một proxy để tìm hiểu về sản phẩm mới hoặc Cập Nhật.
+
+Nếu VideoPsalm không thể tải về cuốn sách hay kinh thánh trong thư viện trực tuyến của mình, chọn tùy chọn này và sau đó thử lại thao tác.
+
+Chọn tùy chọn này chỉ khi nó không. Thật vậy, tùy chọn này gây ra một sự suy giảm trong tải về cuốn sách và kinh thánh từ thư viện của VideoPsalm trực tuyến."},{
+Key:1002642,Text:"&Ẩn biểu tượng xã hội"},{
+Key:1002643,Text:"Ẩn của thanh công cụ biểu tượng xã hội (Facebook, Twitter và YouTube).
+
+Các biểu tượng vẫn ẩn trong sự vắng mặt của một kết nối internet."},{
+Key:1002644,Text:"&Lưu trữ chương trình nghị sự âm thanh bài hát (khuyến cáo)"},{
+Key:1002645,Text:"Lưu trữ các bài hát âm thanh trong chương trình nghị sự"},{
+Key:1002646,Text:"Chỉ ra cho dù VideoPsalm nên lưu bất kỳ âm thanh của các bài hát trong tập tin lịch khi bạn lưu nó."},{
+Key:1002648,Text:"&Tuỳ biến"},{
+Key:1002649,Text:"&Máy quay video"},{
+Key:1002650,Text:"&Trước đó"},{
+Key:1002651,Text:"&Cơ sở"},{
+Key:1002652,Text:"&Văn bản"},{
+Key:1002653,Text:"&Lá chắn"},{
+Key:1002654,Text:"&Bông tuyết"},{
+Key:1002655,Text:"&Lỗi"},{
+Key:1002656,Text:"Trượt bảng điều khiển"},{
+Key:1002657,Text:"&Tiếp theo"},{
+Key:1002658,Text:"Thanh công cụ"},{
+Key:1002659,Text:"Chương trình nghị sự hội đồng quản trị"},{
+Key:1002660,Text:"&Gắn kết"},{
+Key:1002661,Text:"&Xuống xe"},{
+Key:1002662,Text:"&Ẩn chú giải công cụ"},{
+Key:1003000,Text:"Phiên bản {0} từ {1}"},{
+Key:1003003,Text:"Đóng"},{
+Key:1003005,Text:"&Liên hệ với VideoPsalm"},{
+Key:1003006,Text:"Mở Outlook (của bạn email client) để gửi một email đến VideoPsalm"},{
+Key:1003007,Text:"Phiên bản này được Cập Nhật"},{
+Key:1003008,Text:"&Cập Nhật phiên bản của tôi"},{
+Key:1003009,Text:"Đó là một phiên bản mới hơn của VideoPsalm:
+Phiên bản {0} cho tấm 1: {d}.
+Nhấp vào nút này để mở trang tải xuống.
+Ở đây bạn sẽ tìm thấy lịch sử của những thay đổi
+và một liên kết tải về."},{
+Key:1003011,Text:"-Báo cáo
+-Thực hiện một nhận xét hoặc đề nghị một"},{
+Key:1003012,Text:"Địa chỉ email: videopsalm@gmail.com"},{
+Key:1003500,Text:"Loại bỏ transposition"},{
+Key:1003501,Text:"Transposed semitone thêm"},{
+Key:1003502,Text:"Transposed semitone ít"},{
+Key:1003503,Text:"Nếu không có"},{
+Key:1003504,Text:"Xóa capo"},{
+Key:1003505,Text:"Transpose cho một capo người di chuyển ra khỏi đầu"},{
+Key:1003506,Text:"Transpose cho một capo đến gần với người đứng đầu"},{
+Key:1003507,Text:"Nếu không có"},{
+Key:1003508,Text:"Kiểm tra các tập tin âm thanh giọng hát"},{
+Key:1003509,Text:"&Tập tin âm thanh:"},{
+Key:1003510,Text:"Chọn các tập tin âm thanh để nhập khẩu và sau đó nhấp vào 'mở'."},{
+Key:1003511,Text:"Bạn đã nhập khẩu tập tin âm thanh {0} (s)."},{
+Key:1003512,Text:"Không có tập tin âm thanh đã được chuyển nhập.
+(Ông (s) đã thấy (s) trong danh sách)."},{
+Key:1003513,Text:"Nhập khẩu tập tin âm thanh"},{
+Key:1003514,Text:"Tập tin âm thanh"},{
+Key:1003515,Text:"Từ khóa tìm kiếm hình ảnh"},{
+Key:1003516,Text:"Mà không có hình ảnh"},{
+Key:1003517,Text:"Không có video"},{
+Key:1003518,Text:"&Tập tin"},{
+Key:1003519,Text:"&Hiển thị bass"},{
+Key:1003520,Text:"Từ khóa tìm kiếm trong video"},{
+Key:1003521,Text:"&Bộ sưu tập của các bài hát nhập khẩu từ CCLI / SongSelect"},{
+Key:1003522,Text:"Bài hát CCLI"},{
+Key:1003523,Text:"Nhập khẩu của bài hát CCLI"},{
+Key:1003524,Text:"bài hát {0} đã được trong bộ sưu tập '{1}' và không được chuyển nhập."},{
+Key:1003525,Text:"&Tìm"},{
+Key:1003526,Text:"&Độ sáng:"},{
+Key:1003527,Text:"&Tìm"},{
+Key:1003528,Text:"&Độ sáng:"},{
+Key:1003529,Text:"Tin nhắn"},{
+Key:1003530,Text:"Cảnh sát"},{
+Key:1003531,Text:"Màu sắc"},{
+Key:1003532,Text:"Tin nhắn"},{
+Key:1003533,Text:"Khả năng hiển thị"},{
+Key:1003534,Text:"Mô hình"},{
+Key:1003535,Text:"Loại"},{
+Key:1003536,Text:"Đếm ngược"},{
+Key:1003537,Text:"Đồng hồ bấm giờ"},{
+Key:1003538,Text:"Tùy chọn"},{
+Key:1003539,Text:"Minh bạch"},{
+Key:1003540,Text:"Hiển thị tin nhắn"},{
+Key:1003541,Text:"Nền"},{
+Key:1003542,Text:"Hiển thị đồng hồ"},{
+Key:1003543,Text:"Đồng hồ"},{
+Key:1003544,Text:"Đếm ngược"},{
+Key:1003545,Text:"Đồng hồ bấm giờ"},{
+Key:1003546,Text:"Trong thời gian"},{
+Key:1003547,Text:"Tối đa"},{
+Key:1003548,Text:"Bắt đầu"},{
+Key:1003549,Text:"Tạm dừng"},{
+Key:1003550,Text:"Dừng"},{
+Key:1003551,Text:"Phong cách"},{
+Key:1003552,Text:"Chất béo"},{
+Key:1003553,Text:"Nghiêng"},{
+Key:1003554,Text:"Nhấn mạnh"},{
+Key:1003555,Text:"Hiển thị thứ hai tay"},{
+Key:1003556,Text:"Nói lắp giây"},{
+Key:1003557,Text:"Phút jerky"},{
+Key:1003558,Text:"Chữ số hiển thị"},{
+Key:1003559,Text:"Tốt nghiệp biên"},{
+Key:1003560,Text:"Giờ học"},{
+Key:1003561,Text:"Máy quay video"},{
+Key:1003562,Text:"Hiển thị việc quay một máy ảnh phía sau các văn bản."},{
+Key:1003563,Text:"&Thêm bài hát sang định dạng CILC..."},{
+Key:1003564,Text:"Nhập khẩu..."},{
+Key:1003565,Text:"Nhập khẩu"},{
+Key:1003566,Text:"Cho phép nhập khẩu tập tin âm thanh vào VideoPsalm của bạn"},{
+Key:1003567,Text:"Điều hướng..."},{
+Key:1003568,Text:"Trình duyệt"},{
+Key:1003569,Text:"Mở thư mục các tập tin âm thanh của VideoPsalm của bạn"},{
+Key:1003570,Text:"&Bắt đầu (ms):"},{
+Key:1003571,Text:"&Kết thúc (ms):"},{
+Key:1003572,Text:"&Khối lượng:"},{
+Key:1003573,Text:"&Chơi looped"},{
+Key:1003575,Text:"&Sửa đổi"},{
+Key:1003576,Text:"&Phiên bản của:"},{
+Key:1003577,Text:"Soạn thảo văn bản \"Đúng\" trái"},{
+Key:1003578,Text:"Chuyển giữa một trình soạn thảo văn bản chuẩn (viết từ trái sang phải) và một trái \"Đúng\" biên tập viên cho tiếng ả Rập, Hebrew, vv."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Luôn luôn cùng Hiển thị (song ngữ)"},{
+Key:1003581,Text:"&Vị trí:"},{
+Key:1004050,Text:"Cảnh sát"},{
+Key:1004051,Text:"Kích thước"},{
+Key:1004052,Text:"Chất béo"},{
+Key:1004053,Text:"Nghiêng"},{
+Key:1004054,Text:"Đánh dấu"},{
+Key:1004055,Text:"Liên kết"},{
+Key:1004056,Text:"Dọc"},{
+Key:1004057,Text:"Hoạt hình"},{
+Key:1004058,Text:"Thời gian"},{
+Key:1004059,Text:"Khối lượng"},{
+Key:1004060,Text:"Tắt?"},{
+Key:1004061,Text:"Bắt đầu"},{
+Key:1004062,Text:"Kết thúc"},{
+Key:1004063,Text:"Vòng lặp?"},{
+Key:1004064,Text:"Xem hình ảnh lớn hơn"},{
+Key:1004100,Text:"Màu sắc"},{
+Key:1004101,Text:"Điền"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Chiều rộng của các entourage"},{
+Key:1004104,Text:"Bóng"},{
+Key:1004105,Text:"Bán kính của bóng tối"},{
+Key:1004106,Text:"Độ sâu của bóng râm"},{
+Key:1004107,Text:"Hướng của bóng tối"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Hình ảnh"},{
+Key:1004153,Text:"Màu sắc"},{
+Key:1004156,Text:"Hình chữ nhật của cơ thể"},{
+Key:1004157,Text:"Hình chữ nhật của tiêu đề"},{
+Key:1004158,Text:"Các hình chữ nhật chân"},{
+Key:1004500,Text:"Sao chép lịch vào Clipboard"},{
+Key:1004501,Text:"Một mô tả về chương trình nghị sự đã được đặt trong bảng tạm."},{
+Key:1004502,Text:"Từ (tiêu đề và lời) hoặc số để tìm kiếm"},{
+Key:1004503,Text:"Từ (tiêu đề và lời) hoặc số để tìm kiếm"},{
+Key:1004504,Text:"Từ (tiêu đề) hoặc để tìm no."},{
+Key:1004505,Text:"Từ (tác giả và nhà soạn nhạc) hoặc số để tìm kiếm"},{
+Key:1004506,Text:"Từ (chủ đề) hoặc số điện thoại tìm kiếm"},{
+Key:1004507,Text:"Từ (tham khảo) hoặc số điện thoại tìm kiếm"},{
+Key:1004508,Text:"CCLI để tìm kiếm"},{
+Key:1004509,Text:"Từ (bản quyền) hoặc số điện thoại tìm kiếm"},{
+Key:1004510,Text:"Từ (bản ghi nhớ 1) hoặc số để tìm kiếm"},{
+Key:1004511,Text:"Từ (bản ghi nhớ 2) hoặc số để tìm kiếm"},{
+Key:1004512,Text:"Từ (3 bản ghi nhớ) hoặc số để tìm kiếm"},{
+Key:1004513,Text:"Các bài hát với hợp âm"},{
+Key:1004514,Text:"Bản sao phần tóm tắt của tóm"},{
+Key:1004515,Text:"Phần tóm tắt của tóm được đưa vào bảng tạm."},{
+Key:1005001,Text:"Kết thúc tải"},{
+Key:1005002,Text:"Bài hát của '{0}'."},{
+Key:1005003,Text:"Tải video"},{
+Key:1005004,Text:"Không thể đọc video '{0}'.
+{1}"},{
+Key:1005005,Text:"Tải hình ảnh"},{
+Key:1005006,Text:"Không thể đọc hình '{0}'.
+{1}"},{
+Key:1005007,Text:"Tải của phong cách"},{
+Key:1005008,Text:"Điền vào danh sách của các bộ sưu tập ({0} bài hát trong bộ sưu tập {1})"},{
+Key:1005009,Text:"Xoá khoản mục đã chọn chương trình nghị sự?"},{
+Key:1005010,Text:"Loại bỏ khoản mục"},{
+Key:1005011,Text:"Bộ sưu tập mới"},{
+Key:1005012,Text:"Bài hát mới"},{
+Key:1005013,Text:"Chương trình nghị sự là có sản phẩm nào.
+Mở một hoặc kéo ở đây các bài hát và câu thơ để thêm vào chương trình nghị sự."},{
+Key:1005014,Text:"Có là không có slide để video - dự án.
+Chọn một bài hát hoặc câu thơ cho video - dự án."},{
+Key:1005015,Text:"Bạn có thực sự muốn xoá bộ sưu tập '{0}'?
+
+Các tập tin tương ứng với bộ sưu tập này sẽ không bị xoá khỏi đĩa:
+Tiện ích mở rộng của nó sẽ là đổi tên thành \".ignore."},{
+Key:1005016,Text:"Xóa một bộ sưu tập"},{
+Key:1005017,Text:"Bạn có muốn xóa bài hát '{0}' không?
+
+Sau khi đăng ký của các sửa đổi những cuốn sách, loại bỏ các bài hát này sẽ không thể đảo ngược."},{
+Key:1005018,Text:"Xóa một bài hát"},{
+Key:1005019,Text:"Loại bỏ tất cả các mục chương trình nghị sự?"},{
+Key:1005020,Text:"Xóa tất cả mọi thứ"},{
+Key:1005021,Text:"Chương trình nghị sự mà không có một tên"},{
+Key:1005022,Text:"Lịch có sản phẩm nào"},{
+Key:1005023,Text:"Các chương trình hiện tại đã lưu thay đổi.
+Bạn có muốn lưu những thay đổi này không?"},{
+Key:1005024,Text:"Tiết kiệm lịch"},{
+Key:1005025,Text:"Một hoặc nhiều bộ sưu tập có lưu thay đổi.
+Bạn có muốn lưu những thay đổi này không?"},{
+Key:1005026,Text:"Các bộ sưu tập hồ sơ"},{
+Key:1005027,Text:"Một hoặc nhiều kinh thánh đã lưu thay đổi.
+Bạn có muốn lưu những thay đổi này không?"},{
+Key:1005028,Text:"Tiết kiệm các Bibles"},{
+Key:1005029,Text:"Thêm văn bản vào chương trình nghị sự"},{
+Key:1005030,Text:"Nhật ký"},{
+Key:1005031,Text:"Hình ảnh"},{
+Key:1005032,Text:"Video"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Tiết kiệm lịch dưới"},{
+Key:1005035,Text:"Bài hát CCLI"},{
+Key:1005036,Text:"Có là không có bộ sưu tập.
+Bấm vào đây để bắt đầu quá trình nhập báo cáo thuật sĩ."},{
+Key:1005037,Text:"Định dạng {0}
+{1} × {2} pixel"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Bạn có thực sự muốn xóa tất cả các phong cách dưới đây các '{0}'?"},{
+Key:1005040,Text:"Bộ sưu tập '{0}' được loại trừ từ tìm kiếm"},{
+Key:1005041,Text:"Hiển thị hoặc di chuyển nắp trượt"},{
+Key:1005042,Text:"Mùa"},{
+Key:1005043,Text:"Mùa xuân"},{
+Key:1005044,Text:"Mùa hè"},{
+Key:1005045,Text:"Giáng sinh"},{
+Key:1005046,Text:"Chủ đề"},{
+Key:1005047,Text:"Kẹo caramel"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Trí tưởng tượng"},{
+Key:1005050,Text:"Phòng tối"},{
+Key:1005051,Text:"Sương mù"},{
+Key:1005052,Text:"Kế hoạch chi tiết"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort tương phản"},{
+Key:1005055,Text:"Văn phòng"},{
+Key:1005056,Text:"Office 2010 blue"},{
+Key:1005057,Text:"Office 2010 bạc"},{
+Key:1005058,Text:"Office 2010 đen"},{
+Key:1005059,Text:"Văn phòng 2007 Blue"},{
+Key:1005060,Text:"Văn phòng 2007 xanh"},{
+Key:1005061,Text:"Văn phòng 2007 Rose"},{
+Key:1005062,Text:"Văn phòng 2007 bạc"},{
+Key:1005063,Text:"Office 2007 Black"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Đô thị"},{
+Key:1005066,Text:"Bảy"},{
+Key:1005067,Text:"7 Cổ điển"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Hương"},{
+Key:1005070,Text:"Hút thuốc lá"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Màu sắc"},{
+Key:1005073,Text:"Chất lỏng bầu trời"},{
+Key:1005074,Text:"Bầu trời London"},{
+Key:1005075,Text:"Màu xanh"},{
+Key:1005076,Text:"Anh em sinh đôi tiền"},{
+Key:1005077,Text:"Black gold"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Sắc nét"},{
+Key:1005080,Text:"Sắc nét hơn"},{
+Key:1005081,Text:"Sao"},{
+Key:1005082,Text:"Các đại dương của thủy tinh"},{
+Key:1005083,Text:"Thế giới nhựa"},{
+Key:1005084,Text:"Cà phê"},{
+Key:1005085,Text:"Bụi của các ngôi sao"},{
+Key:1005086,Text:"Xóa tất cả các phong cách dưới đây"},{
+Key:1005087,Text:"Duy trì các thư viện mở"},{
+Key:1005100,Text:"Không có hình ảnh động"},{
+Key:1005102,Text:"Mờ dần"},{
+Key:1005103,Text:"Ánh sáng mờ"},{
+Key:1005104,Text:"Xem hình ảnh lớn hơn"},{
+Key:1005105,Text:"Mở rộng trong ánh sáng mờ"},{
+Key:1005106,Text:"Quét"},{
+Key:1005107,Text:"Quét ở bên phải"},{
+Key:1005109,Text:"Hình thức"},{
+Key:1005110,Text:"Ngôi sao"},{
+Key:1005118,Text:"Quét xuống"},{
+Key:1005120,Text:"Quét sang"},{
+Key:1005121,Text:"Quét trở lên"},{
+Key:1005122,Text:"Quét từ phía trên bên phải"},{
+Key:1005123,Text:"Quét từ phía trên bên trái"},{
+Key:1005124,Text:"Quét từ phía dưới bên phải"},{
+Key:1005125,Text:"Quét từ phía dưới bên trái"},{
+Key:1005126,Text:"Khám phá"},{
+Key:1005127,Text:"Khám phá xuống"},{
+Key:1005128,Text:"Khám phá quyền"},{
+Key:1005129,Text:"Khám phá trái"},{
+Key:1005130,Text:"Khám phá trở lên"},{
+Key:1005131,Text:"Khám phá top right"},{
+Key:1005132,Text:"Khám phá đầu trang bên trái"},{
+Key:1005133,Text:"Khám phá quyền xuống"},{
+Key:1005134,Text:"Khám phá dưới cùng bên trái"},{
+Key:1005200,Text:"Trình bày"},{
+Key:1005201,Text:"Không có slide"},{
+Key:1005209,Text:"Từ tìm kiếm trong:"},{
+Key:1005210,Text:"&Tiêu đề và lời"},{
+Key:1005211,Text:"&Tiêu đề và lời"},{
+Key:1005212,Text:"&Tiêu đề"},{
+Key:1005213,Text:"&Tác giả và nhà soạn nhạc"},{
+Key:1005214,Text:"&Chủ đề"},{
+Key:1005215,Text:"&Tài liệu tham khảo"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Bản quyền"},{
+Key:1005218,Text:"&Bản ghi nhớ 1"},{
+Key:1005219,Text:"&Bản ghi nhớ 2"},{
+Key:1005220,Text:"&Bản ghi nhớ 3"},{
+Key:1005221,Text:"&Bài hát với hợp âm"},{
+Key:1005223,Text:"Tùy chọn"},{
+Key:1005224,Text:"VideoPsalm lựa chọn"},{
+Key:1005225,Text:"Hiển thị hộp thoại Tuỳ chọn VideoPsalm."},{
+Key:1005226,Text:"Nhập khẩu"},{
+Key:1005228,Text:"Hiển thị các Import Wizard sách, kinh thánh, hình ảnh và video từ các VideoPsalm thư viện trực tuyến và phổ biến các định dạng."},{
+Key:1005230,Text:"Xóa"},{
+Key:1005232,Text:"Loại bỏ giọng hát, bộ sưu tập hoặc kinh thánh đã chọn."},{
+Key:1005237,Text:"Thay đổi phông chữ."},{
+Key:1005247,Text:"Hình ảnh"},{
+Key:1005252,Text:"Chỉnh sửa tuỳ chọn thông báo."},{
+Key:1005253,Text:"Đóng cửa sổ này và ghi nhớ thông tin tiếp theo thời gian."},{
+Key:1005254,Text:"Đóng cửa sổ này và không còn nhớ thông tin này."},{
+Key:1005255,Text:"Từ hoặc cụm từ tìm kiếm, ví dụ như: bánh mì rượu vang"},{
+Key:1005256,Text:"Chọn câu thơ của họ tham khảo"},{
+Key:1005257,Text:"Tìm kiếm câu thơ có chứa từ khóa hoặc cụm từ nhất định"},{
+Key:1005258,Text:"Xóa từ khóa hoặc cụm từ để tìm (ESC)"},{
+Key:1005259,Text:"Tìm kiếm những câu thơ có chứa từ khóa nhất định.
+
+Ví dụ:
+
+-Để tìm những câu có cụm từ <b>\"con cái Thiên Chúa\"</b>, nhập một vài từ như <b>\"Con Thiên Chúa\"</b>.
+
+-Để tìm những câu thơ chứa câu <b>'ông đã ly'</b>, gõ những từ bội: <b>«ilpritlacoupe»</b>.
+
+Đừng lo lắng về dấu hoặc dấu chấm câu, hay chữ hoa/chữ thường.
+
+Không cần phải gõ những từ như một toàn thể hoặc theo thứ tự.
+
+Thêm khác từ những câu thơ để giảm bớt danh sách những câu thơ tìm thấy.
+
+Bấm nút <b>chèn</b> thêm đoạn tìm thấy và được lựa chọn chương trình nghị sự."},{
+Key:1005260,Text:"Không có câu thơ tìm thấy."},{
+Key:1005268,Text:"Trong chế độ này, VideoPsalm tự động thêm dấu ngoặc [] xung quanh các văn bản mà bạn nhập vào.
+Ví dụ: để thêm một dây nhau c, gõ «Làm» và VideoPsalm sẽ chèn \"[làm]."},{
+Key:1005269,Text:"Kích thước phông chữ"},{
+Key:1005270,Text:"Thay đổi kích thước phông chữ là một tỷ lệ phần trăm của đỉnh cao của màn hình."},{
+Key:1005271,Text:"&Tiết kiệm như..."},{
+Key:1005277,Text:"Tiết kiệm"},{
+Key:1005278,Text:"Lưu các thay đổi bạn thực hiện trong các cuốn sách, kinh thánh và phong cách của họ."},{
+Key:1005279,Text:"Lưu các thay đổi bạn thực hiện trong các bộ sưu tập và phong cách.
+
+<b>Sự chú ý:</b> Những thay đổi bạn thực hiện với kinh thánh là không được lưu (văn bản và phong cách). Để lưu những thay đổi này, kích hoạt các tùy chọn tương ứng trong các tùy chọn cho VideoPsalm."},{
+Key:1005283,Text:"Chiều dài:"},{
+Key:1005284,Text:"Trong ms:"},{
+Key:1005285,Text:"Yếu tố"},{
+Key:1005286,Text:"Cơ thể"},{
+Key:1005287,Text:"Phong cách cơ thể"},{
+Key:1005288,Text:"Cho phép chỉnh sửa phong cách của cơ thể."},{
+Key:1005289,Text:"Tiêu đề"},{
+Key:1005290,Text:"Phong cách của tiêu đề"},{
+Key:1005291,Text:"Cho phép chỉnh sửa của phong cách của tiêu đề."},{
+Key:1005292,Text:"Chân"},{
+Key:1005293,Text:"Phong cách của bàn chân"},{
+Key:1005294,Text:"Cho phép chỉnh sửa của phong cách của bàn chân."},{
+Key:1005295,Text:"Thỏa thuận"},{
+Key:1005296,Text:"Phong cách của các Hiệp định"},{
+Key:1005297,Text:"Cho phép chỉnh sửa phong cách của các thoả thuận."},{
+Key:1005308,Text:"Cuốn sách"},{
+Key:1005313,Text:"Mức độ của phong cách"},{
+Key:1005314,Text:"Thiết lập mức độ mà tại đó thay đổi phong cách của bạn sẽ áp dụng.
+
+Đoạn có mức độ của phong cách cao nhất, sau đó chỉ hát, bộ sưu tập, bộ sưu tập và các cơ sở.
+
+Tương tự như vậy, đoạn có mức độ của các phong cách cao nhất, sau đó đến các chương, cuốn sách, di chúc, kinh thánh, kinh thánh và các cơ sở một lần nữa.
+
+Các cơ sở ở gốc của hệ thống phân cấp, phong cách của nó áp dụng cho tất cả các trang trình bày.
+
+Một mức độ cao hơn có thể ghi đè lên một phong cách được định nghĩa trong một thuộc tính cấp thấp hơn."},{
+Key:1005315,Text:"<b></b>Cơ chế này cho phép bạn thay đổi phong cách của bạn trình bày cách tổng thể hoặc cá nhân.
+
+<b>Ví dụ</b>
+Nếu bạn chỉ định một nền tảng cho một bài hát, tất cả những câu thơ của bài hát này xuất hiện với nền tảng này, ngoại trừ tất cả những câu thơ mà bạn đã chỉ định một nền tảng cụ thể."},{
+Key:1005318,Text:"Trượt"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Video"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Màu sắc văn bản"},{
+Key:1005329,Text:"Thiết lập lại"},{
+Key:1005330,Text:"Xóa là phong cách cho mức độ được chọn"},{
+Key:1005331,Text:"Bạn có thể xoá tất cả các thuộc tính phong cách của mức độ đã chọn.
+Một slide mà không có phong cách kế thừa tự động thấp cấp kiểu.
+
+Ví dụ:
+-Một stanza có một phong cách với một font Candara.
+-Ca hát, trong khi đó, có một phong cách với một font Segoe UI.
+
+Khi bạn xóa phong cách của những câu thơ, nó sẽ được hiển thị với phong cách của cấp độ thấp hơn. Trong ví dụ của chúng tôi, nó sẽ là các font Segoe UI.
+
+<b>Thả xuống «xoá tất cả ở trên phong cách»</b>
+Bạn có thể xóa phong cách của mức độ lựa chọn và tất cả các phong cách cao.
+
+Ví dụ: nếu mức độ phong cách 'Mã' được chọn, phong cách của các bộ sưu tập sẽ bị xóa cũng như phong cách của tất cả các bài hát của bộ sưu tập và các đoạn của họ."},{
+Key:1005332,Text:"Nút này làm mờ khi mức độ đã có phong cách riêng."},{
+Key:1005333,Text:"&Xóa tất cả ở trên phong cách"},{
+Key:1005337,Text:"&Đầu trang"},{
+Key:1005338,Text:"&Phương tiện truyền thông"},{
+Key:1005339,Text:"&Dưới cùng"},{
+Key:1005340,Text:"Ở cấp độ này của phong cách"},{
+Key:1005341,Text:"Ở trên mức độ hiện tại của phong cách"},{
+Key:1005342,Text:"Vẫn còn trên mức độ hiện tại của phong cách khi bạn thay đổi nắp trượt.
+
+Vì vậy:
+<b>1.</b> Khi bạn sẽ hiển thị những câu thơ của bài hát, VideoPsalm, vị trí mức độ của các phong cách trên 'stanza'.
+<b>2.</b> Để thay đổi phong cách ca hát của câu, chọn mức độ của phong cách \"song.\"
+<b>3.</b> Để ở lại trên các định dạng phong cách của các bài hát, hãy bấm Pushpin.
+<b>4.</b> Khi bạn chuyển từ một đoạn thơ kế tiếp, mức độ của phong cách vẫn \"song.\""},{
+Key:1005343,Text:"Điền vào các văn bản"},{
+Key:1005345,Text:"Điền vào văn bản với một màu, một gradient, một hình ảnh hoặc một kết cấu."},{
+Key:1005346,Text:"Màu sắc của văn bản"},{
+Key:1005347,Text:"Phác thảo của các văn bản"},{
+Key:1005349,Text:"Xác định màu sắc, chiều rộng, và dòng cho các phác thảo của phong cách văn bản."},{
+Key:1005350,Text:"Màu sắc của văn bản"},{
+Key:1005352,Text:"Hiệu ứng văn bản"},{
+Key:1005354,Text:"Áp dụng một hiệu ứng trực quan cho các văn bản, chẳng hạn như một bóng, một ánh sáng, một sự phản ánh hoặc một phép quay 3-d."},{
+Key:1005356,Text:"Văn bản bóng"},{
+Key:1005357,Text:"Màu nền"},{
+Key:1005359,Text:"&Bài hát mới"},{
+Key:1005360,Text:"&Bộ sưu tập mới"},{
+Key:1005361,Text:"&Xóa tất cả"},{
+Key:1005362,Text:"
+
+<b>Một phần lá chắn</b>
+Lúc mở đầu của một chương trình nghị sự, <b>văn bản</b> của cuốn sách và kinh thánh của bạn sẽ được bảo tồn.
+Các phong cách lịch sẽ được áp dụng cho sách và kinh thánh của bạn."},{
+Key:1005363,Text:"
+
+<b>Một phần lá chắn</b>
+Lúc mở đầu của một chương trình nghị sự, <b>phong cách</b> của cuốn sách và kinh thánh của bạn sẽ được bảo tồn.
+Các văn bản của chương trình nghị sự sẽ được áp dụng cho sách và kinh thánh của bạn."},{
+Key:1005364,Text:"
+
+<b>Lá chắn đầy đủ</b>
+Lúc mở đầu của một chương trình nghị sự, <b>văn bản</b> và <b>phong cách</b> của cuốn sách và kinh thánh của bạn sẽ được bảo tồn.
+Những người trong chương trình nghị sự sẽ không được áp dụng.
+
+<i>Đây là chiến lược để áp dụng khi tài liệu của máy tính này là tham chiếu của bạn.</i>"},{
+Key:1005365,Text:"
+
+<b>Sự vắng mặt của shield</b>
+Lúc mở đầu của một chương trình nghị sự, <b>văn bản</b> và <b>phong cách</b> lịch sẽ được áp dụng cho sách và kinh thánh của bạn và thay thế văn bản và phong cách riêng của bạn.
+
+<i>Đây là chiến lược để áp dụng khi tài liệu tham khảo của bạn là những máy tính mà trên đó bạn tạo ra chương trình nghị sự.</i>"},{
+Key:1005366,Text:"Để thay đổi từ người xem\"\" để \"Chỉnh sửa\" chế độ hoặc ngược, nhấp vào nút với các bút chì."},{
+Key:1005369,Text:"Sắp xếp theo tiêu đề"},{
+Key:1005370,Text:"Sắp xếp theo số"},{
+Key:1005371,Text:"Về..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Mô phỏng quay phim chiếu
+trên màn hình ở khía cạnh 4:3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Mô phỏng quay phim chiếu
+trên một khía cạnh màn hình 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Mô phỏng quay phim chiếu
+trên màn hình ở khía cạnh 4:3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Mô phỏng quay phim chiếu
+trên một khía cạnh màn hình 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Mô phỏng quay phim chiếu
+trên một khía cạnh màn hình 16:8"},{
+Key:1005387,Text:"Hiện tại"},{
+Key:1005388,Text:"Sử dụng toàn bộ bề mặt của màn hình"},{
+Key:1005389,Text:"Khía cạnh 4:3"},{
+Key:1005390,Text:"Làm lại Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Chế độ chèn của các Hiệp định"},{
+Key:1005398,Text:"Hiển thị các thỏa thuận trên lời bài hát"},{
+Key:1005400,Text:"Cũng điều chỉnh sự xuất hiện của cửa sổ"},{
+Key:1005401,Text:"&Thêm vào lịch"},{
+Key:1005402,Text:"&Xoá (delete)"},{
+Key:1005403,Text:"&Bao gồm mã trong tìm kiếm"},{
+Key:1005404,Text:"&Loại trừ các bộ sưu tập nghiên cứu"},{
+Key:1005405,Text:"&Bao gồm tất cả các bộ sưu tập trong tìm kiếm"},{
+Key:1005407,Text:"&Ẩn bị loại trừ từ các bộ sưu tập nghiên cứu"},{
+Key:1005408,Text:"&Hiển thị loại trừ từ các bộ sưu tập nghiên cứu"},{
+Key:1005409,Text:"&Hiển thị các thay đổi kích thước hình chữ nhật"},{
+Key:1005410,Text:"Hiển thị các thay đổi kích thước hình chữ nhật"},{
+Key:1005411,Text:"Cho phép bạn thay đổi kích thước khung (cơ thể văn bản, đầu trang hay chân trang) được chọn.
+
+Khung có thể được thay đổi kích cỡ với con chuột trong khu vực xem trước.
+
+<b>Làm thế nào để thay đổi kích thước một khung</b>
+
+1. Chọn một khung để thay đổi kích cỡ:
+-cơ thể
+-tiêu đề,
+- hoặc bàn chân.
+
+2. Chọn mức độ phong cách cần thiết, ví dụ: \"kinh thánh\".
+
+3. Bấm vào các lỗi để lực lượng VideoPsalm một slide Hiển thị theo phong cách \"Kinh thánh\".
+Thật vậy, nếu các lỗi không ép, VideoPsalm tự động chuyển sang kiểu 'Thơ' ngay sau khi bạn sẽ hiển thị một câu.
+
+4 Hiển thị một câu. Khu vực xem trước Hiển thị khung bằng cách sử dụng phong cách 'Kinh thánh'.
+
+5 Thay đổi kích thước và vị trí của khung bằng cách sử dụng chuột.
+
+6. Loại bỏ các lỗi, để lại VideoPsalm phong cách 'Thơ' khi bạn một lần nữa sẽ hiển thị một slide."},{
+Key:1005412,Text:"&Bản sao của một bản tóm tắt của mã vào bảng tạm"},{
+Key:1005417,Text:"Văn bản"},{
+Key:1005418,Text:"Phong cách Explorer"},{
+Key:1005419,Text:"Hiển thị hoặc ẩn các phong cách Explorer.
+Trong cửa sổ này, bạn có thể điều hướng giữa các cấp bậc phong cách, để thiết lập lại các thuộc tính của cá nhân và chỉnh sửa chúng."},{
+Key:1005420,Text:"Phong cách"},{
+Key:1005421,Text:"Cảnh sát"},{
+Key:1005424,Text:"Nền"},{
+Key:1005425,Text:"Phong cách"},{
+Key:1005429,Text:"Khía cạnh"},{
+Key:1005430,Text:"Phiên bản"},{
+Key:1005432,Text:"Xuất hiện"},{
+Key:1005433,Text:"Công cụ"},{
+Key:1005442,Text:"Tiếp tục với mục kế tiếp"},{
+Key:1005443,Text:"Tắt trước khi đi"},{
+Key:1005444,Text:"Loại bỏ các văn bản, sau đó làm theo"},{
+Key:1005445,Text:"Loại bỏ các văn bản và sau đó tắt"},{
+Key:1005446,Text:"Hiển thị cùng với các yếu tố tiếp theo (song ngữ)"},{
+Key:1005447,Text:"Thêm các giọng hát hoặc chương trình đã chọn câu thơ (chèn hoặc Alt + A)"},{
+Key:1005448,Text:"Click vào đây để thêm các giọng hát hoặc những câu thơ vào chương trình nghị sự.
+
+Ngoài ra, bạn có thể kéo và thả nút này trong lịch nơi mà nên."},{
+Key:1005449,Text:"&Thêm"},{
+Key:1005454,Text:"Chọn tùy chọn để tìm kiếm cho bài hát theo từ khóa"},{
+Key:1005455,Text:"Xóa từ hoặc số điện thoại để tìm (ESC)"},{
+Key:1005457,Text:"Tìm kiếm một bài hát (Ctrl + F)"},{
+Key:1005458,Text:"Tìm kiếm các bài hát có chứa một số từ hoặc có một số.
+
+Ví dụ:
+
+-Để tìm bài hát số 250, nhập «250»
+
+-Để tìm bài hát có lời bài hát <b>' như một đèn hiệu trong đêm \"</b>, gõ một vài từ như <b>'ánh sáng ban đêm'</b>.
+
+Đừng lo lắng về dấu hoặc dấu chấm câu.
+
+Không cần phải có những từ như một toàn thể hoặc theo thứ tự.
+
+Thêm khác từ bài hát để giảm bớt danh sách các bài hát tìm thấy.
+
+Bấm nút <b>chèn</b> thêm bài hát đầu tiên tìm thấy trên chương trình nghị sự."},{
+Key:1005459,Text:"Có là không có kinh thánh.
+Click vào đây để khởi động thuật sĩ nhập khẩu
+Kinh Thánh và thêm kinh thánh từ nguồn phổ biến."},{
+Key:1005463,Text:"Xoá tài liệu tham khảo để hiển thị (ESC)"},{
+Key:1005464,Text:"Tài liệu tham khảo để chọn, ví dụ như: Romans 3:23-25, 30"},{
+Key:1005465,Text:"Chọn câu thơ (Ctrl + F)"},{
+Key:1005472,Text:"&Tập tin:"},{
+Key:1005475,Text:"&Bao gồm các bộ sưu tập này trong việc tìm kiếm bài hát"},{
+Key:1005479,Text:"&Tên:"},{
+Key:1005481,Text:"&Tên viết tắt:"},{
+Key:1005483,Text:"&Tác giả:"},{
+Key:1005485,Text:"&Bản quyền:"},{
+Key:1005487,Text:"&Tài liệu:"},{
+Key:1005491,Text:"&In capo"},{
+Key:1005497,Text:"&Lời bài hát"},{
+Key:1005499,Text:"&Số:"},{
+Key:1005501,Text:"&Tiêu đề:"},{
+Key:1005505,Text:"&Tham khảo:"},{
+Key:1005507,Text:"&Bản quyền:"},{
+Key:1005509,Text:"&Tác giả:"},{
+Key:1005511,Text:"&Nhà soạn nhạc:"},{
+Key:1005513,Text:"&Khác nhau"},{
+Key:1005515,Text:"&Giai điệu:"},{
+Key:1005517,Text:"&Định dạng:"},{
+Key:1005519,Text:"&Tiêu đề:"},{
+Key:1005521,Text:"&Trình tự:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Quan trọng:"},{
+Key:1005527,Text:"&Bí danh:"},{
+Key:1005529,Text:"&Dòng chính:"},{
+Key:1005531,Text:"&Bản ghi nhớ 1:"},{
+Key:1005533,Text:"&Ghi 2:"},{
+Key:1005535,Text:"&Bản ghi nhớ 3:"},{
+Key:1005537,Text:"&Chữ ký:"},{
+Key:1005540,Text:"&Transposition:"},{
+Key:1005541,Text:"In capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tiến độ:"},{
+Key:1005545,Text:"Để thực hiện các thỏa thuận của bài hát."},{
+Key:1005555,Text:"&Tập tin:"},{
+Key:1005560,Text:"&Bản quyền:"},{
+Key:1005562,Text:"&Tên viết tắt:"},{
+Key:1005564,Text:"&Tên:"},{
+Key:1005566,Text:"&Trò chơi mô tả:"},{
+Key:1005568,Text:"&Giới thiệu:"},{
+Key:1005570,Text:"&Tài liệu:"},{
+Key:1005576,Text:"&Tên:"},{
+Key:1005582,Text:"&Tên:"},{
+Key:1005584,Text:"&Giới thiệu:"},{
+Key:1005586,Text:"&Tên viết tắt:"},{
+Key:1005587,Text:"Chương của Kinh Thánh"},{
+Key:1005590,Text:"Kinh Thánh câu thơ"},{
+Key:1005595,Text:"&Câu thơ:"},{
+Key:1005603,Text:"&Tập tin:"},{
+Key:1005606,Text:"Không có lựa chọn"},{
+Key:1005608,Text:"Phong cách"},{
+Key:1005612,Text:"Loại bỏ giá trị của tài sản"},{
+Key:1005613,Text:"Khi bạn xóa giá trị của một tài sản, VideoPsalm sử dụng giá trị đầu tiên được tìm thấy ở các cấp thấp hơn.
+
+Ví dụ, nếu bạn loại bỏ các cảnh sát ở cấp độ của câu thơ, VideoPsalm sử dụng, trong trật tự và nếu nó được thiết lập, phông chữ:
+-hát,
+-Nếu không bộ sưu tập,
+-Nếu một trong các bộ sưu tập,
+-Nếu không các cơ sở.
+
+VideoPsalm là tương tự với kinh thánh, hình ảnh, vv."},{
+Key:1005615,Text:"Không có"},{
+Key:1005616,Text:"Cơ sở"},{
+Key:1005618,Text:"Các bộ sưu tập"},{
+Key:1005619,Text:"Bộ sưu tập"},{
+Key:1005620,Text:"Giọng hát"},{
+Key:1005621,Text:"Stanza"},{
+Key:1005622,Text:"Kinh Thánh"},{
+Key:1005623,Text:"Kinh Thánh"},{
+Key:1005624,Text:"Di chúc"},{
+Key:1005625,Text:"Các cuốn sách trong kinh thánh"},{
+Key:1005626,Text:"Chương"},{
+Key:1005627,Text:"Câu thơ"},{
+Key:1005628,Text:"Giá trị mặc định"},{
+Key:1005629,Text:"Giá trị từ cơ thể của văn bản"},{
+Key:1005630,Text:"Trái"},{
+Key:1005631,Text:"Trung tâm"},{
+Key:1005632,Text:"Quyền"},{
+Key:1005633,Text:"Chứng minh"},{
+Key:1005634,Text:"Đầu trang"},{
+Key:1005635,Text:"Phương tiện truyền thông"},{
+Key:1005636,Text:"Dưới cùng"},{
+Key:1005650,Text:"&Mở lịch..."},{
+Key:1005651,Text:"&Thêm lịch..."},{
+Key:1005652,Text:"&Thêm slideshow hình ảnh..."},{
+Key:1005653,Text:"&Thêm tự trị video..."},{
+Key:1005654,Text:"&Thêm một số PowerPoints..."},{
+Key:1005655,Text:"Khi tôi mở một lịch:"},{
+Key:1005656,Text:"&Bảo tồn các văn bản của cuốn sách của tôi và kinh thánh"},{
+Key:1005657,Text:"&Duy trì phong cách của cuốn sách của tôi và kinh thánh"},{
+Key:1005667,Text:"&Các bộ sưu tập"},{
+Key:1005668,Text:"Hiển thị các bộ sưu tập (Alt + R)"},{
+Key:1005670,Text:"&Kinh Thánh"},{
+Key:1005671,Text:"Hiển thị Kinh Thánh (Alt + B)"},{
+Key:1005677,Text:"&Chiều rộng:"},{
+Key:1005680,Text:"&Mờ:"},{
+Key:1005681,Text:"&Độ sâu:"},{
+Key:1005682,Text:"&Giám đốc:"},{
+Key:1005686,Text:"Hiển thị một màu sắc màn hình trống, màu đen.
+Mô phỏng sự tuyệt chủng của máy chiếu."},{
+Key:1005687,Text:"Tiếp theo"},{
+Key:1005688,Text:"Tạm ứng cho các slide tiếp theo."},{
+Key:1005689,Text:"Tắt màn hình (Ctrl + W)"},{
+Key:1005690,Text:"Hiển thị văn bản (Ctrl + T)"},{
+Key:1005691,Text:"Hiện hoặc ẩn các văn bản trên một slide."},{
+Key:1005692,Text:"Lá chắn (Ctrl + B)"},{
+Key:1005693,Text:"Bảo tồn các giọng hát là quay phim chiếu slide.
+
+Để làm việc trên chương trình nghị sự hoặc tìm kiếm cho một bài hát hoặc một câu trong chiếu video của ca hát.
+
+Để ghi đè lên lá chắn, nhấp đúp vào một mục trên chương trình nghị sự."},{
+Key:1005694,Text:"Đóng băng"},{
+Key:1005695,Text:"Đóng băng các màn hình video mà không có đóng băng vùng xem trước.
+
+Để xem trước các bài trình bày trong thời gian quay phim chiếu."},{
+Key:1005696,Text:"Dự án (Ctrl + P)"},{
+Key:1005697,Text:"Dự kiến trình bày trên máy chiếu."},{
+Key:1005698,Text:"Chế độ 'Edition' (Ctrl + E)"},{
+Key:1005699,Text:"Thiết bị chuyển mạch từ người xem\"\" để \"Chỉnh sửa\" chế độ hoặc ngược lại."},{
+Key:1005702,Text:"Mở lịch hoặc tài liệu"},{
+Key:1005703,Text:"Mở lịch, hoặc thêm một bài thuyết trình PowerPoint, hình ảnh cho một slideshow, video, vv."},{
+Key:1005704,Text:"Tiết kiệm lịch"},{
+Key:1005705,Text:"Xóa"},{
+Key:1005706,Text:"Loại bỏ khoản mục đã chọn trong chương trình nghị sự (xóa)."},{
+Key:1005707,Text:"Mount (Ctrl + trang lên)"},{
+Key:1005708,Text:"Monte các yếu tố để bắt đầu chương trình nghị sự."},{
+Key:1005709,Text:"Xuống (Ctrl + trang xuống)"},{
+Key:1005710,Text:"Xuống các phần tử hướng tới kết thúc của chương trình nghị sự."},{
+Key:1005711,Text:"Độ sáng"},{
+Key:1005712,Text:"Mở một lịch"},{
+Key:1005713,Text:"Tiết kiệm các chương trình trên đĩa hoặc một phím USB."},{
+Key:1005721,Text:"Lựa chọn những câu thơ bằng cách tham khảo của họ.
+<i>Ví dụ: Romans 3:23-25, 30</i>
+
+Không nhập dấu trong tên của cuốn sách.
+<i>Ví dụ: 'N<b>e</b>h<b>e</b>mie' thay vì \"N<b>é</b>h<b>é</b>mie\".</i>
+
+Nhập hoặc một <b>': '</b>, một <b>\".\"</b> hoặc một <b>'v'</b> để tách các chương của những câu thơ.
+
+Bấm phím <b>'Chèn'</b> để thêm những câu thơ được lựa chọn trong chương trình."},{
+Key:1005722,Text:"Ý kiến (không dịch, để lại bằng tiếng Anh)"},{
+Key:1005723,Text:"Không thể ghi các tập tin
+{0} :
+{1}"},{
+Key:1005724,Text:"Lỗi"},{
+Key:1005725,Text:"Không thể đọc tập tin
+{0} :
+{1}"},{
+Key:1005730,Text:"Bạn có chắc bạn muốn loại bỏ phong cách của slideshow hình ảnh?
+Phong cách của slideshow hình ảnh sẽ có một giá trị tiêu chuẩn."},{
+Key:1005731,Text:"Bạn có chắc bạn muốn loại bỏ phong cách cơ sở?
+Phong cách cơ bản sẽ có một giá trị tiêu chuẩn."},{
+Key:1005732,Text:"Bạn có chắc bạn muốn loại bỏ phong cách của các bộ sưu tập không?
+Phong cách của các bộ sưu tập sẽ có một giá trị tiêu chuẩn."},{
+Key:1005733,Text:"Bạn có chắc bạn muốn loại bỏ phong cách kinh Thánh không?
+Phong cách của Kinh Thánh là sẽ có một giá trị tiêu chuẩn."},{
+Key:1005734,Text:"Bạn có chắc bạn muốn xóa bỏ phong cách này không?
+VideoPsalm áp dụng các thuộc tính phong cách tìm thấy thấp hơn trong hệ thống."},{
+Key:1005735,Text:"Phong cách rõ ràng"},{
+Key:1005736,Text:"Bạn có chắc bạn muốn loại bỏ phong cách của các đoạn video?
+Phong cách của các đoạn video sẽ có một giá trị tiêu chuẩn."},{
+Key:1005737,Text:"Một bộ sưu tập"},{
+Key:1005738,Text:"Không có bộ sưu tập"},{
+Key:1005739,Text:"Một kinh thánh"},{
+Key:1005740,Text:"Không có kinh thánh"},{
+Key:1005743,Text:"Phóng to font (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Tăng cỡ chữ."},{
+Key:1005745,Text:"Giảm các font (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Làm giảm kích thước của các font."},{
+Key:1005747,Text:"Đậm (Ctrl + B)"},{
+Key:1005748,Text:"Đặt văn bản đã chọn để in đậm."},{
+Key:1005749,Text:"Nghiêng (Ctrl + I)"},{
+Key:1005750,Text:"Đặt văn bản đã chọn để nghiêng."},{
+Key:1005751,Text:"Chỉ ra (Ctrl + U)"},{
+Key:1005752,Text:"Gạch dưới văn bản đã chọn."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Vẽ một đường ở giữa văn bản đã chọn."},{
+Key:1005755,Text:"Hiển thị / ẩn ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Hiển thị văn bản nhãn hiệu và khác ẩn định dạng biểu tượng."},{
+Key:1005757,Text:"Màu sắc font"},{
+Key:1005758,Text:"Thay đổi màu của văn bản."},{
+Key:1005759,Text:"Màu sắc của văn bản"},{
+Key:1005760,Text:"Cung cấp cho một màu sắc cho văn bản."},{
+Key:1005761,Text:"Xoá định dạng (Ctrl + space)"},{
+Key:1005762,Text:"Hoàn toàn xóa các định dạng của việc lựa chọn và giữ lại chỉ văn bản thuần tuý."},{
+Key:1005763,Text:"Hoàn tác (Ctrl + Z)"},{
+Key:1005764,Text:"Hủy bỏ các hoạt động cuối."},{
+Key:1005765,Text:"Làm lại (Ctrl + Y)"},{
+Key:1005766,Text:"Làm lại thao tác cuối."},{
+Key:1005767,Text:"Cắt (Ctrl + X)"},{
+Key:1005768,Text:"Cắt lựa chọn và chèn nó vào bảng tạm."},{
+Key:1005769,Text:"Sao chép (Ctrl + C)"},{
+Key:1005770,Text:"Sao phần chọn và đặt nó trên bảng tạm."},{
+Key:1005771,Text:"Dán (Ctrl + V)"},{
+Key:1005772,Text:"Dán nội dung của bảng tạm."},{
+Key:1005773,Text:"Tìm (Ctrl + F)"},{
+Key:1005774,Text:"Tìm kiếm văn bản trong tài liệu."},{
+Key:1005775,Text:"Thay thế (Ctrl + H)"},{
+Key:1005776,Text:"Thay thế văn bản trong tài liệu."},{
+Key:1005777,Text:"Phóng to"},{
+Key:1005778,Text:"Hiển thị tất cả"},{
+Key:1005779,Text:"Để chỉnh sửa một đoạn cụ thể, nhấp vào slide của nó."},{
+Key:1005780,Text:"Lựa chọn của câu thơ"},{
+Key:1005781,Text:"Sắp xếp bộ sưu tập được lựa chọn bởi bài hát tiêu đề của họ."},{
+Key:1005782,Text:"Đóng các chương trình hiện tại (và yêu cầu xác nhận của bạn nếu được lưu thay đổi)."},{
+Key:1005783,Text:"Điều chỉnh độ sáng của hình ảnh hoặc video nền.
+
+Cho phép các văn bản nêu bật, ngay cả trên một nền tảng barriole."},{
+Key:1005784,Text:"&Sao chép một mô tả về chương trình nghị sự"},{
+Key:1005785,Text:"&Bao gồm các lyrics của bài hát"},{
+Key:1005786,Text:"&Bao gồm trong Kinh Thánh câu thơ"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Mở trang facebook của VideoPsalm.
+
+Cho biết VideoPsalm xung quanh bạn:
+-bằng cách nhấp vào nút \"Tôi thích\"
+-bằng cách trở thành người bạn của ông.
+
+<b>Lưu ý:</b> Để loại bỏ các quảng cáo trong Facebook, cài đặt plugin miễn phí <b>Adblock Plus</b>.
+
+Để ẩn biểu tượng xã hội VideoPsalm, vô hiệu hóa chúng trong \"Tùy chọn\" → \"Cử\" tab."},{
+Key:1005791,Text:"Mở trang VideoPsalm Twitter, để được thông báo về các bài viết mới từ các blog.
+
+Để ẩn biểu tượng xã hội VideoPsalm, vô hiệu hóa chúng trong \"Tùy chọn\" → \"Cử\" tab."},{
+Key:1005792,Text:"Mở trang VideoPsalm YouTube, nơi bạn sẽ tìm thấy mã số hướng dẫn về việc sử dụng của VideoPsalm.
+
+Để ẩn biểu tượng xã hội VideoPsalm, vô hiệu hóa chúng trong \"Tùy chọn\" → \"Cử\" tab."},{
+Key:1005793,Text:"Thêm một bài hát mới có sản phẩm nào (hoặc quảng cáo) vào bộ sưu tập đã chọn."},{
+Key:1005794,Text:"Cho biết thêm một bộ sưu tập có sản phẩm nào mới."},{
+Key:1005795,Text:"Sắp xếp các bài hát của bộ sưu tập được lựa chọn bởi số lượng của chúng."},{
+Key:1005800,Text:"Stanza"},{
+Key:1005801,Text:"Hợp xướng"},{
+Key:1005802,Text:"Ít"},{
+Key:1005803,Text:"Bridge"},{
+Key:1005804,Text:"Nhãn hiệu"},{
+Key:1005805,Text:"Giới thiệu"},{
+Key:1005806,Text:"Đầu ra"},{
+Key:1005807,Text:"Slip"},{
+Key:1005808,Text:"Nhạc cụ"},{
+Key:1005809,Text:"Khác"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"TÔI"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Đóng"},{
+Key:1005851,Text:"&Ngôn ngữ:"},{
+Key:1005852,Text:"&Nhà xuất bản:"},{
+Key:1005853,Text:"Tất cả"},{
+Key:1005859,Text:"Transpose bài hát thỏa thuận tùy thuộc vào vị trí của capodiastre."},{
+Key:1005860,Text:"Tìm các bài hát bao gồm tiêu đề (hoặc bí danh) hoặc lời chứa những từ bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005861,Text:"Thực hiện một tìm kiếm trong hai giai đoạn, lợi thế của một cách nhanh chóng Hiển thị một danh sách ngắn của bài hát:
+
+1 Tìm thấy trong một thời gian đầu tiên bài hát bao gồm tiêu đề (hoặc bí danh) có chứa các từ mà bạn nhập vào.
+
+Rằng bạn thêm từ, có đến một thời gian nơi hầu hết các bài hát bất kỳ có thể đồng ý.
+
+2. Từ thời điểm này, VideoPsalm sẽ tìm kiếm các từ trong lời bài hát các bài hát.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005862,Text:"Tìm các bài hát bởi nhạc sĩ bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005863,Text:"Tìm bài hát mà đối phó với các chủ đề mà bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005864,Text:"Tìm các bài hát lấy cảm hứng từ tài liệu tham khảo trong kinh thánh mà bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005865,Text:"Là những bài hát mà đã CCLI bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005866,Text:"Tìm bài hát có bản quyền có chứa các từ mà bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005867,Text:"Tìm bài hát mà bản ghi nhớ 1 có chứa các từ mà bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005868,Text:"Tìm bài hát mà ghi 2 chứa những từ mà bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005869,Text:"Tìm bài hát 3 ghi có chứa các từ bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005870,Text:"Tìm bài hát có tiêu đề hoặc bí danh chứa những từ mà bạn nhập vào.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005871,Text:"Tìm các bài hát có thỏa thuận trong lời bài hát.
+
+Ngoài ra, bạn có thể tìm kiếm một bài hát của số của nó."},{
+Key:1005872,Text:"&Phiên bản:"},{
+Key:1005873,Text:"&Phiên bản:"},{
+Key:1005874,Text:"Ngày của bạn phiên bản của bộ sưu tập"},{
+Key:1005875,Text:"Chỉ ra ngày mà bộ sưu tập này đã được Cập Nhật bởi VideoPsalm cho thời gian qua.
+
+Thông qua thư viện trực tuyến VideoPsalm nhập khẩu wizard, bạn có thể kiểm tra xem có phiên bản mới hơn của sổ tay này.
+
+VideoPsalm trực tuyến đôi khi cập nhật một số bộ sưu tập, để sửa chữa bất kỳ lỗi chính tả ví dụ."},{
+Key:1005876,Text:"Ngày của bạn phiên bản của Kinh Thánh"},{
+Key:1005877,Text:"Chỉ ra ngày mà kinh thánh này đã được Cập Nhật bởi VideoPsalm cho thời gian qua.
+
+Thông qua các thư viện trực tuyến VideoPsalm import wizard, bạn có thể kiểm tra nếu có một phiên bản mới hơn của dịch.
+
+VideoPsalm trực tuyến đôi khi cập nhật một số kinh thánh, để sửa chữa bất kỳ lỗi chính tả ví dụ."},{
+Key:1005878,Text:"Nén"},{
+Key:1005879,Text:"Nén"},{
+Key:1005880,Text:"VideoPsalm có thể nén các bộ sưu tập của bạn và kinh thánh của bạn, do đó tiết kiệm một số không gian đĩa.
+
+Sách và kinh thánh mà bạn tải về thông qua Import Wizard được thường nén, để tăng tốc độ tải xuống và để giảm lưu lượng truy cập internet trên trang web VideoPsalm."},{
+Key:1005881,Text:"&Nén"},{
+Key:1005882,Text:"&Nén"},{
+Key:1005884,Text:"Bạn có thực sự muốn xóa Kinh Thánh '{0}'?
+
+Các tập tin tương ứng với kinh thánh này sẽ không bị xoá khỏi đĩa:
+Tiện ích mở rộng của nó sẽ là đổi tên thành \".ignore."},{
+Key:1005885,Text:"Xóa một kinh thánh"},{
+Key:1005886,Text:"Xin vui lòng chờ đợi xin vui lòng"},{
+Key:1005887,Text:"Tải trong tiến độ..."},{
+Key:1005888,Text:"Cựu Ước"},{
+Key:1005889,Text:"Tân ước"},{
+Key:1005890,Text:"Hồ sơ hiện tại..."},{
+Key:1005891,Text:"&Chuyển nhập hình ảnh"},{
+Key:1005892,Text:"Chọn hình ảnh bạn muốn nhập khẩu và sau đó bấm vào 'mở'."},{
+Key:1005893,Text:"Bạn đã nhập {0} khung (s)."},{
+Key:1005894,Text:"Không có hình ảnh đã được chuyển nhập.
+(Cô (s) được tìm thấy (s) trong bộ sưu tập)."},{
+Key:1005895,Text:"&Tái tạo hình thu nhỏ"},{
+Key:1005896,Text:"Tái tạo hình thu nhỏ"},{
+Key:1005897,Text:"Bạn có muốn tạo hình thu nhỏ?
+
+Nó có thể là cần thiết để tái tạo hình thu nhỏ của hình ảnh
+Khi bạn đã thực hiện các thay đổi bên ngoài VideoPsalm."},{
+Key:1005898,Text:"&Xóa hình ảnh"},{
+Key:1005899,Text:"Loại bỏ ảnh"},{
+Key:1005900,Text:"Bạn có thực sự muốn xóa hình ảnh '{0}'?"},{
+Key:1005901,Text:"&Khám phá thư mục hình ảnh"},{
+Key:1005902,Text:"&Xoùa aûnh ñaõ choïn"},{
+Key:1005903,Text:"&Chuyển nhập video"},{
+Key:1005904,Text:"Chọn video mà bạn muốn nhập khẩu và sau đó bấm vào 'mở'."},{
+Key:1005905,Text:"Bạn đã nhập {0} video (s)."},{
+Key:1005906,Text:"Không có video đã được chuyển nhập.
+(Cô (s) được tìm thấy (s) trong bộ sưu tập)."},{
+Key:1005907,Text:"&Tái tạo hình thu nhỏ"},{
+Key:1005908,Text:"&Xóa video"},{
+Key:1005909,Text:"Xóa một đoạn video"},{
+Key:1005910,Text:"Bạn có thực sự muốn xóa video '{0}'?"},{
+Key:1005911,Text:"&Khám phá mục video"},{
+Key:1005912,Text:"&Xóa video đã chọn"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Chuyển nhập hình ảnh"},{
+Key:1005915,Text:"Chuyển nhập video"},{
+Key:1005917,Text:"Không thể tạo thư mục
+{0} :
+{1}"},{
+Key:1005918,Text:"Thư mục được chỉ định đã không hỗ trợ:
+{0}"},{
+Key:1005919,Text:"Thư mục phải được điền vào."},{
+Key:1005920,Text:"Tên thư mục không thể chứa các ký tự sau:
+{0}"},{
+Key:1005921,Text:"Khôi phục lại cuốn sách và kinh thánh"},{
+Key:1005922,Text:"Để khôi phục lại các bộ sưu tập, kinh thánh, hình ảnh hoặc video, ví dụ từ bản sao lưu trên một USB dính."},{
+Key:1005923,Text:"Đóng"},{
+Key:1005930,Text:"&Sao chép bài hát"},{
+Key:1005931,Text:"&Di chuyển bài hát"},{
+Key:1005932,Text:"Bạn có thực sự muốn sao chép bài hát '{0}'.
+bộ sưu tập '{1}'?"},{
+Key:1005933,Text:"Bạn có thực sự muốn di chuyển các bài hát '{0}'.
+bộ sưu tập '{1}'?"},{
+Key:1005934,Text:"&Nhập các tài liệu tham khảo qua các chữ viết tắt"},{
+Key:1005935,Text:"&Hiển thị tên của cuốn sách bằng tiếng Pháp"},{
+Key:1005936,Text:"(Bản sao)"},{
+Key:1005937,Text:"Một cuốn sách mới có sẵn:
+{0}"},{
+Key:1005938,Text:"Các bộ sưu tập mới có sẵn: {0}"},{
+Key:1005939,Text:"Sửa chữa đã được thực hiện
+Các bộ sưu tập '{0}'."},{
+Key:1005940,Text:"Sửa chữa đã được thực hiện
+mã sau: {0}"},{
+Key:1005941,Text:"Mở thuật sĩ nhập khẩu các bộ sưu tập"},{
+Key:1005942,Text:"Một kinh Thánh mới có sẵn:
+{0}"},{
+Key:1005943,Text:"Kinh Thánh mới có sẵn: {0}"},{
+Key:1005944,Text:"Sửa chữa đã được thực hiện
+Kinh Thánh '{0}'."},{
+Key:1005945,Text:"Sửa chữa đã được thực hiện
+trong các kinh thánh sau: {0}"},{
+Key:1005946,Text:"Mở thuật sĩ để nhập kinh thánh"},{
+Key:1005947,Text:"VideoPsalm mới có
+ở {0}"},{
+Key:1005948,Text:"VideoPsalm là mới có sẵn trong: {0}"},{
+Key:1005949,Text:"Sửa chữa đã được thực hiện
+Các nhãn ở {0}"},{
+Key:1005950,Text:"Sửa chữa đã được thực hiện
+Các nhãn ngôn ngữ sau: {0}"},{
+Key:1005951,Text:"Mở nhập khẩu thuật sĩ nhãn"},{
+Key:1005952,Text:"Phiên bản mới hơn
+VideoPsalm có sẵn:"},{
+Key:1005953,Text:"Hiển thị tin tức"},{
+Key:1005954,Text:"Tự động"},{
+Key:1005955,Text:"Khám phá mục đã chọn"},{
+Key:1005956,Text:"Chọn một thư mục"},{
+Key:1005957,Text:"Hiển thị tập tin tại"},{
+Key:1005958,Text:"Tiết kiệm"},{
+Key:1005959,Text:"Cho phép tiết kiệm của bạn bộ sưu tập, kinh thánh, hình ảnh hoặc video, hoặc thực hiện một phiên bản di động của VideoPsalm, ví dụ trên một thanh USB."},{
+Key:1005960,Text:"&Khôi phục..."},{
+Key:1005961,Text:"VideoPsalm là không thể hiển thị tài liệu PowerPoint.
+
+(Không có PowerPoint loại ứng dụng đã được phát hiện trên máy tính của bạn)."},{
+Key:1005962,Text:"Lỗi PowerPoint"},{
+Key:1005963,Text:"Làm cho {0} có thể chỉnh sửa trong bộ sưu tập '{1}'."},{
+Key:1005964,Text:"Làm cho {0} có thể chỉnh sửa trong bộ sưu tập..."},{
+Key:1005965,Text:"Làm cho {0} có thể chỉnh sửa trong bộ sưu tập mới '{1}'."},{
+Key:1005966,Text:"Đoạn Kinh Thánh"},{
+Key:1005967,Text:"&Tùy chỉnh các đoạn Kinh Thánh"},{
+Key:1005968,Text:"&Trò chơi mô tả:"},{
+Key:1005969,Text:"&Ngôn ngữ:"},{
+Key:1005970,Text:"&Nhà xuất bản:"},{
+Key:1005971,Text:"&Quản trị viên:"},{
+Key:1005973,Text:"&Quản trị viên:"},{
+Key:1005974,Text:"Trên văn bản"},{
+Key:1005975,Text:"Thỏa thuận trên văn bản"},{
+Key:1005976,Text:"Đây là chế độ được đề nghị để chỉnh sửa lời bài hát.
+Khi bạn chỉnh sửa văn bản, mỗi thỏa thuận di chuyển bằng chữ mà nó được neo.
+
+Khi bạn <b>sao chép văn bản chứa thỏa thuận</b>, thỏa thuận được sao chép với văn bản, định dạng ChordPro.
+
+Khi bạn dán văn bản chứa các thỏa thuận trong các định dạng ChordPro, VideoPsalm Hiển thị các thỏa thuận trên văn bản.
+
+<b>Để thêm một thỏa thuận</b>, chèn bên trái của những lá thư mà bạn muốn gắn nó, bởi xung quanh nó với khung <b>[]</b>.
+
+<b>Để xóa một thỏa thuận</b>, xoá thư mà nó là docked và sau đó nhập lại thư.
+
+<b>Để sửa đổi một thỏa thuận</b>, xóa sau đó chèn nó một cách chính xác (hoặc sử dụng \" <b>Định dạng ChordPro</b> \" chế độ)."},{
+Key:1005977,Text:"Định dạng ChordPro"},{
+Key:1005978,Text:"Thỏa thuận trong các định dạng ChordPro"},{
+Key:1005979,Text:"Trong chế độ này:
+
+-VideoPsalm Hiển thị các lời bài hát và chords với <b>định dạng ChordPro</b>.
+
+-Nó là chế độ lý tưởng để chỉnh sửa hiệp định: VideoPsalm tự động thêm dấu ngoặc [] xung quanh các văn bản mà bạn nhập vào.
+Ví dụ, để thêm một dây nhau c, gõ «Làm» và VideoPsalm sẽ chèn \"[làm]\".
+
+Chú ý: chế độ này là không thích hợp để chỉnh sửa lời, bởi vì phụ thuộc vào trường hợp, VideoPsalm bao quanh các chữ cái móc.
+Sử dụng thay vì '<b>trên văn bản</b>' chế độ chỉnh sửa văn bản."},{
+Key:1005980,Text:"Thỏa thuận"},{
+Key:1005981,Text:"Bản sao"},{
+Key:1005982,Text:"Bản sao một mô tả của lịch và đặt nó trên bảng tạm."},{
+Key:1005983,Text:"&Cho phép PowerPoint để sử dụng \"chương trình\"."},{
+Key:1005984,Text:"Khi hộp này được chọn, VideoPsalm lá PowerPoint hiển thị giao diện lệnh để lái sự tiến bộ của trình bày."},{
+Key:1005985,Text:"Trình duyệt một lần"},{
+Key:1005986,Text:"Loop"},{
+Key:1005987,Text:"Tạm ứng theo cách thủ công"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Tự động trước..."},{
+Key:1005990,Text:"&Tạm ứng theo cách thủ công"},{
+Key:1005991,Text:"&Loop"},{
+Key:1005992,Text:"&Trình duyệt một lần"},{
+Key:1005993,Text:"&Thời đoạn (giây):"},{
+Key:1005994,Text:"&Làm biến mất các văn bản và sau đó tắt"},{
+Key:1005995,Text:"&Theo dõi với phần tử tiếp theo"},{
+Key:1005996,Text:"&Tắt trước khi đi"},{
+Key:1005997,Text:"&Biến mất văn bản, sau đó làm theo"},{
+Key:1005998,Text:"&Hiển thị với nhau với phần tử tiếp theo (song ngữ)"},{
+Key:1005999,Text:"&Thám hiểm"},{
+Key:1006000,Text:"Import Wizard"},{
+Key:1006001,Text:"Chào mừng bạn đến nhập khẩu của cuốn sách, kinh thánh, hình ảnh và video hướng dẫn"},{
+Key:1006002,Text:"Thuật sĩ này đơn giản hoá nhập khẩu của cuốn sách, kinh thánh, hình ảnh và video từ các thư viện trực tuyến VideoPsalm hoặc phổ biến các định dạng hướng dẫn bạn thông qua một loạt các bước."},{
+Key:1006003,Text:"Bấm tiếp để tiếp tục"},{
+Key:1006004,Text:"&Chọn..."},{
+Key:1006005,Text:"&Tiếp theo &gt;"},{
+Key:1006006,Text:"&&lt; Trước"},{
+Key:1006007,Text:"&Trợ giúp"},{
+Key:1006008,Text:"&Kết thúc"},{
+Key:1006009,Text:"&Bị bỏ rơi"},{
+Key:1006010,Text:"Bạn có thể nhập sách, kinh thánh, hình ảnh hoặc video"},{
+Key:1006011,Text:"Chọn những gì bạn muốn chuyển nhập"},{
+Key:1006012,Text:"Nhập khẩu một bộ sưu tập"},{
+Key:1006013,Text:"Nhập khẩu một kinh thánh"},{
+Key:1006014,Text:"Chuyển nhập hình ảnh"},{
+Key:1006015,Text:"Chuyển nhập video"},{
+Key:1006016,Text:"Nhập khẩu một ngôn ngữ"},{
+Key:1006020,Text:"&Khởi tạo"},{
+Key:1006021,Text:"Khởi thư mục để một giá trị tiêu chuẩn"},{
+Key:1006023,Text:"Tóm tắt trước khi nhập khẩu"},{
+Key:1006024,Text:"Bấm tiếp để bắt đầu nhập khẩu"},{
+Key:1006025,Text:"Nhập hiện tại"},{
+Key:1006026,Text:"Nhập xong"},{
+Key:1006027,Text:"Để đóng thuật sĩ, bấm hoàn tất
+
+Bấm Lùi lại để nhập khẩu một bộ sưu tập hoặc một kinh thánh khác"},{
+Key:1006029,Text:"Bạn có {0} chuyển nhập thành công bài hát trong {1} bộ sưu tập."},{
+Key:1006030,Text:"Bạn có {0} chuyển nhập thành công bài hát trong bộ sưu tập mới '{1}'."},{
+Key:1006031,Text:"Bạn đã nhập các '{0}' kinh thánh với sự thành công."},{
+Key:1006032,Text:"Bạn đã nhập {0} kinh thánh với sự thành công."},{
+Key:1006033,Text:"Bạn đã nhập '{0}' ngôn ngữ với sự thành công."},{
+Key:1006034,Text:"Bạn đã nhập {0} ngôn ngữ thành công."},{
+Key:1006035,Text:"Bạn có muốn dừng việc nhập khẩu?"},{
+Key:1006036,Text:"Chuyển nhập không hoàn tất đúng cách."},{
+Key:1006037,Text:"Nhập tên cho bộ sưu tập mới của VideoPsalm"},{
+Key:1006038,Text:"Các bộ sưu tập mới sẽ được lưu dưới tên này. Tên này có thể được thay đổi sau này"},{
+Key:1006039,Text:"&Tên cho bộ sưu tập:"},{
+Key:1006040,Text:"Một tên cho này kinh Thánh mới của VideoPsalm"},{
+Key:1006041,Text:"Kinh Thánh mới sẽ được lưu dưới tên này. Tên này có thể được thay đổi sau này"},{
+Key:1006042,Text:"&Tên cho kinh thánh:"},{
+Key:1006051,Text:"Chọn bộ sưu tập"},{
+Key:1006052,Text:"Chọn kinh thánh"},{
+Key:1006053,Text:"Chọn một tập tin"},{
+Key:1006054,Text:"Chọn một thư mục"},{
+Key:1006055,Text:"&Tập tin:"},{
+Key:1006056,Text:"&Tập tin:"},{
+Key:1006057,Text:"Chọn ngôn ngữ"},{
+Key:1006058,Text:"Thư mục '{0}' không tồn tại."},{
+Key:1006060,Text:"Không thể truy cập thư mục '{0}'.
+
+{1}"},{
+Key:1006061,Text:"Mục '{0}' không tồn tại."},{
+Key:1006062,Text:"Chú ý: Nạp nhiều bộ sưu tập có thể điền vào bộ nhớ của máy tính và làm chậm việc tìm kiếm các bài hát.
+Để thực sự tải về bạn {0} bộ sưu tập?"},{
+Key:1006063,Text:"Chú ý: Nạp nhiều kinh thánh có thể điền vào bộ nhớ của máy tính.
+Để thực sự tải về bạn {0} Bibles?"},{
+Key:1006064,Text:"Tên mới có thể không được để trống."},{
+Key:1006065,Text:"Tên mới không thể chứa sau characters: {0}"},{
+Key:1006066,Text:"Hiện đã là một bộ sưu tập với tên '{0}'."},{
+Key:1006067,Text:"Hiện đã là một kinh thánh với tên '{0}'."},{
+Key:1006068,Text:"Bạn dừng việc nhập khẩu."},{
+Key:1006069,Text:"Kiểm tra kết nối internet của bạn."},{
+Key:1006070,Text:"Có sẵn từ {0}"},{
+Key:1006071,Text:"Phiên bản mới có sẵn từ {0}"},{
+Key:1006072,Text:"Phiên bản của bạn xuất hiện từ {0}"},{
+Key:1006073,Text:"Các phiên bản của các {0} được Cập Nhật."},{
+Key:1006074,Text:"Tiêu đề"},{
+Key:1006075,Text:"Nhà nước"},{
+Key:1006076,Text:"Không được tải xuống"},{
+Key:1006077,Text:"Cập Nhật"},{
+Key:1006078,Text:"Bản Cập Nhật"},{
+Key:1006079,Text:"Mới"},{
+Key:1006080,Text:"Bản cập nhật mới"},{
+Key:1006081,Text:"Không có bộ sưu tập được chọn.
+Bạn phải chọn ít nhất một bộ sưu tập."},{
+Key:1006082,Text:"Kinh Thánh không được chọn.
+Bạn phải chọn ít nhất một kinh thánh."},{
+Key:1006083,Text:"Ngôn ngữ không được chọn.
+Bạn phải chọn ít nhất một ngôn ngữ."},{
+Key:1006084,Text:"Mã"},{
+Key:1006085,Text:"Nguồn file: <b>{0}</b>"},{
+Key:1006086,Text:"Thư mục nguồn:
+<b>{0}</b>"},{
+Key:1006087,Text:"Tìm kiếm tài liệu"},{
+Key:1006090,Text:"Tên được đặt cho đến mới Kinh Thánh VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Bộ sưu tập mới của VideoPsalm name: <b>{0}</b>"},{
+Key:1006095,Text:"Trong thư viện của VideoPsalm trực tuyến, nó sẽ xảy ra rằng một số tài liệu bổ sung hoặc Cập Nhật (ví dụ như để sửa chữa một lỗi đánh máy).
+Tùy thuộc vào nhà nước của các tài liệu trên, bạn có thể quyết định có hay không để tải về chúng.
+
+<b>Ở đây là làm thế nào để phân biệt với tiểu bang tài liệu:</b>
+-Các tài liệu mà bạn đã không tải về được hiển thị bình thường.
+-Các tài liệu mà bạn đã tải lên và được Cập Nhật được hiển thị trong <i>nghiêng</i>. Họ được đánh dấu bằng một <image=check_16>OK.
+Bạn không cần phải tái - tải về, ngoại trừ trong trường hợp mà bạn muốn hủy bỏ mọi thay đổi bạn đã thực hiện.
+-Các tài liệu mà bạn đã tải lên và trong khi chờ đợi chúng tôi đã thực hiện chỉnh sửa trong VideoPsalm thư viện trực tuyến, xuất hiện ở <b>dạng chữ đậm</b>. Họ được đánh dấu với một bút chì <image=pencil2_16>.
+
+Hộp văn bản bên phải mô tả sửa chữa những gì đã được thực hiện vào tài liệu: điều này có thể giúp bạn quyết định nếu bạn muốn tái - tải về.
+
+<b>Sự chú ý:</b> Nếu bạn cập nhật tài liệu của bạn trong tải lại, bạn sẽ mất bất kỳ thay đổi nào bạn đã thực hiện, cũng như phong cách thuộc tính bởi vì VideoPsalm thay thế của bạn mà nó tải.
+Tập tin riêng của bạn sẽ không bị xóa, Tuy nhiên: nó vẫn còn trên đĩa nhưng sẽ trở thành vô hình trong VideoPsalm vì VideoPsalm đổi tên mở rộng của nó vào .ignore.
+
+<b>Hội đồng</b> : chỉ tải về các tài liệu mà sẽ hữu ích.
+Trong thực tế, nếu bạn có quá nhiều tài liệu, tải VideoPsalm sẽ trở thành có lẽ chậm hơn, giống như tìm kiếm theo từ khóa.
+
+Lưu ý rằng bạn có thể ở bất kỳ thời gian xóa một cuốn sách hoặc một kinh thánh của VideoPsalm của bạn. Để làm điều này, hãy sử dụng nút ' <image=delete2_16>xóa ' trong tab 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Lịch sử thay đổi '{0}'."},{
+Key:1006100,Text:"Các bộ sưu tập của thư viện VideoPsalm trực tuyến"},{
+Key:1006105,Text:"Bài hát EasySlides"},{
+Key:1006110,Text:"Bài hát MediaShout"},{
+Key:1006115,Text:"Bài hát OpenLP"},{
+Key:1006116,Text:"Bài hát VerseView"},{
+Key:1006120,Text:"Các bài hát ở định dạng 'OpenLyrics'."},{
+Key:1006125,Text:"OpenSong bài hát"},{
+Key:1006130,Text:"Một bộ sưu tập của Psalmo"},{
+Key:1006131,Text:"Một bộ sưu tập trong định dạng văn bản"},{
+Key:1006132,Text:"Bài hát của năm 2009 EasyWorship"},{
+Key:1006133,Text:"Bài hát trong định dạng \"ChordPro\"."},{
+Key:1006134,Text:"Bài hát của WebAsaph"},{
+Key:1006135,Text:"Các bài hát ở định dạng «CCLI."},{
+Key:1006140,Text:"Kinh Thánh từ thư viện VideoPsalm trực tuyến"},{
+Key:1006145,Text:"Một kinh Thánh Kinh Thánh cơ sở dữ liệu"},{
+Key:1006150,Text:"Một kinh thánh của OpenLP"},{
+Key:1006155,Text:"Một kinh thánh của OpenSong"},{
+Key:1006160,Text:"Một kinh Thánh Kinh Thánh toạc"},{
+Key:1006165,Text:"Một kinh thánh Zefania"},{
+Key:1006166,Text:"Một kinh thánh của EasySlides"},{
+Key:1006167,Text:"Một kinh thánh trong các định dạng \"Osis\"."},{
+Key:1006168,Text:"Một kinh thánh trong cuốn sách «USFM» định dạng (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Chọn bộ sưu tập của thư viện VideoPsalm trực tuyến bạn muốn chuyển nhập vào VideoPsalm của bạn"},{
+Key:1006185,Text:"Chọn cơ sở dữ liệu của EasySlides có chứa các bài hát bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin mở rộng .mdb)"},{
+Key:1006190,Text:"Chọn cơ sở dữ liệu của MediaShout có chứa các bài hát bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin mở rộng .mdb)"},{
+Key:1006195,Text:"Chọn cơ sở dữ liệu của OpenLP có chứa các bài hát bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin .sqlite phần mở rộng)"},{
+Key:1006196,Text:"Chọn một cơ sở dữ liệu của VerseView có chứa các bài hát bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin .db phần mở rộng)"},{
+Key:1006200,Text:"Chọn một thư mục có chứa các bài hát ở định dạng 'OpenLyrics' bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin .xml mở rộng)"},{
+Key:1006205,Text:"Chọn một thư mục có chứa OpenSong bài hát bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin mà không có phần mở rộng)"},{
+Key:1006210,Text:"Chọn một xuất khẩu Psalmo tóm RTF định dạng bạn muốn chuyển nhập vào của bạn VideoPsalm (mở rộng .rtf file)"},{
+Key:1006211,Text:"Chọn một bộ sưu tập trong định dạng văn bản bạn muốn chuyển nhập vào của bạn VideoPsalm (phần mở rộng tập tin txt)"},{
+Key:1006212,Text:"Chọn cơ sở dữ liệu của EasyWorship 2009 có chứa các bài hát bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin .db phần mở rộng)"},{
+Key:1006213,Text:"Chọn một thư mục có chứa các bài hát ở định dạng ChordPro bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin .chordpro, .chopro, .crd hoặc .cho mở rộng)"},{
+Key:1006214,Text:"Chọn cơ sở dữ liệu của WebAsaph có chứa các bài hát bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin mở rộng .ltc)"},{
+Key:1006215,Text:"Chọn một thư mục có chứa các bài hát ở định dạng CCLI để nhập vào của bạn VideoPsalm (tập tin .usr mở rộng)"},{
+Key:1006220,Text:"Chọn Bibles của thư viện trực tuyến VideoPsalm bạn muốn chuyển nhập vào VideoPsalm của bạn"},{
+Key:1006225,Text:"Chọn một kinh thánh của Kinh Thánh Database, bạn muốn nhập vào của bạn VideoPsalm (phần mở rộng tập tin txt)"},{
+Key:1006230,Text:"Chọn một kinh thánh OpenLP, bạn muốn nhập vào của bạn VideoPsalm (tập tin .sqlite phần mở rộng)"},{
+Key:1006235,Text:"Chọn một kinh thánh OpenSong bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin mà không có phần mở rộng)"},{
+Key:1006240,Text:"Chọn một kinh Thánh Kinh Thánh toạc, bạn muốn nhập vào của bạn VideoPsalm (phần mở rộng tập tin txt)"},{
+Key:1006245,Text:"Chọn một kinh thánh Zefania bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin .xml mở rộng)"},{
+Key:1006247,Text:"Chọn một kinh thánh EasySlides bạn muốn chuyển nhập vào của bạn VideoPsalm (tập tin mở rộng .mdb)"},{
+Key:1006248,Text:"Chọn một kinh thánh trong định dạng \"Osis\" để nhập vào của bạn VideoPsalm (mở rộng .xml, .osi, hoặc .osis tập tin)"},{
+Key:1006249,Text:"Chọn những sách kinh thánh \"USFM\" định dạng để nhập vào của bạn VideoPsalm (phần mở rộng .sfm hoặc .usfm tập tin)"},{
+Key:1006252,Text:"Chọn ngôn ngữ của thư viện trực tuyến VideoPsalm bạn muốn chuyển nhập vào VideoPsalm của bạn"},{
+Key:1006255,Text:"Chuyển nhập <b>{0} collection (s) của thư viện VideoPsalm trực tuyến</b> :
+{1}"},{
+Key:1006260,Text:"Nhập khẩu <b>EasySlides bài hát</b>"},{
+Key:1006265,Text:"Nhập khẩu <b>các bài hát của MediaShout</b>"},{
+Key:1006270,Text:"<b>Nhập khẩu OpenLP bài hát</b>"},{
+Key:1006271,Text:"Nhập khẩu <b>VerseView bài hát</b>"},{
+Key:1006275,Text:"Nhập khẩu <b>các bài hát ở định dạng «OpenLyrics»</b>"},{
+Key:1006280,Text:"<b>Nhập khẩu OpenSong bài hát</b>"},{
+Key:1006285,Text:"Nhập khẩu <b>một bộ sưu tập của Psalmo</b>"},{
+Key:1006286,Text:"Nhập khẩu <b>một bộ sưu tập văn bản</b>"},{
+Key:1006287,Text:"<b>Nhập khẩu các bài hát của năm 2009 EasyWorship</b>"},{
+Key:1006288,Text:"<b>Nhập khẩu các bài hát ở định dạng ChordPro</b>"},{
+Key:1006289,Text:"Nhập khẩu <b>các bài hát của WebAsaph</b>"},{
+Key:1006290,Text:"Nhập khẩu <b>định dạng CCLI bài hát</b>"},{
+Key:1006295,Text:"Chuyển nhập <b>{0} kinh thánh (s) từ thư viện VideoPsalm trực tuyến</b> :
+{1}"},{
+Key:1006300,Text:"Nhập khẩu <b>một kinh Thánh Kinh Thánh cơ sở dữ liệu</b>"},{
+Key:1006305,Text:"Nhập khẩu <b>một kinh thánh của OpenLP</b>"},{
+Key:1006310,Text:"Nhập khẩu <b>một kinh thánh của OpenSong</b>"},{
+Key:1006315,Text:"Nhập khẩu <b>một kinh Thánh Kinh Thánh toạc</b>"},{
+Key:1006320,Text:"Nhập khẩu <b>Một kinh thánh Zefania</b>"},{
+Key:1006321,Text:"Nhập khẩu <b>Một kinh thánh EasySlides</b>"},{
+Key:1006322,Text:"Nhập khẩu <b>một kinh thánh trong các định dạng \"Osis\"</b>"},{
+Key:1006323,Text:"Nhập khẩu <b>một kinh thánh trong các định dạng «USFM»</b>"},{
+Key:1006325,Text:"Chuyển nhập <b>{0} ngôn ngữ (s) của thư viện VideoPsalm trực tuyến</b> :
+{1}"},{
+Key:1006340,Text:"Chọn cơ sở dữ liệu của EasySlide"},{
+Key:1006345,Text:"Chọn cơ sở dữ liệu MediaShout"},{
+Key:1006350,Text:"Chọn cơ sở dữ liệu của OpenLP"},{
+Key:1006351,Text:"Chọn một cơ sở dữ liệu của VerseView"},{
+Key:1006355,Text:"Chọn một thư mục có chứa các bài hát ở định dạng 'OpenLyrics'."},{
+Key:1006360,Text:"Chọn một thư mục có chứa các bài hát của OpenSong"},{
+Key:1006365,Text:"Chọn một tập tin RTF có xuất khẩu Psalmo bài hát"},{
+Key:1006366,Text:"Chọn một tập tin có chứa các bài hát ở định dạng văn bản"},{
+Key:1006367,Text:"Chọn cơ sở dữ liệu của EasyWorship 2009"},{
+Key:1006368,Text:"Chọn một thư mục có chứa các bài hát ở định dạng \"ChordPro\"."},{
+Key:1006369,Text:"Chọn cơ sở dữ liệu WebAsaph"},{
+Key:1006370,Text:"Chọn một thư mục có chứa các bài hát ở định dạng «CCLI."},{
+Key:1006375,Text:"Chọn một kinh thánh của BibleDatabase"},{
+Key:1006380,Text:"Chọn một kinh thánh của OpenLP"},{
+Key:1006385,Text:"Chọn một kinh thánh của OpenSong"},{
+Key:1006390,Text:"Chọn một kinh Thánh Kinh Thánh toạc"},{
+Key:1006395,Text:"Chọn một kinh thánh Zefania"},{
+Key:1006397,Text:"Chọn một kinh thánh của EasySlides"},{
+Key:1006398,Text:"Hãy chọn một kinh thánh trong các định dạng \"Osis\"."},{
+Key:1006399,Text:"Chọn những sách kinh thánh một trong các định dạng \"USFM."},{
+Key:1006405,Text:"Cơ sở dữ liệu EasySlide"},{
+Key:1006410,Text:"Cơ sở dữ liệu MediaShout 4"},{
+Key:1006411,Text:"Cơ sở dữ liệu MediaShout 3"},{
+Key:1006415,Text:"Cơ sở dữ liệu OpenLP"},{
+Key:1006416,Text:"Cơ sở dữ liệu của EasyWorship 2009"},{
+Key:1006417,Text:"Cơ sở dữ liệu VerseView"},{
+Key:1006420,Text:"Thư mục '{0}'.
+chứa không có ca hát tại các định dạng 'OpenLyrics' (phần mở rộng xml)."},{
+Key:1006425,Text:"Thư mục '{0}'.
+chứa không có bài hát OpenSong (bài hát của OpenSong là các tập tin mà không có phần mở rộng)."},{
+Key:1006430,Text:"Bài hát xuất khẩu từ Psalmo"},{
+Key:1006431,Text:"Bài hát trong định dạng văn bản"},{
+Key:1006432,Text:"Thư mục '{0}'.
+chứa không có ca hát tại các định dạng \"ChordPro\" (phần mở rộng chopro/chordpro, crd và cho)."},{
+Key:1006433,Text:"Cơ sở dữ liệu WebAsaph"},{
+Key:1006434,Text:"Thư mục '{0}'.
+chứa không có bài hát ở định dạng «CCLI» (.usr mở rộng)."},{
+Key:1006440,Text:"Kinh Thánh BibleDatabase"},{
+Key:1006445,Text:"Kinh Thánh OpenLP"},{
+Key:1006450,Text:"OpenSong Kinh Thánh"},{
+Key:1006455,Text:"Kinh Thánh Kinh Thánh toạc"},{
+Key:1006460,Text:"Kinh Thánh Zefania"},{
+Key:1006462,Text:"Kinh Thánh EasySlides"},{
+Key:1006463,Text:"Kinh Thánh trong các định dạng \"Osis\"."},{
+Key:1006464,Text:"Sách của kinh thánh trong các định dạng \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Tôi yêu Chúa 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Chants.txt của tôi"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Tôi yêu Chúa"},{
+Key:1006510,Text:"Cơ sở dữ liệu MSAccess"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Tất cả các tệp"},{
+Key:1006520,Text:"Cơ sở dữ liệu SQLite"},{
+Key:1006525,Text:"Nghịch lý cơ sở dữ liệu"},{
+Key:1006526,Text:"Cơ sở dữ liệu WebAsaph"},{
+Key:1006600,Text:"Chọn thư viện trực tuyến VideoPsalm hoặc nguồn khác"},{
+Key:1006601,Text:"VideoPsalm thư viện trực tuyến có chứa nhiều bộ sưu tập một số ngôn ngữ"},{
+Key:1006602,Text:"VideoPsalm trực tuyến (kết nối internet cần thiết trong khi chuyển nhập) thư viện"},{
+Key:1006603,Text:"Bài hát trong một phổ biến, để nhập khẩu các định dạng đĩa cứng của bạn"},{
+Key:1006604,Text:"Chọn thư viện trực tuyến VideoPsalm hoặc nguồn khác"},{
+Key:1006605,Text:"Thư viện trực tuyến VideoPsalm chứa nhiều bản dịch kinh thánh trong ngôn ngữ khác nhau"},{
+Key:1006606,Text:"VideoPsalm trực tuyến (kết nối internet cần thiết trong khi chuyển nhập) thư viện"},{
+Key:1006607,Text:"Một kinh thánh trong một phổ biến, để nhập khẩu các định dạng đĩa cứng của bạn"},{
+Key:1006608,Text:"Nguồn gốc của định dạng bài hát của bạn là gì?"},{
+Key:1006609,Text:"Định dạng nguồn kinh thánh là gì?"},{
+Key:1006610,Text:"Bạn có thể nhập vào của bạn VideoPsalm một kinh thánh trong một định dạng phổ biến được lưu trữ trong máy tính của bạn"},{
+Key:1006611,Text:"Bạn có thể nhập vào của bạn VideoPsalm trong một bài hát phổ biến định dạng lưu trữ trong máy tính của bạn"},{
+Key:1007000,Text:"Sao lưu"},{
+Key:1007001,Text:"Bạn có muốn chạy sao lưu của VideoPsalm trong thư mục
+« {0} » ?"},{
+Key:1007004,Text:"Không thể thực hiện sao lưu trong cặp đã chọn,
+bởi vì nó nằm trong thư mục hiện tại của các tài liệu VideoPsalm
+({0})."},{
+Key:1007005,Text:"Không còn đủ không gian trên ổ đĩa {0}.
+Nên {1: #, #. #} MB, và có những chỉ {2: #, #. #} MB có sẵn."},{
+Key:1007006,Text:"Không thể hoàn thành bản sao lưu:
+
+{0}"},{
+Key:1007007,Text:"Không thể tải xuống Microsoft .NET Framework 4.0:
+
+{0}
+
+Điều này có thể là do sự vắng mặt của kết nối Internet.
+Bản sao lưu sẽ tiếp tục bình thường,
+nhưng bạn không thể cài đặt Microsoft .NET Framework 4.0 từ bản sao lưu."},{
+Key:1007008,Text:"không sẵn dùng {0}"},{
+Key:1007009,Text:"Nhắc nhở: Sao lưu có thể không sao chép
+cài đặt Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Sao lưu đúng cách kết thúc."},{
+Key:1007011,Text:"Bạn có muốn bỏ bản sao lưu?"},{
+Key:1007030,Text:"Chọn một thư mục hoặc tạo tất cả-trong-một để đặt một bản sao lưu của VideoPsalm"},{
+Key:1007031,Text:"Bản sao lưu sao chép tài liệu của bạn (sách, kinh thánh, hình ảnh, video, phong cách) đến vị trí mà bạn chỉ định, ví dụ:
+-một USB
+-một ổ cứng bên ngoài,
+-một cặp mạng,
+-vv.
+
+<b>Sao lưu cho phép bạn bao gồm:</b>
+-để đảm bảo tài liệu của bạn bằng cách sao chép chúng trên một phương tiện,
+-xây dựng một phiên bản di động của VideoPsalm, ví dụ trên một thanh USB,
+-dễ dàng chuyển tài liệu của bạn trên máy tính khác bằng cách sử dụng các chức năng khôi phục,
+-để lặp lại tài liệu của bạn cho nhiều cấu hình của bộ sưu tập với phong cách của họ trên cùng một máy tính.
+
+<b>Lưu ý:</b> Để đồng bộ hóa các hồ sơ của VideoPsalm trong một số máy tính, bạn có thể chọn thêm trực tiếp cho đồng bộ hoá như SkyDrive hoặc DropBox dịch vụ."},{
+Key:1007032,Text:"Chọn văn bản bạn muốn tiết kiệm:"},{
+Key:1007033,Text:"&Các bộ sưu tập"},{
+Key:1007034,Text:"&Kinh Thánh các"},{
+Key:1007035,Text:"&Hình ảnh"},{
+Key:1007036,Text:"&Video"},{
+Key:1007037,Text:"&Tiết kiệm tài liệu của bạn:"},{
+Key:1007038,Text:"Chỉ định thư mục mà bạn lưu tài liệu của VideoPsalm ở đây.
+
+Ví dụ: «E:\\Ma sao lưu VideoPsalm.
+
+Nếu thư mục không tồn tại, nó được tạo ra tự động khi sao lưu."},{
+Key:1007039,Text:"&Tạo một ứng dụng di động VideoPsalm"},{
+Key:1007040,Text:"Cho biết thêm tất cả các tập tin thực thi cần thiết cho các hoạt động của VideoPsalm vào thư mục sao lưu.
+
+Nói chung, nó là trên một phím USB mà bạn muốn tạo ra một ứng dụng di động VideoPsalm.
+
+Một bản sao lưu di động để chạy VideoPsalm trên bất kỳ máy tính khác, trực tiếp từ USB chìa khóa, mà không cần cài đặt VideoPsalm.
+
+Bắt đầu VideoPsalm từ chìa khóa USB, bạn sẽ có quyền truy cập cho tất cả các chức năng của VideoPsalm, bao gồm bản sao lưu. Điều này cho phép tiết kiệm VideoPsalm trên ổ đĩa cứng của máy tính khác, vì vậy sau đó chạy nó mà không có chìa khóa USB.
+
+<b>Quan trọng</b>
+VideoPsalm tùy chọn không được thêm vào bản sao lưu.
+Hiệu suất đầu tiên của VideoPsalm trên một máy tính nhất định, bạn có thể cần phải điều chỉnh các tùy chọn VideoPsalm, ví dụ giấy phép cho các nhà thờ."},{
+Key:1007041,Text:"&Thêm chương trình Microsoft .NET Framework 4.0 cài đặt"},{
+Key:1007042,Text:"Để hoạt động, VideoPsalm cần .NET Framework 4.0 từ Microsoft. Máy tính mới hơn thường có .NET Framework 4.0 hoặc cao hơn chỉ được cài sẵn. Nếu bạn không chắc chắn rằng .NET Framework 4.0 được cài đặt trên máy tính khác, hãy chọn hộp \"thêm thiết lập .NET Framework 4.0. VideoPsalm sau đó sẽ diễn ra vào thanh USB một bản sao của thiết lập .NET Framework 4.0 (kết nối internet hiện tại có thể được yêu cầu này).
+
+Cài từ USB chìa khóa, bạn có thể dễ dàng đặt .NET Framework 4.0 trên máy tính khác trước khi bạn bắt đầu VideoPsalm. Các cài đặt của .NET Framework 4.0 là rất nhanh và không khởi động lại Windows bình thường.
+
+Bạn sẽ tìm thấy cài đặt .NET Framework 4.0 tập tin trong thư mục sao lưu. Tệp này được đặt tên \"dotNetFx40_Full_x86_x64.exe. Để bắt đầu cài đặt của .NET Framework 4.0 trên một máy tính, nhấp đúp vào tập tin này."},{
+Key:1007043,Text:"&Bắt đầu sao lưu"},{
+Key:1007044,Text:"Tải về Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"&Thư mục (thư mục sẽ được lưu) VideoPsalm tài liệu:"},{
+Key:1007046,Text:"Cho phép bộ sưu tập của mục được chỉ định trước để tiết kiệm tôi"},{
+Key:1007047,Text:"Loại bỏ các bộ sưu tập của thư mục được chỉ định trước để tiết kiệm tôi"},{
+Key:1007048,Text:"Để lại kinh thánh của mục được chỉ định trước đó tiết kiệm tôi"},{
+Key:1007049,Text:"Loại bỏ các Bibles của thư mục được chỉ định trước khi là tiết kiệm tôi"},{
+Key:1007050,Text:"Để lại những hình ảnh trong thư mục chỉ định trước là tiết kiệm tôi"},{
+Key:1007051,Text:"Xóa hình ảnh từ các thư mục được chỉ định trước là tiết kiệm tôi"},{
+Key:1007052,Text:"Hãy để các video trong thư mục được chỉ định trước là tiết kiệm tôi"},{
+Key:1007053,Text:"Xóa video khỏi thư mục được chỉ định trước để tiết kiệm tôi"},{
+Key:1007054,Text:"Chọn một thư mục hoặc tạo một để đặt một bản sao lưu của VideoPsalm"},{
+Key:1007055,Text:"Cho phép âm thanh từ thư mục được chỉ định trước là tiết kiệm tôi"},{
+Key:1007056,Text:"Loại bỏ âm thanh từ thư mục được chỉ định trước khi lưu tôi"},{
+Key:1007057,Text:"&Audio"},{
+Key:1008000,Text:"Khôi phục bản sao lưu"},{
+Key:1008001,Text:"Bạn có muốn khôi phục bản sao lưu của VideoPsalm từ thư mục
+« {0} » ?
+
+Chú ý: Tùy thuộc vào các tùy chọn mà bạn đã chọn, tài liệu hiện tại của bạn sẽ được thay thế hoặc xóa."},{
+Key:1008002,Text:"Vui lòng nhập thư mục từ bản sao lưu để khôi phục lại."},{
+Key:1008004,Text:"Không thể khôi phục lại một bản sao lưu từ thư mục bạn đã chọn,
+bởi vì thành phố này nằm trong thư mục hiện tại của các tài liệu VideoPsalm."},{
+Key:1008006,Text:"Không thể hoàn tất khôi phục:
+
+{0}"},{
+Key:1008010,Text:"Sự phục hồi kết thúc."},{
+Key:1008011,Text:"Bạn có muốn bỏ việc phục hồi?"},{
+Key:1008012,Text:"Khôi phục bản sao lưu"},{
+Key:1008032,Text:"Chọn tài liệu bạn muốn khôi phục:"},{
+Key:1008033,Text:"&Các bộ sưu tập"},{
+Key:1008034,Text:"&Kinh Thánh các"},{
+Key:1008035,Text:"&Hình ảnh"},{
+Key:1008036,Text:"&Video"},{
+Key:1008043,Text:"&Khôi phục"},{
+Key:1008044,Text:"Cho phép các bộ sưu tập của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008045,Text:"Xóa các bộ sưu tập của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008046,Text:"Cho phép kinh thánh của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008047,Text:"Xóa kinh thánh của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008048,Text:"Cho hình ảnh của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008049,Text:"Xóa hình ảnh của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008050,Text:"Cho video của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008051,Text:"Xóa video của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008052,Text:"&Khôi phục bản sao lưu từ:"},{
+Key:1008053,Text:"Ở đây chỉ định thư mục mà từ đó các hồ sơ của VideoPsalm sẽ được khôi phục.
+
+Ví dụ: 'E:\\VideoPsalm'."},{
+Key:1008054,Text:"&Thư mục (thư mục nơi mà bản sao lưu sẽ được khôi phục) VideoPsalm tài liệu:"},{
+Key:1008055,Text:"Làm mới"},{
+Key:1008056,Text:"Chọn một thư mục có chứa một bản sao lưu của VideoPsalm"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Hãy để âm thanh của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008059,Text:"Xóa âm thanh của tôi trước khi khôi phục từ bản sao lưu"},{
+Key:1008999,Text:"Máy chiếu video"},{
+Key:1009000,Text:"một bài hát"},{
+Key:1009001,Text:"bài hát {0}"},{
+Key:1009002,Text:"một danh sách các câu thơ"},{
+Key:1009003,Text:"{0} danh sách các câu thơ"},{
+Key:1009004,Text:"một hình ảnh"},{
+Key:1009005,Text:"hình ảnh {0}"},{
+Key:1009006,Text:"Kinh Thánh '{0}'."},{
+Key:1009007,Text:"Chương {0}"},{
+Key:1009009,Text:"{0} Kinh Thánh"},{
+Key:1009010,Text:"Hình ảnh '{0}'."},{
+Key:1009011,Text:"{0} ({1} hình ảnh)"},{
+Key:1009012,Text:"hình ảnh {0}"},{
+Key:1009013,Text:"{0} ({1} slide)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Tải phong cách mặc định"},{
+Key:1009016,Text:"Tải về phong cách của các bộ sưu tập"},{
+Key:1009017,Text:"Tải của bộ sưu tập '{0}'."},{
+Key:1009018,Text:"Tải của phong cách của các kinh thánh"},{
+Key:1009019,Text:"Tải của Kinh Thánh '{0}'."},{
+Key:1009020,Text:"Tập tin: {0}"},{
+Key:1009100,Text:"{0} ({1} bài hát)"},{
+Key:1009101,Text:"{0} (một bài hát đơn)"},{
+Key:1009102,Text:"{0} (không hát)"},{
+Key:1009103,Text:"Hiện đã là một tập tin '{0}'.
+trong đó VideoPsalm sẽ tiết kiệm bộ sưu tập mới '{1}'.
+
+Nó là không thể để tiết kiệm bộ sưu tập mới này.
+Cung cấp cho viết tắt hoặc một tên duy nhất cho bộ sưu tập mới này và cố gắng tiết kiệm một lần nữa."},{
+Key:1009104,Text:"Đăng ký thất bại"},{
+Key:1009105,Text:"Không thể di chuyển tệp
+{0}
+Worms
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} Bộ sưu tập"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} thơ)"},{
+Key:1009111,Text:"Video '{0}'."},{
+Key:1009112,Text:"{0} ({1} video)"},{
+Key:1009113,Text:"video {0}"},{
+Key:1009114,Text:"Không thể lưu các bộ sưu tập.
+Tên bộ sưu tập để có thể lưu nó."},{
+Key:1010000,Text:"Xem thêm màu sắc"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Đóng"},{
+Key:1010003,Text:"&Minh bạch"},{
+Key:1010004,Text:"Hủy bỏ"},{
+Key:1010005,Text:"Ok"},{
+Key:1010006,Text:"Hiển thị ít hơn màu sắc"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Đóng mà không cần lắp lĩnh vực"},{
+Key:1011001,Text:"Tên viết tắt của bộ sưu tập"},{
+Key:1011002,Text:"Bí danh"},{
+Key:1011003,Text:"Tác giả của bài hát"},{
+Key:1011004,Text:"Các tác giả của bộ sưu tập"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Key"},{
+Key:1011007,Text:"Nhà soạn nhạc"},{
+Key:1011008,Text:"Bản quyền thuộc về bài hát"},{
+Key:1011009,Text:"Bản quyền của cuốn sách"},{
+Key:1011010,Text:"Các nhãn hiệu của câu"},{
+Key:1011011,Text:"Nhãn và một số câu thơ"},{
+Key:1011012,Text:"Định dạng"},{
+Key:1011013,Text:"Giấy phép của nhà thờ"},{
+Key:1011014,Text:"Quan trọng hàng"},{
+Key:1011015,Text:"Bản ghi nhớ 1"},{
+Key:1011016,Text:"Bản ghi nhớ 2"},{
+Key:1011017,Text:"Bản ghi nhớ 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Vị trí của câu"},{
+Key:1011020,Text:"Những câu thơ số"},{
+Key:1011021,Text:"Chant số"},{
+Key:1011022,Text:"Lưu ý của câu"},{
+Key:1011023,Text:"Số lượng các bài hát từ bộ sưu tập"},{
+Key:1011024,Text:"Số đoạn"},{
+Key:1011025,Text:"Tài liệu tham khảo"},{
+Key:1011026,Text:"Chuỗi các đoạn"},{
+Key:1011027,Text:"Chữ ký"},{
+Key:1011028,Text:"Tiến độ"},{
+Key:1011029,Text:"Chủ đề"},{
+Key:1011030,Text:"Tiêu đề của bài hát"},{
+Key:1011031,Text:"Tiêu đề của cuốn sách"},{
+Key:1011032,Text:"Giai điệu"},{
+Key:1011033,Text:"3. Loại bỏ tất cả các lĩnh vực"},{
+Key:1011034,Text:"2. Sử dụng các lĩnh vực tiêu chuẩn"},{
+Key:1011035,Text:"Người quản trị"},{
+Key:1011036,Text:"Ngôn ngữ"},{
+Key:1011037,Text:"Biên tập viên"},{
+Key:1011038,Text:"Transposition"},{
+Key:1011101,Text:"Viết tắt của Kinh Thánh"},{
+Key:1011102,Text:"Tên viết tắt của cuốn sách"},{
+Key:1011103,Text:"Chương"},{
+Key:1011104,Text:"Bản quyền của Kinh Thánh"},{
+Key:1011105,Text:"Mô tả của Kinh Thánh"},{
+Key:1011107,Text:"Biên tập viên"},{
+Key:1011108,Text:"Ngôn ngữ"},{
+Key:1011109,Text:"Tên của Kinh Thánh"},{
+Key:1011110,Text:"Tên của cuốn sách"},{
+Key:1011111,Text:"Số lượng các chương của cuốn sách"},{
+Key:1011112,Text:"Số lượng các câu thơ của chương"},{
+Key:1011113,Text:"Di chúc"},{
+Key:1011114,Text:"Câu thơ"},{
+Key:1011115,Text:"Quản trị viên của Kinh Thánh"},{
+Key:1011200,Text:"&Chèn một lĩnh vực:"},{
+Key:1011201,Text:"Định dạng văn bản Hiển thị trong tiêu đề hoặc chân strophe hoặc câu thơ"},{
+Key:1011202,Text:"Nhập văn bản để hiển thị.
+Văn bản này là miễn phí và thường bao gồm một loạt các lĩnh vực được xác định trước.
+
+Ví dụ về các lĩnh vực được xác định trước cho một bài hát:
+-tiêu đề của bài hát: <b>[bài hát tiêu đề]</b>
+-số lượng các bài hát: <b>[bài hát số]</b>
+-tiêu đề của cuốn sách: <b>[tiêu đề của bộ sưu tập]</b>
+-Tên viết tắt cho bộ sưu tập: <b>[tên viết tắt của bộ sưu tập]</b>
+-vv.
+
+Cho một câu:
+-tên của cuốn sách: <b>[tên sách]</b>
+-Chương: <b>[chương]</b>
+-những câu thơ: <b>[câu]</b>
+đầy đủ-tham khảo:
+  <b>[Tên sách] [chương]: [câu]</b>
+-tên của Kinh Thánh: <b>[tên của Kinh Thánh]</b>
+-vv.
+
+Tại thời điểm chiếu video, VideoPsalm thay thế các lĩnh vực được xác định trước bởi giá trị của họ. 
+
+Các lĩnh vực được xác định trước nên được bao quanh bằng dấu ngoặc vuông <b>[]</b>. Họ phải được nhập không có thất bại và quan sát các chữ hoa và chữ thường.
+
+<b>Để dễ dàng chèn một lĩnh vực được xác định trước, sử dụng danh sách di chuyển bên dưới quyền 'chèn một lĩnh vực'.</b>
+
+Các định dạng có thể bao gồm nhiều dòng.
+
+Để khôi phục lại định dạng giá trị ban đầu của nó, loại bỏ nó hoàn toàn (Ctrl + A, xóa)."},{
+Key:1011203,Text:"Danh sách được xác định trước các lĩnh vực"},{
+Key:1011204,Text:"Để chèn một lĩnh vực được xác định trước, hãy chọn nó trong danh sách.
+
+Lĩnh vực tự động sẽ được chèn vào trong văn bản trên, hộp ở điểm chèn."},{
+Key:1012000,Text:"Tệp '{0}' đã có.
+
+Bạn có muốn thay thế nó?"},{
+Key:1012001,Text:"Tệp hiện có"},{
+Key:1013000,Text:"Ẩn xem trước"},{
+Key:1013001,Text:"Hiển thị xem trước"},{
+Key:1013002,Text:"Phóng to tỷ lệ để điền vào màn hình"},{
+Key:1013003,Text:"Giảm đến toàn bộ Hiển thị"},{
+Key:1013004,Text:"Vô hiệu hóa sự lặp lại"},{
+Key:1013005,Text:"Kích hoạt lặp lại"},{
+Key:1013006,Text:"Bắt đầu vào đầu"},{
+Key:1013007,Text:"Đình chỉ"},{
+Key:1013008,Text:"Đọc"},{
+Key:1013009,Text:"Chuyển đến cuối"},{
+Key:1013010,Text:"Âm thanh"},{
+Key:1013011,Text:"Tắt tiếng"},{
+Key:1013012,Text:"Khối lượng"},{
+Key:1013013,Text:"Nghiên cứu"},{
+Key:1013014,Text:"Trên toàn cầu xác định các giới hạn của video"},{
+Key:1013015,Text:"Xác định ranh giới của video cho mỗi đoạn thơ"},{
+Key:1013016,Text:"Thời gian đã qua"},{
+Key:1013017,Text:"Tất cả thời gian"},{
+Key:1013018,Text:"Thời gian còn lại"},{
+Key:1013019,Text:"Chuột để di chuyển đến giá trị"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"Min"},{
+Key:1018002,Text:"phút"},{
+Key:1018003,Text:"phút"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"thời gian"},{
+Key:1018006,Text:"giờ"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"Ngày"},{
+Key:1018009,Text:"Ngày"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"tuần"},{
+Key:1018012,Text:"tuần"},{
+Key:1018013,Text:"Tháng"},{
+Key:1018014,Text:"Tháng"},{
+Key:1018015,Text:"năm"},{
+Key:1018016,Text:"năm"},{
+Key:1019000,Text:"Đóng"},{
+Key:1019001,Text:"Giảm"},{
+Key:1019002,Text:"Phóng to"},{
+Key:1019003,Text:"Mức độ thấp hơn"},{
+Key:1019004,Text:"Trợ giúp"},{
+Key:1019100,Text:"&Tìm kiếm"},{
+Key:1019101,Text:"&Xóa"},{
+Key:1019301,Text:"&Ok"},{
+Key:1019302,Text:"&Hủy bỏ"},{
+Key:1019303,Text:"&Có"},{
+Key:1019304,Text:"&Phòng Không"},{
+Key:1019305,Text:"&Từ bỏ"},{
+Key:1019306,Text:"&Thử lại"},{
+Key:1019307,Text:"&Bỏ qua"},{
+Key:1019308,Text:"&Hủy bỏ"},{
+Key:1019309,Text:"&Cắt"},{
+Key:1019310,Text:"&Bản sao"},{
+Key:1019311,Text:"&Dán"},{
+Key:1019312,Text:"&Xóa"},{
+Key:1019313,Text:"&Chọn tất cả"},{
+Key:1020000,Text:"Nguồn gốc"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Lêvi"},{
+Key:1020003,Text:"Số điện thoại"},{
+Key:1020004,Text:"Đệ nhị luật"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Thẩm phán"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Kings"},{
+Key:1020011,Text:"2 Các vua"},{
+Key:1020012,Text:"1 Chronicles"},{
+Key:1020013,Text:"2 Chronicles"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemiah"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Công việc"},{
+Key:1020018,Text:"Thánh Vịnh"},{
+Key:1020019,Text:"Tục ngữ"},{
+Key:1020020,Text:"Truyền đạo"},{
+Key:1020021,Text:"Song của những bài hát"},{
+Key:1020022,Text:"Ê-sai"},{
+Key:1020023,Text:"Jeremiah"},{
+Key:1020024,Text:"Lamentations của Jeremiah"},{
+Key:1020025,Text:"Ezekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadiah"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICAH"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakkuk"},{
+Key:1020035,Text:"Zephaniah"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Zechariah"},{
+Key:1020038,Text:"Malachi"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Hành vi của các tông đồ"},{
+Key:1020044,Text:"Người La Mã"},{
+Key:1020045,Text:"1 Corinthians"},{
+Key:1020046,Text:"2 Corinthians"},{
+Key:1020047,Text:"Galatians"},{
+Key:1020048,Text:"Ephesians"},{
+Key:1020049,Text:"Phi-líp"},{
+Key:1020050,Text:"Colossians"},{
+Key:1020051,Text:"1 Thessalonians"},{
+Key:1020052,Text:"2 Thessalonians"},{
+Key:1020053,Text:"1 Timothy"},{
+Key:1020054,Text:"2 Timothy"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"Do Thái"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Peter"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 Giăng"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Khải huyền"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ví dụ"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Hiện"},{
+Key:1020116,Text:"Là"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"QUAN HỆ CÔNG CHÚNG"},{
+Key:1020120,Text:"EC"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"HỆ ĐIỀU HÀNH"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"AM"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HÀ"},{
+Key:1020135,Text:"Vì vậy"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"Mt"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"JN"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"Ph"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Chủng tộc"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Ông"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

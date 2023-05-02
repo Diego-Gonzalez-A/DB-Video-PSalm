@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Latvian (Latvia)"},{
+Key:1000000,Text:"Tulkojums"},{
+Key:1000001,Text:"nē."},{
+Key:1000003,Text:"&Pievienot..."},{
+Key:1000004,Text:"Pievienot vienu vai vairākas valodas VideoPsalm"},{
+Key:1000006,Text:"&Nosūtīt"},{
+Key:1000007,Text:"Etiķetes nosūtīšana pa e-pastu uz VideoPsalm uz nākamo iestatījumu"},{
+Key:1000009,Text:"&Lietot"},{
+Key:1000011,Text:"&Saglabāt"},{
+Key:1000012,Text:"Valoda, kas izvēlēta VideoPsalm piemērot. Izmaiņas tiek saglabātas automātiski iepriekš."},{
+Key:1000013,Text:"Saglabāt izmaiņas, etiķetes"},{
+Key:1000015,Text:"&Dzēst"},{
+Key:1000016,Text:"VideoPsalm dzēst atlasīto valodu un tās etiķetes"},{
+Key:1000022,Text:"&{0}, kas denominēti:"},{
+Key:1000024,Text:"&Valodas:"},{
+Key:1000029,Text:"Ierakstu izdevniecības"},{
+Key:1000030,Text:"Etiķetes ir mainījušies.
+
+Vēlaties šīs izmaiņas saglabāt?"},{
+Key:1000031,Text:"Noņemt valodas"},{
+Key:1000032,Text:"Vai tiešām vēlaties izdzēst {0} valodu VideoPsalm
+
+Šī darbība izdzēsīs visus tekstus šajā valodā un ir neatgriezeniska."},{
+Key:1000035,Text:"VideoPsalm ir izveidot saspiestu failus ar paplašinājumu. zip
+kur ir iekļautas etiķetes to attiecīgajā valodā.
+Atbilstošo failu pievienot e-pasta ziņojums, ka NOP uz augšu, pēc tam nosūtīt e-pastu uz videopsalm@gmail.com."},{
+Key:1000036,Text:"Nosūtīt e-pasta uzlīmes"},{
+Key:1000037,Text:"<b>\"Tulkojums\" logā varat rediģēt tekstus, kas parādās formas VideoPsalm.</b>
+Tas dod iespēju tulkot, adaptēt vai pat novērst jebkuru tekstu saskarni, VideoPsalm, VideoPsalm.
+
+<i>, Ja šis komponents aizņem pārāk daudz vietas, samazināt, noklikšķinot uz pogas nelielu samazinājumu, kas atrodas augšējā kreisajā stūrī, vai mainīt peles pogu ar horizontālu atdalītāju.</i>
+
+VideoPsalm sniegta vairākās valodās. VideoPsalm valodas ir uzskaitīti zem paneļa kreisajā ar nosaukumu \"valodas\".
+Ja šajā sarakstā neparādās jūsu valodā, varat šeit, VideoPsalm pārtulkot savā valodā. Ņemiet vērā, ka tas droši vien būs vairākas stundas darbu.
+
+Lūk, kā ir VideoPsalm savu valodu:
+
+-Pievienot savu valodu saraksta, izvēloties starp tiem, kas jūs atradīsiet pogu \"pievienot <image=add2_16>\".
+-Tabulu labajā pusē, VideoPsalm parāda etiķetes pārbauda valodām.
+-Tulkot etiķetes jūsu valodā.
+
+Tabulā, jūs varat rediģēt etiķetes jūsu atpūtai, kā Excel izklājlapu.
+Tabula piedāvā meklēšanas lodziņā. Tādējādi parādīt tikai tādas uzlīmes, kas satur noteiktus vārdus, meklēšanas lodziņā ierakstiet šos vārdus un pēc tam noklikšķiniet uz pogas \"meklēt\".
+Filtrs, kas atrodas laukums zem katra virsraksta valodas var izmantot arī, lai valodu, kas satur dažus konkrētus vārdus etiķetes filtrs.
+
+Lai atvieglotu jūsu darbu, izvēlēties vienas vai vairāku citu valodu jūs zināt, tā, lai labāk izprastu katras etiķetes nozīmi un lai varētu lasīt vairākās valodās vienlaicīgi.
+Pārbaudiet atsauksmes viņi gūtu labāku izpratni par konkrētu marķējumu nozīmi un kur tie tiek izmantoti.
+
+<b>Piezīme:</b> Ieteicams atstāt Komentāri angļu valodā, jo daudziem cilvēkiem saprast angļu valodā.
+
+Lai redzētu tulkošanas darba rezultāts:
+-Izvēlieties valodu valodās panelis, noklikšķinot uz
+   pēc tam
+-Noklikšķiniet uz pogas \"Lietot\" (apakšā).
+
+VideoPsalm tiks parādīts tajā valodā, ko esat izvēlējies.
+
+Neaizmirstiet saglabāt savu darbu no tulkošanas, noklikšķinot uz pogas \"saglabāt <image=disk_blue>.
+Pēc tam, kad esat saglabājis jaunu valodu, var izvēlēties opciju logā.
+
+Lūdzu, nosūtiet mums savu tulkojumu vai labojumi pa e-pastu uz <b>videopsalm@gmail.com</b> , noklikšķinot uz pogas \"Sūtīt <image=mail_16>\".
+Noklikšķinot uz šīs pogas, notiek divas lietas:
+1. Jūsu e-pasta klients atvērsies automātiski, piemēram, Outlook.
+2. Programmas Internet Explorer mapi atver kādā VideoPsalm laidis saspiesti faili ar paplašinājumu. zip. nosaukts valodas.
+
+Vilktu un nomestu pareizo failu pa e-pastu un pastu, lai mēs varētu iekļaut nākamajā versijā VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Kā tulkot VideoPsalm savā valodā?"},{
+Key:1000039,Text:"Valodu, kurā tiek tulkots VideoPsalm. Atlasiet valodas, kuras vēlaties parādīt etiķetes tabulas. Lai sarakstam pievienotu savu valodu, noklikšķiniet uz pogas \"Pievienot\"."},{
+Key:1001000,Text:"Pievienojiet valodas"},{
+Key:1001001,Text:"&Valodas:"},{
+Key:1001002,Text:"Atlasiet valodas, lai pievienotu"},{
+Key:1001003,Text:"&Pievienot"},{
+Key:1001004,Text:"Atcelt"},{
+Key:1001005,Text:"Palīdzība (F1)"},{
+Key:1002000,Text:"Opcijas"},{
+Key:1002003,Text:"&Vispārējā"},{
+Key:1002004,Text:"&Displeja"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Kolekcijas"},{
+Key:1002015,Text:"&Bībeles"},{
+Key:1002103,Text:"&Valoda:"},{
+Key:1002105,Text:"&VideoPsalm mape dokumenti:"},{
+Key:1002106,Text:"Izvēlieties mapi VideoPsalm dokumenti:"},{
+Key:1002112,Text:"&Saglabāt izmaiņas, ko veicat Bībeles panti (tekstu un stilu)"},{
+Key:1002202,Text:"&Pēdiņas aizstātu « <size=+4>'» Francijas citātus, « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Izmantot tipogrāfijas franču reglamentu"},{
+Key:1002204,Text:"&Dziesmas, aizstājiet pārnesumzīmes, nedalāmās pārnesumzīmes"},{
+Key:1002205,Text:"&Bībeles panti, aizstājiet pārnesumzīmes, nedalāmās pārnesumzīmes"},{
+Key:1002304,Text:"&Atveidojuma metodes:"},{
+Key:1002306,Text:"Standarta"},{
+Key:1002307,Text:"Uzlabota"},{
+Key:1002502,Text:"&Lietot"},{
+Key:1002503,Text:"Saglabājiet savas izmaiņas un paturēt logu atvērtu"},{
+Key:1002504,Text:"labi"},{
+Key:1002505,Text:"Saglabāt izmaiņas un aizvērt šo logu"},{
+Key:1002508,Text:"Aizvērt logu, nesaglabājot izmaiņas"},{
+Key:1002510,Text:"&Baznīcas licences:"},{
+Key:1002513,Text:"Neobligāts teksts, kuru ievadāt šeit var automātiski parādīts galvenē vai kājenē slaidu.
+
+Piemēram, jūs var norādīt šeit savu baznīcu CILC licences numuru."},{
+Key:1002516,Text:"&Galvenes lauki:"},{
+Key:1002517,Text:"&Subfooter lauki:"},{
+Key:1002531,Text:"Lai mainītu fontu, kas tiek parādīts VideoPsalm.
+
+Standarta fontus:
+-Windows XP <b>Tahoma</b>
+- <b>Segoe UI</b> Windows Vista un Windows Seven Windows 8
+
+Standarta izmērs: 8,25"},{
+Key:1002532,Text:"Ir nepieciešams restartēt VideoPsalm politikas izmaiņas, pilnībā jāņem vērā."},{
+Key:1002533,Text:"Ja šī izvēles rūtiņa ir atzīmēta, VideoPsalm aizstāt taisni apostrofus Francijas apostrofs, kas ir ievietots augstums slaidi komats.
+
+Ievadot redaktors lyrics par dziesmu, mēs iesakām izmantot raksturs, tās viegli atrast tastatūras parasti tieši apostrofu."},{
+Key:1002534,Text:"Ja šī izvēles rūtiņa ir atzīmēta, VideoPsalm pārkārto slaidu dažas pieturzīmes saskaņā ar Francijas Tipogrāfija rakstzīmju retinājums.
+
+Piemēram, ja dziesma ir šādi vārdi: <b>Lord!</b>
+
+VideoPsalm displejs: <b>Lord!</b>
+
+Lūk, interpunkcijas rakstzīmes, kas bauda īpašu režīmu:
+<b>: ; ! ? »</b><i>VideoPsalm vieta nedalāmo atstarpi pirms un pēc vietas.</i><b>«</b><i>VideoPsalm ievietot atstarpi pirms un pēc nedalāmā atstarpe.</i>
+
+VideoPsalm organizē citas punktuācijas rakstzīmes nav atstarpes.
+
+Ievadot jaunu dziesmu vārdi, ieteicams sekot Tipogrāfija tradicionālās normas, t.i. pielīmēt pieturzīmes vārdus, kas attiecas uz viņiem. Šādā veidā spēs izpildīt Francijas salikuma apskates, atzīmējot šo rūtiņu, vai jūsu valsts likumiem, neatzīmēt šo izvēles rūtiņu.
+
+<b>Piezīme:</b> Tas ir iespējams, ka Francijas Tipogrāfija kārtulas netiek lietotas jūsu valstī pat tad, ja valoda ir franču valodā, piemēram, francophone Āfrikā, Beļģija, Kvebekā vai Šveicē.
+
+Pilnu atsauci par atstarpēm un punktuācijas Francijas Tipogrāfija, sk <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, 33. lappusē.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Fonts:"},{
+Key:1002536,Text:"&Izmērs:"},{
+Key:1002539,Text:"Ja šī izvēles rūtiņa ir atzīmēta, VideoPsalm, informē par to, ka jaunas funkcijas, programmas vai ziņas par tā startēšanas laikā:
+-kolekcijas
+-Bibles,
+- un VideoPsalm valodās.
+
+Jaunas kolekcijas, Bībeles jaunas valodas un jaunas valodas VideoPsalm dažkārt tiek pievienoti VideoPsalm tiešsaistes bibliotēka.
+
+Kad tas notiek, ar pāris klikšķiem pievienot šos jaunos dokumentus jūsu instalāciju, izmantojot importa ceļvedi."},{
+Key:1002540,Text:"Ja šī izvēles rūtiņa ir atzīmēta, VideoPsalm prasa vārdu saista defise jāpaliek tajā pašā rindā slaidos.
+
+Noklusējuma vērtība dziesmas lyrics: <b>pārbaudīt</b>"},{
+Key:1002541,Text:"Ja šī izvēles rūtiņa ir atzīmēta, VideoPsalm prasa vārdu saista defise jāpaliek tajā pašā rindā slaidos.
+
+Noklusējuma vērtība Bībeles pantus: <b>nekontrolētu</b>"},{
+Key:1002542,Text:"Ja šī izvēles rūtiņa ir atzīmēta, VideoPsalm ļauj saglabāt izmaiņas, kas veiktas (tekstu un stilu) Bībeles pantus.
+
+Ja šī rūtiņa nav atzīmēta:
+
+<b>1.</b> aizverot VideoPsalm, tas neziņo, ka jūsu Bībeles ir mainījušies,
+
+<b>2</b> Ja saglabāsit izmaiņas, VideoPsalm nevar saglabāt izmaiņas, kas veiktas ar Bībeles (tekstu un stilu),
+
+<b>3</b> jūs atradīsiet neskarts Bībeles nākamreiz, uzsākot darbu VideoPsalm."},{
+Key:1002543,Text:"Izvēlieties valodu, kurā vēlaties VideoPsalm tiek parādīts šeit.
+
+Ja jūsu valodā neparādās sarakstā, varbūt noticis VideoPsalm bibliotēkā tiešsaistē pieejama izmantojot importēšanas vedni.
+
+Ja VideoPsalm nav jūsu valodā, lūdzu, informējiet mūs pa e-pastu uz videopsalm@gmail.com
+
+Vai arī jūs varat palīdzēt tulkot VideoPsalm tekstus jūsu valodā, izmantojot VideoPsalm tulkošanas rīks vai labotu jebkādas kļūdas.
+
+Sākt ar pogu \"Tulkot VideoPsalm\" tulkošanas rīku VideoPsalm."},{
+Key:1002544,Text:"Atlasiet mapi, no kuras VideoPsalm slodze viņa grāmatas, Bībeles, bildes un video šeit.
+
+Mainot mapes, VideoPsalm atsvaidzina savu kolekciju, Bībeles, attēlus un video ar tiem, kas no jauna mape.
+
+<b>Uzmanību</b> : pirms maināt šo mapi, pārliecinieties, vai esat saglabājis veiktās izmaiņas."},{
+Key:1002545,Text:"Lai mainītu fontu, kas tiek parādīts VideoPsalm.
+
+Standarta izmērs: 8,25
+
+Jūs varat arī izmainīt fonta izmēru, izmantojot Windows opcijas: Control Panel -&gt; displeja-> lasīšanai ekrānā."},{
+Key:1002547,Text:"&Tulkot VideoPsalm"},{
+Key:1002548,Text:"Tiek atvērta rīku, ar kuru var tulkot VideoPsalm savā valodā vai izlabot pareizrakstības kļūdas."},{
+Key:1002549,Text:"Jūs gatavojaties mainīt mapi no kur VideoPsalm ielādēt savus dokumentus.
+VideoPsalm izlādēt tās pašreizējo dokumentu un pēc tam augšupielādējiet tos jaunu mapi.
+Tas var aizņemt dažas sekundes.: {0}
+
+Vai tiešām vēlaties mainīt dokumentu mapi"},{
+Key:1002550,Text:"Ir nesaglabātas izmaiņas (kolekcijas, Bībeles vai kalendāru).
+Ja jūs apstiprinātu ieraksta operācijas tagad, šīs izmaiņas zudīs."},{
+Key:1002551,Text:"Mainīt mapi dokumenti"},{
+Key:1002552,Text:"&Darba kārtība"},{
+Key:1002553,Text:"Noklusējuma modeļus:"},{
+Key:1002554,Text:"&dziesmas:"},{
+Key:1002555,Text:"&Bībeles dzejolis:"},{
+Key:1002556,Text:"&Slideshow attēli:"},{
+Key:1002557,Text:"&autonoma video:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Timeout noklusējuma automātiskās avansu:"},{
+Key:1002560,Text:"sekundes"},{
+Key:1002561,Text:"&Valodas pievienošana"},{
+Key:1002562,Text:"Atver importēšanas vedni no valodām, kurā ir tulkots VideoPsalm, no kur var pievienot jaunas valodas jūsu VideoPsalm."},{
+Key:1002580,Text:"Noklusējuma teksta plūsmā pēc dziesmu"},{
+Key:1002581,Text:"Nosaka noklusēto teksta plūsmu, pēc pēdējā dzejolis, dziesma.
+
+Šī vērtība ir arī ņēmusi vērā dziesmas, kas spontāni parādīt bez darba kārtībā.
+Kalendārā, varat mainīt šo vērtību par katru dziesmu."},{
+Key:1002582,Text:"Noklusējuma teksta plūsmā pēc Bībeles pantiem"},{
+Key:1002583,Text:"Nosaka noklusēto teksta plūsmā pēc Bībeles fragments pēdējais dzejolis.
+
+Šī vērtība ir arī ņēmusi vērā Bībeles fragmenti, kas spontāni parādīt bez darba kārtībā.
+Kalendārā, varat mainīt šo vērtību par katru Bībeles fragments."},{
+Key:1002584,Text:"Noklusējuma teksta plūsmā pēc attēlu slaidrādi"},{
+Key:1002585,Text:"Nosaka noklusēto teksta plūsmā pēc attēlu slaidrādi.
+
+Kalendārā, varat mainīt šo vērtību katram attēlam."},{
+Key:1002586,Text:"Noklusējuma teksta plūsmā pēc atsevišķa video"},{
+Key:1002587,Text:"Nosaka noklusēto teksta plūsmu, pēc atsevišķa video.
+
+Kalendārā, varat mainīt šo vērtību par katru atsevišķa video."},{
+Key:1002588,Text:"Pēc programmas PowerPoint noklusējuma teksta plūdumu"},{
+Key:1002589,Text:"Nosaka noklusēto teksta plūsmā pēc PowerPoint.
+
+Kalendārā, šo vērtību var mainīt katrā programmā PowerPoint."},{
+Key:1002590,Text:"Nosaka noklusējuma laiks sekundēs, pirms automātisku pārslēgšanos uz nākošo slaidu intervāls.
+
+Kalendārā, varat mainīt šo vērtību katram elementam, kas turpinās automātiski."},{
+Key:1002591,Text:"&Fona attēlus var saglabāt darba kārtībā (ieteicams)"},{
+Key:1002592,Text:"Fona attēlus var saglabāt darba kārtībā"},{
+Key:1002593,Text:"Norāda, vai VideoPsalm būtu saglabāt dzies fona attēlus un Bībeles programmu failu vārsmas, kad to saglabāsit."},{
+Key:1002594,Text:"&Saglabāt kārtību fona video (ieteicams)"},{
+Key:1002595,Text:"Fona video uzglabāt darba kārtībā"},{
+Key:1002596,Text:"Norāda, vai VideoPsalm būtu saglabāt jebkuru video fona dziesmām un Bībeles programmu failu vārsmas, to saglabājot."},{
+Key:1002597,Text:"&Glabātu programmu slideshow attēli (ieteicams)"},{
+Key:1002598,Text:"Slaidrādes attēlus var saglabāt darba kārtībā"},{
+Key:1002599,Text:"Norāda, vai VideoPsalm jāsaglabā iespējami slideshow attēli kalendāra failu, to saglabājot."},{
+Key:1002600,Text:"&Saglabātu darba kārtībā stand-alone video (ieteicams)"},{
+Key:1002601,Text:"Saglabāt autonomo video darba kārtībā"},{
+Key:1002602,Text:"Norāda, vai VideoPsalm būtu saglabāt jebkurā autonomās kārtībā video failu, to saglabājot."},{
+Key:1002603,Text:"&Veikals PowerPoints kārtībā (ieteicams)"},{
+Key:1002604,Text:"Veikala darba kārtībā PowerPoints"},{
+Key:1002605,Text:"Norāda, vai VideoPsalm jāsaglabā jebkuras PowerPoints kalendāra failu, to saglabājot."},{
+Key:1002606,Text:"Mēs iesakām izvēlēties šo iespēju, it īpaši, ja Jums sagatavoties jūsu darba kārtībā, nevis tajā, kurā parādīs savu prezentāciju citā datorā."},{
+Key:1002607,Text:"&Redaktors"},{
+Key:1002608,Text:"&Fonts:"},{
+Key:1002609,Text:"Norāda fontu, kurā jārediģē lyrics par dziesmu un Bībeles pantus.
+
+Proti, šis fonts netiek lietota, lai ekrānā parādītu tekstu."},{
+Key:1002610,Text:"&Teksta izmērs:"},{
+Key:1002611,Text:"Norāda, kurā jārediģē lyrics par dziesmu un Bībeles pantiem fonta lielumu.
+
+Šis fonta lielums nav īpaši izmanto, lai attēlotu tekstu ekrānā."},{
+Key:1002612,Text:"&Līgumu fontu"},{
+Key:1002613,Text:"Norāda fontu, kurā jārediģē dziesmu nolīgumiem.
+
+Šis fonts nav īpaši lieto, lai parādītu nolīgumi prezentācijas ekrānā."},{
+Key:1002614,Text:"&Vienošanās teksta izmērs:"},{
+Key:1002615,Text:"Norāda dziesmu nolīgumi fonta lielums teksta redaktorā.
+
+Šis fonta lielums nav īpaši izmanto, lai attēlotu nolīgumi prezentācijas ekrānā."},{
+Key:1002616,Text:"&Līgumu krāsu"},{
+Key:1002617,Text:"Norāda krāsu, līgumos tiek parādīti teksta redaktoru.
+
+Proti, šī krāsa netiek lietota, lai prezentāciju ekrānā parādītu nolīgumiem."},{
+Key:1002618,Text:"&Nedalāmā baltā krāsa:"},{
+Key:1002619,Text:"Norāda krāsu, kas pārkāpj White tiek parādīti teksta redaktorā."},{
+Key:1002620,Text:"&Krāsu stanzas tagus:"},{
+Key:1002621,Text:"Norāda krāsu, kas izcelta stanzas tagus teksta redaktorā."},{
+Key:1002622,Text:"&Pārredzamības stanzas tagus:"},{
+Key:1002623,Text:"Norāda krāsu stanzas tagus izcelta pārredzamību izvēlēto teksta redaktoru."},{
+Key:1002624,Text:"&Krāsu ChordPro līgumu:"},{
+Key:1002625,Text:"Norāda krāsu, kas ChordPro līgumu izcelta teksta režīmā ChordPro redaktors."},{
+Key:1002626,Text:"&Pārredzamību, ChordPro līgumu:"},{
+Key:1002627,Text:"Norāda krāsu, kas līgumos tiek izcelti ChordPro caurspīdīgumu teksta režīmā ChordPro redaktors."},{
+Key:1002628,Text:"&Aizstāt fontus (ieteicams)"},{
+Key:1002629,Text:"Ļauj tekstu redaktoru un ignorēt trūkstošās rakstzīmes fontā, pašreizējā, ar kādu citu fontu.
+
+Ja izmantojat Unikoda fontu, kas darbojas transliterācijas atspējot rakstzīmju aizstāšanu.
+Šajā gadījumā daži Hindi, Tamil, Bamati, gudžarati fontus utt.
+
+Ņemiet vērā, ka ir ieteicams izmantot Unicode fontu.
+Lai konvertētu jūsu dziesmas, kas sagatavoti par unikoda tekstu, izmantojiet online pārveidotājs, piemēram šeit: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Atļaut piekļuvi vienkāršotas, saderīgs ar Svēto rakstu RTL teksta redaktoru"},{
+Key:1002631,Text:"Parāda papildu pogas teksta redaktors, kas nodrošina piekļuvi dziesmas tekstu vienkāršotā režīma rediģēšanas rīkjoslas kreisajā pusē.
+
+Šī vienkāršotā redaktors ir saderīgs ar rakstīšanai no labās uz kreiso (RTL), jo īpaši attiecībā uz arābu valodas un ivrita."},{
+Key:1002632,Text:"Izvēlieties video atveidojuma metode, kas ir vispiemērotākais jūsu datoru. VideoPsalm var parādīt video wmv uz lielāko daļu PCs formātā."},{
+Key:1002633,Text:"&Paziņojumi"},{
+Key:1002634,Text:"Pie startēšanas, ziņo, ka tur ir:"},{
+Key:1002635,Text:"&Jaunā versija VideoPsalm (ieteicams)"},{
+Key:1002636,Text:"&Jaunas kolekcijas (ieteicams)"},{
+Key:1002637,Text:"&Jauns Bībeles (ieteicams)"},{
+Key:1002638,Text:"&Jaunas valodas (ieteicams)"},{
+Key:1002639,Text:"&Ja savienojuma, starpniekservera klātbūtni grūtības"},{
+Key:1002640,Text:"Proxy klātbūtne"},{
+Key:1002641,Text:"Norāda, vai VideoPsalm klātbūtni pilnvaras, lai ievāktu informāciju par jauniem produktiem vai atjauninājumus automātiski atrod.
+
+Ja VideoPsalm nevar lejupielādēt grāmatu vai Bībeles tās tiešsaistes bibliotēka, atlasiet šo opciju, un pēc tam vēlreiz mēģiniet veikt šo darbību.
+
+Atlasiet šo opciju tikai tad, ja tas tā nav. Patiešām, šī iespēja rada palēnināšanos lejupielādējot grāmatas un Bībeles no bibliotēkas VideoPsalm tiešsaistē."},{
+Key:1002642,Text:"&Sociālās ikonas paslēpšana"},{
+Key:1002643,Text:"Paslēpj rīkjoslu sociālās ikonas (Facebook, čivināt, un YouTube).
+
+Palikt paslēptas interneta pieslēgums nav šīs ikonas."},{
+Key:1002644,Text:"&Saglabātu darba kārtībā audio dziesmas (ieteicams)"},{
+Key:1002645,Text:"Saglabātu audio dziesmas darba kārtībā"},{
+Key:1002646,Text:"Norāda, vai VideoPsalm jāsaglabā jebkuru audio dziesmas kalendāra failu, to saglabājot."},{
+Key:1002648,Text:"&Pielāgošanas"},{
+Key:1002649,Text:"&Videokamera"},{
+Key:1002650,Text:"&Iepriekšējā"},{
+Key:1002651,Text:"&Base"},{
+Key:1002652,Text:"&Teksts"},{
+Key:1002653,Text:"&Vairogs"},{
+Key:1002654,Text:"&Sniegpārsla"},{
+Key:1002655,Text:"&Bug"},{
+Key:1002656,Text:"Slaidu panelis"},{
+Key:1002657,Text:"&Nākamo"},{
+Key:1002658,Text:"Rīkjoslu"},{
+Key:1002659,Text:"Padomes darba kārtības"},{
+Key:1002660,Text:"&Mount"},{
+Key:1002661,Text:"&ej prom"},{
+Key:1002662,Text:"&Paslēptu rīku padomus"},{
+Key:1003000,Text:"Versija: {0} {1} no"},{
+Key:1003003,Text:"Aizveriet"},{
+Key:1003005,Text:"&Kontakti VideoPsalm"},{
+Key:1003006,Text:"Atveriet Outlook (jūsu e-pasta klients), sūtiet e-pastu uz VideoPsalm"},{
+Key:1003007,Text:"Šī versija tiek atjaunināta"},{
+Key:1003008,Text:"&Atjaunot mana versija"},{
+Key:1003009,Text:"Pastāv jaunāka versija VideoPsalm:
+Plate 1 versija {0}: {d}.
+Noklikšķiniet uz šīs pogas, lai atvērtu lejupielādes lapā.
+Šeit jūs atradīsiet izmaiņu vēsturi
+kā _ arī lejupielādes saiti."},{
+Key:1003011,Text:"-Atskaites
+-Panākt piezīmi vai ieteikums"},{
+Key:1003012,Text:"E-pasta adrese: videopsalm@gmail.com"},{
+Key:1003500,Text:"Noņemt transponēšanas"},{
+Key:1003501,Text:"Transponējušas pustonis vairāk"},{
+Key:1003502,Text:"Transponējušas pustoni, mazāk"},{
+Key:1003503,Text:"Bez"},{
+Key:1003504,Text:"Dzēst capo"},{
+Key:1003505,Text:"Transponēt capo, kurš pārvietojas prom no galvas"},{
+Key:1003506,Text:"Transponēt capo, kas nāk pie galvas"},{
+Key:1003507,Text:"Bez"},{
+Key:1003508,Text:"Pārbaudiet audio failu, vokāls"},{
+Key:1003509,Text:"&Audio failu:"},{
+Key:1003510,Text:"Atlasiet Importēt un pēc tam noklikšķiniet uz \"atvērt\" audio failus."},{
+Key:1003511,Text:"Esat importējis {0} audio failu (s)."},{
+Key:1003512,Text:"Audiofails nav tikusi importēta.
+((S) ir jau atradis (s) sarakstā)."},{
+Key:1003513,Text:"Audio failu importēšanu"},{
+Key:1003514,Text:"Audio faili"},{
+Key:1003515,Text:"Atslēgas vārdus, lai meklētu attēlus"},{
+Key:1003516,Text:"Bez attēla"},{
+Key:1003517,Text:"Bez video"},{
+Key:1003518,Text:"&Failus"},{
+Key:1003519,Text:"&Displeja bass"},{
+Key:1003520,Text:"Atslēgas vārdus, lai meklētu video"},{
+Key:1003521,Text:"&Importēto dziesmas no CCLI kolekcija / SongSelect"},{
+Key:1003522,Text:"CCLI dziesmas"},{
+Key:1003523,Text:"Importa CCLI dziesmas"},{
+Key:1003524,Text:"{0} dziesmas jau bija kolekcijā '{1}', un tie netika importēti."},{
+Key:1003525,Text:"&Meklēšanas"},{
+Key:1003526,Text:"&Spilgtums:"},{
+Key:1003527,Text:"&Meklēšanas"},{
+Key:1003528,Text:"&Spilgtums:"},{
+Key:1003529,Text:"Ziņojums"},{
+Key:1003530,Text:"Policijas"},{
+Key:1003531,Text:"Krāsas"},{
+Key:1003532,Text:"Ziņojums"},{
+Key:1003533,Text:"Redzamība"},{
+Key:1003534,Text:"Modelis"},{
+Key:1003535,Text:"Tips"},{
+Key:1003536,Text:"Atpakaļskaitīšanas"},{
+Key:1003537,Text:"Hronometrs"},{
+Key:1003538,Text:"Opcijas"},{
+Key:1003539,Text:"Pārredzamība"},{
+Key:1003540,Text:"Parādītu ziņojumu"},{
+Key:1003541,Text:"Fona"},{
+Key:1003542,Text:"Parādīt pulksteni"},{
+Key:1003543,Text:"Pulkstenis"},{
+Key:1003544,Text:"Atpakaļskaitīšanas"},{
+Key:1003545,Text:"Hronometrs"},{
+Key:1003546,Text:"Laikā"},{
+Key:1003547,Text:"Līdz"},{
+Key:1003548,Text:"Sākums"},{
+Key:1003549,Text:"Pauzes"},{
+Key:1003550,Text:"apstājieties"},{
+Key:1003551,Text:"Stils"},{
+Key:1003552,Text:"Tauki"},{
+Key:1003553,Text:"Italic"},{
+Key:1003554,Text:"Uzsvēra"},{
+Key:1003555,Text:"Rādīt sekunžu rādītājs"},{
+Key:1003556,Text:"Stuttering sekundes"},{
+Key:1003557,Text:"Minūtes saraustīts"},{
+Key:1003558,Text:"Ciparu rādīšana"},{
+Key:1003559,Text:"Absolvents protokolā"},{
+Key:1003560,Text:"Augstskolas stundas"},{
+Key:1003561,Text:"Videokamera"},{
+Key:1003562,Text:"Parāda šaušana kameras aiz teksta."},{
+Key:1003563,Text:"&Pievienot dziesmas CILC formātā..."},{
+Key:1003564,Text:"Importēt..."},{
+Key:1003565,Text:"Importēšanas"},{
+Key:1003566,Text:"Ļauj importēt audio failus jūsu VideoPsalm"},{
+Key:1003567,Text:"Navigācija..."},{
+Key:1003568,Text:"Pārlūkot"},{
+Key:1003569,Text:"Atver mapi audio failus ar savu VideoPsalm"},{
+Key:1003570,Text:"&Sākt (ms):"},{
+Key:1003571,Text:"&Beigas (ms):"},{
+Key:1003572,Text:"&Tilpums:"},{
+Key:1003573,Text:"&Spēlēt apsēja"},{
+Key:1003575,Text:"&Groza"},{
+Key:1003576,Text:"&Versija:"},{
+Key:1003577,Text:"Teksta redaktors \"Tiesības\" pa kreisi"},{
+Key:1003578,Text:"Pārslēdz starp standarta teksta redaktoru (raksta no kreisās uz labo) un \"Tiesības\" redaktors kreisi arābu, ivrita, utt."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Kopīgi vienmēr rādīt (bilingvālās)"},{
+Key:1003581,Text:"&Amats:"},{
+Key:1004050,Text:"Policijas"},{
+Key:1004051,Text:"Lielums"},{
+Key:1004052,Text:"Tauku"},{
+Key:1004053,Text:"Italic"},{
+Key:1004054,Text:"Iezīmēts"},{
+Key:1004055,Text:"Līdzinājums"},{
+Key:1004056,Text:"Vertikālais līdzinājums"},{
+Key:1004057,Text:"Animācija"},{
+Key:1004058,Text:"Ilgums"},{
+Key:1004059,Text:"Apjoms"},{
+Key:1004060,Text:"Skaņas izslēgšanas funkcija?"},{
+Key:1004061,Text:"Sākums"},{
+Key:1004062,Text:"Beigās"},{
+Key:1004063,Text:"Loop?"},{
+Key:1004064,Text:"Skatīt lielāku attēlu"},{
+Key:1004100,Text:"Krāsas"},{
+Key:1004101,Text:"Uzpildes"},{
+Key:1004102,Text:"Svīta"},{
+Key:1004103,Text:"Svīta platums"},{
+Key:1004104,Text:"Ēna"},{
+Key:1004105,Text:"Rādiuss ir ēna"},{
+Key:1004106,Text:"Dziļums ēnā"},{
+Key:1004107,Text:"Ēnas virziena"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Attēlu"},{
+Key:1004153,Text:"Krāsu"},{
+Key:1004156,Text:"Taisnstūra pamata"},{
+Key:1004157,Text:"Taisnstūra galvenes"},{
+Key:1004158,Text:"Taisnstūra pamatnes"},{
+Key:1004500,Text:"Kalendāra kopēšana starpliktuvē"},{
+Key:1004501,Text:"Darba kārtības apraksts ievietots starpliktuvē."},{
+Key:1004502,Text:"Vārdi (nosaukums un lyrics) vai Nr. meklēt"},{
+Key:1004503,Text:"Vārdi (nosaukums un lyrics) vai Nr. meklēt"},{
+Key:1004504,Text:"Vārdu (nosaukumu) vai līdz meklējiet Nr."},{
+Key:1004505,Text:"Vārdi (autora un komponista) vai Nr. meklēt"},{
+Key:1004506,Text:"(Tēmas) vārdu vai skaitli līdz meklējiet"},{
+Key:1004507,Text:"(Atsauces) vārdu vai skaitli līdz meklējiet"},{
+Key:1004508,Text:"CCLI meklēt"},{
+Key:1004509,Text:"(Copyright) vārdu vai skaitli līdz meklējiet"},{
+Key:1004510,Text:"(1. Piezīme) vārdus vai meklēt Nr."},{
+Key:1004511,Text:"(2. piezīmi) vārdu vai meklēt Nr."},{
+Key:1004512,Text:"Vārdi (3 zīmītes) vai Nr. meklēt"},{
+Key:1004513,Text:"Dziesmas akordi"},{
+Key:1004514,Text:"Kopēt Kompendijs kopsavilkums"},{
+Key:1004515,Text:"Kopsavilkumu krājumā bija novietotas starpliktuvē."},{
+Key:1005001,Text:"Iekraušanas beigām"},{
+Key:1005002,Text:"Dziesma '{0}'."},{
+Key:1005003,Text:"Ielādēt video"},{
+Key:1005004,Text:"Nevar nolasīt video '{0}'.
+{1}"},{
+Key:1005005,Text:"Ielādējot attēlus"},{
+Key:1005006,Text:"Nevar nolasīt attēlu '{0}'.
+{1}"},{
+Key:1005007,Text:"Iekraušanas stili"},{
+Key:1005008,Text:"Kolekcijas ({0} dziesmas {1} kolekcijās) saraksta aizpildīšana"},{
+Key:1005009,Text:"Dzēst atlasīto darba kārtības punktiem?"},{
+Key:1005010,Text:"Noņemt vienumus"},{
+Key:1005011,Text:"Jaunu kolekciju"},{
+Key:1005012,Text:"Jauna dziesma"},{
+Key:1005013,Text:"Darba kārtībā ir tukšs.
+Atvērtu vai velciet uz šejieni dziesmas un verses pievienot darba kārtībā."},{
+Key:1005014,Text:"Nav neviens slaids video - projekts.
+Izvēlieties dziesmu vai video pantus – projektu."},{
+Key:1005015,Text:"Vai tiešām vēlaties izdzēst kolekciju '{0}'
+
+Atbilst šīs kolekcijas fails netiek izdzēstas no diska:
+tā paplašinājums tiks pārdēvēta par \".ignore."},{
+Key:1005016,Text:"Izdzēst kolekciju"},{
+Key:1005017,Text:"Vai vēlaties izdzēst dziesmu '{0}'
+
+Pēc reģistrācijas grāmatas grozījumu, šī dziesma atcelšana būs neatgriezeniskas."},{
+Key:1005018,Text:"Izdzēst dziesmu"},{
+Key:1005019,Text:"Noņemt no bibliotēkas visus vienumus, kas ir darba kārtībā?"},{
+Key:1005020,Text:"Izdzēstu visus datus"},{
+Key:1005021,Text:"Darba kārtības bez nosaukuma"},{
+Key:1005022,Text:"Tukšu kalendāru"},{
+Key:1005023,Text:"Pašreizējā darba kārtībā ir nesaglabātas izmaiņas.
+Vēlaties šīs izmaiņas saglabāt?"},{
+Key:1005024,Text:"Saglabātu kalendāru"},{
+Key:1005025,Text:"Vienu vai vairākas kolekcijas ir nesaglabātas izmaiņas.
+Vēlaties šīs izmaiņas saglabāt?"},{
+Key:1005026,Text:"Ierakstu kolekciju"},{
+Key:1005027,Text:"Viena vai vairākas Bībeles ir nesaglabātas izmaiņas.
+Vēlaties šīs izmaiņas saglabāt?"},{
+Key:1005028,Text:"Saglabāt Bibles"},{
+Key:1005029,Text:"Dokumentu pievienošana darba kārtības"},{
+Key:1005030,Text:"Dienasgrāmatas"},{
+Key:1005031,Text:"Attēlus"},{
+Key:1005032,Text:"Video"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Saglabātu kalendāru ar"},{
+Key:1005035,Text:"CCLI dziesmas"},{
+Key:1005036,Text:"Nav neviena kolekcija.
+Uzklikšķināt šeit, lai sāktu importēt atskaites vedni."},{
+Key:1005037,Text:"Formāts: {0}
+{1} × {2} px"},{
+Key:1005038,Text:"ms: {0}"},{
+Key:1005039,Text:"Vai tiešām vēlaties dzēst visus stilus zem '{0}'"},{
+Key:1005040,Text:"Kolekcijā '{0}' ir izslēgti no meklēšanas"},{
+Key:1005041,Text:"Parādītu vai pārvietot slaidu"},{
+Key:1005042,Text:"Gadalaiki"},{
+Key:1005043,Text:"Pavasara"},{
+Key:1005044,Text:"Vasaras"},{
+Key:1005045,Text:"Ziemassvētku"},{
+Key:1005046,Text:"Tēmas"},{
+Key:1005047,Text:"Karameles"},{
+Key:1005048,Text:"Liliana"},{
+Key:1005049,Text:"Iztēle"},{
+Key:1005050,Text:"Darkroom"},{
+Key:1005051,Text:"Migla"},{
+Key:1005052,Text:"Projekts"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontrastu"},{
+Key:1005055,Text:"Biroja"},{
+Key:1005056,Text:"Zila Office 2010"},{
+Key:1005057,Text:"Office 2.010 silver"},{
+Key:1005058,Text:"Office 2010 melns"},{
+Key:1005059,Text:"Office 2007 Blue"},{
+Key:1005060,Text:"Office 2007 Green"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 Silver"},{
+Key:1005063,Text:"Office 2007 Black"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropole"},{
+Key:1005066,Text:"Septiņi"},{
+Key:1005067,Text:"Septiņi Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Vīraka"},{
+Key:1005070,Text:"Dūmi"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Krāsas"},{
+Key:1005073,Text:"Šķidruma debesīs"},{
+Key:1005074,Text:"Londonas debesis"},{
+Key:1005075,Text:"Zila"},{
+Key:1005076,Text:"Naudas dvīņi"},{
+Key:1005077,Text:"Black gold"},{
+Key:1005078,Text:"Aptumšošana"},{
+Key:1005079,Text:"Asu"},{
+Key:1005080,Text:"Vairāk asu"},{
+Key:1005081,Text:"Zvaigznes"},{
+Key:1005082,Text:"Okeānu no stikla"},{
+Key:1005083,Text:"Asfalta pasaulē"},{
+Key:1005084,Text:"Kafijas"},{
+Key:1005085,Text:"Zvaigžņu putekļi"},{
+Key:1005086,Text:"Dzēst visus stilus, kas tālāk"},{
+Key:1005087,Text:"Saglabāt atvērta galerija"},{
+Key:1005100,Text:"Nekustīgu"},{
+Key:1005102,Text:"Izbalināt"},{
+Key:1005103,Text:"Gaismas izbalināt"},{
+Key:1005104,Text:"Skatīt lielāku attēlu"},{
+Key:1005105,Text:"Paplašināšanas gaismas izbalināt"},{
+Key:1005106,Text:"Skenēšana"},{
+Key:1005107,Text:"Skenēt pa labi"},{
+Key:1005109,Text:"Forma"},{
+Key:1005110,Text:"Zvaigzne"},{
+Key:1005118,Text:"Skenēt uz leju"},{
+Key:1005120,Text:"Skenēt pa kreisi"},{
+Key:1005121,Text:"Skenēšana uz augšu"},{
+Key:1005122,Text:"Skenēšana no augšas labajā pusē"},{
+Key:1005123,Text:"Skenēšana no augšas pa kreisi"},{
+Key:1005124,Text:"Skenēšana no apakšējā labajā pusē"},{
+Key:1005125,Text:"Skenēšana no apakšas, pa kreisi"},{
+Key:1005126,Text:"Atklājiet"},{
+Key:1005127,Text:"Atklāt uz leju"},{
+Key:1005128,Text:"Atklājiet tiesības"},{
+Key:1005129,Text:"Atklājiet kreisajā pusē"},{
+Key:1005130,Text:"Atklājiet augšup"},{
+Key:1005131,Text:"Atklāt augšējā labajā"},{
+Key:1005132,Text:"Atklāt augšējā daļā pa kreisi"},{
+Key:1005133,Text:"Atklājiet tiesības uz leju"},{
+Key:1005134,Text:"Atklāt apakšā kreisajā pusē"},{
+Key:1005200,Text:"Slaidus"},{
+Key:1005201,Text:"Nav slaidu"},{
+Key:1005209,Text:"Meklēšanas vārdi:"},{
+Key:1005210,Text:"&Virsrakstu un lyrics"},{
+Key:1005211,Text:"&Virsrakstu un lyrics"},{
+Key:1005212,Text:"&Nosaukums"},{
+Key:1005213,Text:"&Autors un komponists"},{
+Key:1005214,Text:"&Tēmas"},{
+Key:1005215,Text:"&Atsauces"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Autortiesības"},{
+Key:1005218,Text:"&Piezīmes 1"},{
+Key:1005219,Text:"&2. Piezīmi"},{
+Key:1005220,Text:"&3. Piezīmi"},{
+Key:1005221,Text:"&Dziesmas akordi"},{
+Key:1005223,Text:"Opcijas"},{
+Key:1005224,Text:"VideoPsalm iespējas"},{
+Key:1005225,Text:"Tiek parādīts dialoglodziņš Opcijas VideoPsalm."},{
+Key:1005226,Text:"Importa"},{
+Key:1005228,Text:"Parāda importēšanas vedņa grāmatas, Bībeles, attēlus un video no VideoPsalm tiešsaistes bibliotēka un populāros formātos."},{
+Key:1005230,Text:"Dzēst"},{
+Key:1005232,Text:"Noņemt dziedāšanu, savākšanas vai izvēlēto Bībeles."},{
+Key:1005237,Text:"Mainīt fontu."},{
+Key:1005247,Text:"Attēlus"},{
+Key:1005252,Text:"Rediģēt paziņojumu preferences."},{
+Key:1005253,Text:"Aizveriet šo logu un atcerēties informāciju nākamajā reizē."},{
+Key:1005254,Text:"Aizveriet šo logu un vairs neatceras šo informāciju."},{
+Key:1005255,Text:"Meklētu vārdu vai frāzi, piemēram: maizi vīna"},{
+Key:1005256,Text:"Atlasiet vārsmas to atsauci"},{
+Key:1005257,Text:"Meklēt panti satur dažus atslēgas vārdus vai frāzes"},{
+Key:1005258,Text:"Dzēsiet atslēgvārdu vai frāzi, ko meklēt (ESC)"},{
+Key:1005259,Text:"Meklēt pantus, kuros ir dažas atslēgas vārdus.
+
+Piemēram:
+
+-Lai atrastu pantus, kuros ir frāze <b>\"Dieva bērni\"</b>, ierakstiet dažus vārdus kā <b>\"Dieva bērns\"</b>.
+
+-Lai atrastu dzejolis, kas satur teikumu <b>viņš paņēma krūzīti</b>, tipam, šos vārdus dalās: <b>«ilpritlacoupe»</b>.
+
+Nav jāuztraucas par diakritiskajām un pieturzīmes, vai mazos/lielos.
+
+Nav nepieciešams ierakstīt vārdus kopumā vai tādā secībā.
+
+Pievienot citiem vārdiem, samazināt atrasto vārsmas saraksta dzejolis.
+
+Nospiediet pogu <b>Ievietot</b> pievienot verse atrada un atlasīto darba kārtības."},{
+Key:1005260,Text:"Nav atrasts dzejolis."},{
+Key:1005268,Text:"Šajā režīmā VideoPsalm automātiski pievieno kvadrātiekavās [] ap jūsu ievadītais teksts.
+Piemēram, lai pievienotu c horda, ierakstiet «Do» un VideoPsalm tiks ievietots \"[vai]."},{
+Key:1005269,Text:"Fonta lielums"},{
+Key:1005270,Text:"Maina fonta lielumu procentos no ekrāna augstumu."},{
+Key:1005271,Text:"&Saglabāt kā..."},{
+Key:1005277,Text:"Saglabāt"},{
+Key:1005278,Text:"Saglabā izmaiņas, kuras veicāt grāmatas, Bībeles un savu stilu."},{
+Key:1005279,Text:"Saglabā izmaiņas, kuras veicāt stiliem un kolekcijām.
+
+<b>Uzmanību:</b> Bībeles veiktās izmaiņas netiek saglabātas (tekstu un stilu). Lai saglabātu šīs izmaiņas, iespējotu atbilstošo opciju VideoPsalm opcijas."},{
+Key:1005283,Text:"Garums:"},{
+Key:1005284,Text:"MS:"},{
+Key:1005285,Text:"Elements"},{
+Key:1005286,Text:"Organizācija"},{
+Key:1005287,Text:"Virsbūves veids"},{
+Key:1005288,Text:"Ļauj rediģēt ķermeņa stilā."},{
+Key:1005289,Text:"Galvenes"},{
+Key:1005290,Text:"Virsraksta stilu"},{
+Key:1005291,Text:"Ļauj rediģēt galvenes stilu."},{
+Key:1005292,Text:"Kāju"},{
+Key:1005293,Text:"Pamatnes stils"},{
+Key:1005294,Text:"Ļauj rediģēt stila pēdas."},{
+Key:1005295,Text:"Līgumi"},{
+Key:1005296,Text:"Veida līgumi"},{
+Key:1005297,Text:"Ļauj rediģēt stilu līgumu."},{
+Key:1005308,Text:"Grāmatas"},{
+Key:1005313,Text:"Līmeņa stils"},{
+Key:1005314,Text:"Noteikts līmenis, pie kura stila izmaiņas attieksies.
+
+Dzejolis ir augstākais stils, pēc tam vienkārši dzied, kolekcijas, kolekciju un bāzes līmeni.
+
+Tāpat dzejolis ir augstākais stila līmenis, tad nāk nodaļā, grāmatas, testaments Bībeli, Bībeles un pamatnes vēlreiz.
+
+Atrodas hierarhijas saknes pamatnes, tās stila skar visus slaidus.
+
+Augstāka līmeņa var ignorēt stils noteikti zemāka līmeņa atribūtu."},{
+Key:1005315,Text:"<b></b>Šis mehānisms ļauj mainīt stilu veidā kopumā vai atsevišķiem slaidiem.
+
+<b>Piemērs</b>
+Ja piešķirat fona dziesmu, visus pantus no šī dziesma parādās ar fona, izņemot pantus, kas ir piešķirtas konkrētām iepriekš uzkrātām zināšanām."},{
+Key:1005318,Text:"Slaidu"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Video"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Teksta krāsas"},{
+Key:1005329,Text:"Atiestatīt"},{
+Key:1005330,Text:"Notīra stilu atlasītajam līmenim"},{
+Key:1005331,Text:"Jūs varat izdzēst visus atlasītā līmeņa stilu atribūtus.
+Slaida bez stila manto automātiski zemāka līmeņa stilā.
+
+Piemēram:
+-Viens strofa ir ar Candara fonta stilu.
+-Dzied, tikmēr, ir stils ar fontu Segoe UI.
+
+Ja jūs dzēst dzejolis stilu, tas tiek parādīts ar zemāka līmeņa stilu. Mūsu piemērā ir fontu Segoe UI.
+
+<b>Nolaižamo izvēlni \"Dzēst visu iepriekš stili»</b>
+Varat dzēst stilu atlasītajam līmenim un augstāku visos stilos.
+
+Piemēram, atlasot līmeni stils \"Kodekss\", kolekcijas stila tiks dzēsti arī visas dziesmas kolekciju un to stanzas stilus."},{
+Key:1005332,Text:"Šī poga ir pelēkota, ja līmenis ir bez sava stila."},{
+Key:1005333,Text:"&Dzēst visu iepriekš stili"},{
+Key:1005337,Text:"&Augšā"},{
+Key:1005338,Text:"&Vidējā"},{
+Key:1005339,Text:"&Grunts"},{
+Key:1005340,Text:"Palikt šajā līmenī stils"},{
+Key:1005341,Text:"Paliek pašreizējā līmenī stils"},{
+Key:1005342,Text:"Paliek stils, kad maināt slaidu pašreizējā līmenī.
+
+Tādējādi:
+<b>1.</b> Kad parādīsiet dzejolis, dziesma, VideoPsalm, pozīcijas stils 'strofa' līmeni.
+<b>2.</b> Maiņas verse dziedāšanas stilu, atlasiet līmeni stils \"dziesma\".
+<b>3.</b> Palikt uz dziesmas stilu formatējumu, nospiediet spraudītes.
+<b>4.</b> Pārslēdzoties no vienas strofa uz nākamo, stila līmenis paliek \"dziesma\"."},{
+Key:1005343,Text:"Aizpildīt ar tekstu"},{
+Key:1005345,Text:"Aizpildīt tekstu ar tīrtoņa krāsu, gradientu, attēlu vai faktūru."},{
+Key:1005346,Text:"Teksta krāsu"},{
+Key:1005347,Text:"Teksta kontūru"},{
+Key:1005349,Text:"Norāda krāsu, platumu un līniju teksta stila izklāstu."},{
+Key:1005350,Text:"Teksta krāsa"},{
+Key:1005352,Text:"Teksta efektu"},{
+Key:1005354,Text:"Vizuālo efektu lietošana tekstā, piemēram, ēnu, gaismas, pārdomas vai 3 d pagriešanas."},{
+Key:1005356,Text:"Teksta ēnas"},{
+Key:1005357,Text:"Fona krāsu"},{
+Key:1005359,Text:"&Jauna dziesma"},{
+Key:1005360,Text:"&Jaunu kolekciju"},{
+Key:1005361,Text:"&Dzēst visu"},{
+Key:1005362,Text:"
+
+<b>Daļēja vairogs</b>
+Sākumā no darba kārtības tiek paturēts grāmatas un Bībeles <b>tekstiem</b> .
+Kalendāra stils tiks lietots grāmatas un Bībeles."},{
+Key:1005363,Text:"
+
+<b>Daļēja vairogs</b>
+Sākumā no darba kārtības tiek paturēts <b>stili</b> grāmatām un Bībeles.
+Darba kārtībā teksti tiks lietotas grāmatas un Bībeles."},{
+Key:1005364,Text:"
+
+<b>Pilns vairogs</b>
+Sākumā no darba kārtības tiek paturēts <b>teksti</b> un grāmatas un Bībeles <b>stilu</b> .
+Tās darba kārtības netiks lietots.
+
+<i>Tas ir stratēģija, lai pieņem dokumentus šajā datorā, ir jūsu atsauci.</i>"},{
+Key:1005365,Text:"
+
+<b>Nav vairogs</b>
+Kārtību, <b>teksti</b> un <b>stili</b> kalendāra atklāšanas tiks lietotas grāmatas un Bībeles un aizstāt savus tekstus un stili.
+
+<i>Tas ir jāpieņem, ja atsauces dokumentiem ir tādas pašas kā PC, tika izveidots darba kārtības stratēģiju.</i>"},{
+Key:1005366,Text:"Lai pārslēgtos no \"Skatītāju\" uz \"Edit\" režīmu vai otrādi, noklikšķiniet uz pogas ar zīmuli."},{
+Key:1005369,Text:"Kārtot pēc nosaukuma"},{
+Key:1005370,Text:"Sakārtots pēc numura"},{
+Key:1005371,Text:"Par..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simulē video projekcijas
+uz ekrāna pie 4:3.2 aspekts"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simulē video projekcijas
+uz ekrāna aspekts 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simulē video projekcijas
+uz 4:3 skata ekrānā"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simulē video projekcijas
+uz ekrāna aspekts 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simulē video projekcijas
+uz ekrāna aspekts 16:8"},{
+Key:1005387,Text:"Pašreizējā"},{
+Key:1005388,Text:"Izmanto ekrāna visu virsmu"},{
+Key:1005389,Text:"4:3 Skata"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"B C"},{
+Key:1005396,Text:"Nolīgumu ievietošanas režīmu"},{
+Key:1005398,Text:"Tiktu parādīti līgumu iepriekš lyrics"},{
+Key:1005400,Text:"Pielāgot loga izskatu"},{
+Key:1005401,Text:"&Pievienošana kalendāram"},{
+Key:1005402,Text:"&DELETE (dzēst)"},{
+Key:1005403,Text:"&Kods iekļautu meklēšanā"},{
+Key:1005404,Text:"&Izslēgt pētījumu apkopojums"},{
+Key:1005405,Text:"&Visas kolekcijas iekļautu meklēšanā"},{
+Key:1005407,Text:"&Paslēpt izslēgti no izpētes kolekcijas"},{
+Key:1005408,Text:"&Rādīt izslēgti no izpētes kolekcijas"},{
+Key:1005409,Text:"&Displeja izmēru taisnstūra"},{
+Key:1005410,Text:"Tiek parādīts taisnstūra izmērus"},{
+Key:1005411,Text:"Ļauj mainīt atlasīto kadru (pamatteksta, galvenes vai kājenes).
+
+Rāmja izmērus var mainīt ar peli priekšskatījuma laukumā.
+
+<b>Kā mainīt rāmja lielumu</b>
+
+1. Izvēlieties kadru izmērus:
+-ķermeņa
+-galvenes,
+- vai kājām.
+
+2. Izvēlieties vajadzīgo stilu līmeni, piemēram, \"Bībeles\".
+
+3. Nospiediet bug piespiest VideoPsalm parādīt slaidus \"Bībeles\" stilā.
+Patiešām, ja nav nospiests bug, VideoPsalm automātiski pārslēdzas uz \"Dzejolis\" stils kā parādīt kādu citātu.
+
+4 Parādīt kādu citātu. Priekšskatījuma apgabalā parāda rāmi, izmantojot stilu \"Bībeles\".
+
+5 Mainīt izmēru un izvietojumu rāmi, izmantojot peli.
+
+6. Bug, atgriezties VideoPsalm \"Dzejolis\" stils, kad atkal būs parādot slaidu noņemt."},{
+Key:1005412,Text:"&Kopēt starpliktuvē kodu kopsavilkums"},{
+Key:1005417,Text:"Teksts"},{
+Key:1005418,Text:"Stila Explorer"},{
+Key:1005419,Text:"Parāda vai paslēpj stilu Internet Explorer.
+Šajā logā var naviģēt līmeņu hierarhiska stili atiestatīt indivīda īpašības un tos rediģēt."},{
+Key:1005420,Text:"Stili"},{
+Key:1005421,Text:"Policijas"},{
+Key:1005424,Text:"Fona"},{
+Key:1005425,Text:"Stili"},{
+Key:1005429,Text:"Aspekts"},{
+Key:1005430,Text:"Izdevums"},{
+Key:1005432,Text:"Izskats"},{
+Key:1005433,Text:"Rīki"},{
+Key:1005442,Text:"Turpināt ar nākamo vienumu"},{
+Key:1005443,Text:"Izslēgt pirms došanās"},{
+Key:1005444,Text:"Noņemtu tekstu un pēc tam izpildiet"},{
+Key:1005445,Text:"Noņemt tekstu un pēc tam izslēdziet"},{
+Key:1005446,Text:"Parādīt kopā ar nākamo elementu (divās valodās)"},{
+Key:1005447,Text:"Pievienojiet vokāls vai pantus atlasīto darba kārtības (Insert vai Alt + A)"},{
+Key:1005448,Text:"Noklikšķiniet šeit, lai pievienotu balss vai panti darba kārtībā.
+
+Vai arī varat vilkt un nomest šo pogu Kalendārs uz vietu, kur vajadzētu būt."},{
+Key:1005449,Text:"&Pievienot"},{
+Key:1005454,Text:"Atlasiet opcijas, lai meklētu dziesmas pēc atslēgas vārdiem"},{
+Key:1005455,Text:"Dzēst vārdu vai numuru meklēšana (ESC)"},{
+Key:1005457,Text:"Meklēt dziesmu (Ctrl + F)"},{
+Key:1005458,Text:"Meklēt dziesmas, kas satur noteiktus vārdus vai skaitli.
+
+Piemēram:
+
+-Lai atrastu dziesmu Nr. 250, ierakstiet «250»
+
+-Lai atrastu dziesmu, kurā ir dziesmu teksti <b>\"nakts, tāpat kā bāka\"</b>, ierakstiet dažus vārdus kā <b>\"gaismas naktī\"</b>.
+
+Neuztraucieties par diakritiskajām un pieturzīmes.
+
+Nevajag ņemt vārdu kopumā vai pasūtījumu.
+
+Pievienot citus vārdus dziesmu, samazināt atrasto dziesmu sarakstu.
+
+Nospiediet pogu <b>Ievietot</b> pievienot pirmā dziesma, kas atrodas darba kārtībā."},{
+Key:1005459,Text:"Nav ne Bībeli.
+Uzklikšķināt šeit, lai sāktu importēšanas vedni
+Bībeles un pievienot Bībeles no tautas avotiem."},{
+Key:1005463,Text:"Svītrot atsauci uz displeja (ESC)"},{
+Key:1005464,Text:"Atsauci uz atlasiet, piemēram: Pāvila vēstule romiešiem 3:23-25, 30"},{
+Key:1005465,Text:"Atlasiet panti (Ctrl + F)"},{
+Key:1005472,Text:"&Fails:"},{
+Key:1005475,Text:"&Iekļaut šo kolekciju meklēt dziesmas"},{
+Key:1005479,Text:"&vārds:"},{
+Key:1005481,Text:"&Saīsinājums:"},{
+Key:1005483,Text:"&Autors:"},{
+Key:1005485,Text:"&Autortiesības:"},{
+Key:1005487,Text:"&Dokumentu:"},{
+Key:1005491,Text:"&Drukāt capo"},{
+Key:1005497,Text:"&Dziesmu teksti"},{
+Key:1005499,Text:"&Numurs:"},{
+Key:1005501,Text:"&Nosaukums:"},{
+Key:1005505,Text:"&Atsauce:"},{
+Key:1005507,Text:"&Autortiesības:"},{
+Key:1005509,Text:"&Autors:"},{
+Key:1005511,Text:"&Komponists:"},{
+Key:1005513,Text:"&Dažādas"},{
+Key:1005515,Text:"&Toni:"},{
+Key:1005517,Text:"&Formāts:"},{
+Key:1005519,Text:"&Tēma:"},{
+Key:1005521,Text:"&Secība:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Taustiņš:"},{
+Key:1005527,Text:"&PSEIDONĪMS:"},{
+Key:1005529,Text:"&Galvenās līnijas:"},{
+Key:1005531,Text:"&1. Piezīme:"},{
+Key:1005533,Text:"&2. Piezīmi:"},{
+Key:1005535,Text:"&3. Piezīme:"},{
+Key:1005537,Text:"&Paraksts:"},{
+Key:1005540,Text:"&Transponēšana:"},{
+Key:1005541,Text:"Capo drukāt?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempu:"},{
+Key:1005545,Text:"Lai īstenotu nolīgumus par dziesmu."},{
+Key:1005555,Text:"&Fails:"},{
+Key:1005560,Text:"&Autortiesības:"},{
+Key:1005562,Text:"&Saīsinājums:"},{
+Key:1005564,Text:"&vārds:"},{
+Key:1005566,Text:"&Apraksts:"},{
+Key:1005568,Text:"&Ievads:"},{
+Key:1005570,Text:"&Dokumentu:"},{
+Key:1005576,Text:"&vārds:"},{
+Key:1005582,Text:"&vārds:"},{
+Key:1005584,Text:"&Ievads:"},{
+Key:1005586,Text:"&Saīsinājums:"},{
+Key:1005587,Text:"Nodaļa no Bībeles"},{
+Key:1005590,Text:"Bible verse"},{
+Key:1005595,Text:"&Verse:"},{
+Key:1005603,Text:"&Fails:"},{
+Key:1005606,Text:"Nav veikta atlase"},{
+Key:1005608,Text:"Stils"},{
+Key:1005612,Text:"Noņem īpašuma vērtība"},{
+Key:1005613,Text:"Dzēšot īpašuma vērtība, pirmo vērtību, kas atrodama zemākie līmeņi izmanto VideoPsalm.
+
+Piemēram, noņemot policijas līmenī dzejolis, VideoPsalm lietošanas kārtībā un vai tā ir iestatīta, fonts:
+-dzied,
+-citādi kolekciju,
+-Ja viens no kolekcijas,
+-citādi bāzes.
+
+VideoPsalm ir tāds pats ar Bībeles, bildes utt."},{
+Key:1005615,Text:"Nav"},{
+Key:1005616,Text:"Bāzes"},{
+Key:1005618,Text:"Kolekcijas"},{
+Key:1005619,Text:"Kolekcijas"},{
+Key:1005620,Text:"Vokāls"},{
+Key:1005621,Text:"Strofa"},{
+Key:1005622,Text:"Bībeles"},{
+Key:1005623,Text:"Bible"},{
+Key:1005624,Text:"Testaments"},{
+Key:1005625,Text:"Bībeles grāmatas"},{
+Key:1005626,Text:"Nodaļa"},{
+Key:1005627,Text:"Dzejolis"},{
+Key:1005628,Text:"Noklusējuma vērtība"},{
+Key:1005629,Text:"Vērtība no teksta struktūra"},{
+Key:1005630,Text:"Kreisajā pusē"},{
+Key:1005631,Text:"Centrēts"},{
+Key:1005632,Text:"Tiesības"},{
+Key:1005633,Text:"Pamatota"},{
+Key:1005634,Text:"Augšā"},{
+Key:1005635,Text:"Vidējā"},{
+Key:1005636,Text:"Grunts"},{
+Key:1005650,Text:"&Atvērt kalendāru..."},{
+Key:1005651,Text:"&Pievienot kalendāru..."},{
+Key:1005652,Text:"&Pievienot attēlu slaidrādi..."},{
+Key:1005653,Text:"&Pievienot autonomo video..."},{
+Key:1005654,Text:"&Pievienot dažas PowerPoints..."},{
+Key:1005655,Text:"Atverot kalendāru:"},{
+Key:1005656,Text:"&Saglabāt manas grāmatas un Bībeles teksti"},{
+Key:1005657,Text:"&Saglabāt manas grāmatas un Bībeles stilu"},{
+Key:1005667,Text:"&Kolekcijas"},{
+Key:1005668,Text:"Parāda kolekcijas (Alt + R)"},{
+Key:1005670,Text:"&Bībeles"},{
+Key:1005671,Text:"Parāda Bībeles (Alt + B)"},{
+Key:1005677,Text:"&Platums:"},{
+Key:1005680,Text:"&Jāapstrādā kopēto laukumu:"},{
+Key:1005681,Text:"&Dziļums:"},{
+Key:1005682,Text:"&Virziens:"},{
+Key:1005686,Text:"Tiek parādīts tukšs ekrāns, melna krāsa.
+Simulē projektoru iznīcībai."},{
+Key:1005687,Text:"Nākamo"},{
+Key:1005688,Text:"Pārietu uz nākamo slaidu."},{
+Key:1005689,Text:"Izslēgt ekrānu (Ctrl + W)"},{
+Key:1005690,Text:"Ekrānā redzamo tekstu (Ctrl + T)"},{
+Key:1005691,Text:"Parāda vai paslēpj tekstu slaidā."},{
+Key:1005692,Text:"Vairogs (Ctrl + B)"},{
+Key:1005693,Text:"Saglabā video projekcijas slaidiem ir vokāls.
+
+Video projekcijas dziedāšanas laikā strādāt uz darba kārtības vai meklēt dziesmu vai dzejolis.
+
+Lai ignorētu vairogs, veiciet dubultklikšķi uz darba kārtības jautājumā."},{
+Key:1005694,Text:"Sasaldēt"},{
+Key:1005695,Text:"Video projekcijas ekrāns sastingst bez iesaldēšana priekšskatījuma laukumu.
+
+Lai priekšskatītu prezentāciju laikā video projekcijas."},{
+Key:1005696,Text:"Projektu (Ctrl + P)"},{
+Key:1005697,Text:"Plānotā slaidi projektorā."},{
+Key:1005698,Text:"Režīmā \"Izdevums\" (Ctrl + E)"},{
+Key:1005699,Text:"Pārslēdzas no \"Skatītāju\" režīms \"Edit\" vai otrādi."},{
+Key:1005702,Text:"Atvērt kalendāru vai dokumentu"},{
+Key:1005703,Text:"Tiek atvērts kalendāra, kā _ arī pievienot PowerPoint prezentāciju, attēlu slaidrādi, video utt."},{
+Key:1005704,Text:"Saglabātu kalendāru"},{
+Key:1005705,Text:"Dzēst"},{
+Key:1005706,Text:"Noņem atlasītos vienumus programmā (dzēst)."},{
+Key:1005707,Text:"Mount (Ctrl + vienu lappusi uz augšu)"},{
+Key:1005708,Text:"Monte elements, sākot no darba kārtības."},{
+Key:1005709,Text:"Uz leju (Ctrl + vienu lappusi uz leju)"},{
+Key:1005710,Text:"Nosaka elements ceļā uz darba kārtības beigām."},{
+Key:1005711,Text:"Spilgtums"},{
+Key:1005712,Text:"Kalendāra atvēršana"},{
+Key:1005713,Text:"Disku vai USB atslēga saglabā darba kārtībā."},{
+Key:1005721,Text:"Atlasa panti to atsauci.
+<i>Piemērs: Pāvila vēstule romiešiem 3:23-25, 30</i>
+
+Neievadiet akcentus grāmatu nosaukumus.
+<i>Piemērs: '<b>e</b>n h<b>e</b>mie \"nevis\" N<b>é</b>h<b>é</b>mie \".</i>
+
+Ievadiet vienu <b>': '</b>, <b>\".\"</b> vai atsevišķi panti nodaļā <b>\"v\"</b> .
+
+Nospiediet taustiņu <b>\"Ievietot\"</b> , lai pievienotu atlasīto darba kārtības vārsmas."},{
+Key:1005722,Text:"Komentāri (nav tulkot, atstāt angļu valodā)"},{
+Key:1005723,Text:"Nevar rakstīt failā
+{0} :
+{1}"},{
+Key:1005724,Text:"Kļūda"},{
+Key:1005725,Text:"Nevar nolasīt failu
+{0} :
+{1}"},{
+Key:1005730,Text:"Vai tiešām vēlaties noņemt stilu galerija attēlus
+Stilu galerija attēlus veiks standarta vērtība."},{
+Key:1005731,Text:"Vai tiešām vēlaties noņemt pamatstila
+Pamatstila veiks standarta vērtību."},{
+Key:1005732,Text:"Vai tiešām vēlaties noņemt stilu kolekciju
+Stilu kolekciju veiks standarta vērtību."},{
+Key:1005733,Text:"Vai tiešām vēlaties noņemt stilu Bibles
+Bībeles stila veiks standarta vērtību."},{
+Key:1005734,Text:"Vai tiešām vēlaties dzēst šo stilu?
+VideoPsalm lietot stilu atribūtus atrast zemākas hierarhijas."},{
+Key:1005735,Text:"Skaidrs stils"},{
+Key:1005736,Text:"Vai tiešām vēlaties noņemt stilu video
+Video stils veiks standarta vērtība."},{
+Key:1005737,Text:"Kolekcija"},{
+Key:1005738,Text:"Bez atgādinājuma"},{
+Key:1005739,Text:"Bible"},{
+Key:1005740,Text:"Nav Bībele"},{
+Key:1005743,Text:"Palielināt fontu (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Palielina fonta lielumu."},{
+Key:1005745,Text:"Samazināt fontu (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Samazina fonta lielumu."},{
+Key:1005747,Text:"Treknrakstā (Ctrl + B)"},{
+Key:1005748,Text:"Lai atlasīto tekstu treknrakstā."},{
+Key:1005749,Text:"Slīprakstu (Ctrl + I)"},{
+Key:1005750,Text:"Ievietot atlasīto tekstu slīprakstā."},{
+Key:1005751,Text:"Norādīja (Ctrl + U)"},{
+Key:1005752,Text:"Pasvītrot atlasīto tekstu."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Zīmē līniju atlasītā teksta vidū."},{
+Key:1005755,Text:"Rādīt / paslēpt ļ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Parāda rindkopas atzīmes un citus paslēptus formatēšanas simbolus."},{
+Key:1005757,Text:"Fonta krāsa"},{
+Key:1005758,Text:"Mainīt teksta krāsu."},{
+Key:1005759,Text:"Teksta krāsu"},{
+Key:1005760,Text:"Dod krāsu tekstam."},{
+Key:1005761,Text:"Notīrīt formatējumu (Ctrl + atstarpes)"},{
+Key:1005762,Text:"Pilnīgi notīra formatējumu atlasei un saglabā tikai vienkāršu tekstu."},{
+Key:1005763,Text:"Atsaukt (Ctrl + Z)"},{
+Key:1005764,Text:"Atceļ pēdējo darbību."},{
+Key:1005765,Text:"Atcelt atsaukšanu (Ctrl + Y)"},{
+Key:1005766,Text:"Atceļ pēdējās darbības atsaukšanu."},{
+Key:1005767,Text:"Cut (Ctrl + X)"},{
+Key:1005768,Text:"Izgriezt atlasi un ievietot to starpliktuvē."},{
+Key:1005769,Text:"Copy (Ctrl + C)"},{
+Key:1005770,Text:"Nokopē atlasi un ievieto to starpliktuvē."},{
+Key:1005771,Text:"Ielīmēt (Ctrl + V)"},{
+Key:1005772,Text:"Ielīmē starpliktuves saturu."},{
+Key:1005773,Text:"Meklēšana (Ctrl + F)"},{
+Key:1005774,Text:"Meklētu dokumentā esošo tekstu."},{
+Key:1005775,Text:"Aizstāt (Ctrl + H)"},{
+Key:1005776,Text:"Aizstāj dokumentā esošo tekstu."},{
+Key:1005777,Text:"Palielināt"},{
+Key:1005778,Text:"Rādīt visus"},{
+Key:1005779,Text:"Lai rediģētu kādu konkrētu citātu, noklikšķiniet uz tā slaida."},{
+Key:1005780,Text:"Dzejoļu izlases"},{
+Key:1005781,Text:"Kārto kolekcijas, kas atlasīti pēc viņu dziesmas nosaukums."},{
+Key:1005782,Text:"Aizver pašreizējo kārtību (un jāpieprasa jūsu apstiprinājums, ja ir nesaglabātas izmaiņas)."},{
+Key:1005783,Text:"Pielāgo attēla vai video fona spilgtumu.
+
+Ļauj teksta izcēlumu, pat vairāk nekā uz barriole fona."},{
+Key:1005784,Text:"&Kopēt darba kārtības apraksts"},{
+Key:1005785,Text:"&Iekļaut dziesmas lyrics"},{
+Key:1005786,Text:"&Iekļaut Bībeles panti"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Čivināt"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Atver VideoPsalm facebook lapā.
+
+Ļaujiet zināt VideoPsalm ap tevi:
+-noklikšķiniet uz pogas \"man patīk\"
+-kļūstot viņa draugs.
+
+<b>Piezīme:</b> Lai likvidētu Facebook reklāmas, instalējiet bezmaksas spraudnis <b>Adblock Plus</b>.
+
+Lai paslēptu VideoPsalm sociālās ikonas, tos atspējot \"Options\" → \"Général\" tab."},{
+Key:1005791,Text:"Atver VideoPsalm čivināt lapu, jāinformē par jauniem rakstiem no blogus.
+
+Lai paslēptu VideoPsalm sociālās ikonas, tos atspējot \"Options\" → \"Général\" tab."},{
+Key:1005792,Text:"Atver VideoPsalm YouTube lapā, kur jūs atradīsiet video pamācības par VideoPsalm izmantošanu.
+
+Lai paslēptu VideoPsalm sociālās ikonas, tos atspējot \"Options\" → \"Général\" tab."},{
+Key:1005793,Text:"Pievieno jaunu tukšu dziesma (vai reklāma) atlasīto kolekciju."},{
+Key:1005794,Text:"Pievieno jaunu tukšu kolekciju."},{
+Key:1005795,Text:"Kārto dziesmas to numura atlasījusi kolekcijas."},{
+Key:1005800,Text:"Strofa"},{
+Key:1005801,Text:"Koris"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Tilts"},{
+Key:1005804,Text:"Etiķete"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Izvades"},{
+Key:1005807,Text:"Pavadzīmes"},{
+Key:1005808,Text:"Instrumentālā"},{
+Key:1005809,Text:"Citi"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"ES"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Aizveriet"},{
+Key:1005851,Text:"&Valoda:"},{
+Key:1005852,Text:"&Izdevniecība:"},{
+Key:1005853,Text:"Visi"},{
+Key:1005859,Text:"Transponēt dziesmu līgumus atkarībā no atrašanās vietas capodiastre."},{
+Key:1005860,Text:"Atrast dziesmas nosaukumu (vai aizstājvārdu) vai lyrics ir vārdi, ko ievadāt.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005861,Text:"Veic meklēšanu divās kārtās, ka priekšrocība ātri parādīt īsu sarakstu ar dziesmas:
+
+1 Atrast pirmo reizi dziesmas nosaukumu (vai aizstājvārdu) satur vārdus, ko ievadāt.
+
+Pievienojot vārdus, tur nāk laiks, kur vairums jebkuru dziesmu varam piekrist.
+
+2. No šī brīža VideoPsalm meklēs vārdus dziesmām lyrics.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005862,Text:"Atrast dziesmas, ko ievadāt dziesminiekiem.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005863,Text:"Atrast dziesmas, kuras nodarbojas ar jautājumiem, ko ievadāt.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005864,Text:"Atrast dziesmas iedvesmots Bībeles atsauces, kuras ievadāt.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005865,Text:"Ir dziesma, kas ir jāievada CCLI.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005866,Text:"Sameklētu dziesmas, kuru autortiesības ir vārdi, kurus esat ievadījis.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005867,Text:"Sameklētu dziesmas, kuru piezīmes 1 satur vārdus, ko ievadāt.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005868,Text:"Sameklētu dziesmas, kuru rēķina 2 satur vārdus, ko ievadāt.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005869,Text:"Atrast dziesmas 3 piezīmi, kuros ir vārdi tiek ievadīts.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005870,Text:"Atrast dziesmas, kuras nosaukumu vai aizstājvārdu satur vārdus, ko ievadāt.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005871,Text:"Atrast dziesmas, kas ir nolīgumi lyrics.
+
+Alternatīvi, jūs varat meklēt dziesmu pēc kārtas numura."},{
+Key:1005872,Text:"&Versija:"},{
+Key:1005873,Text:"&Versija:"},{
+Key:1005874,Text:"Versijai atgādinājuma datums"},{
+Key:1005875,Text:"Norāda datumu, kurā šī kolekcija ir atjauninājis VideoPsalm pēdējo reizi.
+
+VideoPsalm tiešsaistes bibliotēka, izmantojot importēšanas vedni, jūs varat pārbaudīt, ja pastāv jaunāka versija šajā rokasgrāmatā.
+
+VideoPsalm tiešsaistē atjauninājumus dažkārt daži kolekcijas, piemēram jebkuru pārrakstīšanās kļūdu labot."},{
+Key:1005876,Text:"Dienas savu versiju par Bībeli"},{
+Key:1005877,Text:"Norāda datumu, kurā šī Bībele ir atjaunināts ar VideoPsalm pēdējo reizi.
+
+Caur VideoPsalm tiešsaistes bibliotēka importēšanas vedni, jūs varat pārbaudīt, vai ir šī pārtulkotā jaunāku versiju.
+
+Dažreiz VideoPsalm tiešsaistē atjauninājumus dažas Bībeles, piemēram jebkuru pārrakstīšanās kļūdu labot."},{
+Key:1005878,Text:"Saspiests"},{
+Key:1005879,Text:"Saspiests"},{
+Key:1005880,Text:"VideoPsalm var saspiest savu kolekciju un jūsu Bībeles, lai saglabātu vietu diskā.
+
+Grāmatas un Bībeles, kuru var lejupielādēt, izmantojot importa ceļvedi ir parasti saspiesti, lai paātrinātu lejupielādi un samazinātu satiksmes interneta vietnē VideoPsalm."},{
+Key:1005881,Text:"&Saspiests"},{
+Key:1005882,Text:"&Saspiests"},{
+Key:1005884,Text:"Vai tiešām vēlaties izdzēst Bībeli '{0}'
+
+Failu, kas atbilst šī Bībeles netiks dzēsti no diska:
+tā paplašinājums tiks pārdēvēta par \".ignore."},{
+Key:1005885,Text:"Izdzēst Bībeli"},{
+Key:1005886,Text:"Lūdzu, uzgaidiet, lūdzu"},{
+Key:1005887,Text:"Notiek ielāde..."},{
+Key:1005888,Text:"Vecā derība"},{
+Key:1005889,Text:"Jaunā Derība"},{
+Key:1005890,Text:"Pašreizējo ierakstu..."},{
+Key:1005891,Text:"&Importēt attēlus"},{
+Key:1005892,Text:"Izvēlieties attēlus, kurus vēlaties importēt, un pēc tam noklikšķiniet uz \"atvērt\"."},{
+Key:1005893,Text:"Esat importējis {0} rāmis (s)."},{
+Key:1005894,Text:"Attēls nav importēts.
+(Viņa (s) ir atrasta (s) galerijā)."},{
+Key:1005895,Text:"&No jauna sīktēlus"},{
+Key:1005896,Text:"No jauna sīktēlus"},{
+Key:1005897,Text:"Vai vēlaties atjaunot sīktēlus
+
+Var būt nepieciešams, lai atjaunotu attēlu sīktēlus
+Kad esat veicis izmaiņas ārpus VideoPsalm."},{
+Key:1005898,Text:"&Dzēst attēlu"},{
+Key:1005899,Text:"Noņemt attēlu"},{
+Key:1005900,Text:"Vai tiešām vēlaties dzēst attēlu '{0}'"},{
+Key:1005901,Text:"&Pārlūkot mapi Attēli"},{
+Key:1005902,Text:"&Izdzēstu izvēlēto attēlu"},{
+Key:1005903,Text:"&Importēt video"},{
+Key:1005904,Text:"Izvēlieties videoklipu, ko vēlaties importēt un pēc tam noklikšķiniet uz \"atvērt\"."},{
+Key:1005905,Text:"{0} (S) video ir importēts."},{
+Key:1005906,Text:"Neviens video nav importēts.
+(Viņa (s) ir atrasta (s) galerijā)."},{
+Key:1005907,Text:"&No jauna sīktēlus"},{
+Key:1005908,Text:"&Izdzēstu videoklipu"},{
+Key:1005909,Text:"Dzēstu videoklipu"},{
+Key:1005910,Text:"Vai tiešām vēlaties izdzēst \"{0}\" video"},{
+Key:1005911,Text:"&Pārlūkot mapes video"},{
+Key:1005912,Text:"&Dzēst atlasīto (s) video"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Importējot attēlus"},{
+Key:1005915,Text:"Importēt video"},{
+Key:1005917,Text:"Nevar izveidot mapi
+{0} :
+{1}"},{
+Key:1005918,Text:"Norādītā mape ir nodrošināts atbalsts:
+: {0}"},{
+Key:1005919,Text:"Mape ir jāaizpilda."},{
+Key:1005920,Text:"Mapes nosaukumā nedrīkst iekļaut šādas rakstzīmes:
+: {0}"},{
+Key:1005921,Text:"Atjaunot grāmatas un Bībeles"},{
+Key:1005922,Text:"Lai atjaunotu kolekcijas, Bībeles, attēlus vai video, piemēram no backup USB stick."},{
+Key:1005923,Text:"Aizvērt"},{
+Key:1005930,Text:"&Kopēt dziesmu"},{
+Key:1005931,Text:"&Pārvietot dziesmu"},{
+Key:1005932,Text:"Vai tiešām vēlaties kopēt dziesmu '{0}'.
+kolekcijā \"{1}\"?"},{
+Key:1005933,Text:"Vai tiešām vēlaties pārvietot dziesmu '{0}'.
+kolekcijā \"{1}\"?"},{
+Key:1005934,Text:"&Ievadiet atsauces caur saīsinājumi"},{
+Key:1005935,Text:"&Parādīt grāmatas nosaukums franču valodā"},{
+Key:1005936,Text:"(Kopēt)"},{
+Key:1005937,Text:"Jaunā grāmata ir pieejama:
+: {0}"},{
+Key:1005938,Text:"Ir pieejamas jaunas kolekcijas: {0}"},{
+Key:1005939,Text:"Tika veiktas korekcijas
+kolekcijā '{0}'."},{
+Key:1005940,Text:"Tika veiktas korekcijas
+kodu: {0}"},{
+Key:1005941,Text:"Atvērtu kolekcijas importēšanas vedni"},{
+Key:1005942,Text:"Jauna Bībele ir pieejama:
+: {0}"},{
+Key:1005943,Text:"Jaunu Bībeles ir pieejama: {0}"},{
+Key:1005944,Text:"Tika veiktas korekcijas
+Bible '{0}'."},{
+Key:1005945,Text:"Tika veiktas korekcijas
+bibles šādi: {0}"},{
+Key:1005946,Text:"Atvērtu vedni Bībeles importēšanai"},{
+Key:1005947,Text:"VideoPsalm pieejams no jauna
+programmā: {0}"},{
+Key:1005948,Text:"VideoPsalm nesen pieejama: {0}"},{
+Key:1005949,Text:"Tika veiktas korekcijas
+etiķetes: {0}"},{
+Key:1005950,Text:"Tika veiktas korekcijas
+pēc valodas etiķetes: {0}"},{
+Key:1005951,Text:"Atveriet uzlīmju vedņa importēt"},{
+Key:1005952,Text:"Jaunāku versiju
+VideoPsalm ir pieejama:"},{
+Key:1005953,Text:"Parādīt ziņas"},{
+Key:1005954,Text:"Automātiska"},{
+Key:1005955,Text:"Pārlūkot atlasītā mape"},{
+Key:1005956,Text:"Izvēlieties mapi"},{
+Key:1005957,Text:"Parādīt pēdējos failus"},{
+Key:1005958,Text:"Saglabāt"},{
+Key:1005959,Text:"Ļauj saglabāt jūsu kolekcijas, Bībeles, attēlus vai video, vai veikt portatīvo versiju VideoPsalm, piemēram, USB stick."},{
+Key:1005960,Text:"&Atjaunot..."},{
+Key:1005961,Text:"VideoPsalm nespēj parādīt programmā PowerPoint izveidotus dokumentus.
+
+(Nav lietojumprogramma PowerPoint tips netika atrasta jūsu datorā)."},{
+Key:1005962,Text:"Kļūda PowerPoint"},{
+Key:1005963,Text:"Lai {0} Rediģēt kolekcijā '{1}'."},{
+Key:1005964,Text:"Rediģējama {0} kolekcijā..."},{
+Key:1005965,Text:"Lai {0} Rediģēt jaunā kolekcija '{1}'."},{
+Key:1005966,Text:"Bībeles fragmenti"},{
+Key:1005967,Text:"&Pielāgotu Bībeles fragmenti"},{
+Key:1005968,Text:"&Apraksts:"},{
+Key:1005969,Text:"&Valoda:"},{
+Key:1005970,Text:"&Izdevniecība:"},{
+Key:1005971,Text:"&Administrators:"},{
+Key:1005973,Text:"&Administrators:"},{
+Key:1005974,Text:"Virs teksta"},{
+Key:1005975,Text:"Līgumi virs teksta"},{
+Key:1005976,Text:"Šis režīms ir ieteicams, lai rediģētu lyrics.
+Rediģējot tekstu, katra nolīguma pārvietojas ar vēstuli, kurā tas būtu nofiksēts.
+
+Kad jums <b>kopiju teksts satur līgumi</b>, līgumi tiek kopēti ar tekstu, ChordPro formātā.
+
+Ielīmējot tekstu, kurā iekļauti nolīgumos ChordPro formātā, VideoPsalm parāda šie līgumi virs teksta.
+
+<b>Lai pievienotu vienošanos</b>, ievietošana pa kreisi no burta, kuru vēlaties fiksēt to, ko ap to ar iekavās <b>[]</b>.
+
+<b>Lai dzēstu vienošanos</b>, izdzēst vēstuli, kurā tā tiek dokota un pēc tam vēlreiz ievadiet burtu.
+
+<b>Grozīt nolīgumu</b>, dzēst, tad ievietojiet to pareizi (vai izmantot \" <b>Formāta ChordPro</b> \" režīmā)."},{
+Key:1005977,Text:"ChordPro formāts"},{
+Key:1005978,Text:"Nolīgumiem, ChordPro formātā"},{
+Key:1005979,Text:"Šajā režīmā:
+
+-VideoPsalm parāda dziesmu teksti un akordi ar <b>ChordPro formātā</b>.
+
+-Tas ir ideāls režīms rediģēšanai līgumi: VideoPsalm automātiski pievieno kvadrātiekavās [] ap jūsu ievadītais teksts.
+Piemēram, lai pievienotu c horda, ierakstiet «Do» un VideoPsalm tiks ievietots \"[vai]\".
+
+Uzmanību: Šis režīms nav piemērota lyrics, rediģēšanas, jo atkarībā no gadījuma, VideoPsalm aptver burtus āķi.
+Izmantot drīzāk \"<b>virs teksta</b>\" režīmu, lai rediģētu tekstu."},{
+Key:1005980,Text:"Līgumi"},{
+Key:1005981,Text:"Kopija"},{
+Key:1005982,Text:"Kalendāra aprakstu kopijas un novietot to starpliktuvē."},{
+Key:1005983,Text:"&Programmai PowerPoint ļauj izmantot \"vadītājs\"."},{
+Key:1005984,Text:"Ja šī izvēles rūtiņa ir atzīmēta, VideoPsalm lapām PowerPoint parādīt savu komandu interfeisu vadīt virzīšanos uz prezentāciju."},{
+Key:1005985,Text:"Pārlūkot vienreiz"},{
+Key:1005986,Text:"Loop"},{
+Key:1005987,Text:"Iepriekš manuāli"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Automātiska iepriekš..."},{
+Key:1005990,Text:"&Iepriekš manuāli"},{
+Key:1005991,Text:"&Loop"},{
+Key:1005992,Text:"&Pārlūkot vienreiz"},{
+Key:1005993,Text:"&Intervāls (sekundes):"},{
+Key:1005994,Text:"&Pazūd teksts un pēc tam izslēdziet"},{
+Key:1005995,Text:"&Sekot līdzi nākamo elementu"},{
+Key:1005996,Text:"&Izslēgt pirms došanās"},{
+Key:1005997,Text:"&Izzūd teksta, pēc tam izpildiet"},{
+Key:1005998,Text:"&Parādīt kopā ar nākamo elementu (bilingvālās)"},{
+Key:1005999,Text:"&Internet Explorer"},{
+Key:1006000,Text:"Importēšanas vednis"},{
+Key:1006001,Text:"Esiet sveicināts importēšanas grāmatas, Bībeles, attēlu un video vedni"},{
+Key:1006002,Text:"Šis vednis vienkāršo, importējot grāmatas, Bībeles, attēlus un video no bibliotēkas tiešsaistes VideoPsalm vai populārajos formātos, liekot veikt vairākas darbības."},{
+Key:1006003,Text:"Noklikšķiniet uz tālāk, lai turpinātu"},{
+Key:1006004,Text:"&Izvēlēties..."},{
+Key:1006005,Text:"&Nākamais &gt;"},{
+Key:1006006,Text:"&&lt; Iepriekšējā"},{
+Key:1006007,Text:"&palīgā"},{
+Key:1006008,Text:"&Apdare"},{
+Key:1006009,Text:"&Atteikšanās"},{
+Key:1006010,Text:"Grāmatas, Bībeles, attēlus vai video var importēt"},{
+Key:1006011,Text:"Izvēlēties, ko vēlaties importēt"},{
+Key:1006012,Text:"Importēt kolekcija"},{
+Key:1006013,Text:"Importēt Bible"},{
+Key:1006014,Text:"Importēt attēlus"},{
+Key:1006015,Text:"Importēt video"},{
+Key:1006016,Text:"Importēt valoda"},{
+Key:1006020,Text:"&Inicializēt"},{
+Key:1006021,Text:"Inicializē standarta vērtību mapi"},{
+Key:1006023,Text:"Pirms importēšanas kopsavilkums"},{
+Key:1006024,Text:"Noklikšķiniet uz tālāk, lai sāktu importēt"},{
+Key:1006025,Text:"Pašreizējā importēšana"},{
+Key:1006026,Text:"Imports ir noticis pilnībā"},{
+Key:1006027,Text:"Lai aizvērtu vedni, noklikšķiniet uz Pabeigt
+
+Noklikšķiniet uz atpakaļ, lai importētu citu kolekciju vai citas Bībeles"},{
+Key:1006029,Text:"Jums ir {0} ir veiksmīgi importēts dziesmu {1} no kolekcijas."},{
+Key:1006030,Text:"Jums ir {0} ir veiksmīgi importēts dziesmas jaunā kolekcija '{1}'."},{
+Key:1006031,Text:"Jūs esat importējis '{0}\"Bībele ar panākumiem."},{
+Key:1006032,Text:"Jūs esat importējis {0} Bībeles ar panākumiem."},{
+Key:1006033,Text:"Esat importējis valodas '{0}' ar panākumiem."},{
+Key:1006034,Text:"Ir veiksmīgi importēts {0} valodās."},{
+Key:1006035,Text:"Vēlaties pārtraukt importēšanu?"},{
+Key:1006036,Text:"Importēšana netika pabeigta pareizi."},{
+Key:1006037,Text:"Ievadiet nosaukumu jaunas kolekcijas, VideoPsalm"},{
+Key:1006038,Text:"Jaunā kolekcija tiks saglabātas saskaņā ar šo vārdu. Šo nosaukumu var mainīt vēlāk"},{
+Key:1006039,Text:"&Nosaukumu, ko piešķirt kolekciju:"},{
+Key:1006040,Text:"Nosauciet šo jauno Bībeles VideoPsalm"},{
+Key:1006041,Text:"Jaunu Bībeli tiks saglabātas saskaņā ar šo vārdu. Šo nosaukumu var mainīt vēlāk"},{
+Key:1006042,Text:"&Nosaukumu, ko piešķirt Bible:"},{
+Key:1006051,Text:"Izvēlieties kolekcijas"},{
+Key:1006052,Text:"Atlasiet Bibles"},{
+Key:1006053,Text:"Atlasiet failu"},{
+Key:1006054,Text:"Atlasiet mapi"},{
+Key:1006055,Text:"&Fails:"},{
+Key:1006056,Text:"&Fails:"},{
+Key:1006057,Text:"Atlasiet valodas"},{
+Key:1006058,Text:"Mape \"{0}\" nepastāv."},{
+Key:1006060,Text:"Nevar piekļūt mapei '{0}'.
+
+{1}"},{
+Key:1006061,Text:"Failu \"{0}\" nepastāv."},{
+Key:1006062,Text:"Uzmanību: Daudzas kolekcijas iekraušanu var aizpildīt Personālā datora atmiņu un lēni meklēt dziesmas.
+Es tiešām jums lejupielādēt {0} kolekcijas?"},{
+Key:1006063,Text:"Uzmanību: Daudzi Bībeles iekraušanu var aizpildīt Personālā datora atmiņu.
+Es tiešām jums lejupielādēt {0} Bībelēs?"},{
+Key:1006064,Text:"Jaunais nosaukums nevar būt tukšs."},{
+Key:1006065,Text:"Jaunais nosaukums nevar ietvert šādas characters:: {0}"},{
+Key:1006066,Text:"Kolekcija ar nosaukumu '{0}' jau pastāv."},{
+Key:1006067,Text:"Bībele ar nosaukumu '{0}' jau pastāv."},{
+Key:1006068,Text:"Apturēt importēšanu."},{
+Key:1006069,Text:"Pārbaudiet savu interneta savienojumu."},{
+Key:1006070,Text:"Pieejams no {0}"},{
+Key:1006071,Text:"Jaunā versija pieejama kopš: {0}"},{
+Key:1006072,Text:"Versijas datumi no {0}"},{
+Key:1006073,Text:"Versija {0} ir atjaunināta."},{
+Key:1006074,Text:"Nosaukums"},{
+Key:1006075,Text:"Valsts"},{
+Key:1006076,Text:"Nav lejupielādēts"},{
+Key:1006077,Text:"Atjauninājums"},{
+Key:1006078,Text:"Pieejams atjauninājums"},{
+Key:1006079,Text:"Jaunā"},{
+Key:1006080,Text:"Jaunais atjauninājums ir pieejams"},{
+Key:1006081,Text:"Netiek atzīmēta.
+Ir jāatlasa vismaz vienā kolekcijā."},{
+Key:1006082,Text:"Nav Bībele ir atzīmēta.
+Ir jāatlasa vismaz Bībeli."},{
+Key:1006083,Text:"Neviena valoda nav atlasīta.
+Ir jāatlasa vismaz viena valoda."},{
+Key:1006084,Text:"Kods"},{
+Key:1006085,Text:"Avota failam <b>: {0}</b>"},{
+Key:1006086,Text:"Avota mapē:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokumenta meklēšana"},{
+Key:1006090,Text:"Nosaukums, kas dots jauns Bībeles VideoPsalm: <b>: {0}</b>"},{
+Key:1006091,Text:"VideoPsalm name: <b>{0}</b> jaunā kolekcija"},{
+Key:1006095,Text:"Bibliotēkā, VideoPsalm internetā, tas notiek dažos dokumentos tiek pievienoti vai atjaunināti (piemēram, lai labotu pārrakstīšanās kļūda).
+Atkarībā no iepriekš minētajiem dokumentiem, var izlemt tos lejupielādēt vai ne.
+
+<b>Šeit ir kā atšķirt valsts dokumenti:</b>
+-Dokumentus, kas nav lejupielādēti, tiek parādīti normāls.
+-Dokumentus, kas ir augšupielādēts un atjaunināti tiek parādīts <i>slīprakstā</i>. Tie ir atzīmēti ar <image=check_16>Labi.
+Nav nepieciešams ielādēt atkārtoti-, izņemot gadījumā, ja vēlaties atcelt jebkādas izmaiņas, kas veiktas.
+-Dokumentus, kas ir augšupielādēts un kas mums šajā laikā ir veikti labojumi VideoPsalm tiešsaistes bibliotēka, tiek rādītas <b>treknrakstā</b>. Tie ir atzīmēti ar zīmuli <image=pencil2_16>.
+
+Teksta lodziņā pa labi ir aprakstīts dokumentā ir veiktas kādas korekcijas: tas var palīdzēt jums izlemt, ja jūs vēlaties atkārtoti - lejupielādēt.
+
+<b>Uzmanību:</b> Ja jūs atjaunināt jūsu dokumentu re-uploading, zudīs visas izmaiņas, ko veicāt, kā arī kā savu stilu atribūtus, jo VideoPsalm aizstāj jūsu, tas lejupielādē.
+Jūsu fails netiek dzēsts, tomēr: tā paliek diskā taču kļūst neredzams VideoPsalm, jo VideoPsalm maina tās paplašināšanās .ignore.
+
+<b>Padome</b> : lejupielādēt tikai dokumentus, kas būs noderīga.
+Būtībā, ja jums ir pārāk daudz dokumentu, VideoPsalm kravas kļūs varbūt lēnāk, tāpat kā meklēšana pēc atslēgvārda.
+
+Ņemiet vērā, ka var jebkurā laikā noņemt grāmatu vai Bībeles jūsu VideoPsalm. Lai to izdarītu, izmantojiet pogu ' <image=delete2_16>Dzēst \"tab '\" apgāda \"'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&'{0}' Izmaiņu vēsturi."},{
+Key:1006100,Text:"VideoPsalm bibliotēkas tiešsaistes kolekcijām"},{
+Key:1006105,Text:"EasySlides dziesmas"},{
+Key:1006110,Text:"MediaShout dziesmas"},{
+Key:1006115,Text:"OpenLP dziesmas"},{
+Key:1006116,Text:"VerseView dziesmas"},{
+Key:1006120,Text:"Dziesmas \"OpenLyrics\" formātā."},{
+Key:1006125,Text:"OpenSong dziesmas"},{
+Key:1006130,Text:"Psalmo kolekcija"},{
+Key:1006131,Text:"Atgādinājuma teksta formātā"},{
+Key:1006132,Text:"Dziesmas EasyWorship 2009"},{
+Key:1006133,Text:"Dziesmas \"ChordPro\" formātā."},{
+Key:1006134,Text:"WebAsaph dziesmas"},{
+Key:1006135,Text:"Dziesmas formātā «CCLI."},{
+Key:1006140,Text:"Bībeles no bibliotēkas VideoPsalm tiešsaistē"},{
+Key:1006145,Text:"Bible Bībele datu bāzes"},{
+Key:1006150,Text:"Bible OpenLP"},{
+Key:1006155,Text:"Bible OpenSong"},{
+Key:1006160,Text:"Nesaistītu Bible Bībele"},{
+Key:1006165,Text:"Zefania Bible"},{
+Key:1006166,Text:"Bible EasySlides"},{
+Key:1006167,Text:"Bībeles formātā \"Osis\"."},{
+Key:1006168,Text:"Bībeles grāmatas formātā «USFM» (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Atlasiet tās kolekcijas, kurās VideoPsalm tiešsaistē, jūs vēlaties importēt savu VideoPsalm bibliotēka"},{
+Key:1006185,Text:"Atlasiet datu bāzi, kas ietver dziesmas, kuras vēlaties importēt savu VideoPsalm (paplašinājums. mdb failu) EasySlides"},{
+Key:1006190,Text:"Atlasiet datu bāzi, kas ietver dziesmas, kuras vēlaties importēt savu VideoPsalm (paplašinājums. mdb failu) MediaShout"},{
+Key:1006195,Text:"Atlasiet datu bāzi, kas ietver dziesmas, kuras vēlaties importēt savu VideoPsalm (paplašinājums .sqlite fails) OpenLP"},{
+Key:1006196,Text:"Atlasiet datu bāzi, kas ietver dziesmas, kuras vēlaties importēt jūsu VideoPsalm (paplašinājums .db fails) VerseView"},{
+Key:1006200,Text:"Atlasiet mapi, kurā ir dziesmas \"OpenLyrics\" formāta, kuru vēlaties importēt savu VideoPsalm (paplašinājums. XML faili)"},{
+Key:1006205,Text:"Atlasiet mapi, kurā vēlaties importēt savu VideoPsalm (failus bez paplašinājuma) OpenSong dziesmas"},{
+Key:1006210,Text:"Atlasiet eksportēto Psalmo apkopojumu RTF formātā vēlaties importēt savu VideoPsalm (paplašinājums. rtf failā)"},{
+Key:1006211,Text:"Atlasiet atgādinājuma teksta formatējumu, kuru vēlaties importēt jūsu VideoPsalm (paplašinājums. txt fails)"},{
+Key:1006212,Text:"Atlasiet datu bāzi, kas ietver dziesmas, kuras vēlaties importēt savu VideoPsalm (paplašinājums .db fails) EasyWorship 2009"},{
+Key:1006213,Text:"Atlasiet mapi, kurā ir dziesmas no ChordPro formāta, kuru vēlaties importēt savu VideoPsalm (.chordpro, .chopro, .crd vai .cho paplašinājumu faili)"},{
+Key:1006214,Text:"Atlasiet datu bāzi, kas ietver dziesmas, kuras vēlaties importēt savu VideoPsalm (faila paplašinājums .ltc) WebAsaph"},{
+Key:1006215,Text:"Atlasiet mapi, kurā ir dziesmas CCLI formātā importēšanai jūsu VideoPsalm (paplašinājums .usr faili)"},{
+Key:1006220,Text:"Atlasiet Bībeles VideoPsalm tiešsaistes bibliotēka vēlaties importēt savu VideoPsalm"},{
+Key:1006225,Text:"Atlasiet Bībeli, Bībeles bāzei, kurai vēlaties importēt jūsu VideoPsalm (paplašinājums. txt fails)"},{
+Key:1006230,Text:"Izvēlieties OpenLP Bībeles, jūs vēlaties importēt savu VideoPsalm (paplašinājums .sqlite fails)"},{
+Key:1006235,Text:"Atlasiet Bībeles OpenSong vēlaties importēt savu VideoPsalm (failu bez paplašinājuma)"},{
+Key:1006240,Text:"Izvēlieties nesaistītu Bible Bībele, jūs vēlaties importēt savu VideoPsalm (paplašinājums. txt fails)"},{
+Key:1006245,Text:"Atlasiet Zefania Bībeles vēlaties importēt savu VideoPsalm (paplašinājums. XML fails)"},{
+Key:1006247,Text:"Atlasiet Bībeles EasySlides vēlaties importēt savu VideoPsalm (paplašinājums. mdb failu)"},{
+Key:1006248,Text:"Atlasiet Bībele \"Osis\" formātā importēšanai jūsu VideoPsalm (paplašinājums. XML, .osi vai .osis fails)"},{
+Key:1006249,Text:"Izvēlieties \"USFM\" Bībeles grāmatas formātā importēšanai jūsu VideoPsalm (paplašinājums .sfm vai .usfm failus)"},{
+Key:1006252,Text:"Atlasiet valodu vēlaties importēt jūsu VideoPsalm VideoPsalm tiešsaistes bibliotēka"},{
+Key:1006255,Text:"Importēt <b>{0} VideoPsalm tiešsaistes bibliotēka savākšana (s)</b> :
+{1}"},{
+Key:1006260,Text:"Importēt <b>dziesmas EasySlides</b>"},{
+Key:1006265,Text:"Importēt <b>dziesmas MediaShout</b>"},{
+Key:1006270,Text:"Importēt <b>dziesmas, OpenLP</b>"},{
+Key:1006271,Text:"Importēt <b>VerseView dziesmas</b>"},{
+Key:1006275,Text:"Importēt <b>dziesmas formātā «OpenLyrics»</b>"},{
+Key:1006280,Text:"Importa <b>, OpenSong dziesma</b>"},{
+Key:1006285,Text:"Importēt <b>Psalmo kolekcija</b>"},{
+Key:1006286,Text:"Importēt <b>tekstu kopums</b>"},{
+Key:1006287,Text:"<b>Importēt dziesmas EasyWorship 2009</b>"},{
+Key:1006288,Text:"Importēt <b>dziesmas ChordPro formātā</b>"},{
+Key:1006289,Text:"Importēt <b>dziesmas WebAsaph</b>"},{
+Key:1006290,Text:"Importa <b>formāta CCLI dziesmas</b>"},{
+Key:1006295,Text:"Importēt <b>{0} Bībeli (s) no VideoPsalm tiešsaistes bibliotēka</b> :
+{1}"},{
+Key:1006300,Text:"<b>Bible Bībele bāzes</b> importēšana"},{
+Key:1006305,Text:"Importēt <b>Bible OpenLP</b>"},{
+Key:1006310,Text:"Importēt <b>Bible OpenSong</b>"},{
+Key:1006315,Text:"Importēt <b>nesaistītu Bible Bībele</b>"},{
+Key:1006320,Text:"Importēt <b>Zefania Bible</b>"},{
+Key:1006321,Text:"Importēt <b>EasySlides Bible</b>"},{
+Key:1006322,Text:"Importēt <b>Bībeles formātā \"Osis\"</b>"},{
+Key:1006323,Text:"Importēt <b>Bībeles formātā «USFM»</b>"},{
+Key:1006325,Text:"Importēt <b>{0} VideoPsalm internetā bibliotēku valoda (s)</b> :
+{1}"},{
+Key:1006340,Text:"Atlasiet datu bāzi, EasySlide"},{
+Key:1006345,Text:"Atlasiet datu bāzi, MediaShout"},{
+Key:1006350,Text:"Atlasiet datu bāzi, OpenLP"},{
+Key:1006351,Text:"Atlasiet datu bāzi, VerseView"},{
+Key:1006355,Text:"Atlasiet mapi, kurā ir dziesmas formātā \"OpenLyrics\"."},{
+Key:1006360,Text:"Atlasiet mapi, kurā ir dziesmas no OpenSong"},{
+Key:1006365,Text:"Atlasiet RTF failu, kurā eksportēt Psalmo dziesmas"},{
+Key:1006366,Text:"Atlasiet failu, kurā ir dziesmas teksta formātā"},{
+Key:1006367,Text:"Izvēlieties bāzi EasyWorship 2009"},{
+Key:1006368,Text:"Atlasiet mapi, kurā ir dziesmas formātā \"ChordPro\"."},{
+Key:1006369,Text:"Atlasiet datu bāzi, WebAsaph"},{
+Key:1006370,Text:"Atlasiet mapi, kurā ir dziesmas formātā «CCLI."},{
+Key:1006375,Text:"Atlasiet Bible BibleDatabase"},{
+Key:1006380,Text:"Atlasiet Bible OpenLP"},{
+Key:1006385,Text:"Atlasiet Bible OpenSong"},{
+Key:1006390,Text:"Atlasiet nesaistītu Bible Bībele"},{
+Key:1006395,Text:"Atlasiet Zefania Bible"},{
+Key:1006397,Text:"Atlasiet Bible EasySlides"},{
+Key:1006398,Text:"Atlasiet formātu \"Osis\" Bībele."},{
+Key:1006399,Text:"Atlasiet Bībeles grāmatas formātā \"USFM."},{
+Key:1006405,Text:"EasySlide datu bāze"},{
+Key:1006410,Text:"MediaShout 4 datu bāzes"},{
+Key:1006411,Text:"MediaShout 3 datu bāzes"},{
+Key:1006415,Text:"OpenLP datu bāze"},{
+Key:1006416,Text:"Datu bāzes EasyWorship 2009"},{
+Key:1006417,Text:"VerseView datu bāze"},{
+Key:1006420,Text:"Mape '{0}'.
+satur ne dziedāt pie \"OpenLyrics\" (paplašinājums. xml) formātā."},{
+Key:1006425,Text:"Mape '{0}'.
+satur ne OpenSong dziesmu (OpenSong dziesmas ir failu bez paplašinājuma)."},{
+Key:1006430,Text:"Dziesmas, kas eksportēti no Psalmo"},{
+Key:1006431,Text:"Dziesmas teksta formātā"},{
+Key:1006432,Text:"Mape '{0}'.
+satur ne dziedāt pie \"ChordPro\" (paplašinājums. chopro/chordpro, crd un cho) formātā."},{
+Key:1006433,Text:"WebAsaph datu bāze"},{
+Key:1006434,Text:"Mape '{0}'.
+norādīta neviena dziesma «CCLI» (.usr paplašinājums) formātā."},{
+Key:1006440,Text:"BibleDatabase Bibles"},{
+Key:1006445,Text:"OpenLP Bibles"},{
+Key:1006450,Text:"OpenSong Bibles"},{
+Key:1006455,Text:"Bībeles nesaistītu Bible"},{
+Key:1006460,Text:"Zefania Bibles"},{
+Key:1006462,Text:"EasySlides Bibles"},{
+Key:1006463,Text:"Bībeles formātā \"Osis\"."},{
+Key:1006464,Text:"Grāmatas no Bībeles formātā \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Es mīlu Kungu 1"},{
+Key:1006506,Text:"DŽEMS 1. rtf"},{
+Key:1006507,Text:"Mana chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Es mīlu Kungu"},{
+Key:1006510,Text:"MSAccess datu bāzēm"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Visi faili"},{
+Key:1006520,Text:"SQLite datu bāzēm"},{
+Key:1006525,Text:"Paradox datu bāze"},{
+Key:1006526,Text:"Datu bāzes WebAsaph"},{
+Key:1006600,Text:"Izvēlieties VideoPsalm tiešsaistes bibliotēka vai cita avota"},{
+Key:1006601,Text:"VideoPsalm tiešsaistes bibliotēka, kas ietver daudzas kolekcijas vairākās valodās"},{
+Key:1006602,Text:"VideoPsalm (importa laikā nepieciešams interneta pieslēgums) tiešsaistes bibliotēka"},{
+Key:1006603,Text:"Dziesmas tautas, importēt uz jūsu cietā diska formātu"},{
+Key:1006604,Text:"Izvēlieties VideoPsalm tiešsaistes bibliotēka vai cita avota"},{
+Key:1006605,Text:"VideoPsalm tiešsaistes bibliotēka, kas ietver daudz tulkojumu Bībeli dažādās valodās"},{
+Key:1006606,Text:"VideoPsalm (importa laikā nepieciešams interneta pieslēgums) tiešsaistes bibliotēka"},{
+Key:1006607,Text:"Bībele ir populāra, importēt uz jūsu cietā diska formātu"},{
+Key:1006608,Text:"Kas ir avots dziesmas formātā?"},{
+Key:1006609,Text:"Kāda ir Bībele avota formātā?"},{
+Key:1006610,Text:"Varat importēt savu VideoPsalm Bībele tautas formātā glabātas datora"},{
+Key:1006611,Text:"Varat importēt savu VideoPsalm tautas formātā dziesmas, kas saglabāti jūsu datorā"},{
+Key:1007000,Text:"Rezerves"},{
+Key:1007001,Text:"Vai vēlaties startēt VideoPsalm dublējuma mapē
+« {0} » ?"},{
+Key:1007004,Text:"Izvēlētajā mapē nevar veikt dublēšanu
+jo tas atrodas pašreizējā mapē Dokumenti VideoPsalm
+({0})."},{
+Key:1007005,Text:"Nav pietiekami daudz brīvas vietas diskā {0}.
+Būtu {1: #, # #} MB, un tur ir tikai {2: #, # #} MB pieejamas."},{
+Key:1007006,Text:"Dublēšana nevar pabeigt:
+
+: {0}"},{
+Key:1007007,Text:"Nevar lejupielādēt Microsoft .NET Framework 4.0:
+
+: {0}
+
+Tas var būt sakarā ar to, ka nav interneta pieslēgums.
+Parasti turpinās dublēšanu
+bet jūs nevarēsiet instalēt Microsoft .NET Framework 4.0 no dublējuma."},{
+Key:1007008,Text:"pieejams: {0}"},{
+Key:1007009,Text:"Atgādinājums: Dublēšana nevarēja kopēt
+Microsoft .NET Framework 4.0 uzstādīšana."},{
+Key:1007010,Text:"Dublēšanas pabeigšanas pareizi."},{
+Key:1007011,Text:"Vai vēlaties atteikties no dublējuma"},{
+Key:1007030,Text:"Atlasiet mapi vai izveidojiet all-in-one veikt rezerves kopiju VideoPsalm"},{
+Key:1007031,Text:"Dublējumkopiju jūsu dokumentus (grāmatas, Bībeles, attēliem, videoklipiem, stili) vietā, kuru norādāt, piemēram:
+-USB
+-ārējo cieto disku,
+-tīkla mapi,
+-utt.
+
+<b>Backup ļauj tai skaitā:</b>
+-nodrošināt dokumentu, tos dublējot citā datu nesējā,
+-veidot VideoPsalm, portatīvo versiju, piemēram uz USB stick,
+-lai viegli pārsūtīt uz citu datoru, lietojot funkciju atjaunošana dokumetos
+-atkārtot savus dokumentus vairākās konfigurācijās kolekcijas ar savu stilu un tajā pašā datorā.
+
+<b>Piezīme:</b> Lai sinhronizētu VideoPsalm ierakstus starp vairākiem datoriem, var izvēlēties vairāk tieši par sinhronizēšanu piemēram, SkyDrive vai DropBox pakalpojumu."},{
+Key:1007032,Text:"Atlasiet dokumentus, kurus vēlaties saglabāt:"},{
+Key:1007033,Text:"&Kolekcijas"},{
+Key:1007034,Text:"&Bībeles"},{
+Key:1007035,Text:"&Attēlus"},{
+Key:1007036,Text:"&Video"},{
+Key:1007037,Text:"&Saglabāt savus dokumentus par:"},{
+Key:1007038,Text:"Norādiet mapi, kurā saglabāt dokumentus par VideoPsalm.
+
+Piemēram: «E:\\Ma rezerves VideoPsalm.
+
+Ja šī mape nepastāv, tā tiek izveidota automātiski, kad dublējums."},{
+Key:1007039,Text:"&Izveidot portable pieteikumu VideoPsalm"},{
+Key:1007040,Text:"Pievieno VideoPsalm darbībai vajadzīgām visu izpildāmo failu dublējuma mapē.
+
+Parasti tas atrodas USB atslēgu, ko vēlaties izveidot VideoPsalm portable pieteikumu.
+
+Rādīšanai citā datorā, tieši no USB atslēgu bez nepieciešamības uzstādīt VideoPsalm VideoPsalm Portatīvie dublējums.
+
+VideoPsalm sākot no USB atslēgu, jums būs piekļuve visas funkcijas no VideoPsalm, ieskaitot rezerves. Tas ļauj saglabāt VideoPsalm uz cieto disku citā datorā, lai vēlāk palaist bez USB atslēgas.
+
+<b>Svarīgi</b>
+VideoPsalm opcijas netiek pievienoti dublējums.
+Pēc pirmā izpildījuma VideoPsalm konkrētajā datorā, iespējams, vajadzēs pielāgot VideoPsalm iespējas, piemēram baznīcas vadītāja apliecības."},{
+Key:1007041,Text:"&Pievienot Microsoft .NET Framework 4.0 uzstādīšanas programmu"},{
+Key:1007042,Text:"Darboties, VideoPsalm nepieciešama Microsoft .NET Framework 4.0. Jaunākajos datoros bieži vien ir .NET Framework 4.0 vai augstāka sākotnēji. Ja neesat pārliecināts, ka .NET Framework 4.0 tiek instalēts arī otrā datorā, atzīmējiet izvēles rūtiņu \"Add .NET Framework 4.0 uzstādīšana. VideoPsalm USB stick būs pēc tam vieta .NET Framework 4.0 (interneta pieslēgumu var pieprasīt, lai šī) iestatījuma kopiju.
+
+No USB atslēgu var viegli instalēt .NET Framework 4.0 otrā datorā pirms sākat VideoPsalm. .NET Framework 4.0 uzstādīšana ir ļoti ātri, un tas nevar restartēt Windows, parasti.
+
+Jūs atradīsiet .NET Framework 4.0 failu instalēšanas dublējuma mapē. Šis faila nosaukums ir \"dotNetFx40_Full_x86_x64.exe. Lai sāktu .NET Framework 4.0 instalēšanas citā datorā, veiciet dubultklikšķi uz šī faila."},{
+Key:1007043,Text:"&Sākt dublēšanas"},{
+Key:1007044,Text:"Lejupielādēt Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"&Mape (mape, kurā tiek saglabāta) VideoPsalm dokumenti:"},{
+Key:1007046,Text:"Ļaujiet man saglabāt norādītajā mapē pirms kolekcijas"},{
+Key:1007047,Text:"Noņemt pirms norādītā mape saglabāt raktuves kolekcijas"},{
+Key:1007048,Text:"Norādītā mape tur pirms Bībeles izņemot manu atvaļinājumu"},{
+Key:1007049,Text:"Noņemt mapi norādīta pirms Bībeles ir glābt raktuves"},{
+Key:1007050,Text:"Pirms norādītā mape Attēli ir saglabāt mans atvaļinājums"},{
+Key:1007051,Text:"Dzēst attēlus no pirms norādītā mape ir glābt raktuves"},{
+Key:1007052,Text:"Ļaujiet video pirms norādītā mape ir glābt raktuves"},{
+Key:1007053,Text:"Dzēst pirms norādītā mape saglabāt mans video"},{
+Key:1007054,Text:"Atlasiet mapi vai izveidojiet vienu vietu rezerves VideoPsalm"},{
+Key:1007055,Text:"Atļaut audio no norādītā mape pirms ir glābt raktuves"},{
+Key:1007056,Text:"Noņemt audio no pirms norādītā mape ir glābt raktuves"},{
+Key:1007057,Text:"&Audio"},{
+Key:1008000,Text:"Dublējuma atjaunošana"},{
+Key:1008001,Text:"Vai vēlaties atjaunot dublējumu VideoPsalm no mapes
+« {0} » ?
+
+Uzmanību: Atkarībā no opcijas, kas ir atzīmēta, pašreizējā dokumentu būs aizstāt vai izdzēst."},{
+Key:1008002,Text:"Lūdzu, ievadiet mapes dublējumu, kas jāatjauno."},{
+Key:1008004,Text:"Nevar atjaunot backup no jūsu izvēlētā mape
+jo tas atrodas pašreizējā mapē VideoPsalm dokumentus."},{
+Key:1008006,Text:"Nevar pabeigt atjaunot:
+
+: {0}"},{
+Key:1008010,Text:"Atjaunošana tika izbeigta."},{
+Key:1008011,Text:"Vai vēlaties atteikties no atjaunošanas"},{
+Key:1008012,Text:"Dublējuma atjaunošana"},{
+Key:1008032,Text:"Atlasiet dokumentus, kurus vēlaties atjaunot:"},{
+Key:1008033,Text:"&Kolekcijas"},{
+Key:1008034,Text:"&Bībeles"},{
+Key:1008035,Text:"&Attēlus"},{
+Key:1008036,Text:"&Video"},{
+Key:1008043,Text:"&Atjaunošana"},{
+Key:1008044,Text:"Ļaujiet manas kolekcijas pirms atjaunošana no dublējuma"},{
+Key:1008045,Text:"Manas kolekcijas dzēst pirms atjaunošana no dublējuma"},{
+Key:1008046,Text:"Ļaujiet man Bībeles pirms atjaunošanu no dublējuma"},{
+Key:1008047,Text:"Dzēst manu Bībeles pirms atjaunošana no dublējuma"},{
+Key:1008048,Text:"Ļaujiet manas bildes pirms atjaunošana no dublējuma"},{
+Key:1008049,Text:"Dzēst manu attēlus pirms atjaunošana no dublējuma"},{
+Key:1008050,Text:"Ļaujiet mans video pirms atjaunošana no dublējuma"},{
+Key:1008051,Text:"Dzēst manu video pirms atjaunošana no dublējuma"},{
+Key:1008052,Text:"&No dublējuma atjaunošana:"},{
+Key:1008053,Text:"Šeit norādiet mapi, no kuras tiks atjaunoti ieraksti VideoPsalm.
+
+Piemērs: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Mape (mape, kurā tiks atjaunots dublējums) VideoPsalm dokumenti:"},{
+Key:1008055,Text:"Atsvaidzināt"},{
+Key:1008056,Text:"Atlasiet mapi, kurā atrodas dublējuma VideoPsalm"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Ļaujiet mana audio pirms atjaunošana no dublējuma"},{
+Key:1008059,Text:"Dzēst manu audio pirms atjaunošana no dublējuma"},{
+Key:1008999,Text:"Video projektoru"},{
+Key:1009000,Text:"dziesma"},{
+Key:1009001,Text:"{0} dziesmas"},{
+Key:1009002,Text:"dzejoļu izlases sarakstu"},{
+Key:1009003,Text:"{0} sarakstus vārsmas"},{
+Key:1009004,Text:"attēlu"},{
+Key:1009005,Text:"attēli: {0}"},{
+Key:1009006,Text:"Bible '{0}'."},{
+Key:1009007,Text:"Nodaļa: {0}"},{
+Key:1009009,Text:"{0} Bibles"},{
+Key:1009010,Text:"Attēlu '{0}'."},{
+Key:1009011,Text:"{0} ({1} attēli)"},{
+Key:1009012,Text:"attēli: {0}"},{
+Key:1009013,Text:"{0} ({1} slaidi)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Ielādējot noklusējuma stils"},{
+Key:1009016,Text:"Stilu kolekciju iekraušana"},{
+Key:1009017,Text:"Iekraušanas kolekcijā '{0}'."},{
+Key:1009018,Text:"Iekraušanas Bībeles stilu"},{
+Key:1009019,Text:"Iekraušanas Bible '{0}'."},{
+Key:1009020,Text:"Fails: {0}"},{
+Key:1009100,Text:"{0} ({1} dziesmas)"},{
+Key:1009101,Text:"{0} (viena dziesma)"},{
+Key:1009102,Text:"{0} (neviens vokāls)"},{
+Key:1009103,Text:"Jau ir fails '{0}'.
+VideoPsalm, kurā varētu glābt jaunā kolekcija '{1}'.
+
+Nav iespējams saglabāt šo jauno kolekciju.
+Saīsinājumu vai šo jauno kolekciju unikālu nosaukumu, un mēģiniet saglabāt vēlreiz."},{
+Key:1009104,Text:"Reģistrācija neizdevās"},{
+Key:1009105,Text:"Nevar pārvietot failu
+: {0}
+tārpi
+{1}.
+
+{2}"},{
+Key:1009107,Text:"Kolekcijas: {0}"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} panti)"},{
+Key:1009111,Text:"Videoklipu '{0}'."},{
+Key:1009112,Text:"{0} ({1} video)"},{
+Key:1009113,Text:"video: {0}"},{
+Key:1009114,Text:"Nevar saglabāt kolekciju.
+Kolekciju, var saglabāt to nosaukumu."},{
+Key:1010000,Text:"Redzētu citas krāsas"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Aizveriet"},{
+Key:1010003,Text:"&Caurspīdīgs"},{
+Key:1010004,Text:"Atcelt"},{
+Key:1010005,Text:"labi"},{
+Key:1010006,Text:"Rādīt mazāk krāsu"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Tiks aizvērta, nepārvietojoties iespraužot lauku"},{
+Key:1011001,Text:"Saīsinājums no kolekcijas"},{
+Key:1011002,Text:"Aizstājvārds"},{
+Key:1011003,Text:"Dziesmu autors"},{
+Key:1011004,Text:"Autors kolekciju"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Taustiņu"},{
+Key:1011007,Text:"Komponists"},{
+Key:1011008,Text:"Dziesmu autortiesības"},{
+Key:1011009,Text:"Grāmatu autortiesības"},{
+Key:1011010,Text:"Etiķetes, dzejolis"},{
+Key:1011011,Text:"Etiķeti un numuru dzejolis"},{
+Key:1011012,Text:"Formāts"},{
+Key:1011013,Text:"Licence no baznīcas"},{
+Key:1011014,Text:"Galveno rindu"},{
+Key:1011015,Text:"Piezīmes 1"},{
+Key:1011016,Text:"2. Piezīmi"},{
+Key:1011017,Text:"3. Piezīmi"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Pozīciju, dzejolis"},{
+Key:1011020,Text:"Panta Nr."},{
+Key:1011021,Text:"Dziesma Nr."},{
+Key:1011022,Text:"Piezīme dzejolis"},{
+Key:1011023,Text:"Vairākas dziesmas no kolekcijas"},{
+Key:1011024,Text:"Stanzas skaits"},{
+Key:1011025,Text:"Pārskata"},{
+Key:1011026,Text:"Stanzas secība"},{
+Key:1011027,Text:"Paraksts"},{
+Key:1011028,Text:"Tempu"},{
+Key:1011029,Text:"Tēma"},{
+Key:1011030,Text:"Dziesmas nosaukums"},{
+Key:1011031,Text:"Grāmatas virsrakstu"},{
+Key:1011032,Text:"Signāls"},{
+Key:1011033,Text:"3. Noņemiet visus datu laukus"},{
+Key:1011034,Text:"2. Izmantojiet standarta lauki"},{
+Key:1011035,Text:"Administrators"},{
+Key:1011036,Text:"Valodas"},{
+Key:1011037,Text:"Redaktors"},{
+Key:1011038,Text:"Transponēšana"},{
+Key:1011101,Text:"Saīsinājums no Bībeles"},{
+Key:1011102,Text:"Saīsinājums no grāmatas"},{
+Key:1011103,Text:"Nodaļa"},{
+Key:1011104,Text:"Bībeles autortiesības"},{
+Key:1011105,Text:"Bībele apraksta"},{
+Key:1011107,Text:"Redaktors"},{
+Key:1011108,Text:"Valodas"},{
+Key:1011109,Text:"Vārds no Bībeles"},{
+Key:1011110,Text:"Grāmatas nosaukums"},{
+Key:1011111,Text:"Grāmatu nodaļu skaits"},{
+Key:1011112,Text:"Vairāki panti nodaļā"},{
+Key:1011113,Text:"Testaments"},{
+Key:1011114,Text:"Dzejolis"},{
+Key:1011115,Text:"Administrators no Bībeles"},{
+Key:1011200,Text:"&Iespraudiet lauku:"},{
+Key:1011201,Text:"Formatēt tekstu, kas tiek parādīts galvenē vai kājenē strophe vai dzejolis"},{
+Key:1011202,Text:"Ievadiet tekstu, ko rādīt.
+Šis teksts ir bezmaksas, un parasti sastāv no vairākiem iepriekš definētus laukus.
+
+Iepriekš noteiktu lauku dziesmu piemēri:
+-dziesmas nosaukums: <b>[dziesmas nosaukums]</b>
+-dziesmu skaits: <b>[dziesma Nr.]</b>
+-grāmatas nosaukums: <b>[kolekcijas nosaukums]</b>
+-saīsinājuma vākšanai: <b>[kolekciju saīsinājums]</b>
+-utt.
+
+Verse: par
+-grāmatas nosaukums: <b>[grāmatas nosaukums]</b>
+-Nodaļa: <b>[nodaļa]</b>
+-verse: <b>[dzejolis]</b>
+pilnu atsauci:
+  <b>[Grāmatas nosaukums] [nodaļa]: [dzejolis]</b>
+-vārds no Bībeles: <b>[Bībeles vārdu]</b>
+-utt.
+
+Video projekcijas laikā VideoPsalm aizstāj iepriekš definējis savu vērtību laukus. 
+
+Iepriekš definētus laukus to ieskauj kvadrātiekavās <b>[]</b>. Tie ir jāievada bez neizdoties, lai novērotu lielajiem un mazajiem burtiem.
+
+<b>Viegli ievietot iepriekš definētus lauku, izmantojiet slīdošā sarakstā tiesības \"Iespraust lauku'.</b>
+
+Formāts var sastāvēt no vairākām līnijām.
+
+Noņemt, lai atjaunotu tā sākotnējo vērtību formātu, tas pilnīgi (Ctrl + A, dzēst)."},{
+Key:1011203,Text:"Iepriekš noteiktu lauku sarakstu"},{
+Key:1011204,Text:"Lai ievietotu iepriekš noteiktu lauku, atlasiet to sarakstā.
+
+Lauks automātiski ievietots iepriekš, teksta lodziņa ievietošanas punktā."},{
+Key:1012000,Text:"Failu '{0}' jau pastāv.
+
+Vai vēlaties to aizstāt?"},{
+Key:1012001,Text:"Esošu failu"},{
+Key:1013000,Text:"Paslēpt priekšskatījuma"},{
+Key:1013001,Text:"Rādīt priekšskatījuma"},{
+Key:1013002,Text:"Palielināt proporcionāli, lai aizpildītu ekrānu"},{
+Key:1013003,Text:"Samazināt līdz pat parādīt visu"},{
+Key:1013004,Text:"Atspējot atkārtojumu"},{
+Key:1013005,Text:"Aktivizēt atkārtot"},{
+Key:1013006,Text:"No paša sākuma"},{
+Key:1013007,Text:"Apturēt"},{
+Key:1013008,Text:"Read"},{
+Key:1013009,Text:"Iet uz beigām"},{
+Key:1013010,Text:"Skaņa"},{
+Key:1013011,Text:"Skaņas izslēgšana"},{
+Key:1013012,Text:"Apjoms"},{
+Key:1013013,Text:"Pētniecība"},{
+Key:1013014,Text:"Globāli definētu ierobežojumus video"},{
+Key:1013015,Text:"Noteiktu video par katru strofa robežas"},{
+Key:1013016,Text:"Pagājušais laiks"},{
+Key:1013017,Text:"Kopējais laiks"},{
+Key:1013018,Text:"Atlikušais laiks"},{
+Key:1013019,Text:"Noklikšķiniet uz, lai pārietu uz nākamo vērtību"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minūte"},{
+Key:1018003,Text:"minūtes"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"laiks"},{
+Key:1018006,Text:"stundas"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"diena"},{
+Key:1018009,Text:"dienas"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"nedēļa"},{
+Key:1018012,Text:"nedēļās"},{
+Key:1018013,Text:"mēnesis"},{
+Key:1018014,Text:"mēnesis"},{
+Key:1018015,Text:"gads"},{
+Key:1018016,Text:"gadi"},{
+Key:1019000,Text:"Aizveriet"},{
+Key:1019001,Text:"Samazināt"},{
+Key:1019002,Text:"Palielināt"},{
+Key:1019003,Text:"Zemāku līmeni"},{
+Key:1019004,Text:"palīgā"},{
+Key:1019100,Text:"&Meklēšanas"},{
+Key:1019101,Text:"&Dzēst"},{
+Key:1019301,Text:"&labi"},{
+Key:1019302,Text:"&Atcelt"},{
+Key:1019303,Text:"&jā"},{
+Key:1019304,Text:"&Nav"},{
+Key:1019305,Text:"&Atteikties no"},{
+Key:1019306,Text:"&Mēģināt vēlreiz"},{
+Key:1019307,Text:"&Ignorēt"},{
+Key:1019308,Text:"&Atcelt"},{
+Key:1019309,Text:"&Izgriezt"},{
+Key:1019310,Text:"&Kopija"},{
+Key:1019311,Text:"&Ielīmēt"},{
+Key:1019312,Text:"&Dzēst"},{
+Key:1019313,Text:"&Atlasīt visu"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Mozus"},{
+Key:1020003,Text:"Numuri"},{
+Key:1020004,Text:"Mozus"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Tiesneši"},{
+Key:1020007,Text:"Ruta"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Kings"},{
+Key:1020011,Text:"2 Kings"},{
+Key:1020012,Text:"1 Hronikas"},{
+Key:1020013,Text:"2 Chronicles"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nechemijas"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Darba"},{
+Key:1020018,Text:"Psalmi"},{
+Key:1020019,Text:"Proverbs"},{
+Key:1020020,Text:"Salamans Mācītājs"},{
+Key:1020021,Text:"Dziesma par dziesmu"},{
+Key:1020022,Text:"Jesajas"},{
+Key:1020023,Text:"Jeremiah"},{
+Key:1020024,Text:"Jeremiah vaimanām"},{
+Key:1020025,Text:"Ezekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hozejas"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadiah"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICAH"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakuka"},{
+Key:1020035,Text:"Zephaniah"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Zaharijs"},{
+Key:1020038,Text:"Malachi"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Žans"},{
+Key:1020043,Text:"Tiesību akti par apustuļiem"},{
+Key:1020044,Text:"Romans"},{
+Key:1020045,Text:"1. Korintiešiem"},{
+Key:1020046,Text:"2 Korintiešiem"},{
+Key:1020047,Text:"Galatiešiem"},{
+Key:1020048,Text:"Efeziešiem"},{
+Key:1020049,Text:"Filipiešiem"},{
+Key:1020050,Text:"Kolosiešiem"},{
+Key:1020051,Text:"1 Tesaloniķiešiem"},{
+Key:1020052,Text:"2 Tesaloniķiešiem"},{
+Key:1020053,Text:"1 Timothy"},{
+Key:1020054,Text:"2 Timotejam"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"Ebrejiem"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Peter"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3. Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apocalypse"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Vai"},{
+Key:1020116,Text:"Ir"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"EK"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Esmu"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Tātad"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"ZA"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"JN"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EIROPAS PARLAMENTS"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Sacensības"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Viņš"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

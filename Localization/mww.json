@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Hmong Daw"},{
+Key:1000000,Text:"Neeg txhais lus"},{
+Key:1000001,Text:"TSIS TAG NTIAV."},{
+Key:1000003,Text:"&Ntxiv..."},{
+Key:1000004,Text:"Ntxiv ib los sis ntau hom lus VideoPsalm"},{
+Key:1000006,Text:"&Xa"},{
+Key:1000007,Text:"Xa daim ntawv los ntawm email mus VideoPsalm rau lub teeb tom ntej"},{
+Key:1000009,Text:"&Thov"},{
+Key:1000011,Text:"&Txuag"},{
+Key:1000012,Text:"Siv cov lus xaiv nyob rau hauv VideoPsalm. Qhov kev hloov no rua yeej ua ntej."},{
+Key:1000013,Text:"Txuag kev hloov rau cov ntawv"},{
+Key:1000015,Text:"&Rho tawm"},{
+Key:1000016,Text:"VideoPsalm rho tawm lus xaiv thiab tag nrho nws cov ntawv"},{
+Key:1000022,Text:"&{0} denominated:"},{
+Key:1000024,Text:"&Haiv lus:"},{
+Key:1000029,Text:"Ntaub ntawv Hmong"},{
+Key:1000030,Text:"Cov ntawv thov hloov lawm.
+
+Xav txuag tej kev hloov no?"},{
+Key:1000031,Text:"Tshem ib cov lus"},{
+Key:1000032,Text:"Koj puas yeej xav rho tawm {0} lus VideoPsalm?
+
+Cov sijhawm ua haujlwm no yuav rho tawm txhua zaug cov ntawv ntawm no hais lus thiab yog irreversible."},{
+Key:1000035,Text:"VideoPsalm los tsim tej ntaub ntawv compressed rau tus extension .zip
+muaj cov Hmong nyob rau duas paub lus.
+Xa cov ntaub ntawv uas tsim nyog rau tus email tias pops tuaj, ces tswg no email rau videopsalm@gmail.com."},{
+Key:1000036,Text:"Xa email Hmong"},{
+Key:1000037,Text:"<b>No 'Txhais' qhov rai, koj yuav hloov cov ntawv uas tau tshwm sim nyob rau hauv cov ntaub ntawv ntawm cov VideoPsalm.</b>
+Qhov no pub koj txhais, hloov los txawm yog tej phau ntawv interface VideoPsalm, nyob rau hauv VideoPsalm.
+
+<i>Yog cov tivthaiv no yuav siv sij hawm mus ntau qhov chaw, kom tsis txhob tau txhaj rau lub me txo khawm nyob nyob rau sab laug sab sauv, los yog resize nas nrog cov kab rov tav separator.</i>
+
+VideoPsalm yog muab ob hom lus. Cov VideoPsalm lus no muaj nyob rau hauv lub vaj huam sib luag hauv qab no rau tus laug khoom muaj title xws 'lus'.
+Yog hais tias koj cov lus tsis yog tshwm sim nyob rau hauv daim ntawv, koj yuav nyob ntawm no, txhais VideoPsalm rau koj cov lus. Nco ntsoov tias qhov no yuav muaj tej zaum ob peb xuab moos ua hauj lwm.
+
+Yuav ua li cas muaj VideoPsalm rau koj cov lus li no:
+
+-Sib ntxiv koj cov lus rau daim ntawv los ntawm kev xaiv ntawm cov uas koj yuav nrhiav ntawm lub khawm \"ntxiv <image=add2_16>\".
+-Nyob rau hauv cov kem hauv qab no ntawm txoj cai, VideoPsalm qhia tus ntawv kev mus soj ntsuam cov lus.
+-Txhais cov ntawv nyob rau hauv koj cov lus.
+
+Kho kom raws li qhia, koj yuav raug rau cov ntawv ntawm koj leisure, xws li tom ib lub spreadsheet Excel.
+Lub rooj muaj ib tug nrhiav kem. Li no, qhia xwb Hmong uas muaj tej lo lus, ntaus cov ntsiab lus no nyob rau ntawm lub box hauv nrhiav thiab ces nias rau ntawm lub khawm \"nrhiav\".
+Koj kuj siv tau lim nyob thaj tsam nyob rau hauv txhua cov lus header lim cov ntawv ntawm ib hom lus uas muaj ib co lus lus meej.
+
+Tsom koj tej dej num, xaiv ib los sis ntau tshaj lwm hom lus koj paub, sij to taub lub ntsiab lus ntawm txhua cov ntawv sau thiab tau nyeem ntau hom lus ib txhij.
+Xyuas cov lus vim lawv pub taub RESPONSIBILITIES rau tej yam ntawv zoo thiab qhov twg lawv yuav siv.
+
+<b>Faj seeb:</b> Nws tseem zoo tshaj tawm cov lus Askiv, vim muaj coob tus neeg to taub cov lus Askiv.
+
+Saib ntawm koj txhais tej dej num:
+-Xaiv koj cov lus nyob hauv cov lus vaj huam sib luag los txhaj
+   ces
+-Ndliv lub khawm 'Thov' (hauv qab).
+
+Cov lus koj tau xaiv yuav tsum displayed VideoPsalm.
+
+Tsis nco txuag koj lub chaw ua hauj lwm los ntawm cov neeg txhais lus los txhaj rau lub khawm \"tuav tseg <image=disk_blue>.
+Tom qab koj tau rua ib cov lus tshiab, koj yuav xaiv nws nyob ntawm cov qhov rai los ntawm kev xaiv.
+
+Thov xa koj translations lossis corrections los ntawm email ntawm <b>videopsalm@gmail.com</b> los txhaj rau lub khawm \"xa <image=mail_16>\".
+Thaum twg koj nyem no khawm, ob yam uas tshwm sim:
+1. Koj tus email kev yuav qhib txais, piv txwv li Outlook.
+2. Ib lub nplaub tshev Explorer opens uas VideoPsalm muaj tso compressed cov ntaub ntawv nrog .zip extension hu ua lus.
+
+Luag thiab xa cov ntaub ntawv tsim nyog rau tus email thiab rooj vag rau nws kom peb tau teeb nws mus ua ib tug version yav tom ntej ntawm VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Yuav ua li cas txhais lus VideoPsalm rau koj cov lus?"},{
+Key:1000039,Text:"Haiv lus uas VideoPsalm yog txhais. Xaiv cov lus koj xav tso saib cov Hmong nyob rau saum rooj. Ntxiv koj cov lus rau daim ntawv, nias rau 'Add' khawm."},{
+Key:1001000,Text:"Ntxiv cov lus"},{
+Key:1001001,Text:"&Haiv lus:"},{
+Key:1001002,Text:"Xaiv cov lus mus ntxiv"},{
+Key:1001003,Text:"&Ntxiv"},{
+Key:1001004,Text:"Ncua tseg"},{
+Key:1001005,Text:"Pab (F1)"},{
+Key:1002000,Text:"Xaiv"},{
+Key:1002003,Text:"&Dav"},{
+Key:1002004,Text:"&Zaub"},{
+Key:1002005,Text:"&Yees duab"},{
+Key:1002014,Text:"&Collections"},{
+Key:1002015,Text:"&Bibles"},{
+Key:1002103,Text:"&Lus:"},{
+Key:1002105,Text:"&Ceev cov ntaub ntawv VideoPsalm:"},{
+Key:1002106,Text:"Xaiv tau daim nplaub tshev VideoPsalm tej ntaub ntawv:"},{
+Key:1002112,Text:"&Tseg tej kev hloov uas koj ua tus biblical verses (ntawv nyeem thiab style)"},{
+Key:1002202,Text:"&Hloov cov quotes « <size=+4>'» ntawm Fabkis txoj quotes « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Siv cov Fabkis txoj cai ntawm typography"},{
+Key:1002204,Text:"&Nyob rau hauv nkauj, hloov hyphens los nonbreaking hyphens"},{
+Key:1002205,Text:"&Nyob hauv lub verses biblical, hloov hyphens los nonbreaking hyphens"},{
+Key:1002304,Text:"&Txoj kev rendering:"},{
+Key:1002306,Text:"Txuj"},{
+Key:1002307,Text:"Khees me ntsis lawm"},{
+Key:1002502,Text:"&Thov"},{
+Key:1002503,Text:"Txuag koj hloov thiab ua rau lub qhov rais qhib"},{
+Key:1002504,Text:"ua li"},{
+Key:1002505,Text:"Txuag koj hloov thiab kaw cov qhov rai"},{
+Key:1002508,Text:"Kaw cov qhov-rais tsis txuag koj hloov lawm"},{
+Key:1002510,Text:"&Daim ntawv tso cai ntawm lub tsev teev ntuj:"},{
+Key:1002513,Text:"Yeem ntawv uas koj sau no yuav raug txiav displayed ntawm cov header lossis footer qhov kev swb.
+
+Piv txwv li, koj yuav qhia nov pes tsawg tus licence CILC ntawm koj lub tsev teev ntuj."},{
+Key:1002516,Text:"&Liaj teb ntawm cov header:"},{
+Key:1002517,Text:"&Liaj teb hauv lub subfooter:"},{
+Key:1002531,Text:"Hloov cov font uas displayed VideoPsalm.
+
+Txheem fonts:
+- <b>Tahoma</b> rau lub qhov rais XP
+- <b>Segoe kev povhwm poob haujlwm</b> rau lub qhov rais Vista, xya qhov rais thiab qhov rais 8
+
+Txheem loj: 8.25"},{
+Key:1002532,Text:"Nws yog tsim nyog rau Updated 10/22/07/f.Triplett VideoPsalm kev pauv txoj cai tau muab los tus account qoos."},{
+Key:1002533,Text:"Yog muaj khij lub npov no, VideoPsalm yuav hloov ncaj apostrophes nrog cim tus Fabkis txoj txo, uas yog ib comma uas muab tso rau qhov siab hauv lub slides.
+
+Thaum koj sau cov lyrics ntawm ib zaj kwv txhiaj rau tus editor, peb xav kom koj siv cov ua cim uas nrhiav koj yooj yim rau koj keyboard, cim feem ntau cov ncaj txo."},{
+Key:1002534,Text:"Yog muaj khij lub npov no, VideoPsalm rearranges hauv swb tus yov muaj ib co cim cov cim sau ntawv raws li cov Fabkis txoj typography.
+
+Piv txwv, yog ib tug nkauj muaj cov lus nram qab no: <b>Yawmsaub!</b>
+
+VideoPsalm zaub: <b>Yawmsaub!</b>
+
+Ntawm no yog tus cim sau ntawv cim uas txaus siab rau tej kev kho tshwj xeeb:
+<b>: ; ! ? »</b><i>VideoPsalm muab ib chaw ua ntej thiab tom qhov chaw uas nonbreaking.</i><b>«</b><i>VideoPsalm muab ib qhov chaw ua ntej thiab ua ib qhov chaw nonbreaking tom qab.</i>
+
+VideoPsalm arranges tsis yov txog qhov lwm yam cim sau ntawv cim.
+
+Thaum koj nkag rau hauv cov lus muaj nkauj tshiab, peb xav kom koj ua raws li cov cai tswj tsoos typography, xws li lo cim sau ntawv mus rau lo lus uas txhawj txog lawv. Ua li no, koj yuav tau mus raws li cov Fabkis txoj typography zaub los ntawm ticking lub npov no, los yog txoj cai ntawm lub teb chaws uas tsis xaiv lub npov no kos.
+
+<b>Faj seeb:</b> Yog tau tias Fabkis txoj typography kevcai tsis muaj siv hauv lub teb chaws txawm yog lus Fabkis, piv txwv li hauv francophone teb chaws Africa, Belgium, rau Quebec los Switzerland.
+
+Ib txhij siv rau tej qhov chaw thiab cim sau ntawv ntawm Fabkis txoj typography, saib <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, phab 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Font:"},{
+Key:1002536,Text:"&Luaj li cas:"},{
+Key:1002539,Text:"Yog muaj khij lub npov no, VideoPsalm qhia koj, thaum nws startup, ntawm cov hav zoov tshiab tso cai rau qhov kev pab cuam los sis hauv xov xwm hais txog:
+-cov collections
+-Bibles,
+- thiab VideoPsalm lus.
+
+Tshiab, collections Bibles tshiab cov hom lus thiab haiv lus tshiab rau VideoPsalm no qee zaus ntxiv rau VideoPsalm tsev qiv ntawv hauv internet.
+
+Thaum qhov no tshwm sim, ntxiv rau ob peb clicks cov tshiab ntawv rau koj installation ntawm tus ntshuam Wizard."},{
+Key:1002540,Text:"Yog muaj khij lub npov no, VideoPsalm kom cov lus txuas los ntawm ib cov hyphen nyob rau ntawm tib kab hauv cov slides.
+
+Default tus nqi rau cov lyrics ntawm cov zaj nkauj: <b>soj ntsuam</b>"},{
+Key:1002541,Text:"Yog muaj khij lub npov no, VideoPsalm kom cov lus txuas los ntawm ib cov hyphen nyob rau ntawm tib kab hauv cov slides.
+
+Default tus nqi rau cov Bibles verses: <b>tsi kuaj xyuas</b>"},{
+Key:1002542,Text:"Tso cai yog muaj khij lub npov no, VideoPsalm rau koj yuav tseg tau tej kev hloov uas koj tau mus rau lub verses ntawm cov Bibles (ntawv nyeem thiab style).
+
+Yog hais tias qhov kem tsis soj ntsuam:
+
+<b>1.</b> thaum koj kaw VideoPsalm, nws yuav tsis qhia koj tias koj cov Bibles muaj hloov,
+
+<b>2</b> thaum koj txuag koj hloov, VideoPsalm tsis txuag cov hloov rau cov Bibles (ntawv nyeem thiab style),
+
+<b>3</b> koj yuav pom koj cov Bibles lawm ntawm tus startup ntxiv ntawm VideoPsalm."},{
+Key:1002543,Text:"Xaiv cov lus uas koj xav VideoPsalm yog displayed no.
+
+Yog hais tias koj cov lus tsis yog tshwm sim nyob rau hauv daim ntawv, kab tias yog muaj nyob rau hauv cov tsev qiv ntawm VideoPsalm ntawv hauv internet ntawm lub ntshuam Wizard.
+
+Yog VideoPsalm tsis muaj nyob rau hauv koj hom lus, thov qhia peb los ntawm email ntawm videopsalm@gmail.com
+
+Xwb, koj yuav pab txhais cov ntawv ntawm VideoPsalm nyob rau hauv koj cov lus ntawm lub cuab tam VideoPsalm txhais lus los yog tej yam uas tsis tau.
+
+Pib txhais cuab tam VideoPsalm nrog lub khawm \"Txhais VideoPsalm\"."},{
+Key:1002544,Text:"Xaiv tus nplaub tshev los ntawm cov VideoPsalm uas ntsaws nws phau ntawv, cov Bibles, duab thiab yeeb yaj duab nov.
+
+Thaum uas koj hloov daim nplaub tshev, VideoPsalm refreshes, collections, Bibles, cov duab thiab yeeb yaj duab uas muaj cov neeg hauv daim nplaub tshev tshiab.
+
+<b>Ceev faj</b> : ua ntej yuav hloov daim nplaub tshev, xyuas kom koj muaj rua koj hloov lawm."},{
+Key:1002545,Text:"Hloov cov font uas displayed VideoPsalm.
+
+Txheem loj: 8.25
+
+Koj kuj yuav pauv ntawd font luaj li cas ntawm cov kev xaiv ntawm qhov rais: Control vaj huam sib luag-&gt; zaub-> readability ntawm qhov screen."},{
+Key:1002547,Text:"&Pes VideoPsalm"},{
+Key:1002548,Text:"Opens lub cuab tam uas koj tau pes VideoPsalm ua koj hom lus, los yog kev sau ntawv kom raug."},{
+Key:1002549,Text:"Koj yuav hloov daim nplaub tshev los ntawm qhov uas cov VideoPsalm yuav thauj nws cov ntaub ntawv.
+VideoPsalm yuav txo tau nws cov ntaub ntawv tam sim no thiab mam li upload cov tshiab ntawv tais ceev tseg.
+Qhov no muaj cuab kav yuav noj ob peb vib nas this.{0}
+
+Koj puas yeej xav hloov ceev rau ntawm daim ntawv?"},{
+Key:1002550,Text:"Muaj cov unsaved hloov (collections, Bibles, lossis daim).
+Yog hais tias koj paub meej tias lub lag luam uas teev tseg tam sim no, tej kev hloov no yuav ploj."},{
+Key:1002551,Text:"Hloov cov ntaub ntawv ceev"},{
+Key:1002552,Text:"&Txheej txheem"},{
+Key:1002553,Text:"Default qauv:"},{
+Key:1002554,Text:"&zaj nkauj:"},{
+Key:1002555,Text:"&Ntawv Vajtswv nqe vaj lug kub:"},{
+Key:1002556,Text:"&Dluab Slideshow:"},{
+Key:1002557,Text:"&yeeb yaj duab autonomous:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Timeout neej ntawd tsis siv neeg ua ntej:"},{
+Key:1002560,Text:"vib nas this"},{
+Key:1002561,Text:"&Ntxiv ib cov lus"},{
+Key:1002562,Text:"Opens ntshuam Wizard txog cov lus uas koj txhais ua muaj VideoPsalm, los ntawm qhov uas koj yuav ntxiv lus tshiab rau koj VideoPsalm."},{
+Key:1002580,Text:"Vim ntawv ndlwg tom qab ib zaj kwv txhiaj"},{
+Key:1002581,Text:"Pom lub neej ntawd ntawv ndlwg tom qab nqe vaj lug kub kawg ntawm nkauj.
+
+Cov nqi no yog noj rau hauv koj tus account mus rau zaj nkauj koj tso saib nthawv tsis muaj txheej txheem.
+Nyob rau hauv daim ntawv thov raws, koj yuav hloov tus nqi no rau txhua cov nkauj."},{
+Key:1002582,Text:"Vim ntawv ndlwg tom qab ntawv Vajtswv verses"},{
+Key:1002583,Text:"Pom lub neej ntawd ntawv ndlwg tom qab nqe vaj lug kub dhau ntawm ib cov zaj biblical.
+
+Cov nqi no yog noj rau hauv koj tus account nyob rau ntawm daim zajlus biblical uas koj tso saib nthawv tsis muaj txheej txheem.
+Nyob rau hauv daim ntawv thov raws, koj yuav hloov tus nqi no rau txhua cov zaj ntawv Vajtswv."},{
+Key:1002584,Text:"Vim ntawv ndlwg tom ib qhov duab slideshow"},{
+Key:1002585,Text:"Pom lub neej ntawd ntawv ndlwg tom ib qhov duab slideshow.
+
+Nyob rau hauv daim ntawv thov raws, koj yuav hloov tus nqi no rau txhua cov duab."},{
+Key:1002586,Text:"Vim ntawv ndlwg tom qab ib tug standalone video"},{
+Key:1002587,Text:"Pom lub neej ntawd ntawv ndlwg tom qab ib tug standalone video.
+
+Nyob rau hauv daim ntawv thov raws, koj yuav hloov tus nqi no rau txhua cov yees duab stand-alone."},{
+Key:1002588,Text:"Vim ntawv ndlwg tom qab ib tug PowerPoint"},{
+Key:1002589,Text:"Pom lub neej ntawd ntawv ndlwg tom qab ib tug PowerPoint.
+
+Nyob rau hauv daim ntawv thov raws, koj yuav hloov tsis tau cov nqi no rau txhua PowerPoint."},{
+Key:1002590,Text:"Txiav txim seb lub luv neej ntawd lub sijhawm hauv vib nas this ua ntej qhov mus rau lwm tus swb tsis zoo no feem.
+
+Nyob rau hauv daim ntawv thov raws, koj yuav hloov tus nqi no rau txhua caij faib ua tau."},{
+Key:1002591,Text:"&Muab cia qhov background dluab nyob hauv tus txheej txheem (pom zoo)"},{
+Key:1002592,Text:"Muab cia qhov background dluab nyob hauv tus txheej txheem"},{
+Key:1002593,Text:"Ntawd hais seb VideoPsalm yuav tsum khaws tej keeb kwm yav dhau dluab nkauj thiab biblical nyob rau hauv cov txheej txheem ua ntaub ntawv thov verses, thaum twg koj cawm nws."},{
+Key:1002594,Text:"&Cia tom qab cov yeeb yaj duab (pom zoo) Komtswj"},{
+Key:1002595,Text:"Tom qab cov yeeb yaj duab cia rau hauv tus txheej txheem"},{
+Key:1002596,Text:"Ntawd hais seb VideoPsalm yuav tsum khaws tej yeeb yaj duab uas tom qab uas nkauj thiab biblical nyob rau hauv cov txheej txheem ua ntaub ntawv thov verses, thaum koj yuav cawm nws."},{
+Key:1002597,Text:"&Cov dluab slideshow khw (pom zoo) Komtswj"},{
+Key:1002598,Text:"Khw slideshow dluab nyob hauv tus txheej txheem"},{
+Key:1002599,Text:"Ntawd hais seb VideoPsalm yuav tsum khaws cov dluab ntawm slideshow tau nyob rau hauv daim ntawv thaum koj cawm nws."},{
+Key:1002600,Text:"&Muab cia qhov stand-alone yeeb yaj duab (pom zoo) Komtswj"},{
+Key:1002601,Text:"Cia cov yeeb yaj duab autonomous nyob rau hauv cov txheej txheem"},{
+Key:1002602,Text:"Ntawd hais seb VideoPsalm yuav tau khaws autonomous muaj nyob rau hauv cov yeeb yaj Komtswj daim duab, thaum koj cawm nws."},{
+Key:1002603,Text:"&Cov khw muag cov PowerPoints uas nyob rau hauv tus txheej txheem (pom zoo)"},{
+Key:1002604,Text:"Cov khw muag cov PowerPoints uas nyob rau hauv cov txheej txheem"},{
+Key:1002605,Text:"Ntawd hais seb VideoPsalm yuav tsum khaws tej PowerPoints nyob rau hauv daim ntawv thaum koj cawm nws."},{
+Key:1002606,Text:"Peb xav kom koj xaiv kom hloov, tshwj xeeb yog hais tias koj npaj koj tus txheej txheem rau lwm lub PC dua rau ib hnub twg koj yuav tso saib koj kev nthuav qhia."},{
+Key:1002607,Text:"&Editor"},{
+Key:1002608,Text:"&Font:"},{
+Key:1002609,Text:"Hlauv qhov font uas koj hloov lub lyrics ntawm ib zaj kwv txhiaj thiab tus verses ntawm cov ntawv Vajtswv.
+
+Notably, no font tsis siv mus tso saib cov ntawv luam ntawm qhov screen."},{
+Key:1002610,Text:"&Ntawv me me:"},{
+Key:1002611,Text:"Hlauv qhov font uas koj hloov lub lyrics ntawm ib zaj kwv txhiaj thiab tus verses ntawm cov ntawv Vajtswv qhov luaj li cas.
+
+No raws li cov font tsis tshwj xeeb yog siv mus tso saib cov ntawv luam ntawm qhov screen."},{
+Key:1002612,Text:"&Font qhov agreements:"},{
+Key:1002613,Text:"Hlauv qhov font uas koj hloov qhov agreements of ib zaj kwv txhiaj.
+
+No font tsis tshwj xeeb yog siv mus tso saib agreements ntawm qhov kev kev nthuav qhia screen."},{
+Key:1002614,Text:"&Luaj li cas ntawm cov ntawv luam ntawm qhov agreements:"},{
+Key:1002615,Text:"Hlauv qhov luaj li cas cov font ntawm qhov agreements cov nkauj nyob rau hauv cov ntawv nyeem editor.
+
+No raws li cov font tsis tshwj xeeb yog siv mus tso qhov agreements saib nyob rau hauv ib qho kev nthuav qhia screen."},{
+Key:1002616,Text:"&Xim qhov agreements:"},{
+Key:1002617,Text:"Hlauv xim uas qhov agreements muaj tso tawm kom pom nyob rau hauv cov ntawv nyeem editor.
+
+Notably, no tsuas yog tsis siv teeb rooj agreements ntawm qhov kev kev nthuav qhia screen."},{
+Key:1002618,Text:"&Xim dawb nonbreaking:"},{
+Key:1002619,Text:"Hlauv xim nyob rau qhov twg yog cov uas rhuav dawb yog tso tawm kom pom nyob rau hauv cov ntawv nyeem editor."},{
+Key:1002620,Text:"&Xim lub cim npe ntawm stanzas:"},{
+Key:1002621,Text:"Hlauv xim uas nyob hauv lub cim npe rau lub stanzas no highlighted nyob rau hauv cov ntawv nyeem editor."},{
+Key:1002622,Text:"&Transparency lub cim npe ntawm stanzas:"},{
+Key:1002623,Text:"Hlauv qhov transparency muaj xim zoo nkauj uas nyob hauv lub cim npe rau lub stanzas no highlighted nyob rau hauv cov ntawv nyeem editor."},{
+Key:1002624,Text:"&Xim tus ChordPro agreements:"},{
+Key:1002625,Text:"Hlauv xim uas tus ChordPro agreements yog highlighted nyob rau hauv cov ntawv nyeem hom ChordPro Editor."},{
+Key:1002626,Text:"&Transparency lub ChordPro agreements:"},{
+Key:1002627,Text:"Hlauv qhov transparency muaj xim zoo nkauj nyob twg agreements ChordPro no highlighted nyob rau hauv cov ntawv nyeem hom ChordPro Editor."},{
+Key:1002628,Text:"&Hloov fonts (pom zoo)"},{
+Key:1002629,Text:"Cov ntawv nyeem puas pub editor los override lub cim uas ploj lawm nyob rau hauv cov font tam sim no los ntawm cov neeg lwm font.
+
+Lov tes taw tus muab cov cim yog koj siv ib cov-Unicode font uas koomtxoos lub transliteration.
+Nws yog hais txog ib co Hindi, Tamil, Bamati, Malayalam fonts, thiab lwm yam.
+
+Nco ntsoov tias nws yog siv ib cov font Unicode preferable.
+Kom koj hloov koj zaj nkauj rau Unicode ntawv nyeem npaj ua lwm yam, siv lub converter hauv Internet, piv txwv li no: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Mus saib tau ib simplified, pub tau tshaj vaj RTL ntawv nyeem editor"},{
+Key:1002631,Text:"Qhia txog ib qho ntxiv khawm ntawm sab laug ntawm lub toolbar hauv cov ntawv nyeem editor, uas yog qhia rau ib hom yooj yim zog editing ntawm cov ntawv luam ntawm cov nkauj.
+
+No cov simplified Editor yuav yog sau los ntawm txoj cai rau sab laug (RTL), tshwj xeeb tshaj rau Arabic thiab Hebrew tshaj."},{
+Key:1002632,Text:"Xaiv cov txujci video rendering uas ua haujlwm zoo rau koj lub PC. VideoPsalm yuav tso saib cov yeeb yaj duab hauv wmv rau ntau hom PCs."},{
+Key:1002633,Text:"&Cov ntawv qhia"},{
+Key:1002634,Text:"Thaum startup, qhia yog muaj:"},{
+Key:1002635,Text:"&Ib tug tshiab version of VideoPsalm (pom zoo)"},{
+Key:1002636,Text:"&Tshiab collections (pom zoo)"},{
+Key:1002637,Text:"&Tshiab Bibles (pom zoo)"},{
+Key:1002638,Text:"&Haiv lus tshiab (pom zoo)"},{
+Key:1002639,Text:"&Thaum muaj teeb meem ntawm kev twb kev txuas, muaj cov muaj npe"},{
+Key:1002640,Text:"Muaj cov muaj npe"},{
+Key:1002641,Text:"Ntawd hais seb VideoPsalm yuav tsum yeej ntes muaj cov muaj npe zeem txog tej yam khoom tshiab los tshiab.
+
+Yog VideoPsalm yuav tsis download tau phau ntawv lossis cov Bibles rau nws nyob rau hauv cov tsev qiv ntawv, xaiv qhov kev xaiv no thiab mam li sim lub lag luam dua.
+
+Xaiv qhov kev xaiv no tsuas yog hais tias nws tsis haum. Xwb, qhov no ua rau ib slowdown hauv daus cov phau ntawv thiab cov Bibles los ntawm lub tsev qiv ntawv kev VideoPsalm hauv internet."},{
+Key:1002642,Text:"&Nraim kev icons"},{
+Key:1002643,Text:"Hides tus toolbar kev icons (Facebook, Twitter thiab YouTube).
+
+Cov icons nyob twj ywm thaum hla ntawm ib qho kev twb kev txuas hauv internet."},{
+Key:1002644,Text:"&Muab zaj nkauj lub (pom zoo) Komtswj"},{
+Key:1002645,Text:"Cia lub nkauj hauv tus txheej txheem"},{
+Key:1002646,Text:"Ntawd hais seb VideoPsalm yuav tsum khaws tej suab los ntawm cov nkauj nyob rau hauv daim ntawv thaum koj cawm nws."},{
+Key:1002648,Text:"&Customization"},{
+Key:1002649,Text:"&Lub koob yees duab yees duab"},{
+Key:1002650,Text:"&Yav dhau los"},{
+Key:1002651,Text:"&Puag"},{
+Key:1002652,Text:"&Ntawv nyeem"},{
+Key:1002653,Text:"&Ntaub thaiv npog"},{
+Key:1002654,Text:"&Paj daus"},{
+Key:1002655,Text:"&Kab laum"},{
+Key:1002656,Text:"Xaub muaj vaj huam sib luag"},{
+Key:1002657,Text:"&Tom ntej"},{
+Key:1002658,Text:"Toolbar"},{
+Key:1002659,Text:"Tus Txheej Txheem Tswjhwm"},{
+Key:1002660,Text:"&Mount"},{
+Key:1002661,Text:"&tawm mus"},{
+Key:1002662,Text:"&Nkaum ToolTips"},{
+Key:1003000,Text:"Version {0} ntawm cov {1}"},{
+Key:1003003,Text:"Kaw"},{
+Key:1003005,Text:"&Hu rau VideoPsalm"},{
+Key:1003006,Text:"Qhib Outlook (koj email neeg) xa ib lub email rau VideoPsalm"},{
+Key:1003007,Text:"Tshiab no version"},{
+Key:1003008,Text:"&Hloov kuv version"},{
+Key:1003009,Text:"Muaj ib tug newer version of VideoPsalm:
+Version {0} rau hauv cov phaj 1: {d}.
+Nyem no khawm qhib lub ces phab.
+Ntawm no koj yuav nrhiav tau cov keeb kwm txog cov kev hloov
+thiab lub ces txuas."},{
+Key:1003011,Text:"-Qhia
+-Ua ib tug remark los yog ib qhov suggestion"},{
+Key:1003012,Text:"Email chaw nyob: videopsalm@gmail.com"},{
+Key:1003500,Text:"Tshem cov transposition"},{
+Key:1003501,Text:"Transposed semitone ntau"},{
+Key:1003502,Text:"Transposed ib semitone dua"},{
+Key:1003503,Text:"Tsis muaj"},{
+Key:1003504,Text:"Rho tawm qhov capo"},{
+Key:1003505,Text:"Transpose rau tus capo txav kom deb ntawm lub taub hau"},{
+Key:1003506,Text:"Transpose rau tus capo los txog ze ntawm lub taub hau"},{
+Key:1003507,Text:"Tsis muaj"},{
+Key:1003508,Text:"Mus saib tej ntaub ntawv ntawm vocals rau lub"},{
+Key:1003509,Text:"&Tej ntaub ntawv lub:"},{
+Key:1003510,Text:"Xaiv cov ntaub ntawv lub import thiab ces nyem 'qhib'."},{
+Key:1003511,Text:"Koj muaj mas {0} lub tej ntaub ntawv (s)."},{
+Key:1003512,Text:"Cov ntaub ntawv tsis muaj lub muaj lawm mas.
+(Nws (s) twb nyob (s) nyob rau hauv daim ntawv)."},{
+Key:1003513,Text:"Importing tej ntaub ntawv lub"},{
+Key:1003514,Text:"Tej ntaub ntawv lub"},{
+Key:1003515,Text:"Ntsiab lus mus nrhiav nyob hauv cov dluab"},{
+Key:1003516,Text:"Tsis muaj duab"},{
+Key:1003517,Text:"Tsis muaj yees duab"},{
+Key:1003518,Text:"&Ntaub ntawv"},{
+Key:1003519,Text:"&Tso saib tus ntses bass thaj tsam"},{
+Key:1003520,Text:"Ntsiab lus mus nrhiav hauv yeeb yaj duab"},{
+Key:1003521,Text:"&Sau los ntawm zaj nkauj txawv teb los ntawm CCLI / SongSelect"},{
+Key:1003522,Text:"CCLI zaj nkauj"},{
+Key:1003523,Text:"Ntshuam ntawm CCLI zaj nkauj"},{
+Key:1003524,Text:"{0} nkauj twb muaj nyob hauv phau '{1}' thiab twb tsis mas."},{
+Key:1003525,Text:"&Kev nrhiav"},{
+Key:1003526,Text:"&Brightness:"},{
+Key:1003527,Text:"&Kev nrhiav"},{
+Key:1003528,Text:"&Brightness:"},{
+Key:1003529,Text:"Xov"},{
+Key:1003530,Text:"Tub ceev xwm"},{
+Key:1003531,Text:"Xim"},{
+Key:1003532,Text:"Xov"},{
+Key:1003533,Text:"Visibility"},{
+Key:1003534,Text:"Qauv"},{
+Key:1003535,Text:"Hom"},{
+Key:1003536,Text:"Countdown"},{
+Key:1003537,Text:"Stopwatch"},{
+Key:1003538,Text:"Xaiv"},{
+Key:1003539,Text:"Transparency"},{
+Key:1003540,Text:"Zaub hais"},{
+Key:1003541,Text:"Tom qab"},{
+Key:1003542,Text:"Displaying moos"},{
+Key:1003543,Text:"Moos"},{
+Key:1003544,Text:"Countdown"},{
+Key:1003545,Text:"Stopwatch"},{
+Key:1003546,Text:"Lub sij hawm"},{
+Key:1003547,Text:"Mus txog"},{
+Key:1003548,Text:"Pib"},{
+Key:1003549,Text:"Mas"},{
+Key:1003550,Text:"Tso tseg"},{
+Key:1003551,Text:"Style"},{
+Key:1003552,Text:"Rog"},{
+Key:1003553,Text:"Ntawv qaij"},{
+Key:1003554,Text:"Tawg lossis dam"},{
+Key:1003555,Text:"Tso saib tes thib ob"},{
+Key:1003556,Text:"Cov xis nkoos stuttering"},{
+Key:1003557,Text:"Feeb lawv"},{
+Key:1003558,Text:"Zaub xaus-npawb tsab"},{
+Key:1003559,Text:"Kawm tiav cov feeb"},{
+Key:1003560,Text:"Sij hawm kawm tiav"},{
+Key:1003561,Text:"Lub koob yees duab yees duab"},{
+Key:1003562,Text:"Qhia txog lub shooting ntawm lub koob yees duab ua qab cov ntawv nyeem."},{
+Key:1003563,Text:"&Ntxiv cov nkauj rau lub CILC hom..."},{
+Key:1003564,Text:"Ntshuam..."},{
+Key:1003565,Text:"Ntshuam"},{
+Key:1003566,Text:"Pub kom import lub ntaub ntawv ua koj VideoPsalm"},{
+Key:1003567,Text:"Navigating..."},{
+Key:1003568,Text:"Xauj"},{
+Key:1003569,Text:"Opens daim nplaub tshev ntawm lub ntaub ntawv los ntawm koj VideoPsalm"},{
+Key:1003570,Text:"&Pib (ms):"},{
+Key:1003571,Text:"&Xaus (ms):"},{
+Key:1003572,Text:"&Ntim:"},{
+Key:1003573,Text:"&Si looped"},{
+Key:1003575,Text:"&Cov ntaub ntawv kho"},{
+Key:1003576,Text:"&Version:"},{
+Key:1003577,Text:"Tom qab ntawv editor \"Zoo\""},{
+Key:1003578,Text:"Toggles ntawm ib cov phau ntawv txheem editor (sau los ntawm sab laug rau xis) thiab ib tug laug \"Yog\" Editor Arabic, Hebrew, thiab lwm yam."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Ib txwm ntawv qhia (bilingual)"},{
+Key:1003581,Text:"&Txoj hauj lwm:"},{
+Key:1004050,Text:"Tub ceev xwm"},{
+Key:1004051,Text:"Loj"},{
+Key:1004052,Text:"Rog"},{
+Key:1004053,Text:"Ntawv qaij"},{
+Key:1004054,Text:"Highlighted"},{
+Key:1004055,Text:"Tuab si lug"},{
+Key:1004056,Text:"Ntsug tuab si lug"},{
+Key:1004057,Text:"Animation"},{
+Key:1004058,Text:"Ntev"},{
+Key:1004059,Text:"Ntim"},{
+Key:1004060,Text:"Ruam?"},{
+Key:1004061,Text:"Pib"},{
+Key:1004062,Text:"Kawg"},{
+Key:1004063,Text:"Ntxees?"},{
+Key:1004064,Text:"Saib cov duab loj"},{
+Key:1004100,Text:"Xim"},{
+Key:1004101,Text:"Sau"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Dav ntawm lub entourage"},{
+Key:1004104,Text:"Duab ntxoov ntxoo"},{
+Key:1004105,Text:"Voos kheej-kheej ntawm tus duab ntxoov ntxoo"},{
+Key:1004106,Text:"Qhov tob ntawm ntxoov ntxoo"},{
+Key:1004107,Text:"Kev taw qhia txog tus duab ntxoov ntxoo"},{
+Key:1004151,Text:"Yees duab"},{
+Key:1004152,Text:"Duab"},{
+Key:1004153,Text:"Xim"},{
+Key:1004156,Text:"Duab plaub ntawm lub cev"},{
+Key:1004157,Text:"Duab plaub ntawm cov header"},{
+Key:1004158,Text:"Qhov ko taw ntau"},{
+Key:1004500,Text:"Daim ntawv luam ntawm daim rau ntawv los teev cia"},{
+Key:1004501,Text:"Nqe lus piav txog cov txheej txheem muaj lawm tso rau hauv cov ntawv los teev cia."},{
+Key:1004502,Text:"Lo lus (npe thiab lyrics) los yog tsis los mus nrhiav kev pab"},{
+Key:1004503,Text:"Lo lus (npe thiab lyrics) los yog tsis los mus nrhiav kev pab"},{
+Key:1004504,Text:"Lo lus (npe) los yog nrhiav tsis muaj."},{
+Key:1004505,Text:"Lo lus (sau thiab composer) los yog tsis los mus nrhiav kev pab"},{
+Key:1004506,Text:"Lo lus (ntxhais) los sis xov tooj mus nrhiav"},{
+Key:1004507,Text:"Lo lus (chiv keeb) los sis xov tooj mus nrhiav"},{
+Key:1004508,Text:"CCLI mus nrhiav"},{
+Key:1004509,Text:"Lo lus (copyright) los sis xov tooj mus nrhiav"},{
+Key:1004510,Text:"Lo lus (memo 1) los yog tsis los mus nrhiav kev pab"},{
+Key:1004511,Text:"Lo lus (memo 2) los yog tsis los mus nrhiav kev pab"},{
+Key:1004512,Text:"Lo lus (memo 3) los yog tsis los mus nrhiav kev pab"},{
+Key:1004513,Text:"Zaj nkauj nrog chords"},{
+Key:1004514,Text:"Daim ntawv qhov xaus ntawm qhov compendium"},{
+Key:1004515,Text:"Qhov xaus ntawm qhov compendium tso rau hauv cov ntawv los teev cia."},{
+Key:1005001,Text:"Kawg ntawm cov chaw thau khoom"},{
+Key:1005002,Text:"Zaj kwv txhiaj rau '{0}'."},{
+Key:1005003,Text:"Chaw thau khoom yeeb yaj duab"},{
+Key:1005004,Text:"Tsis tau nyeem cov yees duab '{0}'.
+{1}"},{
+Key:1005005,Text:"Cov dluab chaw thau khoom"},{
+Key:1005006,Text:"Tsis tau nyeem cov duab '{0}'.
+{1}"},{
+Key:1005007,Text:"Chaw thau khoom ntawm yeej"},{
+Key:1005008,Text:"Sau rau ntawm daim ntawv teev cov collections ({0} nkauj hauv {1} collections)"},{
+Key:1005009,Text:"Rho tawm kev xaiv tus txheej txheem yam?"},{
+Key:1005010,Text:"Tshem cov khoom"},{
+Key:1005011,Text:"Tshiab sau"},{
+Key:1005012,Text:"Cov nkauj tshiab"},{
+Key:1005013,Text:"Cov txheej txheem yuav yog tas.
+Qhib ib qho los luag no cov nkauj thiab verses ntxiv rau cov txheej txheem."},{
+Key:1005014,Text:"Yog tsis muaj tus swb los yees duab - picture of Kathy.
+Xaiv ib zaj kwv txhiaj los yog verses rau cov yees duab - picture of Kathy."},{
+Key:1005015,Text:"Koj puas yeej xav rho tawm qhov sau los ua '{0}'?
+
+Corresponding rau no sau ntawv yuav tsis muab deleted ntawm daim disk:
+nws extension yuav uas \".ignore."},{
+Key:1005016,Text:"Rho tawm ib phau"},{
+Key:1005017,Text:"Koj puas xav rho tawm zaj kwv txhiaj '{0}'?
+
+Tom qab ntawv sau npe rau cov kev pab rau cov phau ntawv, qhov kev tshem tawm ntawm zaj kwv txhiaj no yuav irreversible."},{
+Key:1005018,Text:"Rho tawm ib zaj kwv txhiaj"},{
+Key:1005019,Text:"Tshem tag nrho cov khoom ntawm tus txheej txheem?"},{
+Key:1005020,Text:"Rho tawm txhua yam"},{
+Key:1005021,Text:"Txheej txheem tsis tau ib lub npe"},{
+Key:1005022,Text:"Meem npliag"},{
+Key:1005023,Text:"Cov txheej txheem uas tam sim no muaj unsaved hloov.
+Xav txuag tej kev hloov no?"},{
+Key:1005024,Text:"Tseg rau daim ntawv thov raws"},{
+Key:1005025,Text:"Ib los sis ntau tshaj collections muaj unsaved hloov.
+Xav txuag tej kev hloov no?"},{
+Key:1005026,Text:"Daim ntawv collections"},{
+Key:1005027,Text:"Cov Bibles ib los sis ntau tshaj muaj unsaved hloov.
+Xav txuag tej kev hloov no?"},{
+Key:1005028,Text:"Txuag cov Bibles"},{
+Key:1005029,Text:"Ntxiv rau cov ntaub ntawv rau cov txheej txheem"},{
+Key:1005030,Text:"Hmoov"},{
+Key:1005031,Text:"Dluab"},{
+Key:1005032,Text:"Yeeb yaj duab"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Tseg rau daim ntawv thov raws qab"},{
+Key:1005035,Text:"CCLI zaj nkauj"},{
+Key:1005036,Text:"Yog tsis sau.
+Nyem qhov no mus pib tau ntshuam ntaub ntawv Wizard."},{
+Key:1005037,Text:"Hom ntawv {0}
+{1} × {2} pixels"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Koj puas yeej xav rho tawm rau tag nrho cov kev yeej qab lub '{0}'?"},{
+Key:1005040,Text:"'{0}' Sau qhov no cais los ntawm kev tshawb"},{
+Key:1005041,Text:"Tso saib los yog nti ua tus swb"},{
+Key:1005042,Text:"Caij"},{
+Key:1005043,Text:"Caij nplooj ntoos hlav"},{
+Key:1005044,Text:"Lub caij ntuj sov"},{
+Key:1005045,Text:"Christmas"},{
+Key:1005046,Text:"Ntxhais"},{
+Key:1005047,Text:"Caramel"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Tswv yim"},{
+Key:1005050,Text:"Darkroom"},{
+Key:1005051,Text:"Pos huab"},{
+Key:1005052,Text:"Thawm"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort zoo ib"},{
+Key:1005055,Text:"Chaw ua hauj lwm"},{
+Key:1005056,Text:"Chaw ua hauj lwm xyoo 2010 xiav"},{
+Key:1005057,Text:"Chaw ua hauj lwm xyoo 2010 nyiaj"},{
+Key:1005058,Text:"Chaw ua hauj lwm xyoo 2010 dub"},{
+Key:1005059,Text:"Chaw 2007 xiav"},{
+Key:1005060,Text:"Chaw 2007 ntsuab"},{
+Key:1005061,Text:"Chaw 2007 Rose"},{
+Key:1005062,Text:"2007 Nyiaj ntawm chaw ua hauj lwm"},{
+Key:1005063,Text:"Chaw 2007 dub"},{
+Key:1005064,Text:"Qhov rai"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Xya"},{
+Key:1005067,Text:"Xya Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Xyab"},{
+Key:1005070,Text:"Haus luam yeeb"},{
+Key:1005071,Text:"Kua"},{
+Key:1005072,Text:"Xim"},{
+Key:1005073,Text:"Kua ntuj"},{
+Key:1005074,Text:"London ntuj"},{
+Key:1005075,Text:"Xia"},{
+Key:1005076,Text:"Nyiaj ntxaib"},{
+Key:1005077,Text:"Dub kub"},{
+Key:1005078,Text:"Tsaus ntais"},{
+Key:1005079,Text:"Ntse"},{
+Key:1005080,Text:"Ntse tshaj"},{
+Key:1005081,Text:"Hnub qub"},{
+Key:1005082,Text:"Oceans ntawm cov iav"},{
+Key:1005083,Text:"Ntiaj teb Asphalt"},{
+Key:1005084,Text:"Kas fes"},{
+Key:1005085,Text:"Plua plav los ntawm cov hnub qub"},{
+Key:1005086,Text:"Rho tawm txhua tus yeej hauv qab"},{
+Key:1005087,Text:"Tswj tus qhib gallery"},{
+Key:1005100,Text:"Tsis muaj cov animation"},{
+Key:1005102,Text:"Ploj"},{
+Key:1005103,Text:"Lub teeb fade"},{
+Key:1005104,Text:"Saib cov duab loj"},{
+Key:1005105,Text:"Expansion hauv lub teeb fade"},{
+Key:1005106,Text:"PP"},{
+Key:1005107,Text:"Luam theej duab ua kom txoj cai"},{
+Key:1005109,Text:"Daim ntawv"},{
+Key:1005110,Text:"Lub hnub qub"},{
+Key:1005118,Text:"Luam theej duab ua cia"},{
+Key:1005120,Text:"Luam theej duab rau sab mus rau sab laug"},{
+Key:1005121,Text:"PP upwards"},{
+Key:1005122,Text:"Luam theej duab ntawm qhov saum toj rau ntawm sab xis"},{
+Key:1005123,Text:"Luam theej duab ntawm qhov saum toj mus rau sab laug"},{
+Key:1005124,Text:"Luam theej duab qab rau sab xis"},{
+Key:1005125,Text:"Luam theej duab qab mus rau sab laug"},{
+Key:1005126,Text:"Nrhiav tau"},{
+Key:1005127,Text:"Nrhiav tau cia"},{
+Key:1005128,Text:"Nrhiav cai"},{
+Key:1005129,Text:"Nrhiav tau sab laug"},{
+Key:1005130,Text:"Nrhiav tau upwards"},{
+Key:1005131,Text:"Nrhiav rau saum txoj"},{
+Key:1005132,Text:"Nrhiav tau saum tu qab"},{
+Key:1005133,Text:"Nrhiav kom tau txoj cai cia"},{
+Key:1005134,Text:"Nrhiav tau lub qab tu qab"},{
+Key:1005200,Text:"Slides"},{
+Key:1005201,Text:"Tsis muaj tus swb"},{
+Key:1005209,Text:"Nrhiav lo lus nyob rau hauv:"},{
+Key:1005210,Text:"&Npe thiab lyrics"},{
+Key:1005211,Text:"&Npe thiab lyrics"},{
+Key:1005212,Text:"&Npe"},{
+Key:1005213,Text:"&Sau thiab composer"},{
+Key:1005214,Text:"&Ntxhais"},{
+Key:1005215,Text:"&Chiv keeb"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Copyright"},{
+Key:1005218,Text:"&1 Memo no"},{
+Key:1005219,Text:"&Memo no 2"},{
+Key:1005220,Text:"&3 Memo no"},{
+Key:1005221,Text:"&Zaj nkauj nrog chords"},{
+Key:1005223,Text:"Xaiv"},{
+Key:1005224,Text:"VideoPsalm xaiv"},{
+Key:1005225,Text:"Qhia txog cov kev xaiv VideoPsalm dialog box."},{
+Key:1005226,Text:"Ntshuam"},{
+Key:1005228,Text:"Qhia txog lub ntshuam Wizard phau ntawv, Bibles, cov duab thiab yeeb yaj duab ntawm qhov VideoPsalm tsev qiv ntawv hauv internet thiab nrov tawm tswv yim."},{
+Key:1005230,Text:"Rho tawm"},{
+Key:1005232,Text:"Tshem cov hu nkauj, tus sau los xaiv ntawv Vajtswv."},{
+Key:1005237,Text:"Hloov cov font."},{
+Key:1005247,Text:"Dluab"},{
+Key:1005252,Text:"Kho kom raug ceeb toom nyiam."},{
+Key:1005253,Text:"Kaw cov qhov rai no thiab nco ntsoov txog cov lus qhia tom qab lub sij hawm."},{
+Key:1005254,Text:"Kaw cov qhov rai no thiab tsis nco qab cov lus no."},{
+Key:1005255,Text:"Lo lus los yog cov kab lus tshawb, xws li: cov qhob cij caw"},{
+Key:1005256,Text:"Xaiv cov verses uas lawv siv"},{
+Key:1005257,Text:"Nrhiav rau cov verses uas muaj tej yam ntsiab lus los yog ib kab lus"},{
+Key:1005258,Text:"Rho tawm ntawm lo lus tseem ceeb los yog ib kab lus mus tshawb fawb (ESC)"},{
+Key:1005259,Text:"Nrhiav cov verses uas muaj ib co lus qhov tseem ceeb ua.
+
+Piv txwv li:
+
+-Yuav nrhiav tau cov verses uas muaj cov kab lus <b>\"cov me nyuam Vaj tswv\"</b>, ntaus ob peb lo lus xws li <b>\"tus me nyuam Vaj tswv\"</b>.
+
+-Mus nrhiav tau tus nqe vaj lug kub uas muaj cov kab lus <b>'nws coj lub khob'</b>, ntaus zauv lus no: <b>«ilpritlacoupe»</b>.
+
+Tsis txhob txhawj txog accents los yog cim sau ntawv, los yog lowercase/ntawv loj.
+
+Tsis tas ntaus ntawv cov lus ua rau tus kheej los yog nyob rau qhov kev txiav txim.
+
+Ntxiv lwm yam lus uas cov nqe vaj lug kub kom txhob rau daim ntawv teev cov kabmob verses.
+
+Nias <b>ntxig</b> khawm ntxiv cov nqe vaj lug kub nyob thiab xaiv rau tus txheej txheem."},{
+Key:1005260,Text:"Tsis muaj kabmob nqe vaj lug kub."},{
+Key:1005268,Text:"Nyob rau hauv hom no, VideoPsalm yeej ntxiv nkhaus [] nyob ib ncig ntawm cov phau ntawv uas koj sau.
+Piv txwv hais tias, yuav ntxiv ib c chord, ntaus «Ua» thiab VideoPsalm yuav ntxig \"[ua]."},{
+Key:1005269,Text:"Font loj"},{
+Key:1005270,Text:"• Hloov qhov luaj li cas font raws li ib feem ntawm qhov siab rau ntawm qhov screen."},{
+Key:1005271,Text:"&Tseg tau li..."},{
+Key:1005277,Text:"Txuag"},{
+Key:1005278,Text:"Tej yam kev hloov uas koj tau ua nyob hauv cov phau ntawv, Bibles thiab lawv yeej."},{
+Key:1005279,Text:"Tej yam kev hloov uas koj collections thiab yeej ua.
+
+<b>Xim:</b> Qhov kev hloov uas koj ua kom cov Bibles yog tsis rua (ntawv nyeem thiab yeej). Txuag tej kev hloov no, pab qhov option coj nyob rau hauv qhov kev xaiv rau VideoPsalm."},{
+Key:1005283,Text:"Ntev:"},{
+Key:1005284,Text:"Nyob rau ms:"},{
+Key:1005285,Text:"Caij"},{
+Key:1005286,Text:"Lub cev"},{
+Key:1005287,Text:"Lub cev style"},{
+Key:1005288,Text:"Pub editing ntawm cov style ntawm lub cev."},{
+Key:1005289,Text:"Header"},{
+Key:1005290,Text:"Ntawm cov header style"},{
+Key:1005291,Text:"Pub editing ntawm cov style ntawm cov header."},{
+Key:1005292,Text:"Ko taw"},{
+Key:1005293,Text:"Style taw"},{
+Key:1005294,Text:"Pub editing ntawm cov style taw."},{
+Key:1005295,Text:"Agreements"},{
+Key:1005296,Text:"Ntawm qhov agreements style"},{
+Key:1005297,Text:"Pub editing ntawm cov style ntawm qhov agreements."},{
+Key:1005308,Text:"Phau ntawv"},{
+Key:1005313,Text:"Raws cov style"},{
+Key:1005314,Text:"Teem caij rau theem uas koj cov style hloov lawm yuav siv.
+
+Tus nqe no muaj qhov theem ntawm qhov cov style uas ntau tshaj plaws, hu ces cia nkauj, khoom, collections thiab puag.
+
+Mob(nurses), cov nqe muaj qib uas ntau tshaj cov style, ces los tshooj, phau ntawv, hauv phau testament, daim ntawv Vajtswv, Bibles thiab puag dua.
+
+Puag rau ntawm lub hauv paus ntawm lub hierarchy, qhov style no siv rau txhua slides.
+
+Ntau tau override ib tug style sau tseg nyob hauv ib lub attribute tsawg dua-theem."},{
+Key:1005315,Text:"<b></b>No mechanism tso cai rau koj yuav hloov cov style no ntawm koj txoj kev zuag qhia tag nrho lossis ib tug neeg slides.
+
+<b>Piv txwv</b>
+Yog hais tias koj cob tus keeb kwm yav dhau los muaj ib zaj kwv txhiaj, tag nrho cov kev verses txog zaj nkauj no tuaj nrog no tom qab, tsuas yog txhua tus verses uas koj tau muab tej keeb kwm yav dhau."},{
+Key:1005318,Text:"Swb"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Yeeb yaj duab"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Cov ntawv nyeem xim"},{
+Key:1005329,Text:"Pib dua"},{
+Key:1005330,Text:"Clears cov style rau rau theem uas koj xaiv"},{
+Key:1005331,Text:"Koj yuav rho tawm txhua qhov style pas rau rau theem uas koj xaiv.
+Tus swb tsis style inherits yeej sab theem style.
+
+Piv txwv li:
+-Ib zaj paj huam muaj ib cov style nrog ib Candara font.
+-Hu nkauj, meanwhile, muaj ib cov style nrog ib font Segoe povhwm poob haujlwm no.
+
+Thaum koj lwv cov style ntawm tus nqe no, nws yuav tsum displayed nrog cov style ntawm sab theem. Hauv peb piv txwv no, nws yuav muaj qhov Segoe UI font.
+
+<b>Rho nco-down tshuab raj «tawm saum yeej»</b>
+Rho koj yuav tawm cov style ntawm qib xaiv thiab tag nrho yeej ntau dua.
+
+Piv txwv li, yog qib uas style 'Code' yog xaiv, cov style ntawm qhov sau los ua yuav muab deleted as well as lub yeej ntawm tas nrho cov zaj nkauj ntawm qhov sau los ua thiab cov neeg uas lawv stanzas."},{
+Key:1005332,Text:"No khawm dimmed yog thaum muaj qib muaj tsis muaj tus txawj style."},{
+Key:1005333,Text:"&Rho tawm saum yeej"},{
+Key:1005337,Text:"&Saum"},{
+Key:1005338,Text:"&Nruab nrab"},{
+Key:1005339,Text:"&Hauv qab"},{
+Key:1005340,Text:"Nyob twj ywm ntawm no raws cov style"},{
+Key:1005341,Text:"Nyob rau tam sim no txog qib uas style"},{
+Key:1005342,Text:"Seem rau tam sim no txog qib uas style thaum koj hloov tus swb.
+
+Li no:
+<b>1.</b> Thaum koj tso saib tus nqe ntawm nkauj, VideoPsalm, positions qib uas style rau 'zaj paj huam'.
+<b>2.</b> Kev hloov cov style kev hu nkauj ntawm tus nqe, xaiv txog qib uas style \"nkauj.\"
+<b>3.</b> Nyob rau lub formatting ntawm cov style ntawm cov nkauj, nias rau Pushpin.
+<b>4.</b> Thaum koj hloov ntawm ib zaj paj huam rau qhov ntxiv mus, cov theem ntawm cov style tshua rau \"nkauj.\""},{
+Key:1005343,Text:"Sau hauv cov ntawv nyeem"},{
+Key:1005345,Text:"Sau ntawv nrog rau lub khoom xim, ib gradient, ib tug duab, los yog muaj kev ntxhib los mos."},{
+Key:1005346,Text:"Cov ntawv nyeem xim"},{
+Key:1005347,Text:"Txog ntawm cov ntawv nyeem"},{
+Key:1005349,Text:"Hlauv xim, dav thiab txoj kab rau tus qauv npaj txog cov ntawv nyeem style."},{
+Key:1005350,Text:"Xim ntawv nyeem"},{
+Key:1005352,Text:"Cov ntawv nyeem nyhuv"},{
+Key:1005354,Text:"• Siv ib cov nyhuv siv qhov muag saib daim zajlus, xws li tus duab ntxoov ntxoo, ib lub teeb, thiaj yuav ib tug los yog muaj kev sib hloov ua 3-d."},{
+Key:1005356,Text:"Ntawv nyeem duab ntxoov ntxoo"},{
+Key:1005357,Text:"Xim tus keeb kwm yav dhau"},{
+Key:1005359,Text:"&Cov nkauj tshiab"},{
+Key:1005360,Text:"&Tshiab sau"},{
+Key:1005361,Text:"&Rho tawm tag nrho"},{
+Key:1005362,Text:"
+
+<b>Ib feem ntawm ntaub thaiv npog</b>
+Thaum qhib kev rau tus txheej txheem, cov <b>ntawv</b> ntawm koj cov phau ntawv thiab cov Bibles yuav tsum fwm.
+Lub yeej ntawm qhov ua daim ntawv thov rau koj cov phau ntawv thiab cov Bibles."},{
+Key:1005363,Text:"
+
+<b>Ib feem ntawm ntaub thaiv npog</b>
+Nyob hauv tus txheej txheem qhib, tus <b>paub</b> txog koj cov phau ntawv thiab cov Bibles yuav tsum fwm.
+Daim ntawv ntawm cov txheej txheem yuav tsum muaj ntaub ntawv rau koj cov phau ntawv thiab cov Bibles."},{
+Key:1005364,Text:"
+
+<b>Tas nrho cov ntaub thaiv npog</b>
+Thaum qhib kev rau tus txheej txheem, yuav tsum fwm mus rau <b>ntawv</b> thiab <b>paub</b> txog koj cov phau ntawv thiab cov Bibles.
+Cov neeg ntawm cov txheej txheem yuav tsis tau mus thov.
+
+<i>Qhov no yog qhov uas zoo coob thaum cov ntaub ntawv uas muaj cov PC no yog koj siv.</i>"},{
+Key:1005365,Text:"
+
+<b>Hla ntaub thaiv npog</b>
+Thaum qhib rau ntawm tus txheej txheem, <b>ntawv</b> thiab <b>paub</b> ntawm daim calendar yuav tsum muaj ntaub ntawv rau koj cov phau ntawv thiab cov Bibles thiab hloov koj tus kheej cov ntawv thiab paub.
+
+<i>Qhov no yog qhov uas zoo coob thaum koj cov ntaub ntawv siv yog cov tau rau hauv PC uas koj tsim cov txheej txheem.</i>"},{
+Key:1005366,Text:"Pauv los ntawm lub \"tuav\" mus rau \"Txawv\" hom lossis vice versa, nias lub khawm nrog tus xaum ntawv."},{
+Key:1005369,Text:"Tsi tau los ntawm title"},{
+Key:1005370,Text:"Sorted los ntawm cov xov tooj"},{
+Key:1005371,Text:"Hais txog..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simulates video projection
+nyob rau ib qho screen rau lub 4:3.2 nam"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simulates video projection
+nyob rau ib qho screen nam 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simulates video projection
+nyob rau ib qho screen rau lub 4:3 nam"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simulates video projection
+ib qho screen nam 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simulates video projection
+nyob rau ib qho screen nam 16:8"},{
+Key:1005387,Text:"Tam sim no"},{
+Key:1005388,Text:"Siv tag nrho nplaim qhov screen"},{
+Key:1005389,Text:"Nam 4:3"},{
+Key:1005390,Text:"Ua ntau lub Mi"},{
+Key:1005391,Text:"IB TUG B C"},{
+Key:1005396,Text:"Hom kev zoo ntawm qhov agreements"},{
+Key:1005398,Text:"Tso saib qhov agreements saum lyrics"},{
+Key:1005400,Text:"Yuav kho cov tsos ntawm cov qhov rai"},{
+Key:1005401,Text:"&Ntxiv rau hauv daim ntawv thov raws"},{
+Key:1005402,Text:"&Delete (delete)"},{
+Key:1005403,Text:"&Xws li cov cai hauv kev tshawb"},{
+Key:1005404,Text:"&Cais tus sau los ntawm kev tshawb fawb"},{
+Key:1005405,Text:"&Xam tag nrho cov collections hauv kev tshawb"},{
+Key:1005407,Text:"&Nkaum tshem tsis tau los ntawm kev tshawb fawb collections"},{
+Key:1005408,Text:"&Qhia puas tau los ntawm kev tshawb fawb collections"},{
+Key:1005409,Text:"&Zaub rau cov duab plaub resize"},{
+Key:1005410,Text:"Qhia txog lub resize ntau"},{
+Key:1005411,Text:"Tso cai rau koj mus resize cov ncej (cev ntawv nyeem, header lossis footer) xaiv.
+
+Tus ncej tau resized uas nyob rau sab kev saib ua ntej nas.
+
+<b>Yuav ua li cas rau resize ib tug ncej</b>
+
+1. Xaiv ib tug ncej kom resize:
+-lub cev
+-header,
+-los yog rau taw.
+
+2. Xaiv cov kev yuav tsum style lawm, piv txwv li \"Bibles\".
+
+3. Nias ib slides zaub hauv cov style \"Bibles\" rau cov yoov los yuam kev VideoPsalm.
+Xwb, yog hais tias tus kab no tsis pressed, VideoPsalm yuav switches rau lub 'Nqe' style li sai tau thaum koj tso saib ib nqe.
+
+4 Tso saib ib nqe. Saib ua ntej cheeb tsam yuav qhia txog tus ncej uas siv cov style 'Bibles'.
+
+5 Hloov qhov luaj li cas thiab txoj hauj lwm rau ntawm tus ncej siv tus nas.
+
+6. Tshem cov kab laum, rov qab mus VideoPsalm rau lub 'Nqe' style thaum koj, yuav rov tso saib zawg."},{
+Key:1005412,Text:"&Daim ntawv ntawm ib txoj kev ntawm qhov chaws kom tus ntawv los teev cia"},{
+Key:1005417,Text:"Ntawv nyeem"},{
+Key:1005418,Text:"Style Explorer"},{
+Key:1005419,Text:"Qhia lossis hides qhov style Explorer.
+Qhov rai no, koj yuav next ntawm theem ntawm yeej hierarchical, pib dua cov khoom uas tus neeg thiab kho kom raug lawv."},{
+Key:1005420,Text:"Yeej"},{
+Key:1005421,Text:"Tub ceev xwm"},{
+Key:1005424,Text:"Tom qab"},{
+Key:1005425,Text:"Yeej"},{
+Key:1005429,Text:"Nam"},{
+Key:1005430,Text:"Tsab"},{
+Key:1005432,Text:"Tsos"},{
+Key:1005433,Text:"Cuab yeej"},{
+Key:1005442,Text:"Ntxiv nrog rau yam tom ntej"},{
+Key:1005443,Text:"Xu siab ua ntej yuav mus"},{
+Key:1005444,Text:"Tshem cov ntawv ces ua raws li cov"},{
+Key:1005445,Text:"Tshem cov ntawv nyeem thiab ces xu siab"},{
+Key:1005446,Text:"Tso saib ua ke nrog lub caij tom ntej (ob hom lus)"},{
+Key:1005447,Text:"Ntxiv cov vocals los yog cov verses xaiv Komtswj (Insert lossis kev + A)"},{
+Key:1005448,Text:"Nyem qhov no mus ntxiv rau vocals los yog cov verses rau cov txheej txheem.
+
+Xwb, koj yuav luag thiab tee no khawm nyob hauv daim mus rau qhov chaw uas yuav tsum tau."},{
+Key:1005449,Text:"&Ntxiv"},{
+Key:1005454,Text:"Xaiv cov kev xaiv mus nrhiav nkauj ntawm lub ntsiab lus"},{
+Key:1005455,Text:"Rho tawm ntawm cov lus los yog tooj mus tshawb fawb (ESC)"},{
+Key:1005457,Text:"Mus nrhiav tau ib zaj kwv txhiaj (Ctrl + F)"},{
+Key:1005458,Text:"Nrhiav cov nkauj uas muaj tej lo lus los tsis muaj tus nab npawb.
+
+Piv txwv li:
+
+-Mus nrhiav nkauj No. 250, ntaus «250»
+
+-Nrhiav cov nkauj uas muaj cov lyrics <b>' ib tug beacon nyiam nyob hauv qhov tsaus ntuj \"</b>, ntaus cov lo lus xws li <b>'ntuj lub teeb'</b>.
+
+Tsis txhob txhawj txog qhov accents los cim sau ntawv.
+
+Tsis tas muab cov lus raws li koj tus kheej los yog nyob rau qhov kev txiav txim.
+
+Ntxiv lwm lo lus hauv zaj kwv txhiaj los txo qhov uas daim ntawv teev cov kabmob nkauj.
+
+Nias <b>ntxig</b> khawm ntxiv cov thawj nkauj nyob rau ntawm tus txheej txheem."},{
+Key:1005459,Text:"Yog tsis muaj ntawv Vajtswv.
+Nyem qhov no mus pib lub ntshuam Wizard
+Bibles thiab ntxiv cov Bibles ntawm qhov chaw uas nrov."},{
+Key:1005463,Text:"Rho tawm qhov siv mus tso saib (ESC)"},{
+Key:1005464,Text:"Siv rau koj xaiv, xws li: loos 3:23-25, 30"},{
+Key:1005465,Text:"Xaiv verses (Ctrl + F)"},{
+Key:1005472,Text:"&Cov ntaub ntawv:"},{
+Key:1005475,Text:"&No sau muaj nyob rau hauv nkauj tus nrhiav"},{
+Key:1005479,Text:"&Lub npe:"},{
+Key:1005481,Text:"&Hais:"},{
+Key:1005483,Text:"&Sau:"},{
+Key:1005485,Text:"&Copyright:"},{
+Key:1005487,Text:"&Daim ntawv:"},{
+Key:1005491,Text:"&Sau tus capo"},{
+Key:1005497,Text:"&Lyrics"},{
+Key:1005499,Text:"&Xov tooj:"},{
+Key:1005501,Text:"&Npe:"},{
+Key:1005505,Text:"&Siv:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Sau:"},{
+Key:1005511,Text:"&Composer:"},{
+Key:1005513,Text:"&Ntau yam"},{
+Key:1005515,Text:"&Laus:"},{
+Key:1005517,Text:"&Hom ntawv:"},{
+Key:1005519,Text:"&Ntsiab:"},{
+Key:1005521,Text:"&Ib theem zuj zus:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Qhov tseem ceeb:"},{
+Key:1005527,Text:"&Cai:"},{
+Key:1005529,Text:"&Kab tseem ceeb:"},{
+Key:1005531,Text:"&Memo no 1:"},{
+Key:1005533,Text:"&Memo no 2:"},{
+Key:1005535,Text:"&Memo no 3:"},{
+Key:1005537,Text:"&Kos npe:"},{
+Key:1005540,Text:"&Transposition:"},{
+Key:1005541,Text:"Sau tus capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Kom muaj kev qhov agreements cov nkauj."},{
+Key:1005555,Text:"&Cov ntaub ntawv:"},{
+Key:1005560,Text:"&Copyright:"},{
+Key:1005562,Text:"&Hais:"},{
+Key:1005564,Text:"&Lub npe:"},{
+Key:1005566,Text:"&Hauj lwm:"},{
+Key:1005568,Text:"&Taw qhia:"},{
+Key:1005570,Text:"&Daim ntawv:"},{
+Key:1005576,Text:"&Lub npe:"},{
+Key:1005582,Text:"&Lub npe:"},{
+Key:1005584,Text:"&Taw qhia:"},{
+Key:1005586,Text:"&Hais:"},{
+Key:1005587,Text:"Tshooj ntawm tus ntawv Vajtswv"},{
+Key:1005590,Text:"Ntawv Vajtswv nqe"},{
+Key:1005595,Text:"&Nqe:"},{
+Key:1005603,Text:"&Cov ntaub ntawv:"},{
+Key:1005606,Text:"Tsis muaj kev xaiv"},{
+Key:1005608,Text:"Style"},{
+Key:1005612,Text:"Tuskheej cov nqi ntawm cov cuab yeej"},{
+Key:1005613,Text:"Thaum koj rho tawm ntawm tus nqi rau ib yam khoom, VideoPsalm siv tus nqi uas muaj nyob hauv cov qib qis.
+
+Piv txwv, yog tias koj tshem tawm cov tub ceev xwm nyob rau theem ntawm tus nqe, VideoPsalm siv, kev txiav txim thiab yog hais tias nws yog teem, tus font:
+-hu nkauj,
+-tsis sau,
+-Yog ib yam ntawm cov collections,
+-lwm yam puag.
+
+VideoPsalm yuav yog tib cov Bibles, duab, etc."},{
+Key:1005615,Text:"All"},{
+Key:1005616,Text:"Puag"},{
+Key:1005618,Text:"Collections"},{
+Key:1005619,Text:"Sau"},{
+Key:1005620,Text:"Vocals"},{
+Key:1005621,Text:"Zaj paj huam"},{
+Key:1005622,Text:"Bibles"},{
+Key:1005623,Text:"Ntawv Vajtswv"},{
+Key:1005624,Text:"Phau Testament"},{
+Key:1005625,Text:"Phau ntawv los ntawm cov ntawv Vajtswv"},{
+Key:1005626,Text:"Tshooj"},{
+Key:1005627,Text:"Nqe"},{
+Key:1005628,Text:"Vim cov nqi"},{
+Key:1005629,Text:"Value tawm hauv lub cev cov ntawv nyeem"},{
+Key:1005630,Text:"Sab laug"},{
+Key:1005631,Text:"Koom"},{
+Key:1005632,Text:"Txoj cai"},{
+Key:1005633,Text:"Justified"},{
+Key:1005634,Text:"Saum"},{
+Key:1005635,Text:"Nruab nrab"},{
+Key:1005636,Text:"Hauv qab"},{
+Key:1005650,Text:"&Qhib daim calendar..."},{
+Key:1005651,Text:"&Ntxiv daim qhia hnub hli..."},{
+Key:1005652,Text:"&Ntxiv cov slideshow dluab..."},{
+Key:1005653,Text:"&Ntxiv autonomous yeeb yaj duab..."},{
+Key:1005654,Text:"&Ntxiv ib co PowerPoints..."},{
+Key:1005655,Text:"Thaum twg kuv qhib daim calendar:"},{
+Key:1005656,Text:"&Khaws cia rau hauv ntawv kuv cov phau ntawv thiab cov Bibles"},{
+Key:1005657,Text:"&Khaws cia rau hauv yeej kuv cov phau ntawv thiab cov Bibles"},{
+Key:1005667,Text:"&Collections"},{
+Key:1005668,Text:"Qhia txog lub collections (kev + R)"},{
+Key:1005670,Text:"&Bibles"},{
+Key:1005671,Text:"Qhia cov Bibles (kev + B)"},{
+Key:1005677,Text:"&Dav:"},{
+Key:1005680,Text:"&Plooj:"},{
+Key:1005681,Text:"&Qhov tob:"},{
+Key:1005682,Text:"&Kev taw qhia:"},{
+Key:1005686,Text:"Qhia txog ib cov xim dawb paug vijtsam, dub.
+Simulates lub extinction ntawm cov projector."},{
+Key:1005687,Text:"Tom ntej"},{
+Key:1005688,Text:"Nam kom lwm tus swb."},{
+Key:1005689,Text:"Xu siab qhov screen (Ctrl + W)"},{
+Key:1005690,Text:"Tso saib phau ntawv (Ctrl + T)"},{
+Key:1005691,Text:"Qhia los hides cov ntawv nyeem rau zawg."},{
+Key:1005692,Text:"Ntaub thaiv npog (Ctrl + B)"},{
+Key:1005693,Text:"Preserves tus vocals tau video projection slides.
+
+Rau cov ua haujlwm nyob rau ntawm tus txheej txheem los yog nrhiav tau ib zaj kwv txhiaj los yog ib nqe hauv daim video projection kev hu nkauj.
+
+Override daim ntaub thaiv npog, double-click ib yam ntawm cov txheej txheem."},{
+Key:1005694,Text:"Nkoog"},{
+Key:1005695,Text:"Freezes video projection npo tsis soj ntsuam xyuas saib ua ntej cheeb tsam.
+
+Yuav tau preview nthuav thaum cov video projection."},{
+Key:1005696,Text:"Peb tes num (Ctrl + P)"},{
+Key:1005697,Text:"Slides pob rau ntawm projector."},{
+Key:1005698,Text:"Hom 'Tsab' (Ctrl + E)"},{
+Key:1005699,Text:"Keyboards los ntawm lub \"tuav\" mus rau \"Txawv\" hom lossis vice versa."},{
+Key:1005702,Text:"Qhib tau ib daim los yog tsab ntawv"},{
+Key:1005703,Text:"Opens daim calendar, los yog ntxiv rau kev nthuav PowerPoint qhia, dluab ib slideshow, cov yeeb yaj duab, thiab lwm yam."},{
+Key:1005704,Text:"Tseg rau daim ntawv thov raws"},{
+Key:1005705,Text:"Rho tawm"},{
+Key:1005706,Text:"Tuskheej xaiv cov khoom nyob rau hauv cov txheej txheem (delete)."},{
+Key:1005707,Text:"Mount (Ctrl + Page nce)"},{
+Key:1005708,Text:"Monte lub caij mus pib ntawm qhov txheej txheem."},{
+Key:1005709,Text:"Cia (Ctrl + Page os)"},{
+Key:1005710,Text:"Cia lub caij los ntawm kawg ntawm cov txheej txheem."},{
+Key:1005711,Text:"Brightness"},{
+Key:1005712,Text:"Qhib daim calendar"},{
+Key:1005713,Text:"Tej yam cov txheej txheem ntawm cov disk los yog ib qhov tseem ceeb USB."},{
+Key:1005721,Text:"Twg xaiv tus verses los rau lawv siv.
+<i>Piv txwv: loos 3:23-25, 30</i>
+
+Tsis txhob sau accents rau lub npe ntawm phau ntawv.
+<i>Piv txwv: 'N<b>e</b>h<b>e</b>mie' rather tshaj \"N<b>é</b>h<b>é</b>mie\".</i>
+
+Tog twg los sau ib <b>': '</b>, ib <b>\".\"</b> los yog ib tug <b>'v'</b> cais rau tshooj uas hais txog ntawm verses.
+
+Nias qhov <b>'Ntxig'</b> yuam ntxiv cov verses uas xaiv los ntawm cov txheej txheem."},{
+Key:1005722,Text:"COMMENTS (tsis txhais, tawm mus nyob rau hauv Hmong)"},{
+Key:1005723,Text:"Tsis tau sau ntawv
+{0} :
+{1}"},{
+Key:1005724,Text:"Yuam kev"},{
+Key:1005725,Text:"Tsis tau nyeem ntawv
+{0} :
+{1}"},{
+Key:1005730,Text:"Koj puas paub hais tias koj xav tau kom tshem tau cov style ntawm slideshow dluab?
+Cov style ntawm slideshow dluab yuav saib ib tus nqi uas txheem."},{
+Key:1005731,Text:"Koj yog tias koj xav tau kom tshem tus luj style?
+Lub txoos style yuav muab ib tus nqi uas txheem."},{
+Key:1005732,Text:"Koj puas tseeb koj xav tawm ntawm cov collections style?
+Cov style ntawm lub collections yuav muab ib tus nqi uas txheem."},{
+Key:1005733,Text:"Koj yog tias koj xav tau kom tshem tau cov style Bibles?
+Cov style ntawm cov Bibles yuav muab ib tus nqi uas txheem."},{
+Key:1005734,Text:"Koj puas tseeb koj xav rho tawm cov style no?
+VideoPsalm siv tus pas nyob sab hauv lub hierarchy style."},{
+Key:1005735,Text:"Ntshiab style"},{
+Key:1005736,Text:"Koj puas paub hais tias koj xav tau kom tshem tau cov style ntawm cov yeeb yaj duab?
+Cov style ntawm cov yeeb yaj duab mam coj ib tus nqi uas txheem."},{
+Key:1005737,Text:"Ib phau"},{
+Key:1005738,Text:"Tsis sau los"},{
+Key:1005739,Text:"Ib tug ntawv Vajtswv"},{
+Key:1005740,Text:"Tsis muaj ntawv Vajtswv"},{
+Key:1005743,Text:"Ntug qhov font (Ctrl + ua haujlwm +.)"},{
+Key:1005744,Text:"Tsub kom tus font loj."},{
+Key:1005745,Text:"Txo cov font (Ctrl + ua haujlwm +,)"},{
+Key:1005746,Text:"Thiaj li tau daim font qhov luaj li cas."},{
+Key:1005747,Text:"Ntawv tuab (Ctrl + B)"},{
+Key:1005748,Text:"Muab cov ntawv nyeem xaiv rau ntawv tuab."},{
+Key:1005749,Text:"Ntawv qaij (Ctrl + kuv)"},{
+Key:1005750,Text:"Muab cov ntawv nyeem uas xaiv los ntawv qaij."},{
+Key:1005751,Text:"Taw tes qhia hnub tawm (Ctrl + U)"},{
+Key:1005752,Text:"Underline daim ntawv xaiv."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Draws ib kab nyob nruab nrab ntawm cov ntawv uas koj xaiv."},{
+Key:1005755,Text:"Qhia / nkaum ¶ (Ctrl + ua haujlwm + 8)"},{
+Key:1005756,Text:"Qhia txog pawg lus tias thiab lwm yam muab zais formatting cim."},{
+Key:1005757,Text:"Font xim"},{
+Key:1005758,Text:"Hloov xim ntawm cov ntawv luam."},{
+Key:1005759,Text:"Cov ntawv nyeem xim"},{
+Key:1005760,Text:"Yuav qhia cov xim ib daim zajlus."},{
+Key:1005761,Text:"Luaj formatting (Ctrl + chaw)"},{
+Key:1005762,Text:"Clears lub formatting ntawm cov kev xaiv thiab tseem muaj feem los tsuas rau lub tiaj ntawv nyeem."},{
+Key:1005763,Text:"Undo (Ctrl + Z)"},{
+Key:1005764,Text:"Cancels qhov lag luam lub xeem."},{
+Key:1005765,Text:"Redo (Ctrl + Y)"},{
+Key:1005766,Text:"Redoes qhov lag luam lub xeem."},{
+Key:1005767,Text:"Txiav (Ctrl + X)"},{
+Key:1005768,Text:"Hlais cov xaiv, thiab ntxig rau tus ntawv los teev cia."},{
+Key:1005769,Text:"Daim ntawv (Ctrl + C)"},{
+Key:1005770,Text:"Copies xaiv thiab txo nws hwj nws rau hauv cov ntawv los teev cia."},{
+Key:1005771,Text:"Muab tshuaj txhuam (Ctrl + V)"},{
+Key:1005772,Text:"Pastes tus txheem ntawm tus ntawv los teev cia."},{
+Key:1005773,Text:"Nrhiav (Ctrl + F)"},{
+Key:1005774,Text:"Nrhiav cov ntawv nyeem nyob rau hauv daim ntawv."},{
+Key:1005775,Text:"Hloov (Ctrl + H)"},{
+Key:1005776,Text:"Tau ntau xyoo ntawv nyob hauv daim ntawv."},{
+Key:1005777,Text:"Ntug"},{
+Key:1005778,Text:"Qhia tag nrho"},{
+Key:1005779,Text:"Yuav txawv ib nqe vaj lug kub, nias rau nws swb."},{
+Key:1005780,Text:"Xaiv verses"},{
+Key:1005781,Text:"Sorts tus sau los xaiv los ntawm lawv cov npe zaj nkauj."},{
+Key:1005782,Text:"Muab kaw cov txheej txheem uas tam sim no (thiab nug rau koj qhia txog yog tias muaj cov unsaved kev hloov)."},{
+Key:1005783,Text:"Adjusts lub brightness ntawm cov duab los yog tej qhov background video.
+
+Tso cai rau cov phau ntawv highlighting, txawm tias dhau ib barriole keeb kwm yav dhau."},{
+Key:1005784,Text:"&Luam ib nqe lus piav txog cov txheej txheem"},{
+Key:1005785,Text:"&Xws li cov lyrics ntawm zaj nkauj"},{
+Key:1005786,Text:"&Xws li biblical verses"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Opens phab facebook VideoPsalm lawm.
+
+Qhia paub VideoPsalm nyob ib ncig ntawm koj:
+-yog txhaj rau lub khawm \"Kuv xav\"
+-los ntawm qhov nws cov phooj ywg.
+
+<b>Note:</b> • Tshem tawm cov hauj lwm uas qhia hauv Facebook, nruab dawb rau plugin <b>Adblock Plus</b>.
+
+Zais VideoPsalm kev icons, lov tes taw lawv nyob rau hauv \"Kev xaiv\" paub → \"Général\" tab."},{
+Key:1005791,Text:"Opens ntawm VideoPsalm Twitter nplooj, yuav raug qhia txog tus tshiab cov khoom ntawm blogs.
+
+Zais VideoPsalm kev icons, lov tes taw lawv nyob rau hauv \"Kev xaiv\" paub → \"Général\" tab."},{
+Key:1005792,Text:"Opens lub VideoPsalm YouTube page, qhov uas koj yuav nrhiav video tutorials nyob rau kev siv VideoPsalm.
+
+Zais VideoPsalm kev icons, lov tes taw lawv nyob rau hauv \"Kev xaiv\" paub → \"Général\" tab."},{
+Key:1005793,Text:"Ntxiv tas nkauj tshiab (los yog ib tug advertisement) rau cov khoom uas koj xaiv."},{
+Key:1005794,Text:"Ntxiv tas ib phau tshiab."},{
+Key:1005795,Text:"No yam rau zaj nkauj ntawm qhov sau los ua xaiv tau los ntawm cov xov tooj."},{
+Key:1005800,Text:"Zaj paj huam"},{
+Key:1005801,Text:"Paab chorus tseem"},{
+Key:1005802,Text:"Pre-chorus"},{
+Key:1005803,Text:"Choj"},{
+Key:1005804,Text:"Lo cim"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Tso zis"},{
+Key:1005807,Text:"Tiab hauv qab"},{
+Key:1005808,Text:"Instrumental"},{
+Key:1005809,Text:"Lwm yam"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"KUV"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"IB"},{
+Key:1005850,Text:"Kaw"},{
+Key:1005851,Text:"&Lus:"},{
+Key:1005852,Text:"&Publisher:"},{
+Key:1005853,Text:"Tag nrho"},{
+Key:1005859,Text:"Transpose nkauj agreements nyob ntawm lub chaw ntawm cov capodiastre."},{
+Key:1005860,Text:"Nrhiav cov zaj nkauj nrog rau cov npe (los yog cai) los yog lub lyrics muaj cov lus uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005861,Text:"Tej lub hom phiaj kev nrhiav ib tug ntawm ob theem, tso tias qhov kom zoo dua ntais saib muaj luv npe ntawm zaj nkauj:
+
+1 Xyuas hauv tus thawj zaug nkauj xws li lub npe (los yog cai) muaj tej cov lus uas koj sau.
+
+Ua kom koj ntxiv lus, muaj li ib lub sij hawm uas feem ntau muaj nkauj tau pom.
+
+2. Txhob kis no, VideoPsalm yuav nrhiav cov lus nyob hauv cov lyrics ntawm cov nkauj.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005862,Text:"Nrhiav cov nkauj uas koj sau songwriters.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005863,Text:"Nrhiav cov nkauj uas kam nrog xai uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005864,Text:"Nrhiav cov nkauj no tshwm sim los ntawm Biblical chiv keeb uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005865,Text:"Yog zaj kwv txhiaj uas muaj cov CCLI uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005866,Text:"Nrhiav cov nkauj uas nws cov copyright muaj cov lus uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005867,Text:"Nrhiav cov nkauj uas memo no 1 muaj cov lus uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005868,Text:"Nrhiav cov nkauj uas memo no 2 ntawv muaj cov lus uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005869,Text:"Nrhiav memo 3 zaj nkauj no uas muaj cov lus koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005870,Text:"Nrhiav zaj nkauj uas nws lub npe los yog cai muaj cov lus uas koj sau.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005871,Text:"Nrhiav cov nkauj uas muaj agreements lub lyrics.
+
+Xwb, koj yuav nrhiav tau ib zaj kwv txhiaj los ntawm cov xov tooj."},{
+Key:1005872,Text:"&Version:"},{
+Key:1005873,Text:"&Version:"},{
+Key:1005874,Text:"Hnub koj version of collection"},{
+Key:1005875,Text:"Ntawd hais rau hnub uas no sau tau tshiab ntawm VideoPsalm rau lub sij hawm dhau.
+
+Ntawm tus VideoPsalm hauv internet qiv import wizard, koj yuav saib xyuas yog tias muaj ib tug newer version ntawm phau.
+
+VideoPsalm hauv internet tej siab tej collections, los yog cov piv txwv tej typos."},{
+Key:1005876,Text:"Hnub koj version ntawm ntawv Vajtswv"},{
+Key:1005877,Text:"Ntawd hais rau hnub uas cov ntawv Vajtswv no muaj tau tshiab ntawm VideoPsalm rau lub sij hawm dhau.
+
+Ntawm qhov VideoPsalm nyob rau hauv cov tsev qiv ntawv ntshuam wizard, koj nrhiav puas ib newer version ntawm no txhais lus.
+
+VideoPsalm hauv internet tej siab tej Bibles, los yog cov piv txwv tej typos."},{
+Key:1005878,Text:"Compressed"},{
+Key:1005879,Text:"Compressed"},{
+Key:1005880,Text:"VideoPsalm yuav hlob koj collections thiab koj cov Bibles, ces tseg ib txhia qhov chaw disk.
+
+Phau ntawv thiab cov Bibles uas koj download tau ntawm cov ntshuam Wizard muaj li ntawm compressed, sij kom lub ces thiab txo lub tsheb hauv internet nyob rau hauv lub site VideoPsalm."},{
+Key:1005881,Text:"&Compressed"},{
+Key:1005882,Text:"&Compressed"},{
+Key:1005884,Text:"Koj puas yeej xav rho tawm tus ntawv Vajtswv '{0}'?
+
+Cov ntaub ntawv rau qhov ntawv Vajtswv corresponding yuav tsis muab deleted ntawm daim disk:
+nws extension yuav uas \".ignore."},{
+Key:1005885,Text:"Rho tawm tau ib tug ntawv Vajtswv"},{
+Key:1005886,Text:"Thov tos thov"},{
+Key:1005887,Text:"Chaw thau khoom nyob rau hauv kev kawm..."},{
+Key:1005888,Text:"Phau qub"},{
+Key:1005889,Text:"Phau Testament tshiab"},{
+Key:1005890,Text:"Cov ntaub ntawv tam sim no..."},{
+Key:1005891,Text:"&Ntshuam dluab"},{
+Key:1005892,Text:"Xaiv cov dluab koj xav import thiab ces nias rau 'qhib'."},{
+Key:1005893,Text:"Koj muaj mas {0} ncej (s)."},{
+Key:1005894,Text:"Tsis muaj duab tau lawm mas.
+(Nws (s) nyob (s) ntawm cov gallery)."},{
+Key:1005895,Text:"&Recreate thumbnails"},{
+Key:1005896,Text:"Recreate thumbnails"},{
+Key:1005897,Text:"Koj puas xav recreate tus thumbnails?
+
+Tej zaum yuav tau recreate lub thumbnails ntawm cov dluab
+Thaum twg koj tau muab hloov sab nraum VideoPsalm."},{
+Key:1005898,Text:"&Rho tawm tus duab"},{
+Key:1005899,Text:"Tshem ib tug duab"},{
+Key:1005900,Text:"Koj puas yeej xav rho tawm tus duab '{0}'?"},{
+Key:1005901,Text:"&Tshawb cov dluab ceev"},{
+Key:1005902,Text:"&Rho tawm cov duab uas koj xaiv"},{
+Key:1005903,Text:"&Ntshuam yeeb yaj duab"},{
+Key:1005904,Text:"Xaiv cov yeeb yaj duab uas koj yuav tau mus import thiab ces nias rau ntawm 'qhib'."},{
+Key:1005905,Text:"Koj muaj mas {0} yees duab (s)."},{
+Key:1005906,Text:"Tsis muaj yees duab tau lawm mas.
+(Nws (s) nyob (s) ntawm cov gallery)."},{
+Key:1005907,Text:"&Recreate thumbnails"},{
+Key:1005908,Text:"&Rho tawm lub yees duab"},{
+Key:1005909,Text:"Rho tawm lub yees duab"},{
+Key:1005910,Text:"Koj puas yeej xav rho tawm tus yees duab '{0}'?"},{
+Key:1005911,Text:"&Tshawb cov yeeb yaj duab ceev"},{
+Key:1005912,Text:"&Rho tawm tus yees duab xaiv"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Importing dluab"},{
+Key:1005915,Text:"Ntshuam yeeb yaj duab"},{
+Key:1005917,Text:"Tsis tau tsim lub nplaub tshev
+{0} :
+{1}"},{
+Key:1005918,Text:"Daim nplaub tshev daim kev cai tswjhwm tus tsis yug:
+{0}"},{
+Key:1005919,Text:"Daim nplaub tshev yuav tsum muab uas nyob rau hauv."},{
+Key:1005920,Text:"Nplaub tshev npe tsis muaj lub cim li nram no:
+{0}"},{
+Key:1005921,Text:"Restore phau ntawv thiab cov Bibles"},{
+Key:1005922,Text:"Los collections, Bibles, duab lossis cov yeeb yaj duab, piv txwv txhob thaub qab ib tug rau ib tug USB lo."},{
+Key:1005923,Text:"Kaw"},{
+Key:1005930,Text:"&Luam zaj kwv txhiaj rau"},{
+Key:1005931,Text:"&Tsiv mus nyob rau zaj kwv txhiaj rau"},{
+Key:1005932,Text:"Koj puas yeej xav luam zaj kwv txhiaj '{0}'.
+cov noog '{1}'?"},{
+Key:1005933,Text:"Koj puas yeej xav txav zaj kwv txhiaj '{0}'.
+cov noog '{1}'?"},{
+Key:1005934,Text:"&Sau tus xov tooj ntawm cov abbreviations"},{
+Key:1005935,Text:"&Lub npe ntawm phau ntawv nyob Fabkis zaub"},{
+Key:1005936,Text:"(Copy)"},{
+Key:1005937,Text:"Phau ntawv tshiab li:
+{0}"},{
+Key:1005938,Text:"Tshiab collections no muaj: {0}"},{
+Key:1005939,Text:"Corrections tau ua lawm
+tus sau '{0}'."},{
+Key:1005940,Text:"Corrections tau ua lawm
+leb raws li: {0}"},{
+Key:1005941,Text:"Qhib lub Collections ntshuam Wizard"},{
+Key:1005942,Text:"Ib cov tshiab ntawv Vajtswv li:
+{0}"},{
+Key:1005943,Text:"Cov Bibles tshiab yuav muaj: {0}"},{
+Key:1005944,Text:"Corrections tau ua lawm
+ntawv tus Vajtswv '{0}'."},{
+Key:1005945,Text:"Corrections tau ua lawm
+nyob rau hauv cov Bibles nram qab no: {0}"},{
+Key:1005946,Text:"Qhib cov wizard rau importing Bibles"},{
+Key:1005947,Text:"VideoPsalm yog muaj tshiab khiv
+nyob rau hauv {0}"},{
+Key:1005948,Text:"VideoPsalm tseem tshiab khiv muaj nyob rau hauv: {0}"},{
+Key:1005949,Text:"Corrections tau ua lawm
+cov Hmong nyob rau hauv {0}"},{
+Key:1005950,Text:"Corrections tau ua lawm
+cov ntawv cov lus no: {0}"},{
+Key:1005951,Text:"Qhib tau ntshuam rau ntawm daim ntawv lo Wizard"},{
+Key:1005952,Text:"Ib tug tsis ntev los no ntau version
+VideoPsalm li:"},{
+Key:1005953,Text:"Tso saib xov xwm"},{
+Key:1005954,Text:"Tsis siv neeg"},{
+Key:1005955,Text:"Tshawb rau nplaub tshev xaiv"},{
+Key:1005956,Text:"Xaiv ib nplaub tshev"},{
+Key:1005957,Text:"Tso saib cov ntaub ntawv uas tsis ntev los no"},{
+Key:1005958,Text:"Txuag"},{
+Key:1005959,Text:"Tso cai rau kom txuag koj collections, Bibles, duab los yog yeeb yaj duab, los yog ua ib portable version of VideoPsalm, piv rau ib USB lo."},{
+Key:1005960,Text:"&Restore..."},{
+Key:1005961,Text:"VideoPsalm no los tso saib PowerPoint ntaub ntawv.
+
+(Tsis PowerPoint hom ntaub ntawv tau kuaj ntawm koj lub PC)."},{
+Key:1005962,Text:"Yuam kev PowerPoint"},{
+Key:1005963,Text:"Ua {0} editable nyob rau hauv cov qhov sau los ua '{1}'."},{
+Key:1005964,Text:"Ua {0} editable nyob rau hauv cov qhov sau los ua..."},{
+Key:1005965,Text:"Ua {0} editable nyob rau hauv cov khoom tshiab '{1}'."},{
+Key:1005966,Text:"Biblical ntawm daim zajlus"},{
+Key:1005967,Text:"&Ntawv Vajtswv ntawm daim zajlus kev cai"},{
+Key:1005968,Text:"&Hauj lwm:"},{
+Key:1005969,Text:"&Lus:"},{
+Key:1005970,Text:"&Publisher:"},{
+Key:1005971,Text:"&Neeg khiav dej num:"},{
+Key:1005973,Text:"&Neeg khiav dej num:"},{
+Key:1005974,Text:"Saum cov ntawv nyeem"},{
+Key:1005975,Text:"Agreements saum cov ntawv nyeem"},{
+Key:1005976,Text:"Qhov no nws yog hom pom zoo yuav hloov cov lyrics.
+Thaum uas koj hloov cov ntawv nyeem, kev pom zoo txhua tsiv nrog tsab ntawv uas nws yog anchored.
+
+Thaum twg koj <b>daim ntawv uas muaj agreements</b>, agreements yog tau theej nrog rau phau ntawv, cov ChordPro hom.
+
+Thaum koj paste phau ntawv uas muaj agreements cov hom ntawv, ChordPro, VideoPsalm qhia cov agreements saum cov ntawv nyeem.
+
+<b>Ntxiv rau daim ntawm pom zoo</b>, tso nrog rau sab laug ntawm cov ntawv uas koj xav mus rau dock, los ntawm lwm tus nrog nkauj <b>[]</b>.
+
+<b>Mus rho tawm kev pom zoo</b>, rho tawm tsab ntawv uas nws yog docked thiab retype cov tsab ntawv.
+
+<b>Kom hloov tau txoj kev sib haum</b>, rho tawm ces thwj ntxig (los yog siv \" <b>Hom ChordPro</b> \" hom)."},{
+Key:1005977,Text:"ChordPro hom"},{
+Key:1005978,Text:"Cov hom ntawv agreements hauv lub ChordPro"},{
+Key:1005979,Text:"Nyob rau hauv hom no:
+
+-VideoPsalm qhia lub lyrics and chords nrog <b>ChordPro hom ntawv</b>.
+
+-Nws yog hom zoo tagnrho rau editing agreements: VideoPsalm tau ntxiv nkhaus [] ncig daim ntawv uas koj sau.
+Piv txwv li, ntxiv ib tus c chord, ntaus «Ua» thiab VideoPsalm yuav ntxig \"[ua]\".
+
+Xim: no hom no tsis haum rau editing lyrics, vim nyob ntawm rooj plaub, VideoPsalm surrounds tus tsiaj ntawv ntawm hooks.
+Siv theej '<b>saum toj ntawm phau ntawv</b>' hom yuav hloov cov ntawv nyeem."},{
+Key:1005980,Text:"Agreements"},{
+Key:1005981,Text:"Daim ntawv"},{
+Key:1005982,Text:"Copies piav qhia txog ntawm daim thiab muab tso rau hauv cov ntawv los teev cia."},{
+Key:1005983,Text:"&Pub PowerPoint siv \"presenter\"."},{
+Key:1005984,Text:"Thaum no khij lub npov no, VideoPsalm nplooj PowerPoint tso saib nws cov interface hais kom ua tsav lub advancement nthuav."},{
+Key:1005985,Text:"Tuaj ib zaug xwb"},{
+Key:1005986,Text:"Voj"},{
+Key:1005987,Text:"Nam manually"},{
+Key:1005988,Text:"&Web site..."},{
+Key:1005989,Text:"&Tsis siv neeg ua ntej..."},{
+Key:1005990,Text:"&Nam manually"},{
+Key:1005991,Text:"&Voj"},{
+Key:1005992,Text:"&Tuaj ib zaug xwb"},{
+Key:1005993,Text:"&Luv (vib nas this):"},{
+Key:1005994,Text:"&Ua kom ploj hauv phau ntawv cia li tig"},{
+Key:1005995,Text:"&Ua raws li lub caij tom ntej nrog rau"},{
+Key:1005996,Text:"&Xu siab ua ntej yuav mus"},{
+Key:1005997,Text:"&Disappearing ntawv nyeem ces ua raws li cov"},{
+Key:1005998,Text:"&Tso saib ua ke nrog lub caij tom ntej (bilingual)"},{
+Key:1005999,Text:"&Explorer"},{
+Key:1006000,Text:"Ntshuam Wizard"},{
+Key:1006001,Text:"Txais tos tau ntshuam cov phau ntawv, Bibles, duab, thiab yeeb yaj duab Wizard"},{
+Key:1006002,Text:"No lub wizard simplifies tus importing ntawm cov phau ntawv, Bibles, dluab, thiab yeeb yaj duab ntawm lub tsev qiv ntawv hauv internet VideoPsalm los nrov tawm tswv yim guiding koj mus txog hauv cov kauj ruam."},{
+Key:1006003,Text:"Nyem qhov tom ntej no mus ntxiv"},{
+Key:1006004,Text:"&Xaiv..."},{
+Key:1006005,Text:"&Tom ntej &gt;"},{
+Key:1006006,Text:"&&lt; Yav dhau los"},{
+Key:1006007,Text:"&Pab"},{
+Key:1006008,Text:"&Suaj kaum"},{
+Key:1006009,Text:"&Txoj kev"},{
+Key:1006010,Text:"Koj yuav import phau ntawv, Bibles, duab los yog yeeb yaj duab"},{
+Key:1006011,Text:"Xaiv yam koj xav yuav import"},{
+Key:1006012,Text:"Import ib phau"},{
+Key:1006013,Text:"Import ib tug ntawv Vajtswv"},{
+Key:1006014,Text:"Ntshuam dluab"},{
+Key:1006015,Text:"Ntshuam yeeb yaj duab"},{
+Key:1006016,Text:"Import muaj ib cov lus"},{
+Key:1006020,Text:"&Initialize"},{
+Key:1006021,Text:"Initializes daim nplaub tshev rau ib tus nqi uas txheem"},{
+Key:1006023,Text:"Txoj kev ua ntej ntshuam"},{
+Key:1006024,Text:"Nyem qhov tom ntej no yuav pib lub ntshuam"},{
+Key:1006025,Text:"Tam sim no ntshuam"},{
+Key:1006026,Text:"Ntshuam yog tag"},{
+Key:1006027,Text:"Nyob rau ntawm wizard, nyem Finish
+
+Nyem qhov rov qab mus import rau lwm cov khoom los yog hauv ntawv Vajtswv ib lwm"},{
+Key:1006029,Text:"Koj muaj {0} ntse mas nkauj hauv {1} collections."},{
+Key:1006030,Text:"Koj muaj {0} ntse mas nkauj nyob rau hauv cov khoom tshiab '{1}'."},{
+Key:1006031,Text:"Koj muaj mas cov '{0}' ntawv Vajtswv uas kawm tau zoo."},{
+Key:1006032,Text:"Koj muaj mas {0} Bibles uas kawm tau zoo."},{
+Key:1006033,Text:"Koj muaj mas '{0}' lus nrog kawm xwb."},{
+Key:1006034,Text:"Koj muaj mas {0} lus ntse."},{
+Key:1006035,Text:"Koj puas xav kom nres qhov ntshuam?"},{
+Key:1006036,Text:"Tau ntshuam puas tsis teb kom zoo."},{
+Key:1006037,Text:"Sau npe no sau tshiab ntawm VideoPsalm"},{
+Key:1006038,Text:"Yuav tau rua tus tshiab sau hauv no lub npe. No lub npe yuav raug hloov tom qab"},{
+Key:1006039,Text:"&Lub npe muab rau tus sau:"},{
+Key:1006040,Text:"Muab ib lub npe mus rau qhov tshiab ntawv Vajtswv of VideoPsalm"},{
+Key:1006041,Text:"Cov ntawv Vajtswv tshiab yuav ua rua hauv qab no lub npe. No lub npe yuav raug hloov tom qab"},{
+Key:1006042,Text:"&Lub npe muab rau tus ntawv Vajtswv:"},{
+Key:1006051,Text:"Xaiv collections"},{
+Key:1006052,Text:"Xaiv cov Bibles"},{
+Key:1006053,Text:"Xaiv ib cov ntaub ntawv"},{
+Key:1006054,Text:"Xaiv ib nplaub tshev"},{
+Key:1006055,Text:"&Cov ntaub ntawv:"},{
+Key:1006056,Text:"&Cov ntaub ntawv:"},{
+Key:1006057,Text:"Xaiv lus"},{
+Key:1006058,Text:"Muaj daim nplaub tshev '{0}' tsis nyob."},{
+Key:1006060,Text:"Tsis tau saib daim nplaub tshev '{0}'.
+
+{1}"},{
+Key:1006061,Text:"Muaj cov ntaub ntawv '{0}' tsis nyob."},{
+Key:1006062,Text:"Xim: Cov chaw thau khoom ntawm collections ntau yuav sau lub PC nco thiab qeeb nrhiav cov nkauj.
+Ua tiag download tau koj {0} Collections?"},{
+Key:1006063,Text:"Xim: Chaw thau cov Bibles ntau yuav sau lub PC nco.
+Ua tiag download tau koj {0} Bibles?"},{
+Key:1006064,Text:"Lub npe tshiab ua tsis tau npliag."},{
+Key:1006065,Text:"Lub npe tshiab tsis tau muaj cov nram qab no characters: {0}"},{
+Key:1006066,Text:"Twb yog ib phau no muaj lub npe '{0}'."},{
+Key:1006067,Text:"Twb yog ntawv Vajtswv tus uas muaj lub npe '{0}'."},{
+Key:1006068,Text:"Koj tau nres cov ntshuam."},{
+Key:1006069,Text:"Ntsuam xyuas koj kev twb kev txuas hauv internet."},{
+Key:1006070,Text:"Muaj nyob rau ntawm tus {0}"},{
+Key:1006071,Text:"Tshiab version muaj txij thaum lub {0}"},{
+Key:1006072,Text:"Koj version hnub ntawm cov {0}"},{
+Key:1006073,Text:"Koj version ntawm lub {0} ntaub raws sijhawm hauv qab no."},{
+Key:1006074,Text:"Npe"},{
+Key:1006075,Text:"Lub xeev"},{
+Key:1006076,Text:"Tsis downloaded"},{
+Key:1006077,Text:"Hloov tshiab"},{
+Key:1006078,Text:"Hloov tshiab muaj"},{
+Key:1006079,Text:"Tshiab"},{
+Key:1006080,Text:"Tshiab hloov tshiab muaj"},{
+Key:1006081,Text:"Tsis sau los yog xaiv.
+Koj yuav tsum xaiv ib phau."},{
+Key:1006082,Text:"Yog xaiv tsis muaj ntawv Vajtswv.
+Koj yuav tsum xaiv ib kawg ntawv Vajtswv."},{
+Key:1006083,Text:"Tsis muaj lus xaiv.
+Koj yuav tsum xaiv ib hom lus."},{
+Key:1006084,Text:"Chaws"},{
+Key:1006085,Text:"Tau qhov twg los file: <b>{0}</b>"},{
+Key:1006086,Text:"Tau qhov twg los sis:
+<b>{0}</b>"},{
+Key:1006087,Text:"Daim ntawv searching"},{
+Key:1006090,Text:"Lub npe muab rau tus tshiab ntawv Vajtswv of VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Cov noog tshiab ntawm VideoPsalm name: <b>{0}</b>"},{
+Key:1006095,Text:"Nyob rau hauv cov tsev qiv cov ntawv ntawm VideoPsalm hauv Internet, nws tshwm sim hais tias tej yam ntaub ntawv ntxiv los tshiab (xws li mus kho ib typo).
+Nyob ntawm lub xeev los ntawm cov ntaub ntawv saum toj no, koj yeej xaiv puas los tsis mus download tau lawv.
+
+<b>Nov yog paub qhov txawv ntawm lub xeev cov ntaub ntawv uas yuav ua li cas:</b>
+-Cov ntaub ntawv uas koj muaj tsis downloaded yog displayed nyob li qub.
+-Cov ntaub ntawv uas koj muaj uploaded thiab cov tshiab muaj qhia nyob rau hauv <i>italics</i>. Lawv cov cim nrog ib <image=check_16>lawv xav tshuaj.
+Koj yuav tsis tau mus download ntau - tau, tsis xam rau hauv cov ntaub ntawv uas koj xav kom muaj kev hloov koj tau ua.
+-Cov ntaub ntawv uas koj muaj uploaded thiab cov uas peb tau ua tus meantime yuav ua cov corrections hauv VideoPsalm tsev qiv ntawv hauv Internet, tshwm sim hauv <b>bold</b>. Lawv cov cim nrog ib tug cwj mem <image=pencil2_16>.
+
+Lub thawv ntawv nyob sab xis piav dab corrections tau tau ua daim ntawv: qhov no yuav pab koj txiav txim yog hais tias koj xav mus download ntau - tau.
+
+<b>Xim:</b> Yog hais tias koj hloov koj cov ntaub ntawv nyob rau hauv re-uploading, koj yuav plam tej kev hloov uas koj tau ua, thiab raws li nws cov style attributes vim VideoPsalm ntau xyoo koj uas nws downloads.
+Koj cov ntaub ntawv yog tsis deleted, tsis tas li ntawd: nws tshua rau disk tiam sis yuav pom nyob rau hauv VideoPsalm vim VideoPsalm renames nws expansion rau hauv .ignore.
+
+<b>Sawv daws</b> : tsuas download tau cov ntaub ntawv uas yuav pab tau.
+Immigration, yog hais tias koj muaj cov ntaub ntawv muaj ntau heev, chaw thau khoom ntawm VideoPsalm yuav ua kab tias qeeb qeeb, ib yam li searching ntawm lo lus tseem ceeb.
+
+Nco ntsoov tias koj tau lub sij hawm twg tshem ib phau ntawv los yog ib tug ntawv Vajtswv ntawm koj VideoPsalm. Ua li no, siv cov khawm ' <image=delete2_16>rho tawm ' hauv lub tab 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Keeb kwm muaj kev hloov rau '{0}'."},{
+Key:1006100,Text:"Collections of tus qiv ntawm VideoPsalm hauv internet"},{
+Key:1006105,Text:"EasySlides zaj nkauj"},{
+Key:1006110,Text:"MediaShout zaj nkauj"},{
+Key:1006115,Text:"OpenLP zaj nkauj"},{
+Key:1006116,Text:"VerseView zaj nkauj"},{
+Key:1006120,Text:"Cov nkauj los lub hom ntawv 'OpenLyrics'."},{
+Key:1006125,Text:"OpenSong zaj nkauj"},{
+Key:1006130,Text:"Ib phau ntawm Psalmo"},{
+Key:1006131,Text:"Ib phau ntawv nyeem hom"},{
+Key:1006132,Text:"Zaj nkauj ntawm EasyWorship 2009"},{
+Key:1006133,Text:"Nkauj hom ntawv \"ChordPro\"."},{
+Key:1006134,Text:"Zaj nkauj ntawm WebAsaph"},{
+Key:1006135,Text:"Zaj nkauj hom «CCLI."},{
+Key:1006140,Text:"Cov Bibles ntawm lub qiv ntawm VideoPsalm hauv internet"},{
+Key:1006145,Text:"Ntawv Vajtswv ntawv Vajtswv Database"},{
+Key:1006150,Text:"Ntawv Vajtswv ib cov OpenLP"},{
+Key:1006155,Text:"Ntawv Vajtswv ib cov OpenSong"},{
+Key:1006160,Text:"Ntawv Vajtswv ib ntawm cov ntawv Vajtswv Unbound"},{
+Key:1006165,Text:"Ib cov ntawv Vajtswv Zefania"},{
+Key:1006166,Text:"Ntawv Vajtswv ib cov EasySlides"},{
+Key:1006167,Text:"Ib tug ntawv Vajtswv lub hom ntawv \"Osis\"."},{
+Key:1006168,Text:"Ntawv Vajtswv ib tug nyob hauv cov phau ntawv hom «USFM» (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Xaiv tus collections ntawm lub tsev qiv ntawv kev VideoPsalm hauv internet xav import rau koj VideoPsalm"},{
+Key:1006185,Text:"Xaiv ib database cov EasySlides uas muaj cov nkauj uas koj xav import rau koj VideoPsalm (ntaub ntawv .mdb extension)"},{
+Key:1006190,Text:"Xaiv ib database cov MediaShout uas muaj cov nkauj uas koj xav import rau koj VideoPsalm (ntaub ntawv .mdb extension)"},{
+Key:1006195,Text:"Xaiv ib database cov OpenLP uas muaj cov nkauj uas koj xav import rau koj VideoPsalm (extension .sqlite thov)"},{
+Key:1006196,Text:"Xaiv ib database cov VerseView uas muaj cov nkauj xav import rau koj VideoPsalm (extension .db ntaub ntawv)"},{
+Key:1006200,Text:"Xaiv ib nplaub tshev uas muaj nkauj 'OpenLyrics' hom ntawv koj xav import rau koj VideoPsalm (ntaub extension .xml ntawv)"},{
+Key:1006205,Text:"Xaiv ib nplaub tshev uas muaj OpenSong zaj nkauj koj xav import rau koj VideoPsalm (ntaub ntawv tsis extension)"},{
+Key:1006210,Text:"Xaiv ib qho exported Psalmo compendium RTF yam koj xav import rau koj VideoPsalm (extension .rtf thov)"},{
+Key:1006211,Text:"Xaiv ib phau rau hom ntawv ntawv koj xav import rau koj VideoPsalm (extension .txt thov)"},{
+Key:1006212,Text:"Xaiv ib database ntawm EasyWorship 2009 uas muaj cov nkauj uas koj xav import rau koj VideoPsalm (extension .db thov)"},{
+Key:1006213,Text:"Xaiv ib nplaub tshev uas muaj nkauj ChordPro hom ntawv koj xav import rau koj VideoPsalm (ntaub.chordpro, .chopro, .crd los yog .cho extension ntawv)"},{
+Key:1006214,Text:"Xaiv ib database cov WebAsaph uas muaj cov nkauj uas koj xav import rau koj VideoPsalm (ntaub ntawv extension .ltc)"},{
+Key:1006215,Text:"Xaiv ib nplaub tshev uas muaj nkauj CCLI hom ntawv los import rau koj VideoPsalm (extension .usr ntaub ntawv)"},{
+Key:1006220,Text:"Xaiv cov Bibles ntawm tus VideoPsalm hauv internet qiv koj xav import rau koj VideoPsalm"},{
+Key:1006225,Text:"Xaiv tus ntawv Vajtswv ntawm ntawv Vajtswv Database koj xav import rau koj VideoPsalm (extension .txt thov)"},{
+Key:1006230,Text:"Xaiv tus ntawv Vajtswv OpenLP, koj xav yuav import rau koj VideoPsalm (extension .sqlite thov)"},{
+Key:1006235,Text:"Xaiv tus ntawv Vajtswv cov OpenSong xav import rau koj VideoPsalm (ntaub ntawv tsis extension)"},{
+Key:1006240,Text:"Xaiv tus ntawv muaj ntawv Vajtswv ntawm Unbound Vajtswv, koj xav yuav import rau koj VideoPsalm (extension .txt thov)"},{
+Key:1006245,Text:"Xaiv tus ntawv Vajtswv Zefania koj xav import rau koj VideoPsalm (extension .xml thov)"},{
+Key:1006247,Text:"Xaiv tus ntawv Vajtswv cov EasySlides xav import rau koj VideoPsalm (ntaub ntawv .mdb extension)"},{
+Key:1006248,Text:"Xaiv tus ntawv Vajtswv \"Osis\" hom ntawv import rau koj VideoPsalm (extension, .xml, .osi, thiab .osis tej ntaub ntawv)"},{
+Key:1006249,Text:"Xaiv cov phau ntawv los ntawm ib tug ntawv Vajtswv \"USFM\" hom ntawv los import rau koj VideoPsalm (extension .sfm los yog .usfm ntaub ntawv)"},{
+Key:1006252,Text:"Xaiv cov lus ntawm tus VideoPsalm hauv internet qiv koj xav import rau koj VideoPsalm"},{
+Key:1006255,Text:"Ntshuam <b>{0} sau ((s)) rau lub tsev qiv ntawv kev VideoPsalm hauv internet</b> :
+{1}"},{
+Key:1006260,Text:"Ntshuam <b>EasySlides zaj nkauj</b>"},{
+Key:1006265,Text:"Ntshuam <b>qhov ceev cov nkauj MediaShout</b>"},{
+Key:1006270,Text:"Ntshuam <b>ntawm OpenLP zaj nkauj</b>"},{
+Key:1006271,Text:"Ntshuam <b>VerseView zaj nkauj</b>"},{
+Key:1006275,Text:"Import <b>nkauj nyob rau hauv hom «OpenLyrics»</b>"},{
+Key:1006280,Text:"Ntshuam <b>ntawm OpenSong zaj kwv txhiaj</b>"},{
+Key:1006285,Text:"Import <b>ib phau ntawm Psalmo</b>"},{
+Key:1006286,Text:"Ntshuam <b>ib cov phau ntawv nyeem</b>"},{
+Key:1006287,Text:"<b>Import tus ceev cov nkauj EasyWorship 2009</b>"},{
+Key:1006288,Text:"Import <b>kev nkauj ChordPro hom ntawv</b>"},{
+Key:1006289,Text:"Ntshuam <b>qhov ceev cov nkauj WebAsaph</b>"},{
+Key:1006290,Text:"Ntshuam <b>hom CCLI zaj nkauj</b>"},{
+Key:1006295,Text:"Ntshuam <b>{0} ntawv Vajtswv ((s)) ntawm lub tsev qiv ntawv kev VideoPsalm hauv internet</b> :
+{1}"},{
+Key:1006300,Text:"Import <b>ib tug ntawv Vajtswv ntawm ntawv Vajtswv Database</b>"},{
+Key:1006305,Text:"Import <b>ib tug ntawv Vajtswv ntawm OpenLP</b>"},{
+Key:1006310,Text:"Import <b>ib tug ntawv Vajtswv ntawm OpenSong</b>"},{
+Key:1006315,Text:"Import <b>ib tug ntawv Vajtswv cov Unbound ntawv Vajtswv</b>"},{
+Key:1006320,Text:"Import <b>Ib Zefania ntawv ua Vajtswv</b>"},{
+Key:1006321,Text:"Import <b>Ib EasySlides ntawv ua Vajtswv</b>"},{
+Key:1006322,Text:"<b>Ntawv Vajtswv ib hom ntawv \"Osis\"</b> ntshuam"},{
+Key:1006323,Text:"Ntshuam <b>ntawv Vajtswv ib hom «USFM»</b>"},{
+Key:1006325,Text:"Ntshuam <b>{0} lus ((s)) rau lub tsev qiv ntawv kev VideoPsalm hauv internet</b> :
+{1}"},{
+Key:1006340,Text:"Xaiv ib database ntawm EasySlide"},{
+Key:1006345,Text:"Xaiv ib MediaShout database"},{
+Key:1006350,Text:"Xaiv ib database ntawm OpenLP"},{
+Key:1006351,Text:"Xaiv ib database ntawm VerseView"},{
+Key:1006355,Text:"Xaiv ib nplaub tshev uas muaj zaj nkauj ntawm hom ntawv 'OpenLyrics'."},{
+Key:1006360,Text:"Xaiv ib nplaub tshev uas muaj zaj nkauj ntawm OpenSong"},{
+Key:1006365,Text:"Xaiv cov kev thov uas nkauj Psalmo exported RTF"},{
+Key:1006366,Text:"Xaiv ib cov ntaub ntawv uas muaj cov nkauj nyob rau hauv phau ntawv hom"},{
+Key:1006367,Text:"Xaiv ib database ntawm EasyWorship 2009"},{
+Key:1006368,Text:"Xaiv ib nplaub tshev uas muaj cov nkauj nyob rau hauv hom ntawv \"ChordPro\"."},{
+Key:1006369,Text:"Xaiv ib WebAsaph database"},{
+Key:1006370,Text:"Xaiv ib nplaub tshev uas muaj cov nkauj nyob rau hauv hom «CCLI."},{
+Key:1006375,Text:"Xaiv tus ntawv Vajtswv ntawm BibleDatabase"},{
+Key:1006380,Text:"Xaiv tus ntawv Vajtswv ntawm OpenLP"},{
+Key:1006385,Text:"Xaiv tus ntawv Vajtswv ntawm OpenSong"},{
+Key:1006390,Text:"Xaiv tus ntawv Vajtswv cov Unbound ntawv Vajtswv"},{
+Key:1006395,Text:"Xaiv ib cov ntawv Vajtswv Zefania"},{
+Key:1006397,Text:"Xaiv tus ntawv Vajtswv ntawm EasySlides"},{
+Key:1006398,Text:"Xaiv tus ntawv Vajtswv lub hom ntawv \"Osis\"."},{
+Key:1006399,Text:"Xaiv cov phau ntawv los ntawm ib cov ntawv Vajtswv lub hom ntawv \"USFM."},{
+Key:1006405,Text:"EasySlide database"},{
+Key:1006410,Text:"MediaShout 4 database"},{
+Key:1006411,Text:"MediaShout 3 database"},{
+Key:1006415,Text:"OpenLP database"},{
+Key:1006416,Text:"Ntawm EasyWorship 2009 database"},{
+Key:1006417,Text:"VerseView database"},{
+Key:1006420,Text:"Cov ceev '{0}'.
+muaj tsis muaj kev hu nkauj ntawm lub 'OpenLyrics' (extension xml) hom."},{
+Key:1006425,Text:"Cov ceev '{0}'.
+muaj tsis muaj OpenSong nkauj (cov zaj nkauj ntawm OpenSong cov ntaub ntawv tsis extension)."},{
+Key:1006430,Text:"Zaj nkauj ntawm Psalmo exported"},{
+Key:1006431,Text:"Nkauj ntawv hom"},{
+Key:1006432,Text:"Cov ceev '{0}'.
+muaj tsis muaj kev hu nkauj ntawm cov \"ChordPro\" (extension chopro/chordpro, crd thiab cho) hom."},{
+Key:1006433,Text:"WebAsaph database"},{
+Key:1006434,Text:"Daim nplaub tshev '{0}'.
+muaj tsis muaj nkauj hom «CCLI» (.usr extension)."},{
+Key:1006440,Text:"BibleDatabase Bibles"},{
+Key:1006445,Text:"OpenLP Bibles"},{
+Key:1006450,Text:"OpenSong Bibles"},{
+Key:1006455,Text:"Bibles ntawv Vajtswv Unbound"},{
+Key:1006460,Text:"Zefania Bibles"},{
+Key:1006462,Text:"EasySlides Bibles"},{
+Key:1006463,Text:"Bibles hom ntawv \"Osis\"."},{
+Key:1006464,Text:"Cov phau ntawv ntawm cov ntawv Vajtswv lub hom ntawv \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Kuv nyiam cov tswv 1"},{
+Key:1006506,Text:"1. Lub rtf JEM"},{
+Key:1006507,Text:"Kuv chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Kuv nyiam tus tswv"},{
+Key:1006510,Text:"MSAccess databases"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Tag nrho cov ntaub ntawv"},{
+Key:1006520,Text:"Sqlite databases"},{
+Key:1006525,Text:"Paradox database"},{
+Key:1006526,Text:"Database WebAsaph"},{
+Key:1006600,Text:"Xaiv tus VideoPsalm hauv internet qiv los yog lwm qhov chaw"},{
+Key:1006601,Text:"VideoPsalm tsev qiv ntawv hauv Internet muaj ntau collections ob hom lus"},{
+Key:1006602,Text:"VideoPsalm hauv internet (internet kev twb kev txuas tau thaum ntshuam) qiv"},{
+Key:1006603,Text:"Zaj nkauj hauv ib nrov, yuav import rau koj cov hom hard disk"},{
+Key:1006604,Text:"Xaiv tus VideoPsalm hauv internet qiv los yog lwm qhov chaw"},{
+Key:1006605,Text:"VideoPsalm tsev qiv ntawv hauv Internet muaj ntau translations ntawm cov ntawv Vajtswv lus sib txawv"},{
+Key:1006606,Text:"VideoPsalm hauv internet (internet kev twb kev txuas tau thaum ntshuam) qiv"},{
+Key:1006607,Text:"Ib tug ntawv Vajtswv nyob hauv ib nrov, yuav import rau koj cov hom hard disk"},{
+Key:1006608,Text:"Yog qhov uas koj cov nkauj hom ntawv yog dab tsi?"},{
+Key:1006609,Text:"Ntawv Vajtswv hom ntawv twg yog dab tsi?"},{
+Key:1006610,Text:"Koj yuav import rau koj VideoPsalm ib tug ntawv Vajtswv ib hom ntawv nrov nyob rau hauv koj lub PC"},{
+Key:1006611,Text:"Koj yuav import mus ua koj tus VideoPsalm nyob hauv ib zaj nkauj hom nrov nyob rau hauv koj lub PC"},{
+Key:1007000,Text:"Thaub qab"},{
+Key:1007001,Text:"Koj puas xav pib tus thaub qab ntawm VideoPsalm nyob rau hauv daim nplaub tshev
+« {0} » ?"},{
+Key:1007004,Text:"Ua tsis tau tus thaub qab nyob rau hauv daim nplaub tshev xaiv,
+vim nws nyob rau hauv daim nplaub tshev tam sim no ntawm cov ntawv VideoPsalm no
+({0})."},{
+Key:1007005,Text:"Yog tsis txaus txaus rau tsav {0}.
+Yuav tsum {1: #, #. #} MB, thiab muaj tsuas {2: #, #. #} MB muaj."},{
+Key:1007006,Text:"Yuav tsis tiav cov thaub qab:
+
+{0}"},{
+Key:1007007,Text:"Download tau lub moj khaum Microsoft .NET 4.0 Tub ntxhais tsis tau:
+
+{0}
+
+Qhov no tej zaum yuav vim hla ntawm Internet kev twb kev txuas.
+Tus thaub qab yuav nquag,
+tiam sis koj yuav tsis muajcai nruab Microsoft .NET moj khaum 4.0 Tub ntxhais los tus thaub qab."},{
+Key:1007008,Text:"tsis {0}"},{
+Key:1007009,Text:"Ceeb toom: Thaub qab yuav tsis luam
+lub teeb los ntawm lub moj khaum Microsoft .NET 4.0."},{
+Key:1007010,Text:"Tus thaub qab no kom meej."},{
+Key:1007011,Text:"Koj puas xav mus nrauj zoo rau thaub qab?"},{
+Key:1007030,Text:"Xaiv ib nplaub tshev los sis tsim all-in-ib muab ib thaub qab ntawm VideoPsalm"},{
+Key:1007031,Text:"Tus thaub qab luam koj cov ntaub ntawv (books, Bibles, duab, yeeb yaj duab, yeej) mus rau qhov chaw uas koj qhia, piv txwv li:
+-ib USB
+-kev nyuaj tsav lwm,
+-lub network nplaub tshev,
+-lwm yam.
+
+<b>Thaub qab cia koj xws li:</b>
+-luag koj cov ntaub ntawv uas lawv nyob rau nruab nrab lwm, duplicating
+-tsim ib portable version of VideoPsalm, piv txwv li hauv ib pas USB,
+-kom yooj yim hloov koj cov ntaub ntawv txog lwm tus lub computer siv restore nuj nqi,
+-los theej tawm koj cov ntaub ntawv rau ntau lub configurations ntawm collections nrog lawv yeej siv lub computer tib yam.
+
+<b>Faj seeb:</b> Mus synchronize cov ntaub ntawv ntawm VideoPsalm cov computers ntau, koj yuav xaiv tau ntau ncaj qha rau lub synchronization xws li kev pab SkyDrive los yog DropBox."},{
+Key:1007032,Text:"Xaiv cov ntaub ntawv uas koj xav pab txuag:"},{
+Key:1007033,Text:"&Collections"},{
+Key:1007034,Text:"&Cov Bibles"},{
+Key:1007035,Text:"&Dluab"},{
+Key:1007036,Text:"&Yeeb yaj duab"},{
+Key:1007037,Text:"&Tseg koj cov ntaub ntawv rau:"},{
+Key:1007038,Text:"Qhia kom meej rau nplaub tshev uas tseg cov ntaub ntawv ntawm cov VideoPsalm no tau.
+
+Piv txwv li: «E:\\Ma backup VideoPsalm.
+
+Yog hais tias lub xeev muaj lub sis tsis nyob, nws tseem tsim tau thaum tus thaub qab."},{
+Key:1007039,Text:"&Tsim ib cov ntawv thov VideoPsalm portable"},{
+Key:1007040,Text:"Ntxiv ntaub txhua executable ntawv tsim nyog rau lub lag luam ntawm VideoPsalm tus sis backup.
+
+Nws yog rau ib tug yuam USB uas koj xav tsim ib cov ntawv thov VideoPsalm portable.
+
+Thaub ib portable qab khiav VideoPsalm nyob rau lwm lwm computer, ntawm tus USB yuam, tsis muaj tus xav rau nruab VideoPsalm.
+
+Pib VideoPsalm los ntawm txoj kev yuam USB, koj yuav tau saib tag nrho cov zog ntawm VideoPsalm, nrog rau cov thaub qab. Qhov no pub los cawm VideoPsalm rau tus tsav nyuab ntawm lub lwm computer, ces tom qab khiav nws tsis muaj lub USB yuam.
+
+<b>Tseem ceeb</b>
+VideoPsalm xaiv yuav tsis ntxiv rau tus thaub qab.
+Thaum tus thawj kawm ntawm VideoPsalm muab computer, koj yuav tau kho cov kev xaiv uas VideoPsalm, cov licence piv rau lub tsev teev ntuj."},{
+Key:1007041,Text:"&Ntxiv rau qhov kev pab cuam hauv Microsoft .NET moj khaum 4.0 teeb"},{
+Key:1007042,Text:"Khiav lag luam, VideoPsalm xav qhov .NET moj khaum 4.0 los ntawm Microsoft. Newer computers feem ntau muaj tus .NET moj khaum 4.0 los nce preinstalled. Yog koj paub tsis meej tias lub .NET moj khaum 4.0 yog ntsia rau lwm lub computer, kos rau lub box \"Add teeb ntawm .NET moj khaum 4.0. VideoPsalm yuav ces tso rau tus USB lo ib daim qauv ntawm lub teeb ntawm .NET moj khaum 4.0 (ib qho kev twb kev txuas hauv internet yuav tsum no).
+
+Los ntawm tus yuam USB, koj yuav tau yooj yim nruab qhov .NET moj khaum 4.0 rau lwm lub computer ua ntej koj pib VideoPsalm. Installation ntawm .NET moj khaum 4.0 yog ceev heev thiab Updated tsis 10/22/07/f.Triplett qhov rais nquag.
+
+Koj yuav nrhiav tau lub installation ntawm .NET moj khaum 4.0 Tub ntxhais cov ntaub ntawv nyob rau hauv daim nplaub tshev backup. Cov ntaub ntawv no yog hu ua \"dotNetFx40_Full_x86_x64.exe. Pib lub installation ntawm .NET moj khaum 4.0 rau lwm lub computer, double-click tej ntaub ntawv no."},{
+Key:1007043,Text:"&Tus thaub qab pib"},{
+Key:1007044,Text:"Cov kev .NET Microsoft lub moj khaum 4.0 ces"},{
+Key:1007045,Text:"&Nplaub tshev (nplaub tshev uas yuav muab rua) VideoPsalm tej ntaub ntawv:"},{
+Key:1007046,Text:"Cia tus collections ntawm daim kev cai tswjhwm nplaub tshev ua ntej yuav txuag kuv lub"},{
+Key:1007047,Text:"Tshem collections of ntawm daim kev cai tswjhwm ceev ua ntej mus tseg kuv"},{
+Key:1007048,Text:"Cia cov Bibles ntawm daim kev cai tswjhwm tus sis ua ntej ntawd tseg kuv"},{
+Key:1007049,Text:"Tshem tawm cov Bibles hauv daim nplaub tshev teev ua ntej yuav tseg kuv"},{
+Key:1007050,Text:"Cov dluab nyob rau hauv daim nplaub tshev teev ua ntej tawm yog tseg kuv"},{
+Key:1007051,Text:"Delete dluab ntawm lub nplaub tshev teev ua ntej yuav tseg kuv"},{
+Key:1007052,Text:"Qhia rau cov yeeb yaj duab nyob rau hauv daim nplaub tshev teev ua ntej yuav tseg kuv"},{
+Key:1007053,Text:"Rho tawm cov yeeb yaj duab ntawm qhov kev cai tswjhwm sis ua ntej los tseg kuv"},{
+Key:1007054,Text:"Xaiv ib nplaub tshev los tsim ib tug muab tus thaub qab ntawm VideoPsalm"},{
+Key:1007055,Text:"Cia lub hauv daim nplaub tshev teev ua ntej yuav tseg kuv"},{
+Key:1007056,Text:"Tawm suab los sis cov teev ua ntej yuav tseg kuv"},{
+Key:1007057,Text:"&Audios"},{
+Key:1008000,Text:"Restore ib thaub qab"},{
+Key:1008001,Text:"Koj puas xav los thaub qab ib cov VideoPsalm hauv daim nplaub tshev
+« {0} » ?
+
+Xim: Nyob ntawm txoj kev uas koj tau xaiv, koj cov ntaub ntawv tam sim no yuav tsum hloov lossis deleted."},{
+Key:1008002,Text:"Thov sau cov ntawv tais ceev tseg ntawm tus thaub qab los."},{
+Key:1008004,Text:"Tsis tau los tus thaub qab hauv daim nplaub tshev uas koj tau xaiv,
+vim hais tias nws muaj nyob rau hauv daim nplaub tshev tam sim no ntawm cov ntawv VideoPsalm no."},{
+Key:1008006,Text:"Tsis tau mus ua kom tiav cov restore:
+
+{0}"},{
+Key:1008010,Text:"Lub restoration twb tau."},{
+Key:1008011,Text:"Koj puas xav mus nrauj zoo rau restoration?"},{
+Key:1008012,Text:"Restore ib thaub qab"},{
+Key:1008032,Text:"Xaiv cov ntaub ntawv uas koj xav tau los:"},{
+Key:1008033,Text:"&Collections"},{
+Key:1008034,Text:"&Cov Bibles"},{
+Key:1008035,Text:"&Dluab"},{
+Key:1008036,Text:"&Yeeb yaj duab"},{
+Key:1008043,Text:"&Restore"},{
+Key:1008044,Text:"Cia kuv collections ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008045,Text:"Rho tawm kuv collections ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008046,Text:"Cia kuv Bibles ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008047,Text:"Rho tawm kuv Bibles ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008048,Text:"Cia kuv dluab ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008049,Text:"Rho tawm kuv cov dluab ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008050,Text:"Cia kuv cov yeeb yaj duab ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008051,Text:"Rho tawm kuv cov yeeb yaj duab ua ntej es ua kom cov ntawm thaub qab"},{
+Key:1008052,Text:"&Restore thaub qab ib tug los ntawm:"},{
+Key:1008053,Text:"Ntawm no qhia rau nplaub tshev uas los ntawm cov ntaub ntawv ntawm VideoPsalm yuav tsum huv.
+
+Piv txwv li: 'E:\\VideoPsalm'."},{
+Key:1008054,Text:"&Nplaub tshev (tus ceev uas tus thaub qab yuav tsum huv) VideoPsalm tej ntaub ntawv:"},{
+Key:1008055,Text:"Ua tshiab"},{
+Key:1008056,Text:"Xaiv ib nplaub tshev uas muaj ib thaub qab ntawm VideoPsalm"},{
+Key:1008057,Text:"&Audios"},{
+Key:1008058,Text:"Cia kuv audios ua ntej es ua kom cov los thaub qab"},{
+Key:1008059,Text:"Rho tawm kuv lub suab ua ntej es ua kom cov los thaub qab"},{
+Key:1008999,Text:"Video projector"},{
+Key:1009000,Text:"ib zaj kwv txhiaj"},{
+Key:1009001,Text:"{0} zaj nkauj"},{
+Key:1009002,Text:"ib daim ntawv teev verses"},{
+Key:1009003,Text:"{0} npe ntawm verses"},{
+Key:1009004,Text:"tus duab"},{
+Key:1009005,Text:"cov dluab {0}"},{
+Key:1009006,Text:"Ntawv Vajtswv '{0}'."},{
+Key:1009007,Text:"Tshooj {0}"},{
+Key:1009009,Text:"{0} Bibles"},{
+Key:1009010,Text:"Duab '{0}'."},{
+Key:1009011,Text:"{0} ({1} dluab)"},{
+Key:1009012,Text:"cov dluab {0}"},{
+Key:1009013,Text:"{0} ({1} slides)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Loading lub neej ntawd style"},{
+Key:1009016,Text:"Chaw thau khoom ntawm cov style ntawm lub collections"},{
+Key:1009017,Text:"Chaw thau khoom ntawm tus sau los '{0}'."},{
+Key:1009018,Text:"Chaw thau khoom ntawm cov style ntawm cov Bibles"},{
+Key:1009019,Text:"Chaw thau khoom ntawm tus ntawv Vajtswv '{0}'."},{
+Key:1009020,Text:"Cov ntaub ntawv: {0}"},{
+Key:1009100,Text:"{0} ({1} nkauj)"},{
+Key:1009101,Text:"{0} (hluas nkauj)"},{
+Key:1009102,Text:"{0} (tsis vocals)"},{
+Key:1009103,Text:"Twb yog muaj ntaub ntawv '{0}'.
+uas VideoPsalm yuav txuag lub phau tshiab '{1}'.
+
+Yog nws tsis tseg no tus sau tshiab.
+Muab ib tug tsiaj ntawv los yog cim npe no tus sau tshiab thiab sim txuag dua."},{
+Key:1009104,Text:"Rau npe ua tsis tau tejyam"},{
+Key:1009105,Text:"Tsis tau tsiv mus nyob hauv cov ntaub ntawv
+{0}
+cua nab
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} Collections"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} verses)"},{
+Key:1009111,Text:"Yees duab '{0}'."},{
+Key:1009112,Text:"{0} (yeeb yaj {1} duab)"},{
+Key:1009113,Text:"yeeb yaj duab {0}"},{
+Key:1009114,Text:"Tsis txuag tus sau.
+Lub npe tus sau tau mus cawm nws."},{
+Key:1010000,Text:"Saib ntau xim"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Kaw"},{
+Key:1010003,Text:"&Pob tshab"},{
+Key:1010004,Text:"Ncua tseg"},{
+Key:1010005,Text:"ua li"},{
+Key:1010006,Text:"Tso saib kom tsawg dua cov xim"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Kaw tsis inserting teb"},{
+Key:1011001,Text:"Hais txog qhov sau los ua"},{
+Key:1011002,Text:"Cai"},{
+Key:1011003,Text:"Sau zaj kwv txhiaj"},{
+Key:1011004,Text:"Sau rau ntawm qhov sau los ua"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Qhov tseem ceeb"},{
+Key:1011007,Text:"Composer"},{
+Key:1011008,Text:"Cov Copyright ntawm zaj kwv txhiaj"},{
+Key:1011009,Text:"Cov Copyright ntawm phau ntawv"},{
+Key:1011010,Text:"Daim ntawv lo ntawm tus nqe"},{
+Key:1011011,Text:"Daim ntawv lo thiab cov nqe zauv"},{
+Key:1011012,Text:"Hom"},{
+Key:1011013,Text:"Licence ntawm lub tsev teev ntuj"},{
+Key:1011014,Text:"Tseem ceeb leej"},{
+Key:1011015,Text:"1 Memo no"},{
+Key:1011016,Text:"Memo no 2"},{
+Key:1011017,Text:"3 Memo no"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Txoj hauj lwm ntawm tus nqe"},{
+Key:1011020,Text:"Tus nqe tsis tau."},{
+Key:1011021,Text:"Hu qhua neeb tsis tau."},{
+Key:1011022,Text:"Kev ceeb toom ntawm tus nqe"},{
+Key:1011023,Text:"Ntau zaj nkauj ntawm qhov sau los ua"},{
+Key:1011024,Text:"Xov tooj ntawm stanzas"},{
+Key:1011025,Text:"Siv"},{
+Key:1011026,Text:"Sib lawv liag ntawm stanzas"},{
+Key:1011027,Text:"Kos npe"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Ntsiab"},{
+Key:1011030,Text:"Npe ntawm zaj kwv txhiaj"},{
+Key:1011031,Text:"Npe ntawm phau ntawv"},{
+Key:1011032,Text:"Laus"},{
+Key:1011033,Text:"3. Tshem tag nrho cov teb"},{
+Key:1011034,Text:"2. Siv tej liaj teb txheem"},{
+Key:1011035,Text:"Khiav"},{
+Key:1011036,Text:"Hais lus"},{
+Key:1011037,Text:"Editor"},{
+Key:1011038,Text:"Transposition"},{
+Key:1011101,Text:"Hais txog cov ntawv Vajtswv"},{
+Key:1011102,Text:"Hais txog phau ntawv"},{
+Key:1011103,Text:"Tshooj"},{
+Key:1011104,Text:"Cov Copyright ntawm tus ntawv Vajtswv"},{
+Key:1011105,Text:"Nqe lus piav txog cov ntawv Vajtswv"},{
+Key:1011107,Text:"Editor"},{
+Key:1011108,Text:"Hais lus"},{
+Key:1011109,Text:"Lub npe ntawm daim ntawv Vajtswv"},{
+Key:1011110,Text:"Lub npe ntawm phau ntawv"},{
+Key:1011111,Text:"Cov tshooj ntawm phau ntawv"},{
+Key:1011112,Text:"Pes tsawg tus verses ntawm Tshooj"},{
+Key:1011113,Text:"Phau Testament"},{
+Key:1011114,Text:"Nqe"},{
+Key:1011115,Text:"Neeg khiav dej num ntawm daim ntawv Vajtswv"},{
+Key:1011200,Text:"&Ntxig teb:"},{
+Key:1011201,Text:"Format displayed header los footer strophe los nqe cov ntawv nyeem"},{
+Key:1011202,Text:"Sau cov ntawv nyeem los tso saib.
+Cov ntawv no yog pub dawb thiab feem ntau muaj hauv predefined teb.
+
+Piv txwv predefined teb rau ib zaj kwv txhiaj:
+-lub npe ntawm zaj kwv txhiaj: <b>[nkauj npe]</b>
+-cov zaj kwv txhiaj: <b>[nkauj No.]</b>
+-lub npe ntawm phau ntawv: <b>[npe uas tus sau]</b>
+-hais rau tus sau: <b>[hais txog qhov sau los ua]</b>
+-lwm yam.
+
+Rau ib nqe:
+-phau ntawv lub npe: <b>[phau ntawv npe]</b>
+-Hmong Translation Tshooj: <b>[Chapter]</b>
+-tus nqe: <b>[nqe]</b>
+tag nro-siv:
+  <b>[Phau ntawv npe] [Chapter]: [nqe]</b>
+-cov ntawv Vajtswv lub npe: <b>[npe ntawm cov ntawv Vajtswv]</b>
+-lwm yam.
+
+Thaum lub sij hawm uas cov video projection, tau VideoPsalm ntau xyoo tom teb predefined los ntawm lawv tus nqi. 
+
+Yuav tsum muab surrounded predefined teb raws cov nkhaus square <b>[]</b>. Lawv yuav tsum tau nkag tsis fail thiab soj ntsuam cov uppercase thiab lowercase.
+
+<b>Kom yooj yim ntxig teb predefined, siv scrolling daim ntawv hauv qab no yus 'ntxig teb'.</b>
+
+Cov hom ntawv tej zaum yuav txhaj cov kab ntau.
+
+Los nws yeej tus nqi hom, tshem nws tag (rho Ctrl + A, tawm)."},{
+Key:1011203,Text:"Ib daim ntawv teev predefined teb"},{
+Key:1011204,Text:"Yuav ntxig teb predefined, xaiv nws nyob rau hauv daim ntawv.
+
+Teb yuav tau muab tso nyob rau hauv cov ntawv nyeem hais saum no, lub thawv nyob rau kis zoo."},{
+Key:1012000,Text:"Tshwm cov ntaub ntawv '{0}' twb sim.
+
+Koj puas xav hloov tau nws?"},{
+Key:1012001,Text:"Cov ntaub ntawv uas twb muaj lawm"},{
+Key:1013000,Text:"Nraim kev saib ua ntej"},{
+Key:1013001,Text:"Tso saib tus saib ua ntej"},{
+Key:1013002,Text:"Ntug proportionally teb qhov screen"},{
+Key:1013003,Text:"Txhob mus zaub tag nrho"},{
+Key:1013004,Text:"Lov tes taw cov repetition"},{
+Key:1013005,Text:"Qhib cov rov tso"},{
+Key:1013006,Text:"Pib thaum pib"},{
+Key:1013007,Text:"Muab ncua tseg"},{
+Key:1013008,Text:"Nyeem"},{
+Key:1013009,Text:"Mus kom kawg"},{
+Key:1013010,Text:"Suab"},{
+Key:1013011,Text:"Mute"},{
+Key:1013012,Text:"Ntim"},{
+Key:1013013,Text:"Kev tshawb"},{
+Key:1013014,Text:"Tas txhais rau yus lub yees duab"},{
+Key:1013015,Text:"Txhais kom meej rau ib thaj tsam ntawm kev yees duab rau txhua zaj paj huam"},{
+Key:1013016,Text:"Elapsed sij hawm"},{
+Key:1013017,Text:"Tag nrho cov sij hawm"},{
+Key:1013018,Text:"Lub sij hawm uas tej zaum yuav raug"},{
+Key:1013019,Text:"Nyem qhov tsiv mus nyob rau qhov nqi tom ntej"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"feeb"},{
+Key:1018003,Text:"feeb"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"lub sij hawm"},{
+Key:1018006,Text:"teev"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"ib hnub"},{
+Key:1018009,Text:"hnub"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"lub lim tiam"},{
+Key:1018012,Text:"asthiv"},{
+Key:1018013,Text:"lub hli"},{
+Key:1018014,Text:"lub hli"},{
+Key:1018015,Text:"xyoo"},{
+Key:1018016,Text:"xyoo"},{
+Key:1019000,Text:"Kaw"},{
+Key:1019001,Text:"Txo"},{
+Key:1019002,Text:"Ntug"},{
+Key:1019003,Text:"Cov theem sab"},{
+Key:1019004,Text:"Pab"},{
+Key:1019100,Text:"&Nrhiav"},{
+Key:1019101,Text:"&Rho tawm"},{
+Key:1019301,Text:"&ua li"},{
+Key:1019302,Text:"&Ncua tseg"},{
+Key:1019303,Text:"&Yog"},{
+Key:1019304,Text:"&Tsis yog"},{
+Key:1019305,Text:"&Tso tseg"},{
+Key:1019306,Text:"&Retry"},{
+Key:1019307,Text:"&Las mees"},{
+Key:1019308,Text:"&Ncua tseg"},{
+Key:1019309,Text:"&Hlais"},{
+Key:1019310,Text:"&Daim ntawv"},{
+Key:1019311,Text:"&Muab tshuaj txhuam"},{
+Key:1019312,Text:"&Rho tawm"},{
+Key:1019313,Text:"&Xaiv tag nrho"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Khiav dim"},{
+Key:1020002,Text:"Leviticus"},{
+Key:1020003,Text:"Zauv"},{
+Key:1020004,Text:"Kev cai"},{
+Key:1020005,Text:"Yauxuas thiaj li"},{
+Key:1020006,Text:"Txwj laus"},{
+Key:1020007,Text:"Luv ua poj niam"},{
+Key:1020008,Text:"1 Xa-muyees"},{
+Key:1020009,Text:"2 Xa-muyees"},{
+Key:1020010,Text:"1 Vaj"},{
+Key:1020011,Text:"2 Tus vaj"},{
+Key:1020012,Text:"1 Keeb kwm"},{
+Key:1020013,Text:"2 Cov keeb kwm"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Neha-mis"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Txoj hauj lwm"},{
+Key:1020018,Text:"Nkauj"},{
+Key:1020019,Text:"Paj lug"},{
+Key:1020020,Text:"Ecclesiastes"},{
+Key:1020021,Text:"Zaj kwv txhiaj rau zaj nkauj"},{
+Key:1020022,Text:"Yaxayas"},{
+Key:1020023,Text:"Yele-mis qhuab"},{
+Key:1020024,Text:"Lamentations ntawm Yele-mis qhuab"},{
+Key:1020025,Text:"Ezekiel"},{
+Key:1020026,Text:"Danias"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"A-maus"},{
+Key:1020030,Text:"Obadiah"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MAIKHAS"},{
+Key:1020033,Text:"Nahus tus tub"},{
+Key:1020034,Text:"Hanpakus"},{
+Key:1020035,Text:"Pov"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Zechariah"},{
+Key:1020038,Text:"Zag lus rau Malakhis"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Cov kev ua rau cov leeg thwj tim"},{
+Key:1020044,Text:"Loos"},{
+Key:1020045,Text:"1 Corinthians"},{
+Key:1020046,Text:"2 Corinthians"},{
+Key:1020047,Text:"Galatians"},{
+Key:1020048,Text:"Ephesians"},{
+Key:1020049,Text:"Philippians"},{
+Key:1020050,Text:"Colossians"},{
+Key:1020051,Text:"1 Thexataunikas"},{
+Key:1020052,Text:"2 Thexataunikas"},{
+Key:1020053,Text:"1 Timothy"},{
+Key:1020054,Text:"2 Timothy"},{
+Key:1020055,Text:"Ntu nruab nrab"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"Hebrews"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Petus"},{
+Key:1020060,Text:"2 Petus"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Yudas"},{
+Key:1020065,Text:"Apocalypse"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Puas"},{
+Key:1020116,Text:"Yog"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"EC"},{
+Key:1020121,Text:"I"},{
+Key:1020122,Text:"LAWV"},{
+Key:1020123,Text:"❏ Jr ❏"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"TUAM"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"AM"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NAJ"},{
+Key:1020134,Text:"HIS"},{
+Key:1020135,Text:"Li ntawd"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"Mt"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"Jn"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"QAUV"},{
+Key:1020149,Text:"Ph"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Haiv neeg"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Nws"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

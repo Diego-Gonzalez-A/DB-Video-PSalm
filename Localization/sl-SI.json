@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Slovenian (Slovenia)"},{
+Key:1000000,Text:"Prevajanje"},{
+Key:1000001,Text:"ne."},{
+Key:1000003,Text:"&Dodaj..."},{
+Key:1000004,Text:"Dodajte enega ali več jezikov VideoPsalm"},{
+Key:1000006,Text:"&Pošlji"},{
+Key:1000007,Text:"Pošlji nalepke po e-pošti, VideoPsalm v naslednji Setup"},{
+Key:1000009,Text:"&Uporablja"},{
+Key:1000011,Text:"&Shrani"},{
+Key:1000012,Text:"Uporablja jezik, ki je izbrana v VideoPsalm. Vnaprej so samodejno shranjene spremembe."},{
+Key:1000013,Text:"Shraniti spremembe oznak"},{
+Key:1000015,Text:"&Izbrisati"},{
+Key:1000016,Text:"VideoPsalm izbrisati izbrani jezik in vse njegove oznake"},{
+Key:1000022,Text:"&{0} glasijo:"},{
+Key:1000024,Text:"&Jeziki:"},{
+Key:1000029,Text:"Založbe"},{
+Key:1000030,Text:"Oznake so se spremenile.
+
+Ali želite shraniti te spremembe?"},{
+Key:1000031,Text:"Odstrani jezik"},{
+Key:1000032,Text:"Ali res želite izbrisati {0} jezik VideoPsalm?
+
+Ta operacija bo izbrisati vsa besedila tega jezika in je nepovraten."},{
+Key:1000035,Text:"VideoPsalm prihaja ustvariti stisnjenih datotek s pripono .zip
+ki vsebujejo oznake v njihovi ustrezni jezikovni.
+Ustrezno datoteko priložite e-pošto, da pops up, potem post to email videopsalm@gmail.com."},{
+Key:1000036,Text:"Pošlji email oznake"},{
+Key:1000037,Text:"<b>v oknu \"Prevod\", lahko urejate besedil, ki se pojavljajo v oblikah VideoPsalm.</b>
+To vam omogoča, da prevesti, prilagodijo ali celo popravi vse besedilo vmesnik VideoPsalm, v VideoPsalm.
+
+<i>Če ta komponenta zavzame preveč prostora, zmanjšati s klikom na gumb majhno znižanje, ki se nahajajo v zgornjem levem, ali spremenite velikost z miško z vodoravno ločilo.</i>
+
+VideoPsalm je na voljo v več jezikih. VideoPsalm jeziki so navedene v Panel pod levi z naslovom \"jeziki\".
+Če je vaš jezik ni na tem seznamu, lahko tukaj, tolmačiti VideoPsalm v vaš jezik. Upoštevajte, da bo verjetno nekaj ur dela.
+
+Tukaj je, kako so VideoPsalm v vašem jeziku:
+
+-Dodati jezik na seznam tako, da izberete med tistimi našli preko gumb \"Dodaj <image=add2_16>\".
+-V tabeli spodaj desno, VideoPsalm prikaže oznake preveriti jezikov.
+-Tolmačiti oznake v vašem jeziku.
+
+V tabeli, lahko urejate oznake na vaš prosti čas, kot v Excelovo preglednico.
+Tabela ponuja iskalno polje. Tako za prikaz samo oznak, ki vsebuje določene besede, vnesite te besede v iskalno polje in nato kliknite na gumb \"Išči\".
+Uporabite lahko tudi območju filtra, ki se nahaja pod vsako glavo jezik za filtriranje oznake jezik, ki vsebuje nekaj posebnih besed.
+
+Olajša delo, izberite eno ali več drugih jezikih, ki ste vedeli, da se bolje razumeti pomen vsake nalepke in lahko preberete v več jezikov hkrati.
+Preverite komentarje, saj omogočajo boljše razumevanje pomen nekaterih oznak in kjer se uporabljajo.
+
+<b>Opomba:</b> Je najbolje, da pustite komentarje v angleščini, ker veliko ljudi razume angleško.
+
+Če želite videti rezultat prevajanja dela:
+-Izberite vaš jezik v jezikih plošči s klikom
+   nato
+-Kliknite na gumb \"Uporabi\" (spodaj).
+
+VideoPsalm bo prikazana v jeziku, ki ste ga izbrali.
+
+Ne pozabite, da shranite svoje delo iz prevajanje s klikom na gumb »Shrani <image=disk_blue>.
+Ko shranite nov jezik, lahko izberete v oknu možnosti.
+
+Prosimo, pošljite nam vaše prevode ali popravki po elektronski pošti na <b>videopsalm@gmail.com</b> s klikom na gumb \"Pošlji <image=mail_16>\".
+Ko kliknete ta gumb, se zgodi dvoje:
+1. Vaš email varovanec samodejno odpre, na primer Outlook.
+2. Raziskovalec mapo odpre VideoPsalm dajo stisnjenih datotek s pripono .zip, imenovan jezikov.
+
+Povlecite in spustite primeren pila v email in post, tako da bomo lahko vključi v prihodnji različici VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Kako tolmačiti VideoPsalm v vaš jezik?"},{
+Key:1000039,Text:"Jeziki, v katere je prevedena VideoPsalm. Izberite jezike, ki jih želite prikazati oznake v tabeli. Dodati jezik na seznam, kliknite na gumb \"Dodaj\"."},{
+Key:1001000,Text:"Dodajanje jezikov"},{
+Key:1001001,Text:"&Jeziki:"},{
+Key:1001002,Text:"Izberite jezik dodati"},{
+Key:1001003,Text:"&Dodaj"},{
+Key:1001004,Text:"Prekliči"},{
+Key:1001005,Text:"Pomoč (F1)"},{
+Key:1002000,Text:"Možnosti"},{
+Key:1002003,Text:"&Splošno"},{
+Key:1002004,Text:"&Prikaz"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Zbirke"},{
+Key:1002015,Text:"&Biblije"},{
+Key:1002103,Text:"&Jezik:"},{
+Key:1002105,Text:"&VideoPsalm listina zgibalnik:"},{
+Key:1002106,Text:"Izberite mapo dokumenti VideoPsalm:"},{
+Key:1002112,Text:"&Shranite spremembe biblical verzov (besedilo in slog)"},{
+Key:1002202,Text:"&Nadomestiti navajati « <size=+4>' »francoski kotacijam « <size=+4>' »</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Uporabijo francoski pravila, Tipografija"},{
+Key:1002204,Text:"&V pesmi, zamenjati vezaje s nedeljive vezaje"},{
+Key:1002205,Text:"&V biblical verzov, zamenjati vezaje s nedeljive vezaje"},{
+Key:1002304,Text:"&Postane način:"},{
+Key:1002306,Text:"Standard"},{
+Key:1002307,Text:"Izboljšana"},{
+Key:1002502,Text:"&Uporablja"},{
+Key:1002503,Text:"Shranite spremembe in obdržati okna odprta"},{
+Key:1002504,Text:"v redu"},{
+Key:1002505,Text:"Shranite spremembe in zaprite okno"},{
+Key:1002508,Text:"Zaprite okno brez shranjevanja sprememb"},{
+Key:1002510,Text:"&Licenca je cerkve:"},{
+Key:1002513,Text:"Izbirno besedilo, ki ga vnesete tukaj, se lahko samodejno prikazana v glavo ali nogo diapozitiv.
+
+Na primer, lahko tukaj določite številko dovoljenja CILC vaše cerkve."},{
+Key:1002516,Text:"&Polja glave:"},{
+Key:1002517,Text:"&Polja v v subfooter:"},{
+Key:1002531,Text:"Če želite spremeniti pisavo, ki je prikazana VideoPsalm.
+
+Standardne pisave:
+- <b>Tahoma</b> za Windows XP
+- <b>Segoe UI</b> za Windows Vista, Windows 7 in Windows 8
+
+Standardne velikosti: 8,25"},{
+Key:1002532,Text:"Je treba ponovno VideoPsalm za spremembo politike treba upoštevati v celoti."},{
+Key:1002533,Text:"Če je to polje potrjeno, bo VideoPsalm nadomestil ravne opuščaje s francosko opuščaj, ki je vejico v višino v diapozitive.
+
+Pri vnašanju besedila pesmi v urejevalniku, vam priporočamo, da uporabite znak, da boste zlahka našli na tipkovnici, ponavadi ravno apostrophe."},{
+Key:1002534,Text:"Če je to polje potrjeno, VideoPsalm preuredi v diapozitiv razmik nekateri znaki ločil v skladu s francosko tipografija.
+
+Na primer, če pesem vsebuje naslednje besede: <b>gospod!</b>
+
+VideoPsalm zaslona: <b>gospod!</b>
+
+Tukaj je ločila, ki uživajo posebne obravnave:
+<b>: ; ! ? »</b><i>VideoPsalm kraj nedeljiv presledek pred in presledek.</i><b>«</b><i>VideoPsalm kraj, prostor pred in nedeljiv presledek.</i>
+
+VideoPsalm organizira ne razmik med drugimi znaki ločil.
+
+Ko vnesete besede z novo skladbo, vam priporočamo, da sledite tradicionalna pravila, Tipografija, tj držijo ločila na besede, ki jih zadevajo. Na ta način, boste lahko izpolnjujejo francoskih Tipografija prikaz z trinitnik to polje ali pravil o vaši državi ne izberete to potrditveno polje.
+
+<b>Opomba:</b> Je možno, da francoski Tipografija pravila ne veljajo v vaši državi, tudi če jezik je francoščina, na primer v frankofonski Afrike, Belgije, v Quebec ali v Švici.
+
+Celoten napotitev na presledke in ločila od francoske Tipografija, si oglejte <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, stran 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Pisava:"},{
+Key:1002536,Text:"&Velikost:"},{
+Key:1002539,Text:"Če je to polje potrjeno, VideoPsalm vas, obvestim med svoj začetek obstoja nove funkcije programa ali novice o:
+-zbirk
+-Biblije,
+- in VideoPsalm jezikov.
+
+Nove zbirke, Biblije v nove jezike in nove jezike za VideoPsalm, se včasih dodajajo spletna knjižnica VideoPsalm.
+
+Ko se to zgodi, dodajte v nekaj klikov te nove dokumente za namestitev prek čarovnika za uvoz."},{
+Key:1002540,Text:"Če je to polje potrjeno, zahteva VideoPsalm besede, povezane z vezajem ostati v isti vrstici v diapozitive.
+
+Privzeta vrednost besedila pesmi: <b>preveri</b>"},{
+Key:1002541,Text:"Če je to polje potrjeno, zahteva VideoPsalm besede, povezane z vezajem ostati v isti vrstici v diapozitive.
+
+Privzeta vrednost za Biblije verzov: <b>Nepreverjeni</b>"},{
+Key:1002542,Text:"Če je to polje potrjeno, VideoPsalm vam omogoča, da shranite vse spremembe, ki ste jih naredili verzov Biblije (besedilo in slog).
+
+Če to polje ni potrjeno:
+
+<b>1.</b> ko zaprete VideoPsalm, to ne bo obveščal to življati been sprememba vaš Biblije,
+
+<b>2</b> ko shranite spremembe, VideoPsalm ne shraniti spremembe Biblije (besedilo in slog),
+
+<b>3</b> boste našli nepoškodovane Biblije pri naslednjem zagonu VideoPsalm."},{
+Key:1002543,Text:"Izberite jezik, v katerem želite, da VideoPsalm je prikazano tukaj.
+
+Če vaš jezik ni na seznamu, morda je na voljo v knjižnici VideoPsalm online prek čarovnika za uvoz.
+
+Če VideoPsalm ne obstaja v vašem jeziku, prosimo, da nas obvestite po elektronski pošti na videopsalm@gmail.com
+
+Alternativno, lahko pomagate prevesti besedila VideoPsalm v vašem jeziku prek VideoPsalm prevod orodje ali popravite vse napake.
+
+Začetek orodje za prevajanje VideoPsalm z gumbom \"Prevesti VideoPsalm\"."},{
+Key:1002544,Text:"Izberite mapo, iz katere VideoPsalm obremenitev njegove knjige, Biblije, slike in video posnetke tukaj.
+
+Ko spremenite mapo, VideoPsalm Osveži zbirk, Biblije, slike in videoposnetke s tistimi nove mape.
+
+<b>Pozor</b> : pred spreminjanjem mape, preverjanje, da shranite spremembe."},{
+Key:1002545,Text:"Če želite spremeniti pisavo, ki je prikazana VideoPsalm.
+
+Standardne velikosti: 8,25
+
+Spremenite lahko tudi velikost pisave prek možnosti Windows: Nadzorna plošča -&gt; prikaz-> berljivost na zaslonu."},{
+Key:1002547,Text:"&Prevajanje VideoPsalm"},{
+Key:1002548,Text:"Odpre orodje, s katerim lahko tolmačiti VideoPsalm v vaš jezik ali popravite vse napake črkovanja."},{
+Key:1002549,Text:"Ste spremenili mapo od kjer VideoPsalm bo obremenitev svojih dokumentov.
+VideoPsalm bo raztovoriti trenutne dokumente in nato prenesete te nove mape.
+To lahko traja nekaj sekund.{0}
+
+Ali res želite spremeniti mapo dokumenta?"},{
+Key:1002550,Text:"Obstajajo neshranjene spremembe (zbirk, Biblije ali koledar).
+Če potrdite operacijo zapisa, bodo te spremembe izgubljene."},{
+Key:1002551,Text:"Spreminjanjem mape za dokumente"},{
+Key:1002552,Text:"&Dnevni red"},{
+Key:1002553,Text:"Privzeti vzorci:"},{
+Key:1002554,Text:"&pesmi:"},{
+Key:1002555,Text:"&Biblija verz:"},{
+Key:1002556,Text:"&Slideshow slik:"},{
+Key:1002557,Text:"&avtonomne videos:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Časovna omejitev privzeto samodejno vnaprej:"},{
+Key:1002560,Text:"sekund"},{
+Key:1002561,Text:"&Dodati jezik"},{
+Key:1002562,Text:"Odpre čarovnika za uvoz od jezikov, v katere je prevedena VideoPsalm, od kjer lahko dodate nove jezike za vaš VideoPsalm."},{
+Key:1002580,Text:"Privzeti potek besedila po pesem"},{
+Key:1002581,Text:"Določa privzeti potek besedila po zadnji verz iz pesmi.
+
+Ta vrednost je tudi upoštevati za pesmi, da prikažete spontano brez dnevnega reda.
+V koledarju, lahko spremenite to vrednost za vsako pesem."},{
+Key:1002582,Text:"Privzeti potek besedila po Biblija verzov"},{
+Key:1002583,Text:"Določa privzeti potek besedila po zadnji verz svetopisemski odlomek.
+
+Ta vrednost je tudi upošteva v svetopisemskih odlomkov, da prikažete spontano brez dnevnega reda.
+V koledarju, lahko spremenite to vrednost za vsako odlomka Svetega pisma."},{
+Key:1002584,Text:"Privzeti potek besedila po sliko slideshow"},{
+Key:1002585,Text:"Določa privzeti potek besedila po sliko slideshow.
+
+V koledarju, lahko spremenite to vrednost za vsako sliko."},{
+Key:1002586,Text:"Privzeti potek besedila po video samostojna"},{
+Key:1002587,Text:"Določa privzeti potek besedila po video samostojno.
+
+V koledarju, lahko spremenite to vrednost za vsak samostojni video."},{
+Key:1002588,Text:"Privzeti potek besedila po PowerPoint"},{
+Key:1002589,Text:"Določa privzeti potek besedila po PowerPoint.
+
+V koledarju, lahko spremenite to vrednost za vsako PowerPoint."},{
+Key:1002590,Text:"Določa interval privzetega čas v sekundah pred samodejni preklop na naslednji diapozitiv.
+
+V koledarju, lahko spremenite to vrednost za vsak element, ki teče samodejno."},{
+Key:1002591,Text:"&Shranjevanje slike za ozadje v dnevnem redu (priporočeno)"},{
+Key:1002592,Text:"Shranjevanje slike za ozadje v agendi"},{
+Key:1002593,Text:"Označuje, ali naj VideoPsalm shranjevanje vseh ozadju slike pesmi in svetopisemskih v verzih agende datoteke, ko ga shranite."},{
+Key:1002594,Text:"&Trgovina ozadje televizija (priporočeno) dnevni red"},{
+Key:1002595,Text:"Trgovina ozadje televizija v agendi"},{
+Key:1002596,Text:"Označuje, ali naj VideoPsalm trgovina poljuben televizija ozadje pesmi in svetopisemskih v agendi datoteko verzov, ko ga shranite."},{
+Key:1002597,Text:"&Trgovina slideshow slik (priporočljivo) dnevni red"},{
+Key:1002598,Text:"Shranjevanje slik diaprojekcije v agendi"},{
+Key:1002599,Text:"Označuje, ali VideoPsalm shranjujte mogoče slike slideshow v datoteki koledar, ko ga shranite."},{
+Key:1002600,Text:"&Shranjevanje dnevnem samostojni video posnetke (priporočeno)"},{
+Key:1002601,Text:"Trgovina avtonomne televizija v agendi"},{
+Key:1002602,Text:"Označuje, ali naj shranite VideoPsalm vse avtonomne v agendi datoteke videi, ko ga shranite."},{
+Key:1002603,Text:"&Trgovina PowerPoints agenda (priporočeno)"},{
+Key:1002604,Text:"Trgovina PowerPoints v agendi"},{
+Key:1002605,Text:"Označuje, ali VideoPsalm shranjujte vse PowerPoints v datoteki koledar, ko ga shranite."},{
+Key:1002606,Text:"Priporočamo, da izberete to možnost, še posebej, če ste pripravili vaš dnevni red na drugem računalniku, kot je tista, na kateri hoteti izložba vaš predstavitev."},{
+Key:1002607,Text:"&Urednik"},{
+Key:1002608,Text:"&Pisava:"},{
+Key:1002609,Text:"Določa pisave, v katerem urejate besedil pesmi in verzi iz Svetega pisma.
+
+Predvsem Ta pisava se ne uporablja za prikaz besedila na zaslonu."},{
+Key:1002610,Text:"&Velikost besedila:"},{
+Key:1002611,Text:"Določa velikost pisave, v katerem urejate besedil pesmi in verzi iz Svetega pisma.
+
+Ta velikost pisave ni posebej uporablja za prikaz besedila na zaslonu."},{
+Key:1002612,Text:"&Pisava sporazumov:"},{
+Key:1002613,Text:"Določa pisave, v katerem urejate sporazumov pesem.
+
+Ta pisava ne posebej namenjen prikazovanju sporazumov na zaslonu predstavitev."},{
+Key:1002614,Text:"&Velikost besedila sporazumov:"},{
+Key:1002615,Text:"Določa velikost pisave sporazumov pesem v urejevalniku besedila.
+
+Ta velikost pisave ni posebej namenjen prikazovanju sporazumov na zaslonu predstavitev."},{
+Key:1002616,Text:"&Barva sporazumov:"},{
+Key:1002617,Text:"Določa barvo, v kateri so prikazani sporazumi v urejevalniku besedila.
+
+Predvsem, ta barva se ne uporablja za prikaz sporazumov na zaslonu predstavitev."},{
+Key:1002618,Text:"&Nedeljivi bele barve:"},{
+Key:1002619,Text:"Določa barvo v kateri zlom White so prikazani v urejevalniku besedila."},{
+Key:1002620,Text:"&Barva oznake kitice:"},{
+Key:1002621,Text:"Določa barvo, kjer so označene oznake kitice v urejevalniku besedila."},{
+Key:1002622,Text:"&Preglednost tags kitice:"},{
+Key:1002623,Text:"Določa preglednost barve, v katerih so poudarjeni tags kitice v urejevalniku besedila."},{
+Key:1002624,Text:"&Barva ChordPro sporazumov:"},{
+Key:1002625,Text:"Določa barvo, v katerem so poudarjeni ChordPro sporazumov v tekstovnem načinu ChordPro urednik."},{
+Key:1002626,Text:"&Preglednost ChordPro sporazumov:"},{
+Key:1002627,Text:"Določa preglednost barve, v katerih sporazumi so poudarjeni ChordPro v tekstovnem načinu ChordPro urednik."},{
+Key:1002628,Text:"&Nadomestne pisave (priporočeno)"},{
+Key:1002629,Text:"Omogoča besedilo urednik preglasiti manjkajoče znake v trenutnega pisavo tisti drugo pisavo.
+
+Onesposobiti nadomestne znake, če uporabljate ne-Unicode pisavo, ki deluje za prečrkovanje.
+To velja za nekatere Hindi, Tamil, Bamati, Malayalam pisave, itd.
+
+Upoštevajte, da je bolje uporabiti pisave Unicode.
+Pretvorite vaše pesmi, pripravljeni v Unicode besedilo, uporabite online spreobračevalec, na primer tukaj: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Omogoči dostop do poenostavljenega, združljiv s pismo RTL tekst urednik"},{
+Key:1002631,Text:"Prikaže dodaten gumb na levi strani orodne vrstice tekst urednik, ki omogoča dostop do način poenostavil urejanje besedila pesmi.
+
+Ta poenostavljen urednik je združljiv s pisanjem z desne na levo (RTL), zlasti za arabščino in hebrejščino."},{
+Key:1002632,Text:"Izberite metodo televizija vračanje, ki najbolje deluje za vaš PC. VideoPsalm lahko prikažete televizija v wmv na večini računalnikov zapisa."},{
+Key:1002633,Text:"&Obvestila"},{
+Key:1002634,Text:"Ob zagonu, obvesti, če obstaja:"},{
+Key:1002635,Text:"&Nova različica VideoPsalm (priporočeno)"},{
+Key:1002636,Text:"&Nove zbirke (priporočeno)"},{
+Key:1002637,Text:"&Nov Biblije (priporočeno)"},{
+Key:1002638,Text:"&Nove jezike (priporočeno)"},{
+Key:1002639,Text:"&V primeru težav povezave, prisotnost proxy"},{
+Key:1002640,Text:"Prisotnost proxy"},{
+Key:1002641,Text:"Označuje, ali naj VideoPsalm samodejno zazna prisotnost proxy, da se pozanima o novih izdelkih ali posodobitve.
+
+Če VideoPsalm ne morem prenesti knjige ali Biblije v online library, izberite to možnost, in nato poskusite znova.
+
+Izberite to možnost samo, če ne. Res, ta možnost povzroči upočasnitev prenaša knjig in Biblije iz knjižnice VideoPsalm online."},{
+Key:1002642,Text:"&Skrij socialne ikone"},{
+Key:1002643,Text:"Skrije v orodni vrstici socialne ikone (Facebook, Twitter in YouTube).
+
+Te ikone ostanejo skrite brez internetne povezave."},{
+Key:1002644,Text:"&Trgovina audio pesmi (priporočeno) dnevni red"},{
+Key:1002645,Text:"Trgovina audio pesmi v agendi"},{
+Key:1002646,Text:"Označuje, ali VideoPsalm shranjujte zvoka pesmi v datoteki koledar, ko ga shranite."},{
+Key:1002648,Text:"&Customization"},{
+Key:1002649,Text:"&Video kamero"},{
+Key:1002650,Text:"&Prejšnje"},{
+Key:1002651,Text:"&Osnove"},{
+Key:1002652,Text:"&Besedilo"},{
+Key:1002653,Text:"&Ščit"},{
+Key:1002654,Text:"&Snežinka"},{
+Key:1002655,Text:"&Bug"},{
+Key:1002656,Text:"Plošča z diapozitivi"},{
+Key:1002657,Text:"&Naslednji"},{
+Key:1002658,Text:"Orodna vrstica"},{
+Key:1002659,Text:"Odbor agende"},{
+Key:1002660,Text:"&Mount"},{
+Key:1002661,Text:"&odleti"},{
+Key:1002662,Text:"&Skrij ToolTips"},{
+Key:1003000,Text:"Različica {0} od {1} je"},{
+Key:1003003,Text:"Zaprite"},{
+Key:1003005,Text:"&Obrnite VideoPsalm"},{
+Key:1003006,Text:"Odpreti Outlook (vaš email varovanec) pošiljati email v VideoPsalm"},{
+Key:1003007,Text:"Ta različica se posodablja"},{
+Key:1003008,Text:"&Posodobiti moj različica"},{
+Key:1003009,Text:"Obstaja novejšo različico VideoPsalm:
+Različico {0} za ploščo 1: {d}.
+Kliknite ta gumb, če želite odpreti stran za prenos.
+Tu boste našli zgodovino sprememb
+in download link."},{
+Key:1003011,Text:"-Poročilo
+-Izdelovanje pripombo ali predlog"},{
+Key:1003012,Text:"E-poštni naslov: videopsalm@gmail.com"},{
+Key:1003500,Text:"Odstranite prenosa"},{
+Key:1003501,Text:"Prenesti več polton"},{
+Key:1003502,Text:"Prenesene polton manj"},{
+Key:1003503,Text:"Brez"},{
+Key:1003504,Text:"Izbrisati je capo"},{
+Key:1003505,Text:"Prenosa za capo, ki se odmika od glave"},{
+Key:1003506,Text:"Prenosa za capo, ki pride blizu glave"},{
+Key:1003507,Text:"Brez"},{
+Key:1003508,Text:"Oglejte si avdio datoteke na vokal"},{
+Key:1003509,Text:"&Zvočne datoteke:"},{
+Key:1003510,Text:"Izberite audio datoteke uvoziti in kliknite \"Odpri\"."},{
+Key:1003511,Text:"Uvozite zvočne datoteke {0} (s)."},{
+Key:1003512,Text:"Ne slišan pila je bila uvožena.
+((S) je že našel (s) v seznamu)."},{
+Key:1003513,Text:"Uvoz zvočne datoteke"},{
+Key:1003514,Text:"Zvočne datoteke"},{
+Key:1003515,Text:"Ključne besede za iskanje slik"},{
+Key:1003516,Text:"Brez slike"},{
+Key:1003517,Text:"Brez video"},{
+Key:1003518,Text:"&Datoteke"},{
+Key:1003519,Text:"&Prikaz bas"},{
+Key:1003520,Text:"Ključne besede za iskanje v videos"},{
+Key:1003521,Text:"&Zbirka pesmi, ki so uvožene iz CCLI / SongSelect"},{
+Key:1003522,Text:"CCLI pesmi"},{
+Key:1003523,Text:"Uvoz CCLI pesmi"},{
+Key:1003524,Text:"{0} pesmi so že v zbirki »{1} «in ne uvažajo."},{
+Key:1003525,Text:"&Išči"},{
+Key:1003526,Text:"&Svetloba:"},{
+Key:1003527,Text:"&Išči"},{
+Key:1003528,Text:"&Svetloba:"},{
+Key:1003529,Text:"Sporočilo"},{
+Key:1003530,Text:"Policija"},{
+Key:1003531,Text:"Barve"},{
+Key:1003532,Text:"Sporočilo"},{
+Key:1003533,Text:"Vidnost"},{
+Key:1003534,Text:"Model"},{
+Key:1003535,Text:"Vrsta"},{
+Key:1003536,Text:"Odštevanje"},{
+Key:1003537,Text:"Štoparica"},{
+Key:1003538,Text:"Možnosti"},{
+Key:1003539,Text:"Preglednost"},{
+Key:1003540,Text:"Prikaz sporočila"},{
+Key:1003541,Text:"Ozadje"},{
+Key:1003542,Text:"Prikazovanje ure"},{
+Key:1003543,Text:"Ura"},{
+Key:1003544,Text:"Odštevanje"},{
+Key:1003545,Text:"Štoparica"},{
+Key:1003546,Text:"Med"},{
+Key:1003547,Text:"Do"},{
+Key:1003548,Text:"Začetek"},{
+Key:1003549,Text:"Premor"},{
+Key:1003550,Text:"ustavi se"},{
+Key:1003551,Text:"Slog"},{
+Key:1003552,Text:"Maščobe"},{
+Key:1003553,Text:"Ležeče"},{
+Key:1003554,Text:"Poudaril"},{
+Key:1003555,Text:"Prikaz druge roke"},{
+Key:1003556,Text:"Jecljanje sekund"},{
+Key:1003557,Text:"Min, sunkovit"},{
+Key:1003558,Text:"Prikaz številk"},{
+Key:1003559,Text:"Diplomant zapisnik"},{
+Key:1003560,Text:"Podiplomski ur"},{
+Key:1003561,Text:"Video kamero"},{
+Key:1003562,Text:"Prikaže streljanje kamero za besedilom."},{
+Key:1003563,Text:"&Dodaj pesmi v CILC obliko..."},{
+Key:1003564,Text:"Uvoz..."},{
+Key:1003565,Text:"Uvoz"},{
+Key:1003566,Text:"Omogoča, da uvozite zvočne datoteke v vaš VideoPsalm"},{
+Key:1003567,Text:"Krmarjenje..."},{
+Key:1003568,Text:"Prebrskaj"},{
+Key:1003569,Text:"Odpre se mapa zvočnih datotek z vašega VideoPsalm"},{
+Key:1003570,Text:"&Začetek (ms):"},{
+Key:1003571,Text:"&Na koncu (ms):"},{
+Key:1003572,Text:"&Obseg:"},{
+Key:1003573,Text:"&Looped igra"},{
+Key:1003575,Text:"&Spremenjena"},{
+Key:1003576,Text:"&Različica:"},{
+Key:1003577,Text:"Levo besedilo urednik \"Desno\""},{
+Key:1003578,Text:"Preklaplja med standardnem urejevalniku besedil (pisanja od leve proti desni) in \"Pravica\" urednik levo za arabščino, hebrejščino, itd."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Vedno skupaj kažejo (dvojezičnih)"},{
+Key:1003581,Text:"&Položaj:"},{
+Key:1004050,Text:"Policija"},{
+Key:1004051,Text:"Velikost"},{
+Key:1004052,Text:"Maščobe"},{
+Key:1004053,Text:"Ležeče"},{
+Key:1004054,Text:"Poudarjena"},{
+Key:1004055,Text:"Poravnava"},{
+Key:1004056,Text:"Poravnava"},{
+Key:1004057,Text:"Animacija"},{
+Key:1004058,Text:"Trajanje"},{
+Key:1004059,Text:"Obseg"},{
+Key:1004060,Text:"Nemo?"},{
+Key:1004061,Text:"Začetek"},{
+Key:1004062,Text:"Konec"},{
+Key:1004063,Text:"Zanke?"},{
+Key:1004064,Text:"Prikaz večje slike"},{
+Key:1004100,Text:"Barve"},{
+Key:1004101,Text:"Polnjenje"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Širina entourage"},{
+Key:1004104,Text:"Shadow"},{
+Key:1004105,Text:"Polmer sence"},{
+Key:1004106,Text:"Globine sence"},{
+Key:1004107,Text:"Smeri sence"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Podoba"},{
+Key:1004153,Text:"Barva"},{
+Key:1004156,Text:"Pravokotnik telesa"},{
+Key:1004157,Text:"Pravokotnik glave"},{
+Key:1004158,Text:"Stopala pravokotnik"},{
+Key:1004500,Text:"Izvod koledarja v odložišče"},{
+Key:1004501,Text:"Opis programa je bila postavljena v odložišče."},{
+Key:1004502,Text:"Besede (naslov in lyrics) ali ne. iskati"},{
+Key:1004503,Text:"Besede (naslov in lyrics) ali ne. iskati"},{
+Key:1004504,Text:"Besede (naslov) ali iskati št."},{
+Key:1004505,Text:"Besede (avtor in skladatelj) ali ne. iskati"},{
+Key:1004506,Text:"Besede (teme) ali številka za iskanje"},{
+Key:1004507,Text:"Besede (reference) ali številka za iskanje"},{
+Key:1004508,Text:"CCLI iskati"},{
+Key:1004509,Text:"Besede (avtorske pravice) ali številka za iskanje"},{
+Key:1004510,Text:"Besede (memo 1) ali ne. iskati"},{
+Key:1004511,Text:"Besede (memo 2) ali ne. iskati"},{
+Key:1004512,Text:"Besede (3 zapiskom) ali ne. iskati"},{
+Key:1004513,Text:"Pesmi z Akordi"},{
+Key:1004514,Text:"Izvod povzetka izvlečku"},{
+Key:1004515,Text:"Povzetek managerska uvrščala v odložišče."},{
+Key:1005001,Text:"Konec nakladanja"},{
+Key:1005002,Text:"Pesem »{0} «."},{
+Key:1005003,Text:"Nalaganje video posnetkov"},{
+Key:1005004,Text:"Preberite video »{0} «ni mogoče.
+{1}"},{
+Key:1005005,Text:"Nalaganje slike"},{
+Key:1005006,Text:"Berejo sliko »{0} «ni mogoče.
+{1}"},{
+Key:1005007,Text:"Nalaganje sloge"},{
+Key:1005008,Text:"Polnjenje seznama zbirk ({0} pesmi v {1} zbirke)"},{
+Key:1005009,Text:"Ali želite izbrisati izbrane točke dnevnega reda?"},{
+Key:1005010,Text:"Odstranjevanje elementov"},{
+Key:1005011,Text:"Nova kolekcija"},{
+Key:1005012,Text:"Nova pesem"},{
+Key:1005013,Text:"Dnevni red je prazna.
+Odprt je ali povlecite sem pesmi in verzi dodati na dnevnem redu."},{
+Key:1005014,Text:"Obstaja noben diapozitiv na video - projekt.
+Izberite skladbo ali verzov za video - projekt."},{
+Key:1005015,Text:"Ali res želite izbrisati zbirko »{0} «?
+
+Datoteke, ki ustrezajo tej zbirki ni mogoče izbrisati iz diska:
+razširitev bo preimenovan \".ignore."},{
+Key:1005016,Text:"Izbriši zbirko"},{
+Key:1005017,Text:"Ali želite izbrisati pesem »{0} «?
+
+Po registraciji sprememb do knjig, odstranitev te pesmi bo nepopravljive."},{
+Key:1005018,Text:"Izbrisati pesem"},{
+Key:1005019,Text:"Ali želite odstraniti vse elemente dnevnega reda?"},{
+Key:1005020,Text:"Izbrišite vse"},{
+Key:1005021,Text:"Dnevnega reda brez imena"},{
+Key:1005022,Text:"Koledarskih prazni"},{
+Key:1005023,Text:"Sedanjega dnevnega reda je neshranjene spremembe.
+Ali želite shraniti te spremembe?"},{
+Key:1005024,Text:"Shranite koledar"},{
+Key:1005025,Text:"Eno ali več zbirk so neshranjene spremembe.
+Ali želite shraniti te spremembe?"},{
+Key:1005026,Text:"In zbirk"},{
+Key:1005027,Text:"Eno ali več Biblije so neshranjene spremembe.
+Ali želite shraniti te spremembe?"},{
+Key:1005028,Text:"Shranite Biblije"},{
+Key:1005029,Text:"Dodajte dokumente v dnevnem"},{
+Key:1005030,Text:"Diaries"},{
+Key:1005031,Text:"Slike"},{
+Key:1005032,Text:"Video posnetki"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Shranite koledar pod"},{
+Key:1005035,Text:"CCLI pesmi"},{
+Key:1005036,Text:"Obstaja nobena zbirka.
+Kliknite tukaj, če želite začeti z uvažanjem poročila čarovnika."},{
+Key:1005037,Text:"Oblika {0}
+{1} slikovnih pik (2) ×"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Ali res želite izbrisati vse sloge pod »{0} «?"},{
+Key:1005040,Text:"Zbirka »{0} «je izključene iz iskanja"},{
+Key:1005041,Text:"Prikaz ali premaknite diapozitiv"},{
+Key:1005042,Text:"Letni časi"},{
+Key:1005043,Text:"Pomlad"},{
+Key:1005044,Text:"Poletje"},{
+Key:1005045,Text:"Božič"},{
+Key:1005046,Text:"Teme"},{
+Key:1005047,Text:"Karamelni sladkor"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Domišljijo"},{
+Key:1005050,Text:"Temnice"},{
+Key:1005051,Text:"Megla"},{
+Key:1005052,Text:"Načrt"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontrast"},{
+Key:1005055,Text:"Urad"},{
+Key:1005056,Text:"Urad 2010 sinji"},{
+Key:1005057,Text:"Office 2010 silver"},{
+Key:1005058,Text:"Office 2010 črna"},{
+Key:1005059,Text:"Office 2007 sinji"},{
+Key:1005060,Text:"Office 2007 zelena"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 Silver"},{
+Key:1005063,Text:"Office 2007 Black"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Sedem"},{
+Key:1005067,Text:"Sedem klasičnih"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Kadila"},{
+Key:1005070,Text:"Dima"},{
+Key:1005071,Text:"Jabolko"},{
+Key:1005072,Text:"Barve"},{
+Key:1005073,Text:"Liquid sky"},{
+Key:1005074,Text:"London nebo"},{
+Key:1005075,Text:"Modra"},{
+Key:1005076,Text:"Denar dvojčka"},{
+Key:1005077,Text:"Črno zlato"},{
+Key:1005078,Text:"Izpad električne energije"},{
+Key:1005079,Text:"Oster"},{
+Key:1005080,Text:"Sharp več"},{
+Key:1005081,Text:"Zvezde"},{
+Key:1005082,Text:"Oceani stekla"},{
+Key:1005083,Text:"Asfalt svetu"},{
+Key:1005084,Text:"Kava"},{
+Key:1005085,Text:"Prah zvezd"},{
+Key:1005086,Text:"Izbrišite vse sloge, ki so spodaj"},{
+Key:1005087,Text:"Vzdrževanje Odpri galerijo"},{
+Key:1005100,Text:"Brez animacije"},{
+Key:1005102,Text:"Zbledi"},{
+Key:1005103,Text:"Luči zbledi"},{
+Key:1005104,Text:"Prikaz večje slike"},{
+Key:1005105,Text:"Širitev v luči zbledi"},{
+Key:1005106,Text:"Skeniranje"},{
+Key:1005107,Text:"Skeniranje na desni"},{
+Key:1005109,Text:"Obrazec"},{
+Key:1005110,Text:"Star"},{
+Key:1005118,Text:"Skeniranje navzdol"},{
+Key:1005120,Text:"Skeniranje na levi"},{
+Key:1005121,Text:"Skeniranje navzgor"},{
+Key:1005122,Text:"Skandirati od zgoraj desno"},{
+Key:1005123,Text:"Skandirati od zgoraj levo"},{
+Key:1005124,Text:"Skandirati od spodaj desno"},{
+Key:1005125,Text:"Skandirati od spodaj levo"},{
+Key:1005126,Text:"Odkrijte"},{
+Key:1005127,Text:"Odkrijte navzdol"},{
+Key:1005128,Text:"Odkrijte pravico"},{
+Key:1005129,Text:"Odkrijte levo"},{
+Key:1005130,Text:"Odkrijte navzgor"},{
+Key:1005131,Text:"Odkrijte zgornjem desnem"},{
+Key:1005132,Text:"Odkrijte zgoraj levo"},{
+Key:1005133,Text:"Odkrijte desno navzdol"},{
+Key:1005134,Text:"Odkrijte levo spodaj"},{
+Key:1005200,Text:"Diapozitivi"},{
+Key:1005201,Text:"Ni diapozitivov"},{
+Key:1005209,Text:"Iskane besede v:"},{
+Key:1005210,Text:"&Naslov in besedilo"},{
+Key:1005211,Text:"&Naslov in besedilo"},{
+Key:1005212,Text:"&Naslov"},{
+Key:1005213,Text:"&Avtor in skladatelj"},{
+Key:1005214,Text:"&Teme"},{
+Key:1005215,Text:"&Sklici"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Avtorske pravice"},{
+Key:1005218,Text:"&Memo 1"},{
+Key:1005219,Text:"&Memo 2"},{
+Key:1005220,Text:"&Memo 3"},{
+Key:1005221,Text:"&Pesmi z Akordi"},{
+Key:1005223,Text:"Možnosti"},{
+Key:1005224,Text:"VideoPsalm možnosti"},{
+Key:1005225,Text:"Prikaže pogovorno okno možnosti VideoPsalm."},{
+Key:1005226,Text:"Uvoz"},{
+Key:1005228,Text:"Prikaže čarovnik za uvoz knjig, Biblije, slik in videoposnetkov iz spletne knjižnice VideoPsalm in priljubljenih formatov."},{
+Key:1005230,Text:"Izbrisati"},{
+Key:1005232,Text:"Odstranite petje zbiranje ali izbrane Biblije."},{
+Key:1005237,Text:"Spreminjanje pisave."},{
+Key:1005247,Text:"Slike"},{
+Key:1005252,Text:"Uredi nastavitve za obvestila."},{
+Key:1005253,Text:"Zaprite okno in ne pozabite informacije naslednjič."},{
+Key:1005254,Text:"Zaprite okno in ne več spomniti te informacije."},{
+Key:1005255,Text:"Besede ali fraze iskanje, npr.: kruh, vino"},{
+Key:1005256,Text:"Izberite verzov svojih referenčnih"},{
+Key:1005257,Text:"Iskanje verzov, ki vsebujejo določene ključne besede ali besedne zveze"},{
+Key:1005258,Text:"Izbriši ključno besedo ali frazo za iskanje (ESC)"},{
+Key:1005259,Text:"Iskanje verzov, ki vsebujejo določene ključne besede.
+
+Na primer:
+
+-Ugotoviti verzov, ki vsebujejo frazo <b>\"Božji otroci\"</b>, vnesite nekaj besed, kot so <b>\"child Boga\"</b>.
+
+-Da bi našli verz, ki vsebuje stavek, <b>vzel pokal</b>, vnesite te večkratniki besede: <b>»ilpritlacoupe«</b>.
+
+Ne skrbeti naglasi ali ločila, ali male/velike črke.
+
+Treba vnašati besede kot celote ali po vrstnem redu.
+
+Dodajte druge besede, verza zmanjšati seznam najdenih verzov.
+
+Pritisnite gumb <b>Vstavi</b> dodati verz našel in izbranih dnevnega reda."},{
+Key:1005260,Text:"Ni najdenih verz."},{
+Key:1005268,Text:"VideoPsalm v tem načinu, samodejno doda oklepaje [] okoli besedila, ki ga vnesete.
+Na primer, dodati c struna, tip »Ali« in VideoPsalm vtaknejo \"[storiti]."},{
+Key:1005269,Text:"Velikost pisave"},{
+Key:1005270,Text:"Spremeni velikost pisave v odstotkih, višine zaslona."},{
+Key:1005271,Text:"&Shrani kot..."},{
+Key:1005277,Text:"Shrani"},{
+Key:1005278,Text:"Shrani spremembe, ki ste jih naredili v knjigah, Biblije in njihovih stilov."},{
+Key:1005279,Text:"Shrani spremembe, ki ste jih naredili v zbirke in stilov.
+
+<b>Pozornost:</b> Spremembe do Biblije se ne shranijo (besedilo in sloge). Če želite shraniti te spremembe, omogočiti ustrezno možnost v meniju možnosti za VideoPsalm."},{
+Key:1005283,Text:"Dolžina:"},{
+Key:1005284,Text:"V ms:"},{
+Key:1005285,Text:"Element"},{
+Key:1005286,Text:"Telo"},{
+Key:1005287,Text:"Karoserije"},{
+Key:1005288,Text:"Omogoča urejanje sloga telesa."},{
+Key:1005289,Text:"Glava"},{
+Key:1005290,Text:"Slog glave"},{
+Key:1005291,Text:"Omogoča urejanje sloga v glavi."},{
+Key:1005292,Text:"Stopala"},{
+Key:1005293,Text:"Slog stopala"},{
+Key:1005294,Text:"Omogoča urejanje sloga stopala."},{
+Key:1005295,Text:"Sporazumi"},{
+Key:1005296,Text:"Slog sporazumov"},{
+Key:1005297,Text:"Omogoča urejanje sloga sporazumov."},{
+Key:1005308,Text:"Knjiga"},{
+Key:1005313,Text:"Raven sloga"},{
+Key:1005314,Text:"Nastavite raven, na kateri bo uporablja slog spremembe.
+
+Verz je raven najvišje slog, potem samo petje, zbirke, zbirke in osnove.
+
+Podobno, verz je raven najvišje slog, potem spet prihaja poglavja, knjige, testament, Sveto pismo, Biblije in osnove.
+
+Osnove, ki se na koren hierarhije, svoj slog uveljavljena na vseh diapozitivih.
+
+Višji ravni lahko preglasi slog, opredeljeno v nižji ravni atributa."},{
+Key:1005315,Text:"<b></b>Ta mehanizem omogoča spreminjanje sloga način celotnega ali posameznih diapozitivov.
+
+<b>Primer</b>
+Če dodelite ozadje pesmi, vse verze te pesmi pojavi s to ozadje, razen verze, ki ste mu dodelili posebno ozadje."},{
+Key:1005318,Text:"Diapozitiv"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Video posnetki"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Barve besedila"},{
+Key:1005329,Text:"Ponastavitev"},{
+Key:1005330,Text:"Počisti slog za izbrano raven"},{
+Key:1005331,Text:"Izbrišete lahko vse atribute slog izbrane ravni.
+Diapozitiv brez slog podeduje samodejno nižje ravni slog.
+
+Na primer:
+-En kitica ima slog z Candara pisave.
+-Petje, medtem, je slog z Segoe UI pisave.
+
+Ko izbrišete slog verz, bodo prikazani s stilom nižje ravni. V našem primeru bo Segoe UI pisave.
+
+<b>Kaplja-niz jedilnik «izbrisati vsi zgoraj slogov«</b>
+Lahko izbrišete slog izbrano raven in vse višje sloge.
+
+Na primer, če level style \"Kodeks\" izbrali, slog zbiranje bodo izbrisani in stilov vseh pesmi zbiranja in tiste njihove kitice."},{
+Key:1005332,Text:"Ta gumb je zatemnjen, ko raven je ni lasten slog."},{
+Key:1005333,Text:"&Izbrisati vsi zgoraj sloge"},{
+Key:1005337,Text:"&Vrh"},{
+Key:1005338,Text:"&Srednje"},{
+Key:1005339,Text:"&Dno"},{
+Key:1005340,Text:"Ostati na tej ravni slog"},{
+Key:1005341,Text:"Ostanejo na sedanji ravni slog"},{
+Key:1005342,Text:"Ostane na trenutni ravni slog, ko spremenite diapozitiv.
+
+Tako:
+<b>1.</b> Ko prikažete verz pesem, VideoPsalm, pozicij raven sloga na \"stanza\".
+<b>2.</b> Za spreminjanje slog petja verza, izberite raven slog \"pesem.\"
+<b>3.</b> Bivanje na oblikovanje sloga pesmi, pritisnite žebljiček.
+<b>4.</b> Ko preklopite iz ene stanza na naslednjo, slog ostajajo na \"pesem.\""},{
+Key:1005343,Text:"Polnjenje besedila"},{
+Key:1005345,Text:"Izpolnite besedilo z enobarvno, s prehajanjem, sliko ali teksturo."},{
+Key:1005346,Text:"Barva besedila"},{
+Key:1005347,Text:"Oris besedila"},{
+Key:1005349,Text:"Določa barvo, širino in črte za oris slog besedila."},{
+Key:1005350,Text:"Barva besedila"},{
+Key:1005352,Text:"Učinek besedila"},{
+Key:1005354,Text:"Uporabite vizualni učinek za besedilo, na primer senco, luč, odsev ali 3-d kroženja."},{
+Key:1005356,Text:"Senca besedila"},{
+Key:1005357,Text:"Barva ozadja"},{
+Key:1005359,Text:"&Nova pesem"},{
+Key:1005360,Text:"&Nova kolekcija"},{
+Key:1005361,Text:"&Zbriši vse"},{
+Key:1005362,Text:"
+
+<b>Delni ščit</b>
+Ob otvoritvi agenda, bo ohranjena <b>besedila</b> knjige in Biblije.
+Slogi koledar veljajo za vaše knjige in Biblije."},{
+Key:1005363,Text:"
+
+<b>Delni ščit</b>
+Ob otvoritvi agenda, bo ohranjena <b>stilov</b> knjig in Biblije.
+Besedili dnevnega reda veljajo za vaše knjige in Biblije."},{
+Key:1005364,Text:"
+
+<b>Popolno shield</b>
+Ob otvoritvi agenda, bo ohranjena <b>besedila</b> in <b>stilov</b> knjig in Biblije.
+Tiste dnevnega reda ni mogoče uporabiti.
+
+<i>To je strategija, da sprejme, ko so dokumenti to PC vaše reference.</i>"},{
+Key:1005365,Text:"
+
+<b>Odsotnost ščit</b>
+Ob otvoritvi agende, <b>besedil</b> in <b>stilov</b> koledarja bodo uporabljena za vaše knjige in Biblije in nadomestiti vaš lasten tekst ter stilov.
+
+<i>To je strategija, da sprejme, ko referenčni dokumenti, če so od PC, v katerem ste ustvarili dnevni.</i>"},{
+Key:1005366,Text:"Za spremembo od \"Gledalca\", \"Edit\" načinu ali obratno, kliknite gumb s svinčnikom."},{
+Key:1005369,Text:"Razvrščanje po naslovu"},{
+Key:1005370,Text:"Razvrščeni po številu"},{
+Key:1005371,Text:"O..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simulira video projekcija
+na zaslonu na 4:3.2 vidik"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simulira video projekcija
+na vidik zaslon 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simulira video projekcija
+na zaslonu na vidik 4:3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simulira video projekcija
+na zaslonu vidik 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simulira video projekcija
+na zaslonu vidik 16:8"},{
+Key:1005387,Text:"Tok"},{
+Key:1005388,Text:"Uporablja celotno površino zaslona"},{
+Key:1005389,Text:"Vidik 4:3"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Načina vstavitve sporazumov"},{
+Key:1005398,Text:"Prikaz sporazumov nad lyrics"},{
+Key:1005400,Text:"Prilagodite videz okna"},{
+Key:1005401,Text:"&Dodajte koledar"},{
+Key:1005402,Text:"&Delete (Izbriši)"},{
+Key:1005403,Text:"&Vključujejo kodo v iskanje"},{
+Key:1005404,Text:"&Izključi zbiranje raziskave"},{
+Key:1005405,Text:"&V iskanje vključiti vse zbirke"},{
+Key:1005407,Text:"&Skrij izključene iz zbirk raziskovalnih"},{
+Key:1005408,Text:"&Pokaži izključenih iz zbirk raziskovalnih"},{
+Key:1005409,Text:"&Prikaže velikost pravokotnika"},{
+Key:1005410,Text:"Prikaže velikost pravokotnika"},{
+Key:1005411,Text:"Omogoča, da velikost okvirja (telo besedila, glava ali noga) izbrana.
+
+Okvir velikost lahko spreminjate z miško v območju za predogled.
+
+<b>Kako spremeniti velikost okvirja</b>
+
+1. Izberite okvir za velikost:
+-telo
+-glava,
+- ali stopala.
+
+2. Izberite zahtevani slog ravni, na primer \"Biblije\".
+
+3. Pritisnite na bug na silo VideoPsalm izpis diapozitivov v stilu \"Biblije\".
+Dejansko, če bug ne pritisnete, VideoPsalm samodejno preklopi v stilu \"Verza\" takoj, ko jo prikažete verz.
+
+4 Prikazovanje verz. Predogled prikaže okvir z stil \"Biblije\".
+
+5 Spremenite velikost in položaj okvirja z miško.
+
+6. Odstranite bug, vrniti VideoPsalm v stilu \"Verza\", ko bo ponovno prikažete diapozitiv."},{
+Key:1005412,Text:"&Kopija je Povzetek zakonika v odložišče"},{
+Key:1005417,Text:"Besedilo"},{
+Key:1005418,Text:"Raziskovalec za sloge"},{
+Key:1005419,Text:"Prikaže ali skrije slog Explorer.
+V tem oknu lahko krmarite med ravnmi hierarhično stilov, da prikrivati lastnosti posameznika in jih urejate."},{
+Key:1005420,Text:"Slogi"},{
+Key:1005421,Text:"Policija"},{
+Key:1005424,Text:"Ozadje"},{
+Key:1005425,Text:"Slogi"},{
+Key:1005429,Text:"Vidik"},{
+Key:1005430,Text:"Izdaja"},{
+Key:1005432,Text:"Videz"},{
+Key:1005433,Text:"Orodja"},{
+Key:1005442,Text:"Vzdržnost s naslednji element"},{
+Key:1005443,Text:"Izklop pred odhodom"},{
+Key:1005444,Text:"Izbrišite besedilo torej slediti"},{
+Key:1005445,Text:"Izbrišite besedilo in nato izklopite"},{
+Key:1005446,Text:"Prikazati skupaj s naslednji element (dvojezičnih)"},{
+Key:1005447,Text:"Dodaj vokal ali verzov izbrano točko dnevnega (Insert ali Alt + A)"},{
+Key:1005448,Text:"Kliknite tukaj za dodati vokal ali verzi dnevnega reda.
+
+Druga možnost je, lahko povlečete in spustite gumb v koledarju na kraju, ki bi morala biti."},{
+Key:1005449,Text:"&Dodaj"},{
+Key:1005454,Text:"Izberite možnosti za iskanje skladb za ključnih besed"},{
+Key:1005455,Text:"Brisanje besed ali številko iskanje (ESC)"},{
+Key:1005457,Text:"Iskanje pesem (Ctrl + F)"},{
+Key:1005458,Text:"Iskanje pesmi, ki vsebuje določene besede ali so številne.
+
+Na primer:
+
+-Da bi našli skladbo No 250, vnesite »250«
+
+-Da bi našli skladbo, ki vsebuje besedila <b>\"kot svetilnik v noč\"</b>, vnesite nekaj besed, kot so <b>\"lahka noč\"</b>.
+
+Ne skrbite naglasi ali ločila.
+
+Ni potrebe, da besede kot celote ali po vrstnem redu.
+
+Dodajte druge besede pesem zmanjšati seznam najdenih pesmi.
+
+Pritisnite gumb <b>Vstavi</b> dodati prva pesem, ki je na dnevnem redu."},{
+Key:1005459,Text:"Ni nobena biblija.
+Kliknite tukaj, če želite zagnati čarovnika za uvoz
+Biblije in dodajte Biblije iz priljubljenih virov."},{
+Key:1005463,Text:"Črtati sklicevanje na prikaz (ESC)"},{
+Key:1005464,Text:"Sklicevanje na izberite, npr.: Rimljanom 3:23-25, 30"},{
+Key:1005465,Text:"Izberite verzov (Ctrl + F)"},{
+Key:1005472,Text:"&Datoteka:"},{
+Key:1005475,Text:"&Ta zbirka vključuje v iskanje pesmi"},{
+Key:1005479,Text:"&ime:"},{
+Key:1005481,Text:"&Kratica:"},{
+Key:1005483,Text:"&Avtor:"},{
+Key:1005485,Text:"&Avtorske pravice:"},{
+Key:1005487,Text:"&Dokument:"},{
+Key:1005491,Text:"&Tiskanje je capo"},{
+Key:1005497,Text:"&Lyrics"},{
+Key:1005499,Text:"&Številka:"},{
+Key:1005501,Text:"&Naslov:"},{
+Key:1005505,Text:"&Sklic:"},{
+Key:1005507,Text:"&Avtorske pravice:"},{
+Key:1005509,Text:"&Avtor:"},{
+Key:1005511,Text:"&Skladatelj:"},{
+Key:1005513,Text:"&Različnih"},{
+Key:1005515,Text:"&Ton:"},{
+Key:1005517,Text:"&Oblika:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Zaporedje:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Ključ:"},{
+Key:1005527,Text:"&Vzdevek:"},{
+Key:1005529,Text:"&Ključni vrstico:"},{
+Key:1005531,Text:"&Memo 1:"},{
+Key:1005533,Text:"&Memo 2:"},{
+Key:1005535,Text:"&Memo 3:"},{
+Key:1005537,Text:"&Podpis:"},{
+Key:1005540,Text:"&Prenos:"},{
+Key:1005541,Text:"Tiskanje je capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Za izvajanje sporazumov pesem."},{
+Key:1005555,Text:"&Datoteka:"},{
+Key:1005560,Text:"&Avtorske pravice:"},{
+Key:1005562,Text:"&Kratica:"},{
+Key:1005564,Text:"&ime:"},{
+Key:1005566,Text:"&Opis:"},{
+Key:1005568,Text:"&Uvod:"},{
+Key:1005570,Text:"&Dokument:"},{
+Key:1005576,Text:"&ime:"},{
+Key:1005582,Text:"&ime:"},{
+Key:1005584,Text:"&Uvod:"},{
+Key:1005586,Text:"&Kratica:"},{
+Key:1005587,Text:"Poglavju Svetega pisma"},{
+Key:1005590,Text:"Biblija verz"},{
+Key:1005595,Text:"&Verz:"},{
+Key:1005603,Text:"&Datoteka:"},{
+Key:1005606,Text:"Brez izbire"},{
+Key:1005608,Text:"Slog"},{
+Key:1005612,Text:"Odstrani vrednost premoženja"},{
+Key:1005613,Text:"Ko izbrišete vrednosti nepremičnine, VideoPsalm uporablja prvo vrednost v nižjih ravneh.
+
+Če odstranite policija na ravni verz, VideoPsalm pomene v vrstnem redu in če je, pisave, na primer:
+-petje,
+-sicer zbiranje,
+-Če ena od zbirk,
+-sicer osnove.
+
+VideoPsalm je isto s Biblije, slike, itd."},{
+Key:1005615,Text:"Nobena"},{
+Key:1005616,Text:"Osnove"},{
+Key:1005618,Text:"Zbirke"},{
+Key:1005619,Text:"Zbirka"},{
+Key:1005620,Text:"Vokal"},{
+Key:1005621,Text:"Kitica"},{
+Key:1005622,Text:"Biblije"},{
+Key:1005623,Text:"Sveto pismo"},{
+Key:1005624,Text:"Zaveza"},{
+Key:1005625,Text:"Knjige Svetega pisma"},{
+Key:1005626,Text:"POGLAVJE"},{
+Key:1005627,Text:"Verz"},{
+Key:1005628,Text:"Privzeta vrednost"},{
+Key:1005629,Text:"Vrednost iz telesa besedila"},{
+Key:1005630,Text:"Levo"},{
+Key:1005631,Text:"Na sredino"},{
+Key:1005632,Text:"Pravico"},{
+Key:1005633,Text:"Upravičeno"},{
+Key:1005634,Text:"Vrh"},{
+Key:1005635,Text:"Srednje"},{
+Key:1005636,Text:"Dno"},{
+Key:1005650,Text:"&Odprite koledar..."},{
+Key:1005651,Text:"&Dodajte koledarje..."},{
+Key:1005652,Text:"&Dodaj slideshow slik..."},{
+Key:1005653,Text:"&Avtonomne videom..."},{
+Key:1005654,Text:"&Dodamo nekaj PowerPoints..."},{
+Key:1005655,Text:"Ko odprem koledar:"},{
+Key:1005656,Text:"&Ohranitev besedila moje knjige in Biblije"},{
+Key:1005657,Text:"&Ohranjanje slogov moje knjige in Biblije"},{
+Key:1005667,Text:"&Zbirke"},{
+Key:1005668,Text:"Prikaže zbirk (Alt + R)"},{
+Key:1005670,Text:"&Biblije"},{
+Key:1005671,Text:"Prikaže Biblije (Alt + B)"},{
+Key:1005677,Text:"&Širina:"},{
+Key:1005680,Text:"&Blur:"},{
+Key:1005681,Text:"&Globina:"},{
+Key:1005682,Text:"&Smer:"},{
+Key:1005686,Text:"Prikaže prazen zaslon, črn barva.
+Simulira izumrtje projektor."},{
+Key:1005687,Text:"Naslednji"},{
+Key:1005688,Text:"Napredovanje na naslednji diapozitiv."},{
+Key:1005689,Text:"Izklopi zaslon (Ctrl + W)"},{
+Key:1005690,Text:"Prikaz besedila (Ctrl + T)"},{
+Key:1005691,Text:"Pokaže ali skrije besedilo na diapozitivu."},{
+Key:1005692,Text:"Ščit (Ctrl + B)"},{
+Key:1005693,Text:"Ohranja vokale, čemer video projekcijo diapozitivov.
+
+Delo na dnevnem redu ali iskanje pesmi ali verz med video projekcija petje.
+
+Če želite preglasiti ščit, dvokliknite element na dnevnem redu."},{
+Key:1005694,Text:"Zamrznitev"},{
+Key:1005695,Text:"Video projekcijo zaslon zamrzne ne zmrzne območju za predogled.
+
+Predogled predstavitev v video projekcija."},{
+Key:1005696,Text:"Projekt (Ctrl + P)"},{
+Key:1005697,Text:"Načrtovanih diapozitivov na projektorju."},{
+Key:1005698,Text:"Način \"Izdaja\" (Ctrl + E)"},{
+Key:1005699,Text:"Preklopi iz \"Gledalca\", \"Edit\" načinu ali obratno."},{
+Key:1005702,Text:"Odprite koledar ali dokumenta"},{
+Key:1005703,Text:"Koledar se odpre, ali dodati PowerPoint predstavitev, slike za diaprojekcijo, video posnetke, itd."},{
+Key:1005704,Text:"Shranite koledar"},{
+Key:1005705,Text:"Izbrisati"},{
+Key:1005706,Text:"Odstrani izbrane elemente v dnevnem redu (delete)."},{
+Key:1005707,Text:"Mount (Ctrl + Page up)"},{
+Key:1005708,Text:"Monte element na začetek dnevnega reda."},{
+Key:1005709,Text:"Dol (Ctrl + Page down)"},{
+Key:1005710,Text:"Navzdol element proti koncu dnevnega reda."},{
+Key:1005711,Text:"Svetlost"},{
+Key:1005712,Text:"Odpri koledar"},{
+Key:1005713,Text:"Dnevni red shrani na disk ali USB ključ."},{
+Key:1005721,Text:"Izbere verzi glede njihovega.
+<i>Primer: Rimljanom 3:23-25, 30</i>
+
+Ne vnesite poudarki v imenih knjig.
+<i>Primer: n<b>e</b>h<b>e</b>mie \"namesto\" N<b>é</b>h<b>é</b>mie \".</i>
+
+Vpišite bodisi a <b>': \"</b>, a <b>\". \"</b> ali <b>\"proti\"</b> za ločevanje poglavij verzi.
+
+Pritisnite tipko <b>\"Vstavi\"</b> dodati verzov, izbrani na dnevnem redu."},{
+Key:1005722,Text:"Pripombe (ne prevajajo, zapustiti v angleščini)"},{
+Key:1005723,Text:"Ni mogoče zapisati datoteke
+{0} :
+{1}"},{
+Key:1005724,Text:"Napaka"},{
+Key:1005725,Text:"Ne more prebrati datoteke
+{0} :
+{1}"},{
+Key:1005730,Text:"Ali ste prepričani, da želite odstraniti style slideshow slik?
+Style slideshow slik bo standardna vrednost."},{
+Key:1005731,Text:"Ali ste prepričani, da želite odstraniti osnovni slog?
+Osnovni slog bo standardna vrednost."},{
+Key:1005732,Text:"Ali ste prepričani, da želite odstraniti slog zbirk?
+Slog zbirk bo standardna vrednost."},{
+Key:1005733,Text:"Ali ste prepričani, da želite odstraniti slog Biblije?
+Slog Biblije bo standardna vrednost."},{
+Key:1005734,Text:"Ali ste prepričani, da želite izbrisati ta slog?
+VideoPsalm uporablja slog atribute našel nižje v hierarhiji."},{
+Key:1005735,Text:"Jasno slog"},{
+Key:1005736,Text:"Ali ste prepričani, da želite odstraniti style video posnetke?
+Slog televizija bo standardna vrednost."},{
+Key:1005737,Text:"Zbirka"},{
+Key:1005738,Text:"Nobena zbirka"},{
+Key:1005739,Text:"Sveto pismo"},{
+Key:1005740,Text:"Ni biblija"},{
+Key:1005743,Text:"Povečaj pisavo (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Poveča velikost pisave."},{
+Key:1005745,Text:"Zmanjšanje pisave (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Zmanjša velikost pisave."},{
+Key:1005747,Text:"Krepko (Ctrl + B)"},{
+Key:1005748,Text:"Dal izbrano besedilo v krepko."},{
+Key:1005749,Text:"Ležeče (Ctrl + I)"},{
+Key:1005750,Text:"Dal izbrano besedilo v ležeče."},{
+Key:1005751,Text:"Poudarjeno (Ctrl + U)"},{
+Key:1005752,Text:"Podčrtajte izbrano besedilo."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Nariše črte sredi izbranega besedila."},{
+Key:1005755,Text:"Pokaži / Skrij ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Prikaže oznake odstavka in druge skrite simbole oblikovanja."},{
+Key:1005757,Text:"Barva pisave"},{
+Key:1005758,Text:"Spremenite barvo besedila."},{
+Key:1005759,Text:"Barva besedila"},{
+Key:1005760,Text:"Daje barvo besedila."},{
+Key:1005761,Text:"Počisti oblikovanje (Ctrl + space)"},{
+Key:1005762,Text:"Popolnoma Počisti oblikovanje izbora in ohranja le golo besedilo."},{
+Key:1005763,Text:"Razveljavi (Ctrl + Z)"},{
+Key:1005764,Text:"Prekliče zadnjo operacijo."},{
+Key:1005765,Text:"Uveljavi (Ctrl + Y)"},{
+Key:1005766,Text:"Uveljavi zadnjo operacijo."},{
+Key:1005767,Text:"Cut (Ctrl + X)"},{
+Key:1005768,Text:"Izrežite izbor in ga vstavite v odložišče."},{
+Key:1005769,Text:"Kopiraj (Ctrl + C)"},{
+Key:1005770,Text:"Kopira izbor in ga postavi v odložišče."},{
+Key:1005771,Text:"Prilepi (Ctrl + V)"},{
+Key:1005772,Text:"Prilepi vsebino odložišča."},{
+Key:1005773,Text:"Iskanje (Ctrl + F)"},{
+Key:1005774,Text:"Iskanje besedila v dokumentu."},{
+Key:1005775,Text:"Zamenjaj (Ctrl + H)"},{
+Key:1005776,Text:"Nadomešča besedilo v dokumentu."},{
+Key:1005777,Text:"Povečavo"},{
+Key:1005778,Text:"Pokaži vse"},{
+Key:1005779,Text:"Urediti posebne verz, kliknite na svoj diapozitiv."},{
+Key:1005780,Text:"Izbor verzov"},{
+Key:1005781,Text:"Razvrsti zbirko izbrala svoj naslov pesmi."},{
+Key:1005782,Text:"Zapre trenutni dnevni (in vpraša za potrditev če obstajajo neshranjene spremembe)."},{
+Key:1005783,Text:"Prilagodi svetlost slike ali video ozadja.
+
+Omogoča tekst višek, celo nad barriole ozadja."},{
+Key:1005784,Text:"&Kopiranje opis programa"},{
+Key:1005785,Text:"&Vključujejo besedila pesmi"},{
+Key:1005786,Text:"&Vključujejo biblical verzov"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Odpre VideoPsalm facebook strani.
+
+Naj vedo VideoPsalm okoli vas:
+-s klikom na gumb \"všeč\"
+-tako, da postane njegov prijatelj.
+
+<b>Opomba:</b> Komu odstraniti ads v Facebook, namestite prost čep <b>Adblock pozitiven</b>.
+
+Skriti VideoPsalm socialne ikone, jih onemogočite na kartici »Général« → \"Možnosti\"."},{
+Key:1005791,Text:"Odpre stran za Cvrkutati VideoPsalm, da so obveščeni o novih člankov iz blogov.
+
+Skriti VideoPsalm socialne ikone, jih onemogočite na kartici »Général« → \"Možnosti\"."},{
+Key:1005792,Text:"Odpre VideoPsalm YouTube stran, kjer boste našli video Vadnice o uporabi VideoPsalm.
+
+Skriti VideoPsalm socialne ikone, jih onemogočite na kartici »Général« → \"Možnosti\"."},{
+Key:1005793,Text:"Izbrano zbirko doda novo prazno pesem (ali oglas)."},{
+Key:1005794,Text:"Dodaja novo prazno zbirko."},{
+Key:1005795,Text:"Vrste pesmi zbirka izbrala njihovo število."},{
+Key:1005800,Text:"Kitica"},{
+Key:1005801,Text:"Zbor"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Most"},{
+Key:1005804,Text:"Oznaka"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Izhod"},{
+Key:1005807,Text:"Slip"},{
+Key:1005808,Text:"Instrumentalne"},{
+Key:1005809,Text:"Drugih"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"PROTI"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"SEM"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Zaprite"},{
+Key:1005851,Text:"&Jezik:"},{
+Key:1005852,Text:"&Založba:"},{
+Key:1005853,Text:"Vse"},{
+Key:1005859,Text:"Prenosa pesem sporazumov glede na položaj na capodiastre."},{
+Key:1005860,Text:"Poišči pesmi, vključno z naslovom (ali vzdevka) ali besedila vsebujejo besede, ki jih vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005861,Text:"Izvede iskanje v dveh stopnjah, da prednost hitro prikazati kratek seznam pesmi:
+
+1 Iskanje v prvi čas pesmi, vključno z naslovom (ali vzdevka) vsebuje besede, ki jih vnesete.
+
+Da dodate besede, prihaja čas, kjer se lahko strinja večina vseh pesmi.
+
+2. Iz te točke, VideoPsalm bo iskala po besedah v lyrics od pesmi.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005862,Text:"Poišči pesmi tekstopisci, ki ga vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005863,Text:"Poiskati skladbe, ki se ukvarjajo s temami, ki jih vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005864,Text:"Poišči pesmi zgleduje po biblijskih referenc, ki jih vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005865,Text:"Je pesem, ki ima CCLI vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005866,Text:"Poiskati skladbe, katerih copyright vsebuje besede, ki jih vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005867,Text:"Poiskati skladbe, katerih memo 1 vsebuje besede, ki jih vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005868,Text:"Poiskati skladbe, katerih memo 2 vsebuje besede, ki jih vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005869,Text:"Poišči pesmi 3 memo, ki vsebujejo besede vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005870,Text:"Poiskati skladbe, katerih naslov ali vzdevek vsebuje besede, ki jih vnesete.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005871,Text:"Poišči pesmi, ki so sporazumi v lyrics.
+
+Druga možnost je, lahko iščete pesem s številko."},{
+Key:1005872,Text:"&Različica:"},{
+Key:1005873,Text:"&Različica:"},{
+Key:1005874,Text:"Datum vaša različica zbirke"},{
+Key:1005875,Text:"Določa datum, na katerega ta zbirka je bila posodobljena z VideoPsalm zadnjič.
+
+Preko spletne knjižnice VideoPsalm uvoz čarovnik, lahko preverite, če obstaja novejša različica tega priročnika.
+
+VideoPsalm online posodablja včasih nekaj zbirk, da popravi na primer vse tipkarske napake."},{
+Key:1005876,Text:"Datum vaš prevod Biblije"},{
+Key:1005877,Text:"Označuje datum, ko ta biblija je bila posodobljena z VideoPsalm zadnjič.
+
+Preko VideoPsalm spletna knjižnica čarovnika za uvoz, lahko preverite, če obstaja novejša različica ta prevod.
+
+VideoPsalm online posodobitve včasih nekaj Biblije, da popravi na primer vse tipkarske napake."},{
+Key:1005878,Text:"Stisnjen"},{
+Key:1005879,Text:"Stisnjen"},{
+Key:1005880,Text:"VideoPsalm lahko obkladek svojih zbirk in vaši Biblije, tako prihranite nekaj prostora na disku.
+
+Knjige in Biblije, ki jo prenesete prek čarovnika za uvoz po navadi stisnili, tako, da pospeši download in za zmanjšanje internetnega prometa na spletni strani VideoPsalm."},{
+Key:1005881,Text:"&Stisnjen"},{
+Key:1005882,Text:"&Stisnjen"},{
+Key:1005884,Text:"Ali želite res izbrisati Sveto pismo »{0} «?
+
+Datoteke, ki ustreza ta pisma ne bodo izbrisani iz diska:
+razširitev bo preimenovan \".ignore."},{
+Key:1005885,Text:"Izbrisati Sveto pismo"},{
+Key:1005886,Text:"Prosim, prosim počakajte"},{
+Key:1005887,Text:"Nalaganje v teku..."},{
+Key:1005888,Text:"Stara zaveza"},{
+Key:1005889,Text:"Nova zaveza"},{
+Key:1005890,Text:"Trenutni zapis..."},{
+Key:1005891,Text:"&Uvoz slike"},{
+Key:1005892,Text:"Izberite slike, ki jih želite uvoziti in kliknite na \"Odpri\"."},{
+Key:1005893,Text:"Uvozite {0} okvir (s)."},{
+Key:1005894,Text:"Ni slike niste uvozili.
+((S) je našla (s) v galeriji)."},{
+Key:1005895,Text:"&Ponovno sličice"},{
+Key:1005896,Text:"Ponovno sličice"},{
+Key:1005897,Text:"Ali želite ponovno sličic?
+
+Morda bo treba ponovno sličice slik
+Ko ste naredili spremembe zunaj VideoPsalm."},{
+Key:1005898,Text:"&Brisanje slike"},{
+Key:1005899,Text:"Odstranite sliko"},{
+Key:1005900,Text:"Ali želite res izbrisati sliko »{0} «?"},{
+Key:1005901,Text:"&Raziščite mapi slike"},{
+Key:1005902,Text:"&Izbrisati izbrano sliko"},{
+Key:1005903,Text:"&Uvoz videoposnetkov"},{
+Key:1005904,Text:"Izbrati televizija, ki jo želite uvoziti, in kliknite na \"Odpri\"."},{
+Key:1005905,Text:"Uvozite video {0} (s)."},{
+Key:1005906,Text:"Videa niste uvozili.
+((S) je našla (s) v galeriji)."},{
+Key:1005907,Text:"&Ponovno sličice"},{
+Key:1005908,Text:"&Brisanje video"},{
+Key:1005909,Text:"Brisanje video"},{
+Key:1005910,Text:"Ali želite res izbrisati televizija »{0} «?"},{
+Key:1005911,Text:"&Raziščite mapi videi"},{
+Key:1005912,Text:"&Brisanje izbranega video"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Uvažanje slik"},{
+Key:1005915,Text:"Uvoz videoposnetkov"},{
+Key:1005917,Text:"Ne more ustvariti mape
+{0} :
+{1}"},{
+Key:1005918,Text:"Navedena mapa ne podpira:
+{0}"},{
+Key:1005919,Text:"Mapo morate izpolniti."},{
+Key:1005920,Text:"Ime mape ne sme vsebovati teh znakov:
+{0}"},{
+Key:1005921,Text:"Obnovitev knjig in Biblije"},{
+Key:1005922,Text:"Obnoviti zbirke, Biblije, slike ali videoposnetke, na primer od a prislon naprej a USB prekla."},{
+Key:1005923,Text:"Zaprite"},{
+Key:1005930,Text:"&Kopirajte pesem za"},{
+Key:1005931,Text:"&Premakniti pesem na"},{
+Key:1005932,Text:"Ali res želite kopirati pesem »{0} «.
+v zbirko {1}?"},{
+Key:1005933,Text:"Ali res želite premakniti pesem »{0} «.
+v zbirko {1}?"},{
+Key:1005934,Text:"&Vnesite sklice preko okrajšave"},{
+Key:1005935,Text:"&Prikazno ime knjig v francoskem jeziku"},{
+Key:1005936,Text:"(Kopija)"},{
+Key:1005937,Text:"Nova knjiga je na voljo:
+{0}"},{
+Key:1005938,Text:"Nove zbirke so na voljo: {0}"},{
+Key:1005939,Text:"Popravljene so bile
+zbirka »{0} «."},{
+Key:1005940,Text:"Popravljene so bile
+šifre sledi: {0}"},{
+Key:1005941,Text:"Odprite čarovnika za uvažanje zbirk"},{
+Key:1005942,Text:"Nova biblija je na voljo:
+{0}"},{
+Key:1005943,Text:"Nov Biblije so na voljo: {0}"},{
+Key:1005944,Text:"Popravljene so bile
+Sveto pismo »{0} «."},{
+Key:1005945,Text:"Popravljene so bile
+v Bibles naslednje: {0}"},{
+Key:1005946,Text:"Odprite čarovnika za uvažanje Biblije"},{
+Key:1005947,Text:"VideoPsalm je na voljo
+v {0}"},{
+Key:1005948,Text:"VideoPsalm je na voljo za: {0}"},{
+Key:1005949,Text:"Popravljene so bile
+oznake v {0}"},{
+Key:1005950,Text:"Popravljene so bile
+oznake jezikov po: {0}"},{
+Key:1005951,Text:"Odprite uvoz čarovnik za nalepke"},{
+Key:1005952,Text:"Novejša različica
+VideoPsalm je na voljo:"},{
+Key:1005953,Text:"Prikaz novic"},{
+Key:1005954,Text:"Avtomatski"},{
+Key:1005955,Text:"Raziščite izbrane mape"},{
+Key:1005956,Text:"Izberite mapo"},{
+Key:1005957,Text:"Prikaz nedavnih datotek"},{
+Key:1005958,Text:"Shrani"},{
+Key:1005959,Text:"Omogoča shranjevanje zbirke, Biblije, slik ali videov, ali izdelovanje a prenosen prevod od VideoPsalm, na primer naprej a USB prekla."},{
+Key:1005960,Text:"&Obnoviti..."},{
+Key:1005961,Text:"VideoPsalm ne more prikazati PowerPoint dokumentov.
+
+(Nobenega programa PowerPoint vrsta je bila zaznana v računalniku)."},{
+Key:1005962,Text:"Napaka PowerPoint"},{
+Key:1005963,Text:"Da {0} mogoče urejati v zbirki »{1} «."},{
+Key:1005964,Text:"Da {0} mogoče urejati v zbirki..."},{
+Key:1005965,Text:"Da {0} omogoča urejanje v novo kolekcijo »{1} «."},{
+Key:1005966,Text:"Svetopisemski odlomki"},{
+Key:1005967,Text:"&Meri biblija prehodov"},{
+Key:1005968,Text:"&Opis:"},{
+Key:1005969,Text:"&Jezik:"},{
+Key:1005970,Text:"&Založba:"},{
+Key:1005971,Text:"&Skrbnik:"},{
+Key:1005973,Text:"&Skrbnik:"},{
+Key:1005974,Text:"Nad besedilom"},{
+Key:1005975,Text:"Sporazumi nad besedilom"},{
+Key:1005976,Text:"To je priporočen način za urejanje besedila.
+Ko urejate besedilo, vsak sporazum premakne s črko, ki je zasidrana.
+
+Ko boste <b>kopijo besedila vsebujejo sporazumi</b>, sporazumi prekopirajo z besedilom, ChordPro oblika.
+
+Ko prilepite besedilo, ki vsebuje sporazume v obliki ChordPro, VideoPsalm prikaže teh sporazumov nad besedilom.
+
+<b>Dodati dogovor</b>, vstavi levo od črka to hočeš nabrežje to, da jih obdamo z oklepaja <b>[]</b>.
+
+<b>Izbrisati dogovor</b>, izbrisati črka, ki je zasidrana in nato znova vnesite črko.
+
+<b>Spremeniti sporazum</b>, izbrisati nato vstavite pravilno (ali uporabite način <b>Format ChordPro«</b> )."},{
+Key:1005977,Text:"ChordPro oblika"},{
+Key:1005978,Text:"Sporazumi v obliki ChordPro"},{
+Key:1005979,Text:"V tem načinu:
+
+-VideoPsalm prikaže besedila in Akordi z <b>ChordPro obliko</b>.
+
+-Je idealen način za urejanje sporazumi: VideoPsalm samodejno doda oklepaje [] okoli besedila, ki ga vnesete.
+Na primer, dodati c struna, tip »Ali« in VideoPsalm vstavi \"[to]\".
+
+Pozor: ta način ni primerna za urejanje besedila, saj odvisno od primera, VideoPsalm obdaja črke trnkov.
+Uporabite raje \"<b>nad besedilom</b>\" način, da uredite besedilo."},{
+Key:1005980,Text:"Sporazumi"},{
+Key:1005981,Text:"Izvod"},{
+Key:1005982,Text:"Kopira opis koledar in ga postavite v odložišče."},{
+Key:1005983,Text:"&Omogoča PowerPointu uporabiti \"voditelj\"."},{
+Key:1005984,Text:"Ko je to polje potrjeno, VideoPsalm listi PowerPoint prikaže njegov ukaz vmesnik voziti napredovanje predstavitve."},{
+Key:1005985,Text:"Nekoč obrv"},{
+Key:1005986,Text:"Zanke"},{
+Key:1005987,Text:"Ročno napredovanje"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Avtomatski vnaprej..."},{
+Key:1005990,Text:"&Ročno napredovanje"},{
+Key:1005991,Text:"&Zanke"},{
+Key:1005992,Text:"&Nekoč obrv"},{
+Key:1005993,Text:"&Interval (v sekundah):"},{
+Key:1005994,Text:"&Izginejo besedilo in nato izklopite"},{
+Key:1005995,Text:"&Nadaljevanje z naslednji element"},{
+Key:1005996,Text:"&Izklop pred odhodom"},{
+Key:1005997,Text:"&Izginjajo besedilo torej slediti"},{
+Key:1005998,Text:"&Prikazati skupaj s naslednji element (dvojezičnih)"},{
+Key:1005999,Text:"&Raziskovalec"},{
+Key:1006000,Text:"Čarovnik za uvoz"},{
+Key:1006001,Text:"Dobrodošli na uvoz knjig, Biblije, slike in videe čarovnik"},{
+Key:1006002,Text:"Čarovnik poenostavi uvoznice knjig, Biblije, slike in video posnetke iz knjižnice online VideoPsalm ali priljubljenih formatov, ki vas vodijo skozi niz korakov."},{
+Key:1006003,Text:"Kliknite Nadaljuj"},{
+Key:1006004,Text:"&Izberite..."},{
+Key:1006005,Text:"&Naslednji &gt;"},{
+Key:1006006,Text:"&&lt; Prejšnje"},{
+Key:1006007,Text:"&pomoč"},{
+Key:1006008,Text:"&Zaključek"},{
+Key:1006009,Text:"&Opustitev"},{
+Key:1006010,Text:"Uvozite lahko knjige, Biblije, slik ali videov"},{
+Key:1006011,Text:"Izberite, kaj želite uvoziti"},{
+Key:1006012,Text:"Uvozite zbirko"},{
+Key:1006013,Text:"Uvoz Sveto pismo"},{
+Key:1006014,Text:"Uvoz slike"},{
+Key:1006015,Text:"Uvoz videoposnetkov"},{
+Key:1006016,Text:"Uvoz jezik"},{
+Key:1006020,Text:"&Inicializacija"},{
+Key:1006021,Text:"Inicializira mapo za standardna vrednost"},{
+Key:1006023,Text:"Povzetek pred uvozom"},{
+Key:1006024,Text:"Kliknite naprej, da začnete uvoz"},{
+Key:1006025,Text:"Trenutnega uvoza"},{
+Key:1006026,Text:"Uvoz je končan"},{
+Key:1006027,Text:"Če želite zapreti čarovnika, kliknite Dokončaj
+
+Kliknite nazaj na uvoz drugo zbirko ali drugo Sveto pismo"},{
+Key:1006029,Text:"Imate {0}, ki je uspešno uvozili pesmi v zbirkah {1}."},{
+Key:1006030,Text:"Imate {0}, ki je uspešno uvozili pesmi v novo kolekcijo »{1} «."},{
+Key:1006031,Text:"Uvozite »{0}\"Sveto pismo z uspehom."},{
+Key:1006032,Text:"Uvozite {0} Biblije z uspehom."},{
+Key:1006033,Text:"Uvozite jezik »{0} «z uspehom."},{
+Key:1006034,Text:"{0} Jeziki so uspešno uvožen."},{
+Key:1006035,Text:"Ali želite ustaviti uvoz?"},{
+Key:1006036,Text:"Uvoza ni bilo pravilno dokončano."},{
+Key:1006037,Text:"Vnesite ime za novo zbirko od VideoPsalm"},{
+Key:1006038,Text:"Nova kolekcija bodo shranjene pod tem imenom. Ta imena lahko pozneje spremenite"},{
+Key:1006039,Text:"&Ime dati v zbirko:"},{
+Key:1006040,Text:"Poimenujte to novo Sveto pismo VideoPsalm"},{
+Key:1006041,Text:"Nova biblija bodo shranjene pod tem imenom. Ta imena lahko pozneje spremenite"},{
+Key:1006042,Text:"&Ime dati Sveto pismo:"},{
+Key:1006051,Text:"Izberite zbirke"},{
+Key:1006052,Text:"Izberite Biblije"},{
+Key:1006053,Text:"Izberite datoteko"},{
+Key:1006054,Text:"Izberite mapo"},{
+Key:1006055,Text:"&Datoteka:"},{
+Key:1006056,Text:"&Datoteka:"},{
+Key:1006057,Text:"Izberite jezike"},{
+Key:1006058,Text:"Mapa »{0} «ne obstaja."},{
+Key:1006060,Text:"Ni dostop do mape »{0} «.
+
+{1}"},{
+Key:1006061,Text:"Datoteka »{0} «ne obstaja."},{
+Key:1006062,Text:"Pozor: Natovarjanje veliko zbirk lahko izpolnite pomnilnika računalnika in počasno iskanje pesmi.
+Ali res ste download {0} zbirke?"},{
+Key:1006063,Text:"Pozor: Natovarjanje veliko Biblije lahko izpolnite pomnilnika računalnika.
+Ali res si prenesete {0} Biblije?"},{
+Key:1006064,Text:"Novo ime ne sme biti prazno."},{
+Key:1006065,Text:"Novo ime ne more vsebovati naslednjih znakov: {0}"},{
+Key:1006066,Text:"Zbirko z imenom »{0} «že obstaja."},{
+Key:1006067,Text:"Sveto pismo z imenom »{0} «že obstaja."},{
+Key:1006068,Text:"Ustavil uvoz."},{
+Key:1006069,Text:"Preverite internetno povezavo."},{
+Key:1006070,Text:"Na voljo iz {0}"},{
+Key:1006071,Text:"Nova različica je na voljo od {0}"},{
+Key:1006072,Text:"Različica datume iz {0}"},{
+Key:1006073,Text:"Vaša različica {0} je posodobljen."},{
+Key:1006074,Text:"Naslov"},{
+Key:1006075,Text:"Država"},{
+Key:1006076,Text:"Ne downloaded"},{
+Key:1006077,Text:"Posodobitev"},{
+Key:1006078,Text:"Posodobitev na voljo"},{
+Key:1006079,Text:"Nove"},{
+Key:1006080,Text:"Novo posodobitev, ki so na voljo"},{
+Key:1006081,Text:"Izbrana nobena zbirka.
+Izbrati morate vsaj eno zbirko."},{
+Key:1006082,Text:"Ni biblija je izbran.
+Izbrati morate vsaj Sveto pismo."},{
+Key:1006083,Text:"Noben jezik je izbran.
+Izbrati morate vsaj en jezik."},{
+Key:1006084,Text:"Zbornik"},{
+Key:1006085,Text:"Vir rešitve: <b>{0}</b>"},{
+Key:1006086,Text:"Izvorne mape:
+<b>{0}</b>"},{
+Key:1006087,Text:"Iskanje dokumenta"},{
+Key:1006090,Text:"Ime za novo Sveto pismo VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Nove zbirke VideoPsalm ime vrste: <b>{0}</b>"},{
+Key:1006095,Text:"V knjižnici VideoPsalm online, to se zgodi, da nekateri dokumenti so dodani ali posodobljeni (npr. Če želite popraviti tipkarsko napako).
+Glede na stanje navedenih dokumentov, se lahko odločite, ali naj jih prenesete.
+
+<b>Tukaj je, kako razlikovati stanja dokumentov:</b>
+-Dokumente, ki niso prenesene so prikazani v navadnem.
+-Dokumente, ki ste jih naložili in posodobljene so prikazani v <i>poševnem tisku</i>. So označena s <image=check_16>OK.
+Ni treba ponovno - prenesti, razen v primeru, če želite preklicati vse spremembe, ki ste jih naredili.
+-Dokumente, ki ste jih naložili in ki v tem času smo naredili popravki v online VideoPsalm knjižnice, se prikaže v <b>krepkem tisku</b>. Oni so označeni s svinčnikom <image=pencil2_16>.
+
+Polje z besedilom na desni opisuje kaj popravljene so bile v dokument: to lahko odločite, če želite drugi ton oktave - travnato gričevje.
+
+<b>Pozornost:</b> Če želite posodobiti dokument v ponovnem nalaganju, boste izgubili vse spremembe, ki ste jih naredili, tudi kot svoj slog atributi, ker VideoPsalm vaš da nadomešča downloads.
+Svoj pila ni izbrisati, vendar: ostane na disku, vendar postane neviden v VideoPsalm, ker VideoPsalm preimenuje Njegova širitev v .ignore.
+
+<b>Svet</b> : samo prenesete dokumente, ki bodo koristili.
+V veljavi, če imate preveč dokumentov, polnjenje VideoPsalm bo postala morda počasnejši, ravno tako kot iskanje po ključnih besedah.
+
+Upoštevajte, da lahko kadarkoli odstranite knjigo ali biblija vaš VideoPsalm. Če želite to narediti, uporabite gumb ' <image=delete2_16>izbrisati \"v zavihku\"Édition\".</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Zgodovino sprememb za »{0} «."},{
+Key:1006100,Text:"Zbirk knjižnice VideoPsalm online"},{
+Key:1006105,Text:"EasySlides pesmi"},{
+Key:1006110,Text:"MediaShout pesmi"},{
+Key:1006115,Text:"OpenLP pesmi"},{
+Key:1006116,Text:"VerseView pesmi"},{
+Key:1006120,Text:"Pesmi v formatu \"OpenLyrics\"."},{
+Key:1006125,Text:"OpenSong pesmi"},{
+Key:1006130,Text:"Zbirka Psalmo"},{
+Key:1006131,Text:"Zbirko v obliki besedila"},{
+Key:1006132,Text:"Pesmi EasyWorship 2009"},{
+Key:1006133,Text:"Pesmi v formatu \"ChordPro\"."},{
+Key:1006134,Text:"Pesmi WebAsaph"},{
+Key:1006135,Text:"Pesmi v formatu »CCLI."},{
+Key:1006140,Text:"Biblije iz knjižnice VideoPsalm online"},{
+Key:1006145,Text:"A Bible biblija Database"},{
+Key:1006150,Text:"Biblija OpenLP"},{
+Key:1006155,Text:"Biblija OpenSong"},{
+Key:1006160,Text:"Biblija nevezano biblija"},{
+Key:1006165,Text:"Zefania Sveto pismo"},{
+Key:1006166,Text:"Biblija EasySlides"},{
+Key:1006167,Text:"Sveto pismo v obliki \"Osis\"."},{
+Key:1006168,Text:"Sveto pismo v obliki knjige »USFM« (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Izberite zbirk knjižnice VideoPsalm online želite uvoziti v vaš VideoPsalm"},{
+Key:1006185,Text:"Izberite zbirko podatkov o EasySlides, ki vsebuje pesmi, ki jo želite uvoziti v vaš VideoPsalm (pripono datoteke .mdb)"},{
+Key:1006190,Text:"Izberite zbirko podatkov o MediaShout, ki vsebuje pesmi, ki jo želite uvoziti v vaš VideoPsalm (pripono datoteke .mdb)"},{
+Key:1006195,Text:"Izberite zbirko podatkov o OpenLP, ki vsebuje pesmi, ki jo želite uvoziti v vaš VideoPsalm (pripono .sqlite datoteke)"},{
+Key:1006196,Text:"Izberite zbirko podatkov o VerseView, ki vsebuje pesmi, ki jo želite uvoziti v vaš VideoPsalm (datoteke z razširitvijo .db)"},{
+Key:1006200,Text:"Izberite mapo, ki vsebuje pesmi v formatu \"OpenLyrics\", ki ga želite uvoziti v vaš VideoPsalm (pripono datoteke .xml)"},{
+Key:1006205,Text:"Izberite mapo, ki vsebuje OpenSong pesmi, ki jo želite uvoziti v vaš VideoPsalm (datoteke brez pripone)"},{
+Key:1006210,Text:"Izberite izvoz Psalmo izvlečku RTF format želite uvoziti v vaš VideoPsalm (pripono datoteke .rtf)"},{
+Key:1006211,Text:"Izberite zbirko, v obliki besedila, ki ga želite uvoziti v vaš VideoPsalm (pripono .txt datoteko)"},{
+Key:1006212,Text:"Izberite zbirko podatkov EasyWorship 2009, ki vsebuje pesmi, ki jo želite uvoziti v vaš VideoPsalm (datoteke z razširitvijo .db)"},{
+Key:1006213,Text:"Izberite mapo, ki vsebuje pesmi v ChordPro formatu, ki ga želite uvoziti v vaš VideoPsalm (.chordpro, .chopro, .crd ali .cho pripono datoteke)"},{
+Key:1006214,Text:"Izberite zbirko podatkov o WebAsaph, ki vsebuje pesmi, ki jo želite uvoziti v vaš VideoPsalm (pila razsežnost .ltc)"},{
+Key:1006215,Text:"Izberite mapo, ki vsebuje pesmi v formatu CCLI uvoziti v vaš VideoPsalm (pripono datoteke .usr)"},{
+Key:1006220,Text:"Izberite Biblije spletne knjižnice VideoPsalm želite uvoziti v vaš VideoPsalm"},{
+Key:1006225,Text:"Izberite biblija iz Biblije zbirko želite uvoziti v vaš VideoPsalm (pripono .txt datoteko)"},{
+Key:1006230,Text:"Izberite Sveto pismo OpenLP, želite uvoziti v vaš VideoPsalm (pripono .sqlite datoteke)"},{
+Key:1006235,Text:"Izberite Sveto pismo OpenSong, ki ga želite uvoziti v vaš VideoPsalm (datoteke brez pripone)"},{
+Key:1006240,Text:"Izberite Bible nevezano biblija, želite uvoziti v vaš VideoPsalm (pripono .txt datoteko)"},{
+Key:1006245,Text:"Izberite Zefania Biblije, ki jo želite uvoziti v vaš VideoPsalm (pripono datoteke .xml)"},{
+Key:1006247,Text:"Izberite Sveto pismo EasySlides, ki ga želite uvoziti v vaš VideoPsalm (pripono datoteke .mdb)"},{
+Key:1006248,Text:"Izberite Sveto pismo v obliki \"Osis\" uvoziti v vaš VideoPsalm (pripono .xml, .osi ali .osis datoteke)"},{
+Key:1006249,Text:"Izberite knjige Biblije \"USFM\" obliko uvozite v vaš VideoPsalm (pripono .sfm ali .usfm datoteke)"},{
+Key:1006252,Text:"Izberite jezik spletne knjižnice VideoPsalm želite uvoziti v vaš VideoPsalm"},{
+Key:1006255,Text:"Uvoz <b>{0} (s) zbirko knjižnice VideoPsalm online</b> :
+{1}"},{
+Key:1006260,Text:"Uvoz <b>EasySlides pesmi</b>"},{
+Key:1006265,Text:"Uvoz <b>pesmi MediaShout</b>"},{
+Key:1006270,Text:"Uvoz <b>OpenLP pesmi</b>"},{
+Key:1006271,Text:"Uvoz <b>VerseView pesmi</b>"},{
+Key:1006275,Text:"Uvoz <b>pesmi v formatu »OpenLyrics«</b>"},{
+Key:1006280,Text:"Uvoz <b>OpenSong pesmi</b>"},{
+Key:1006285,Text:"Uvozite <b>zbirko Psalmo</b>"},{
+Key:1006286,Text:"Uvozite <b>zbirko besedilo</b>"},{
+Key:1006287,Text:"<b>Uvoz pesmi EasyWorship 2009</b>"},{
+Key:1006288,Text:"Uvoz <b>pesmi v formatu ChordPro</b>"},{
+Key:1006289,Text:"Uvoz <b>pesmi WebAsaph</b>"},{
+Key:1006290,Text:"Uvoz <b>format CCLI pesmi</b>"},{
+Key:1006295,Text:"Uvoz <b>{0} biblija (s) iz knjižnice VideoPsalm online</b> :
+{1}"},{
+Key:1006300,Text:"Uvoz <b>Bible biblija Database</b>"},{
+Key:1006305,Text:"Uvoz <b>biblija OpenLP</b>"},{
+Key:1006310,Text:"Uvoz <b>biblija OpenSong</b>"},{
+Key:1006315,Text:"Uvoz <b>biblija nevezano biblija</b>"},{
+Key:1006320,Text:"Uvoz <b>Zefania Sveto pismo</b>"},{
+Key:1006321,Text:"Uvoz <b>EasySlides biblija</b>"},{
+Key:1006322,Text:"Uvoz <b>biblija v obliki \"Osis\"</b>"},{
+Key:1006323,Text:"Uvoz <b>biblija v obliki »USFM«</b>"},{
+Key:1006325,Text:"Uvoz <b>{0} jezik (s) v knjižnici VideoPsalm online</b> :
+{1}"},{
+Key:1006340,Text:"Izberite zbirko podatkov o EasySlide"},{
+Key:1006345,Text:"Izberite zbirko podatkov MediaShout"},{
+Key:1006350,Text:"Izberite zbirko podatkov o OpenLP"},{
+Key:1006351,Text:"Izberite zbirko podatkov o VerseView"},{
+Key:1006355,Text:"Izberite mapo, ki vsebuje pesmi v formatu \"OpenLyrics\"."},{
+Key:1006360,Text:"Izberite mapo, ki vsebuje pesmi OpenSong"},{
+Key:1006365,Text:"Izberite datoteko RTF, ki vsebuje izvožene Psalmo pesmi"},{
+Key:1006366,Text:"Izberite datoteko, ki vsebuje pesmi v obliki besedila"},{
+Key:1006367,Text:"Izberite zbirko podatkov EasyWorship 2009"},{
+Key:1006368,Text:"Izberite mapo, ki vsebuje pesmi v formatu \"ChordPro\"."},{
+Key:1006369,Text:"Izberite zbirko podatkov WebAsaph"},{
+Key:1006370,Text:"Izberite mapo, ki vsebuje pesmi v formatu »CCLI."},{
+Key:1006375,Text:"Izberite biblija BibleDatabase"},{
+Key:1006380,Text:"Izberite biblija OpenLP"},{
+Key:1006385,Text:"Izberite biblija OpenSong"},{
+Key:1006390,Text:"Izberite biblija nevezano biblija"},{
+Key:1006395,Text:"Izberite Zefania Sveto pismo"},{
+Key:1006397,Text:"Izberite biblija EasySlides"},{
+Key:1006398,Text:"Izberite Sveto pismo v obliki \"Osis\"."},{
+Key:1006399,Text:"Izberite knjige biblija v obliki »USFM."},{
+Key:1006405,Text:"EasySlide zbirke podatkov"},{
+Key:1006410,Text:"MediaShout 4 zbirke podatkov"},{
+Key:1006411,Text:"MediaShout 3 zbirke podatkov"},{
+Key:1006415,Text:"OpenLP zbirke podatkov"},{
+Key:1006416,Text:"Baze podatkov o EasyWorship 2009"},{
+Key:1006417,Text:"VerseView zbirke podatkov"},{
+Key:1006420,Text:"Mapa »{0} «.
+vsebuje ni petje na \"OpenLyrics\" (razširitev xml) obliko."},{
+Key:1006425,Text:"Mapa »{0} «.
+vsebuje OpenSong pesem (pesmi OpenSong so datoteke brez pripone)."},{
+Key:1006430,Text:"Pesmi, ki se izvaža iz Psalmo"},{
+Key:1006431,Text:"Pesmi v obliki besedila"},{
+Key:1006432,Text:"Mapa »{0} «.
+vsebuje ne petje v obliki \"ChordPro\" (razširitev chopro/chordpro, crd in cho)."},{
+Key:1006433,Text:"WebAsaph zbirke podatkov"},{
+Key:1006434,Text:"Mapa »{0} «.
+vsebuje ni pesem v formatu »CCLI» (.usr razširitev)."},{
+Key:1006440,Text:"BibleDatabase Biblije"},{
+Key:1006445,Text:"OpenLP Biblije"},{
+Key:1006450,Text:"OpenSong Biblije"},{
+Key:1006455,Text:"Nevezano biblija Biblije"},{
+Key:1006460,Text:"Zefania Biblije"},{
+Key:1006462,Text:"EasySlides Biblije"},{
+Key:1006463,Text:"Biblije v obliki \"Osis\"."},{
+Key:1006464,Text:"Knjige Svetega pisma v obliki »USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Ljubim gospod 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Moj chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Ljubim gospod"},{
+Key:1006510,Text:"MSAccess podatkovnih baz"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Vse datoteke"},{
+Key:1006520,Text:"SQLite baze podatkov"},{
+Key:1006525,Text:"Paradox database"},{
+Key:1006526,Text:"Zbirka podatkov WebAsaph"},{
+Key:1006600,Text:"Izberite spletna knjižnica VideoPsalm ali drugega vira"},{
+Key:1006601,Text:"VideoPsalm spletna knjižnica vsebuje številne zbirke v več jezikih"},{
+Key:1006602,Text:"VideoPsalm online (internet povezava med uvozom) knjižnice"},{
+Key:1006603,Text:"Pesmi v priljubljenih, uvoziti na vaš trdi disk format"},{
+Key:1006604,Text:"Izberite spletna knjižnica VideoPsalm ali drugega vira"},{
+Key:1006605,Text:"VideoPsalm spletna knjižnica vsebuje veliko prevodov Biblije v različne jezike"},{
+Key:1006606,Text:"VideoPsalm online (internet povezava med uvozom) knjižnice"},{
+Key:1006607,Text:"Sveto pismo v priljubljenih, uvoziti na vaš trdi disk format"},{
+Key:1006608,Text:"Kaj je vir vaše pesmi format?"},{
+Key:1006609,Text:"Kakšna je oblika vir Sveto pismo?"},{
+Key:1006610,Text:"Lahko uvozite v vaš VideoPsalm Sveto pismo v priljubljeni obliki shranjen v vašem računalniku"},{
+Key:1006611,Text:"Boste lahko uvozili v vaš VideoPsalm v ljudski oblika pesmi, shranjenih v računalniku"},{
+Key:1007000,Text:"Varnostno kopiranje"},{
+Key:1007001,Text:"Ali želite zagnati varnostno VideoPsalm v mapi
+« {0} » ?"},{
+Key:1007004,Text:"Ni mogoče izvesti varnostno kopiranje v izbrani mapi,
+ker se nahaja v trenutni mapi dokumentov, VideoPsalm
+({0})."},{
+Key:1007005,Text:"Na pogonu {0} ni dovolj prostora.
+Naj {1: #, # #} MB, in obstaja le {2: #, #. #} MB prostora."},{
+Key:1007006,Text:"Varnostne kopije ni bilo mogoče dokončati:
+
+{0}"},{
+Key:1007007,Text:"Nezmožen v travnato gričevje mikroskop .NET Framework 4.0:
+
+{0}
+
+To je lahko posledica pomanjkanja internetno povezavo.
+Backup bo še običajno,
+vendar ne boste mogli namestiti Microsoft .NET Framework 4.0 iz varnostne kopije."},{
+Key:1007008,Text:"na voljo {0}"},{
+Key:1007009,Text:"Opomnik: Varnostne kopije ni bilo mogoče kopirati
+namestitev ogrodja Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Backup pravilno končal."},{
+Key:1007011,Text:"Ali želite zapustiti prislon?"},{
+Key:1007030,Text:"Izberite mapo ali ustvarite vse-v-enem za mesto varnostne kopije VideoPsalm"},{
+Key:1007031,Text:"Varnostno kopiranje dokumentov (knjige, Biblije, slike, video posnetke, slogi) na mesto, ki ga določite, na primer:
+-a USB
+-zunanji trdi disk,
+-omrežne mape,
+-itd.
+
+<b>Varnostno kopijo lahko tudi:</b>
+-zagotoviti vaš listina s podvajanjem jih na drugem mediju,
+-zgraditi a prenosen prevod od VideoPsalm, na primer naprej a USB prekla,
+-z lahkoto prenesejo svoje dokumente v drugem računalniku, uporabite funkcijo obnovitev
+-podvojiti svoje dokumente za več konfiguracij zbirk s slogi, ki jih imajo v istem računalniku.
+
+<b>Opomba:</b> Sinhroniziranje zapisov VideoPsalm med več računalnikov, lahko izberete več neposredno za sinhronizacijo kot SkyDrive ali DropBox storitev."},{
+Key:1007032,Text:"Izberite dokumente, ki ga želite shraniti:"},{
+Key:1007033,Text:"&Zbirke"},{
+Key:1007034,Text:"&Biblije"},{
+Key:1007035,Text:"&Slike"},{
+Key:1007036,Text:"&Video posnetki"},{
+Key:1007037,Text:"&Shranite dokumente na:"},{
+Key:1007038,Text:"Določite mapo, v kateri shranite dokumente VideoPsalm tukaj.
+
+Na primer: »E:\\Ma backup VideoPsalm.
+
+Če mapa ne obstaja, je ustvarjen samodejno kdaj backup."},{
+Key:1007039,Text:"&Ustvarite prenosen uporaba VideoPsalm"},{
+Key:1007040,Text:"Doda vse izvedljive datoteke, ki so potrebne za delovanje VideoPsalm prislon zgibalnik.
+
+Na splošno je na USB ključ, ki ga želite ustvariti aplikacijo za prenosni VideoPsalm.
+
+Prenosni varnostno teči VideoPsalm na kateri koli drug računalnik neposredno iz USB ključa, brez potrebe za namestitev VideoPsalm.
+
+Odhod VideoPsalm iz USB ključa, boste imeli dostop do vseh funkcij VideoPsalm, vključno z varnostno kopijo. To omogoča, da shranite VideoPsalm na trdi disk v drugem računalniku, tako naknadno teči brez USB ključ.
+
+<b>Pomembno</b>
+VideoPsalm možnosti niso dodane varnostne kopije.
+Na prvi nastop VideoPsalm na določenem računalniku, boste morali prilagoditi VideoPsalm možnosti, na primer dovoljenja za cerkev."},{
+Key:1007041,Text:"&Dodajanje Microsoft .NET Framework 4.0 namestitveni program"},{
+Key:1007042,Text:"Za delovanje, VideoPsalm potrebuje .NET Framework 4.0 s mikroskop. Novejši računalniki imajo pogosto .NET Framework 4.0 ali višje preinstalled. Če niste prepričani, da je v drugi računalnik nameščen .NET Framework 4.0, potrdite polje »Dodaj namestitev ogrodja .NET Framework 4.0. VideoPsalm bo nato postavi na USB stick setup .NET Framework 4.0 (internetne povezave je potrebno za to).
+
+Iz USB ključa, lahko preprosto namestite .NET Framework 4.0 naprej drugi računalo spredaj vi začetek VideoPsalm. Umestitev od .NET Framework 4.0 je zelo hitro in ne zaženite Windows normalno.
+
+Boste našli namestitev .NET Framework 4.0 pila v prislon zgibalnik. Datoteka se imenuje \"dotNetFx40_Full_x86_x64.exe. Začeti umestitev od .NET Framework 4.0 naprej še eden računalo, dvokliknite datoteko."},{
+Key:1007043,Text:"&Začetek kopiranja"},{
+Key:1007044,Text:"Travnato gričevje mikroskop .NET Framework 4.0"},{
+Key:1007045,Text:"&Mapo (mapo, ki bo shranjena) VideoPsalm dokumentov:"},{
+Key:1007046,Text:"Naj zbirk v določeno mapo, preden shranite rudnik"},{
+Key:1007047,Text:"Odstranite zbirke določene mape pred zaščititi rudnik"},{
+Key:1007048,Text:"Pustite Biblije v določeno mapo pred tam zaščititi rudnik"},{
+Key:1007049,Text:"Odstrani Biblije navedeno pred mapo je zaščititi rudnik"},{
+Key:1007050,Text:"Slike v mapi določen pred dopustom je zaščititi rudnik"},{
+Key:1007051,Text:"Brisanje slik iz mape, ki je določena pred je zaščititi rudnik"},{
+Key:1007052,Text:"Naj video posnetke v mapi, ki je določena pred je zaščititi rudnik"},{
+Key:1007053,Text:"Brisanje video posnetke iz določene mape pred zaščititi rudnik"},{
+Key:1007054,Text:"Izberite mapo ali ustvarite mesto varnostne kopije VideoPsalm"},{
+Key:1007055,Text:"Omogočajo audio iz določene mape pred je zaščititi rudnik"},{
+Key:1007056,Text:"Audio odstrani iz mape, ki je določena pred je zaščititi rudnik"},{
+Key:1007057,Text:"&Avdio"},{
+Key:1008000,Text:"Obnovitev varnostne kopije"},{
+Key:1008001,Text:"Ali želite obnoviti varnostno kopijo VideoPsalm iz mape
+« {0} » ?
+
+Pozor: Glede na možnosti, ki ste jo izbrali, vaše trenutne dokumente bo nadomesti ali izbrisati."},{
+Key:1008002,Text:"Vnesite mapo iz varnostne kopije želite obnoviti."},{
+Key:1008004,Text:"Ne more obnoviti varnostno kopijo iz mape, ki ste izbrali,
+ker se nahaja v trenutni mapi VideoPsalm dokumentov."},{
+Key:1008006,Text:"More dokončati obnovitev:
+
+{0}"},{
+Key:1008010,Text:"Obnove se je končala."},{
+Key:1008011,Text:"Ali želite zapustiti obnovo?"},{
+Key:1008012,Text:"Obnovitev varnostne kopije"},{
+Key:1008032,Text:"Izberite dokumente, ki jih želite obnoviti:"},{
+Key:1008033,Text:"&Zbirke"},{
+Key:1008034,Text:"&Biblije"},{
+Key:1008035,Text:"&Slike"},{
+Key:1008036,Text:"&Video posnetki"},{
+Key:1008043,Text:"&Obnovitev"},{
+Key:1008044,Text:"Naj moje zbirke preden obnovite iz varnostne kopije"},{
+Key:1008045,Text:"Izbriši moje zbirke preden obnovite iz varnostne kopije"},{
+Key:1008046,Text:"Pustite moje Biblije, preden obnovite iz varnostne kopije"},{
+Key:1008047,Text:"Izbrisati svoj Biblije, preden obnovite iz varnostne kopije"},{
+Key:1008048,Text:"Pustite moje slike, preden obnovite iz varnostne kopije"},{
+Key:1008049,Text:"Izbriši moje slike, preden obnovite iz varnostne kopije"},{
+Key:1008050,Text:"Pustite moje videe, preden obnovite iz varnostne kopije"},{
+Key:1008051,Text:"Izbrisati svoj televizija preden obnovite iz varnostne kopije"},{
+Key:1008052,Text:"&Obnovitev varnostne kopije iz:"},{
+Key:1008053,Text:"Tukaj določite mapo, iz katere bo obnovljena zapise VideoPsalm.
+
+Primer: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Mapo (mapo, kjer bo mogoče obnoviti prislon) VideoPsalm dokumentov:"},{
+Key:1008055,Text:"Osveži"},{
+Key:1008056,Text:"Izberite mapo, ki vsebuje varnostno kopijo VideoPsalm"},{
+Key:1008057,Text:"&Avdio"},{
+Key:1008058,Text:"Naj moj avdio preden obnovite iz varnostne kopije"},{
+Key:1008059,Text:"Izbrisati svoj slišan preden obnovite iz varnostne kopije"},{
+Key:1008999,Text:"Video projektor"},{
+Key:1009000,Text:"pesem"},{
+Key:1009001,Text:"pesmi {0}"},{
+Key:1009002,Text:"seznam verzov"},{
+Key:1009003,Text:"seznami {0} verzov"},{
+Key:1009004,Text:"sliko"},{
+Key:1009005,Text:"slike {0}"},{
+Key:1009006,Text:"Sveto pismo »{0} «."},{
+Key:1009007,Text:"Poglavje {0}"},{
+Key:1009009,Text:"{0} Biblije"},{
+Key:1009010,Text:"Podoba »{0} «."},{
+Key:1009011,Text:"{0} ({1} slike)"},{
+Key:1009012,Text:"slike {0}"},{
+Key:1009013,Text:"{0} ({1} diapozitivi)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Nalaganje privzeti slog"},{
+Key:1009016,Text:"Nalaganju sloga zbirk"},{
+Key:1009017,Text:"Nalaganje zbirke »{0} «."},{
+Key:1009018,Text:"Nalaganju sloga Biblije"},{
+Key:1009019,Text:"Nalaganje Svetega pisma »{0} «."},{
+Key:1009020,Text:"Datoteke: {0}"},{
+Key:1009100,Text:"{0} ({1} pesmi)"},{
+Key:1009101,Text:"{0} (eno pesem)"},{
+Key:1009102,Text:"{0} (ni vokal)"},{
+Key:1009103,Text:"Datoteko »{0} «že obstaja.
+v kateri bi VideoPsalm shrani novo zbirko »{1} «.
+
+Je nemogoče rešiti ta Nova kolekcija.
+Kratica ali enolično ime za novo zbirko in znova poskusite shraniti."},{
+Key:1009104,Text:"Registracija ni uspela"},{
+Key:1009105,Text:"More premakniti datoteko
+{0}
+črvi
+{1}.
+
+(2)"},{
+Key:1009107,Text:"{0} Zbirk"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} verzov)"},{
+Key:1009111,Text:"Video »{0} «."},{
+Key:1009112,Text:"{0} ({1} videov)"},{
+Key:1009113,Text:"video posnetki {0}"},{
+Key:1009114,Text:"Ni mogoče shraniti v zbirko.
+Ime zbirke lahko shranite."},{
+Key:1010000,Text:"Glej več barv"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Zaprite"},{
+Key:1010003,Text:"&Pregleden"},{
+Key:1010004,Text:"Prekliči"},{
+Key:1010005,Text:"v redu"},{
+Key:1010006,Text:"Prikaže manj barve"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"PROTI"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Zaprite brez vstavite polje"},{
+Key:1011001,Text:"Kratica za zbiranje"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Avtor pesem"},{
+Key:1011004,Text:"Avtor zbirke"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Ključ"},{
+Key:1011007,Text:"Skladatelj"},{
+Key:1011008,Text:"Avtorske pravice za pesem"},{
+Key:1011009,Text:"Avtorske pravice za knjigo"},{
+Key:1011010,Text:"Oznaka verz"},{
+Key:1011011,Text:"Oznako in številko verz"},{
+Key:1011012,Text:"Oblika"},{
+Key:1011013,Text:"Licenca je cerkve"},{
+Key:1011014,Text:"Vrstica za ključnih"},{
+Key:1011015,Text:"Memo 1"},{
+Key:1011016,Text:"Memo 2"},{
+Key:1011017,Text:"Memo 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Položaj verz"},{
+Key:1011020,Text:"Verz št."},{
+Key:1011021,Text:"Petje št."},{
+Key:1011022,Text:"Opomba verz"},{
+Key:1011023,Text:"Število pesmi iz zbirke"},{
+Key:1011024,Text:"Število kitice"},{
+Key:1011025,Text:"Sklic"},{
+Key:1011026,Text:"Zaporedje kitice"},{
+Key:1011027,Text:"Podpis"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Naslov pesmi"},{
+Key:1011031,Text:"Naslov knjige"},{
+Key:1011032,Text:"Tone"},{
+Key:1011033,Text:"3. Odstranite vsa polja"},{
+Key:1011034,Text:"2. Uporabo standardnih polj"},{
+Key:1011035,Text:"Skrbnik"},{
+Key:1011036,Text:"Jezik"},{
+Key:1011037,Text:"Urednik"},{
+Key:1011038,Text:"Prenos"},{
+Key:1011101,Text:"Kratica Svetega pisma"},{
+Key:1011102,Text:"Kratica knjige"},{
+Key:1011103,Text:"POGLAVJE"},{
+Key:1011104,Text:"Copyright Svetega pisma"},{
+Key:1011105,Text:"Opis Svetega pisma"},{
+Key:1011107,Text:"Urednik"},{
+Key:1011108,Text:"Jezik"},{
+Key:1011109,Text:"Ime Svetega pisma"},{
+Key:1011110,Text:"Ime knjige"},{
+Key:1011111,Text:"Število poglavij knjige"},{
+Key:1011112,Text:"Število verzov poglavja"},{
+Key:1011113,Text:"Zaveza"},{
+Key:1011114,Text:"Verz"},{
+Key:1011115,Text:"Skrbnik Svetega pisma"},{
+Key:1011200,Text:"&Vstavljanje polja:"},{
+Key:1011201,Text:"Oblikujete besedilo, prikazano v glavi ali nogi strophe ali verz"},{
+Key:1011202,Text:"Vnesite besedilo za prikaz.
+To besedilo je brezplačna in praviloma sestavljena iz serije vnaprej določenih polj.
+
+Primeri vnaprej določenih polj za pesem:
+-naslov pesmi: <b>[naslov pesmi]</b>
+-število pesem: <b>[pesem št.]</b>
+-naslov knjige: <b>[naslov zbirke]</b>
+-kratica za zbiranje: <b>[kratica zbirke]</b>
+-itd.
+
+Za verz:
+-ime knjige: <b>[knjiga ime]</b>
+-Poglavje: <b>[poglavje]</b>
+-verz: <b>[verz]</b>
+Full-reference:
+  <b>[Ime knjige] [poglavje]: [verz]</b>
+-ime Svetega pisma: <b>[ime biblija]</b>
+-itd.
+
+V času video projekcijo, VideoPsalm zamenja na področjih, ki jih njihova vrednost vnaprej. 
+
+Vnaprej določena polja mora biti obdana z oglatimi oklepaji <b>[]</b>. Morate vnesti brez fail in upoštevati velike in male.
+
+<b>Za enostavno Vstavljanje vnaprej določena polja, uporabite pomičnega seznama spodaj pravico »vstavili polje'.</b>
+
+Oblika lahko sestavlja več vrstic.
+
+Obnovite njeno izvirno vrednost obliko, odstranite popolnoma (Ctrl + A, Izbriši)."},{
+Key:1011203,Text:"Seznam vnaprej določenih polj"},{
+Key:1011204,Text:"Vstavite vnaprej določeno polje, ga izberite na seznamu.
+
+Polje samodejno vstavi v besedilo zgoraj, polje na mestu vstavljanja."},{
+Key:1012000,Text:"Datoteka »{0} «že obstaja.
+
+Ali želite zamenjati?"},{
+Key:1012001,Text:"Obstoječe datoteke"},{
+Key:1013000,Text:"Skrij predogled"},{
+Key:1013001,Text:"Prikaz predogleda"},{
+Key:1013002,Text:"Sorazmerno poveča, da zapolni zaslon"},{
+Key:1013003,Text:"Zmanjšanje do prikaza celotnega"},{
+Key:1013004,Text:"Onesposobiti ponavljanje"},{
+Key:1013005,Text:"Activate ponovitev"},{
+Key:1013006,Text:"Začnite na začetku"},{
+Key:1013007,Text:"Začasno"},{
+Key:1013008,Text:"Branje"},{
+Key:1013009,Text:"Gredo do konca"},{
+Key:1013010,Text:"Zvok"},{
+Key:1013011,Text:"Nemo"},{
+Key:1013012,Text:"Obseg"},{
+Key:1013013,Text:"Raziskave"},{
+Key:1013014,Text:"Globalno določi meje video"},{
+Key:1013015,Text:"Določite meje video za vsake stance"},{
+Key:1013016,Text:"Potekli čas"},{
+Key:1013017,Text:"Skupni čas"},{
+Key:1013018,Text:"Preostali čas"},{
+Key:1013019,Text:"Kliknite, če želite premakniti na naslednjo vrednost"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minuto"},{
+Key:1018003,Text:"minut"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"čas"},{
+Key:1018006,Text:"ur"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"dan"},{
+Key:1018009,Text:"dni"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"teden"},{
+Key:1018012,Text:"tednov"},{
+Key:1018013,Text:"mesec"},{
+Key:1018014,Text:"mesec"},{
+Key:1018015,Text:"leto"},{
+Key:1018016,Text:"let"},{
+Key:1019000,Text:"Zaprite"},{
+Key:1019001,Text:"Zmanjšanje"},{
+Key:1019002,Text:"Povečavo"},{
+Key:1019003,Text:"Nižje ravni"},{
+Key:1019004,Text:"pomoč"},{
+Key:1019100,Text:"&Išči"},{
+Key:1019101,Text:"&Izbrisati"},{
+Key:1019301,Text:"&v redu"},{
+Key:1019302,Text:"&Prekliči"},{
+Key:1019303,Text:"&da"},{
+Key:1019304,Text:"&Brez"},{
+Key:1019305,Text:"&Opustiti"},{
+Key:1019306,Text:"&Poskusi znova"},{
+Key:1019307,Text:"&Prezri"},{
+Key:1019308,Text:"&Prekliči"},{
+Key:1019309,Text:"&Cut"},{
+Key:1019310,Text:"&Izvod"},{
+Key:1019311,Text:"&Prilepi"},{
+Key:1019312,Text:"&Izbrisati"},{
+Key:1019313,Text:"&Izberi vse"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Leviticus"},{
+Key:1020003,Text:"Številke"},{
+Key:1020004,Text:"MZ"},{
+Key:1020005,Text:"Joshua"},{
+Key:1020006,Text:"Sodniki"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Kralji"},{
+Key:1020011,Text:"2 Kings"},{
+Key:1020012,Text:"1 Chronicles"},{
+Key:1020013,Text:"2 Chronicles"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemija"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Delo"},{
+Key:1020018,Text:"Psalmov"},{
+Key:1020019,Text:"Pregovori"},{
+Key:1020020,Text:"Pridigar"},{
+Key:1020021,Text:"Pesem"},{
+Key:1020022,Text:"Izaija"},{
+Key:1020023,Text:"Jeremiah"},{
+Key:1020024,Text:"Žalostinke Jeremija"},{
+Key:1020025,Text:"Ezekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Ozej"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadiah"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MICAH"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakuka"},{
+Key:1020035,Text:"Zephaniah"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Zaharija"},{
+Key:1020038,Text:"Mal"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Apostolskih"},{
+Key:1020044,Text:"Rimljani"},{
+Key:1020045,Text:"1 Kor"},{
+Key:1020046,Text:"2 Kor"},{
+Key:1020047,Text:"Gal"},{
+Key:1020048,Text:"EF"},{
+Key:1020049,Text:"Filipljanom"},{
+Key:1020050,Text:"Kol"},{
+Key:1020051,Text:"1 Tesaloničanom"},{
+Key:1020052,Text:"2 Tesaloničanom"},{
+Key:1020053,Text:"1 Timoteju"},{
+Key:1020054,Text:"2 Timothy"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"Hebrejcem"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Peter"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 Janez"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apokalipsa"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Zalar"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Does"},{
+Key:1020116,Text:"Je"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"ES"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Am"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Tako"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"Mt"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"Jn"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Dirka"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"On"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

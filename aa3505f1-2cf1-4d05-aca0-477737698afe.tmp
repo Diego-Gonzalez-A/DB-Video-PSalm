@@ -1,0 +1,4937 @@
+{
+PreviousCheckDate:"20200301000000",
+Versions:[{
+Title:"1.24.0.19214",
+Description:"1.24.0.19214",
+VersionDate:"20190802000000",
+IsAcknowledged:1}],
+SongBooks:[{
+Guid:"bw5mhM3OlU+BZNKAk/3eGA",
+Title:"Koortjieboek 2014",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+Description:"1038 songs",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"jDF7kWaHUEqYYaxYUpsshw",
+Title:"Liedboek",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+Description:"646 songs",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"ubFCVxI7CUubuin5DOhvuw",
+Title:"Alexandria Praise School",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+Description:"2315 songs
+from www.facebook.com/AlexandriaPraiseSchool",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"6z3/EAU92EWHIwIcH/mdJw",
+Title:"Iban",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Initial version",
+Description:"31 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"fKbNk2y2SkO8ZFqKtihpRQ",
+Title:"EasySlides - Cantonese",
+Language:"Cantonese",
+Log:[{
+Title:"Initial version",
+Description:"399 songs in Cantonese, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"BJ4EEPFAxkCD0hrWSbxlZg",
+Title:"OpenLP - Deutsch",
+Language:"Deutsch / German",
+Log:[{
+Title:"Ursprünglische Version",
+Description:"18 Liedern aus OpenLP importiert",
+VersionDate:"20121013000000",
+IsAcknowledged:1}]},{
+Guid:"tHR2XhbfJ0mF08+EvU5ZKg",
+Title:"Evangelische Liedbundel",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"555 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"vv2zWWNuQ0mVthEA2NCgcg",
+Title:"Johannes de Heer zangbundel",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"893 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"FxM85mTAikm1LwiIIQWn5A",
+Title:"Liedboek voor de Kerken",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"491 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"Z63Zf78dT0SIVyrfKFRIvg",
+Title:"Liedboek voor de Kerken (Psalmen)",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"150 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"z64vp8wM8E2FgQrJuJZCGw",
+Title:"Nieuwe liedboek",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"1280 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"wmBRDQMdo0C6K0jgNqSkgQ",
+Title:"Op Toon Hoogte",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"466 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"BYA4DQmbb0GbR/xvAszWrA",
+Title:"Opwekking",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"709 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"vOqwP1S+cE+KyW/PhmFSZw",
+Title:"Oudeberijming",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"302 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"35kQwgz9oU+Z4Ank4m7P5g",
+Title:"Oudeberijming (Psalmen)",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+Description:"150 songs",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Guid:"YNKzSdq3PUmEcr0sGc7nnQ",
+Title:"Big Song Collection",
+Language:"English",
+Log:[{
+Title:"Reimported (verse sequences are now considered)",
+Description:"2205 songs (432 with chords), imported from OpenSong.
+Found at http://scottdwest.com/projects/opensong/, by Scott West",
+VersionDate:"20130409000000",
+IsAcknowledged:1}]},{
+Guid:"om3xoi8+zESVGUFiZ3bOiw",
+Title:"Camp",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"40 songs (with some verses in Czech)",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"DNPKwJ+S7k+CBNsXjICDrQ",
+Title:"EasySlides - Cantonese-English",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"99 songs in Cantonese and English, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"oRd/2bvUeUmjTf2qJcVhEw",
+Title:"EasySlides - English",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"982 songs imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"2VowO/zRdUevePSSP6OVNQ",
+Title:"EasySlides - Mandarin-English",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"183 songs in Mandarin and English, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"PV2Wpln9UUSeCLG5xdOb+g",
+Title:"EasyWorship 2009 Samples",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"324 songs imported from EasyWorship 2009",
+VersionDate:"20121015000000",
+IsAcknowledged:1}]},{
+Guid:"1g8PdA/wZE+2QbXDy7ZRGQ",
+Title:"I will sing Praise",
+Language:"English",
+Log:[{
+Title:"Corrections",
+Description:"377 songs
+Credits: ​Lauren Snell
+
+Church of Christ www.churchofchristlexne.org
+13th and Tyler
+Lexington, NE 68850
+308-324-3191",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"smrk4S8sBECC8nQuI8xlpw",
+Title:"Matt Redman",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"3 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"FsaW7sOn6Eubn+Al36uSMw",
+Title:"MediaShout - Public Domain",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"241 songs, imported from MediaShout",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"3T3h9RsqWk+48fKAdsYB1A",
+Title:"MediaShout - Rick Muchow",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"42 songs, imported from MediaShout",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"MDWpLxFHc0C3+QdOLjqj0A",
+Title:"Noel Richards",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"29 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"khiHU2blX0Kb41dGdbDLhA",
+Title:"OpenLP Samples",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"175 songs, imported from OpenLP",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"s9F35PRGU0SBxcrg+celoQ",
+Title:"Sacred Selections For The Church",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"672 songs from Ellis Crum",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"nD2t0EbffECosjKNcVVOgg",
+Title:"SDA Hymnal 7",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"695 songs
+Thanks to Eric T Pierce for his contribution",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"Doc9pMT+DU6rUvRTJDl5SA",
+Title:"SDA Responsive Readings",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"225 songs
+Thanks to Eric T Pierce for his contribution",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"IQHh/bIgGUi7MVZPbxfoUg",
+Title:"Seventh-day Adventist Hymnal ",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"695 songs
+Thanks to Felina Daniel for her contribution",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"CD67mILOqkyqEQhdDPDsSw",
+Title:"Songs of Fellowship 1",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"DD67mILOqkyqEQhdDPDsSw",
+Title:"Songs of Fellowship 2",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"zkkA/B6odk2Edp0fTgYg8A",
+Title:"Songs of Fellowship 3",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"hVYOjPjfcku5X+Fwa9m90A",
+Title:"Songs of Fellowship 4",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"tsxVt1x2Rk2bOKV9KIT94A",
+Title:"Songs of Fellowship 5",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140623000000",
+IsAcknowledged:1}]},{
+Guid:"RAcAcxk340Gw8asV+N0fSw",
+Title:"Songs of Fellowship 6",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"510 songs",
+VersionDate:"20180722000000",
+IsAcknowledged:1}]},{
+Guid:"rL4SbUnkQEqxpKGqaI33mQ",
+Title:"Songs with chords",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"606 songs, most of them with guitar chords.",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"x2oZ+DNU2ESLPUPAax3GaQ",
+Title:"Worship",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"263 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"c+7MfcjwrUSVkvDoJkZ8jQ",
+Title:"Cancionero",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+Description:"402 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"OLYdjal50ke4sskZiTQMcg",
+Title:"Himnario",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+Description:"764 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"vHqKVofgUEqD0iIsgBRt9w",
+Title:"Himnario Bautista CBP",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+Description:"530 songs
+Thank you to Joaquín Martínez Romero for providing this songbook.",
+VersionDate:"20181110000000",
+IsAcknowledged:1}]},{
+Guid:"jbEI9aF180GhzqK6Ao/M2A",
+Title:"Himnario De Truinfo y Gloria",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+Description:"329 songs, special thanks to Julio's contribution.",
+VersionDate:"20140911000000",
+IsAcknowledged:1}]},{
+Guid:"uzniDDV7G02pFXqZjrtKWg",
+Title:"MediaShout - Canciones Español",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+Description:"363 songs, imported from MediaShout",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"3laz8FSud0S9WiDpzo976A",
+Title:"Ninos",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+Description:"16 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"oTErwZCemkKW1H9qM0uRdQ",
+Title:"Nuevas",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+Description:"565 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"IyLLNChbjEODn+48PTG/2w",
+Title:"À Toi la Gloire",
+Language:"Français / French",
+Log:[{
+Title:"Correction mineure",
+Description:"N° 51, strophe 1 : et -> est",
+VersionDate:"20120923000000",
+IsAcknowledged:1}]},{
+Guid:"QVW/2Z9b1USL2RnoRxZlmQ",
+Title:"Ailes de la Foi",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"655 chants
+Source : http://jemaf.free.fr/af.html
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro",
+IsAcknowledged:1}]},{
+Guid:"wZmkpugttEiUD0A+pRTgyQ",
+Title:"Alléluia",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"845 chants",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"kXu54e6q1EmyMrMQ96qgMg",
+Title:"Arc-en-Ciel",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"632 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : http://foinormande.blogspirit.com/media/00/01/566233693.doc et importés dans VideoPsalm via son filtre « Texte »",
+VersionDate:"20121003000000",
+IsAcknowledged:1}]},{
+Guid:"C4RUbldlfE2ocANevMpmVw",
+Title:"Assemblée de Marguerittes",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151226000000",
+IsAcknowledged:1}]},{
+Guid:"nL6i0R1v2UOA5UQTMTKMsA",
+Title:"Cantiques",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"911 chants - Recueil de Jean D.",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"xihbONvky0+1aah/KhET1A",
+Title:"Célébrons Dieu",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"368 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : Forum de Psalmo à http://www.psalmo.com/forum/viewtopic.php?f=15&t=233
+Aussi disponible ici au format MediaShout 3 : http://www.conducteurdelouange.com/nouvelleDetail.aspx?articleID=130",
+VersionDate:"20120923000000",
+IsAcknowledged:1}]},{
+Guid:"l86hkp71cUOMqLLRlsvSMQ",
+Title:"Chœurs et Cantiques",
+Language:"Français / French",
+Log:[{
+Title:"Version complète",
+Description:"560 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : VideoPsalm",
+VersionDate:"20121212000000",
+IsAcknowledged:1}]},{
+Guid:"m6yBFIZT10qQ1EFTyigcWQ",
+Title:"Dans la Présence du Seigneur",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"De Laurent et Marc
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro",
+VersionDate:"20120519000000",
+IsAcknowledged:1}]},{
+Guid:"Q1UBJRA4wEe9CSxPnLe6EQ",
+Title:"Donnez-Lui Gloire",
+Language:"Français / French",
+Log:[{
+Title:"Correction du chant 342",
+Description:"Recueil de cantiques rassemblant 519 cantiques pour l'église Adventiste francophone.
+Mise en forme par Jimmy BARBIN",
+VersionDate:"20170119000000",
+IsAcknowledged:1}]},{
+Guid:"4HnkSFKhdE+UwouBS6FdPg",
+Title:"Foi et Louange",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"404 chants
+Merci à Alessandro pour sa contribution.",
+VersionDate:"20160412000000",
+IsAcknowledged:1}]},{
+Guid:"WKmYrrBfkEuahpOrkdqYmw",
+Title:"Grâce Divine Tabernacle",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"245 chants de l'église du Tabernacle
+Contribution de Yves Pandzou",
+VersionDate:"20140603000000",
+IsAcknowledged:1}]},{
+Guid:"ZkhpPVAahUOBDAwenggKzQ",
+Title:"Hymnes et Louanges",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"654 chants
+Source : http://hymnesetlouanges.tripod.com/HymnesEtLouangesTXT.zip",
+VersionDate:"20130523000000",
+IsAcknowledged:1}]},{
+Guid:"CTHTVH0q9UOgC4JDmA6d7A",
+Title:"J'aime l'Éternel 1",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"N° 138 : donnera -> donne",
+VersionDate:"20120624000000",
+IsAcknowledged:1}]},{
+Guid:"lJMpeqK4wESYYfkzPyFjRA",
+Title:"J'aime l'Éternel 2",
+Language:"Français / French",
+Log:[{
+Title:"Réarrangement",
+Description:"N° 400 : Redécoupage du refrain",
+VersionDate:"20120624000000",
+IsAcknowledged:1}]},{
+Guid:"3QLZyEhN/kGyf/6+ttXZ1Q",
+Title:"J'aime l'Éternel 3",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"222 chants
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : http://jemaf.free.fr/texte.php et comparés avec OpenSong.fr",
+IsAcknowledged:1}]},{
+Guid:"SQ4/7U+ywE+a2iB0LHbROQ",
+Title:"J'aime l'Éternel 4",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"101 chants",
+VersionDate:"20181028000000",
+IsAcknowledged:1}]},{
+Guid:"gVAxZxawvEaLj2+NFumUYg",
+Title:"J'aime l'Éternel Kids",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"144 chants
+Éditions Jeunesse en Mission
+Av. Haldimand 13
+CH-1400 Yverdon-les-Bains
+Droits d'auteur administrés par LTC
+Voir http://www.ltc-asaph.com/view_page.cgi?page=decouvertes-utiliser-intro
+Source : VideoPsalm",
+VersionDate:"20121104000000",
+IsAcknowledged:1}]},{
+Guid:"4QLZyEhN/kGyf/6+ttXZ1Q",
+Title:"J'aime l'Éternel 3 - Supplément « Tu es bon »",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"Merci à Guillaume Schulz pour sa contribution.",
+VersionDate:"20150830000000",
+IsAcknowledged:1}]},{
+Guid:"iHI0PJqUPkuN1ao2caF93g",
+Title:"Psautier Romand",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"459 chants (source : Psalmo)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"nLzqDH9IaUW6xlkZr1wywQ",
+Title:"Shir - Asaph",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"199 chants avec les accords
+Édités par LTC
+http://www.ltc-asaph.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"Oiix8FCxzU2fkneK/5tPFw",
+Title:"Shir - Bryan Ost",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://hotchocolate.at/mypage/user_page.php?user_id=1123
+http://fr.sephoramusic.com/a-tes-yeux-art3974.htm
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"Iya8hwocN0KASJYw28XoQg",
+Title:"Shir - Collectif Cieux ouverts",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"13 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"dZNHZDWta0Gl6DnPQclIcw",
+Title:"Shir - Dan Luiten",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"36 chants avec les accords
+http://www.danluiten.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"kiUGMyLa6kqmHqXD06u0ug",
+Title:"Shir - Degrés",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"15 chants avec les accords
+Album Degrés de John Featherstone, édité par Première partie
+http://www.degr.es/
+http://www.premierepartie.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"/2q2Tph9AEGx75C9sswxrQ",
+Title:"Shir - Embrase nos cœurs",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://embrasenoscoeurs.org/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"sL9aJoOToES+n9TwGVmfAQ",
+Title:"Shir - Fabienne Pons",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"10 chants avec accords.",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"niYRRJcsSEKUssWbr9JrCQ",
+Title:"Shir - Hélène Goussebayle",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"22 chants avec les accords
+http://helenegoussebayle.fr/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"TPkhXbAnFke8i5wirXemRQ",
+Title:"Shir - Hillsong",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://hillsongmusic.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"ZYw6Slbj1ECLJ/YDC0DU5g",
+Title:"Shir - Impact",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"23 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"S7IkccWXBUOoZSyZbiTTPg",
+Title:"Shir - JEM2",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"346 chants avec les accords
+
+Recueil de chants
+de Jeunesse en Mission
+
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"ns95ZIeatECIWadttQ1Gsw",
+Title:"Shir - JEM3",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"222 chants avec les accords
+
+Recueil de chants
+de Jeunesse en Mission
+
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"4TsMbAWmwUKCYsjWjdFM/w",
+Title:"Shir - Mathias Marques",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"10 chants avec les accords
+http://mathiasmarques.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"+PU7pIfGkUuU8kKLl3jOfA",
+Title:"Shir - Paul Baloche",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://www.leadworship.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"LPCLmN8DjES00j6mhnRVJw",
+Title:"Shir - Paul Baloche 2013",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"14 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"Pf9fxcoiZUK9M/wX5lkxDg",
+Title:"Shir - Pierre-Nicolas",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"21 chants avec les accords
+http://www.pierre-nicolas.com/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"/zw4BYjoekeyyHj2vtx5lg",
+Title:"Shir - Pierre-Nicolas 2014",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"12 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"lzA9wzI2uUGAWDLydhbUfg",
+Title:"Shir - Samuel Olivier",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"12 chants avec les accords
+http://www.intimeetranger.fr/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"EtTgyA09aky2q/pwMmWPAg",
+Title:"Shir - Thomas Blanc",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"11 chants avec accords",
+VersionDate:"20141229000000",
+IsAcknowledged:1}]},{
+Guid:"pacuG4Z9xEKlBITYKINHfg",
+Title:"Shir - Worship Central",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"8 chants avec les accords
+http://www.worshipcentral.org/
+Source : http://shir.fr/",
+VersionDate:"20130508000000",
+IsAcknowledged:1}]},{
+Guid:"oBIupoIs70uBf4QdH+7VNA",
+Title:"Unisson",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"385 chants - Recueil de chants de l’Armée du Salut francophone",
+VersionDate:"20141126000000",
+IsAcknowledged:1}]},{
+Guid:"8oRsA2f5OUe9uKoIyehzRg",
+Title:"Vitrail",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+Description:"208 chants (source : Psalmo)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"zbBjvwhDPkCw6GKBO8HZmA",
+Title:"Chants d'espérance Français",
+Language:"Haitian Creole",
+Log:[{
+Title:"Version initiale",
+Description:"Chants d'espérance Haïti
+335 chants, tirés de http://chantsdesperanceonline.com/chantsdesperance/francais",
+VersionDate:"20130427000000",
+IsAcknowledged:1}]},{
+Guid:"pLzqV5AhVEaJkSm7Zpdqow",
+Title:"Chants d'espérance Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Version 2",
+Description:"Ajout de 65 chants (81-145) - contribution de Wilbens Nonord",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"UDodxKKCNk2a3JYazjMdBg",
+Title:"Écho des élus Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"84 songs (contribution from Wilbens Nonord)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"/gL9AStlfUa2l/bLo5UWkw",
+Title:"Gloire à l'Agneau",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"66 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"oHOpLOG+30qg2pbGsUGQFg",
+Title:"Haïti chant avec radio Lumière",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"92 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"rAtegUexeESFe9oVRLG8DA",
+Title:"La Voix du réveil",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"46 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"AMIbO8PKvkmYMnjP0rgU9A",
+Title:"La Voix du réveil kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"17 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"QaAI+Lm8BE20w81Lcqlr9w",
+Title:"L'ombre du réveil",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"135 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"tOm/grdl7Ei63Ma7pFpeAg",
+Title:"Mélodie Joyeux Français",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"Chants d'espérance Haïti
+183 song (contribution from Wilbens Nonord)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"eo4sPW1eQ0SfO+MDMqGYWA",
+Title:"Mélodie Joyeux Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"85 songs (contribution from Wilbens Nonord)",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"0j28eDU5f0eV9K+YuZ5Pyw",
+Title:"Réveillons-nous Chrétiens",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"71 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"ILsSjY2rNk6Gw7ugsE3OeA",
+Title:"Réveillons-nous Français",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"96 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"6BkGd3hFp0akWgV8s1im4Q",
+Title:"Réveillons-nous Kréyol",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"81 songs (contribution from Wilbens Nonord)",
+VersionDate:"20151225000000",
+IsAcknowledged:1}]},{
+Guid:"NCfD0i0JaUqeAg5UpRlsHQ",
+Title:"HOGC database - English",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+Description:"84 songs (Many thanks to Yogesh Chhaproo for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"8IC4BCgl1UKKp5IYKL8Iwg",
+Title:"HOGC database - Hindi",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+Description:"77 songs (Many thanks to Yogesh Chhaproo for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"ZNbIzqB/QkmE5Ip4hl/+FQ",
+Title:"New Life Fellowship, KNG - Hindi Songs (Kannada Lyric)",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+Description:"154 songs",
+VersionDate:"20190626000000",
+IsAcknowledged:1}]},{
+Guid:"yW5zza23zEeTcxJcSWV1IA",
+Title:"Énekfüzet",
+Language:"Hungarian",
+Log:[{
+Title:"Initial version",
+Description:"283 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"p869FDBWR0+Q3NijY1LPdQ",
+Title:"Sárga könyv",
+Language:"Hungarian",
+Log:[{
+Title:"Initial version",
+Description:"217 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"zM9+xLOze02Ig45j2GihoA",
+Title:"New Life Fellowship, KNG - Kannada Songs",
+Language:"Kannada",
+Log:[{
+Title:"Initial version",
+Description:"644 songs",
+VersionDate:"20190626000000",
+IsAcknowledged:1}]},{
+Guid:"qDpgH6XsWkCOn53tLtw9ag",
+Title:"New Life Fellowship, KNG - Konkani Songs (Kannada lyrics)",
+Language:"Konkani / Goan Konkani",
+Log:[{
+Title:"Initial version",
+Description:"24 songs",
+VersionDate:"20190626000000",
+IsAcknowledged:1}]},{
+Guid:"eyFUYq7bHU6LJOyjmz/8cg",
+Title:"구찬송가",
+Language:"Korean",
+Log:[{
+Title:"New songs added",
+Description:"563 songs (Many thanks to Daniel for providing this songbook)",
+VersionDate:"20150426150513",
+IsAcknowledged:1}]},{
+Guid:"extvwgkstku3uYT60jga+Q",
+Title:"한글구찬송가",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"553 songs (Many thanks to Kweon kun-kil for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"DP1iAv6V4EaaP2o/AVS5Iw",
+Title:"Luganda songs",
+Language:"Luganda",
+Log:[{
+Title:"Initial version",
+Description:"Contribution from Nkemy Paul",
+VersionDate:"20151112000000",
+IsAcknowledged:1}]},{
+Guid:"a3NhdtADzUCK3T0MTObRrA",
+Title:"Antema",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"24 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"FxWkhQYi6UeJ3g4TQ6QWFg",
+Title:"Fihirana",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"827 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"qnrPfHz8WEG8HuyycZ7xkw",
+Title:"Fihirana Fanampiny",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"54 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"E4BEK1G2nkeOrxmaKFtTmQ",
+Title:"Tsanta",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"14 chants du recueil FFPM (Fédération des Eglises Protestantes de Madagascar)",
+VersionDate:"20160610000000",
+IsAcknowledged:1}]},{
+Guid:"9bW3lA68uUyz7EjpFtyf3Q",
+Title:"Malay",
+Language:"Malay",
+Log:[{
+Title:"Initial version",
+Description:"227 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"4pVwlgCLtk+BGqdFAl+rlg",
+Title:"Athmeeya Geethangal",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"1048 songs",
+VersionDate:"20180203000000",
+IsAcknowledged:1}]},{
+Guid:"eiBSnzSCZUGtiIQ3JxH+jw",
+Title:"Avan Krupa",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"12 songs",
+VersionDate:"20180203000000",
+IsAcknowledged:1}]},{
+Guid:"RZqLA4Gp+EaOxORxidZ0QA",
+Title:"Malayalam Hymns",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"353 songs
+Collection of old Malayalam Hymns, mostly translations of English Hymns.
+Song Numbers added as per MarThoma Hymnal.
+Songs provided by CyberHymnal.
+http://www.hymntime.com/tch/non/ml/ml.htm
+VideoPsalm module prepared by Sujith John Paul (sujithjohnpaul@gmail.com).
+For the glory of our Lord Jesus Christ.",
+VersionDate:"20180722000000",
+IsAcknowledged:1}]},{
+Guid:"zj7kdw0drkaNjp1Fndts8Q",
+Title:"Viswasa Ganangal",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"95 songs
+RSV Visawasa Ganangal (Songs of Faith) is a compilation of 95 songs by RS Vijayaraj, popularly known as RSV.
+He has written more than 250 songs in Malayalam & English and most of them have been translated into Hindi, Tamil, Kannada and other languages.",
+VersionDate:"20180722000000",
+IsAcknowledged:1}]},{
+Guid:"qT6+Ca5D30ami1/SIx7wiw",
+Title:"EasySlides - Mandarin",
+Language:"Mandarin",
+Log:[{
+Title:"Initial version",
+Description:"1617 songs, imported from EasySlides",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"LT2+sQ7mV0S+ySxBy6JX1A",
+Title:"Mongolian SharNom Songs",
+Language:"Mongolian",
+Log:[{
+Title:"Initial version",
+Description:"471 songs
+Thanks to Charles n' Anita Jackson for this contribution",
+VersionDate:"20170608000000",
+IsAcknowledged:1}]},{
+Guid:"uPjNNHXXW0WKo6RPHlnPZA",
+Title:"Ancien recueil en Mooré",
+Language:"Mooré / Moore",
+Log:[{
+Title:"Initial version",
+Description:"155 chants - Contribution de Jean-Jacques O.",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"BzOVszIyTkmlJpOBQ6FvIg",
+Title:"Nouveau recueil en Mooré",
+Language:"Mooré / Moore",
+Log:[{
+Title:"Initial version",
+Description:"160 chants - Contribution de Jean-Jacques O.",
+VersionDate:"20141122000000",
+IsAcknowledged:1}]},{
+Guid:"FBPxWsj3gUOjGv18jzIM1A",
+Title:"Pielgrzym",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"875 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"s6X5HILAn0SGjkMmjAoo8A",
+Title:"Różne",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"322 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"MGtMwmufGEuSue8tHz4xjg",
+Title:"Spiewnik-Glos-Wiary",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"514 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"pW7VC4sojk6/OGb88KgvbQ",
+Title:"Spiewnik-Piesni-Nowego-Zycia",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"300 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"4FIZUTY6DUOpmVmVrmPFOg",
+Title:"Wędrowiec",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"299 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"liTHXnl6wUSj40wcoigSfA",
+Title:"Zborowy",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"98 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"/K71ysZBakC3lXBfISGNjw",
+Title:"Canções Populares no Brasil",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+Description:"955 songs",
+VersionDate:"20180722000000",
+IsAcknowledged:1}]},{
+Guid:"L0W1+UQf80usUUgtx3k33w",
+Title:"Cantor Cristão (Hinário Batista)",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+Description:"534 songs (thanks to Renato Giovani Barroso for his contribution)",
+VersionDate:"20160102000000",
+IsAcknowledged:1}]},{
+Guid:"TEkpz8glB0mohyAmlTOAhQ",
+Title:"Gallego Portugal",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+Description:"35 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"Jk+OHcAdykGFUKX8FbfPyg",
+Title:"Hinário para o Culto Cristão (Hinário Batista JUERP)",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+Description:"613 songs (thanks to Renato Giovani Barroso for his contribution)",
+VersionDate:"20160102000000",
+IsAcknowledged:1}]},{
+Guid:"uJPTbG0rdUWVrn6pvO32jQ",
+Title:"Hinos & Cânticos",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+Description:"686 songs",
+VersionDate:"20180722000000",
+IsAcknowledged:1}]},{
+Guid:"H6JjrSZqiEyDEZ9ZAPiO5A",
+Title:"OpenLP - Russian",
+Language:"Russian",
+Log:[{
+Title:"Initial version",
+Description:"2565 songs, imported from OpenLP",
+VersionDate:"20121012000000",
+IsAcknowledged:1}]},{
+Guid:"UoM9tfG82k65py6swD9Cnw",
+Title:"Songs",
+Language:"Russian",
+Log:[{
+Title:"Initial version",
+Description:"232 songs (Many thanks to Vitaliy Bernik for providing this songbook)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"gECss0bXREKqaI2JdmHm0Q",
+Title:"BJB Revucka Lehota",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"442 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"Px7tjx381Ua1OM/j6MItkg",
+Title:"Bratske piesne",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"678 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"xty5RBT9PEOQcecD3/X6PQ",
+Title:"Ceske Chvaly",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"337 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"b3MIgYpxC0qUQxbtd6yxKA",
+Title:"Chvalte Pana Jezisa",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"163 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"0yGkW8BQpUWbsmETUJZScQ",
+Title:"Chvalte Pana Jezisa 2",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"151 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"LfNCz/x1nUqyKa1PZ0ibnQ",
+Title:"Detske",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"121 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"m4vnO+90e0Cl2Etfym8lLA",
+Title:"Evanjelicky spevnik",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"718 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"d9cGs/fQqkmm3UexmJ7ELw",
+Title:"Haleluja Spevnik",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"262 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"BZMzzVzWREO7Er2WrwwYLg",
+Title:"Piesne Duchovne",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"363 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"AGzJLCcC4UaqnO0Cdm4BTg",
+Title:"Sivy spevnik",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"56 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"OP+7GnmpAkeRu4NoUbrHKg",
+Title:"Slovenske Chvaly",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"517 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"f12uj63Z0kmM6lC8tWSnbg",
+Title:"Spevnicek",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"89 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"5NCedX4yj0GkCla+VnsKtA",
+Title:"Spevnik - 400 krestanskych piesni",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"400 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"47fENuYK5EyIWJww9oDnRw",
+Title:"Spevnik Klenovec",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"161 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"aFRgPfIwZ06wIFKnDkY8Kw",
+Title:"Spevnik Viera",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"343 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"s9cuBf4ReEqcj6OxScX3CA",
+Title:"Spievadlo Nesvady",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"249 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"NApI2XW92EOZV6r5ZO5xHA",
+Title:"SPIEVAJME Hospodinovi novu piesen! 1964",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"87 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"zy5ndWQD+kGkLdTdky7Orw",
+Title:"Spievatko",
+Language:"Slovak",
+Log:[{
+Title:"Initial version",
+Description:"58 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"M/se+MiY5Eq8v+ymbe1g2w",
+Title:"Nyimbo za Kristo",
+Language:"Swahili",
+Log:[{
+Title:"Corrections",
+Description:"221 songs
+Thanks to ​Samedi Amba for his contribution",
+VersionDate:"20170202000000",
+IsAcknowledged:1}]},{
+Guid:"zSHiR42YJUOGSZfLbCwuUw",
+Title:"Tenzi za Rohoni",
+Language:"Swahili",
+Log:[{
+Title:"Initial version",
+Description:"138 songs
+Thank you to Humphrey William for providing this songbook.",
+VersionDate:"20181110000000",
+IsAcknowledged:1}]},{
+Guid:"1vGlenS6p0O7xDU6P8txWg",
+Title:"Tamil songs",
+Language:"Tamil",
+Log:[{
+Title:"Initial version",
+Description:"1515 songs - Many thanks to Felix Immanuel (churchsw.org) and J. Emmanuel for providing this songbook",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"pwtgoYgIu06qMOaJ+xT1jQ",
+Title:"Türkçe",
+Language:"Turkish",
+Log:[{
+Title:"Initial version",
+Description:"629 songs",
+VersionDate:"20141227000000",
+IsAcknowledged:1}]},{
+Guid:"DZUPapK540ymvptBHPV+tQ",
+Title:"Seventh-day Adventist Hymnal",
+Language:"Yorùbá / Yoruba",
+Log:[{
+Title:"Initial version",
+Description:"621 songs",
+VersionDate:"20180722000000",
+IsAcknowledged:1}]}],
+Bibles:[{
+Guid:"EHVhklLg+ECjc/Zyp1fGkw",
+Title:"Afrikaans 1933-53",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140622000000",
+IsAcknowledged:1}]},{
+Guid:"C3llZT4Xl0qw0+P8qvV/zg",
+Title:"Afrikaans 1953 Bible",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+Description:"Copyright 1933, 1953, Bybelgenootskap van Suid Afrika
+Source: The Unbound Bible
+This copyright Bible has kindly been made available by the Bible Society of South Africa, strictly for non-commercial use with The SWORD Project. Please consider making a contribution to them to help fund their continuing efforts in Bible translation, such as their current Southern Ndebele translation project. To contribute towards the distribution of affordable Bibles in South Africa, visit:
+http://www.biblesociety.co.za/contributions.htm",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"u9hadAnb2kyhF0kTxIcqYQ",
+Title:"Afrikaans 1983",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140622000000",
+IsAcknowledged:1}]},{
+Guid:"9eaC0KxN6kivhwJP82rDnA",
+Title:"Bybel vir almal",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140622000000",
+IsAcknowledged:1}]},{
+Guid:"dCjgDQRqVUattGonCyPRaQ",
+Title:"Die Boodskap",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140622000000",
+IsAcknowledged:1}]},{
+Guid:"C/c2wT7UaEuLNPwgothyBA",
+Title:"Nuwe Lewende Vertaling",
+Language:"Afrikaans",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140622000000",
+IsAcknowledged:1}]},{
+Guid:"7dFnZV7DT02aUPakFghwmw",
+Title:"Albanian Bible",
+Language:"Albanian - Shqip",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"ccRfn9Xw8Uyiu8sdYWFWVA",
+Title:"Bibla Shqip",
+Language:"Albanian - Shqip",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"sfUdSoGBLECUu5hyl8QEFQ",
+Title:"Së bashku",
+Language:"Albanian - Shqip",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"4ttSlyRbJk6GRJftjt6Nhw",
+Title:"Amharic New Testament",
+Language:"Amharic",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"T1gvqZgvw0yeMd/kvmF+sA",
+Title:"Haile Selassie Bible",
+Language:"Amharic",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"+ebEu8bShEKRxSAc+P8J3Q",
+Title:"New Amharic Standard Version",
+Language:"Amharic",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"ER7K8NdZgEyl1ivvE0fydw",
+Title:"Al-arabi al-daariji hana Tchad",
+Language:"Arabe Tchadien",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"Tx2BcRMkOkC//aO8Hz0FIg",
+Title:"Arabe tchadien (alphabet arabe)",
+Language:"Arabe Tchadien",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"0rqUVQr5/UqudzDaACzTcg",
+Title:"Moroccan Standard Translation",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"aDKCuXkUHkyXOQ8shbYdRQ",
+Title:"New Van Dyck Bible (Full Vocalization with Helps)",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"KHu3YWRg+UayCl9yI4MRBQ",
+Title:"New Van Dyck Bible (Reduced Vocalization with Helps)",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"YHn6o4Jr6UKvSgSyIC8bWw",
+Title:"Smith & Van Dyke Bible",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"QJR/lwPhI027P2XrP3Njvw",
+Title:"أخبار سارة-عربية مشتركة",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"YKqjGrPnlUScorRV0gBREQ",
+Title:"العربية الترجمة العربية المشتركة",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"Z9Jleo/cq0OpcNOIbKAJWw",
+Title:"العربية الكتاب المقدس، الترجمة العربية المبسطة",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"ZJpObZJOhE+A9eLqOcdBaw",
+Title:"العربية شريف",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"TnGtCyLlqkCvqL5lP1s+kQ",
+Title:"العربية كتاب الحياة",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"XznRIXeYskWOfCR4/G8O6Q",
+Title:"الكتاب المقدس الشريف",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"MFyFhM/jH0eBLFQnUhoYKA",
+Title:"بولسية- عهد جديد",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"dzVTy6KJqUOASPK9TPwlCg",
+Title:"فاندايك وسميث",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"VnZe2/7tdUamoY7FfepxMA",
+Title:"كتاب الحياة",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"vM18LV++HE6pvyGaM+mkag",
+Title:"يسوعية - كاثوليكية",
+Language:"Arabic (Standard)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"O+Ln9hNz/UiMLdhaZqgNDA",
+Title:"Peshitta New Testament",
+Language:"Aramaic",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"PlGbokp8VU6oooOTjKR+Ag",
+Title:"Eastern (Genesis, Exodus, Gospels)",
+Language:"Armenian",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"lJRvDbQ0UESsYdH8D0yBYg",
+Title:"Awadhi New Testament (WBTC)",
+Language:"Awadhi",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"4YZm5j3oQE2OvjIaQ1CM7w",
+Title:"Alkitab dalam Bahasa Indonesia Masa Kini",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"cVdt0FrY+0K+vVX/0qf2HA",
+Title:"Alkitab Terjemahan Baru",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Corrected Bible book name (Ef -> Effesus)",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"r8hbmTlv6k2oAV2kcvhgxg",
+Title:"Bahasa Indonesia Sehari-hari",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"0p1JVQ2QrkulLg6Y7SNO+A",
+Title:"Bahasa Nias-Perjanjian Baru",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"pSHY1jhuNUaDnSwmMS23bQ",
+Title:"BSD Perjanjian Baru",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"WToCrQprEUijpVdMMVrzsw",
+Title:"Indonesian VMD",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"qt5RucMZ/UeDTDOkQZBR4g",
+Title:"Perjanjian Baru: Versi Mudah Dibaca",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140506000000",
+IsAcknowledged:1}]},{
+Guid:"5zVTxlQ4OUi3L9HuRikxKg",
+Title:"Terjemahan Lama",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"1Z0bZxlNrEGHGyIdPPpwdw",
+Title:"Terjemahan Sederhana Indonesia",
+Language:"Bahasa Indonesia / Indonesian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"j+W9fSQ0Sk+olvVEuO87Pg",
+Title:"Bahasa Manggarai New Testament",
+Language:"Bahasa Manggarai",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"zcgHlRCZUk6R+VRkMV01Aw",
+Title:"Alkitab Berita Baik",
+Language:"Bahasa Melayu / Malay",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"dAn6jzqsskG4tpwlJU74ZA",
+Title:"Navarro-Labourdin 1571 New Testament",
+Language:"Basque",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"Z6/Zz1hzGEu9xCwbuyLROg",
+Title:"Batak Toba Bibel",
+Language:"Batak Toba",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"5PFVeuOch0eGMjDjc5Gtvg",
+Title:"Bengali Bible",
+Language:"Bengali",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151012000000",
+IsAcknowledged:1}]},{
+Guid:"0WcAvwQv1UCrpIYo6qgPdQ",
+Title:"Bengali New Testament (WBTC)",
+Language:"Bengali",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"TU6/TsY0I0qNG1dCS3hXiQ",
+Title:"Bibeli Luayãtaalá",
+Language:"Boko (Benin)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150928000000",
+IsAcknowledged:1}]},{
+Guid:"1yLMTb9hdEOLsF4zpBT5qw",
+Title:"Les évangiles en Breton",
+Language:"Breton",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"ThvkZcySSkKu2ZjzaByDuw",
+Title:"Bulgarian Bible",
+Language:"Bulgarian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"tjfk2j2Mf0KiCvvOafrliA",
+Title:"Burmese Bible",
+Language:"Burmese",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"HKwhHSk4kU29g2sHk3CGWQ",
+Title:"Ang Bag-ong Maayong Balita Biblia",
+Language:"Cebuano",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"O9kFaiCCWEaDd451sFt00g",
+Title:"Cebuano Bible",
+Language:"Cebuano",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"+DPyjOSPtkaNca+abaCxaA",
+Title:"Psalms, Gospels, Acts",
+Language:"Chamorro",
+Log:[{
+Title:"Initial version",
+Description:"Guam Chamorro
+The four Gospels and the Acts of the Apostles and Psalms were translated into the Chamorro language by Francis Marion Price (1841-1912) for the American Bible Society, 1908.
+http://en.wikipedia.org/wiki/Bible_translations_into_Chamorro
+Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"737Cr92/o0eQDed39vInOQ",
+Title:"Buku Lopatulika 1992",
+Language:"Chichewa / Nyanja",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"DjHyzjFiNkeLR/RYLdWZ7A",
+Title:"Chichewa Buku Lopatulika Bible 2014",
+Language:"Chichewa / Nyanja",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"gtrIZBGm10Kwx7bs+s7B2g",
+Title:"Mawu a Mulungu mu Chichewa Chalero",
+Language:"Chichewa / Nyanja",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"1ZaBSq+XWUq9aI5oIH2GiQ",
+Title:"Tedim Bible 77",
+Language:"Chin: Tedim / Tedim Chin",
+Log:[{
+Title:"Initial version",
+VersionDate:"20180908000000",
+IsAcknowledged:1}]},{
+Guid:"MINfim2CuUOOc3rmThA5Xw",
+Title:"New Version (Simplified) Bible",
+Language:"Chinese",
+Log:[{
+Title:"Inversion with Union Simplified",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130805000000",
+IsAcknowledged:1}]},{
+Guid:"Lc72TEo8+kG2ZHmbWYjoyA",
+Title:"New Version (Traditional) Bible",
+Language:"Chinese",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"J6izbuQ6zkKe8tJMcnW+wA",
+Title:"Revised Chinese Union Version",
+Language:"Chinese",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140304000000",
+IsAcknowledged:1}]},{
+Guid:"oTadgueoeUWXudva57rv4g",
+Title:"Union (Simplified) Bible",
+Language:"Chinese",
+Log:[{
+Title:"Inversion with New Version Simplified",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130805000000",
+IsAcknowledged:1}]},{
+Guid:"k2ZrjPRB1kqM3Zp3Cs15cQ",
+Title:"Union (Traditional) Bible",
+Language:"Chinese",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"rVS8Yn/iUU6zE1DdyhHYYA",
+Title:"中文标准译本",
+Language:"Chinese (Simplified)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"OprdZ/jyaUuRFzEajevQlA",
+Title:"和合本修订版",
+Language:"Chinese (Simplified)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"4fG9HI+kLkOoifbZLUdr9Q",
+Title:"圣经当代译本修订版",
+Language:"Chinese (Simplified)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"OxT49pDZEUuDggYtWbh0ZA",
+Title:"新标点和合本, 上帝版",
+Language:"Chinese (Simplified)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"uuQTRy6c5UKs6FS5t8Zodg",
+Title:"新标点和合本, 神版",
+Language:"Chinese (Simplified)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"drGe69ZZYUa+GS+SYHjaww",
+Title:"新译本",
+Language:"Chinese (Simplified)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"q5TT0CY28kCSFynIK0Q2zg",
+Title:"中文標準譯本",
+Language:"Chinese (Traditional)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"+WorNAKXLkKnN4bgYaV02w",
+Title:"和合本修訂版",
+Language:"Chinese (Traditional)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"9QoZJ8WJK0Oru0mpy+NrXA",
+Title:"新標點和合本, 上帝版",
+Language:"Chinese (Traditional)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"Sg9dJaP8+Ee8njl/9I/Zqg",
+Title:"新標點和合本, 神版",
+Language:"Chinese (Traditional)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"74INqu+Pk0W2iWplDwk2vA",
+Title:"新譯本",
+Language:"Chinese (Traditional)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"kJkIzth0402YtlRxTtpTog",
+Title:"聖經當代譯本修訂版",
+Language:"Chinese (Traditional)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160917000000",
+IsAcknowledged:1}]},{
+Guid:"+wIUOSe9k0eIXg1vmUVAzw",
+Title:"Bohairic New Testament",
+Language:"Coptic",
+Log:[{
+Title:"Initial version",
+Description:"Copyright 2006. J. Warren Wells, editor.
+Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"8C0sy4uEd0etxcHuJmGHiQ",
+Title:"Coptic New Testament",
+Language:"Coptic",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"w4nFrfd1L0WnP6ypjkchNg",
+Title:"Coptic Sahidica New Testament",
+Language:"Coptic",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170415000000",
+IsAcknowledged:1}]},{
+Guid:"v+Y/ZKAqskqLTn1gu3IQxw",
+Title:"Sahidic New Testament",
+Language:"Coptic",
+Log:[{
+Title:"Initial version",
+Description:"Coptic
+\"Sahidica - A New Edition of the New Testament in Sahidic Coptic\", Copyright (c)2000-2006 by J Warren Wells. All rights reserved.
+Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"1gvdq+zeBUSAahA4AuTekA",
+Title:"Croatian Bible",
+Language:"Croatian",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"yhF0TC9SDk+i6Dx96ZZ2NA",
+Title:"Bible Ceský Ekumenický Preklad",
+Language:"Czech",
+Log:[{
+Title:"Initial version",
+Description:"Czech
+Ceský Ekumenický Preklad: Bible Pismo svate Stareho i Noveho Zakona podle ekumenickeho vydani z r. 1985 (c) Ekumenicka rada cirkvi v CR.
+Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"7lOoKw9QtUC+umZ/Haxt7Q",
+Title:"Bible Kralicka",
+Language:"Czech",
+Log:[{
+Title:"Initial version",
+Description:"Czech
+Bible svata aneb vsecka svata pisma Stareho i Noveho Zakona podle posledniho vydani kralickeho z roku 1613.
+Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"QdcdsVpi8E2Ad2DOCKatLA",
+Title:"Ekumenicka Bible ",
+Language:"Czech",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"qMvy8D+/ZUSAKIGgnEFvBA",
+Title:"KMS New Testament",
+Language:"Czech",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310161001",
+IsAcknowledged:1}]},{
+Guid:"XVtd+ZwGKkmSstt4TEeerQ",
+Title:"NKB New Testament",
+Language:"Czech",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"Ke6y+4rJ8UaJLdwSgNW7ig",
+Title:"Danish Bible",
+Language:"Danish",
+Log:[{
+Title:"Initial version",
+Description:"Public Domain
+Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"Q2NAGvqJY0GuoXY0hS+7IQ",
+Title:"Dari Bible",
+Language:"Dari",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"JW4TEesFTUWpULTsKqXoFg",
+Title:"Today's Dari Version",
+Language:"Dari",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"AoZuBH9iGUa7D/TvLGweYA",
+Title:"Albrecht NT und Psalmen",
+Language:"Deutsch / German",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"o/11sispn0qpo/b5lKAuMw",
+Title:"Elberfelder 1871",
+Language:"Deutsch / German",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"3uKWtT3B8UG8HtdMWSKA+w",
+Title:"Elberfelder 1871 Bibel",
+Language:"Deutsch / German",
+Log:[{
+Title:"Erste Version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"SXbWz/VQKUyjnug+aW4tbA",
+Title:"Elberfelder 1905",
+Language:"Deutsch / German",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"ocbRELgQtEq5B7z5PXbOSQ",
+Title:"Elberfelder 1905 Bibel",
+Language:"Deutsch / German",
+Log:[{
+Title:"Erste Version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"oSIMfT0lLEOW6N7oOd+8zw",
+Title:"Hoffnung für Alle",
+Language:"Deutsch / German",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"aTka90AlyUSje6XGUaxsWA",
+Title:"Luther 1545 Bibel",
+Language:"Deutsch / German",
+Log:[{
+Title:"Erste Version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"Y/HGAPmYnE6VxfGtGAy8og",
+Title:"Luther 1912 Bibel",
+Language:"Deutsch / German",
+Log:[{
+Title:"Erste Version",
+Description:"Source : Zefania",
+VersionDate:"20121227000000",
+IsAcknowledged:1}]},{
+Guid:"M8Vnft21fkyMwrD29QV6sw",
+Title:"Lutherbibel 1912",
+Language:"Deutsch / German",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"LfhRhWsfyEqDiCsa1bqmow",
+Title:"NeÜ bibel.heute",
+Language:"Deutsch / German",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"D6zc0MNXVEGotvtNs4eOcQ",
+Title:"Neue evangelistische Übersetzung",
+Language:"Deutsch / German",
+Log:[{
+Title:"Erste Version",
+Description:"Source : Zefania
+© Karl-Heinz Vanheiden Textstand 19.03.2011
+http://www.kh-vanheiden.de/Download/neue.htm",
+VersionDate:"20121227000000",
+IsAcknowledged:1}]},{
+Guid:"DFL9KfPmc0GGt1OrAHGbvQ",
+Title:"Neue Genfer Übersetzung",
+Language:"Deutsch / German",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"HWFBcja5Ek+hpEbVroRaGg",
+Title:"Schlachter 1951",
+Language:"Deutsch / German",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"7mUct/8cpkSpGYXhhTF6xQ",
+Title:"Schlachter 1951 Bible",
+Language:"Deutsch / German",
+Log:[{
+Title:"Erste Version",
+Description:"Source : The Unbound Bible
+© 1951 Genfer Bibelgesellschaft",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"bVwXdnK7nkGs1F6ajfXJKw",
+Title:"Schlachter 2000",
+Language:"Deutsch / German",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"3U6LJBa3BkSbyStZzwqWQQ",
+Title:"MUMA MALER 2015",
+Language:"Dholuo / Luo (Kenya and Tanzania)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"iU5/O2TvwUGcy/dDB/obCw",
+Title:"Lëk yam",
+Language:"Dinka",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140911000000",
+IsAcknowledged:1}]},{
+Guid:"HRsWJP2Bz0OzCGqgia5V+Q",
+Title:"BasisBijbel",
+Language:"Dutch",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"YKYpLIoHh0q7esmRWr1o5Q",
+Title:"De Nieuwe Bijbelvertaling",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140205000000",
+IsAcknowledged:1}]},{
+Guid:"ua6QJjne/0q49HcV7S5OlQ",
+Title:"Herziene Statenvertaling",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"aHEzYtjqBEyVZ0OlUyqAYw",
+Title:"Het Boek",
+Language:"Dutch",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"Bln7LJmqTUC5u4O1y+JNVQ",
+Title:"NBG-vertaling 1951",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140301000000",
+IsAcknowledged:1}]},{
+Guid:"HlDDU03+FkqlC5LvU69Y0g",
+Title:"Statenvertaling 1977",
+Language:"Dutch",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"zDmrkVw8RkywW+MBxXPLQg",
+Title:"Statenvertaling 1977",
+Language:"Dutch",
+Log:[{
+Title:"Corrections",
+Description:"Thank you to Rick Timmers for the many corrections to the Unbound Bible text.",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"dLynvq6DjUCIDPKJyvAxsw",
+Title:"21st Century KJV (1994)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"pT0emixPYE2BWMFRLaXOzw",
+Title:"A Conservative Version (2005)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"huvNr47gXUSkoIcxb1oQOA",
+Title:"American King James Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Zefania
+Published in 1999.
+Copyright: I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999.
+Michael Peter (Stone) Engelbrite
+This is a new translation of the Bible, based on the original King James Version. It is a simple word for word update from the King James English. I have taken care to change nothing doctrinally, but to simply update the spelling and vocabulary. I have not changed the grammar because that could alter the doctrine.
+http://en.wikipedia.org/wiki/American_King_James_Version",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"MitpGZ7o8EOI1f6+KSkmHA",
+Title:"American Standard Version",
+Language:"English",
+Log:[{
+Title:"Corrections",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"eQrcWw5QdUyNrbVDwCs4hQ",
+Title:"Amplified Bible",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"FyVlEuV3akW1WYdZovoLmw",
+Title:"Amplified Bible 2015",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"guvhMfYj3kaR7f8YEjGd/Q",
+Title:"Apostles' Bible Complete (2004)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"atdT+XhlskyVePEivP/7Ww",
+Title:"Bible in Basic English",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Public domain
+Source: The Unbound Bible
+Published in 1949, revised in 1965.
+The form in which the Bible is given here is not simply another example of the Bible story put into present-day English. The language used is Basic English. 
+Basic English, produced by Mr C. K. Ogden of the Orthological Institute, is a simple form of the English language which, with 850 words, is able to give the sense of anything which may be said in English.
+Read online at: http://www.o-bible.com/bbe.html
+http://en.wikipedia.org/wiki/Bible_in_Basic_English",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"Fqy63hYe/kWbU/t//EkUUA",
+Title:"Bishop's Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"qc+Re76mJ0SLx2pFg/YJpA",
+Title:"Brenton's English Septuagint",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"EOwilHi7UU+Ge7CoglAopw",
+Title:"Christian Standard Bible 2017",
+Language:"English",
+Log:[{
+Title:"Initial version 2017",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"QZDgjrSPB0O7d7jDwYrP/A",
+Title:"Common English Bible",
+Language:"English",
+Log:[{
+Title:"Correction",
+Description:"Missing \"T\" in Luke 20:42.",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"ZOjX7kL9qEuDSudTNJhbIQ",
+Title:"Complementary English Version (1995)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"R4sb2MBG5E+FyV4KxupDcw",
+Title:"Contemporary English Version (Anglicised Version)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"9ZBmTpZpCEmThmnVcarlTg",
+Title:"Contemporary English Version (US Version)",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"/rxSbYxja0W1o48kos+ZOA",
+Title:"Coverdale Bible (1535)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"/k6XTAqHq02afTS2U3Secg",
+Title:"Darby Bible (1890)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Public domain
+Source: The Unbound Bible
+First published in 1890 by John Nelson Darby, an Anglo-Irish Bible teacher associated with the early years of the Plymouth Brethren. Darby also published translations of the Bible in French and German.
+http://en.wikipedia.org/wiki/Darby_Bible",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"7Uu6IVm2f0aOuP/SHILbAQ",
+Title:"Easy to Read Revised Version (2005)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"SvlfARvRQUeMRDmFQmlK5g",
+Title:"English Standard Version",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"ZVz2meCk8UajtuuEbyMaiw",
+Title:"Geneva Bible (1599)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"yk8M0RnrIUuc/PKiA1UKIA",
+Title:"GOD'S WORD Translation",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"ChRplmQd+EKNnA20tezhxQ",
+Title:"Good News Bible (Anglicised Version)",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"GiV8KqP9ZE6pryApFWoIvg",
+Title:"Good News Translation",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"/t/RALY1lUKHAtwqmRZ4jw",
+Title:"Hebrew Names Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"noPVWxwe1kmHrmvhmMqQ6A",
+Title:"Holman Christian Standard Bible 2004",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"E2hZiAOi1Ei5FhWT9uhsvA",
+Title:"Holman Christian Standard Bible 2009",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"KkTnGgBw2k+4BMZ6tYwB3w",
+Title:"Holy Bible - Easy-to-Read Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"ZEfze+BB7ku3Br0maHkHzA",
+Title:"Holy Bible Revised Version (1885)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"AzaWJFyI3UmDQaxREFEkjQ",
+Title:"Jubilee 2000 Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"V3OikEkG4Ea3XBHpLHYD0A",
+Title:"Jubilee Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"T1WtEG/CAECbS05d1m8Vog",
+Title:"King James Version",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"eKKhvRh42UG6IBj09Ox/CQ",
+Title:"King James Version, American Edition",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"2ZjnIiBc9UWv5mSqKV4qCA",
+Title:"Lexham English Bible",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"pe5gPE1Ot0GSctEyt2j3UQ",
+Title:"Literal Translation of Holy Bible (2000)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"jVKkWekc90GQT1BLk4UHFA",
+Title:"Modern English Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"3Bka6uor1kGrE5hY4e7UmQ",
+Title:"Modern King James Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: OpenSong",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"aKQmgTUrUEaNnFWssG71+g",
+Title:"New American Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"WKAx+zrVskePo0XlXcS2EA",
+Title:"New American Bible, revised edition",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"NASB1995rUiVOQP5tYYd9w",
+Title:"New American Standard Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"1995",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"O9E6tSg92EuRsRPPjO5hVw",
+Title:"New Century Version (1991)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"O8P7heIuT0GHmmFbc0okTg",
+Title:"New Century Version (2005)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"2005 version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"bX+ZBNRPIkuNYNAVL5N2Ww",
+Title:"New English Translation",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"sKbV0GrgD0ql+qxm8NRjTw",
+Title:"New Heart English Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Public domain
+Source: Zefania
+New Heart English Bible (NHEB) is not copyrighted and is dedicated to the Public Domain by the editors and translators. You may publish, copy, memorize, translate, quote, and use the New Heart English Bible freely without additional permission. Wayne A. Mitchell Sep 22, 2009",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"IwRl2WCmG0SuFxIU6oFp5w",
+Title:"New International Reader's Version (1998)",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"qg5mCmg5Y06cj/KHEK49Jg",
+Title:"New International Version (UK)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"t8KThohUW06tW5rhVEzYTQ",
+Title:"New International Version 1984",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"Mn8PJRTLMEKUpeTydBhUGg",
+Title:"New International Version 2011",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"uq2+ooTXe0i5X8YCPXdlLQ",
+Title:"New International Version Anglicized 2011",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"zxyy/QClAEOPZ0DgLHhcOw",
+Title:"New King James Version",
+Language:"English",
+Log:[{
+Title:"Corrected",
+Description:"Punctuation corrections.",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"zTsOPwUSZ0uXjVT2eeOWRw",
+Title:"New Life Version (1969)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"hQIH/CtLo0+xPE2VyQe5Mg",
+Title:"New Living Translation",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: OpenSong
+Published in 1996.
+http://en.wikipedia.org/wiki/New_Living_Translation",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"Qpm9YvRD2kqFM5Q3ULAoCA",
+Title:"New Living Translation 2007",
+Language:"English",
+Log:[{
+Title:"Small correction",
+Description:"Jean 7:52 without note",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"ZlMXeCm43kGVzJ+Dr3+6GA",
+Title:"New Revised Standard Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: OpenSong
+Published in 1989.
+http://en.wikipedia.org/wiki/New_Revised_Standard_Version",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"7MMdI6H7VEqsONdmRCbK8g",
+Title:"Orthodox Jewish Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"pbER9cddgEeuDkdm3U86jg",
+Title:"Restored Name KJV",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"asiNkP2VdUKP/KAElo5BpA",
+Title:"Revised Standard Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Zefania",
+VersionDate:"20141215000000",
+IsAcknowledged:1}]},{
+Guid:"AJ81nKYXGEKAG3EiGJKGRA",
+Title:"Revised Version (1881-1885)",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"IXv1zGlxI0amIapfN7qJrg",
+Title:"Revised Webster Update (1995)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"OV+LXo/tbkuOm8HEOuRw0w",
+Title:"Rotherhams Emphasized Bible (1902)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"99hPn51gyE6qujhogEU90Q",
+Title:"The Books of the Bible NT",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"QkGhQGeBCUGcQhLD2ZdcOw",
+Title:"The Complete Jewish Bible (1998)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"0j0NpvvFhUeFRud5AepbjQ",
+Title:"The Douay-Rheims American Bible (1899)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"lzKx3m64Yka8tWtj2UZ27w",
+Title:"The Message",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"G7TKfkrOuESmD55mWoNpLg",
+Title:"The New Jerusalem Bible",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"fHBdWZIADUKxtgB4YdxIgg",
+Title:"The Passion Translation",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"EOueH1UvdkqRXQaE2SXLXQ",
+Title:"The Scriptures 1998",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"BGuocxh2qkSR6i5A0+qNkg",
+Title:"The Scriptures 2009",
+Language:"English",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170318000000",
+IsAcknowledged:1}]},{
+Guid:"e8eN/MCM80mejCEmmMhyHw",
+Title:"Third Millennium Bible (1998)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"MIULMZ7vhUqvFyJq4sF6pQ",
+Title:"Today's New International Version (2005)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"PeIGMayGEU+/UApPNC1j5Q",
+Title:"Tree of Life Bible",
+Language:"English",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"uD9BTBSbm0Sh5kekWdl7Cg",
+Title:"Tyndale Bible (1534)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"Lqq7HgLf6kCB8hz9NaFmXw",
+Title:"Tyndale-Rogers-Coverdale-Cranmer Bible (1537)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"4WnNfsgx4EOmeYIU1AJv6A",
+Title:"Updated Bible Version",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Zefania
+Updated Bible Version 2.05 (Nov. 12, 2004) Copyright 2003-2004,
+Updated Publishers, Thousand Oaks, CA.
+This Bible may be copied but not modified.
+See website at www.updated.org for details and updates.
+Free Bible with most archaic words and grammar updated to a more common English style. Based on the American Standard Version of 1901. Literal translations are generally used to preserve accuracy. Gender is also translated literally. New manuscript evidence has been integrated. The name of God is translated as 'Yahweh'. Plural forms of 'you' are indicated with a superscripted plus sign. The zefania module does not contain the footnotes or the appendix.",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"fB6mYhJqGECp8aWLSxI4QA",
+Title:"Voice In Wilderness (2006)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"1lDiMo6pbEmr4HUjwEiVLQ",
+Title:"Webster's Bible Translation (1833)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Public domain
+Source: The Unbound Bible
+http://en.wikipedia.org/wiki/Webster's_Bible_Translation",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"U/0nx2+tIEyfTO5Euvb3aA",
+Title:"World English Bible",
+Language:"English",
+Log:[{
+Title:"Corrections",
+Description:"Punctuation corrections",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"q8AZEXxSGUu7joBLICnA4w",
+Title:"Wycliffe Bible (1395)",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"19QvdLJXEE20Nvcvs/IJlg",
+Title:"Young's Literal Translation",
+Language:"English",
+Log:[{
+Title:"Initial version",
+Description:"Public domain
+Source: The Unbound Bible
+The Bible text designated YLT is from the 1898 Young's Literal Translation by Robert Young who also compiled Young's Analytical Concordance",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"ItzzdokZG0akklvWSVQdPg",
+Title:"Biblia del Jubileo",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"xyRKRPk9s0u46ugl/xuO6A",
+Title:"Biblia Dios Habla Hoy (sin notas y ayudas)",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"bGalTEhthUaQf+EeQjHyZQ",
+Title:"Biblia Reina Valera 1995",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"+W+YzWRUYESCsLD+UOP0mQ",
+Title:"La Biblia - La Palabra de Dios para Todos",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"ZpVzypviTUqDRC2e+5zc8g",
+Title:"La Biblia de las Americas",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140130000000",
+IsAcknowledged:1}]},{
+Guid:"ILUcjWMVg0q18A2/z+CkSA",
+Title:"La Biblia Hispanoamericana - Traducción Interconfesional",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"Hb5r58qXQ0O/vIT9MriMNg",
+Title:"La Palabra - versión hispanoamericana",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"UFlVHlj5bUmXAmH1se/i1A",
+Title:"Nueva Biblia Latinoamericana de Hoy",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"q8xqoNVfVUyANbiNDVlu3A",
+Title:"Nueva Traducción Viviente",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"ZAk1I/wU/kqm8Jj/8YXM0Q",
+Title:"Nueva Versión Internacional",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"DThjynH6KEKXDzfSZipIlw",
+Title:"Reina Valera 1858 New Testament",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"fT5tnJRx/0CbpKl5BhN0Mg",
+Title:"Reina Valera 1909 Bible",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"y4Rbh4bc4Uas0oCrHxoAmQ",
+Title:"Reina Valera Contemporánea",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"7WjUIpFeHkW7xxYGliILWQ",
+Title:"Reina-Valera Antigua",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"3ANIoVne70yu9WBl9/yWzg",
+Title:"Sagradas Escrituras 1569",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"p36mIQr3E0urv11tIiMuXg",
+Title:"The New Living Bible, Spanish",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"oplDi7C3BUC9ML2QBMSMgw",
+Title:"Traducción en Lenguaje Actual",
+Language:"Español (America Latina) / Spanish (Latin America)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"TbZYO3AJuEaXQLFSn0FhMQ",
+Title:"Dios Habla Hoy",
+Language:"Español (Spain) / Spanish (Spain)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"nZYU49gKO0aJplmoIoGSYg",
+Title:"La Biblia, Traducción Interconfesional",
+Language:"Español (Spain) / Spanish (Spain)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"uwuuRFShu0WYjMWWSRWGPw",
+Title:"La Palabra",
+Language:"Español (Spain) / Spanish (Spain)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"BC7SMkgutEy8T9illYASWw",
+Title:"Estonian Bible",
+Language:"Estonian",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"sQaySOnyy0m1cDXvNPBg+g",
+Title:"Biblica Éwé New Testament",
+Language:"Éwé - eʋegbe",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"+Q+l2z7YFkSq2uVttfJGWw",
+Title:"Farsi Bible",
+Language:"Farsi",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"P3k8otwTzE+JqjxI0PAZzg",
+Title:"Vakavakadewa Makawa",
+Language:"Fijian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"PKwWZay5rEeSSl2NAFYyJQ",
+Title:"Vakavakadewa Vou",
+Language:"Fijian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"bxBPJ/bmikKZebvnKAzs3g",
+Title:"Finnish 1776",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"tD+aQV5AsU6+dA3Nna5WMw",
+Title:"Finnish 1776 Bible",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible
+Finnish Biblia, Se on: Koko Pyhä Raamattu, Suomeksi. Vuoden 1776 kirkkoraamattu. Finnish Bible published in 1776.",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"csOExVMbAkKiymLwicDMLw",
+Title:"Finnish 1938",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"Uo7PkAInX0uwa8nxOVg4NA",
+Title:"Kirkkoraamattu 1933/38",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"vm052tLeo0q3i49uOtXdUg",
+Title:"Kirkkoraamattu 1992",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"U9vm9lN8/0yksFu6p4l7Cg",
+Title:"Pyhä Raamattu 1933-1938 Bible",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible
+Finnish Pyhä Raamattu - Finnish Bible. Vanha Testamentti XI 1933 Uusi Testamentti XII (C) 1938",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"NdlWqemH+kGpgsz96CqXSA",
+Title:"Pyhä Raamattu 1992 Bible",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"sLbLaRsoc0+BHKnFndmENw",
+Title:"Raamattu Kansalle",
+Language:"Finnish",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"pVBVYjlgm0afgOH6xgvdHw",
+Title:"Fon Bible",
+Language:"Fon",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150928000000",
+IsAcknowledged:1}]},{
+Guid:"vXy+m3kOfUKECyel2tLtiQ",
+Title:"Bible du Semeur",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"Typographie, et environ 5 corrections mineures dans l'orthographe de deux noms.",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"YifIs3pOjkCNRDJgFahinQ",
+Title:"Bible Segond 21",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"Trois erreurs mineures, + les italiques.",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"oe2IqwhR9EaxHoOFhkFD8A",
+Title:"Colombe",
+Language:"Français / French",
+Log:[{
+Title:"Correction mineure",
+Description:"Luc 24.27 : les / Ecritures -> les Écritures",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"wzN3MHnH4EqF302GxODdtg",
+Title:"Darby",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"Mots manquants ajoutés",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"1W6atjUKJEy3uhjgol7R5w",
+Title:"Français courant",
+Language:"Français / French",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"HyNH7VrWRUquc8gg22gQ6w",
+Title:"Louis Segond 1910",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"Plusieurs corrections mineures.",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"YDTtZFuD50WvGPxLn2kfjg",
+Title:"Martin 1744",
+Language:"Français / French",
+Log:[{
+Title:"Corrections",
+Description:"Nombreuses erreurs mineures corrigées.",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"9Ej3/vDPh0mY5D+m5lrS8A",
+Title:"Nouvelle Bible Segond",
+Language:"Français / French",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"sqBuKh4g5Um1MMBRiD/RBg",
+Title:"Nouvelle Edition de Genève 1979",
+Language:"Français / French",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140408000000",
+IsAcknowledged:1}]},{
+Guid:"HB2B81JgHEeCxMacsSnESw",
+Title:"Ostervald 1996",
+Language:"Français / French",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"cNqdB1v3tUubtSlYaeOYNA",
+Title:"Parole de Vie",
+Language:"Français / French",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"UhBjvHUApUGYNyvsQXZBwA",
+Title:"Parole Vivante",
+Language:"Français / French",
+Log:[{
+Title:"Version initiale",
+Description:"Internet",
+VersionDate:"20160506000000",
+IsAcknowledged:1}]},{
+Guid:"/EEfs3rXjkizSDXy6MVwmA",
+Title:"Traduction Œcuménique de la Bible",
+Language:"Français / French",
+Log:[{
+Title:"Corrections mineures",
+Description:"- Indication de l'éditeur
+- Remplacement des guillemets d'ouverture sous forme d'accent aigu par un guillemet droit",
+VersionDate:"20121010000000",
+IsAcknowledged:1}]},{
+Guid:"k9+kBhKKs0qfztFriqnR7w",
+Title:"Fulfulde Bible",
+Language:"Fulfulde",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151010000000",
+IsAcknowledged:1}]},{
+Guid:"cVR6+z8r/EG4NewNkm7aEQ",
+Title:"Gospels, Acts, James",
+Language:"Georgian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"rWcKgfYQkUGU2uEYUk3uWQ",
+Title:"Gujarati New Testament (WBTC)",
+Language:"Gujarati",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"yTOErx8ldEK97v2VzvLFdg",
+Title:"Haitian Creole Bible",
+Language:"Haitian Creole",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"j+BqRqgjNUSO+ZZ3T8owkg",
+Title:"Hebrew Westminster Leningrad Codex",
+Language:"Hebrew (classical)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160906000000",
+IsAcknowledged:1}]},{
+Guid:"zGyMvteJI0SpM1cfFsw8oQ",
+Title:"Habrit Hakhadasha / Haderekh",
+Language:"Hebrew (modern)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160906000000",
+IsAcknowledged:1}]},{
+Guid:"UyyTLAceIU+vOwd+G4flhg",
+Title:"Modern Hebrew Bible",
+Language:"Hebrew (modern)",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"EvqxTZR5dEihTTbP3MytgQ",
+Title:"Modern Hebrew New Testament",
+Language:"Hebrew (modern)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160906000000",
+IsAcknowledged:1}]},{
+Guid:"ZgUd1CJV9UyIPt3XNq1QHA",
+Title:"Ang Pulong Sang Dios",
+Language:"Hiligaynon - Philippines",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160906000000",
+IsAcknowledged:1}]},{
+Guid:"B/l0S8Xc6E6mllkIN2BWSg",
+Title:"Hindi Bible (BSI)",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"mEVJpPZsUEuzB7kjOiwfPw",
+Title:"Hindi Bible (WBTC)",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"0TQggqj8FEq6vEYFz3wTXQ",
+Title:"Hindi Holy Bible",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"tbwcEGg3KEqIqN9oTF3lOw",
+Title:"Hindi O.V. - Re-edited (BSI)",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181021000000",
+IsAcknowledged:1}]},{
+Guid:"bFDdj8MVCUKGnQ5VqdSF6w",
+Title:"नया नियम",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"jDFVb34JSE6ZGcfx35DLOg",
+Title:"पवित्र बाइबिल",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"uPyzBIM6LEGDSQEQCDJYnQ",
+Title:"पवित्र बाइबिल CL (BSI)",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"NBUYH9Ef7ECmRgpcJv7xhg",
+Title:"सरल हिन्दी बाइबल",
+Language:"Hindi",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"Vx0zFar/VUudKk2jwW1RDQ",
+Title:"Hindi Holy Bible",
+Language:"Hindi (Roman Script) / Hindi (Roman script)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"zRqgAzwsMEWjcQG3R9djGg",
+Title:"Hmar Bible",
+Language:"Hmar",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"IITZiTstXkelVlBhP6mT8w",
+Title:"Károli Biblia",
+Language:"Hungarian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible
+A Károli Biblia, más néven a Vizsolyi Biblia, Biblia volt az első nyomtatott magyar nyelvű. Ezt fordította lelkész Károli Gáspár és társai reformátusok a 16. században volt, és nyomtatott Mantskovit Bálint ebben az évben 1590.
+The Károli Bible, also known as the Vizsoly Bible, was the first Bible printed in the Hungarian language. It was translated by pastor Gáspár Károli and fellow Calvinists in the 16th century and was printed by Bálint Mantskovit in 1590.",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"q2JX1kIHdEOrbLVHgb4ieA",
+Title:"Icelandic Bible",
+Language:"Icelandic",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"w3P9TOzfUkuquahJ3BVmiQ",
+Title:"Bible Nso",
+Language:"Igbo",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"8YV0XNA4GEKQeIs6N/b2nw",
+Title:"Ilocano Ti Biblia",
+Language:"Iloko",
+Log:[{
+Title:"Initial version",
+VersionDate:"20170301000000",
+IsAcknowledged:1}]},{
+Guid:"hgBRgImPHkyDq+U6zjPkuQ",
+Title:"Ti Baro a Naimbag a Damag Biblia",
+Language:"Iloko",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"8ebRxog7C0WLFQsQsF2xBw",
+Title:"ᐊᒡᓔᑦ ᐃᑦᔪᕐᖕᓁᑦᑐᑦ",
+Language:"Inuktitut / Eastern Arctic Inuktitut",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160918000000",
+IsAcknowledged:1}]},{
+Guid:"P6Ce4aEz70qPiyeE+nrxsA",
+Title:"Iñupiatun Mumiksat Uqalugiksuat",
+Language:"Inupiat (esk) / Northwest Alaska Inupiatun",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160918000000",
+IsAcknowledged:1}]},{
+Guid:"EvI2Qq+xRkuxeb2tmlYvLw",
+Title:"Ipqitchuat Makpiġaat - Agaayyutim Uqałhi Iñupiatun",
+Language:"Inupiat (esk) / Northwest Alaska Inupiatun",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160918000000",
+IsAcknowledged:1}]},{
+Guid:"bmszGrScbEedAx7ZXI0+vA",
+Title:"Gûdib Uĸausingit",
+Language:"Inuttitut / Labrador Inuttitut (Nunatsiavummiut)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160918000000",
+IsAcknowledged:1}]},{
+Guid:"ZXlUwfqck06Ua+G/Gws13Q",
+Title:"IBhayibhili Elingcwele",
+Language:"isiNdebele / Ndebele",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181021000000",
+IsAcknowledged:1}]},{
+Guid:"8ZTMi9lmq0C1+Xy8kmkOXQ",
+Title:"IsiNdebele 2012 Translation",
+Language:"isiNdebele / South Ndebele",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181021000000",
+IsAcknowledged:1}]},{
+Guid:"tLa3WmAqGEm7+kW8Q2c9PA",
+Title:"Diodati Bible",
+Language:"Italiano",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"094hY2NvREKqegSr7S5iQg",
+Title:"Giovanni Diodati 1649 Bible",
+Language:"Italiano",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible
+Giovanni Diodati or Deodati (6 June 1576 – 3 October 1649) was the first to translate the Bible into Italian from Hebrew and Greek sources. He was an Italian Protestant theologian that was born at Geneva, of a noble family originally from Lucca which had been expatriated on account of its Protestantism.
+Diodati is chiefly famous as the author of the translation of the Bible into Italian (1603, edited with notes, 1607). He also undertook a translation of the Bible into French, which appeared with notes in 1644.
+The Giovanni Diodati Bible is in the public domain.
+http://www.biblestudytools.com/gdb/",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"nviHE8/qYk6hx2+86Ngi1w",
+Title:"Giovanni Diodati Bibbia",
+Language:"Italiano",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"KhPxq6Bxv0aoO+gaRHDRyg",
+Title:"La Nuova Diodati",
+Language:"Italiano",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"cj0UCdMFR0KUWhfAQPSOug",
+Title:"La Nuova Riveduta",
+Language:"Italiano",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"8+fyKOCEr0CV/t5G34ccyQ",
+Title:"La Parola è Vita",
+Language:"Italiano",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"qEYmeAXNNEG9UWdL8XW7gQ",
+Title:"Nuova Riveduta 1994",
+Language:"Italiano",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"U6Fo5ToD3kS8hnbjr4t51g",
+Title:"Riveduta 1927 Bible",
+Language:"Italiano",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"qE0gvooNLUihht8wJAAmyA",
+Title:"Versione Diodati Riveduta",
+Language:"Italiano",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"+TJ76Q4HZ0a1LdObuvTL3g",
+Title:"Di Jamiekan Nyuu Testiment",
+Language:"Jamaïcain",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"hQdoOu5TX0CiN24QTm4MUw",
+Title:"Japanese Bible",
+Language:"Japanese",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"1/BG27x6bkKfoa3GeQXq/A",
+Title:"Kabyle New Testament",
+Language:"Kabyle",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"EYl3ymRir0KaySojizG/Kg",
+Title:"Bukuit Ne Tilil",
+Language:"Kalenjin",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"vayTQqVD2Uarpu6pGBAxhQ",
+Title:"Kannada Bible (BSI)",
+Language:"Kannada",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"QrVkDyGhcU+pA9uUKNk7uA",
+Title:"Kannada Bible (WBTC)",
+Language:"Kannada",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"WzQIeIO3lEyBiMDZxqmnYw",
+Title:"Kannada KJV Bible",
+Language:"Kannada",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"Xa78a79pxkmkAB+u8RqbMQ",
+Title:"Kekchi Bible",
+Language:"Kekchi",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"QuywBq6mEUOT9bGQsRv/fg",
+Title:"Khmer Christian Bible",
+Language:"Khmer",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161204000000",
+IsAcknowledged:1}]},{
+Guid:"yXX9rVMR9kS8kEE6tKNnYA",
+Title:"Khmer Standard Version",
+Language:"Khmer",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161204000000",
+IsAcknowledged:1}]},{
+Guid:"xRb2EtoxZE2LGrGt6K9rhQ",
+Title:"ព្រះគម្ពីរបរិសុទ្ធ",
+Language:"Khmer",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161204000000",
+IsAcknowledged:1}]},{
+Guid:"KmbBv9QZEkih+3uRiNH8XA",
+Title:"IBUKU RĨA ŨHORO ŨRĨA MWEGA",
+Language:"Kikuyu",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151010000000",
+IsAcknowledged:1}]},{
+Guid:"JEvYXH/LVUWGNrXpop3cbg",
+Title:"Kiugo Gĩtheru Kĩa Ngai, Kĩrĩkanĩro Kĩrĩa Gĩkũrũ Na Kĩrĩa Kĩerũ",
+Language:"Kikuyu",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"ZtlY3LXFzk2YCx0KkgjwHg",
+Title:"CoTrans Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"4ZNEwc2hREuUFjEu5GWJ8A",
+Title:"Easy Ahgape Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"f2cKaDeshE2X+nYjYpfUiQ",
+Title:"Easy Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"FZaGsCEsYky8wDU4MeHKPg",
+Title:"Hangul KJV Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"FjYZtthZt0qMcZvR3TD+hA",
+Title:"Hyeondaeeo Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"6NyXVJb+AUG6BHP1dDZH7w",
+Title:"Korean (American Standard Hangul) Bible",
+Language:"Korean",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"yv52wCDoZ06d/wob+6shOA",
+Title:"Korean (American Standard Revised 4th Edition) Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"vlHimgvYiESyb1TL+laDSA",
+Title:"Korean (American Standard Revised) Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"OJtburpOqk6bpPTZJTwSZg",
+Title:"Modern Bible-1",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"wCIPA+oAokiVng08wlBTjw",
+Title:"Modern Bible-2",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"bZgJ/x+Zckaz+mAiK7lIow",
+Title:"Pyojunsae Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"N/U8FzepNEmYHM9gfv9Rzw",
+Title:"Rentier Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"WFdnuNIav0q3T5RbPwJWtQ",
+Title:"Woorimal Bible",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"24isDC8ipEGY4WIVTP9GcQ",
+Title:"개역한글",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160908000000",
+IsAcknowledged:1}]},{
+Guid:"+r3ipHHCPUOSmhw8w5P4qg",
+Title:"새번역",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160908000000",
+IsAcknowledged:1}]},{
+Guid:"ZPJsglFmUkubRordfWHH3Q",
+Title:"현대인의 성경",
+Language:"Korean",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160908000000",
+IsAcknowledged:1}]},{
+Guid:"RpfgQmdkUUWLIti6klEfpg",
+Title:"Kurdish (Sorani) Standard Version",
+Language:"Kurdish",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"xVBeX4vLJkObxqSr2JbUwg",
+Title:"Latvian New Testament",
+Language:"Latvian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"stGIAoODf0+PC57C8G0LkQ",
+Title:"Lithuanian Bible",
+Language:"Lithuanian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"YtN34oUANk60watdKlaMng",
+Title:"DEƲE NIINƐI",
+Language:"Loma (Liberia)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"ymCekrW9TUC8FlmDoSmVQQ",
+Title:"Bayibuli Entukuvu",
+Language:"Luganda",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"zjCafaLTbk27DUQhCk6vHQ",
+Title:"Ekitabo Ekitukuvu, Baibuli",
+Language:"Luganda",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20160726000000",
+IsAcknowledged:1}]},{
+Guid:"KP4t9UnupkKp4gUIG63m5w",
+Title:"Luganda Bible",
+Language:"Luganda",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"MrNS/Q6qKkmzZeyGsuUtng",
+Title:"Biblia Sinyati",
+Language:"Maasai / Masai",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"aSGdAoGU+0Sl1Ip0wt9nvQ",
+Title:"Malagasy Bible (1865)",
+Language:"Malagasy",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"9RObD7QLo0q8xbR4Q4IlKg",
+Title:"Malayalam Bible (BSI)",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"KxDYk/+i8UCOgRmlyYWp8g",
+Title:"Malayalam New Testament",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"4X8EzVTYYU26mmRYmR+yRw",
+Title:"Malayalam New Testament (WBTC)",
+Language:"Malayalam",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"GfCUyEdVyEqKpK1v3wbKog",
+Title:"Portions (Esther, Jonah, Four Gospels)",
+Language:"Manx Gaelic",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"pqmg2o5HUE6VqVGl7Eqkjg",
+Title:"Maori Bible",
+Language:"Maori",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"6F0X6ALOJU+qG1XeOSxDEA",
+Title:"Marathi Bible (WBTC)",
+Language:"Marathi",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"GIHC4eR6nkeZZnOTfzh+Bw",
+Title:"Mizo Bible",
+Language:"Mizo",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"0Bd0N6dtfUuzZxbTlAn/ww",
+Title:"Modern Greek Bible",
+Language:"Modern Greek",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"kJA8oqBwrkyY5+GYYpekEQ",
+Title:"Ариун Библи 2013",
+Language:"Mongolian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161006000000",
+IsAcknowledged:1}]},{
+Guid:"0Vmk3KgsTkKvGQa7A5EXkg",
+Title:"Ариун Библи, 2004",
+Language:"Mongolian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140629000000",
+IsAcknowledged:1}]},{
+Guid:"lOja2x2C0EKXhNH/fXIIiA",
+Title:"Mooré Bible",
+Language:"Mooré / Moore",
+Log:[{
+Title:"Initial version",
+Description:"Bible in the Burkina Mooré Language",
+VersionDate:"20141023000000",
+IsAcknowledged:1}]},{
+Guid:"veEoHQ8Qfk6pTNh+qb0YWQ",
+Title:"Nouvo Testaman Dan Kreol Morisien",
+Language:"Morisyen / Mauritian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"RuPlb96hjUq+b7iNQRqo9A",
+Title:"Judson 1835 Bible",
+Language:"Myanmar Burmse",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"AO3YOeAG+kOzD5xZn8OW2w",
+Title:"Nepali Bible (WBTC)",
+Language:"Nepali",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"SA0TEyLMXE6eUzhHfdLjPw",
+Title:"Bibelen 2011 bokmål",
+Language:"Norsk bokmål / Norwegian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"ih++sWor3Um3MCG2Wn+GnQ",
+Title:"Det Norsk Bibelselskap 1930",
+Language:"Norsk bokmål / Norwegian",
+Log:[{
+Title:"Added Proverbs and Song of Solomon books. Yen character instead of O. Missing character after each '",
+VersionDate:"20140506000000",
+IsAcknowledged:1}]},{
+Guid:"voryRueECU2gETyUxRRg+w",
+Title:"En Levende Bok: Det Nye Testamentet",
+Language:"Norsk bokmål / Norwegian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"nVAS9Kha7EGyZNJ4j75S+w",
+Title:"Norsk Bibel 88/07",
+Language:"Norsk bokmål / Norwegian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140506000000",
+IsAcknowledged:1}]},{
+Guid:"heh/mTdPB0WYSw1CkiW2Kg",
+Title:"The Bible in Norwegian 1978/85 bokmål",
+Language:"Norsk bokmål / Norwegian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"VAjSIpYgsk+aJl0+sywJPQ",
+Title:"Bibelen 1978/85 nynorsk",
+Language:"Norsk nynorsk / Norwegian 2",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"ixWQFn/WVEefRf9FRFWiZg",
+Title:"Bibelen 2011 nynorsk",
+Language:"Norsk nynorsk / Norwegian 2",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"WTklUyy7skiYZd6USG5uUQ",
+Title:"Paite Bible",
+Language:"Paite",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"6/kZ8HhFak6776OImMKqwA",
+Title:"Ing Mayap a Balita Biblia",
+Language:"Pampanga (Philippines)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160906000000",
+IsAcknowledged:1}]},{
+Guid:"TwI5TWQg30W9iqINcn9+4A",
+Title:"Beibel na Papiamentu Koriente 2013",
+Language:"Papiamento",
+Log:[{
+Title:"Version initiale",
+Description:"Internet",
+VersionDate:"20170118000000",
+IsAcknowledged:1}]},{
+Guid:"FQR7uGEgv02ENY3qoqGfZg",
+Title:"BIBELE",
+Language:"Pedi - Sesotho sa Leboa",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"jYFMv34QXUaVyP0vfLJ5dg",
+Title:"BIBELE Taba yea Botse",
+Language:"Pedi - Sesotho sa Leboa",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"pKxoaQjW7EScM3brLgaY8A",
+Title:"New Millenium Version",
+Language:"Persian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"E1UY5WVc9ECtU4XSV5WrWw",
+Title:"Persian Bible",
+Language:"Persian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"GFsihwo6HU+pwLFXCmFssw",
+Title:"Persian Old Version",
+Language:"Persian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"fPz1S+z18UyLXAW0eMhCQg",
+Title:"Today's Farsi",
+Language:"Persian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"lYg53fK3S0WXg3e2NcfdeQ",
+Title:"Pohnpeian 2006 Bible",
+Language:"Pohnpeian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"3F6k2k43lUiK+Wvp395PcA",
+Title:"Pohnpeian Bible",
+Language:"Pohnpeian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"Uezdu5uSBk65gV9VNSjzyg",
+Title:"Biblia Gdańska",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160506000000",
+IsAcknowledged:1}]},{
+Guid:"guhSh/SHQkC6ixWOOIyndw",
+Title:"Biblia Warszawska",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160506000000",
+IsAcknowledged:1}]},{
+Guid:"stNQGGTt7kOyEJB/Z4Wpxw",
+Title:"Nowa Biblia Gdańska",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160506000000",
+IsAcknowledged:1}]},{
+Guid:"dkmDoiHGykaI9OB5U/peyQ",
+Title:"Polish Bible",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"21kDA6apy0SfcpsDK4dF3A",
+Title:"Słowo Życia",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160506000000",
+IsAcknowledged:1}]},{
+Guid:"ofhfP35YkUmyp1EwkrN3Gg",
+Title:"Uwspółcześniona Biblia Gdańska",
+Language:"Polish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160506000000",
+IsAcknowledged:1}]},{
+Guid:"EXI506kyIk+4PJYFoo46mA",
+Title:"Almeida Atualizada",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"MBPDrnabWUWnsUYI++53lw",
+Title:"Almeida Revista e Atualizada",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"s8tmsftwxkanLr4FU/Qb0A",
+Title:"Almeida Revista e Corrigida",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"gYYS/GNWP0SgZYTl4tDfcA",
+Title:"Bíblia Sagrada, Nova Versão Transformadora",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"36AEZLcLJEeyFeRMC4DV9Q",
+Title:"Nova Almeida Atualizada",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"AKHr55HbQE6oPqEzjgMnPA",
+Title:"Nova Bíblia Viva Português",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"AnS6//JkBUOqMqoLB1RTXg",
+Title:"Nova Tradução na Linguagem de Hoje",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"9yWhynF98kCCu0qfVlOo1w",
+Title:"Nova Versão Internacional",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"MBFCDlY3dUaPlDXjs5GOdA",
+Title:"Perjanjian Novo Testamento - Versão Fácil de Ler",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"3MLAexUUREqeLIuBYMItNg",
+Title:"Tradução Brasileira",
+Language:"Português (Brasil) / Portuguese (Brazil)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"XGlng2UvaEi4n9/wbGaJuw",
+Title:"a BÍBLIA para todos – Edição comum",
+Language:"Português (Portugal) / Portuguese (Portugal)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"nbjdubwlEkSlHoqRA6KMHA",
+Title:"Almeida Revista e Corrigida",
+Language:"Português (Portugal) / Portuguese (Portugal)",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"rT0u0NFSHkCIt4IJXjufbA",
+Title:"O Livro",
+Language:"Português (Portugal) / Portuguese (Portugal)",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"DoJCjVDw7UKIrpxpELc+AQ",
+Title:"Lykins 1844 (Matthew, Acts)",
+Language:"Potawatomi",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"TcrMK1jbWEGgjLwlzy/9zA",
+Title:"Punjabi New Testament (WBTC)",
+Language:"Punjabi",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"ck4z6eZic0KZ2CidmXKmmw",
+Title:"Northern Pwo Karen Thai Bible",
+Language:"Pwo Northern Karen",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"gcvlOJwXfESvxTI5dkLbZw",
+Title:"Rohacek Bible",
+Language:"Rohacek",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"K3vLeaTROku8usOkUz6Jmw",
+Title:"E Lashi Viasta (Gypsy) New Testament",
+Language:"Romani",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"blGnFVe+OE2wFNurzSXftA",
+Title:"Biblia Cornilescu",
+Language:"Romanian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"3LRAsJ15c0+t5g5edaVsLA",
+Title:"Biblia Cornilescu plus",
+Language:"Romanian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"niZfDlfDcE2J8mxwFcKbMQ",
+Title:"Cornilescu Bible",
+Language:"Romanian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"Wo/EHtb0NkaptbMiKQGnEg",
+Title:"Fidela 2013",
+Language:"Romanian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"sgpCwqn7c0uRe7e9urYw9Q",
+Title:"Noua Traducere în limba Română",
+Language:"Romanian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"1wniRT1Ep0Ge9TG4ffwaNQ",
+Title:"Versiunea Dumitru Cornilescu",
+Language:"Romanian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"Q05ehMr570uYAyUbjAgfcQ",
+Title:"Versiunea Dumitru Cornilescu Corectată",
+Language:"Romanian",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"efAdauSUjkGpPvc89lOZyg",
+Title:"Makarij 1825 Pentateuch Translation",
+Language:"Russian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"Rt7I1d8qpk2Y9vIh4cv0Ug",
+Title:"Synodal 1876 Bible Translation",
+Language:"Russian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"3/RvGYsmFkKHlKEXJj5t8g",
+Title:"Victor Zhuromsky New Testament",
+Language:"Russian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"bCuVWvi3A0+Z5dg3ZfmV6g",
+Title:"O LE TUSI PA'IA",
+Language:"Samoan",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"aYewGq53uEyXHBIyw1tiXQ",
+Title:"Gospel of Mark",
+Language:"Scots Gaelic",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"1nh8Hfw6EEC9nrWw9jxbdw",
+Title:"Cyrillic Bible",
+Language:"Serbian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"JdAJ8cO+GUSx6Jd4dDfQ+Q",
+Title:"Danicic Karadzic Latin Bible",
+Language:"Serbian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"a3mOmPIOw0q0/5PKgx/Bqg",
+Title:"BIBELE",
+Language:"Sesotho - Lesotho",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140722000000",
+IsAcknowledged:1}]},{
+Guid:"BD/Pf4bpgk2qjr9FwIdluA",
+Title:"BIBELE e Halalelang",
+Language:"Sesotho - Lesotho",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140722000000",
+IsAcknowledged:1}]},{
+Guid:"BKQtaPFBKUCpWC9kGR+yjg",
+Title:"Buka ea Khale",
+Language:"Sesotho - Lesotho",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"DNtEGo9cm0WN1OPD5w09RA",
+Title:"Shona Bible",
+Language:"Shona - chiShona",
+Log:[{
+Title:"Initial version",
+VersionDate:"20160321000000",
+IsAcknowledged:1}]},{
+Guid:"OpZ0/PKwR0mMzO476Nrcqg",
+Title:"Siswati 1996 Bible",
+Language:"siSwati / Swazi",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"mQzpg8clQEa6QqDeDbgT3g",
+Title:"Siyin Bible",
+Language:"Siyin - Myanmar",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"bacSTVKXaUOYH36uHNTBog",
+Title:"Slovenian Bible",
+Language:"Slovenian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"xfj3hS+NtECoU79qoKo4RA",
+Title:"Somali Bible",
+Language:"Somali",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"o8PRFyGqOE6e6mlV+068JQ",
+Title:"Biblia Habari Njema",
+Language:"Swahili",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"vjZpKtmX1Ui2EFoYJAbpUg",
+Title:"Swahili New Testament",
+Language:"Swahili",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"7eJ0vqAQiUq5THwbBtcrjg",
+Title:"Union Version",
+Language:"Swahili",
+Log:[{
+Title:"Corrected Bible book names by Humphrey William",
+VersionDate:"20180104000000",
+IsAcknowledged:1}]},{
+Guid:"DMa8k6DwDUmdFsmJ9l6Dmg",
+Title:"Bibel 2000",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160425000000",
+IsAcknowledged:1}]},{
+Guid:"hBadV3RDikqh1s5FS2VzwA",
+Title:"Folkbibeln 1998",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160425000000",
+IsAcknowledged:1}]},{
+Guid:"6kf/u9JQeEiDaTicxLNIPw",
+Title:"Folkbibeln 2014",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet
+Only Psalms and NT are revised",
+VersionDate:"20160425000000",
+IsAcknowledged:1}]},{
+Guid:"477hBqU63km4ebN6tViYWw",
+Title:"Folkbibeln 2015",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"http://www.folkbibeln.se/ladda-ner/folkbibeln-pa-projektor
+Fully revised",
+VersionDate:"20160102000000",
+IsAcknowledged:1}]},{
+Guid:"nHEPrvCRyUmGCJhKwqSteg",
+Title:"Karl XII 1873",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160425000000",
+IsAcknowledged:1}]},{
+Guid:"1gaNF5dIHkmqWtnxBw9j0A",
+Title:"nuBibeln",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"9K+ORaU+60CK3V4s0OHxwQ",
+Title:"Nya Levande Bibeln",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160425000000",
+IsAcknowledged:1}]},{
+Guid:"t7Xy6kET20yYKvpvQJ0F7w",
+Title:"Svenska Kärnbibeln",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181021000000",
+IsAcknowledged:1}]},{
+Guid:"xBMNWEu5P0iWkthztOIY0Q",
+Title:"Svenskbibel",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20160425000000",
+IsAcknowledged:1}]},{
+Guid:"R7Ms1ScFwkOSXYx4MBUmUw",
+Title:"Swedish 1917 Bible",
+Language:"Swedish",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"ULsbUZCKjECfA0k7mLQwFQ",
+Title:"Syriac Bible",
+Language:"Syriac",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"GtlBoLaJXUirdldZlTu2fw",
+Title:"Ang Bagong Ang Biblia",
+Language:"Tagalog",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"DivTTHGMHEytpKLWjQYh5A",
+Title:"Ang Dating Biblia 1905",
+Language:"Tagalog",
+Log:[{
+Title:"Version initiale",
+Description:"Ang Dating Biblia -- Philippines Bible Society (1905), Tagalog (Philippines National Language) -- Bible is Recognized by its Title (Ang Biblia) or (Ang Dating Biblia) -- Typed From the Ang Biblia Tagalog, by Richard und Dolores Long. -- This Bible is now Public Domain.
+Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"AWnkKpvhk0CJP/WVsRno2A",
+Title:"Magandang Balita Bible (Revised)",
+Language:"Tagalog",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"2EFvrhs36UehORKrYEyTww",
+Title:"Tagaog Ang Biblia",
+Language:"Tagalog",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"uFmEWiuLL0aHrhmOanpslQ",
+Title:"Tamajaq Portions",
+Language:"Tamajaq",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"btWPwypHikCrUCeL3918YQ",
+Title:"Tamil Bible (BSI)",
+Language:"Tamil",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"KdtP9aWSP02YRWAotqXnzg",
+Title:"Tamil Bible (WBTC)",
+Language:"Tamil",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"E62+3+XmIUeUaxWCkq5Z2w",
+Title:"Tedim Bible",
+Language:"Tedim - Myanmar",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"ejgJKJM7tEGKRO1+bkhEiQ",
+Title:"Telugu Bible (BSI)",
+Language:"Telugu",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"tiHazEhl50m3ziIrueKgFA",
+Title:"Telugu Bible (WBTC)",
+Language:"Telugu",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"ZL3pjYxfOU6ZSlsvEdUblg",
+Title:"తెలుగు బైబిల్",
+Language:"Telugu",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181119000000",
+IsAcknowledged:1}]},{
+Guid:"N0Z63zRoYEWyYD5MUu8tLQ",
+Title:"పరిశుద్ధ గ్రంథము OV Bible (BSI)",
+Language:"Telugu",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181119000000",
+IsAcknowledged:1}]},{
+Guid:"Lol3Xtr1lEC+fP4sxfSV1g",
+Title:"From KJV Bible",
+Language:"Thai",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"m3rHo3xMqE+qgSXoWbuHgQ",
+Title:"Tigrigna Bible",
+Language:"Tigrigna",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"xGeLCyO9fUudKplM27HH0w",
+Title:"BIBELE Mahungu Lamanene",
+Language:"Tsonga",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"iVDZDh2wRk+AVjBJMOAg4g",
+Title:"Xitsonga (Bibele)",
+Language:"Tsonga",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"scYCSkbFJUqGN9zU3Xagaw",
+Title:"BAEBELE e e Boitshepo",
+Language:"Tswana",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"UChzAq1t2UmCU2to3M6deg",
+Title:"BEIBELE",
+Language:"Tswana",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"wiDMrXA7JEOoAdeJ8Pd5/g",
+Title:"Turkish 1987-1994 New Testament",
+Language:"Turkish",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"wFQ6vU/gk0qKSu2jycarTg",
+Title:"Turkish Bible",
+Language:"Turkish",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"Vbn2AKi7k0GXtQwmzGpUHw",
+Title:"Twerɛ Kronkron",
+Language:"Twi",
+Log:[{
+Title:"Initial version",
+Description:"Source : Internet",
+VersionDate:"20160505000000",
+IsAcknowledged:1}]},{
+Guid:"TZ84SobZME6oNX+XdxsM+g",
+Title:"ھازىرقى زامام ئۇيغۇرچە تەرجىمىسى",
+Language:"Uighur",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"Z03u9vQioEK3k67xfhXYJw",
+Title:"P. Kulish 1871 New Testament",
+Language:"Ukrainian",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"piSmpIXfNEmjgVIWmqiGuQ",
+Title:"Ukrainian Bible",
+Language:"Ukrainian",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"mlFpsUMEYUGKTNMco350iw",
+Title:"Біблія в пер Івана Огієнка, 1962",
+Language:"Ukrainian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151010000000",
+IsAcknowledged:1}]},{
+Guid:"6jSt2OiajUC9TUaipSPCYw",
+Title:"Біблія в пер. П.Куліша та І.Пулюя, 1905",
+Language:"Ukrainian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151010000000",
+IsAcknowledged:1}]},{
+Guid:"8SlhaQ65rE2k/DaCNYZQDg",
+Title:"Новітній переклад Біблії О.Гижі",
+Language:"Ukrainian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151010000000",
+IsAcknowledged:1}]},{
+Guid:"Bb3aex3Ln0yA2wl4EQ5M/Q",
+Title:"Свята Біблія [Новий Заповіт]: Сучасною Мовою",
+Language:"Ukrainian",
+Log:[{
+Title:"Initial version",
+VersionDate:"20151010000000",
+IsAcknowledged:1}]},{
+Guid:"GqHJ15gk/UWuBvQjuLSNbQ",
+Title:"Uma New Testament",
+Language:"Uma",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"DHsviZT1a0Cpo2LQpOKYSA",
+Title:"Revised Urdu Bible",
+Language:"Urdu",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"zJAQApz/LUGtJG60MfldyQ",
+Title:"Urdu New Testament (WBTC)",
+Language:"Urdu",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"SPMgB4H1KUO/vQNbunLP0A",
+Title:"اردو جیو ورژن",
+Language:"Urdu",
+Log:[{
+Title:"Initial version",
+VersionDate:"20150627000000",
+IsAcknowledged:1}]},{
+Guid:"aD3j549eyE6PLbAN9AwwXg",
+Title:"1934 Vietnamese Bible",
+Language:"Vietnamese",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"xfP1qRnr3EqhH7u3brxXwQ",
+Title:"Ban Dich 2011",
+Language:"Vietnamese",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"e/svQgEh90KaTFYE9aI79Q",
+Title:"Kinh Thánh Bản Dịch Mới",
+Language:"Vietnamese",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"mF5ahBftSU2ko/36oPhw+g",
+Title:"Kinh Thánh Hiện Đại",
+Language:"Vietnamese",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"LhlFR8j3XUGjSRmSm0fxjg",
+Title:"Revised Vietnamese Version Bible",
+Language:"Vietnamese",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"Tw9iuDTc3EuRMpEM4cULiw",
+Title:"Thánh Kinh - Bản Phổ thông™",
+Language:"Vietnamese",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161022000000",
+IsAcknowledged:1}]},{
+Guid:"FKooTB9JiEG0fPkT9GCgpQ",
+Title:"Vietnamese 1934 Bible",
+Language:"Vietnamese",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"W3XuUk+mJkGi3u+JAgiUDg",
+Title:"Sesoana besal nemelmoa walsana moana",
+Language:"Walsa/Waris",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"vLvCjQDwR0i/Xx2joUXo8A",
+Title:"Welsh Bible",
+Language:"Welsh",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"Cj5X5LesIk6vzhoUJDU13Q",
+Title:"Wolof New Testament",
+Language:"Wolof",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130309000000",
+IsAcknowledged:1}]},{
+Guid:"1aCak+TXwEO+h+qFIR8Ojg",
+Title:"Xhosa Bible",
+Language:"Xhosa",
+Log:[{
+Title:"Version initiale",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"V7BX/g6AZEq7msn5IGOxNg",
+Title:"BIBELI MIMỌ",
+Language:"Yorùbá / Yoruba",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"M8Ja8c2jDEyf4zkZYb+A2Q",
+Title:"Bíbélì Mímọ́ ní Èdè Yorùbá Òde Òní",
+Language:"Yorùbá / Yoruba",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"PDiVD3aqgUad7Wi8AR9piw",
+Title:"Yoruba Bible",
+Language:"Yorùbá / Yoruba",
+Log:[{
+Title:"Corrected footer (faster display)",
+VersionDate:"20150927000000",
+IsAcknowledged:1}]},{
+Guid:"1vEdwLKUdEa547zBCcFBKg",
+Title:"Zarma Bible",
+Language:"Zarma",
+Log:[{
+Title:"Initial version",
+Description:"Source: Internet",
+VersionDate:"20130722000000",
+IsAcknowledged:1}]},{
+Guid:"KvAoVQ4Otk66QjXOmkx+qg",
+Title:"LAISIENGTHOU",
+Language:"Zou - Myanmar",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"NVC8dZhC+Ea/JQkeD7/XAA",
+Title:"Zokam International Version",
+Language:"Zou - Myanmar",
+Log:[{
+Title:"Initial version",
+VersionDate:"20161119000000",
+IsAcknowledged:1}]},{
+Guid:"1Qp55bAX0ki3v33mrlvHbw",
+Title:"Ibhayibheli Elingcwele",
+Language:"Zulu",
+Log:[{
+Title:"Initial version",
+VersionDate:"20140628000000",
+IsAcknowledged:1}]},{
+Guid:"FoCWaIjAfUmFrF/c9QOOLQ",
+Title:"Western 1853 New Testament",
+Language:"հայերէն (Արեւմտահայերէն) / Armenian (Western)",
+Log:[{
+Title:"Initial version",
+Description:"Source: The Unbound Bible",
+VersionDate:"20130310000000",
+IsAcknowledged:1}]},{
+Guid:"6c369joJE02VfrtfWOS3vw",
+Title:"Sinhala New Revised Version",
+Language:"සිංහල / Sinhala",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]},{
+Guid:"K24SlU8gPk2nb9JOVE5C4w",
+Title:"Sinhala Revised Old Version",
+Language:"සිංහල / Sinhala",
+Log:[{
+Title:"Initial version",
+VersionDate:"20181111000000",
+IsAcknowledged:1}]}],
+Languages:[{
+Title:"Español Spain (translated by Ovidio Robledo Gómez)",
+Language:"Languages",
+FileName:"es-ES.json",
+Log:[{
+Title:"1.23",
+Description:"Many thanks to Ovidio Robledo Gómez for providing this translation.",
+VersionDate:"20181229000000",
+IsAcknowledged:1}]},{
+Title:"Comments",
+Language:"Languages",
+FileName:"Comments.json",
+Log:[{
+Title:"Version 1.11",
+VersionDate:"20150215000000",
+IsAcknowledged:1}]},{
+Title:"Deutsch",
+Language:"Languages",
+FileName:"de-DE.json",
+Log:[{
+Title:"1.24",
+Description:"Do you know how to improve this translation?
+Are you ready to help other VideoPsalm users?
+Then please send us an email at videopsalm@gmail.com!
+Thanks in advance!",
+VersionDate:"20190802000000",
+IsAcknowledged:1}]},{
+Title:"Dutch (translated by Rick Timmers)",
+Language:"Languages",
+FileName:"nl-NL.json",
+Log:[{
+Title:"1.23",
+Description:"Many thanks to Rick Timmers and Jan Steenstra for providing this translation.",
+VersionDate:"20181122000000",
+IsAcknowledged:1}]},{
+Title:"English",
+Language:"Languages",
+FileName:"en-US.json",
+Log:[{
+Title:"1.24",
+Description:"Do you know how to improve this translation?
+Are you ready to help other VideoPsalm users?
+Then please send us an email at videopsalm@gmail.com!
+Thanks in advance!",
+VersionDate:"20190802000000",
+IsAcknowledged:1}]},{
+Title:"Español Mexico (translated by Joaquín Martínez Romero)",
+Language:"Languages",
+FileName:"es-MX.json",
+Log:[{
+Title:"1.22",
+Description:"Many thanks to Joaquín Martínez Romero for providing this translation.",
+VersionDate:"20181031000000",
+IsAcknowledged:1}]},{
+Title:"Français",
+Language:"Languages",
+FileName:"fr-FR.json",
+Log:[{
+Title:"1.24",
+VersionDate:"20190802000000",
+IsAcknowledged:1}]},{
+Title:"Lithuanian (translated by Moo, Mr. M)",
+Language:"Languages",
+FileName:"lt-LT.json",
+Log:[{
+Title:"1.23",
+Description:"Many thanks to Moo (Mr. M) for providing this translation.",
+VersionDate:"20181115000000",
+IsAcknowledged:1}]},{
+Title:"Russian (translated by Oleg Vasilenko)",
+Language:"Languages",
+FileName:"ru-RU.json",
+Log:[{
+Title:"1.21",
+Description:"Many thanks to Oleg Vasilenko for providing this translation.",
+VersionDate:"20180708000000",
+IsAcknowledged:1}]},{
+Title:"Swedish (translated by Gunnar Klingberg - www.enyled.se)",
+Language:"Languages",
+FileName:"sv-SE.json",
+Log:[{
+Title:"1.21",
+Description:"Many thanks to Gunnar Klingberg for providing this translation.",
+VersionDate:"20180507000000",
+IsAcknowledged:1}]}]}

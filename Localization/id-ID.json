@@ -1,0 +1,2017 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Indonesian (Indonesia)"},{
+Key:1000000,Text:"Terjemahan"},{
+Key:1000001,Text:"Id"},{
+Key:1000003,Text:"T&ambahkan..."},{
+Key:1000004,Text:"Tambahkan satu atau lebih bahasa VideoPsalm"},{
+Key:1000006,Text:"&Kirim"},{
+Key:1000007,Text:"Kirim label melalui email ke VideoPsalm untuk dimuat di program Setup berikutnya"},{
+Key:1000009,Text:"Tera&pkan"},{
+Key:1000011,Text:"&Simpan"},{
+Key:1000012,Text:"Terapkan bahasa yang dipilih di VideoPsalm. Perubahan akan disimpan secara otomatis."},{
+Key:1000013,Text:"Simpan label yang diubah"},{
+Key:1000015,Text:"&Hapus"},{
+Key:1000016,Text:"Hapus bahasa VideoPsalm yang dipilih dan semua labelnya"},{
+Key:1000022,Text:"{0} &label:"},{
+Key:1000024,Text:"&Bahasa:"},{
+Key:1000029,Text:"Simpan label"},{
+Key:1000030,Text:"Label telah diubah.
+
+Ingin menyimpan perubahan?"},{
+Key:1000031,Text:"Hapus bahasa"},{
+Key:1000032,Text:"Apakah Anda yakin ingin menghapus bahasa {0} VideoPsalm?
+
+Tindakan ini akan menghapus semua teks bahasa ini dan tidak dapat dibatalkan."},{
+Key:1000035,Text:"VideoPsalm telah membuat file terkompresi yang berisi label dalam bahasanya sendiri.
+Lampirkan file tersebut dalam email yang muncul, kemudian kirimkan emailnya ke videopsalm@gmail.com."},{
+Key:1000036,Text:"Kirim label melalui email"},{
+Key:1000037,Text:"<b>Di jendela \"Terjemahan\" ini, Anda dapat mengedit teks-teks yang muncul di layar VideoPsalm.</b>
+Hal ini memungkinkan Anda untuk menerjemahkan, mengadaptasi, atau memperbaiki semua teks antarmuka VideoPsalm, tanpa keluar dari VideoPsalm.
+
+<i>Jika panel ini memakan terlalu banyak ruang, klik tombol kecil besarkan/kecilkan yang terletak di kiri atas untuk mengecilkannya, atau ubah ukurannya dengan mouse menggunakan pemisah horisontal.</i>
+
+VideoPsalm tersedia dalam beberapa bahasa. Bahasa VideoPsalm ditampilkan dalam panel 'bahasa' di sebelah kiri bawah.
+Jika bahasa Anda tidak ada di daftar ini, Anda dapat menerjemahkan VideoPsalm ke dalam bahasa Anda di jendela ini. Perhatikan bahwa ini mungkin akan memerlukan beberapa jam untuk dikerjakan.
+
+Berikut adalah cara untuk memiliki VideoPsalm dalam bahasa Anda:
+
+- Tambahkan bahasa Anda ke daftar dengan memilih dari daftar meenggunakan tombol \"<image=add2_16> Tambahkan\".
+- Dalam tabel di sebelah kanan bawah, VideoPsalm menampilkan label dalam bahasa yang dipilih.
+-Terjemahkan label dalam bahasa Anda.
+
+Dalam tabel, Anda dapat mengedit label dengan bebas, seperti dalam spreadsheet Excel.
+Tabel menyediakan area pencarian. Misalnya, untuk menampilkan hanya label yang mengandung kata-kata tertentu, ketikkan kata-kata tersebut di kotak pencarian lalu klik tombol \"Cari\".
+Anda juga dapat menggunakan filter yang terletak di bawah setiap tajuk bahasa untuk menyaring label yang mengandung kata-kata tertentu.
+
+Untuk memudahkan pekerjaan Anda, pilih satu atau lebih bahasa lain yang Anda tahu, sehingga Anda dapat lebih memahami arti dari tiap label dan dapat membacanya dalam beberapa bahasa sekaligus.
+Tampilkan komentar karena mereka membantu dalam lebih memahami arti label dan di mana mereka digunakan.
+
+<b>Catatan:</b> Sebaiknya tinggalkan komentar dalam bahasa Inggris, karena banyak orang mengerti bahasa Inggris.
+
+Untuk melihat hasil terjemahan Anda:
+- Pilih bahasa Anda dalam panel bahasa dengan mengekliknya
+   kemudian
+- Klik tombol \"Terapkan\" di bawah.
+
+VideoPsalm akan ditampilkan dalam bahasa yang telah dipilih.
+
+Jangan lupa untuk menyimpan terjemahan Anda secara berkala dengan mengeklik tombol \"<image=disk_blue> Simpan\".
+Setelah menyimpan bahasa baru, Anda dapat memilihnya di jendela \"Opsi\".
+
+Mohon kirimkan terjemahan atau koreksi Anda melalui email ke <b>videopsalm@gmail.com</b> dengan mengeklik tombol \"<image=mail_16> Kirim\".
+Ketika Anda mengeklik tombol ini, dua hal akan terjadi:
+1. Klien email Anda, misalnya Outlook, akan terbuka secara otomatis.
+2. File Explorer Window akan membuka folder di mana VideoPsalm menempatkan file yang terkompresi yang dinamai sesuai bahasanya.
+
+Tarik file yang sesuai ke dalam email dan kirimkan sehingga kami dapat memasukkannya ke dalam versi VideoPsalm berikutnya."},{
+Key:1000038,Text:"Bagaimana cara menterjemahkan VideoPsalm ke dalam bahasa Anda?"},{
+Key:1000039,Text:"Bahasa di mana VideoPsalm diterjemahkan. Pilih bahasa yang Anda inginkan untuk menampilkan label dalam tabel. Untuk menambahkan bahasa ke daftar, klik tombol \"Tambahkan\"."},{
+Key:1001000,Text:"Tambahkan bahasa"},{
+Key:1001001,Text:"&Bahasa:"},{
+Key:1001002,Text:"Pilih bahasa untuk menambahkan"},{
+Key:1001003,Text:"T&ambahkan"},{
+Key:1001004,Text:"Batal"},{
+Key:1001005,Text:"Bantuan (F1)"},{
+Key:1002000,Text:"Opsi"},{
+Key:1002003,Text:"&Umum"},{
+Key:1002004,Text:"&Tampilan"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Buku Lagu"},{
+Key:1002015,Text:"Alkita&b"},{
+Key:1002103,Text:"&Bahasa:"},{
+Key:1002105,Text:"Folder dokumen &VideoPsalm:"},{
+Key:1002106,Text:"Pilih folder dokumen VideoPsalm:"},{
+Key:1002112,Text:"&Simpan perubahan yang mungkin telah Anda lakukan terhadap ayat Alkitab (teks dan format)"},{
+Key:1002202,Text:"&Ganti tanda petik tunggal \" <size=+4>'</size> \" dengan  tanda penyingkat \" <size=+4>’</size> \""},{
+Key:1002203,Text:"G&unakan aturan tipografi Perancis"},{
+Key:1002204,Text:"&Dalam lagu, ganti tanda hubung dengan tanda hubung tak putus (non-breaking hyphen)."},{
+Key:1002205,Text:"Dalam ayat Alkita&b, ganti tanda hubung dengan tanda hubung tak putus (non-breaking hyphen)"},{
+Key:1002304,Text:"Metode &rendering:"},{
+Key:1002306,Text:"Standar"},{
+Key:1002307,Text:"Ditingkatkan"},{
+Key:1002502,Text:"Ter&apkan"},{
+Key:1002503,Text:"Simpan perubahan tanpa menutup jendela"},{
+Key:1002504,Text:"Oke"},{
+Key:1002505,Text:"Simpan perubahan dan tutup jendela"},{
+Key:1002508,Text:"Tutup jendela tanpa menyimpan perubahan"},{
+Key:1002510,Text:"&Lisensi gereja:"},{
+Key:1002513,Text:"Teks opsional yang Anda masukkan di sini dapat secara otomatis ditampilkan di header atau footer slide.
+
+Misalnya, Anda dapat menuliskan nomor lisensi CILC gereja Anda di sini."},{
+Key:1002516,Text:"Bidang &header:"},{
+Key:1002517,Text:"Bidang &footer:"},{
+Key:1002531,Text:"Untuk mengubah font yang ditampilkan VideoPsalm.
+
+Font standar:
+- <b>Arial</b> untuk Windows XP
+- <b>Segoe UI</b> untuk Windows Vista, Windows 7, dan Windows 8
+
+Ukuran standar: 8,25"},{
+Key:1002532,Text:"Agar perubahan font dapat berlaku sepenuhnya, VideoPsalm perlu di-restart."},{
+Key:1002533,Text:"Jika kotak ini dicentang, VideoPsalm akan mengganti tanda petik tunggal dengan tanda penyingkat, yang terlihat seperti koma yang ditempatkan di atas.
+
+Bila Anda memasukkan lirik lagu baru di editor, kami menyarankan agar Anda menggunakan karakter yang mudah ditemukan di keyboard, biasanya tanda petik tunggal."},{
+Key:1002534,Text:"Jika kotak ini dicentang, di dalam slide, VideoPsalm akan mengatur jarak spasi beberapa karakter tanda baca sesuai dengan tipografi Perancis.
+
+Misalnya, jika sebuah lagu berisi kata berikut: <b>Tuhan!</b>
+
+VideoPsalm akan menampilkan: <b>Tuhan!</b>
+
+Berikut adalah karakter tanda baca yang mendapat perlakuan khusus:
+<b>: ; ! ? »</b><i>VideoPsalm menempatkan spasi tak putus (non-breaking space) di depannya dan spasi di belakangnya.
+
+</i><b>«</b><i>VideoPsalm menempatkan spasi tak putus (non-breaking space) di depannya dan spasi di belakangnya.</i>
+
+VideoPsalm tidak mengatur jarak spasi karakter tanda baca lainnya.
+
+Bila Anda memasukkan lirik lagu baru, kami sarankan agar Anda mengikuti aturan tipografi tradisional, yaitu melekatkan tanda baca kepada kata masing-masing. Dengan demikian, Anda akan dapat mematuhi tampilan tipografi Perancis dengan mencentang kotak ini, atau aturan negara Anda dengan tidak mencentang kotak ini.
+
+<b>Catatan:</b> Aturan tipografi Perancis mungkin tidak berlaku di negara Anda meskipun menggunakan bahasa Perancis, misalnya di francophone Afrika, Belgia, Quebec, atau Swiss.
+
+Untuk referensi lengkap tentang spasi dan tanda baca tipografi Perancis, lihat <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf</color>, halaman 33.
+ "},{
+Key:1002535,Text:"&Font:"},{
+Key:1002536,Text:"&Ukuran:"},{
+Key:1002539,Text:"Jika kotak ini dicentang, saat dibuka VideoPsalm akan memberitahu Anda jika ada fungsi atau tambahan baru dari:
+- buku lagu
+- Alkitab,
+- dan bahasa VideoPsalm.
+
+Buku lagu baru, Alkitab dalam bahasa baru, dan bahasa baru untuk VideoPsalm kadang-kadang ditambahkan ke perpustakaan online VideoPsalm.
+
+Ketika ini terjadi, tambahkan dokumen-dokumen baru ini ke instalasi Anda melalui alat impor dengan beberapa klik saja."},{
+Key:1002540,Text:"Jika kotak ini dicentang, VideoPsalm akan menempatkan kata-kata yang dihubungkan oleh tanda hubung pada baris yang sama dalam slide.
+
+Nilai default untuk lirik lagu: <b>dicentang</b>"},{
+Key:1002541,Text:"Jika kotak ini dicentang, VideoPsalm akan menempatkan kata-kata yang dihubungkan oleh tanda hubung pada baris yang sama dalam slide.
+
+Nilai default untuk ayat Alkitab: <b>tidak dicentang</b>"},{
+Key:1002542,Text:"Jika kotak ini dicentang, VideoPsalm memungkinkan Anda untuk menyimpan perubahan yang Anda buat terhadap ayat Alkitab (teks dan format).
+
+Jika kotak ini tidak dicentang:
+
+<b>1.</b> ketika ditutup, VideoPsalm tidak akan memberitahukan bahwa Alkitab Anda telah berubah,
+
+<b>2</b> ketika Anda menyimpan perubahan, VideoPsalm tidak akan menyimpan perubahan yang dibuat terhadap Alkitab (teks dan format),
+
+<b>3</b> Anda akan mendapati Alkitab Anda tidak berubah saat VideoPsalm dibuka lagi."},{
+Key:1002543,Text:"Pilih bahasa yang Anda inginkan untuk tampilan antarmuka VideoPsalm di sini.
+
+Jika bahasa Anda tidak muncul dalam daftar, Anda mungkin bisa mengimpornya dari di perpustakaan online VideoPsalm melalui alat impor.
+
+Jika VideoPsalm tidak ada dalam bahasa Anda, silahkan beritahu kami melalui email di videopsalm@gmail.com
+
+Atau, Anda dapat membantu untuk menerjemahkan teks VideoPsalm ke dalam bahasa Anda atau memperbaiki kesalahan menggunakan alat terjemahan VideoPsalm.
+
+Buka alat terjemahan VideoPsalm dengan tombol \"Terjemahkan VideoPsalm\"."},{
+Key:1002544,Text:"Pilih folder yang akan dipakai VideoPsalm untuk memuat buku lagu, Alkitab, gambar, dan video di sini.
+
+Bila Anda mengubah folder ini, VideoPsalm memuat ulang buku lagu, Alkitab, gambar, dan videonya dengan isi dari folder yang baru.
+
+<b>Perhatian</b> : sebelum mengubah folder, pastikan bahwa Anda sudah menyimpan perubahan Anda."},{
+Key:1002545,Text:"Untuk mengubah font yang ditampilkan VideoPsalm.
+
+Ukuran standar: 8,25
+
+Anda juga dapat mengubah ukuran font melalui opsi Windows: Control Panel -> Display-> Screen."},{
+Key:1002547,Text:"&Terjemahkan VideoPsalm"},{
+Key:1002548,Text:"Membuka alat yang digunakan untuk menerjemahkan VideoPsalm ke dalam bahasa Anda, atau untuk memperbaiki kesalahan teks."},{
+Key:1002549,Text:"Anda akan mengubah folder yang dipakai VideoPsalm untuk memuat dokumen.
+VideoPsalm akan mengosongkan dokumen yang ada saat ini dan kemudian memuat dokumen dari folder baru.
+Ini dapat memakan waktu beberapa detik.{0}
+
+Apakah Anda yakin ingin mengubah folder dokumen?"},{
+Key:1002550,Text:"Ada perubahan yang belum disimpan buku lagu, Alkitab, atau agenda).
+Jika Anda mengkonfirmasi folder baru sekarang, perubahan ini akan hilang."},{
+Key:1002551,Text:"Ganti folder dokumen"},{
+Key:1002552,Text:"Age&nda"},{
+Key:1002553,Text:"Urutan default:"},{
+Key:1002554,Text:" &lagu:"},{
+Key:1002555,Text:" ayat Alkita&b:"},{
+Key:1002556,Text:" gambar sl&ideshow:"},{
+Key:1002557,Text:" &video lepas:"},{
+Key:1002558,Text:" &PowerPoint:"},{
+Key:1002559,Text:"Jeda transisi otomatis &default:"},{
+Key:1002560,Text:"detik"},{
+Key:1002561,Text:"T&ambahkan bahasa"},{
+Key:1002562,Text:"Buka alat impor bahasa, yang dapat Anda gunakan untuk menambahkan bahasa baru ke VideoPsalm."},{
+Key:1002580,Text:"Transisi default setelah lagu"},{
+Key:1002581,Text:"Menentukan apa yang ditampilkan secara default setelah bait terakhir dari sebuah lagu.
+
+Nilai ini juga berlaku saat melihat lagu secara spontan tanpa melalui agenda.
+Di agenda, Anda dapat mengubah nilai ini untuk masing-masing lagu."},{
+Key:1002582,Text:"Transisi default setelah ayat Alkitab"},{
+Key:1002583,Text:"Menentukan apa yang ditampilkan secara default setelah ayat Alkitab terakhir yang dipilih ditampilkan.
+
+Nilai ini juga berlaku saat melihat ayat Alkitab secara spontan tanpa melalui agenda.
+Di agenda, Anda dapat mengubah nilai ini untuk masing-masing pilihan ayat Alkitab."},{
+Key:1002584,Text:"Transisi default setelah gambar slideshow"},{
+Key:1002585,Text:"Menentukan apa yang ditampilkan secara default setelah gambar slideshow selesai ditampilkan.
+
+Di agenda, Anda dapat mengubah nilai ini untuk masing-masing gambar slideshow."},{
+Key:1002586,Text:"Transisi default setelah video lepas"},{
+Key:1002587,Text:"Menentukan apa yang ditampilkan secara default setelah video lepas.
+
+Di agenda, Anda dapat mengubah nilai ini untuk masing-masing video lepas."},{
+Key:1002588,Text:"Transisi default setelah PowerPoint"},{
+Key:1002589,Text:"Menentukan apa yang ditampilkan secara default setelah PowerPoint selesai.
+
+Di agenda, Anda dapat mengubah nilai ini untuk masing-masing PowerPoint."},{
+Key:1002590,Text:"Menentukan interval waktu default dalam detik sebelum otomatis beralih ke slide berikutnya.
+
+Di agenda, Anda dapat mengubah nilai ini untuk masing-masing elemen yang mengalir secara otomatis."},{
+Key:1002591,Text:"&Simpan gambar latar belakang ke dalam agenda (disarankan)"},{
+Key:1002592,Text:"Simpan gambar latar belakang ke dalam agenda"},{
+Key:1002593,Text:"Menentukan apakah VideoPsalm harus menyimpan gambar latar belakang lagu dan ayat Alkitab yang mungkin ada ke dalam file agenda, saat Anda menyimpannya."},{
+Key:1002594,Text:"Simpan la&tar belakang video ke dalam agenda (disarankan)"},{
+Key:1002595,Text:"Simpan video latar belakang ke dalam agenda"},{
+Key:1002596,Text:"Menunjukkan apakah VideoPsalm harus menyimpan latar belakang video untuk lagu dan ayat Alkitab yang mungkin ada ke dalam file agenda, ketika Anda menyimpannya."},{
+Key:1002597,Text:"Simpan gambar slidesh&ow ke dalam agenda (disarankan)"},{
+Key:1002598,Text:"Simpan gambar slideshow ke dalam agenda"},{
+Key:1002599,Text:"Menentukan apakah VideoPsalm harus menyimpan gambar slideshow dalam file agenda ketika Anda menyimpannya."},{
+Key:1002600,Text:"Simpan vid&eo lepas ke dalam agenda (disarankan)"},{
+Key:1002601,Text:"Simpan video lepas ke dalam agenda"},{
+Key:1002602,Text:"Menentukan apakah VideoPsalm harus menyimpan video lepas yang mungkin ada ke dalam file agenda, ketika Anda menyimpannya."},{
+Key:1002603,Text:"Simpan &PowerPoint ke dalam agenda (disarankan)"},{
+Key:1002604,Text:"Simpan PowerPoint ke dalam agenda"},{
+Key:1002605,Text:"Menentukan apakah VideoPsalm harus menyimpan PowerPoint yang mungkin ada ke dalam file agenda ketika Anda menyimpannya."},{
+Key:1002606,Text:"Kami anjurkan agar Anda memilih opsi ini, terutama jika Anda menyiapkan agenda di satu komputer dan menampilkan presentasi di komputer lain."},{
+Key:1002607,Text:"Editor &Teks"},{
+Key:1002608,Text:"&Font:"},{
+Key:1002609,Text:"Menentukan font yang dipakai saat Anda mengedit lirik lagu dan ayat Alkitab.
+
+Ini tidak berarti bahwa font yang dipakai untuk mengedit lirik lagu dan ayat Alkitab adalah juga yang dipakai untuk menampilkan teks di layar."},{
+Key:1002610,Text:"&Ukuran font:"},{
+Key:1002611,Text:"Menentukan ukuran font yang dipakai saat Anda mengedit lirik lagu dan ayat Alkitab.
+
+Ini tidak berarti bahwa ukuran font yang dipakai untuk mengedit lirik lagu dan ayat Alkitab adalah juga yang dipakai untuk menampilkan teks di layar."},{
+Key:1002612,Text:"Font kun&ci:"},{
+Key:1002613,Text:"Menentukan font yang dipakai saat Anda mengedit kunci lagu.
+
+Ini tidak serta merta berarti bahwa font ini yang dipakai untuk menampilkan kunci di layar."},{
+Key:1002614,Text:"&Ukuran font kunci:"},{
+Key:1002615,Text:"Menentukan ukuran font yang dipakai saat Anda mengedit kunci lagu.
+
+Ini tidak serta merta berarti bahwa ukuran font ini yang dipakai untuk menampilkan kunci di layar."},{
+Key:1002616,Text:"&Warna kunci"},{
+Key:1002617,Text:"Menentukan warna yang dipakai untuk menampilkan kunci lagu di editor teks.
+
+Ini tidak serta merta berarti bahwa warna ini yang dipakai untuk menampilkan teks di layar."},{
+Key:1002618,Text:"Warna spasi &non-breakable:"},{
+Key:1002619,Text:"Menentukan warna yang dipakai untuk menampilkan spasi tak putus (non-breaking space) dalam editor teks."},{
+Key:1002620,Text:"W&arna tag bait lagu:"},{
+Key:1002621,Text:"Menentukan warna untuk tag bait lagu yang disorot dalam editor teks."},{
+Key:1002622,Text:"Tra&nsparansi tag bait lagu:"},{
+Key:1002623,Text:"Menentukan transparansi warna yang dipakai untuk menampilkan tag bait lagu dalam editor teks."},{
+Key:1002624,Text:"Warna kunci Chord&Pro:"},{
+Key:1002625,Text:"Menentukan warna untuk kunci ChordPro yang disorot dalam editor teks dalam modus tampilan ChordPro."},{
+Key:1002626,Text:"Transparansi kunci &ChordPro:"},{
+Key:1002627,Text:"Menentukan transparansi warna sorotan untuk kunci ChordPro yang disorot dalam editor teks dalam modus tampilan ChordPro."},{
+Key:1002628,Text:"Ganti font (di&sarankan)"},{
+Key:1002629,Text:"Mengizinkan editor teks untuk mengganti karakter dari font yang aktif dengan karakter dari font lain yang dipilih secara otomatis.
+
+Nonaktifkan penggantian karakter jika Anda menggunakan font non-Unicode yang memakai transliterasi.
+Ini berlaku untuk beberapa font Hindi, Tamil, Bamati, Malayalam, dll.
+
+Sebaiknya gunakan font Unicode.
+Untuk mengkonversi lagu yang ditransliterasi menjadi teks Unicode, gunakan konverter online, misalnya di sini: <color=blue>http://www.suratha.com/reader.htm</color>"},{
+Key:1002630,Text:"Izinkan &akses ke editor teks sederhana yang kompatibel dengan Scripture RTL"},{
+Key:1002631,Text:"Menampilkan tombol tambahan di sebelah kiri toolbar editor teks, yang menyediakan akses ke modus pengeditan teks lagu yang disederhanakan .
+
+Editor yang disederhanakan ini kompatibel dengan tulisan dari kanan ke kiri (RTL), terutama untuk bahasa Arab dan Ibrani."},{
+Key:1002632,Text:"Pilih metode video rendering yang terbaik untuk komputer Anda. VideoPsalm dapat menampilkan video wmv pada sebagian besar komputer."},{
+Key:1002633,Text:"Pemberitahua&n"},{
+Key:1002634,Text:"Saat startup, memberitahukan jika ada:"},{
+Key:1002635,Text:"&Versi baru VideoPsalm (disarankan)"},{
+Key:1002636,Text:"Buku lagu baru (disarankan)"},{
+Key:1002637,Text:"Alkitab &baru (disarankan)"},{
+Key:1002638,Text:"&Bahasa baru (disarankan)"},{
+Key:1002639,Text:"Akt&ifkan deteksi proxy secara otomatis jika koneksi internet bermasalah"},{
+Key:1002640,Text:"Mengaktifkan deteksi proxy secara otomatis"},{
+Key:1002641,Text:"Menunjukkan apakah VideoPsalm harus secara otomatis mendeteksi adanya proxy untuk memeriksa mengenai produk baru atau update.
+
+Jika VideoPsalm tidak bisa mengunduh buku lagu atau Alkitab dari perpustakaan online, pilih opsi ini lalu coba lagi.
+
+Pilih opsi ini hanya jika tidak bisa mengunduh. Nyatanya, opsi ini sering kali tidak diperlukan dan memperlambat pengunduhan buku dan Alkitab dari perpustakaan online VideoPsalm."},{
+Key:1002642,Text:"&Sembunyikan ikon sosial"},{
+Key:1002643,Text:"Menyembunyikan ikon sosial toolbar (Facebook, Twitter, dan YouTube).
+
+Ikon ini tetap tersembunyi jika tidak ada koneksi internet."},{
+Key:1002644,Text:"&Menyimpan agenda audio lagu (disarankan)"},{
+Key:1002645,Text:"Toko audio lagu dalam agenda"},{
+Key:1002646,Text:"Menunjukkan apakah VideoPsalm harus menyimpan audio lagu dalam file kalender ketika Anda menyimpannya."},{
+Key:1002648,Text:"&Kustomisasi"},{
+Key:1002649,Text:"&Kamera video"},{
+Key:1002650,Text:"&Sebelumnya"},{
+Key:1002651,Text:"&Base"},{
+Key:1002652,Text:"&Teks"},{
+Key:1002653,Text:"&Perisai"},{
+Key:1002654,Text:"&Kepingan salju"},{
+Key:1002655,Text:"&Bug"},{
+Key:1002656,Text:"Panel geser"},{
+Key:1002657,Text:"&Berikutnya"},{
+Key:1002658,Text:"Toolbar"},{
+Key:1002659,Text:"Dewan agenda"},{
+Key:1002660,Text:"&Gunung"},{
+Key:1002661,Text:"&Pergi"},{
+Key:1002662,Text:"&Menyembunyikan ToolTips"},{
+Key:1003000,Text:"Versi {0} dari {1}"},{
+Key:1003003,Text:"Tutup"},{
+Key:1003005,Text:"&Hubungi VideoPsalm"},{
+Key:1003006,Text:"Buka Outlook (klien email) untuk mengirim email ke VideoPsalm"},{
+Key:1003007,Text:"Versi ini sudah yang terbaru"},{
+Key:1003008,Text:"Perbar&ui versi saya"},{
+Key:1003009,Text:"Ada versi VideoPsalm yang lebih baru:
+Versi {0} dari {1:D}.
+Klik tombol ini untuk membuka halaman unduh.
+Di sini Anda akan menemukan riwayat perubahan
+dan tautan unduhan."},{
+Key:1003011,Text:"- Laporkan masalah
+- Buat komentar atau saran"},{
+Key:1003012,Text:"Alamat email: videopsalm@gmail.com"},{
+Key:1003500,Text:"Menghapus transposisi"},{
+Key:1003501,Text:"Mengubah semitone lain"},{
+Key:1003502,Text:"Mengubah semitone kurang"},{
+Key:1003503,Text:"Tanpa"},{
+Key:1003504,Text:"Menghapus capo"},{
+Key:1003505,Text:"Transpos untuk capo yang bergerak dari kepala"},{
+Key:1003506,Text:"Transpos untuk capo yang datang dekat dengan kepala"},{
+Key:1003507,Text:"Tanpa"},{
+Key:1003508,Text:"Memeriksa file audio pada vokal"},{
+Key:1003509,Text:"&Audio file:"},{
+Key:1003510,Text:"Pilih file audio untuk mengimpor dan kemudian klik 'terbuka'."},{
+Key:1003511,Text:"Anda telah mengimpor file audio {0} (s)."},{
+Key:1003512,Text:"File audio tidak diimpor.
+(Dia (s) sudah ditemukan (s) dalam daftar)."},{
+Key:1003513,Text:"Mengimpor file audio"},{
+Key:1003514,Text:"File audio"},{
+Key:1003515,Text:"Kata-kata kunci untuk pencarian gambar"},{
+Key:1003516,Text:"Tanpa gambar"},{
+Key:1003517,Text:"Tanpa video"},{
+Key:1003518,Text:"&File"},{
+Key:1003519,Text:"&Tampilan bass"},{
+Key:1003520,Text:"Kata kunci pencarian dalam video"},{
+Key:1003521,Text:"&Koleksi lagu-lagu yang diimpor dari CCLI / SongSelect"},{
+Key:1003522,Text:"Lagu-lagu CCLI"},{
+Key:1003523,Text:"Impor CCLI lagu"},{
+Key:1003524,Text:"{0} lagu sudah dalam koleksi '{1}' dan tidak diimpor."},{
+Key:1003525,Text:"&Cari"},{
+Key:1003526,Text:"&Kecerahan:"},{
+Key:1003527,Text:"&Cari"},{
+Key:1003528,Text:"&Kecerahan:"},{
+Key:1003529,Text:"Pesan"},{
+Key:1003530,Text:"Polisi"},{
+Key:1003531,Text:"Warna"},{
+Key:1003532,Text:"Pesan"},{
+Key:1003533,Text:"Visibilitas"},{
+Key:1003534,Text:"Model"},{
+Key:1003535,Text:"Jenis"},{
+Key:1003536,Text:"Hitung mundur"},{
+Key:1003537,Text:"Stopwatch"},{
+Key:1003538,Text:"Pilihan"},{
+Key:1003539,Text:"Transparansi"},{
+Key:1003540,Text:"Menampilkan pesan"},{
+Key:1003541,Text:"Latar belakang"},{
+Key:1003542,Text:"Menampilkan jam"},{
+Key:1003543,Text:"Clock"},{
+Key:1003544,Text:"Hitung mundur"},{
+Key:1003545,Text:"Stopwatch"},{
+Key:1003546,Text:"Selama"},{
+Key:1003547,Text:"Hingga"},{
+Key:1003548,Text:"Mulai"},{
+Key:1003549,Text:"Jeda"},{
+Key:1003550,Text:"Stop"},{
+Key:1003551,Text:"Gaya"},{
+Key:1003552,Text:"Lemak"},{
+Key:1003553,Text:"Miring"},{
+Key:1003554,Text:"Stres"},{
+Key:1003555,Text:"Layar jam tangan"},{
+Key:1003556,Text:"Gagap detik"},{
+Key:1003557,Text:"Menit dendeng"},{
+Key:1003558,Text:"Menampilkan digit"},{
+Key:1003559,Text:"Lulus menit"},{
+Key:1003560,Text:"Pascasarjana jam"},{
+Key:1003561,Text:"Kamera video"},{
+Key:1003562,Text:"Menampilkan penembakan kamera di balik teks."},{
+Key:1003563,Text:"&Menambahkan lagu ke CILC format..."},{
+Key:1003564,Text:"Impor &amp;..."},{
+Key:1003565,Text:"Impor"},{
+Key:1003566,Text:"Memungkinkan untuk mengimpor file audio ke VideoPsalm Anda"},{
+Key:1003567,Text:"Menavigasi..."},{
+Key:1003568,Text:"Jelajahi"},{
+Key:1003569,Text:"Membuka folder file audio oleh VideoPsalm Anda"},{
+Key:1003570,Text:"&Mulai (ms):"},{
+Key:1003571,Text:"&Akhir (ms):"},{
+Key:1003572,Text:"&Volume:"},{
+Key:1003573,Text:"&Bermain dilingkarkan"},{
+Key:1003575,Text:"&Diamandemen"},{
+Key:1003576,Text:"&Versi:"},{
+Key:1003577,Text:"Editor teks \"Benar\" meninggalkan"},{
+Key:1003578,Text:"Beralih antara Penyunting teks standar (menulis dari kiri ke kanan) dan kiri \"Benar\" Editor untuk bahasa Arab, bahasa Ibrani, dll."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Selalu bersama-sama menunjukkan (bilingual)"},{
+Key:1003581,Text:"&Posisi:"},{
+Key:1004050,Text:"Font"},{
+Key:1004051,Text:"Ukuran"},{
+Key:1004052,Text:"Tebal"},{
+Key:1004053,Text:"Miring"},{
+Key:1004054,Text:"Garis bawah"},{
+Key:1004055,Text:"Perataan"},{
+Key:1004056,Text:"Perataan vertikal"},{
+Key:1004057,Text:"Animasi"},{
+Key:1004058,Text:"Durasi"},{
+Key:1004059,Text:"Volume"},{
+Key:1004060,Text:"Dimatikan?"},{
+Key:1004061,Text:"Awal"},{
+Key:1004062,Text:"Akhir"},{
+Key:1004063,Text:"Ulangi?"},{
+Key:1004064,Text:"Perbesar"},{
+Key:1004100,Text:"Warna"},{
+Key:1004101,Text:"Isi"},{
+Key:1004102,Text:"Tepi"},{
+Key:1004103,Text:"Lebar tepi"},{
+Key:1004104,Text:"Bayangan"},{
+Key:1004105,Text:"Radius bayangan"},{
+Key:1004106,Text:"Kedalaman bayangan"},{
+Key:1004107,Text:"Arah bayangan"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Gambar"},{
+Key:1004153,Text:"Warna"},{
+Key:1004156,Text:"Kotak body"},{
+Key:1004157,Text:"Kotak header"},{
+Key:1004158,Text:"Kotak footer"},{
+Key:1004500,Text:"Salin agenda ke Clipboard"},{
+Key:1004501,Text:"Deskripsi agenda telah ditempatkan dalam Clipboard."},{
+Key:1004502,Text:"Kata kunci (judul dan lirik) atau nomor yang akan dicari"},{
+Key:1004503,Text:"Kata kunci (judul, kemudian lirik) atau nomor yang akan dicari"},{
+Key:1004504,Text:"Kata kunci (judul) atau nomor yang akan dicari"},{
+Key:1004505,Text:"Kata kunci (pengarang dan komposer) atau nomor yang akan dicari"},{
+Key:1004506,Text:"Kata kunci (tema) atau nomor yang akan dicari"},{
+Key:1004507,Text:"Kata kunci (referensi) atau nomor yang akan dicari"},{
+Key:1004508,Text:"CCLI yang akan dicari"},{
+Key:1004509,Text:"Kata kunci (hak cipta) atau nomor yang akan dicari"},{
+Key:1004510,Text:"Kata kunci (memo 1) atau nomor yang akan dicari"},{
+Key:1004511,Text:"Kata kunci (memo 2) atau nomor yang akan dicari"},{
+Key:1004512,Text:"Kata kunci (memo 3) atau nomor yang akan dicari"},{
+Key:1004513,Text:"Lagu dengan kunci"},{
+Key:1004514,Text:"Salin ringkasan buku lagu"},{
+Key:1004515,Text:"Ringkasan buku lagu ditempatkan di Clipboard."},{
+Key:1005001,Text:"Akhir pemuatan"},{
+Key:1005002,Text:"Lagu \"{0}\"."},{
+Key:1005003,Text:"Memuat video"},{
+Key:1005004,Text:"Tidak dapat membaca video \"{0}\".
+{1}"},{
+Key:1005005,Text:"Memuat gambar"},{
+Key:1005006,Text:"Tidak dapat membaca gambar \"{0}\".
+{1}"},{
+Key:1005007,Text:"Memuat format"},{
+Key:1005008,Text:"Mengisi daftar buku lagu ({0} lagu di buku lagu {1})"},{
+Key:1005009,Text:"Hapus elemen agenda yang dipilih?"},{
+Key:1005010,Text:"Hapus elemen"},{
+Key:1005011,Text:"Buku lagu baru"},{
+Key:1005012,Text:"Lagu baru"},{
+Key:1005013,Text:"Agenda kosong.
+Buka salah satu atau tarik lagu dan ayat Alkitab ke sini untuk menambahkannya ke dalam agenda."},{
+Key:1005014,Text:"Tidak ada slide untuk ditampilkan.
+Pilih lagu atau ayat Alkitab untuk ditampilkan."},{
+Key:1005015,Text:"Apakah Anda yakin ingin menghapus buku lagu \"{0}\"?
+
+File yang berkaitan dengan buku lagu ini tidak akan dihapus dari harddisk:
+ekstensinya akan diganti menjadi \".ignore\"."},{
+Key:1005016,Text:"Hapus buku lagu"},{
+Key:1005017,Text:"Apakah Anda yakin ingin menghapus lagu \"{0}\"?
+
+Setelah perubahan disimpan, penghapusan lagu ini tidak akan dapat dibatalkan."},{
+Key:1005018,Text:"Hapus lagu"},{
+Key:1005019,Text:"Hapus semua elemen agenda?"},{
+Key:1005020,Text:"Hapus semua"},{
+Key:1005021,Text:"Agenda tanpa nama"},{
+Key:1005022,Text:"Agenda kosong"},{
+Key:1005023,Text:"Agenda saat ini memiliki perubahan yang belum disimpan.
+Ingin menyimpan perubahan?"},{
+Key:1005024,Text:"Simpan agenda"},{
+Key:1005025,Text:"Satu atau beberapa buku lagu memiliki perubahan yang belum disimpan.
+Ingin menyimpan perubahan?"},{
+Key:1005026,Text:"Simpan buku lagu"},{
+Key:1005027,Text:"Satu atau beberapa Alkitab memiliki perubahan yang belum disimpan.
+Ingin menyimpan perubahan?"},{
+Key:1005028,Text:"Simpan Alkitab"},{
+Key:1005029,Text:"Tambahkan dokumen ke agenda"},{
+Key:1005030,Text:"Agenda"},{
+Key:1005031,Text:"Gambar"},{
+Key:1005032,Text:"Video"},{
+Key:1005033,Text:"PowerPoint"},{
+Key:1005034,Text:"Simpan agenda di bawah"},{
+Key:1005035,Text:"Lagu-lagu CCLI"},{
+Key:1005036,Text:"Tidak ada buku lagu.
+Klik di sini untuk memulai alat impor buku lagu."},{
+Key:1005037,Text:"Rasio {0}
+{1} × piksel (2)"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Apakah Anda yakin ingin menghapus semua format yang ada di atas \"{0}\"?"},{
+Key:1005040,Text:"Buku lagu \"{0}\" dikecualikan dari pencarian"},{
+Key:1005041,Text:"Tampilkan atau lewati slide"},{
+Key:1005042,Text:"Seasons"},{
+Key:1005043,Text:"Spring"},{
+Key:1005044,Text:"Summer"},{
+Key:1005045,Text:"Christmas"},{
+Key:1005046,Text:"Themes"},{
+Key:1005047,Text:"Caramel"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Imagination"},{
+Key:1005050,Text:"Dark room"},{
+Key:1005051,Text:"Fog"},{
+Key:1005052,Text:"Blueprint"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"High contrast"},{
+Key:1005055,Text:"Office"},{
+Key:1005056,Text:"Office 2010 Blue"},{
+Key:1005057,Text:"Office 2010 Silver"},{
+Key:1005058,Text:"Office 2010 Black"},{
+Key:1005059,Text:"Office 2007 Blue"},{
+Key:1005060,Text:"Office 2007 Green"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 Silver"},{
+Key:1005063,Text:"Office 2007 Black"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Seven"},{
+Key:1005067,Text:"Seven Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Incense"},{
+Key:1005070,Text:"Smoke"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Colors"},{
+Key:1005073,Text:"Liquid Sky"},{
+Key:1005074,Text:"London Sky"},{
+Key:1005075,Text:"Blue"},{
+Key:1005076,Text:"Money Twins"},{
+Key:1005077,Text:"Black Gold"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Sharp"},{
+Key:1005080,Text:"Sharp +"},{
+Key:1005081,Text:"Stars"},{
+Key:1005082,Text:"Glass Ocean"},{
+Key:1005083,Text:"The Asphalt World"},{
+Key:1005084,Text:"Coffee"},{
+Key:1005085,Text:"Star Dust"},{
+Key:1005086,Text:"Hapus semua format di atas"},{
+Key:1005087,Text:"Biarkan galeri terbuka"},{
+Key:1005100,Text:"Tidak ada animasi"},{
+Key:1005102,Text:"Memudar"},{
+Key:1005103,Text:"Memudar perlahan"},{
+Key:1005104,Text:"Lihat gambar yang lebih besar"},{
+Key:1005105,Text:"Mengembang sedikit memudar"},{
+Key:1005106,Text:"Bergeser"},{
+Key:1005107,Text:"Bergeser ke kanan"},{
+Key:1005109,Text:"Bentuk"},{
+Key:1005110,Text:"Bintang"},{
+Key:1005118,Text:"Bergeser ke bawah"},{
+Key:1005120,Text:"Bergeser ke kiri"},{
+Key:1005121,Text:"Bergeser ke atas"},{
+Key:1005122,Text:"Bergeser dari atas ke kanan"},{
+Key:1005123,Text:"Bergeser dari atas ke kiri"},{
+Key:1005124,Text:"Bergeser dari bawah ke kanan"},{
+Key:1005125,Text:"Bergeser dari bawah ke kiri"},{
+Key:1005126,Text:"Tersibak"},{
+Key:1005127,Text:"Tersibak ke bawah"},{
+Key:1005128,Text:"Tersibak ke kanan"},{
+Key:1005129,Text:"Tersibak ke kiri"},{
+Key:1005130,Text:"Tersibak ke atas"},{
+Key:1005131,Text:"Tersibak ke kanan bawah"},{
+Key:1005132,Text:"Tersibak ke kiri bawah"},{
+Key:1005133,Text:"Tersibak ke kanan atas"},{
+Key:1005134,Text:"Tersibak ke kiri atas"},{
+Key:1005200,Text:"Slide"},{
+Key:1005201,Text:"Tidak ada slide"},{
+Key:1005209,Text:"Cari kata-kata dalam:"},{
+Key:1005210,Text:"&Judul dan lirik"},{
+Key:1005211,Text:"Judul, kemudian &lirik"},{
+Key:1005212,Text:"&Judul"},{
+Key:1005213,Text:"Peng&arang dan komposer"},{
+Key:1005214,Text:"&Tema"},{
+Key:1005215,Text:"&Referensi"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Hak cipta"},{
+Key:1005218,Text:"Memo &1"},{
+Key:1005219,Text:"Memo &2"},{
+Key:1005220,Text:"Memo &3"},{
+Key:1005221,Text:"&Lagu dengan kunci"},{
+Key:1005223,Text:"Opsi"},{
+Key:1005224,Text:"Opsi VideoPsalm"},{
+Key:1005225,Text:"Menampilkan kotak dialog opsi VideoPsalm."},{
+Key:1005226,Text:"&Impor"},{
+Key:1005228,Text:"Menampilkan alat impor buku lagu, Alkitab, gambar, dan video dari perpustakaan online VideoPsalm dan format populer."},{
+Key:1005230,Text:"Hapus"},{
+Key:1005232,Text:"Hapus lagu, buku lagu, atau Alkitab yang dipilih."},{
+Key:1005237,Text:"Ubah font."},{
+Key:1005247,Text:"Gambar"},{
+Key:1005252,Text:"Mengedit preferensi pemberitahuan."},{
+Key:1005253,Text:"Tutup popup ini dan ingatkan saya lain kali."},{
+Key:1005254,Text:"Tutup popup ini dan jangan ingatkan saya lagi tentang informasi ini."},{
+Key:1005255,Text:"Kata atau frasa pencarian, misalnya: roti anggur"},{
+Key:1005256,Text:"Piih ayat berdasarkan referensinya"},{
+Key:1005257,Text:"Cari ayat yang mengandung kata atau frasa tertentu"},{
+Key:1005258,Text:"Hapus kata atau frasa pencarian (ESC)"},{
+Key:1005259,Text:"Cari ayat yang mengandung kata atau frasa tertentu.
+
+Contoh:
+
+- Untuk menemukan ayat yang mengandung frasa <b>\"anak-anak Allah\"</b>, ketik kata-kata kuncinya seperti <b>\"anak Allah\"</b>.
+
+- Untuk mencari ayat yang berisi frasa <b>\"Raja segala raja\"</b>, ketik gabungan kata-katanya: <b>\"rajasegalaraja\"</b>.
+
+Jangan khawatir tentang aksen, tanda baca, atau huruf kecil/huruf besar.
+
+Tidak perlu untuk mengetik kata-kata secara keseluruhan atau dalam urutan yang benar.
+
+Tambahkan kata lain dari ayat untuk mempersempit daftar ayat-ayat yang ditemukan.
+
+Tekan tombol <b>Masukkan</b> untuk menambahkan ayat yang ditemukan dan dipilih ke dalam agenda."},{
+Key:1005260,Text:"Ayat tidak ditemukan."},{
+Key:1005268,Text:"Dalam mode ini, VideoPsalm secara otomatis menambahkan tanda kurung siku [] sebelum dan sesudah teks yang Anda masukkan.
+Misalnya, untuk menambahkan kunci C, ketik \"C\" dan VideoPsalm akan menampilkan \"[C]\"."},{
+Key:1005269,Text:"Ukuran font"},{
+Key:1005270,Text:"Mengubah ukuran teks dengan dihitung sebagai persentase dari tinggi layar."},{
+Key:1005271,Text:"Simpan &agenda sebagai..."},{
+Key:1005277,Text:"&Simpan"},{
+Key:1005278,Text:"Menyimpan perubahan yang Anda buat dalam buku lagu, Alkitab, dan format."},{
+Key:1005279,Text:"Menyimpan perubahan yang Anda buat dalam buku lagu dan format.
+
+<b>Hati-hati:</b> Perubahan yang Anda buat terhadap Alkitab (teks dan format) tidak disimpan. Untuk menyimpan perubahan, aktifkan opsi yang sesuai di menu opsi VideoPsalm."},{
+Key:1005283,Text:"Duraso:"},{
+Key:1005284,Text:"Dalam ms:"},{
+Key:1005285,Text:"Elemen"},{
+Key:1005286,Text:"Body"},{
+Key:1005287,Text:"Format body"},{
+Key:1005288,Text:"Memungkinkan pengeditan format body."},{
+Key:1005289,Text:"Header"},{
+Key:1005290,Text:"Format header"},{
+Key:1005291,Text:"Memungkinkan pengeditan format header."},{
+Key:1005292,Text:"Footer"},{
+Key:1005293,Text:"Format footer"},{
+Key:1005294,Text:"Memungkinkan pengeditan format footer."},{
+Key:1005295,Text:"Kunci"},{
+Key:1005296,Text:"Format kunci"},{
+Key:1005297,Text:"Memungkinkan pengeditan format kunci."},{
+Key:1005308,Text:"Kitab"},{
+Key:1005313,Text:"Level format"},{
+Key:1005314,Text:"Mengatur level di mana perubahan format Anda akan berlaku.
+
+Bait lagu memiliki level format tertinggi, diikuti oleh lagu, buku lagu, kumpulan buku lagu, dan dasar.
+
+Demikian pula, ayat Alkitab memiliki level format tertinggi, diikuti oleh pasal, kitab, perjanjian, Alkitab, kumpulan Alkitab, dan dasar lagi.
+
+Karena dasar berada di dasar hirarki, formatnya berlaku untuk semua slide.
+
+Level yang lebih tinggi dapat menimpa atribut format yang didefinisikan di level yang lebih rendah."},{
+Key:1005315,Text:"<b></b>Mekanisme ini memungkinkan Anda untuk mengubah format slide Anda secara keseluruhan atau per masing-masing.
+
+<b>Contoh</b>
+Jika Anda menetapkan latar belakang untuk sebuah lagu, semua bait dari lagu ini ditampilkan dengan latar belakang itu, kecuali untuk bait yang Anda beri latar belakang yang berbeda."},{
+Key:1005318,Text:"Slide"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoint"},{
+Key:1005322,Text:"Video"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Warna teks"},{
+Key:1005329,Text:"Atur ulang"},{
+Key:1005330,Text:"Menghapus format level yang dipilih"},{
+Key:1005331,Text:"Anda dapat menghapus semua atribut format di level yang dipilih.
+Slide tanpa format secara otomatis mewarisi format dari level yang lebih rendah.
+
+Contoh:
+- Salah satu bait memiliki format dengan font Candara.
+- Lagunya memiliki format dengan font Segoe UI.
+
+Ketika Anda menghapus format bait, bait itu akan ditampilkan dengan format dari level yang lebih rendah. Yaitu dalam contoh kita, font Segoe UI.
+
+<b>Menu popup \"Hapus semua format di atas\"</b>
+Menghapus format level yang dipilih dan semua format dari level yang lebih tinggi.
+
+Misalnya, jika format level \"Buku lagu\" dipilih, format buku lagu serta format semua lagu di buku lagu dan bait-baitnya akan dihapus."},{
+Key:1005332,Text:"Tombol ini dinonaktifkan jika level tersebut tidak memiliki format sendiri."},{
+Key:1005333,Text:"Hapus semua format &di atas"},{
+Key:1005337,Text:"A&tas"},{
+Key:1005338,Text:"&Tengah"},{
+Key:1005339,Text:"&Bawah"},{
+Key:1005340,Text:"Tetap di level format ini"},{
+Key:1005341,Text:"Tetap di level format yang sekarang"},{
+Key:1005342,Text:"Tetap di level format  yang sekarang ketika Anda mengubah slide.
+
+Dengan demikian:
+<b>1.</b> Ketika Anda menampilkan bait lagu, VideoPsalm menetapkan formatnya ke level \"Bait\".
+<b>2.</b> Untuk mengubah format lagu, pilih level format \"Lagu\".
+<b>3.</b> Untuk tetap berada di format lagu, tekan pin.
+<b>4.</b> Ketika Anda beralih dari satu bait ke yang berikutnya, level format tetap berada pada \"Lagu\"."},{
+Key:1005343,Text:"Isian teks"},{
+Key:1005345,Text:"Mengisi teks dengan warna solid, gradien, gambar atau tekstur."},{
+Key:1005346,Text:"Warna teks"},{
+Key:1005347,Text:"Tepi teks"},{
+Key:1005349,Text:"Menentukan warna, lebar, dan tipe corak untuk tepi teks."},{
+Key:1005350,Text:"Warna tepi teks"},{
+Key:1005352,Text:"Efek teks"},{
+Key:1005354,Text:"Menerapkan efek visual untuk teks, seperti bayangan, pantulan, refleksi, atau rotasi 3D."},{
+Key:1005356,Text:"Bayangan teks"},{
+Key:1005357,Text:"Warna latar belakang"},{
+Key:1005359,Text:"&Lagu baru"},{
+Key:1005360,Text:"&Buku lagu baru"},{
+Key:1005361,Text:"H&apus semua"},{
+Key:1005362,Text:"
+
+<b>Perisai parsial</b>
+Pada saat agenda dibuka, <b>teks</b> buku lagu dan Alkitab Anda akan dipertahankan.
+Format agenda akan diterapkan ke buku lagu dan Alkitab Anda."},{
+Key:1005363,Text:"
+
+<b>Perisai parsial</b>
+Pada saat agenda dibuka, <b>format</b> buku lagu dan Alkitab Anda akan dipertahankan.
+Teks agenda akan diterapkan ke buku lagu dan Alkitab Anda."},{
+Key:1005364,Text:"
+
+<b>Perisai penuh</b>
+Pada saat agenda dibuka, <b>teks</b> dan <b>format</b> buku lagu serta Alkitab Anda akan dipertahankan.
+Sedangkan yang dari agenda tidak akan diterapkan.
+
+<i>Ini adalah strategi yang harus dipilih jika dokumen komputer ini Anda pakai sebagai referensi.</i>"},{
+Key:1005365,Text:"
+
+<b>Tanpa perisai</b>
+Pada saat agenda dibuka, <b>teks</b> dan <b>format</b> agenda akan diterapkan ke buku lagu dan Alkitab Anda dan menimpa teks serta format Anda sendiri.
+
+<i>Ini adalah strategi yang harus dipilih jika dokumen referensi Anda adalah dari komputer yang Anda pakai saat membuat agenda.</i>"},{
+Key:1005366,Text:"Untuk beralih dari modus \"Penampil\" ke \"Edit\"  atau sebaliknya, klik tombol pensil."},{
+Key:1005369,Text:"Urutkan berdasarkan judul"},{
+Key:1005370,Text:"Urutkan berdasarkan nomor"},{
+Key:1005371,Text:"Tentang..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Mensimulasikan slideshow
+di layar dengan aspek 4:3.2"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Mensimulasikan slideshow
+di layar dengan aspek 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Mensimulasikan slideshow
+di layar dengan aspek 4:3"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Mensimulasikan slideshow
+di layar dengan aspek 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Mensimulasikan slideshow
+di layar dengan aspek 16:8"},{
+Key:1005387,Text:"Saat ini"},{
+Key:1005388,Text:"Menggunakan seluruh permukaan layar"},{
+Key:1005389,Text:"Aspek 4:3"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"C D E"},{
+Key:1005396,Text:"Modus penyisipan kunci"},{
+Key:1005398,Text:"Tampilkan kunci di atas lirik"},{
+Key:1005400,Text:"Aktifkan sampul"},{
+Key:1005401,Text:"Tambahkan ke &agenda"},{
+Key:1005402,Text:"&Hapus elemen yang dipilih"},{
+Key:1005403,Text:"&Ikutkan buku lagu dalam pencarian"},{
+Key:1005404,Text:"K&ecualikan buku lagu dari pencarian"},{
+Key:1005405,Text:"&Ikutkan seluruh buku lagu dalam pencarian"},{
+Key:1005407,Text:"&Sembunyikan buku lagu yang dikecualikan dari pencarian"},{
+Key:1005408,Text:"Tampilkan kolek&si yang dikecualikan dari pencarian"},{
+Key:1005409,Text:"&Tampilkan kotak pengubah ukuran"},{
+Key:1005410,Text:"Menampilkan kotak pengubah ukuran"},{
+Key:1005411,Text:"Memungkinkan Anda untuk mengubah ukuran bingkai teks (body, header, atau footer) yang dipilih.
+
+Bingkai dapat diubah ukurannya dengan mouse di area pratinjau.
+
+<b>Cara mengubah ukuran bingkai</b>
+
+1. Pilih bingkai yang akan diubah ukurannya:
+- body,
+- header,
+- atau footer-nya.
+
+2. Pilih tingkat format yang diperlukan, misalnya \"Alkitab\".
+
+3. Tekan pin untuk memaksa VideoPsalm menampilkan slide dalam format \"Alkitab\".
+Jika pin tidak ditekan, VideoPsalm secara otomatis beralih ke format \"Ayat Alkitab\" segera setelah Anda menampilkan sebuah ayat.
+
+4. Tampilkan sebuah ayat. Daerah pratinjau menampilkan bingkai menggunakan format \"Alkitab\".
+
+5. Ubah ukuran dan posisi bingkai menggunakan mouse.
+
+6. Lepaskan pin, sehingga VideoPsalm beralih kembali ke format \"Ayat\" ketika Anda menampilkan slide lagi."},{
+Key:1005412,Text:"Salin ringkasan buku lagu ke &Clipboard"},{
+Key:1005417,Text:"Teks"},{
+Key:1005418,Text:"Penjelajah format"},{
+Key:1005419,Text:"Menampilkan atau menyembunyikan penjelajah format.
+Dalam jendela ini, Anda dapat menjelajahi level-level hierarki format, mengembalikan pengaturan masing-masing format, dan mengeditnya."},{
+Key:1005420,Text:"Format"},{
+Key:1005421,Text:"Font"},{
+Key:1005424,Text:"Latar belakang"},{
+Key:1005425,Text:"Format"},{
+Key:1005429,Text:"Aspek"},{
+Key:1005430,Text:"Edit"},{
+Key:1005432,Text:"Sampul"},{
+Key:1005433,Text:"Alat"},{
+Key:1005442,Text:"Lanjutkan dengan elemen berikutnya"},{
+Key:1005443,Text:"Matikan lalu lanjutkan"},{
+Key:1005444,Text:"Sembunyikan teks lalu lanjutkan"},{
+Key:1005445,Text:"Sembunyikan lalu matikan"},{
+Key:1005446,Text:"Display ganda dengan elemen berikutnya (bilingual)"},{
+Key:1005447,Text:"Tambahkan lagu atau ayat Alkitab ke agenda (Insert atau Alt + A)"},{
+Key:1005448,Text:"Klik di sini untuk menambahkan lagu atau ayat Alkitab ke agenda.
+
+Atau, Anda dapat menarik tombol ini ke agenda jika perlu."},{
+Key:1005449,Text:"T&ambahkan"},{
+Key:1005454,Text:"Pilih opsi pencarian kata kunci lagu"},{
+Key:1005455,Text:"Hapus kata kunci atau nomor pencarian (ESC)"},{
+Key:1005457,Text:"Cari lagu (Ctrl + F)"},{
+Key:1005458,Text:"Cari lagu yang dengan kata-kata atau nomor tertentu.
+
+Contoh:
+
+- Untuk menemukan lagu No. 250, ketik \"250\"
+
+- Untuk menemukan lagu yang berisi kata <b>\"seperti cahaya di malam hari\"</b>, ketik beberapa kata kunci seperti <b>\"cahaya malam\"</b>.
+
+- Untuk menemukan lagu yang berisi frasa <b>\"Raja segala raja\"</b>, ketik gabungan kata-katanya: <b>\"rajasegalaraja\"</b>.
+
+Jangan khawatir tentang aksen, tanda baca, atau huruf besar/kecil.
+
+Tidak perlu untuk mengetikkan kata-kata secara keseluruhan atau dalam urutan yang benar.
+
+Tambahkan kata-kata lain untuk mempersempit daftar lagu yang ditemukan.
+
+Tekan tombol <b>Masukkan</b> untuk menambahkan lagu yang ditemukan dan dipilih ke dalam agenda."},{
+Key:1005459,Text:"Tidak ada Alkitab.
+Klik di sini untuk memulai alat impor 
+Alkitab dan menambahkan Alkitab dari sumber-sumber populer."},{
+Key:1005463,Text:"Hapus referensi untuk memilih (ESC)"},{
+Key:1005464,Text:"Referensi untuk dipilih, misalnya: Roma 3:23-25, 30"},{
+Key:1005465,Text:"Pilih ayat Alkitab (Ctrl + F)"},{
+Key:1005472,Text:"&Folder:"},{
+Key:1005475,Text:"&Ikutkan buku lagu ini dalam pencarian lagu"},{
+Key:1005479,Text:"&Nama:"},{
+Key:1005481,Text:"Singk&atan:"},{
+Key:1005483,Text:"&Pengarang:"},{
+Key:1005485,Text:"Hak &cipta:"},{
+Key:1005487,Text:"&Dokumen:"},{
+Key:1005491,Text:"Cetak ca&po"},{
+Key:1005497,Text:"&Lirik"},{
+Key:1005499,Text:"&Nomor:"},{
+Key:1005501,Text:"&Judul:"},{
+Key:1005505,Text:"&Referensi:"},{
+Key:1005507,Text:"Hak &cipta:"},{
+Key:1005509,Text:"Peng&arang:"},{
+Key:1005511,Text:"&Komposer:"},{
+Key:1005513,Text:"&Lain-lain"},{
+Key:1005515,Text:"&Nada:"},{
+Key:1005517,Text:"&Format:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Urutan:"},{
+Key:1005523,Text:"&CCLI:"},{
+Key:1005525,Text:"&Kunci:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"Baris &kunci:"},{
+Key:1005531,Text:"&Memo 1:"},{
+Key:1005533,Text:"&Memo 2:"},{
+Key:1005535,Text:"&Memo 3:"},{
+Key:1005537,Text:"&Tanda tangan:"},{
+Key:1005540,Text:"&Transposisi:"},{
+Key:1005541,Text:"Cetak capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Untuk melaksanakan Perjanjian lagu."},{
+Key:1005555,Text:"&Folder:"},{
+Key:1005560,Text:"Hak &cipta:"},{
+Key:1005562,Text:"Singk&atan:"},{
+Key:1005564,Text:"&Nama:"},{
+Key:1005566,Text:"&Deskripsi:"},{
+Key:1005568,Text:"&Pendahuluan:"},{
+Key:1005570,Text:"&Dokumen:"},{
+Key:1005576,Text:"&Nama:"},{
+Key:1005582,Text:"&Nama:"},{
+Key:1005584,Text:"&Pendahuluan:"},{
+Key:1005586,Text:"Singk&atan:"},{
+Key:1005587,Text:"Pasal Alkitab"},{
+Key:1005590,Text:"Ayat Alkitab"},{
+Key:1005595,Text:"Ayat Alkita&b:"},{
+Key:1005603,Text:"&File:"},{
+Key:1005606,Text:"Tidak ada pilihan"},{
+Key:1005608,Text:"Format"},{
+Key:1005612,Text:"Menghapus nilai properti"},{
+Key:1005613,Text:"Saat Anda menghapus nilai properti, VideoPsalm menggunakan nilai pertama yang ditemukan di level yang lebih rendah.
+
+Misalnya, jika Anda menghapus font di level bait, VideoPsalm akan menggunakan font yang pertama kali ditemukan dalam urutan berikut:
+- dalam lagu,
+- dalam buku lagu,
+- dalam kumpulan buku lagu,
+- dalam gaya dasar.
+
+VideoPsalm melakukan hal yang sama dengan Alkitab, gambar, dll."},{
+Key:1005615,Text:"Tidak ada"},{
+Key:1005616,Text:"Dasar"},{
+Key:1005618,Text:"Buku lagu"},{
+Key:1005619,Text:"Buku lagu"},{
+Key:1005620,Text:"Lagu"},{
+Key:1005621,Text:"Bait"},{
+Key:1005622,Text:"Alkitab"},{
+Key:1005623,Text:"Alkitab"},{
+Key:1005624,Text:"Perjanjian"},{
+Key:1005625,Text:"Kitab Alkitab"},{
+Key:1005626,Text:"Pasal"},{
+Key:1005627,Text:"Ayat"},{
+Key:1005628,Text:"Nilai default"},{
+Key:1005629,Text:"Nilai dari body teks"},{
+Key:1005630,Text:"Kiri"},{
+Key:1005631,Text:"Tengah"},{
+Key:1005632,Text:"Kanan"},{
+Key:1005633,Text:"Rata"},{
+Key:1005634,Text:"Atas"},{
+Key:1005635,Text:"Tengah"},{
+Key:1005636,Text:"Bawah"},{
+Key:1005650,Text:"&Buka agenda..."},{
+Key:1005651,Text:"Tambahkan &agenda..."},{
+Key:1005652,Text:"T&ambahkan gambar slideshow..."},{
+Key:1005653,Text:"T&ambahkan video lepas..."},{
+Key:1005654,Text:"T&ambahkan PowerPoint..."},{
+Key:1005655,Text:"Ketika saya membuka agenda:"},{
+Key:1005656,Text:"&Pertahankan teks buku lagu dan Alkitab saya"},{
+Key:1005657,Text:"&Pertahankan format buku lagu dan Alkitab saya"},{
+Key:1005667,Text:"&Buku lagu"},{
+Key:1005668,Text:"Menampilkan buku lagu (Alt + S)"},{
+Key:1005670,Text:"Alkita&b"},{
+Key:1005671,Text:"Menampilkan Alkitab (Alt + B)"},{
+Key:1005677,Text:"&Lebar:"},{
+Key:1005680,Text:"Ka&bur:"},{
+Key:1005681,Text:"Ke&dalaman:"},{
+Key:1005682,Text:"&Arah:"},{
+Key:1005686,Text:"Menampilkan warna layar kosong hitam.
+Mensimulasikan proyektor yang dimatikan."},{
+Key:1005687,Text:"Lanjutkan"},{
+Key:1005688,Text:"Maju ke slide berikutnya (atau ke animasi PowerPoint berikutnya)."},{
+Key:1005689,Text:"Mematikan layar (Ctrl + W)"},{
+Key:1005690,Text:"Menampilkan teks (Ctrl + T)"},{
+Key:1005691,Text:"Menampilkan atau menyembunyikan teks slide."},{
+Key:1005692,Text:"Perisai (Ctrl + D)"},{
+Key:1005693,Text:"Mempertahankan slide lagu yang sedang ditampilkan.
+
+Memungkinkan Anda bekerja dengan agenda atau mencari lagu atau ayat Alkitab sambil menampilkan lagu.
+
+Untuk mengesampingkan perisai, klik dua kali elemen dalam agenda."},{
+Key:1005694,Text:"Bekukan"},{
+Key:1005695,Text:"Membekukan tayangan tanpa menghentikan area pratinjau.
+
+Memungkinkan untuk melihat pratinjau presentasi selama presentasi dtayangkan."},{
+Key:1005696,Text:"Tayangkan (Ctrl + P)"},{
+Key:1005697,Text:"Menampilkan slide di layar."},{
+Key:1005698,Text:"Modus \"Edit\" (Ctrl + E)"},{
+Key:1005699,Text:"Beralih dari \"Penampil\" ke modus \"Edit\" atau sebaliknya."},{
+Key:1005702,Text:"Membuka agenda yang sebelumnya sudah Anda siapkan"},{
+Key:1005703,Text:"&Tutup agenda"},{
+Key:1005704,Text:"&Simpan agenda"},{
+Key:1005705,Text:"Hapus"},{
+Key:1005706,Text:"Menghapus elemen yang dipilih dari agenda."},{
+Key:1005707,Text:"Pindahkan ke atas (Ctrl + Page Up)"},{
+Key:1005708,Text:"Memindahkan elemen ke awal agenda."},{
+Key:1005709,Text:"Pindahkan ke bawah (Ctrl + Page Down)"},{
+Key:1005710,Text:"Memindahkan elemen ke akhir agenda."},{
+Key:1005711,Text:"Kecerahan"},{
+Key:1005712,Text:"Buka kalender"},{
+Key:1005713,Text:"Menyimpan agenda ke disk atau USB stick."},{
+Key:1005721,Text:"Memilih ayat Alkitab berdasarkan referensinya.
+<i>Contoh: Roma 3:23-25, 30</i>
+
+Ketik <b>\":\"</b>, <b>\".\"</b>, atau <b>\"v\"</b> untuk memisahkan pasal dan ayat.
+
+Tekan tombol <b>\"Masukkan\"</b> untuk menambahkan ayat yang dipilih ke dalam agenda."},{
+Key:1005722,Text:"Komentar (jangan diterjemahkan, biarkan dalam bahasa Inggris)"},{
+Key:1005723,Text:"Tidak dapat menulis file
+{0}:
+{1}"},{
+Key:1005724,Text:"Kesalahan"},{
+Key:1005725,Text:"Tidak dapat membaca file
+{0}:
+{1}"},{
+Key:1005730,Text:"Apakah Anda yakin ingin mengatur ulang format gambar slideshow?
+Format gambar slideshow akan mengambil nilai standar."},{
+Key:1005731,Text:"Apakah Anda yakin ingin mengatur ulang format dasar?
+Gaya dasar akan mengambil nilai standar."},{
+Key:1005732,Text:"Apakah Anda yakin ingin menghapus format buku lagu?
+Format buku lagu akan mengambil nilai standar."},{
+Key:1005733,Text:"Apakah Anda yakin ingin menghapus format Alkitab?
+Format Alkitab akan mengambil nilai standar."},{
+Key:1005734,Text:"Apakah Anda yakin ingin menghapus format ini?
+VideoPsalm menerapkan atribut format yang ditemukan lebih rendah di hierarki format."},{
+Key:1005735,Text:"Hapus format"},{
+Key:1005736,Text:"Apakah Anda yakin ingin mengatur ulang format video?
+Format video akan mengambil nilai standar."},{
+Key:1005737,Text:"Buku lagu"},{
+Key:1005738,Text:"Tidak ada buku lagu"},{
+Key:1005739,Text:"Alkitab"},{
+Key:1005740,Text:"Tidak ada Alkitab"},{
+Key:1005743,Text:"Perbesar font (Ctrl + Shift + .)"},{
+Key:1005744,Text:"Memperbesar ukuran font."},{
+Key:1005745,Text:"Perkecili font (Ctrl + Shift + ,)"},{
+Key:1005746,Text:"Memperkecil ukuran font."},{
+Key:1005747,Text:"Tebal (Ctrl + B)"},{
+Key:1005748,Text:"Menebalkan teks yang dipilih."},{
+Key:1005749,Text:"Miring (Ctrl + I)"},{
+Key:1005750,Text:"Memiringkan teks yang dipilih"},{
+Key:1005751,Text:"Garis bawah (Ctrl + U)"},{
+Key:1005752,Text:"Menggarisbawahi teks yang dipilih."},{
+Key:1005753,Text:"Coret"},{
+Key:1005754,Text:"Menarik garis di tengah teks yang dipilih."},{
+Key:1005755,Text:"Tampilkan/Sembunyikan ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Menampilkan tanda paragraf dan simbol format yang tersembunyi lainnya."},{
+Key:1005757,Text:"Warna font"},{
+Key:1005758,Text:"Ganti warna font."},{
+Key:1005759,Text:"Warna tepi teks"},{
+Key:1005760,Text:"Memberi warna tepi teks."},{
+Key:1005761,Text:"Hapus Format (Ctrl +  Spasi)"},{
+Key:1005762,Text:"Hapus semua format dari pilihan dan hanya mempertahankan teksnya."},{
+Key:1005763,Text:"Batalkan (Ctrl + Z)"},{
+Key:1005764,Text:"Membatalkan tindakan terakhir."},{
+Key:1005765,Text:"Ulangi (Ctrl + Y)"},{
+Key:1005766,Text:"Mengulangi tindakan terakhir."},{
+Key:1005767,Text:"Potong (Ctrl + X)"},{
+Key:1005768,Text:"Potong pilihan dan masukkan ke dalam Clipboard."},{
+Key:1005769,Text:"Salin (Ctrl + C)"},{
+Key:1005770,Text:"Menyalin pilihan dan meletakkannya ke Clipboard."},{
+Key:1005771,Text:"Sisipkan (Ctrl + V)"},{
+Key:1005772,Text:"Menyisipkan isi Clipboard."},{
+Key:1005773,Text:"Cari (Ctrl + F)"},{
+Key:1005774,Text:"Cari teks dalam dokumen."},{
+Key:1005775,Text:"Ganti (Ctrl + H)"},{
+Key:1005776,Text:"Mengganti teks dalam dokumen."},{
+Key:1005777,Text:"Perbesar"},{
+Key:1005778,Text:"Tampilkan semua"},{
+Key:1005779,Text:"Untuk mengedit ayat Alkitab tertentu, klik slidenya."},{
+Key:1005780,Text:"Pilihan ayat Alkitab"},{
+Key:1005781,Text:"Mengurutkan lagu dari buku lagu yang dipilih berdasarkan judulnya."},{
+Key:1005782,Text:"Menutup agenda saat ini (dan meminta konfirmasi Anda jika ada adalah perubahan yang belum disimpan)."},{
+Key:1005783,Text:"Menyesuaikan kecerahan gambar atau video latar belakang.
+
+Membantu teks menjadi lebih terlihat, bahkan pada latar belakang yang berwarna-warni."},{
+Key:1005784,Text:"&Salin deskripsi agenda"},{
+Key:1005785,Text:"&Ikutkan lirik lagu"},{
+Key:1005786,Text:"&Ikutkan ayat Alkitab"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"Buka halaman facebook VideoPsalm.
+
+Biarkan teman-teman Anda mengenal VideoPsalm:
+- dengan mengeklik pada tombol \"Like\"
+- dengan menjadi temannya.
+
+<b>Catatan:</b> Untuk menghilangkan iklan di Facebook, pasang plugin gratis <b>Adblock Plus</b>.
+
+Untuk menyembunyikan ikon sosial VideoPsalm, nonaktifkan dalam \"Opsi\" → tab \"Umum\"."},{
+Key:1005791,Text:"Membuka halaman Twitter VideoPsalm, untuk mendapatkan pemberitahuan tentang artikel blog baru.
+
+Untuk menyembunyikan ikon sosial VideoPsalm, nonaktifkan dalam \"Opsi\" → tab \"Umum\"."},{
+Key:1005792,Text:"Buka halaman VideoPsalm YouTube, di mana Anda akan menemukan video tutorial tentang penggunaan VideoPsalm.
+
+Untuk menyembunyikan ikon sosial VideoPsalm, nonaktifkan dalam \"Opsi\" → tab \"Umum\"."},{
+Key:1005793,Text:"Menambahkan lagu kosong baru (atau pengumuman) ke buku lagu yang dipilih."},{
+Key:1005794,Text:"Menambahkan buku lagu kosong baru."},{
+Key:1005795,Text:"Mengurutkan lagu dari buku lagu yang dipilih berdasarkan nomornya."},{
+Key:1005800,Text:"Verse"},{
+Key:1005801,Text:"Chorus"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Bridge"},{
+Key:1005804,Text:"Tab"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Outro"},{
+Key:1005807,Text:"Slide"},{
+Key:1005808,Text:"Instrumental"},{
+Key:1005809,Text:"Other"},{
+Key:1005820,Text:"V"},{
+Key:1005821,Text:"C"},{
+Key:1005822,Text:"P"},{
+Key:1005823,Text:"B"},{
+Key:1005824,Text:"T"},{
+Key:1005825,Text:"I"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"S"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"R"},{
+Key:1005850,Text:"Tutup"},{
+Key:1005851,Text:"&Bahasa:"},{
+Key:1005852,Text:"&Penerbit:"},{
+Key:1005853,Text:"Semua"},{
+Key:1005859,Text:"Memungkinkan pengaturan capo, dengan menggeser kunci lagu."},{
+Key:1005860,Text:"Menemukan lagu yang judul, alias, atau liriknya mengandung kata-kata yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005861,Text:"Melakukan pencarian dalam dua tahap, dengan  keuntungan dapat dengan cepat menampilkan daftar pendek lagu:
+
+1. Temukan lagu yang judulnya (atau aliasnya) berisi kata-kata yang Anda masukkan.
+
+Saat Anda menambahkan kata-kata, ada waktunya di mana tidak ada lagu lain lagi yang ditemukan.
+
+2. Saat itu, VideoPsalm akan mencari kata-katanya dalam lirik lagu.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005862,Text:"Menemukan lagu karya komposer dan pengarang yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005863,Text:"Menemukan lagu yang berhubungan dengan topik yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005864,Text:"Menemukan lagu berdasarkan kutipan Alkitab yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005865,Text:"Menemukan lagu dengan CCLI yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005866,Text:"Menemukan lagu yang hak ciptanya berisi kata-kata yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005867,Text:"Menemukan lagu dengan Memo 1 yang berisi kata-kata yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005868,Text:"Menemukan lagu dengan Memo 2 yang berisi kata-kata yang Anda masukkan
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005869,Text:"Menemukan lagu dengan Memo 3 yang berisi kata-kata yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005870,Text:"Menemukan lagu yang judul (atau aliasnya) berisi kata-kata yang Anda masukkan.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005871,Text:"Menemukan lagu yang memiliki kunci dalam liriknya.
+
+Anda juga dapat mencari lagu berdasarkan nomornya."},{
+Key:1005872,Text:"&Versi dari:"},{
+Key:1005873,Text:"&Versi dari:"},{
+Key:1005874,Text:"Tanggal dari versi buku lagu"},{
+Key:1005875,Text:"Menunjukkan tanggal buku lagu ini terakhir kali diperbarui oleh VideoPsalm.
+
+Melalui alat impor perpustakaan online VideoPsalm, Anda dapat memeriksa apakah ada versi terbaru dari buku lagu ini.
+
+Perpustakaan online VideoPsalm kadang-kadang memperbarui buku lagu tertentu, misalnya, untuk memperbaiki kesalahan ketik."},{
+Key:1005876,Text:"Tanggal dari versi Alkitab"},{
+Key:1005877,Text:"Menunjukkan tanggal Alkitab ini terakhir kali diperbarui oleh VideoPsalm.
+
+Melalui alat import perpustakaan online VideoPsalm, Anda dapat memeriksa apakah ada versi terbaru dari Alkitab ini.
+
+Perpustakaan online VideoPsalm kadang-kadang memperbarui Alkitab tertentu, misalnya, untuk memperbaiki kesalahan ketik."},{
+Key:1005878,Text:"Dikompresi"},{
+Key:1005879,Text:"Dikompresi"},{
+Key:1005880,Text:"VideoPsalm dapat mengkompresi buku lagu dan Alkitab Anda, untuk menghemat pemakaian kapasitas harddisk.
+
+Buku lagu dan Alkitab yang Anda unduh melalui alat impor biasanya dikompresi, sehingga mempercepat pengunduhan dan mengurangi lalu lintas internet di situs VideoPsalm."},{
+Key:1005881,Text:"&Dikompresi"},{
+Key:1005882,Text:"&Dikompresi"},{
+Key:1005884,Text:"Apakah Anda yakin ingin menghapus Alkitab \"{0}\"?
+
+File terkait dari Alkitab ini tidak akan dihapus dari harddisk:
+ekstensinya akan diganti menjadi \".ignore\"."},{
+Key:1005885,Text:"Hapus Alkitab"},{
+Key:1005886,Text:"Silakan tunggu"},{
+Key:1005887,Text:"Sedang memuat..."},{
+Key:1005888,Text:"Perjanjian lama"},{
+Key:1005889,Text:"Perjanjian Baru"},{
+Key:1005890,Text:"Sedang menyimpan..."},{
+Key:1005891,Text:"&Impor gambar"},{
+Key:1005892,Text:"Pilih gambar yang ingin Anda impor lalu klik tombol \"Buka\"."},{
+Key:1005893,Text:"Anda telah mengimpor {0} gambar."},{
+Key:1005894,Text:"Tidak ada gambar yang diimpor.
+(Gambar sudah ada di galeri)."},{
+Key:1005895,Text:"&Buat ulang thumbnail"},{
+Key:1005896,Text:"Buat ulang thumbnail"},{
+Key:1005897,Text:"Apakah Anda ingin membuat ulang thumbnail?
+
+Ini mungkin bermanfaat untuk dilakukan setelah Anda mengubah gambarnya di luar VideoPsalm."},{
+Key:1005898,Text:"&Hapus gambar"},{
+Key:1005899,Text:"Hapus gambar"},{
+Key:1005900,Text:"Apakah Anda yakin ingin menghapus gambar \"{0}\"?"},{
+Key:1005901,Text:"J&elajahi folder gambar"},{
+Key:1005902,Text:"Hapus gambar yang &dipilih"},{
+Key:1005903,Text:"&Impor video"},{
+Key:1005904,Text:"Pilih video yang ingin Anda impor lalu klik \"Buka\"."},{
+Key:1005905,Text:"Anda telah mengimpor {0} video."},{
+Key:1005906,Text:"Tidak ada video telah diimpor.
+(Videonya sudah ada di Galeri)."},{
+Key:1005907,Text:"&Buat ulang thumbnail"},{
+Key:1005908,Text:"Hapus vi&deo"},{
+Key:1005909,Text:"Hapus video"},{
+Key:1005910,Text:"Apakah Anda yakin ingin menghapus video \"{0}\"?"},{
+Key:1005911,Text:"J&elajahi folder video"},{
+Key:1005912,Text:"Hapus video yang &dipilih"},{
+Key:1005913,Text:"<Tanpa video>"},{
+Key:1005914,Text:"Pengimporan gambar"},{
+Key:1005915,Text:"Pengimporan video"},{
+Key:1005917,Text:"Tidak dapat membuat folder
+{0} :
+{1}"},{
+Key:1005918,Text:"Folder tidak memiliki drive:
+{0}"},{
+Key:1005919,Text:"Folder harus diisi."},{
+Key:1005920,Text:"Nama folder tidak boleh berisi karakter berikut:
+{0}"},{
+Key:1005921,Text:"Pulihkan buku lagu dan Alkitab"},{
+Key:1005922,Text:"Memungkinkan untuk memulihkan buku lagu, Alkitab, gambar, atau video, misalnya dari backup di USB stick."},{
+Key:1005923,Text:"Tutup"},{
+Key:1005930,Text:"&Salin lagu ke"},{
+Key:1005931,Text:"&Pindahkan lagu ke"},{
+Key:1005932,Text:"Apakah Anda yakin ingin menyalin lagu \"{0}\" ke
+buku lagu \"{1}\"?"},{
+Key:1005933,Text:"Apakah Anda yakin ingin memindahkan lagu \"{0}\" ke buku lagu \"{1}\"?"},{
+Key:1005934,Text:"Masukkan r&eferensi menggunakan singkatan"},{
+Key:1005935,Text:"Tampilkan nama kitab &dalam bahasa Inggris"},{
+Key:1005936,Text:"(Salin)"},{
+Key:1005937,Text:"Tersedia buku lagu baru:
+{0}"},{
+Key:1005938,Text:"Tersedia buku lagu baru: {0}"},{
+Key:1005939,Text:"Koreksi telah dilakukan terhadap buku lagu \"{0}\"."},{
+Key:1005940,Text:"Koreksi telah dilakukan
+terhadap buku lagu berikut:{0}"},{
+Key:1005941,Text:"Buka alat impor buku lagu"},{
+Key:1005942,Text:"Tersedia Alkitab baru:
+{0}"},{
+Key:1005943,Text:"Tersedia Alkitab baru:{0}"},{
+Key:1005944,Text:"Koreksi telah dilakukan 
+terhadap Alkitab \"{0}\""},{
+Key:1005945,Text:"Koreksi telah dilakukan
+terhadap Alkitab berikut: {0}"},{
+Key:1005946,Text:"Buka alat impor Alkitab"},{
+Key:1005947,Text:"VideoPsalm baru tersedia
+dalam {0}"},{
+Key:1005948,Text:"VideoPsalm baru tersedia dalam: {0}"},{
+Key:1005949,Text:"Koreksi telah dilakukan 
+terhadap label di {0}"},{
+Key:1005950,Text:"Koreksi telah dilakukan
+terhadap label bahasa berikut: {0}"},{
+Key:1005951,Text:"Buka alat impor label"},{
+Key:1005952,Text:"Tersedia versi VideoPsalm 
+yang lebih baru:"},{
+Key:1005953,Text:"Tampilkan berita"},{
+Key:1005954,Text:"Otomatis"},{
+Key:1005955,Text:"Jelajahi folder yang dipilih"},{
+Key:1005956,Text:"Pilih folder"},{
+Key:1005957,Text:"Tampilkan folder yang baru-baru ini dibuka"},{
+Key:1005958,Text:"Backup"},{
+Key:1005959,Text:"Memungkinkan untuk membuat backup buku lagu, Alkitab, gambar, atau video, atau membuat versi portabel VideoPsalm, misalnya di USB stick."},{
+Key:1005960,Text:"Pulihkan"},{
+Key:1005961,Text:"VideoPsalm gagal menampilkan dokumen PowerPoint.
+
+(Tidak ada aplikasi jenis PowerPoint yang terdeteksi di komputer Anda)."},{
+Key:1005962,Text:"Kesalahan PowerPoint"},{
+Key:1005963,Text:"Membuat {0} dapat diedit dalam buku lagu \"{1}\"."},{
+Key:1005964,Text:"Membuat {0} dapat diedit dalam buku lagu..."},{
+Key:1005965,Text:"Membuat {0} dapat diedit dalam buku lagu baru \"{1}\"."},{
+Key:1005966,Text:"Ayat Alkitab"},{
+Key:1005967,Text:"Ayat Alkitab yang di&personalisasi"},{
+Key:1005968,Text:"&Deskripsi:"},{
+Key:1005969,Text:"&Bahasa:"},{
+Key:1005970,Text:"&Penerbit:"},{
+Key:1005971,Text:"&Administrator:"},{
+Key:1005973,Text:"&Administrator:"},{
+Key:1005974,Text:"Di atas teks"},{
+Key:1005975,Text:"Kunci di atas teks"},{
+Key:1005976,Text:"Ini adalah modus yang disarankan untuk mengedit lirik.
+Saat Anda mengedit lirik, masing-masing kunci bergerak bersama dengan huruf tambatannya.
+
+Ketika Anda <b>menyalin teks yang berisi kunci</b>, kunci disalin bersama dengan teksnya dalam format ChordPro.
+
+Ketika Anda menyisipkan teks yang berisi kunci dalam format ChordPro, VideoPsalm menampilkan kunci tersebut di atas teks.
+
+<b>Untuk menambahkan kunci</b>, masukkan ke sebelah kiri dari huruf tempat Anda ingin menempelkannya, dan batasi dengan tanda kurung siku <b>[]</b>.
+
+<b>Untuk menghapus kunci</b>, hapus huruf tambatannya lalu ketik ulang hurufnya.
+
+<b>Untuk mengedit kunci</b>, hapus kunci, lalu sisipkan kunci yang benar (atau gunakan mode \"<b>Format ChordPro</b>\")."},{
+Key:1005977,Text:"Format ChordPro"},{
+Key:1005978,Text:"Kunci dalam format ChordPro"},{
+Key:1005979,Text:"Dalam mode ini:
+
+-VideoPsalm menampilkan lirik dan kunci dengan <b>format ChordPro</b>.
+
+-Ini adalah modus yang ideal untuk mengedit kunci: VideoPsalm secara otomatis menambahkan tanda kurung siku [] sebelum dan sesudah teks yang Anda ketik.
+Misalnya, untuk menambahkan kunci C, ketik \"C\" dan VideoPsalm akan menampilkan \"[C]\".
+
+Hati-hati: mode ini ini tidak cocok untuk mengedit lirik, karena tergantung dari karakter yang diketik, VideoPsalm akan menutupnya dengan tanda kurung siku.
+Sebaiknya gunakan modus \"<b>Di atas teks</b>\" untuk mengedit teks."},{
+Key:1005980,Text:"Kunci"},{
+Key:1005981,Text:"Salin"},{
+Key:1005982,Text:"Menyalin deskripsi agenda ke clipboard."},{
+Key:1005983,Text:"Izink&an PowerPoint untuk menggunakan jendela \"Presenter\"."},{
+Key:1005984,Text:"Bila kotak ini dicentang, VideoPsalm memungkinkan PowerPoint menampilkan panel kontrolnya."},{
+Key:1005985,Text:"Putar sampai habis"},{
+Key:1005986,Text:"Ulangi"},{
+Key:1005987,Text:"Maju secara manual"},{
+Key:1005988,Text:"&Urutan..."},{
+Key:1005989,Text:"Penga&tur waktu..."},{
+Key:1005990,Text:"&Maju secara manual"},{
+Key:1005991,Text:"U&langi"},{
+Key:1005992,Text:"&Putar sampai habis"},{
+Key:1005993,Text:"&Interval (detik):"},{
+Key:1005994,Text:"&Sembunyikan teks lalu matikan"},{
+Key:1005995,Text:"&Lanjutkan dengan elemen berikutnya"},{
+Key:1005996,Text:"Matikan lalu lanjutkan"},{
+Key:1005997,Text:"Sembunyikan teks lalu lanjutkan"},{
+Key:1005998,Text:"Tampilan ganda dengan elemen berikutnya (bilingual)"},{
+Key:1005999,Text:"J&elajahi"},{
+Key:1006000,Text:"Alat Impor"},{
+Key:1006001,Text:"Selamat datang di alat impor buku lagu, Alkitab, gambar, dan video"},{
+Key:1006002,Text:"Alat ini memudahkan pengimporan buku lagu, Alkitab, gambar, dan video dari perpustakaan online VideoPsalm atau format populer dengan cara membimbing Anda langkah demi langkah."},{
+Key:1006003,Text:"Klik Lanjutkan untuk melanjutkan"},{
+Key:1006004,Text:"&Pilih..."},{
+Key:1006005,Text:"Lanjutka&n >"},{
+Key:1006006,Text:"< &Kembali"},{
+Key:1006007,Text:"&Bantuan"},{
+Key:1006008,Text:"&Selesai"},{
+Key:1006009,Text:"&Batal"},{
+Key:1006010,Text:"Anda dapat mengimpor buku lagu, Alkitab, gambar, atau video"},{
+Key:1006011,Text:"Pilih apa yang ingin Anda impor"},{
+Key:1006012,Text:"Impor buku lagu"},{
+Key:1006013,Text:"Impor Alkitab"},{
+Key:1006014,Text:"Impor gambar"},{
+Key:1006015,Text:"Impor video"},{
+Key:1006016,Text:"Impor bahasa"},{
+Key:1006020,Text:"Atu&r ulang"},{
+Key:1006021,Text:"Mengatur ulang folder ke nilai standar"},{
+Key:1006023,Text:"Ringkasan sebelum impor"},{
+Key:1006024,Text:"Klik Lanjutkan untuk memulai impor"},{
+Key:1006025,Text:"Sedang mengimpor"},{
+Key:1006026,Text:"Impor selesai"},{
+Key:1006027,Text:"Untuk menutup alat impor, klik Selesai
+
+Klik Kembali untuk mengimpor buku lagu atau Alkitab lain"},{
+Key:1006029,Text:"Anda berhasil mengimpor {0} lagu dalam {1} buku lagu."},{
+Key:1006030,Text:"Anda berhasil mengimpor {0} lagu dalam buku lagu baru \"{1}\"."},{
+Key:1006031,Text:"Anda berhasil mengimpor Alkitab \"{0}\"."},{
+Key:1006032,Text:"Anda berhasil mengimpor {0} Alkitab."},{
+Key:1006033,Text:"Anda berhasil mengimpor bahasa \"{0}\"."},{
+Key:1006034,Text:"Anda berhasil mengimpor {0} bahasa."},{
+Key:1006035,Text:"Apakah Anda ingin menghentikan impor?"},{
+Key:1006036,Text:"Impor tidak terselesaikan dengan benar."},{
+Key:1006037,Text:"Masukkan nama untuk buku lagu baru VideoPsalm"},{
+Key:1006038,Text:"Buku lagu baru akan disimpan dengan nama ini. Nama ini dapat diubah kemudian"},{
+Key:1006039,Text:"&Nama untuk buku lagu:"},{
+Key:1006040,Text:"Beri nama untuk Alkitab VideoPsalm baru ini"},{
+Key:1006041,Text:"Alkitab baru akan disimpan dengan nama ini. Nama ini dapat diubah kemudian"},{
+Key:1006042,Text:"&Nama untuk Alkitab:"},{
+Key:1006051,Text:"Pilih buku lagu"},{
+Key:1006052,Text:"Pilih Alkitab"},{
+Key:1006053,Text:"Pilih file"},{
+Key:1006054,Text:"Pilih folder"},{
+Key:1006055,Text:"&File:"},{
+Key:1006056,Text:"&Folder:"},{
+Key:1006057,Text:"Pilih bahasa"},{
+Key:1006058,Text:"Folder \"{0}\" tidak ada."},{
+Key:1006060,Text:"Tidak dapat mengakses folder \"{0}\".
+
+{1}"},{
+Key:1006061,Text:"File \"{0}\" tidak ada."},{
+Key:1006062,Text:"Hati-hati: Memuat banyak buku lagu dapat membuat memori komputer penuh dan memperlambat pencarian lagu.
+Apakah Anda yakin ingin mengunduh {0} buku lagu?"},{
+Key:1006063,Text:"Hati-hati: Memuat banyak Alkitab dapat membuat memori komputer penuh.
+Apakah Anda yakin ingin mengunduh {0} Alkitab?"},{
+Key:1006064,Text:"Nama baru harus diisi"},{
+Key:1006065,Text:"Nama baru tidak boleh berisi karakter berikut: {0}"},{
+Key:1006066,Text:"Sudah ada buku lagu dengan nama \"{0}\"."},{
+Key:1006067,Text:"Sudah ada Alkitab dengan nama \"{0}\"."},{
+Key:1006068,Text:"Anda membatalkan impor."},{
+Key:1006069,Text:"Periksa koneksi internet Anda."},{
+Key:1006070,Text:"Versi tersedia sejak {0}"},{
+Key:1006071,Text:"Versi baru tersedia sejak {0}"},{
+Key:1006072,Text:"Versi Anda adalah {0}"},{
+Key:1006073,Text:"Versi Anda, {0}, sudah yang terbaru."},{
+Key:1006074,Text:"Judul"},{
+Key:1006075,Text:"Status"},{
+Key:1006076,Text:"Tidak diunduh"},{
+Key:1006077,Text:"Sudah terbaru"},{
+Key:1006078,Text:"Tersedia update"},{
+Key:1006079,Text:"Baru"},{
+Key:1006080,Text:"Ada update baru"},{
+Key:1006081,Text:"Tidak ada buku lagu yang dipilih.
+Anda harus memilih paling tidak satu buku lagu."},{
+Key:1006082,Text:"Tidak ada Alkitab yang dipilih.
+Anda harus memilih paling tidak satu Alkitab."},{
+Key:1006083,Text:"Tidak ada bahasa yang dipilih.
+Anda harus memilih paling tidak satu bahasa."},{
+Key:1006084,Text:"Kode"},{
+Key:1006085,Text:"File asal: <b>{0}</b>"},{
+Key:1006086,Text:"Folder asal:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokumen yang dicari"},{
+Key:1006090,Text:"Nama untuk Alkitab VideoPsalm baru: <b>{0}</b>"},{
+Key:1006091,Text:"Nama untuk buku lagu VideoPsalm baru: <b>{0}</b>"},{
+Key:1006095,Text:"Dalam perpustakaan online VideoPsalm, kadang-kadang dokumen tertentu ditambahkan atau diperbaharui (misalnya untuk memperbaiki kesalahan ejaan).
+Tergantung pada status dokumen di atas, Anda dapat memutuskan untuk mengunduhnya atau tidak.
+
+<b>Berikut cara membedakan status dokumen:</b>
+- Dokumen yang belum Anda unduh akan ditampilkan dalam font biasa.
+- Dokumen yang sudah Anda unduh dan sudah dalam kondisi terbaru ditampilkan dalam <i>huruf miring</i>. Mereka ditandai dengan <image=check_16>OK.
+Anda tidak perlu mengunduhnya lagi, kecuali jika Anda ingin membatalkan perubahan yang telah Anda buat terhadap dokumen tersebut.
+- Dokumen yang sudah Anda unduh dan telah kami koreksi di perpustakaan online VideoPsalm, muncul dalam <b>huruf tebal</b>. Mereka ditandai dengan pensil <image=pencil2_16>.
+
+Kotak teks di sebelah kanannya menjelaskan koreksi apa yang telah dibuat terhadap dokumen tersebut: ini dapat membantu Anda memutuskan Anda ingin mengunduhnya lagi.
+
+<b>Perhatian:</b> Jika Anda memperbarui dokumen dengan mengunduh ulang, perubahan yang Anda buat terhadapnya dan juga atribut formatnya akan hilang, karena VideoPsalm menimpanya dengan milik dokumen yang diunduh.
+Namun, file Anda sendiri tidak dihapus, namun: file tersebut tetap di harddisk tetapi menjadi tidak terlihat di VideoPsalm karena VideoPsalm mengganti ekstensinya menjadi .ignore.
+
+<b>Tip</b>: Hanya unduh dokumen yang berguna bagi Anda.
+Jika Anda memiliki terlalu banyak dokumen, pemuatan VideoPsalm dan pencarian dengan kata kunci dapat menjadi lebih lambat.
+
+Ingat bahwa Anda dapat setiap saat menghapus buku lagu atau Alkitab dari VideoPsalm. Untuk melakukannya, gunakan tombol \"Hapus <image=delete2_16>\" di tab \"Edit\"."},{
+Key:1006096,Text:"&Riwayat perubahan untuk \"{0}\"."},{
+Key:1006100,Text:"Buku lagu perpustakaan online VideoPsalm (daftar yang berisi ribuan lagu)"},{
+Key:1006105,Text:"Lagu EasySlides"},{
+Key:1006110,Text:"Lagu MediaShout"},{
+Key:1006115,Text:"Lagu OpenLP"},{
+Key:1006116,Text:"Lagu VerseView"},{
+Key:1006120,Text:"Lagu dalam format \"OpenLyrics\"."},{
+Key:1006125,Text:"Lagu OpenSong"},{
+Key:1006130,Text:"Buku lagu Psalmo"},{
+Key:1006131,Text:"Buku lagu dalam format teks"},{
+Key:1006132,Text:"Lagu EasyWorship 2009"},{
+Key:1006133,Text:"Lagu dalam format \"ChordPro\""},{
+Key:1006134,Text:"Lagu WebAsaph"},{
+Key:1006135,Text:"Lagu-lagu dalam format «CCLI."},{
+Key:1006140,Text:"Alkitab perpustakaan online VideoPsalm (daftar yang berisi lusinan Alkitab)"},{
+Key:1006145,Text:"Alkitab BibleDatabase"},{
+Key:1006150,Text:"Alkitab OpenLP"},{
+Key:1006155,Text:"Alkitab OpenSong"},{
+Key:1006160,Text:"Alkitab Unbound Bible"},{
+Key:1006165,Text:"Alkitab Zefania"},{
+Key:1006166,Text:"Alkitab EasySlides"},{
+Key:1006167,Text:"Alkitab dalam format \"Osis\"."},{
+Key:1006168,Text:"Alkitab dalam buku-buku «USFM» format (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Pilih buku lagu perpustakaan online VideoPsalm yang ingin Anda ingin impor ke dalam VideoPsalm"},{
+Key:1006185,Text:"Pilih database EasySlides yang berisi lagu yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .mdb)"},{
+Key:1006190,Text:"Pilih database MediaShout yang berisi lagu yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .mdb)"},{
+Key:1006195,Text:"Pilih file yang berisi lagu OpenLP yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .sqlite)"},{
+Key:1006196,Text:"Pilih database VerseView yang berisi lagu yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .db)"},{
+Key:1006200,Text:"Pilih folder yang berisi lagu dalam format \"OpenLyrics\" yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .xml)"},{
+Key:1006205,Text:"Pilih folder yang berisi lagu OpenSong yang ingin Anda impor ke dalam VideoPsalm (file tanpa ekstensi)"},{
+Key:1006210,Text:"Pilih buku lagu hasil ekspor dari Psalmo dalam format RTF yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .rtf)"},{
+Key:1006211,Text:"Pilih buku lagu dalam format teks yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .txt)"},{
+Key:1006212,Text:"Pilih database EasyWorship 2009 yang berisi lagu yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .db)"},{
+Key:1006213,Text:"Pilih folder yang berisi lagu ChordPro yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .chordpro, .chopro, .crd, atau .cho)"},{
+Key:1006214,Text:"Pilih database WebAsaph yang berisi lagu yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .ltc)"},{
+Key:1006215,Text:"Pilih folder yang berisi lagu-lagu dalam format CCLI untuk mengimpor ke VideoPsalm Anda (ekstensi .usr file)"},{
+Key:1006220,Text:"Pilih Alkitab perpustakaan online VideoPsalm yang ingin Anda impor ke dalam VideoPsalm"},{
+Key:1006225,Text:"Pilih Alkitab BibleDatabase yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .txt)"},{
+Key:1006230,Text:"Pilih Alkitab OpenLP yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .sqlite)"},{
+Key:1006235,Text:"Pilih Alkitab OpenSong yang ingin Anda impor ke dalam VideoPsalm (file tanpa ekstensi)"},{
+Key:1006240,Text:"Pilih Alkitab Unbound Bible yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .txt)"},{
+Key:1006245,Text:"Pilih Alkitab Zefania Bible yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .xml)"},{
+Key:1006247,Text:"Pilih Alkitab EasySlides yang ingin Anda impor ke dalam VideoPsalm (ekstensi file .mdb)"},{
+Key:1006248,Text:"Pilih sebuah Alkitab dalam format \"Osis\" untuk mengimpor ke VideoPsalm Anda (ekstensi .xml, .osi atau .osis file)"},{
+Key:1006249,Text:"Pilih buku-buku Alkitab \"USFM\" format untuk mengimpor ke VideoPsalm Anda (ekstensi .sfm atau .usfm file)"},{
+Key:1006252,Text:"Pilih bahasa perpustakaan online VideoPsalm yang ingin Anda impor ke dalam VideoPsalm"},{
+Key:1006255,Text:"Impor <b>{0} buku lagu dari perpustakaan online VideoPsalm</b>:
+{1}"},{
+Key:1006260,Text:"Impor <b>lagu EasySlides</b>"},{
+Key:1006265,Text:"Impor <b>lagu MediaShout</b>"},{
+Key:1006270,Text:"Impor <b>lagu OpenLP</b>"},{
+Key:1006271,Text:"Impor <b>lagu VerseView</b>"},{
+Key:1006275,Text:"Impor <b>lagu dalam format \"OpenLyrics\"</b>"},{
+Key:1006280,Text:"Impor <b>lagu OpenSong</b>"},{
+Key:1006285,Text:"Impor <b>buku lagu Psalmo</b>"},{
+Key:1006286,Text:"Impor <b>buku lagu dalam format teks</b>"},{
+Key:1006287,Text:"Impor <b>lagu EasyWorship 2009</b>"},{
+Key:1006288,Text:"Impor <b>lagu dalam format ChordPro</b>"},{
+Key:1006289,Text:"Impor <b>lagu WebAsaph</b>"},{
+Key:1006290,Text:"Impor <b>format CCLI lagu</b>"},{
+Key:1006295,Text:"Impor <b>{0} Alkitab dari perpustakaan online VideoPsalm</b>:
+{1}"},{
+Key:1006300,Text:"Impor <b>Alkitab BibleDatabase</b>"},{
+Key:1006305,Text:"Impor <b>Alkitab OpenLP</b>"},{
+Key:1006310,Text:"Impor <b>Alkitab OpenSong</b>"},{
+Key:1006315,Text:"Impor <b>Alkitab Unbound Bible</b>"},{
+Key:1006320,Text:"Impor <b>Alkitab Zefania</b>"},{
+Key:1006321,Text:"Impor <b>Alkitab EasySlides</b>"},{
+Key:1006322,Text:"Impor <b>Alkitab dalam format \"Osis\"</b>"},{
+Key:1006323,Text:"Impor <b>Alkitab dalam format «USFM»</b>"},{
+Key:1006325,Text:"Impor <b>{0} bahasa dari perpustakaan online VideoPsalm</b>:
+{1}"},{
+Key:1006340,Text:"Pilih database EasySlide"},{
+Key:1006345,Text:"Pilih database MediaShout"},{
+Key:1006350,Text:"Pilih database OpenLP"},{
+Key:1006351,Text:"Pilih database VerseView"},{
+Key:1006355,Text:"Pilih folder yang berisi lagu OpenLyrics."},{
+Key:1006360,Text:"Pilih folder yang berisi lagu OpenSong"},{
+Key:1006365,Text:"Pilih salah satu file RTF yang berisi lagu yang diekspor dari Psalmo"},{
+Key:1006366,Text:"Pilih file yang berisi lagu dalam format teks"},{
+Key:1006367,Text:"Pilih database EasyWorship 2009"},{
+Key:1006368,Text:"Pilih folder yang berisi lagu dalam format \"ChordPro\""},{
+Key:1006369,Text:"Pilih database WebAsaph"},{
+Key:1006370,Text:"Pilih folder yang berisi lagu-lagu dalam format «CCLI."},{
+Key:1006375,Text:"Pilih Alkitab BibleDatabase"},{
+Key:1006380,Text:"Pilih Alkitab OpenLP"},{
+Key:1006385,Text:"Pilih Alkitab OpenSong"},{
+Key:1006390,Text:"Pilih Alkitab Unbound Bible"},{
+Key:1006395,Text:"Pilih Alkitab Zefania"},{
+Key:1006397,Text:"Pilih Alkitab EasySlides"},{
+Key:1006398,Text:"Pilih sebuah Alkitab dalam format \"Osis\"."},{
+Key:1006399,Text:"Pilih buku-buku Alkitab dalam format \"USFM."},{
+Key:1006405,Text:"Database EasySlide"},{
+Key:1006410,Text:"Database MediaShout 4"},{
+Key:1006411,Text:"Database MediaShout 3"},{
+Key:1006415,Text:"Database lagu OpenLP"},{
+Key:1006416,Text:"Database EasyWorship 2009"},{
+Key:1006417,Text:"Database VerseView"},{
+Key:1006420,Text:"Folder \"{0}\" 
+tidak berisi lagu dalam format  \"OpenLyrics\" (ekstensi file .xml)."},{
+Key:1006425,Text:"Folder \"{0}\".
+tidak berisi lagu OpenSong (lagu OpenSong adalah berupa file tanpa ekstensi)."},{
+Key:1006430,Text:"Lagu yang diekspor dari Psalmo"},{
+Key:1006431,Text:"Lagu dalam format teks"},{
+Key:1006432,Text:"Folder \"{0}\"
+tidak berisi lagu dalam format \"ChordPro\" » (ekstensi file .chordpro, .chopro, .crd, atau .cho)."},{
+Key:1006433,Text:"Database WebAsaph"},{
+Key:1006434,Text:"Folder '{0}'.
+berisi tidak lagu dalam format «CCLI» (.usr ekstensi)."},{
+Key:1006440,Text:"Alkitab BibleDatabase"},{
+Key:1006445,Text:"Alkitab OpenLP"},{
+Key:1006450,Text:"Alkitab OpenSong"},{
+Key:1006455,Text:"Alkitab Unbound Bible"},{
+Key:1006460,Text:"Alkitab Zefania"},{
+Key:1006462,Text:"Alkitab EasySlides"},{
+Key:1006463,Text:"Alkitab dalam format \"Osis\"."},{
+Key:1006464,Text:"Buku-buku Alkitab dalam format \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"KJV"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Aku mengasihi Tuhan 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"My Songs.txt"},{
+Key:1006508,Text:"KJV.MDB"},{
+Key:1006509,Text:"Aku mengasihi Tuhan"},{
+Key:1006510,Text:"Database MSAccess"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Semua file"},{
+Key:1006520,Text:"Database SQLite"},{
+Key:1006525,Text:"Database Paradoks"},{
+Key:1006526,Text:"Database WebAsaph"},{
+Key:1006600,Text:"Memilih perpustakaan online VideoPsalm atau sumber lain"},{
+Key:1006601,Text:"Perpustakaan online VideoPsalm berisi banyak koleksi dalam beberapa bahasa"},{
+Key:1006602,Text:"Perpustakaan (koneksi internet diperlukan selama impor) online VideoPsalm"},{
+Key:1006603,Text:"Lagu-lagu di populer, impor pada format hard disk Anda"},{
+Key:1006604,Text:"Memilih perpustakaan online VideoPsalm atau sumber lain"},{
+Key:1006605,Text:"Perpustakaan online VideoPsalm berisi banyak terjemahan Alkitab dalam bahasa yang berbeda"},{
+Key:1006606,Text:"Perpustakaan (koneksi internet diperlukan selama impor) online VideoPsalm"},{
+Key:1006607,Text:"Alkitab yang populer, impor pada format hard disk Anda"},{
+Key:1006608,Text:"Apakah sumber format lagu Anda?"},{
+Key:1006609,Text:"Apa adalah format yang sumber Alkitab?"},{
+Key:1006610,Text:"Anda dapat mengimpor ke VideoPsalm Anda Alkitab dalam format populer disimpan pada PC Anda"},{
+Key:1006611,Text:"Anda dapat mengimpor ke VideoPsalm Anda dalam format populer lagu disimpan pada PC Anda"},{
+Key:1007000,Text:"Backup"},{
+Key:1007001,Text:"Apakah Anda ingin memulai backup dari VideoPsalm dalam folder
+\"{0}\" ?"},{
+Key:1007004,Text:"Tidak dapat melakukan backup dalam folder yang dipilih,
+karena letaknya di folder dokumen VideoPsalm yang aktif
+({0})."},{
+Key:1007005,Text:"Sisa kapasitas drive {0} kurang.
+Sisa kapasitas yang diperlukan {1: #, # #} MB, dan hanya ada {2: #, # #} MB yang tersedia."},{
+Key:1007006,Text:"Tidak dapat menyelesaikan backup:
+
+{0}"},{
+Key:1007007,Text:"Tidak dapat mengunduh Microsoft.NET Framework 4.0:
+
+{0}
+
+Ini mungkin karena tidak adanya koneksi Internet.
+Backup akan dilanjutkan,
+tetapi Anda tidak akan dapat menginstal Microsoft.NET Framework 4.0 dari backup."},{
+Key:1007008,Text:"{0} tidak tersedia"},{
+Key:1007009,Text:"Pengingat: Backup tidak bisa menyalin
+setup Microsoft.NET Framework 4.0."},{
+Key:1007010,Text:"Backup berhasil."},{
+Key:1007011,Text:"Apakah Anda ingin membatalkan backup?"},{
+Key:1007030,Text:"Pilih folder atau buat folder baru untuk menempatkan backup baru dari VideoPsalm"},{
+Key:1007031,Text:"Backup menyalin dokumen (buku lagu, Alkitab, Gambar, video, format) ke lokasi yang Anda tentukan, misalnya:
+- USB stick
+- hard drive eksternal,
+- folder jaringan,
+- dll.
+
+<b>Fungsi utama backup:</b>
+- mengamankan dokumen Anda dengan menggandakan mereka ke tempat yang aman,
+- membuat VideoPsalm versi portabel, misalnya di USB stick,
+- dengan mudah memindahkan dokumen Anda ke komputer lain menggunakan fungsi pemulihan,
+- menggandakan dokumen Anda untuk beberapa konfigurasi buku lagu dengan format masing-masing di komputer yang sama.
+
+<b>Catatan:</b> Untuk mensinkronisasi dokumen VideoPsalm antara beberapa komputer, Anda dapat memilih layanan sinkronisasi yang lebih khusus seperti SkyDrive atau DropBox."},{
+Key:1007032,Text:"Pilih dokumen yang ingin Anda backup:"},{
+Key:1007033,Text:"&Buku lagu"},{
+Key:1007034,Text:"Alkita&b"},{
+Key:1007035,Text:"&Gambar"},{
+Key:1007036,Text:"&Video"},{
+Key:1007037,Text:"&Simpan dokumen Anda di:"},{
+Key:1007038,Text:"Masukkan folder di mana Anda menyimpan dokumen VideoPsalm di sini.
+
+Contoh: \"E:\\Backup VideoPsalm saya\"
+
+Jika belum ada, folder tersebut akan dibuat secara otomatis selama proses backup."},{
+Key:1007039,Text:"&Buat aplikasi VideoPsalm portabel"},{
+Key:1007040,Text:"Menambahkan semua file yang dapat dijalankan yang diperlukan untuk pengoperasian VideoPsalm ke folder backup.
+
+Umumnya, Anda lebih baik membuat aplikasi VideoPsalm portabel di USB stick.
+
+Backup portabel memungkinkan Anda menjalankan VideoPsalm di komputer mana saja, langsung dari USB stick, tanpa perlu menginstal VideoPsalm.
+
+Dengan menjalankan VideoPsalm dari USB stick, Anda akan memiliki akses ke semua fungsi dari VideoPsalm, termasuk backup. Ini memungkinkan Anda untuk mem-backup VideoPsalm ke hard drive komputer lain, sehingga dapat dijalankan di situ tanpa USB stick.
+
+<b>Penting</b>
+Opsi VideoPsalm Anda tidak ditambahkan ke backup.
+Saat pertama kali menjalankan VideoPsalm di sebuah komputer, Anda mungkin perlu menyesuaikan opsi VideoPsalm, misalnya, lisensi untuk Gereja."},{
+Key:1007041,Text:"T&ambahkan Microsoft.NET Framework 4.0 Setup"},{
+Key:1007042,Text:"Agar bisa dijalankan, VideoPsalm memerlukan .NET Framework 4.0 dari Microsoft. Komputer baru umumnya sudah memiliki .NET Framework versi 4.0 atau lebih tinggi. Jika Anda tidak yakin bahwa .NET Framework 4.0 sudah ada di komputer lainnya, centang kotak \"Tambahkan .NET Framework 4.0 Setup\". VideoPsalm kemudian akan menempatkan salinan .NET Framework 4.0 setup di USB stick (koneksi internet mungkin diperlukan untuk ini).
+
+Dari USB stick, Anda dapat dengan mudah menginstal .NET Framework 4.0 pada komputer tersebut sebelum memulai VideoPsalm. Instalasi .NET Framework 4.0 sangat cepat dan biasanya tidak memerlukan restart Windows.
+
+Anda dapat menemukan file instalasi .NET Framework 4.0 file dalam folder backup. File ini dinamai \"dotNetFx40_Full_x86_x64.exe. Untuk memulai instalasi .NET Framework 4.0 di komputer tersebut, klik dua kali file ini."},{
+Key:1007043,Text:"&Mulai backup"},{
+Key:1007044,Text:"Unduh Microsoft .NET Framework 4.0"},{
+Key:1007045,Text:"Folder dokumen &VideoPsalm (folder yang akan disimpan):"},{
+Key:1007046,Text:"Biarkan buku lagu yang ada di folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007047,Text:"Hapus buku lagu yang ditemukan folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007048,Text:"Jangan hapus Alkitab yang ada di folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007049,Text:"Hapus Alkitab yang ada di folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007050,Text:"Jangan hapus gambar yang ada di folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007051,Text:"Hapus gambar yang ada di folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007052,Text:"Jangan hapus video yang ada di folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007053,Text:"Hapus video yang ada di folder yang ditentukan sebelum mem-backup milik saya"},{
+Key:1007054,Text:"Pilih atau buat folder untuk menempatkan backup  VideoPsalm"},{
+Key:1007055,Text:"Memungkinkan audio dari folder yang ditetapkan sebelum adalah menyelamatkan saya"},{
+Key:1007056,Text:"Menghapus audio dari folder yang ditetapkan sebelum adalah menyelamatkan saya"},{
+Key:1007057,Text:"&Audio"},{
+Key:1008000,Text:"Pulihkan backup"},{
+Key:1008001,Text:"Apakah Anda ingin memulihkan backup VideoPsalm dari folder
+\"{0}\" ?
+
+Perhatian: Tergantung dari opsi yang Anda pilih, dokumen saat ini akan diganti atau dihapus."},{
+Key:1008002,Text:"Harap masukkan folder backup yang akan dipulihkan."},{
+Key:1008004,Text:"Tidak dapat memulihkan backup dari folder yang Anda pilih, karena terletak di folder dokumen VideoPsalm yang dipakai saat ini."},{
+Key:1008006,Text:"Tidak dapat menyelesaikan pemulihan:
+
+{0}"},{
+Key:1008010,Text:"Pemulihan berhasil."},{
+Key:1008011,Text:"Apakah Anda ingin membatalkan pemulihan?"},{
+Key:1008012,Text:"Pulihkan backup"},{
+Key:1008032,Text:"Pilih dokumen yang ingin Anda ingin pulihkan:"},{
+Key:1008033,Text:"&Buku lagu"},{
+Key:1008034,Text:"Alkita&b"},{
+Key:1008035,Text:"&Gambar"},{
+Key:1008036,Text:"&Video"},{
+Key:1008043,Text:"&Pulihkan"},{
+Key:1008044,Text:"Biarkan buku lagu saya sebelum memulihkan dari backup"},{
+Key:1008045,Text:"Hapus buku lagu saya sebelum memulihkan dari backup"},{
+Key:1008046,Text:"Biarkan saya Alkitab sebelum memulihkan dari backup"},{
+Key:1008047,Text:"Hapus Alkitab saya sebelum memulihkan dari backup"},{
+Key:1008048,Text:"Biarkan gambar saya sebelum memulihkan dari backup"},{
+Key:1008049,Text:"Hapus gambar saya sebelum memulihkan dari backup"},{
+Key:1008050,Text:"Biarkan video saya sebelum memulihkan dari backup"},{
+Key:1008051,Text:"Hapus video saya sebelum memulihkan dari backup"},{
+Key:1008052,Text:"Pulihkan backup da&ri:"},{
+Key:1008053,Text:"Tentukan folder sumber dokumen VideoPsalm yang akan dipulihkan.
+
+Contoh: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"Folder dokumen &VideoPsalm (folder tempat backup akan dipulihkan):"},{
+Key:1008055,Text:"Muat ulang"},{
+Key:1008056,Text:"Pilih folder yang berisi backup VideoPsalm"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Biarkan saya audio sebelum memulihkan dari cadangan"},{
+Key:1008059,Text:"Menghapus audio saya sebelum memulihkan dari cadangan"},{
+Key:1008999,Text:"Proyektor video"},{
+Key:1009000,Text:"lagu"},{
+Key:1009001,Text:"{0} lagu"},{
+Key:1009002,Text:"daftar ayat Alkitab"},{
+Key:1009003,Text:"{0} daftar ayat Alkitab"},{
+Key:1009004,Text:"gambar"},{
+Key:1009005,Text:"{0} gambar"},{
+Key:1009006,Text:"Alkitab \"{0}\"."},{
+Key:1009007,Text:"Pasal {0}"},{
+Key:1009009,Text:"{0} Alkitab"},{
+Key:1009010,Text:"Gambar \"{0}\"."},{
+Key:1009011,Text:"{0} ({1} gambar)"},{
+Key:1009012,Text:"{0} gambar"},{
+Key:1009013,Text:"{0} ({1} slide)"},{
+Key:1009014,Text:"{0} PowerPoint"},{
+Key:1009015,Text:"Memuat format default"},{
+Key:1009016,Text:"Memuat format buku lagu"},{
+Key:1009017,Text:"Memuat buku lagu \"{0}\"."},{
+Key:1009018,Text:"Memuat format Alkitab"},{
+Key:1009019,Text:"Memuat Alkitab \"{0}\"."},{
+Key:1009020,Text:"Berkas: {0}"},{
+Key:1009100,Text:"{0} ({1} lagu)"},{
+Key:1009101,Text:"{0} (hanya satu lagu)"},{
+Key:1009102,Text:"{0} (tidak ada lagu)"},{
+Key:1009103,Text:"Sudah ada file \"{0}\".
+di lokasi di mana VideoPsalm akan menyimpan buku lagu baru \"{1}\".
+
+Buku lagu baru ini tidak bisa disimpan.
+Berikan singkatan atau nama yang unik untuk buku lagu baru ini dan coba simpan lagi."},{
+Key:1009104,Text:"Gagal menyimpan"},{
+Key:1009105,Text:"Tidak dapat memindahkan file
+{0}
+ke
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} buku lagu"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} ayat Alkitab)"},{
+Key:1009111,Text:"video \"{0}\"."},{
+Key:1009112,Text:"{0} ({1} video)"},{
+Key:1009113,Text:"{0} video "},{
+Key:1009114,Text:"Tidak dapat menyimpan laporan.
+Namai buku lagu untuk menyimpannya."},{
+Key:1010000,Text:"Tampilkan lebih banyak warna"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Tutup"},{
+Key:1010003,Text:"&Transparan"},{
+Key:1010004,Text:"Batal"},{
+Key:1010005,Text:"Oke"},{
+Key:1010006,Text:"Tampilkan lebih sedikit warna"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"G"},{
+Key:1010010,Text:"B"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Tutup tanpa memasukkan bidang"},{
+Key:1011001,Text:"Singkatan dari buku lagu"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Pengarang lagu"},{
+Key:1011004,Text:"Pengarang buku lagu"},{
+Key:1011005,Text:"Capo"},{
+Key:1011006,Text:"Kunci"},{
+Key:1011007,Text:"Komposer"},{
+Key:1011008,Text:"Hak cipta lagu"},{
+Key:1011009,Text:"Hak cipta buku lagu"},{
+Key:1011010,Text:"Label bait"},{
+Key:1011011,Text:"Label dan nomor bait"},{
+Key:1011012,Text:"Format"},{
+Key:1011013,Text:"Lisensi Gereja"},{
+Key:1011014,Text:"Baris kunci"},{
+Key:1011015,Text:"Memo 1"},{
+Key:1011016,Text:"Memo 2"},{
+Key:1011017,Text:"Memo 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Posisi bait"},{
+Key:1011020,Text:"Nomor bait"},{
+Key:1011021,Text:"Nomor lagu"},{
+Key:1011022,Text:"Catatan bait"},{
+Key:1011023,Text:"Jumlah lagu di buku lagu"},{
+Key:1011024,Text:"Jumlah bait"},{
+Key:1011025,Text:"Referensi"},{
+Key:1011026,Text:"Urutan bait"},{
+Key:1011027,Text:"Tanda tangan"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Judul lagu"},{
+Key:1011031,Text:"Judul buku lagu"},{
+Key:1011032,Text:"Nada"},{
+Key:1011033,Text:"3. Hapus semua bidang"},{
+Key:1011034,Text:"2. Gunakan bidang standar"},{
+Key:1011035,Text:"Administrator"},{
+Key:1011036,Text:"Bahasa"},{
+Key:1011037,Text:"Penerbit"},{
+Key:1011038,Text:"Transposisi"},{
+Key:1011101,Text:"Singkatan Alkitab"},{
+Key:1011102,Text:"Singkatan kitab"},{
+Key:1011103,Text:"Pasal"},{
+Key:1011104,Text:"Hak cipta Alkitab"},{
+Key:1011105,Text:"Deskripsi Alkitab"},{
+Key:1011107,Text:"Penerbit"},{
+Key:1011108,Text:"Bahasa"},{
+Key:1011109,Text:"Nama Alkitab"},{
+Key:1011110,Text:"Nama kitab"},{
+Key:1011111,Text:"Jumlah pasal dari kitab"},{
+Key:1011112,Text:"Nomor ayat pasal"},{
+Key:1011113,Text:"Perjanjian"},{
+Key:1011114,Text:"Ayat"},{
+Key:1011115,Text:"Administrator Alkitab"},{
+Key:1011200,Text:"Masukkan b&idang:"},{
+Key:1011201,Text:"Format teks yang ditampilkan di header atau footer ayat"},{
+Key:1011202,Text:"Masukkan format teks yang untuk ditampilkan di sini.
+Teks ini bebas dan umumnya terdiri dari serangkaian bidang standar.
+
+Contoh bidang standar untuk lagu:
+- judul lagu: <b>[lagu]</b>
+- nomor lagu: <b>[nomor lagu]</b>
+- judul buku lagu: <b>[judul buku lagu]</b>
+- singkatan dari buku lagu: <b>[singkatan dari buku lagu]</b>
+- dll.
+
+Untuk ayat:
+- nama kitab: <b>[Nama kitab]</b>
+- pasal: <b>[Pasal]</b>
+- ayat: <b>[Ayat]</b>
+- referensi lengkap:
+  <b>[Nama kitab] [Pasal]:[Ayat]</b>
+- nama Alkitab: <b>[nama Alkitab]</b>
+- dll.
+
+Pada saat penayangan, VideoPsalm mengganti bidang standar dengan nilai masing-masing. 
+
+Bidang standar harus ditutup dengan tanda kurung siku <b>[]</b>, tidak boleh salah, dan benar penulisan huruf besar atau kecilnya.
+
+<b>Untuk dengan mudah memasukkan bidang standar, gunakan daftar bergulir di bawah yang berjudul \"Masukkan bidang\".</b>
+
+Format dapat terdiri dari beberapa baris.
+
+Untuk mengembalikan nilai asli format, hapus semuanya (tekan Ctrl + A, Delete)."},{
+Key:1011203,Text:"Daftar bidang standar"},{
+Key:1011204,Text:"Untuk memasukkan bidang standar, pilih dalam daftar.
+
+Bidang akan secara otomatis dimasukkan dalam teks di atas, tepat pada titik penyisipan."},{
+Key:1012000,Text:"File \"{0}\" sudah ada.
+
+Apakah Anda ingin menimpanya?"},{
+Key:1012001,Text:"File yang ada"},{
+Key:1013000,Text:"Sembunyikan pratinjau video"},{
+Key:1013001,Text:"Tampilkan pratinjau video"},{
+Key:1013002,Text:"Perbesar ukuran video secara proporsional untuk memenuhi layar"},{
+Key:1013003,Text:"Kurangi ukuran video hingga tampil seluruhnya"},{
+Key:1013004,Text:"Nonaktifkan pengulangan"},{
+Key:1013005,Text:"Aktifkan pengulangan"},{
+Key:1013006,Text:"Mulai lagi dari awal"},{
+Key:1013007,Text:"Jeda"},{
+Key:1013008,Text:"Putar"},{
+Key:1013009,Text:"Pindahkan ke akhir"},{
+Key:1013010,Text:"Suara"},{
+Key:1013011,Text:"Matikan"},{
+Key:1013012,Text:"Volume"},{
+Key:1013013,Text:"Trek"},{
+Key:1013014,Text:"Tentukan batas-batas video secara global"},{
+Key:1013015,Text:"Tentukan batas-batas video untuk setiap slide"},{
+Key:1013016,Text:"Waktu berlalu"},{
+Key:1013017,Text:"Total waktu"},{
+Key:1013018,Text:"Sisa waktu"},{
+Key:1013019,Text:"Klik untuk memindahkan ke nilai berikutnya"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"menit"},{
+Key:1018003,Text:"menit"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"waktu"},{
+Key:1018006,Text:"jam"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"hari"},{
+Key:1018009,Text:"hari"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"Minggu"},{
+Key:1018012,Text:"Minggu"},{
+Key:1018013,Text:"bulan"},{
+Key:1018014,Text:"bulan"},{
+Key:1018015,Text:"tahun"},{
+Key:1018016,Text:"tahun"},{
+Key:1019000,Text:"Tutup"},{
+Key:1019001,Text:"Kecilkan"},{
+Key:1019002,Text:"Maksimalkan"},{
+Key:1019003,Text:"Level yang lebih rendah"},{
+Key:1019004,Text:"Bantuan"},{
+Key:1019100,Text:"&Cari"},{
+Key:1019101,Text:"&Hapus"},{
+Key:1019301,Text:"&Oke"},{
+Key:1019302,Text:"&Batal"},{
+Key:1019303,Text:"&Ya"},{
+Key:1019304,Text:"&Tidak"},{
+Key:1019305,Text:"B&atal"},{
+Key:1019306,Text:"&Coba lagi"},{
+Key:1019307,Text:"Aba&ikan"},{
+Key:1019308,Text:"&Urungkan"},{
+Key:1019309,Text:"&Potong"},{
+Key:1019310,Text:"&Salin"},{
+Key:1019311,Text:"Sisi&pkan"},{
+Key:1019312,Text:"&Hapus"},{
+Key:1019313,Text:"Pilih &semua"},{
+Key:1020000,Text:"Kejadian"},{
+Key:1020001,Text:"Keluaran"},{
+Key:1020002,Text:"Imamat"},{
+Key:1020003,Text:"Bilangan"},{
+Key:1020004,Text:"Ulangan"},{
+Key:1020005,Text:"Yosua"},{
+Key:1020006,Text:"Hakim"},{
+Key:1020007,Text:"Rut"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Raja-raja"},{
+Key:1020011,Text:"2 Raja-raja"},{
+Key:1020012,Text:"1 Tawarikh"},{
+Key:1020013,Text:"2 Tawarikh"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemia"},{
+Key:1020016,Text:"Ester"},{
+Key:1020017,Text:"Ayub"},{
+Key:1020018,Text:"Mazmur"},{
+Key:1020019,Text:"Amsal"},{
+Key:1020020,Text:"Pengkhotbah"},{
+Key:1020021,Text:"Kidung Agung"},{
+Key:1020022,Text:"Yesaya"},{
+Key:1020023,Text:"Yeremia"},{
+Key:1020024,Text:"Ratapan"},{
+Key:1020025,Text:"Yehezkiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Yoel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obaja"},{
+Key:1020031,Text:"Yunus"},{
+Key:1020032,Text:"Mikha"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakuk"},{
+Key:1020035,Text:"Zefanya"},{
+Key:1020036,Text:"Hagai"},{
+Key:1020037,Text:"Zakharia"},{
+Key:1020038,Text:"Maleakhi"},{
+Key:1020039,Text:"Matius"},{
+Key:1020040,Text:"Markus"},{
+Key:1020041,Text:"Lukas"},{
+Key:1020042,Text:"Yohanes"},{
+Key:1020043,Text:"Kisah Para Rasul"},{
+Key:1020044,Text:"Roma"},{
+Key:1020045,Text:"1 Korintus"},{
+Key:1020046,Text:"2 Korintus"},{
+Key:1020047,Text:"Galatia"},{
+Key:1020048,Text:"Efesus"},{
+Key:1020049,Text:"Filipi"},{
+Key:1020050,Text:"Kolose"},{
+Key:1020051,Text:"1 Tesalonika"},{
+Key:1020052,Text:"2 Tesalonika"},{
+Key:1020053,Text:"1 Timotius"},{
+Key:1020054,Text:"2 Timotius"},{
+Key:1020055,Text:"Titus"},{
+Key:1020056,Text:"Filemon"},{
+Key:1020057,Text:"Ibrani"},{
+Key:1020058,Text:"Yakobus"},{
+Key:1020059,Text:"1 Petrus"},{
+Key:1020060,Text:"2 Petrus"},{
+Key:1020061,Text:"1 Yohanes"},{
+Key:1020062,Text:"2 Yohanes"},{
+Key:1020063,Text:"3 Yohanes"},{
+Key:1020064,Text:"Yudas"},{
+Key:1020065,Text:"Wahyu"},{
+Key:1020100,Text:"Kej"},{
+Key:1020101,Text:"Kel"},{
+Key:1020102,Text:"Im"},{
+Key:1020103,Text:"Bil"},{
+Key:1020104,Text:"Ul"},{
+Key:1020105,Text:"Yos"},{
+Key:1020106,Text:"Hak"},{
+Key:1020107,Text:"Rut"},{
+Key:1020108,Text:"1 Sam"},{
+Key:1020109,Text:"2 Sam"},{
+Key:1020110,Text:"1 Raj"},{
+Key:1020111,Text:"2 Raj"},{
+Key:1020112,Text:"1 Taw"},{
+Key:1020113,Text:"2 Taw"},{
+Key:1020114,Text:"Ezr"},{
+Key:1020115,Text:"Neh"},{
+Key:1020116,Text:"Est"},{
+Key:1020117,Text:"Ayb"},{
+Key:1020118,Text:"Maz"},{
+Key:1020119,Text:"Ams"},{
+Key:1020120,Text:"Pkh"},{
+Key:1020121,Text:"Kid"},{
+Key:1020122,Text:"Yes"},{
+Key:1020123,Text:"Yer"},{
+Key:1020124,Text:"Rat"},{
+Key:1020125,Text:"Yeh"},{
+Key:1020126,Text:"Dan"},{
+Key:1020127,Text:"Hos"},{
+Key:1020128,Text:"Yl"},{
+Key:1020129,Text:"Am"},{
+Key:1020130,Text:"Ob"},{
+Key:1020131,Text:"Yun"},{
+Key:1020132,Text:"Mi"},{
+Key:1020133,Text:"Nah"},{
+Key:1020134,Text:"Hab"},{
+Key:1020135,Text:"Zef"},{
+Key:1020136,Text:"Hag"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Mal"},{
+Key:1020139,Text:"Mat"},{
+Key:1020140,Text:"Mar"},{
+Key:1020141,Text:"Luk"},{
+Key:1020142,Text:"Yoh"},{
+Key:1020143,Text:"Kis"},{
+Key:1020144,Text:"Rom"},{
+Key:1020145,Text:"1 Kor"},{
+Key:1020146,Text:"2 Kor"},{
+Key:1020147,Text:"Gal"},{
+Key:1020148,Text:"Ef"},{
+Key:1020149,Text:"Flp"},{
+Key:1020150,Text:"Kol"},{
+Key:1020151,Text:"1 Tes"},{
+Key:1020152,Text:"2 Tes"},{
+Key:1020153,Text:"1 Tim"},{
+Key:1020154,Text:"2 Tim"},{
+Key:1020155,Text:"Tit"},{
+Key:1020156,Text:"Flm"},{
+Key:1020157,Text:"Ibr"},{
+Key:1020158,Text:"Yak"},{
+Key:1020159,Text:"1 Ptr"},{
+Key:1020160,Text:"2 Ptr"},{
+Key:1020161,Text:"1 Yoh"},{
+Key:1020162,Text:"2 Yoh"},{
+Key:1020163,Text:"3 Yoh"},{
+Key:1020164,Text:"Yud"},{
+Key:1020165,Text:"Why"}]}

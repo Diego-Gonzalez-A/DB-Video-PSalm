@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Créole (Haïti)"},{
+Key:1000000,Text:"Tradiksyon"},{
+Key:1000001,Text:"Non."},{
+Key:1000003,Text:"&Ajoute..."},{
+Key:1000004,Text:"Ajoute youn oubyen plis lang VideoPsalm"},{
+Key:1000006,Text:"&Voye"},{
+Key:1000007,Text:"Yo voye étiquettes yo pa kouryèll pou VideoPsalm nan du kap vini an"},{
+Key:1000009,Text:"&Aplike"},{
+Key:1000011,Text:"&Mete sou kote"},{
+Key:1000012,Text:"Aplike lang te chwazi nan VideoPsalm. Chanjman sere otomatikman nan avanse."},{
+Key:1000013,Text:"Mete sou kote chanjman pou étiquettes"},{
+Key:1000015,Text:"&Retire"},{
+Key:1000016,Text:"VideoPsalm retire sélectionné lang ak tout étiquettes li"},{
+Key:1000022,Text:"&{0} en:"},{
+Key:1000024,Text:"&Lang:"},{
+Key:1000029,Text:"Dosye étiquettes"},{
+Key:1000030,Text:"Étiquettes ou chanje.
+
+Vle pou mete sou kote sa chanjman sa yo?"},{
+Key:1000031,Text:"Retire yon lang"},{
+Key:1000032,Text:"Èske ou vle li toutbon pou retire {0} lang VideoPsalm?
+
+Operasyon sa a ap efase tout textes de lang sa a e ki pa ka chanje."},{
+Key:1000035,Text:"VideoPsalm an ap vin jwenn kreye compressés sispann ak .zip ekstansyon
+contenant étiquettes nan lang respectifs yo.
+Joindre dokiman apwopriye an pou kouryèll a ke pops, puis pas kouryèll sa a pou videopsalm@gmail.com."},{
+Key:1000036,Text:"Voye étiquettes kouryèll"},{
+Key:1000037,Text:"<b>Nan fenèt la tradiksyon' sa a, ou kapab edite textes ki parèt nan fòmilè VideoPsalm.</b>
+Sa pèmèt ou tradwi adapte ou pase men sou tout tèks Entèfas de VideoPsalm, nan VideoPsalm menm.
+
+<i>Si composant sa a delivre espas twòp, redwi li klike sou sou zafè pou diminye ti bouton se sou bò gòch anwo, ou redimensionner sourit ak séparateur kouche plat la.</i>
+
+VideoPsalm te founi nan plizyè lang. VideoPsalm lang make nan Panel lan pi ba pase pou gòch rele 'lang'.
+Si lang ou pa parèt nan lis sa a, ou kapab tradwi isit la, VideoPsalm nan lang ou. Note ke sa pwal pwobableman anpil tan nan travay.
+
+Isit la se kòman pou VideoPsalm nan lang ou.
+
+-Ajoute lang ou pou lis pa sélection nan mitan tout moun ou ap jwenn via la bouton \"ajoute <image=add2_16>\".
+-Nan tab la sou bò dwat, VideoPsalm affiche étiquettes lang retiré.
+-Tradwi étiquettes nan lang ou.
+
+Nan tab la, ou kapab edite étiquettes yo nan lwazi ou, tankou yon tableur Excel.
+Tab la ofri yon bwat recherche. Konsa, pou montre sèlman étiquettes ki gen pawòl espesifik, gwoup tout pawòl sa nan bwat la recherche Et puis cliquez sou a bouton \"recherche\".
+Ou ka sèvi tou ak zòn filtre se anba lang lento chak pou filtre étiquettes de yon lang ki gen kèk pawòl espesifik.
+
+Pou ede travay ou, chwazi youn oubyen plis lòt lang ou konnen, ekri nan liv konprann pi byen sens de make chak ak pou kapab li nan plizyè lang simultanément.
+Tyeke kòmantè yo paske yo pa pèmèt pi bon konesans de siyifikasyon D' étiquettes konnen ak kote yo ap itilize.
+
+<b>Remarque:</b> Li ta pi bon pou yo kite kòmantè yo nan Anglè, paske anpil moun konprann anglè.
+
+Pou wè rezilta travay tradiksyon ou:
+-Chwazi lang ou nan du, lang yo pa Sur
+   apre
+-Klike sou a bouton 'S'' (bas).
+
+VideoPsalm Sera affichée nan lang ou menm te chwazi.
+
+Pa bliye, pou sove travay ou de tradiksyon klike sou bouton \"Enregistrer <image=disk_blue>.
+Apre sa, ou te sove yon nouvo lang, ou ka chwazi l' nan fennèt opsyon.
+
+Tanpri voye nou tradiksyon w lan oswa koreksyon kouryèll nan <b>videopsalm@gmail.com</b> klike sou bouton an \"voye <image=mail_16>\".
+Lè ou Sur bouton sa a, de sa rive!
+1. Kliyan kouryèll ou pral louvri otomatikman, pa ekzanp pespektiv.
+2. Yon Katab onn s' kote VideoPsalm te plase compressés sispann ak ekstansyon .zip ki te rele nan lang.
+
+Faites Et dokiman apwopriye an nan kouryèll a gout (n) Et pas l' lè sa a, nou ka intégrer li antre nan yon tan kap vini vèsyon de VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Kijan pou tradwi VideoPsalm nan lang ou?"},{
+Key:1000039,Text:"Nan ki VideoPsalm ke lang. Fè chwa lang ou vle pou yo ekspoze étiquettes yo nan tab la. Pou ajoute lang ou lis, Sur sou bouton 'Ajouter' a."},{
+Key:1001000,Text:"Ajoute lang"},{
+Key:1001001,Text:"&Lang:"},{
+Key:1001002,Text:"Fè chwa lang pou ajoute"},{
+Key:1001003,Text:"&Ajoute"},{
+Key:1001004,Text:"Anile"},{
+Key:1001005,Text:"Ede (F1)"},{
+Key:1002000,Text:"Chwa"},{
+Key:1002003,Text:"&Jeneral"},{
+Key:1002004,Text:"&Ekspozisyon"},{
+Key:1002005,Text:"&Videyo"},{
+Key:1002014,Text:"&Koleksyon yo"},{
+Key:1002015,Text:"&Bibles"},{
+Key:1002103,Text:"&Lang:"},{
+Key:1002105,Text:"&VideoPsalm dokiman Katab:"},{
+Key:1002106,Text:"Chwazi Katab dokiman VideoPsalm:"},{
+Key:1002112,Text:"&Nenpòt chanjman ki fèt pou Biblik dans (tèks ak kalite) nou te fè mete sou kote"},{
+Key:1002202,Text:"&Ranplase site « <size=+4>'» pa site Fwansè « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Sèvi ak lòd Fwansè typographie"},{
+Key:1002204,Text:"&Nan chante, ranplase traits pa traits insécable"},{
+Key:1002205,Text:"&Biblik dans la, nan ranplase traits pa traits insécable"},{
+Key:1002304,Text:"&Metòd rendu:"},{
+Key:1002306,Text:"Estanda"},{
+Key:1002307,Text:"Amelyore"},{
+Key:1002502,Text:"&Aplike"},{
+Key:1002503,Text:"Mete sou kote chanjman ou Et maintenir fennèt la louvri"},{
+Key:1002504,Text:"Oke"},{
+Key:1002505,Text:"Mete sou kote chanjman ou Et fèmen fennèt la"},{
+Key:1002508,Text:"Fèmen fennèt la san enregistrement chanjman ou"},{
+Key:1002510,Text:"&Lisans legliz la:"},{
+Key:1002513,Text:"Tèks opsyonèl, ochwa ke ou antre isit la kapab être otomatikman s' nan lento a ou de de plak an vit.
+
+Pa ekzanp, ou kapab spécifier isit la ki kantite lisans, CILC de legliz ou."},{
+Key:1002516,Text:"&Jaden lento a:"},{
+Key:1002517,Text:"&Tè nan subfooter a:"},{
+Key:1002531,Text:"Pou chanje klavye sa se s' VideoPsalm.
+
+Estanda polices:
+- <b>Tahoma</b> pou fennèt XP
+- <b>Segoe UI</b> pou fennèt Vista, fennèt sèt ak fennèt 8
+
+Estanda taille: 8.25"},{
+Key:1002532,Text:"Li nesesè pou rekòmanse VideoPsalm pou yon chanjman politik pou pran anndan konte entièrement."},{
+Key:1002533,Text:"Si bwat sa a Tyeke, VideoPsalm pral ranplase droit apostrophes ak yon apwostòf Fwansè ki se yon une plase nan wotè nan diapositives yo.
+
+Lè ou antre paroles de yon chante pou yo chante nan editè a, nou rekòmande pou ou sèvi ak karaktè sa ou fasil jwenn sou klavye ou, dabitid a droit apwostòf."},{
+Key:1002534,Text:"Si bwat sa a Tyeke, VideoPsalm réorganiser nan plak an vit espacement de caractères kèk de ponctuation selon la typographie Fwansè.
+
+Pou egzanp, si yon chante pou yo chante contient les mots suivants: <b>Seyè!</b>
+
+Ekspozisyon VideoPsalm: <b>Seyè!</b>
+
+Isit la, se ponctuation caractères ki jwi èspesyal trètman.
+<b>: ; ! ? »</b><i>VideoPsalm lieu an, yon insécable espas devan ak dèyè.</i><b>«</b><i>VideoPsalm lieu an, yon distans devan ak yon insécable après.</i>
+
+VideoPsalm organise pa espacement de lòt ponctuation caractères.
+
+Lè nou antre nan pawòl yon chante tou nèf, nou rekòmande pou nou swiv lòd tradisyonèl typographie, c'est-à-dire pèse ponctuation sa préoccupation yo. Nan fason sa a, n' a ka koresponn ak ekspozisyon Fwansè typographie tourne bwat sa a, ni pou règles de peyi w pa pa sélection bwat separe, chèk separe sa a.
+
+<b>Remarque:</b> Se posib ke Fwansè typographie règles ou pa dwe aplike nan peyi ou menm si lang se Fwansè yo, pa egzanp nan francophone, Afrik, Bèljik, nan Quebec ou nan Swis.
+
+Pou yon referans nèt sou tout pwen sou mache a ak ponctuation de Fwansè typographie, Gade paj 33, http://jacques-andre.fr/faqtypo/lessons.pdf <color=blue>.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Klavye:"},{
+Key:1002536,Text:"&Taille:"},{
+Key:1002539,Text:"Si bwat sa a Tyeke, VideoPsalm enfòme nou la a, pandan du li, de egzistans fonksyon nouvo pwogram lan osinon yon ti detay:
+-koleksyon yo
+-Bibles,
+-VideoPsalm pale lòt lang.
+
+Nouvo koleksyon li yo, Bibles nan pale lòt lang Et pale lòt lang pou VideoPsalm sont ajoutés pafwa pou bibliyotèk online VideoPsalm.
+
+Lè sa a penis, ajoute nan kèk Sur nouvo dokiman sa pou enstalasyon ou via sòsye enpòte a."},{
+Key:1002540,Text:"Si bwat sa a Tyeke, VideoPsalm mande sa yo ki te lye avèk yon tirè pou rete sou liy lan menm nan diapositives yo.
+
+Par valè pou mo sal yo ke chante: <b>tcheke</b>"},{
+Key:1002541,Text:"Si bwat sa a Tyeke, VideoPsalm mande sa yo ki te lye avèk yon tirè pou rete sou liy lan menm nan diapositives yo.
+
+Par valè pou dans Bibles: <b>pas</b>"},{
+Key:1002542,Text:"Si bwat sa a Tyeke, VideoPsalm pèmèt ou mete sou kote nenpòt chanjman ki fèt sa nou te fè ak dans de Bibles (tèks ak kalite).
+
+Si bwat sa a pa Tyeke:
+
+<b>1.</b> lè ou fèmen VideoPsalm, li pral avize nou chanje sa Bibles ou lavi,
+
+<b>2</b> lè ou sove ou chanjman, VideoPsalm pa sove chanjman yo te fè pou Bibles (tèks ak kalite),
+
+<b>3</b> w ap jwenn ou Bibles an donmaj nan pwochen du de VideoPsalm."},{
+Key:1002543,Text:"Chwazi lang kote ou vle pou VideoPsalm s' isit la.
+
+Si lang ou pa parèt nan lis la, petèt ki disponib nan bibliyotèk VideoPsalm sou liy via sòsye enpòte a.
+
+Si VideoPsalm an pa egziste nan lang ou, tanpri enfòme nou pa kouryèll nan videopsalm@gmail.com
+
+Altènativman, ou ka ede pou tradwi textes VideoPsalm yo nan lang ou via outil tradiksyon VideoPsalm ou korije erè tout.
+
+Kòmanse tradiksyon outil VideoPsalm ak a bouton \"Tradwi VideoPsalm\"."},{
+Key:1002544,Text:"Sélectionnez Katab de VideoPsalm ki chaje li liv, Bibles, foto Et vidéos isit la.
+
+Lè ou ka chanje a Katab, VideoPsalm est li koleksyon yo, Bibles, foto Et vidéos ansanm ak moun peyi a nouvo Katab.
+
+<b>Attention</b> : devan chanje a Katab, verifye ke ou te sove ou chanjman."},{
+Key:1002545,Text:"Pou chanje klavye sa se s' VideoPsalm.
+
+Estanda taille: 8.25
+
+Ou ka tou chanje la taille klavye via pwogram fennèt: kontwòl du-&gt; ekspozisyon-> lisibilité sou ekran an."},{
+Key:1002547,Text:"&Tradwi VideoPsalm"},{
+Key:1002548,Text:"Ouvre zouti ak sa ou kapab tradwi VideoPsalm nan lang ou, ou korije erè òtograf tout."},{
+Key:1002549,Text:"N' a chanje Katab a soti kote VideoPsalm Sera charge dokiman li.
+VideoPsalm ap dechaje tout dokiman aktyèl Et téléchargement Katab nouvo sa.
+Sa a ka pran kèk segond.{0}
+
+Èske ou vle li toutbon pou chanje Katab dokiman an?"},{
+Key:1002550,Text:"Gen sont enregistrées chanjman (koleksyon yo, Bibles, oswa kalandriye).
+Si ou konfime operasyon an dosye koulye a, sa chanjman sa yo pwal pèdi."},{
+Key:1002551,Text:"Chanje Katab dokiman an"},{
+Key:1002552,Text:"&Du"},{
+Key:1002553,Text:"Defo modèles:"},{
+Key:1002554,Text:"&chante:"},{
+Key:1002555,Text:"&Règ bib Kouplè:"},{
+Key:1002556,Text:"&Diaporama zidòl:"},{
+Key:1002557,Text:"&vidéos otonòm:"},{
+Key:1002558,Text:"&Des:"},{
+Key:1002559,Text:"&D' defo otomatik avanse:"},{
+Key:1002560,Text:"segond"},{
+Key:1002561,Text:"&Ajoute yon lang"},{
+Key:1002562,Text:"S' a apwè ke sòsye lang yo ki VideoPsalm ke, de ki kote ou kapab ajoute pale lòt lang ou VideoPsalm."},{
+Key:1002580,Text:"Defo tèks flux apwè yon chante pou yo chante"},{
+Key:1002581,Text:"Détermine flux tèks defo après la Kouplè pase de yon chante pou yo chante.
+
+Valè sa a ap pran tou nan kont pou chante sa ou afficher espontaneman san du.
+Nan almanak la, ou ka chanje sa a valè pou chak chante pou yo chante."},{
+Key:1002582,Text:"Defo tèks flux apre règ bib dans"},{
+Key:1002583,Text:"Détermine flux tèks defo après la Kouplè pase de yon pasaj Biblik.
+
+Valè sa a ap pran tou nan kont nan Biblik pasaj ou afficher espontaneman san du.
+Nan almanak la, ou ka chanje sa a valè pou chak pasaj règ bib."},{
+Key:1002584,Text:"Defo tèks flux apwè yon imaj diaporama"},{
+Key:1002585,Text:"Détermine flux tèks defo apwè yon imaj diaporama.
+
+Nan almanak la, ou ka chanje sa a valè pou chak estati zidòl."},{
+Key:1002586,Text:"Defo tèks flux apwè yon autonome vidéo"},{
+Key:1002587,Text:"Détermine flux tèks defo apwè yon autonome vidéo.
+
+Nan almanak la, ou ka chanje sa a valè pou chak autonome videyo."},{
+Key:1002588,Text:"Defo tèks flux apwè yon PowerPoint"},{
+Key:1002589,Text:"Détermine flux tèks defo apwè yon PowerPoint.
+
+Nan almanak la, ou ka chanje sa valè sa a pou chak PowerPoint."},{
+Key:1002590,Text:"Détermine entèval lè defo nan kèk segond devan otomatik chanjman an pou pwochen plak an vit.
+
+Nan almanak la, ou ka chanje sa a valè pou chak eleman ki flux otomatikman."},{
+Key:1002591,Text:"&Boutique jan nou koumanse vye zidòl nan ajenda a (rekòmande)"},{
+Key:1002592,Text:"Boutique jan nou koumanse vye zidòl nan ajenda a"},{
+Key:1002593,Text:"Endike si VideoPsalm ta dwe stocker tout chante zidòl jan nou koumanse Et Biblik nan dans fichier du, lè ou mete sou kote l."},{
+Key:1002594,Text:"&Banque du vidéos (rekòmande) jan nou koumanse"},{
+Key:1002595,Text:"Magazen an jan nou koumanse vidéos nan ajenda a"},{
+Key:1002596,Text:"Endike si VideoPsalm ta dwe stocker tout vidéos de Fond de chante Et Biblik nan du fichier dans, lè ou mete l' la."},{
+Key:1002597,Text:"&Boutique diaporama zidòl (rekòmande) du"},{
+Key:1002598,Text:"Boutique diaporama zidòl nan ajenda a"},{
+Key:1002599,Text:"Endike si VideoPsalm ta dwe stocker posib vye zidòl diaporama nan kalandriye dokiman an lè ou sove l."},{
+Key:1002600,Text:"&Boutique vidéos autonome du (recommandé)"},{
+Key:1002601,Text:"Stocker les vidéos otonòm nan ajenda a"},{
+Key:1002602,Text:"Endike si VideoPsalm ta dwe stocker les otonòm nan du fichier vidéos, lè ou mete l' la."},{
+Key:1002603,Text:"&Boutique Des yo nan ajenda a (rekòmande)"},{
+Key:1002604,Text:"Boutique Des yo nan ajenda a"},{
+Key:1002605,Text:"Endike si VideoPsalm ta dwe stocker Des nenpòt nan dokiman kalandrye an lè ou sove l."},{
+Key:1002606,Text:"Nou rekòmande pou nou chwazi opsyon sa a, sitou si ou fè ou du sou yon lòt PC pase a yon kote ou pral afficher ou présentation."},{
+Key:1002607,Text:"&Editè"},{
+Key:1002608,Text:"&Klavye:"},{
+Key:1002609,Text:"Spécifie klavye a kote ou edite paroles de yon chante pou yo chante Et dans de règ bib lan.
+
+Notamment, klavye sa a ki pa itilize pou yo ekspoze tèks sou ekran an."},{
+Key:1002610,Text:"&Tèks taille:"},{
+Key:1002611,Text:"Indique la taille de klavye a kote ou edite paroles de yon chante pou yo chante Et dans de règ bib lan.
+
+Taille klavye sa a pa patikilyèman te itilize pou yo ekspoze tèks sou ekran an."},{
+Key:1002612,Text:"&Klavye de akò yo:"},{
+Key:1002613,Text:"Spécifie klavye a kote ou edite te pase kontra de yon chante pou yo chante.
+
+Klavye sa a pa patikilyèman te itilize pou yo ekspoze akò sou ekran présentation a."},{
+Key:1002614,Text:"&Taille de tèks de akò yo:"},{
+Key:1002615,Text:"Indique la taille de klavye de akò de yon chante pou yo chante nan editè tèks la.
+
+Taille klavye sa a pa patikilyèman te itilize pou yo ekspoze akò yo sou ekran présentation a."},{
+Key:1002616,Text:"&Koulè de akò yo:"},{
+Key:1002617,Text:"Spécifie koulè a nan ki te pase kontra sont affichées nan editè tèks la.
+
+Notamment, koulè sa a ki pa itilize pou yo ekspoze akò sou ekran présentation a."},{
+Key:1002618,Text:"&Koulè blan insécable:"},{
+Key:1002619,Text:"Spécifie koulè a nan kote ke blanch sont affichées nan editè tèks la."},{
+Key:1002620,Text:"&Koulè baj de stanzas:"},{
+Key:1002621,Text:"Spécifie koulè a kote baj de stanzas ki gen nan editè tèks la."},{
+Key:1002622,Text:"&Transparans baj de stanzas:"},{
+Key:1002623,Text:"Spécifie transparans de koulè ki baj de stanzas ki gen nan editè tèks la."},{
+Key:1002624,Text:"&Koulè ChordPro te pase kontra:"},{
+Key:1002625,Text:"Spécifie koulè a nan ki te pase kontra ChordPro ki gen nan ki mòd tèks editè ChordPro."},{
+Key:1002626,Text:"&Transparans te pase kontra ChordPro:"},{
+Key:1002627,Text:"Spécifie transparans de koulè nan akò ki ChordPro ki gen nan ki mòd tèks editè ChordPro."},{
+Key:1002628,Text:"&Substitution polices (rekòmande)"},{
+Key:1002629,Text:"Pèmèt tèks editè pou remplacer pa wè caractères klavye aktyèl la nan gwo lènmi nou yon lòt klavye.
+
+Désactiver sibstitisyon de caractères si w ap itilize yon klavye ki pa Unicode ki te opere transcription a.
+Sa se ka yon lang peyi Lend, Tamil, Bamati, Malayalam, polices, elatriye.
+
+Note ke li se préférable pou yo itilize yon klavye Unicode.
+Pou kouvri nou chante ki te pwepare pou Unicode tèks, sèvi ak yon convertisseur online, pa egzanp isit la: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Pèmèt dispozisyon pou yon senplifye, an konpatib ak Écriture RTL tèks editè"},{
+Key:1002631,Text:"Affiche yon bouton supplémentaires sou bò gòch la Barre de editè tèks la, ki ap founi aksè a yon mòd senplifye modification de la tèks li te chante.
+
+Editè senplifye sa a konpatib ekri sou de bò dwat gòch (RTL), patikilyèman pou Arabe Et ebre."},{
+Key:1002632,Text:"Chwazi a rendu vidéo metòd ki travay pi bon pou ou PC. VideoPsalm ka afficher les vidéos nan wmv sou pifò fòma Intelligence."},{
+Key:1002633,Text:"&Voye avize yo osijè"},{
+Key:1002634,Text:"Nan du, informer si ta gen:"},{
+Key:1002635,Text:"&Yon nouvo vèsyon pipiti de youn de VideoPsalm (rekòmande)"},{
+Key:1002636,Text:"&Nouvo koleksyon yo (rekòmande)"},{
+Key:1002637,Text:"&Nouvo Bibles (rekòmande)"},{
+Key:1002638,Text:"&Pale lòt lang (rekòmande)"},{
+Key:1002639,Text:"&Ka ta gen difikilte pou moun kouche, pwezans proxy yon"},{
+Key:1002640,Text:"Pwezans proxy yon"},{
+Key:1002641,Text:"Endike si VideoPsalm ta dwe detekte otomatikman pwezans yon proxy pou fè demann osijè de nouvo pwodwi ou à.
+
+Si VideoPsalm ka pa rale dosye liv ou Bibles nan bibliyotèk online li, chwazi opsyon sa a. Lè sa a pou eseye operasyon an ankò.
+
+Chwazi opsyon sa a sèlman si li fè sa pa. Tout opsyon sa a lakòz yon ralentissement nan téléchargement liv Et Bibles nan bibliyotèk la de VideoPsalm sou liy."},{
+Key:1002642,Text:"&Sere icônes sosyal"},{
+Key:1002643,Text:"Masque sosyal icônes (D' a Facebook, Twitter Et YouTube).
+
+Icônes sa yo rete hidden nan absans yon kouche sou entènèt."},{
+Key:1002644,Text:"&Banque du adyo chante (rekòmande)"},{
+Key:1002645,Text:"Boutique adyo chante nan ajenda a"},{
+Key:1002646,Text:"Endike si VideoPsalm ta dwe stocker odyo tout chante nan kalandriye dokiman an lè ou sove l."},{
+Key:1002648,Text:"&Personnalisation"},{
+Key:1002649,Text:"&Videyo kamera"},{
+Key:1002650,Text:"&Ansyen"},{
+Key:1002651,Text:"&Baz"},{
+Key:1002652,Text:"&Tèks"},{
+Key:1002653,Text:"&Pwoteje"},{
+Key:1002654,Text:"&Flocon"},{
+Key:1002655,Text:"&N. pinèz"},{
+Key:1002656,Text:"Plak an vit du"},{
+Key:1002657,Text:"&Pwochen"},{
+Key:1002658,Text:"D'"},{
+Key:1002659,Text:"Du conseil"},{
+Key:1002660,Text:"&Mòn"},{
+Key:1002661,Text:"&soti"},{
+Key:1002662,Text:"&Sere-"},{
+Key:1003000,Text:"Vèsyon pipiti de youn {0} de la {1}"},{
+Key:1003003,Text:"Fèmen"},{
+Key:1003005,Text:"&VideoPsalm kontak"},{
+Key:1003006,Text:"Pespektiv louvri (ou kouryèll kliyan) pou voye yon kouryèll VideoPsalm"},{
+Key:1003007,Text:"Vèsyon sa a à"},{
+Key:1003008,Text:"&À vèsyon m"},{
+Key:1003009,Text:"La se yon vèsyon plus de VideoPsalm.
+Vèsyon pipiti de youn {0} pou plat la byen netwaye 1: {d}.
+Sur bouton sa a pou louvri paj télécharger.
+Men w ap jwenn istwa chanjman
+ak yon lyen télécharger."},{
+Key:1003011,Text:"-Rapò
+-Fè remake yon ou yon konsèy"},{
+Key:1003012,Text:"E-mail adrès ou: videopsalm@gmail.com"},{
+Key:1003500,Text:"Retire transpozisyon a"},{
+Key:1003501,Text:"Transposition plus yon plis"},{
+Key:1003502,Text:"Transposition yon plus mwens"},{
+Key:1003503,Text:"San"},{
+Key:1003504,Text:"Retire capo a"},{
+Key:1003505,Text:"Transpose pou yon capo ki te deplase kite tèt"},{
+Key:1003506,Text:"Transpose pou yon capo ki tou pre tèt"},{
+Key:1003507,Text:"San"},{
+Key:1003508,Text:"Kite adyo dokiman an sou voix"},{
+Key:1003509,Text:"&Adyo fichier:"},{
+Key:1003510,Text:"Fè chwa ki adyo sispann pou enpòte Et ensuite Sur la louvri'."},{
+Key:1003511,Text:"Ou te enpòte fichier adyo {0} (s)."},{
+Key:1003512,Text:"Pa adyo fichier ki te enpòte.
+(Li (s) deja twouve (s) nan lis la)."},{
+Key:1003513,Text:"Importation adyo fichiers"},{
+Key:1003514,Text:"Adyo fichiers"},{
+Key:1003515,Text:"Mo kle pou fè rechèch nan zidòl"},{
+Key:1003516,Text:"San imaj"},{
+Key:1003517,Text:"San videyo"},{
+Key:1003518,Text:"&Fichiers"},{
+Key:1003519,Text:"&Afficher bas"},{
+Key:1003520,Text:"Mo kle pou fè rechèch nan vidéos"},{
+Key:1003521,Text:"&Ranmase kèt chante sot nan CCLI / SongSelect"},{
+Key:1003522,Text:"CCLI chante"},{
+Key:1003523,Text:"Apwè ke CCLI chante"},{
+Key:1003524,Text:"{0} chante te deja nan koleksyon an '{1}', te pa enpòte."},{
+Key:1003525,Text:"&Recherche"},{
+Key:1003526,Text:"&Klète:"},{
+Key:1003527,Text:"&Recherche"},{
+Key:1003528,Text:"&Klète:"},{
+Key:1003529,Text:"Mesaj"},{
+Key:1003530,Text:"Polis"},{
+Key:1003531,Text:"Koulè"},{
+Key:1003532,Text:"Mesaj"},{
+Key:1003533,Text:"Une"},{
+Key:1003534,Text:"Bay fom"},{
+Key:1003535,Text:"Tip"},{
+Key:1003536,Text:"À"},{
+Key:1003537,Text:"Chronomètre"},{
+Key:1003538,Text:"Chwa"},{
+Key:1003539,Text:"Transparans"},{
+Key:1003540,Text:"Afficher mesaj"},{
+Key:1003541,Text:"Jan nou koumanse"},{
+Key:1003542,Text:"Affichage lè"},{
+Key:1003543,Text:"LòlÃ j"},{
+Key:1003544,Text:"À"},{
+Key:1003545,Text:"Chronomètre"},{
+Key:1003546,Text:"Pandan"},{
+Key:1003547,Text:"Jiska"},{
+Key:1003548,Text:"Kòmanse"},{
+Key:1003549,Text:"Pause"},{
+Key:1003550,Text:"Rete"},{
+Key:1003551,Text:"Mod"},{
+Key:1003552,Text:"Grès"},{
+Key:1003553,Text:"En"},{
+Key:1003554,Text:"Ou tansyon"},{
+Key:1003555,Text:"Afficher dezyèm men"},{
+Key:1003556,Text:"Aladi bèg segond"},{
+Key:1003557,Text:"Saccadé minit"},{
+Key:1003558,Text:"Afficher chiffres"},{
+Key:1003559,Text:"Diplômé minit yo"},{
+Key:1003560,Text:"Gradyasyon heures"},{
+Key:1003561,Text:"Videyo kamera"},{
+Key:1003562,Text:"Affiche prise de yon kamera dèyè tèks la."},{
+Key:1003563,Text:"&Ajoute chante a fòma CILC..."},{
+Key:1003564,Text:"Apwè ke..."},{
+Key:1003565,Text:"Apwè ke"},{
+Key:1003566,Text:"Pèmèt pou yo te enpòte adyo fichiers nan VideoPsalm ou"},{
+Key:1003567,Text:"Jeneralman..."},{
+Key:1003568,Text:"Parcourir"},{
+Key:1003569,Text:"S' Katab de fichiers adyo pa VideoPsalm ou"},{
+Key:1003570,Text:"&Kòmanse (madanm):"},{
+Key:1003571,Text:"&Fin (madanm):"},{
+Key:1003572,Text:"&Volim:"},{
+Key:1003573,Text:"&Jwe en"},{
+Key:1003575,Text:"&Chanje"},{
+Key:1003576,Text:"&Vèsyon pipiti de youn de:"},{
+Key:1003577,Text:"Tèks editè \"Droit\" te kite"},{
+Key:1003578,Text:"Ou ant yon estanda tèks editè (ekri de gòch dwat) ak yon \"Dwa\" editè gòch pou Arabe, lang ebre, etc."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Toujou conjointement montre (bileng)"},{
+Key:1003581,Text:"&Pozisyon:"},{
+Key:1004050,Text:"Polis"},{
+Key:1004051,Text:"Taille"},{
+Key:1004052,Text:"Grès"},{
+Key:1004053,Text:"En"},{
+Key:1004054,Text:"Gen"},{
+Key:1004055,Text:"Aliman"},{
+Key:1004056,Text:"Aliman vètikal"},{
+Key:1004057,Text:"Nimasyon"},{
+Key:1004058,Text:"Durée"},{
+Key:1004059,Text:"Volim"},{
+Key:1004060,Text:"Èbè?"},{
+Key:1004061,Text:"Kòmansman"},{
+Key:1004062,Text:"Fen"},{
+Key:1004063,Text:"Boucle?"},{
+Key:1004064,Text:"Wè imaj plus"},{
+Key:1004100,Text:"Koulè"},{
+Key:1004101,Text:"Amalgam"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Lajè entourage a"},{
+Key:1004104,Text:"Lonbraj"},{
+Key:1004105,Text:"Pou rive lonbwaj"},{
+Key:1004106,Text:"Pwofondè de lonbraj"},{
+Key:1004107,Text:"Direksyon lonbwaj"},{
+Key:1004151,Text:"Videyo"},{
+Key:1004152,Text:"Estati"},{
+Key:1004153,Text:"Koulè"},{
+Key:1004156,Text:"Rektang de kò a"},{
+Key:1004157,Text:"Rektang de lento"},{
+Key:1004158,Text:"A pye Rektang"},{
+Key:1004500,Text:"Lan kalandrye an pou Presse-papiers kopi"},{
+Key:1004501,Text:"Dekri teren ajenda a te plase nan Presse-papiers la."},{
+Key:1004502,Text:"Mots (Tit ak mo sal yo ke) ou Tèb pou chache"},{
+Key:1004503,Text:"Mots (Tit ak mo sal yo ke) ou Tèb pou chache"},{
+Key:1004504,Text:"Mots (Tit) ou pou chèche pou non."},{
+Key:1004505,Text:"Mots (otè ak konpozè) ou Tèb pou chache"},{
+Key:1004506,Text:"Mots (thèmes) ou anpil pou fè rechèch"},{
+Key:1004507,Text:"Mots (références) ou anpil pou fè rechèch"},{
+Key:1004508,Text:"CCLI pou chache"},{
+Key:1004509,Text:"Mots (D') ou anpil pou fè rechèch"},{
+Key:1004510,Text:"Mots (seri 1) ou Tèb pou chache"},{
+Key:1004511,Text:"Mots (seri 2) ou Tèb pou chache"},{
+Key:1004512,Text:"Mots (seri 3) ou Tèb pou chache"},{
+Key:1004513,Text:"Chante ak accords"},{
+Key:1004514,Text:"Copie rezime de recueil a"},{
+Key:1004515,Text:"Rezime de recueil a te plase nan Presse-papiers la."},{
+Key:1005001,Text:"Fin de la chaje"},{
+Key:1005002,Text:"Chante pou yo chante '{0}'."},{
+Key:1005003,Text:"Chaje vidéos"},{
+Key:1005004,Text:"Pa t ' kapab lecture videyo a '{0}'.
+{1}"},{
+Key:1005005,Text:"Chaje zidòl"},{
+Key:1005006,Text:"Pa t ' kapab lecture estati a '{0}'.
+{1}"},{
+Key:1005007,Text:"Chaje de estil"},{
+Key:1005008,Text:"Amalgam de lis koleksyon yo ({0} ap chante nan {1} koleksyon yo)"},{
+Key:1005009,Text:"Retire atik du sélectionné yo?"},{
+Key:1005010,Text:"Retire atik"},{
+Key:1005011,Text:"Nouvo koleksyon"},{
+Key:1005012,Text:"Chante kantik tou nèf"},{
+Key:1005013,Text:"A du vid.
+Louvri yon ou faites isit la a chante, dans pou ajoute ajenda a."},{
+Key:1005014,Text:"Se pa ti vè pou videyo - projet.
+Chwazi yon chante pou yo chante ou dans la videyo pou - projet."},{
+Key:1005015,Text:"Èske ou vle li toutbon pou retire koleksyon an '{0}'?
+
+Dokiman an chef koleksyon sa a pral pa être supprimé de disque a:
+ekstansyon li pral renommée \".ignore."},{
+Key:1005016,Text:"Retire yon ranmase kèt"},{
+Key:1005017,Text:"Èske ou vle pou retire a chante pou yo chante '{0}'?
+
+Après enskripsyon modifikasyon pou liv yo suppression de chante pou yo chante sa a va ki pa ka chanje."},{
+Key:1005018,Text:"Retire yon chante pou yo chante"},{
+Key:1005019,Text:"Retire tout atik de ajenda a?"},{
+Key:1005020,Text:"Efase tout bagay"},{
+Key:1005021,Text:"Du san yon non"},{
+Key:1005022,Text:"Kalandriye vid"},{
+Key:1005023,Text:"Aktyèl ajenda a te non chanjman.
+Vle pou mete sou kote sa chanjman sa yo?"},{
+Key:1005024,Text:"Mete sou kote lan kalandrye an"},{
+Key:1005025,Text:"Youn oubyen plis koleksyon yo non chanjman.
+Vle pou mete sou kote sa chanjman sa yo?"},{
+Key:1005026,Text:"Dosye koleksyon yo"},{
+Key:1005027,Text:"Youn oubyen plis Bibles non chanjman.
+Vle pou mete sou kote sa chanjman sa yo?"},{
+Key:1005028,Text:"Mete sou kote Bibles yo"},{
+Key:1005029,Text:"Ajoute dokiman yo nan ajenda a"},{
+Key:1005030,Text:"Journaux"},{
+Key:1005031,Text:"Zidòl"},{
+Key:1005032,Text:"Vidéos"},{
+Key:1005033,Text:"Des"},{
+Key:1005034,Text:"Mete sou kote lan kalandrye an anba"},{
+Key:1005035,Text:"Du"},{
+Key:1005036,Text:"Pa gen okenn koleksyon.
+Cliquez ici pou yo kòmanse enpòte rapò sòsye."},{
+Key:1005037,Text:"Fòma {0}
+{1} × {2} pixels"},{
+Key:1005038,Text:"madanm {0}"},{
+Key:1005039,Text:"Èske ou vle li toutbon pou efase tout estil anba la '{0}'?"},{
+Key:1005040,Text:"A '{0}' koleksyon yo ekskli yo de la recherche"},{
+Key:1005041,Text:"Afficher ou déplacer la plak an vit"},{
+Key:1005042,Text:"Sezon"},{
+Key:1005043,Text:"Sous"},{
+Key:1005044,Text:"Ete"},{
+Key:1005045,Text:"Nwèl"},{
+Key:1005046,Text:"Thèmes"},{
+Key:1005047,Text:"Karamèl"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Imajinasyon"},{
+Key:1005050,Text:"Chanm nwa"},{
+Key:1005051,Text:"Bouya"},{
+Key:1005052,Text:"Ble plan batisman"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort ant"},{
+Key:1005055,Text:"Biwo"},{
+Key:1005056,Text:"Biwo 2010 ble"},{
+Key:1005057,Text:"Ajan biwo 2010"},{
+Key:1005058,Text:"Biwo 2010 nwa"},{
+Key:1005059,Text:"Biwo 2007 Blue"},{
+Key:1005060,Text:"Biwo 2007 Green"},{
+Key:1005061,Text:"Biwo 2007 Rose"},{
+Key:1005062,Text:"Biwo 2007 ajan"},{
+Key:1005063,Text:"Biwo 2007 nwa"},{
+Key:1005064,Text:"Fenèt"},{
+Key:1005065,Text:"Metropolis"},{
+Key:1005066,Text:"Sèt"},{
+Key:1005067,Text:"Sèt klasik"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Lansan"},{
+Key:1005070,Text:"Lafimen (n)"},{
+Key:1005071,Text:"Pòm"},{
+Key:1005072,Text:"Koulè"},{
+Key:1005073,Text:"Syèl likid"},{
+Key:1005074,Text:"London syèl"},{
+Key:1005075,Text:"Blè"},{
+Key:1005076,Text:"Jumeaux lajan"},{
+Key:1005077,Text:"Black lò"},{
+Key:1005078,Text:"Panne"},{
+Key:1005079,Text:"Pike"},{
+Key:1005080,Text:"File plis"},{
+Key:1005081,Text:"Zetwal"},{
+Key:1005082,Text:"Océans de verre"},{
+Key:1005083,Text:"Alfat mond lan"},{
+Key:1005084,Text:"Kafe"},{
+Key:1005085,Text:"Pousyè zetwal"},{
+Key:1005086,Text:"Efase tout estil ki pi ba"},{
+Key:1005087,Text:"Kenbe abitid sou galeri louvri a"},{
+Key:1005100,Text:"Pa gen aktivite"},{
+Key:1005102,Text:"Pèdi koulè"},{
+Key:1005103,Text:"Ti fondu"},{
+Key:1005104,Text:"Wè imaj plus"},{
+Key:1005105,Text:"Ekspansyon nan limyè fondu"},{
+Key:1005106,Text:"Analyse"},{
+Key:1005107,Text:"Eskane a dwat"},{
+Key:1005109,Text:"Fòm"},{
+Key:1005110,Text:"Zetwal"},{
+Key:1005118,Text:"Eskane desann"},{
+Key:1005120,Text:"Eskane sou bò gòch"},{
+Key:1005121,Text:"Analyse le"},{
+Key:1005122,Text:"Eskane sou tèt a dwat"},{
+Key:1005123,Text:"Eskane sou tèt sou bò gòch"},{
+Key:1005124,Text:"Eskane anba nan fon a dwat"},{
+Key:1005125,Text:"Eskane anba nan fon sou bò gòch"},{
+Key:1005126,Text:"Dekouvri"},{
+Key:1005127,Text:"Twouve anba"},{
+Key:1005128,Text:"Dekouvri dwa"},{
+Key:1005129,Text:"Dekouvri sou bò gòch"},{
+Key:1005130,Text:"Dekouvri le"},{
+Key:1005131,Text:"Dekouvri sou tèt dwat"},{
+Key:1005132,Text:"Dekouvri sou tèt kite"},{
+Key:1005133,Text:"Dekouvri dwa desann"},{
+Key:1005134,Text:"Dekouvri fon kite"},{
+Key:1005200,Text:"Diapositives"},{
+Key:1005201,Text:"Plak an vit pa"},{
+Key:1005209,Text:"Recherche mots nan:"},{
+Key:1005210,Text:"&Tit ak mo sal yo ke"},{
+Key:1005211,Text:"&Tit ak mo sal yo ke"},{
+Key:1005212,Text:"&Tit"},{
+Key:1005213,Text:"&Otè ak konpozè"},{
+Key:1005214,Text:"&Thèmes"},{
+Key:1005215,Text:"&Références"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&D'"},{
+Key:1005218,Text:"&De 1"},{
+Key:1005219,Text:"&De 2"},{
+Key:1005220,Text:"&De 3"},{
+Key:1005221,Text:"&Chante ak accords"},{
+Key:1005223,Text:"Chwa"},{
+Key:1005224,Text:"VideoPsalm posiblite"},{
+Key:1005225,Text:"Affiche posiblite VideoPsalm dialog Bwat la."},{
+Key:1005226,Text:"Tax"},{
+Key:1005228,Text:"Affiche a enpòte sòsye liv, Bibles, foto Et vidéos de VideoPsalm online bibliyotèk Et popilè be'l varyete fo'm."},{
+Key:1005230,Text:"Retire"},{
+Key:1005232,Text:"Retire komansman chante a, koleksyon ou Bib sélectionné."},{
+Key:1005237,Text:"Klavye a chanje."},{
+Key:1005247,Text:"Zidòl"},{
+Key:1005252,Text:"Edite anonsman préférences."},{
+Key:1005253,Text:"Fèmen fennèt sa a ak sonje enfòmasyon tan kap vini."},{
+Key:1005254,Text:"Fèmen fennèt sa a ak enfòmasyon sa a nan chonje ankò."},{
+Key:1005255,Text:"Pawòl ou fraz recherche, pa egzanp lè w: pen diven"},{
+Key:1005256,Text:"Sélectionnez dans pa referans yo"},{
+Key:1005257,Text:"Recherche pou dans ki gen kèk mo kle ou fraz"},{
+Key:1005258,Text:"Retire la clé ou fraz pou recherche (ECHAP)"},{
+Key:1005259,Text:"Recherche dans yo ki genyen kèk mo kle.
+
+Pa egzanp:
+
+-Pou jwenn dans yo ki genyen fraz <b>\"pitit Bondye a\"</b>, gwoup kèk mo tankou <b>\"pitit Bondye\"</b>.
+
+-Pou jwenn Kouplè ki genyen ladan a fraz matematik <b>'li ba yo gode diven'</b>, gwoup multiples tout pawòl sa yo: <b>«ilpritlacoupe»</b>.
+
+Pa bay tèt li pwoblèm sou detay yo oubyen ponctuation, ou en/en.
+
+Pa t ' bezwen pou gwoup sa antye ou nan lòd sa a.
+
+Ajoute lòt mesaj Kouplè pou redwi lis a dans yo.
+
+Sur la <b>mete</b> bouton pou ajoute Kouplè jwenn. li te chwazi pou ajenda a."},{
+Key:1005260,Text:"Pa vèse a."},{
+Key:1005268,Text:"Mòd sa a, nan VideoPsalm otomatikman ajoute akolad [] autour tèks ke ou antre.
+Pa egzanp, ajoute yon c corde, gwoup «Fè» Et VideoPsalm ap mete \"[fè]."},{
+Key:1005269,Text:"Klavye taille"},{
+Key:1005270,Text:"Chanje taille klavye a kòm yon pousantaj de wotè écran a."},{
+Key:1005271,Text:"&Mete sou kote pou..."},{
+Key:1005277,Text:"Mete sou kote"},{
+Key:1005278,Text:"Enregistre chanjman sa ou te fè nan liv yo, Bibles ak estil yo."},{
+Key:1005279,Text:"Enregistre chanjman sa ou te fè nan estil ak koleksyon yo.
+
+<b>Atansyon:</b> Chanjman pou Bibles yo nou te fè pa sere (tèks Et estil). Pou sove sa chanjman sa yo, pèmèt korespondan yon opsyon nan pwogram ki pou VideoPsalm."},{
+Key:1005283,Text:"Durée:"},{
+Key:1005284,Text:"Nan madanm:"},{
+Key:1005285,Text:"Eleman"},{
+Key:1005286,Text:"Kò"},{
+Key:1005287,Text:"Mod kò a"},{
+Key:1005288,Text:"Pèmèt modification de kalite kò a."},{
+Key:1005289,Text:"Lento"},{
+Key:1005290,Text:"Estil lento"},{
+Key:1005291,Text:"Pèmèt modification de fason de lento a."},{
+Key:1005292,Text:"Pie"},{
+Key:1005293,Text:"Estil pye"},{
+Key:1005294,Text:"Pèmèt modification de fason de pye."},{
+Key:1005295,Text:"Akò yo"},{
+Key:1005296,Text:"Mod de akò yo"},{
+Key:1005297,Text:"Pèmèt modification de fason de akò yo."},{
+Key:1005308,Text:"Liv"},{
+Key:1005313,Text:"Nivo de fason"},{
+Key:1005314,Text:"Jeu nivo nan ki chanje fason nou pwal aplike.
+
+Vèse a ki nivo pi gwo kalite, lè sa a sèlman chant, koleksyon, koleksyon yo ak baz la.
+
+Même, vèse a ki nivo fason pi wo a, puis est chapit la, liv la, siyen kontra Bondye, règ bib lan, Bibles ak baz la ankò.
+
+Nan baz la ki nan rasin de la hiérarchie, fason li la pou tout diapositives.
+
+Yon nivo pi wo kapab remplacer yon fason ki jan l defini nan yon kalite anba nan nivo."},{
+Key:1005315,Text:"<b></b>Mécanisme sa a pèmèt ou pou chanje fason de ou diapositives manière tout ou grenn pa grenn.
+
+<b>Egzanp</b>
+Si ou bay yon jan nou koumanse yon chante pou yo chante pou ou, tout dans de chante pou yo chante sa a parèt ak sa a jan nou koumanse eksepte tout dans ou ki dispoze jan nou koumanse yon byen presi."},{
+Key:1005318,Text:"Plak an vit"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"Des"},{
+Key:1005322,Text:"Vidéos"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Koulè tèks yo"},{
+Key:1005329,Text:"Réinitialiser"},{
+Key:1005330,Text:"Efface fason pou sélectionné nivo"},{
+Key:1005331,Text:"Ou ka retire tout stil attributs de nivo sélectionné.
+Yon plak an vit san stil hérite stil kiyè otomatikman inférieur.
+
+Pa egzanp:
+-Stanza yon gen yon fason avèk yon klavye Candara.
+-Chant, antretan, gen yon fason avèk yon klavye Segoe UI.
+
+Lè ou efase stil de vèse a, li pral être affiché ak stil ki nivo ki pi ba. Nan egzanp nou, se pou l' va klavye Segoe UI a.
+
+<b>Kat ane ke yo bliye-desann «efase tout anwo estil»</b>
+Ou ka retire stil de sélectionné nivo Et tout estil pi wo.
+
+Pa egzanp, si nivo de kalite 'kòd la te chwazi, fason de koleksyon an va être supprimé osi byen ke estil de tout chante koleksyon an ansanm ak tout moun ki stanzas yo."},{
+Key:1005332,Text:"Bouton sa a pas lè nivo ki pa pwòp fason."},{
+Key:1005333,Text:"&Efase tout anwo estil"},{
+Key:1005337,Text:"&Tèt"},{
+Key:1005338,Text:"&Mwayen"},{
+Key:1005339,Text:"&Bounda bough @ branch"},{
+Key:1005340,Text:"Te rete sou sa a nivo de fason"},{
+Key:1005341,Text:"Te rete sou aktyèl nivo fason"},{
+Key:1005342,Text:"Rete sou aktyèl nivo fason lè ou ka chanje a plak an vit.
+
+Enben!
+<b>1.</b> Lè ou afficher Kouplè yon chante, VideoPsalm, de positions nivo de kalite sou 'stanza'.
+<b>2.</b> Pou chanje fason komansman chante de vèse a, chwazi nivo de kalite \"chante.\"
+<b>3.</b> Pou yo rete sou en kalite chante, Sur la Punaise.
+<b>4.</b> Lè ou pase de yon stanza sa kap vini an, nivo de kalite rete sou \"chante.\""},{
+Key:1005343,Text:"Amalgam de tèks"},{
+Key:1005345,Text:"Remplir tèks ak yon koulè wo, yon dégradé, yon imaj ou ifas yon."},{
+Key:1005346,Text:"Koulè tèks"},{
+Key:1005347,Text:"Plan de tèks"},{
+Key:1005349,Text:"Spécifie koulè a, lajè ak liy pou plan de kalite tèks la."},{
+Key:1005350,Text:"Koulè tèks"},{
+Key:1005352,Text:"Efè tèks"},{
+Key:1005354,Text:"Aplike yon izyèl effet tèks la, tankou yon lonbraj, yon moun nan ras, yon refleksyon oswa yon wotasyon 3-d."},{
+Key:1005356,Text:"Lonbraj tèks"},{
+Key:1005357,Text:"Koulè a jan nou koumanse"},{
+Key:1005359,Text:"&Chante kantik tou nèf"},{
+Key:1005360,Text:"&Nouvo koleksyon"},{
+Key:1005361,Text:"&Efase tout"},{
+Key:1005362,Text:"
+
+<b>Pwoteje pasyèl</b>
+Mete yon du, <b>textes</b> de liv ou a ak Bibles pwal être konsève.
+Estil de lan kalandrye an ap aplike liv ou a ak Bibles."},{
+Key:1005363,Text:"
+
+<b>Pwoteje pasyèl</b>
+Mete yon du, <b>estil</b> liv ou a ak Bibles pwal être konsève.
+Textes de ajenda a ap aplike liv ou a ak Bibles."},{
+Key:1005364,Text:"
+
+<b>Pwoteje tout</b>
+Mete yon du, <b>textes</b> Et <b>estil</b> liv ou a ak Bibles pwal être konsève.
+Moun nan ajenda a ap pa ka aplike.
+
+<i>Se sa rele èstrateji a pou adopte lè dokiman de PC sa a se referans ou.</i>"},{
+Key:1005365,Text:"
+
+<b>Absans nan pwoteje</b>
+Mete de yon du, <b>textes</b> Et <b>estil</b> lan kalandrye an ap aplike liv ou a ak Bibles ak ranplase pwòp textes Et estil.
+
+<i>Se sa rele èstrateji a pou adopte lè dokiman referans ou k'ap viv nan PC a kote ou te kreye ajenda a.</i>"},{
+Key:1005366,Text:"Pou chanje de la \"Observateur\" pou mòd \"Edite\" ou ale pou vini, Sur la bouton ak kreyon an."},{
+Key:1005369,Text:"Jan pa Tit"},{
+Key:1005370,Text:"Triés pa anpil"},{
+Key:1005371,Text:"Osijè de..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simule pwojeksyon vidéo
+sou yon écran nan aspè 4:3.2 a"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simule pwojeksyon vidéo
+sou yon écran aspè 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simule pwojeksyon vidéo
+sou yon écran nan aspè 4:3 a"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simule pwojeksyon vidéo
+sou yon écran aspè 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simule pwojeksyon vidéo
+sou yon écran aspè 16:8"},{
+Key:1005387,Text:"Kouran"},{
+Key:1005388,Text:"Itilize tout sifas écran a"},{
+Key:1005389,Text:"Aspè 4:3"},{
+Key:1005390,Text:"Èske Re kriz kadyak"},{
+Key:1005391,Text:"YON B C"},{
+Key:1005396,Text:"Mòd nklizyon de akò yo"},{
+Key:1005398,Text:"Afficher akò yo pi wo pase mo sal yo ke"},{
+Key:1005400,Text:"Ajiste tou jan moun yo parèt nan fenèt la"},{
+Key:1005401,Text:"&Ajoute lan kalandrye an"},{
+Key:1005402,Text:"&Supprimer (supprimer)"},{
+Key:1005403,Text:"&Gen ladan yo kòd nan rechèch la"},{
+Key:1005404,Text:"&Ekskli koleksyon rechèch"},{
+Key:1005405,Text:"&Gen ladan yo tout koleksyon yo nan rechèch la"},{
+Key:1005407,Text:"&Ki kache yo ekskli yo de rechèch koleksyon yo"},{
+Key:1005408,Text:"&Montre exclus de rechèch koleksyon yo"},{
+Key:1005409,Text:"&Afficher la redimensionner Rektang"},{
+Key:1005410,Text:"Affiche Rektang redimensionner a"},{
+Key:1005411,Text:"Pèmèt ou redimensionner branka pou pote (kò tèks, lento ou de) te chwazi.
+
+Branka pou pote ka redimensionné ak sourit nan zòn aperçu.
+
+<b>Kijan pou yo redimensionner yon branka pou pote</b>
+
+1. Chwazi yon branka pou pote pou redimensionner:
+-kò sa a
+-lento a,
+- ou pye.
+
+2. Chwazi nivo stil mande a, pa ekzanp \"Bibles\".
+
+3. Sur sou n. pinèz fòse VideoPsalm yon ekspozisyon diapositives nan tout kalite \"Bibles\".
+Annefè, si n. pinèz a pa Sur, VideoPsalm otomatikman commutateurs pou kalite 'Kouplè' a pli vit ke ou afficher Kouplè yon.
+
+4 Afficher Kouplè yon. Zòn aperçu affiche branka pou pote ap itilize nan tout kalite 'Bibles'.
+
+5 Chanje gwosè l ak pozisyon branka pou pote itilize sourit.
+
+6. Retire ensèk, pou li retounen VideoPsalm estil 'Kouplè' a lè ou ankò ap afficher yon plak an vit."},{
+Key:1005412,Text:"&Kopi a yon rezime de kòd pou Presse-papiers a"},{
+Key:1005417,Text:"Tèks"},{
+Key:1005418,Text:"Onn fason"},{
+Key:1005419,Text:"Affiche ou masque a stil onn.
+Nan fennèt sa a, ou kapab navige ant nivo de hiérarchique estil, pou réinitialiser propriétés de moun ki Et edite yo."},{
+Key:1005420,Text:"Estil"},{
+Key:1005421,Text:"Polis"},{
+Key:1005424,Text:"Jan nou koumanse"},{
+Key:1005425,Text:"Estil"},{
+Key:1005429,Text:"Aspè"},{
+Key:1005430,Text:"Edisyon"},{
+Key:1005432,Text:"Jan moun parèt"},{
+Key:1005433,Text:"Zouti"},{
+Key:1005442,Text:"Kontinye ak pwochèn bagay la"},{
+Key:1005443,Text:"Fèmen devan va"},{
+Key:1005444,Text:"Retire tèks puis swiv"},{
+Key:1005445,Text:"Retire tèks la. Lè sa a fèmen"},{
+Key:1005446,Text:"Afficher ansanm ak pwochen eleman (bileng)"},{
+Key:1005447,Text:"Ajoute voix ou dans sélectionné ajenda a (Insérer ou Alt + Une)"},{
+Key:1005448,Text:"Cliquez ici pou ajoute voix ou dans yo plan.
+
+Altènativman, ou ka faites epi lage bouton sa a nan almanak la kote yo ta dwe."},{
+Key:1005449,Text:"&Ajoute"},{
+Key:1005454,Text:"Chwazi opsyon pou fè rechèch pou chante ak mo kle"},{
+Key:1005455,Text:"Efase sa ou al chache (ECHAP)"},{
+Key:1005457,Text:"Recherche chante yon chante (Ctrl + F)"},{
+Key:1005458,Text:"Recherche chante sa a gen pawòl sèten ou gen anpil.
+
+Pa egzanp:
+
+-Pou jwenn chante Tèb 250, gwoup «250»
+
+-Pou jwenn chante ki gen ladann mo sal yo ke <b>' tankou yon limyè (lanp yo) nan mitan lannwit \"</b>, gwoup kèk mo tankou <b>'klere lannwit la</b>.
+
+Pa enkyete w pou kesyon an detay yo oswa ponctuation.
+
+Pa gen nesesite pou yo pwan sa antye ou nan lòd sa a.
+
+Ajoute lòt mesaj a chante pou yo chante pou redwi lis chante a.
+
+Sur la <b>mete</b> bouton pou ajoute pwemye chante te twouve nan ajenda a."},{
+Key:1005459,Text:"Pa gen okenn règ bib.
+Cliquez ici pou yo kòmanse a enpòte sòsye
+Bibles e ajoute Bibles de sous popilè."},{
+Key:1005463,Text:"Retire referans pou yo ekspoze (ECHAP)"},{
+Key:1005464,Text:"Referans pou yo chwazi, pa egzanp lè w: women 3, 23-25, 30"},{
+Key:1005465,Text:"Sélectionnez dans (Ctrl + F)"},{
+Key:1005472,Text:"&Fichier:"},{
+Key:1005475,Text:"&Gen ladan yo ranmase kèt sa a nan rechèch la pou chante"},{
+Key:1005479,Text:"&fe-apel:"},{
+Key:1005481,Text:"&Abreviyasyon:"},{
+Key:1005483,Text:"&Otè:"},{
+Key:1005485,Text:"&Auteur:"},{
+Key:1005487,Text:"&Dokiman sa:"},{
+Key:1005491,Text:"&Enprime capo a"},{
+Key:1005497,Text:"&Mo sal yo ke"},{
+Key:1005499,Text:"&Nombre:"},{
+Key:1005501,Text:"&Tit:"},{
+Key:1005505,Text:"&Referans:"},{
+Key:1005507,Text:"&Auteur:"},{
+Key:1005509,Text:"&Otè:"},{
+Key:1005511,Text:"&Konpozè:"},{
+Key:1005513,Text:"&Plizyè"},{
+Key:1005515,Text:"&Son telefòn:"},{
+Key:1005517,Text:"&Fòma:"},{
+Key:1005519,Text:"&Tèm:"},{
+Key:1005521,Text:"&Sekans:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Kle:"},{
+Key:1005527,Text:"&Alyas:"},{
+Key:1005529,Text:"&Liy kle:"},{
+Key:1005531,Text:"&De 1:"},{
+Key:1005533,Text:"&De 2:"},{
+Key:1005535,Text:"&De 3:"},{
+Key:1005537,Text:"&Siyati:"},{
+Key:1005540,Text:"&Transpozisyon:"},{
+Key:1005541,Text:"Enprime capo la?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempo:"},{
+Key:1005545,Text:"Pou ekzekite akò de chante pou yo chante a."},{
+Key:1005555,Text:"&Fichier:"},{
+Key:1005560,Text:"&Auteur:"},{
+Key:1005562,Text:"&Abreviyasyon:"},{
+Key:1005564,Text:"&fe-apel:"},{
+Key:1005566,Text:"&Dekri teren:"},{
+Key:1005568,Text:"&Yon ti rale:"},{
+Key:1005570,Text:"&Dokiman sa:"},{
+Key:1005576,Text:"&fe-apel:"},{
+Key:1005582,Text:"&fe-apel:"},{
+Key:1005584,Text:"&Yon ti rale:"},{
+Key:1005586,Text:"&Abreviyasyon:"},{
+Key:1005587,Text:"Chapit de règ bib la"},{
+Key:1005590,Text:"Règ bib Kouplè"},{
+Key:1005595,Text:"&Kouplè:"},{
+Key:1005603,Text:"&Fichier:"},{
+Key:1005606,Text:"Chwazi pa"},{
+Key:1005608,Text:"Mod"},{
+Key:1005612,Text:"Supprime rapòte ou lajan pou tè a"},{
+Key:1005613,Text:"Lè ou efase rapòte ou lajan pou sa ki rete, VideoPsalm yo itilize pwemye valè ki te twouve nan ki nivo pi ba.
+
+Pou egzanp, si ou retire polis nan nivo vèse a, VideoPsalm utilise, nan lòd ak nan si li mete, klavye a:
+-chant,
+-san sa koleksyon an,
+-Si yonn nan koleksyon li yo,
+-san sa baz la.
+
+VideoPsalm menm ak Bibles, foto, etc."},{
+Key:1005615,Text:"Aucun"},{
+Key:1005616,Text:"Baz"},{
+Key:1005618,Text:"Koleksyon yo"},{
+Key:1005619,Text:"Ranmase kèt"},{
+Key:1005620,Text:"Voix"},{
+Key:1005621,Text:"Stanza"},{
+Key:1005622,Text:"Bibles"},{
+Key:1005623,Text:"Règ bib"},{
+Key:1005624,Text:"Testaman"},{
+Key:1005625,Text:"Liv de règ bib la"},{
+Key:1005626,Text:"Chapit"},{
+Key:1005627,Text:"Kouplè"},{
+Key:1005628,Text:"Valè defo"},{
+Key:1005629,Text:"Valeur kite kò sa a de tèks"},{
+Key:1005630,Text:"Gòch"},{
+Key:1005631,Text:"Konsantre"},{
+Key:1005632,Text:"pa vre"},{
+Key:1005633,Text:"Jistifye"},{
+Key:1005634,Text:"Tèt"},{
+Key:1005635,Text:"Mwayen"},{
+Key:1005636,Text:"Bounda bough @ branch"},{
+Key:1005650,Text:"&Louvri yon kalandriye..."},{
+Key:1005651,Text:"&Ajoute gregoryen..."},{
+Key:1005652,Text:"&Ajoute diaporama zidòl..."},{
+Key:1005653,Text:"&Ajoute otonòm vidéos..."},{
+Key:1005654,Text:"&Ajoute Des kèk..."},{
+Key:1005655,Text:"Lè mwen louvri yon kalandriye:"},{
+Key:1005656,Text:"&Prezève les textes de liv mwen Et Bibles"},{
+Key:1005657,Text:"&Prezève estil de liv mwen Et Bibles"},{
+Key:1005667,Text:"&Koleksyon yo"},{
+Key:1005668,Text:"Affiche koleksyon yo (Alt + R)"},{
+Key:1005670,Text:"&Bibles"},{
+Key:1005671,Text:"S' Bibles (Alt + B)"},{
+Key:1005677,Text:"&Lajè:"},{
+Key:1005680,Text:"&Flou:"},{
+Key:1005681,Text:"&Pwofondè:"},{
+Key:1005682,Text:"&Direksyon:"},{
+Key:1005686,Text:"Affiche yon koulè blan écran, nwa.
+Simule extinction de projecteur a."},{
+Key:1005687,Text:"Pwochen"},{
+Key:1005688,Text:"Avanse pou pwochen plak an vit."},{
+Key:1005689,Text:"Fèmen écran (Ctrl + fòm W)"},{
+Key:1005690,Text:"Afficher tèks (Ctrl + T)"},{
+Key:1005691,Text:"Montre ou masque tèks sou yon plak an vit."},{
+Key:1005692,Text:"Pwoteje (Ctrl + B)"},{
+Key:1005693,Text:"Konfiti voix être pwojeksyon vidéo diapositives.
+
+Pou yo travay sou du ou jwenn yon chante pou yo chante ou Kouplè yon pandan la vidéo pwojeksyon komansman chante.
+
+A remplacer la pwoteje, Sur yon atik nan ajenda a."},{
+Key:1005694,Text:"Fè/tounen glas"},{
+Key:1005695,Text:"Se vidéo pwojeksyon écran san fè frèt anpil aperçu nan zòn nan.
+
+Pou aperçu présentation pandan la vidéo pwojeksyon."},{
+Key:1005696,Text:"Pwojè (Ctrl + P)"},{
+Key:1005697,Text:"Projetée diapositives sou projecteur a."},{
+Key:1005698,Text:"Mòd 'Edisyon' (Ctrl + E)"},{
+Key:1005699,Text:"Gachèt de la \"Observateur\" pou \"Edite\" mòd ou ale pou vini."},{
+Key:1005702,Text:"Louvri yon kalandriye oswa yon dokiman"},{
+Key:1005703,Text:"S' yon kalandriye, ou ajoute yon PowerPoint présentation, zidòl pou yon diaporama, vidéo, etc."},{
+Key:1005704,Text:"Mete sou kote lan kalandrye an"},{
+Key:1005705,Text:"Retire"},{
+Key:1005706,Text:"Supprime sélectionné atik nan ajenda a, (supprimer)."},{
+Key:1005707,Text:"Mount (Ctrl + Page moute)"},{
+Key:1005708,Text:"Monte eleman pou kòmansman de l' ordre."},{
+Key:1005709,Text:"Desann (Ctrl + Page desann)"},{
+Key:1005710,Text:"Desann eleman vers la fin de l' ordre."},{
+Key:1005711,Text:"Klate"},{
+Key:1005712,Text:"Louvri yon kalandriye"},{
+Key:1005713,Text:"Enregistre ajenda a sou tout disk ou yon kle USB."},{
+Key:1005721,Text:"Sélectionne dans yo pa referans yo.
+<i>Egzanp: women 3, 23-25, 30</i>
+
+Pa antre detay yo nan non de liv yo.
+<i>Egzanp: 'N<b>e</b>mie h<b>e'</b>tan pou \"N<b>é</b>h<b>é</b>mie\".</i>
+
+Rantre nan soit yon <b>', '</b>, yon <b>\".\"</b> ou yon <b>'v'</b> pou mitan retrè de dans yo.
+
+Sur <b>la mete'</b> kle pou ajoute dans yo, te chwazi nan ajenda a."},{
+Key:1005722,Text:"Kòmantè (pa tradwi, pou yo kite an Angle)"},{
+Key:1005723,Text:"Pa ka ekri dokiman an
+{0} :
+{1}"},{
+Key:1005724,Text:"Erreur"},{
+Key:1005725,Text:"Pas lire dokiman an
+{0} :
+{1}"},{
+Key:1005730,Text:"Eske ou si ou vle pou retire stil de diaporama zidòl
+Mod diaporama zidòl pral pran yon valè estanda."},{
+Key:1005731,Text:"Eske ou si ou vle pou retire tout kalite baz
+Mod baz la pral pran yon valè estanda."},{
+Key:1005732,Text:"Eske ou si ou vle pou retire stil de koleksyon yo
+Mod de koleksyon yo pral pran yon valè estanda."},{
+Key:1005733,Text:"Eske ou si ou vle pou retire Bibles estil
+Fason de Bibles yo pral pran yon valè estanda."},{
+Key:1005734,Text:"Eske ou si ou vle pou retire fason sa a
+VideoPsalm aplike stil attributs jwenn pi ba nan la hiérarchie."},{
+Key:1005735,Text:"Fason klè"},{
+Key:1005736,Text:"Eske ou si ou vle pou retire stil de vidéos yo
+Mod de vidéos yo pral pran yon valè estanda."},{
+Key:1005737,Text:"Yon ranmase kèt"},{
+Key:1005738,Text:"Pa ranmase kèt"},{
+Key:1005739,Text:"Règ bib yon"},{
+Key:1005740,Text:"Règ bib pa"},{
+Key:1005743,Text:"Agrandi klavye a (Ctrl + maj +.)"},{
+Key:1005744,Text:"Ogmante taille klavye a."},{
+Key:1005745,Text:"È vin pi piti a klavye (Ctrl + maj +,)"},{
+Key:1005746,Text:"Réduit la taille de klavye a."},{
+Key:1005747,Text:"En (Ctrl + B)"},{
+Key:1005748,Text:"Mete a sélectionné tèks pou gras."},{
+Key:1005749,Text:"En (Ctrl + mwen)"},{
+Key:1005750,Text:"Mete a sélectionné tèks pou en."},{
+Key:1005751,Text:"Te atire atansyon (Ctrl + vaksen kont)"},{
+Key:1005752,Text:"Soulinye tèks sélectionné."},{
+Key:1005753,Text:"Kafe"},{
+Key:1005754,Text:"Enspirasyon yon liy nan mitan tèks sélectionné."},{
+Key:1005755,Text:"Montre / sere ¶ (Ctrl + maj + 8)"},{
+Key:1005756,Text:"Affiche mak paragraph ak lòt hidden en senbòl."},{
+Key:1005757,Text:"Klavye koulè"},{
+Key:1005758,Text:"Chanje koulè de tèks la."},{
+Key:1005759,Text:"Koulè tèks"},{
+Key:1005760,Text:"Ki koulè yon tèks la."},{
+Key:1005761,Text:"Clairement en (Ctrl + espas)"},{
+Key:1005762,Text:"Complètement efface en te chwazi Et conserve sèlman a plain tèks."},{
+Key:1005763,Text:"Annuler (Ctrl + Z)"},{
+Key:1005764,Text:"Annuler operasyon dènye an."},{
+Key:1005765,Text:"Refè (Ctrl + Y)"},{
+Key:1005766,Text:"Répète operasyon dènye an."},{
+Key:1005767,Text:"Koupe (Ctrl + X)"},{
+Key:1005768,Text:"Koupe te chwazi Et mete l' nan Presse-papiers la."},{
+Key:1005769,Text:"Kopi (Ctrl + C)"},{
+Key:1005770,Text:"Copies te chwazi epi mete l' sou Presse-papiers la."},{
+Key:1005771,Text:"-(Ctrl + V)"},{
+Key:1005772,Text:"Cette Presse-papiers a sa ki nan liv."},{
+Key:1005773,Text:"Recherche (Ctrl + F)"},{
+Key:1005774,Text:"Recherche pou tèks nan dokiman an."},{
+Key:1005775,Text:"Ranplase (Ctrl + H)"},{
+Key:1005776,Text:"Remplace tèks nan dokiman an."},{
+Key:1005777,Text:"Agrandi"},{
+Key:1005778,Text:"Afficher tout"},{
+Key:1005779,Text:"Pou edite espesifik Kouplè yon, Sur sou li plak an vit."},{
+Key:1005780,Text:"Chwazi de dans"},{
+Key:1005781,Text:"Sortes koleksyon an te konn chwazi yo chante tit yo."},{
+Key:1005782,Text:"Ferme du aktyèl la (Et mande pou ou konfimasyon si sont enregistrées chanjman)."},{
+Key:1005783,Text:"S' Klate a de estati ou jan nou koumanse vidéo.
+
+Pèmèt a tèks en, sou yon Fond barriole."},{
+Key:1005784,Text:"&Copie dekri teren ajenda a"},{
+Key:1005785,Text:"&Gen ladan yo mo sal yo ke chante"},{
+Key:1005786,Text:"&Gen ladan yo Biblik dans"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"S' paj facebook VideoPsalm.
+
+N' n' a konnen VideoPsalm nan ou.
+-Klike sou bouton an \"mwen renmen\"
+-pa vin zanmi l.
+
+<b>Remarque:</b> Pou éliminer les annonces nan Facebook, enstale lib plugin <b>Plis Adblock</b>.
+
+Kache icônes sosyal VideoPsalm, enfim yo nan \"Opsyon\" → onglet \"Général\"."},{
+Key:1005791,Text:"S' paj VideoPsalm Twitter, enfòmasyon sou nouvo atik de blogs.
+
+Kache icônes sosyal VideoPsalm, enfim yo nan \"Opsyon\" → onglet \"Général\"."},{
+Key:1005792,Text:"S' paj VideoPsalm YouTube, ki kote w ap jwenn vidéo didacticiels sou utiliser de VideoPsalm.
+
+Kache icônes sosyal VideoPsalm, enfim yo nan \"Opsyon\" → onglet \"Général\"."},{
+Key:1005793,Text:"Ajoute yon nouvo vid chante pou yo chante yo (oswa yon piblisite) a sélectionné koleksyon an."},{
+Key:1005794,Text:"Ajoute yon nouvo koleksyon vid."},{
+Key:1005795,Text:"Kalite chante koleksyon an te konn chwazi yo yo."},{
+Key:1005800,Text:"Stanza"},{
+Key:1005801,Text:"Koral"},{
+Key:1005802,Text:"Pre-chorus"},{
+Key:1005803,Text:"Pon, dan vise"},{
+Key:1005804,Text:"Etikèt"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Pèsistans yap ogmante jiska"},{
+Key:1005807,Text:"Manke/pèdi pa"},{
+Key:1005808,Text:"UN"},{
+Key:1005809,Text:"Lòt"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P I"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"mwen"},{
+Key:1005826,Text:"NOU MENM"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"YON"},{
+Key:1005850,Text:"Fèmen"},{
+Key:1005851,Text:"&Lang:"},{
+Key:1005852,Text:"&Piblikatè:"},{
+Key:1005853,Text:"Tout"},{
+Key:1005859,Text:"Transpose akò chante pou yo chante selon pozisyon an de capodiastre an."},{
+Key:1005860,Text:"Jwenn chante, a tit (ou alyas) ou mo sal yo ke contiennent les termes ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005861,Text:"Effectue yon rechèch nan de estaj, ki avantaj sou rapidement afficher yon lis ti chante:
+
+1 Jwenn nan yon premye chante lè ki, a tit (ou alyas) contient di ke ou antre.
+
+Ou ajoute pawòl yo, gen est yon moman kote pi fò tout chante kapab dakò.
+
+2. Nan pwen sa a, VideoPsalm ap chèche pou pawòl ki nan mo sal yo ke nan chante.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005862,Text:"Jwenn chante pa-ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005863,Text:"Jwenn chante ak sijè ke ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005864,Text:"Jwenn chante enspire pa Biblik références ke ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005865,Text:"Se chante ki gen a CCLI ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005866,Text:"Jwenn chante ki D' contient di ke ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005867,Text:"Jwenn chante ki de 1 contient di ke ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005868,Text:"Jwenn chante ki de 2 contient di ke ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005869,Text:"Jwenn chante, 3 de contenant les mots ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005870,Text:"Jwenn chante ki Tit ou alyas contient di ke ou antre.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005871,Text:"Jwenn chante ki gen akò nan mo sal yo ke yo.
+
+Altènativman, ou ka jwenn pou yon chante pou yo chante sou li anpil."},{
+Key:1005872,Text:"&Vèsyon pipiti de youn de:"},{
+Key:1005873,Text:"&Vèsyon pipiti de youn de:"},{
+Key:1005874,Text:"Dat ou vèsyon pipiti de youn ranmase kèt"},{
+Key:1005875,Text:"Endike dat sou ki sa a koleksyon te à pa VideoPsalm pou dènye fwa.
+
+Via VideoPsalm online bibliyotèk enpòte sòsye, ou kapab verifye si gen yon vèsyon plus de liv gid sa a.
+
+VideoPsalm sou liy pafwa à kèk koleksyon li yo, pou m korije pa ekzanp fautes tout."},{
+Key:1005876,Text:"Dat ou vèsyon pipiti de youn règ bib"},{
+Key:1005877,Text:"Endike dat li sou ki règ bib sa a ki te à pa VideoPsalm pou dènye fwa.
+
+Via la VideoPsalm online bibliyotèk enpòte sòsye, ou kapab verifye si gen yon vèsyon plus de tradiksyon sa a.
+
+VideoPsalm sou liy pafwa à Bibles kèk pou m korije pa ekzanp fautes tout."},{
+Key:1005878,Text:"Compressés"},{
+Key:1005879,Text:"Compressés"},{
+Key:1005880,Text:"VideoPsalm ka peze koleksyon yo ou Et Bibles ou, se mete sou kote kèk plas disque.
+
+Liv Et Bibles ou rale dosye via la sòsye enpòte sont généralement compressés, ekri nan liv télécharger la mache vit Et pou redwi trafik sou entènèt la sou sit VideoPsalm la."},{
+Key:1005881,Text:"&Compressés"},{
+Key:1005882,Text:"&Compressés"},{
+Key:1005884,Text:"Èske ou vle li toutbon pou retire Bib la '{0}'?
+
+Dokiman an chef règ bib sa a pral pa être supprimé de disque a:
+ekstansyon li pral renommée \".ignore."},{
+Key:1005885,Text:"Retire yon règ bib"},{
+Key:1005886,Text:"Tanpri tann souple"},{
+Key:1005887,Text:"Chaje nan pwogrè..."},{
+Key:1005888,Text:"Ansyen testaman"},{
+Key:1005889,Text:"Nouvo testaman"},{
+Key:1005890,Text:"Dosye kouran..."},{
+Key:1005891,Text:"&Enpòte zidòl"},{
+Key:1005892,Text:"Fè chwa ti zidòl kay ou vle pou enpòte Et ensuite Sur la louvri' sou."},{
+Key:1005893,Text:"Ou te enpòte {0} image (s)."},{
+Key:1005894,Text:"Foto pa ki te enpòte.
+(Li (s) trouve (s) nan abitid sou galeri a)."},{
+Key:1005895,Text:"&Recréer vignettes"},{
+Key:1005896,Text:"Recréer vignettes"},{
+Key:1005897,Text:"Èske ou vle pou recréer miniatures yo?
+
+Li kapab nesesè pou recréer miniatures de ti zidòl kay
+Ki lè ou te fè chanjman deyò VideoPsalm a."},{
+Key:1005898,Text:"&Retire estati a"},{
+Key:1005899,Text:"Retire yon imaj"},{
+Key:1005900,Text:"Èske ou vle li toutbon pou retire estati a '{0}'?"},{
+Key:1005901,Text:"&Chèche Katab zidòl la"},{
+Key:1005902,Text:"&Retire estati sélectionné"},{
+Key:1005903,Text:"&Enpòte vidéos"},{
+Key:1005904,Text:"Fè chwa les vidéos ou vle pou enpòte Et ensuite Sur la louvri' sou."},{
+Key:1005905,Text:"Ou te enpòte {0} videyo (s)."},{
+Key:1005906,Text:"Videyo pa ki te enpòte.
+(Li (s) trouve (s) nan abitid sou galeri a)."},{
+Key:1005907,Text:"&Recréer vignettes"},{
+Key:1005908,Text:"&Retire videyo a"},{
+Key:1005909,Text:"Retire yon videyo"},{
+Key:1005910,Text:"Èske ou vle li toutbon pou retire videyo a '{0}'?"},{
+Key:1005911,Text:"&Chèche Katab vidéos a"},{
+Key:1005912,Text:"&Retire a sélectionné videyo"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Importation zidòl"},{
+Key:1005915,Text:"Enpòte vidéos"},{
+Key:1005917,Text:"Pa ka kreye Katab a
+{0} :
+{1}"},{
+Key:1005918,Text:"Katab Pwogram leta a ki pa:
+{0}"},{
+Key:1005919,Text:"Katab a dwe rempli."},{
+Key:1005920,Text:"Yon Katab non pa kapab genyen ki te vin apwe caractères:
+{0}"},{
+Key:1005921,Text:"Liv restauration Et Bibles"},{
+Key:1005922,Text:"Pou rèstore koleksyon yo, Bibles, foto ou vidéos, pa ekzanp de yon sauvegarde USB yon sou pèse."},{
+Key:1005923,Text:"Fèmen"},{
+Key:1005930,Text:"&Copie a chante pou yo chante pou"},{
+Key:1005931,Text:"&Deplase a chante pou yo chante pou"},{
+Key:1005932,Text:"Èske ou vle li toutbon pou copie a chante pou yo chante '{0}'.
+pou koleksyon an '{1}'?"},{
+Key:1005933,Text:"Èske ou vle li toutbon pou yo avanse a chante pou yo chante '{0}'.
+pou koleksyon an '{1}'?"},{
+Key:1005934,Text:"&Antre nan références via abréviations"},{
+Key:1005935,Text:"&Afficher la te rele liv an Fransè"},{
+Key:1005936,Text:"(Kopi)"},{
+Key:1005937,Text:"Yon nouvo liv disponib.
+{0}"},{
+Key:1005938,Text:"Nouvo koleksyon yo disponib: {0}"},{
+Key:1005939,Text:"Koreksyon ki te fè
+koleksyon an '{0}'."},{
+Key:1005940,Text:"Koreksyon ki te fè
+codes swiv: {0}"},{
+Key:1005941,Text:"Louvri sòsye enpòte koleksyon yo"},{
+Key:1005942,Text:"Yon nouvo règ bib disponib.
+{0}"},{
+Key:1005943,Text:"Nouvo Bibles ki disponib: {0}"},{
+Key:1005944,Text:"Koreksyon ki te fè
+Bib la '{0}'."},{
+Key:1005945,Text:"Koreksyon ki te fè
+nan Bibles yo ki te vin apwe: {0}"},{
+Key:1005946,Text:"Louvri sòsye a pou importation Bibles"},{
+Key:1005947,Text:"VideoPsalm ki fèk disponib
+nan {0}"},{
+Key:1005948,Text:"VideoPsalm ki fèk disponib nan: {0}"},{
+Key:1005949,Text:"Koreksyon ki te fè
+étiquettes nan {0}"},{
+Key:1005950,Text:"Koreksyon ki te fè
+étiquettes lang swiv: {0}"},{
+Key:1005951,Text:"Louvri enpòte de etikèt sòsye"},{
+Key:1005952,Text:"Yon vèsyon pi resan
+VideoPsalm disponib."},{
+Key:1005953,Text:"Afficher nouvèl"},{
+Key:1005954,Text:"Otomatik"},{
+Key:1005955,Text:"Chèche a sélectionné Katab"},{
+Key:1005956,Text:"Chwazi yon Katab"},{
+Key:1005957,Text:"Afficher dènye sispann"},{
+Key:1005958,Text:"Mete sou kote"},{
+Key:1005959,Text:"Pèmèt pou mete sou kote ou koleksyon yo, Bibles, foto ou vidéos, ou fè yon pòtab vèsyon de VideoPsalm, pa ekzanp sou yon baton USB."},{
+Key:1005960,Text:"&Restauration..."},{
+Key:1005961,Text:"VideoPsalm kapab pou yo ekspoze dokiman PowerPoint.
+
+(Aplikasyon tip PowerPoint pa te lènmi sou PC ou)."},{
+Key:1005962,Text:"Erreur PowerPoint"},{
+Key:1005963,Text:"Fè {0} modifiable nan koleksyon an '{1}'."},{
+Key:1005964,Text:"Fè {0} modifiable nan koleksyon an..."},{
+Key:1005965,Text:"Fè {0} modifiable nan nouvo koleksyon an '{1}'."},{
+Key:1005966,Text:"Biblik pasaj"},{
+Key:1005967,Text:"&Personnalisés règ bib pasaj"},{
+Key:1005968,Text:"&Dekri teren:"},{
+Key:1005969,Text:"&Lang:"},{
+Key:1005970,Text:"&Piblikatè:"},{
+Key:1005971,Text:"&Administratè:"},{
+Key:1005973,Text:"&Administratè:"},{
+Key:1005974,Text:"Pi wo pase tèks"},{
+Key:1005975,Text:"Akò yo pi wo pase tèks"},{
+Key:1005976,Text:"Sa se ki mòd recommandé pou edite mo sal yo ke yo.
+Lè ou edite tèks lan, akò chak deplase ansanm ak lèt pou ki sa Janvye.
+
+Lè ou <b>akò ki kopi tèks</b>, akò sont copié ak tèks, fòma ChordPro a.
+
+Lè ou pat tèks ki genyen kèk akò nan fòma ChordPro a, VideoPsalm affiche akò sa yo pi wo pase tèks la.
+
+<b>Pou ajoute kontra a</b>, mete sou bò gòch lèt sa ou vle kochte l, pa entourant li ak supports <b>[]</b>.
+
+<b>Pou retire yon akò</b>, retire lèt la, kote li Station Et à lèt la.
+
+<b>Pou motifye akò a</b>, retire lè sa a, mete li kòrèkteman (ou sèvi ak mòd \" <b>Fòma ChordPro</b> \")."},{
+Key:1005977,Text:"Fòma ChordPro"},{
+Key:1005978,Text:"Fòma akò yo nan ChordPro a"},{
+Key:1005979,Text:"Nan mòd sa a:
+
+-VideoPsalm affiche mo sal yo ke Et accords ak a <b>fòma ChordPro</b>.
+
+-Sa se a idéal transpò yo itilize pou modification akò: VideoPsalm otomatikman ajoute Akolad [] autour tèks ke ou antre.
+Pa egzanp, ajoute yon c corde, gwoup «Èske» Et VideoPsalm ap mete \"[èske]\".
+
+Atansyon: mòd sa a pa fèt nan Kiba modification paroles yo, paske sa ka an, selon VideoPsalm entoure lèt de kwòk.
+Sèvi ak non '<b>pi wo pase tèks</b>' mòd pou edite tèks la."},{
+Key:1005980,Text:"Akò yo"},{
+Key:1005981,Text:"Kopi"},{
+Key:1005982,Text:"Copies dekri teren lan kalandrye an ak kote l sou Presse-papiers la."},{
+Key:1005983,Text:"&Pèmèt PowerPoint pou itilize \"présentateur\"."},{
+Key:1005984,Text:"Lè bwat sa a Tyeke, VideoPsalm fèy PowerPoint afficher entèfas kòmandman li pou li kondi avansman de la présentation."},{
+Key:1005985,Text:"Rechercher une"},{
+Key:1005986,Text:"Sterilè"},{
+Key:1005987,Text:"Ranpli dosye an lamen"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&An avans otomatik..."},{
+Key:1005990,Text:"&Ranpli dosye an lamen"},{
+Key:1005991,Text:"&Sterilè"},{
+Key:1005992,Text:"&Rechercher une"},{
+Key:1005993,Text:"&Entèval (segond):"},{
+Key:1005994,Text:"&Fè disparèt tèks la. Lè sa a fèmen"},{
+Key:1005995,Text:"&Swiv ak eleman kap vini an"},{
+Key:1005996,Text:"&Fèmen devan va"},{
+Key:1005997,Text:"&Disparaître tèks lè sa a, swiv"},{
+Key:1005998,Text:"&Afficher ansanm avèk pwochen eleman (bileng)"},{
+Key:1005999,Text:"&Onn"},{
+Key:1006000,Text:"Enpòte sòsye"},{
+Key:1006001,Text:"Bienvenue pou enpòte de liv, Bibles, foto Et vidéos, sòsye"},{
+Key:1006002,Text:"Sòsye sa a simplifies importation de liv, Bibles, zidòl Et vidéos de bibliyotèk la online VideoPsalm ou be'l varyete popilè fo'm mennen nou nan yon seri de mesures."},{
+Key:1006003,Text:"Regard Sur kontinye"},{
+Key:1006004,Text:"&Chwazi..."},{
+Key:1006005,Text:"&Pwochen &gt;"},{
+Key:1006006,Text:"&&lt; Précédente"},{
+Key:1006007,Text:"&Anmwe"},{
+Key:1006008,Text:"&Fini"},{
+Key:1006009,Text:"&Ti"},{
+Key:1006010,Text:"Ou kapab enpòte liv, Bibles, foto ou vidéos"},{
+Key:1006011,Text:"Chwazi sa nou vle pou yo te enpòte"},{
+Key:1006012,Text:"Enpòte yon ranmase kèt"},{
+Key:1006013,Text:"Enpòte yon règ bib"},{
+Key:1006014,Text:"Enpòte zidòl"},{
+Key:1006015,Text:"Enpòte vidéos"},{
+Key:1006016,Text:"Enpòte yon lang"},{
+Key:1006020,Text:"&Initialiser"},{
+Key:1006021,Text:"Initialise Katab pou yon valè estanda"},{
+Key:1006023,Text:"Rezime devan tax"},{
+Key:1006024,Text:"Regard Sur pou yo kòmanse a tax"},{
+Key:1006025,Text:"Enpòte kouran"},{
+Key:1006026,Text:"Enpòte nèt sou tout pwen"},{
+Key:1006027,Text:"Pou fèmen sòsye a, Sur fin
+
+Sur tounen pou yo te enpòte yon lòt koleksyon ou yon lòt règ bib"},{
+Key:1006029,Text:"Ou gen {0} avec enpòte chante nan {1} koleksyon yo."},{
+Key:1006030,Text:"Ou gen {0} avec enpòte chante nan nouvo koleksyon an '{1}'."},{
+Key:1006031,Text:"Ou te enpòte a '{0}' règ bib ak siksè."},{
+Key:1006032,Text:"Ou te enpòte {0} Bibles ak siksè."},{
+Key:1006033,Text:"Ou te enpòte '{0}' lang ak siksè."},{
+Key:1006034,Text:"Ou te enpòte {0} lang anpil siksè."},{
+Key:1006035,Text:"Èske ou vle pou yo sispann enpòte a?"},{
+Key:1006036,Text:"Enpòte a pa ranpli correctement."},{
+Key:1006037,Text:"Antre nan yon non pou sa a nouvo koleksyon de VideoPsalm"},{
+Key:1006038,Text:"Nouvo koleksyon an ap sove anba non sa a. Non sa a ka chanje pi ta"},{
+Key:1006039,Text:"&Non pou l ' koleksyon an:"},{
+Key:1006040,Text:"Bay yon non sa a nouvo règ bib VideoPsalm"},{
+Key:1006041,Text:"A nouvo règ bib ap sove anba non sa a. Non sa a ka chanje pi ta"},{
+Key:1006042,Text:"&Non pou l ' règ bib la:"},{
+Key:1006051,Text:"Fè chwa koleksyon yo"},{
+Key:1006052,Text:"Fè chwa Bibles"},{
+Key:1006053,Text:"Chwazi yon fichier"},{
+Key:1006054,Text:"Chwazi yon Katab"},{
+Key:1006055,Text:"&Fichier:"},{
+Key:1006056,Text:"&Fichier:"},{
+Key:1006057,Text:"Sélectionnez lang"},{
+Key:1006058,Text:"Katab a '{0}' pa egziste."},{
+Key:1006060,Text:"Pas accès Katab a '{0}'.
+
+{1}"},{
+Key:1006061,Text:"Dokiman an '{0}' pa egziste."},{
+Key:1006062,Text:"Atansyon: Chaje de anpil koleksyon yo ka ranpli PC la bliye Et lente rechèch la pou chante.
+Èske se vre rale dosye ou {0} koleksyon yo?"},{
+Key:1006063,Text:"Atansyon: Chaje de anpil Bibles ka kont li bliye PC.
+Èske se vre rale dosye ou {0} Bibles?"},{
+Key:1006064,Text:"Lòt non pa kapab vid."},{
+Key:1006065,Text:"Lòt non a pa ka gen {0} characters: ki te vin apwe a"},{
+Key:1006066,Text:"Se la deja yon koleksyon avèk non '{0}'."},{
+Key:1006067,Text:"Se la deja yon règ bib avèk non '{0}'."},{
+Key:1006068,Text:"Ou te kanpe enpòte a."},{
+Key:1006069,Text:"Tyeke ou kouche sou entènèt la."},{
+Key:1006070,Text:"Disponibles dans la {0}"},{
+Key:1006071,Text:"Nouvo vèsyon disponib depi {0} a"},{
+Key:1006072,Text:"Dat vèsyon pipiti de youn ou de la {0}"},{
+Key:1006073,Text:"Ou vèsyon pipiti de youn de la {0} jour."},{
+Key:1006074,Text:"Tit"},{
+Key:1006075,Text:"Eta"},{
+Key:1006076,Text:"Pa téléchargés"},{
+Key:1006077,Text:"Ajou"},{
+Key:1006078,Text:"Ajou disponib"},{
+Key:1006079,Text:"Nouvo"},{
+Key:1006080,Text:"Nouvo ajou disponib"},{
+Key:1006081,Text:"Ranmase kèt pa te chwazi.
+Ou dwe fè chwa omwen yon koleksyon."},{
+Key:1006082,Text:"Règ bib pa te chwazi.
+Ou dwe fè chwa nan omwen yon règ bib."},{
+Key:1006083,Text:"Lang pa te chwazi.
+Ou dwe fè chwa omwen yon lang."},{
+Key:1006084,Text:"Kòd"},{
+Key:1006085,Text:"Sous file: <b>{0}</b>"},{
+Key:1006086,Text:"Katab sous:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokiman yo ap chache"},{
+Key:1006090,Text:"Non bay le nouvo règ bib VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Pou nouvo koleksyon an de VideoPsalm name: <b>{0}</b>"},{
+Key:1006095,Text:"Nan bibliyotèk la de VideoPsalm sou liy, li egziste ke kèk dokiman ki te ajoute ke ou à (pa egzanp lè w pou m korije yon frappe).
+Selon leta a ki dokiman CI-dessus, ou ka deside si ou pas pou rale dosye yo.
+
+<b>Isit la se kòman pou distenge leta a nan dokiman:</b>
+-Dokiman sa ou pa ont telechaje sont affichées nan nòmal.
+-Dokiman sa yo nou te télécharger Et sont à montre nan <i>en</i>. Yo make ak yon <image=check_16>pa pi mal.
+Ou pa bezwen pou re - desann, nan ka sa a kote ou vle pou anile pwogram nenpòt chanjman ki fèt nou te fè.
+-Dokiman sa ou te télécharger Et bati nou le temps koreksyon nan bibliyotèk online VideoPsalm, parèt nan <b>gras</b>. Yo make ak yon kreyon <image=pencil2_16>.
+
+Bwat tèks la sou bò dwat dekri koreksyon ki te fèt pou dokiman an, sa ka ede ou deside si ou vle pou re - desann.
+
+<b>Atansyon:</b> Si ou à dokiman ou nan re-uploading, ou pwal pèdi tout chanjman pou ou pran ka, osi byen ke fason li attributs paske VideoPsalm remplace ou sa l' téléchargements.
+Fichier pwòp pa supprimé, sepandan, li rete sou disque men devient envizib nan VideoPsalm paske VideoPsalm renomme elajisman li nan .ignore.
+
+<b>Konsèy</b> : sèlman rale dosye ki dokiman sa kapab itil.
+An efè, si ou gen twòp dokiman, chaje de VideoPsalm pral tounen petèt plus, menm jan yo chache pa mot.
+
+Note ke ou kapab nan nenpòt ki lè retire yon liv ou yon règ bib de VideoPsalm ou. Pou w fè sa, itilize bouton a ' <image=delete2_16>retire ' nan a onglet 'Édition'.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Istwa chanjman pou '{0}'."},{
+Key:1006100,Text:"Koleksyon yo nan bibliyotèk la de VideoPsalm sou liy"},{
+Key:1006105,Text:"EasySlides chante"},{
+Key:1006110,Text:"MediaShout chante"},{
+Key:1006115,Text:"OpenLP chante"},{
+Key:1006116,Text:"VerseView chante"},{
+Key:1006120,Text:"Chante nan a fòma 'OpenLyrics'."},{
+Key:1006125,Text:"OpenSong chante"},{
+Key:1006130,Text:"Yon koleksyon de Psalmo"},{
+Key:1006131,Text:"Yon koleksyon nan tèks fòma"},{
+Key:1006132,Text:"Chante de EasyWorship 2009"},{
+Key:1006133,Text:"Chante nan fòma \"ChordPro\"."},{
+Key:1006134,Text:"Chante de WebAsaph"},{
+Key:1006135,Text:"Chante nan fòma «CCLI."},{
+Key:1006140,Text:"Bibles nan bibliyotèk la de VideoPsalm sou liy"},{
+Key:1006145,Text:"Règ bib yon règ bib de"},{
+Key:1006150,Text:"Yon règ bib de OpenLP"},{
+Key:1006155,Text:"Yon règ bib de OpenSong"},{
+Key:1006160,Text:"Yon règ bib de non règ bib"},{
+Key:1006165,Text:"Yon Zefania règ bib"},{
+Key:1006166,Text:"Yon règ bib de EasySlides"},{
+Key:1006167,Text:"Yon Bib nan a fòma \"Osis\"."},{
+Key:1006168,Text:"Yon règ bib nan liv fòma «USFM» (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Fè chwa koleksyon yo nan bibliyotèk la de VideoPsalm sou liy ou vle pou yo te enpòte nan VideoPsalm ou"},{
+Key:1006185,Text:"Chwazi yon de Des EasySlides contenant chante ou vle pou yo te enpòte nan ou VideoPsalm (fichier .mdb ekstansyon)"},{
+Key:1006190,Text:"Chwazi yon de Des MediaShout contenant chante ou vle pou yo te enpòte nan ou VideoPsalm (fichier .mdb ekstansyon)"},{
+Key:1006195,Text:"Chwazi yon de Des OpenLP contenant chante ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .sqlite fichier)"},{
+Key:1006196,Text:"Chwazi yon de Des VerseView contenant chante ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .db fichier)"},{
+Key:1006200,Text:"Chwazi yon Katab ki gen ladann chante nan 'OpenLyrics' fòma ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .xml sispann)"},{
+Key:1006205,Text:"Chwazi yon Katab contenant chante OpenSong ou vle pou yo te enpòte nan ou VideoPsalm (sispann san ekstansyon)"},{
+Key:1006210,Text:"Chwazi yon exporté Psalmo recueil RTF fòma ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .rtf fichier)"},{
+Key:1006211,Text:"Chwazi yon koleksyon nan tèks fòma ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .txt fichier)"},{
+Key:1006212,Text:"Fè chwa de yon EasyWorship 2009 contenant chante ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .db fichier)"},{
+Key:1006213,Text:"Chwazi yon Katab ki gen ladann chante nan ChordPro fòma ou vle pou yo te enpòte nan ou VideoPsalm (.chordpro, .chopro, .crd ou .cho ekstansyon sispann)"},{
+Key:1006214,Text:"Chwazi yon de Des WebAsaph contenant chante ou vle pou yo te enpòte nan ou VideoPsalm (fichier ekstansyon .ltc)"},{
+Key:1006215,Text:"Chwazi yon Katab ki gen ladann chante nan fòma CCLI pou yo te enpòte nan ou VideoPsalm (ekstansyon .usr fichiers)"},{
+Key:1006220,Text:"Fè chwa Bibles de VideoPsalm online bibliyotèk la ou vle pou yo te enpòte nan VideoPsalm ou"},{
+Key:1006225,Text:"Chwazi yon règ bib de règ bib de ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .txt fichier)"},{
+Key:1006230,Text:"Chwazi yon règ bib OpenLP, ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .sqlite fichier)"},{
+Key:1006235,Text:"Chwazi yon règ bib de OpenSong ou vle pou yo te enpòte nan ou VideoPsalm (fichier san ekstansyon)"},{
+Key:1006240,Text:"Chwazi yon règ bib de non Bib, ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .txt fichier)"},{
+Key:1006245,Text:"Chwazi yon Zefania Bib ou vle pou yo te enpòte nan ou VideoPsalm (ekstansyon .xml fichier)"},{
+Key:1006247,Text:"Chwazi yon règ bib de EasySlides ou vle pou yo te enpòte nan ou VideoPsalm (fichier .mdb ekstansyon)"},{
+Key:1006248,Text:"Chwazi yon règ bib nan fòma \"Osis\" pou yo te enpòte nan ou VideoPsalm (ekstansyon .xml, .osi ou .osis fichier)"},{
+Key:1006249,Text:"Fè chwa liv de yon règ bib, \"USFM\" fòma pou yo te enpòte nan ou VideoPsalm (ekstansyon .sfm ou .usfm fichiers)"},{
+Key:1006252,Text:"Fè chwa lang peyi a VideoPsalm online bibliyotèk ou vle pou yo te enpòte nan VideoPsalm ou"},{
+Key:1006255,Text:"Enpòte <b>{0} koleksyon (s) de bibliyotèk la de VideoPsalm sou liy</b> :
+{1}"},{
+Key:1006260,Text:"Enpòte <b>EasySlides chante</b>"},{
+Key:1006265,Text:"Enpòte <b>chante de MediaShout</b>"},{
+Key:1006270,Text:"Enpòte <b>de OpenLP chante</b>"},{
+Key:1006271,Text:"Apwè ke <b>VerseView ap chante</b>"},{
+Key:1006275,Text:"Enpòte <b>chante nan fòma, «OpenLyrics»</b>"},{
+Key:1006280,Text:"Enpòte <b>de OpenSong chante pou yo chante</b>"},{
+Key:1006285,Text:"Enpòte <b>yon koleksyon de Psalmo</b>"},{
+Key:1006286,Text:"Enpòte <b>yon koleksyon tèks</b>"},{
+Key:1006287,Text:"<b>Enpòte chante EasyWorship 2009</b>"},{
+Key:1006288,Text:"Enpòte <b>chante nan ChordPro fòma</b>"},{
+Key:1006289,Text:"Enpòte <b>chante de WebAsaph</b>"},{
+Key:1006290,Text:"Enpòte <b>fòma CCLI chante</b>"},{
+Key:1006295,Text:"Enpòte <b>{0} Bib (s) de bibliyotèk la de VideoPsalm sou liy</b> :
+{1}"},{
+Key:1006300,Text:"Enpòte <b>yon règ bib de règ bib de</b>"},{
+Key:1006305,Text:"Enpòte <b>yon règ bib de OpenLP</b>"},{
+Key:1006310,Text:"Enpòte <b>yon règ bib de OpenSong</b>"},{
+Key:1006315,Text:"Enpòte <b>yon règ bib de non règ bib</b>"},{
+Key:1006320,Text:"Enpòte <b>Yon Zefania règ bib</b>"},{
+Key:1006321,Text:"Enpòte <b>Yon EasySlides règ bib</b>"},{
+Key:1006322,Text:"Enpòte <b>yon règ bib nan a fòma \"Osis\"</b>"},{
+Key:1006323,Text:"Enpòte <b>yon règ bib nan a fòma «USFM»</b>"},{
+Key:1006325,Text:"Enpòte <b>{0} lang (s) de bibliyotèk la de VideoPsalm sou liy</b> :
+{1}"},{
+Key:1006340,Text:"Chwazi yon de de EasySlide"},{
+Key:1006345,Text:"Chwazi yon MediaShout de"},{
+Key:1006350,Text:"Chwazi yon de de OpenLP"},{
+Key:1006351,Text:"Chwazi yon de de VerseView"},{
+Key:1006355,Text:"Chwazi yon Katab ki gen ladann chante a fòma 'OpenLyrics'."},{
+Key:1006360,Text:"Chwazi yon Katab ki gen ladann chante de OpenSong"},{
+Key:1006365,Text:"Sélectionnez yon RTF fichier contenant yo te ekspòte pwodwi Psalmo chante"},{
+Key:1006366,Text:"Chwazi yon fichier contenant chante nan tèks fòma"},{
+Key:1006367,Text:"Fè chwa de yon EasyWorship 2009"},{
+Key:1006368,Text:"Chwazi yon Katab ki gen ladann chante nan fòma \"ChordPro\"."},{
+Key:1006369,Text:"Chwazi yon WebAsaph de"},{
+Key:1006370,Text:"Chwazi yon Katab ki gen ladann chante nan fòma «CCLI."},{
+Key:1006375,Text:"Chwazi yon règ bib de BibleDatabase"},{
+Key:1006380,Text:"Chwazi yon règ bib de OpenLP"},{
+Key:1006385,Text:"Chwazi yon règ bib de OpenSong"},{
+Key:1006390,Text:"Chwazi yon règ bib de non règ bib"},{
+Key:1006395,Text:"Chwazi yon Zefania règ bib"},{
+Key:1006397,Text:"Chwazi yon règ bib de EasySlides"},{
+Key:1006398,Text:"Chwazi yon règ bib la fòma \"Osis\"."},{
+Key:1006399,Text:"Fè chwa liv de yon règ bib la fòma \"USFM."},{
+Key:1006405,Text:"EasySlide de"},{
+Key:1006410,Text:"MediaShout 4 de"},{
+Key:1006411,Text:"MediaShout 3 de"},{
+Key:1006415,Text:"OpenLP de"},{
+Key:1006416,Text:"Données de EasyWorship 2009"},{
+Key:1006417,Text:"VerseView de"},{
+Key:1006420,Text:"Katab a '{0}'.
+contient pa chante nan fòma 'OpenLyrics' (ekstansyon xml) a."},{
+Key:1006425,Text:"Katab a '{0}'.
+contient pa chante OpenSong (chante OpenSong sont sispann san ekstansyon)."},{
+Key:1006430,Text:"Chante yo te ekspòte pwodwi de Psalmo"},{
+Key:1006431,Text:"Chante nan tèks fòma"},{
+Key:1006432,Text:"Katab a '{0}'.
+contient pa chante nan fòma \"ChordPro\" (ekstansyon chopro/chordpro, crd ak cho) a."},{
+Key:1006433,Text:"WebAsaph de"},{
+Key:1006434,Text:"Katab a '{0}'.
+contient pa chante pou yo chante nan fòma, «CCLI» (.usr ekstansyon)."},{
+Key:1006440,Text:"BibleDatabase Bibles"},{
+Key:1006445,Text:"OpenLP Bibles"},{
+Key:1006450,Text:"OpenSong Bibles"},{
+Key:1006455,Text:"Règ bib non Bibles"},{
+Key:1006460,Text:"Zefania Bibles"},{
+Key:1006462,Text:"EasySlides Bibles"},{
+Key:1006463,Text:"Bibles nan la fòma \"Osis\"."},{
+Key:1006464,Text:"Liv de règ bib lan nan a fòma \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Mwen renmen Seyè a, 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Mwen chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Mwen renmen Seyè a"},{
+Key:1006510,Text:"MSAccess de"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Sispann tout"},{
+Key:1006520,Text:"Sqlite de"},{
+Key:1006525,Text:"Paradox de"},{
+Key:1006526,Text:"De WebAsaph"},{
+Key:1006600,Text:"Chwazi bibliyotèk online VideoPsalm la oubyen yon lòt sous"},{
+Key:1006601,Text:"VideoPsalm online bibliyotèk gen anpil koleksyon yo nan plizyè lang"},{
+Key:1006602,Text:"VideoPsalm online (entènèt koneksyon requis pandan apwè ke) bibliyotèk"},{
+Key:1006603,Text:"Ap chante nan yon popilè, pou yo te enpòte sou fòma Diskèt pou kenbe ou"},{
+Key:1006604,Text:"Chwazi bibliyotèk online VideoPsalm la oubyen yon lòt sous"},{
+Key:1006605,Text:"VideoPsalm online bibliyotèk contient anpil tradiksyon de règ bib lan nan lòt lang"},{
+Key:1006606,Text:"VideoPsalm online (entènèt koneksyon requis pandan apwè ke) bibliyotèk"},{
+Key:1006607,Text:"Yon règ bib nan yon popilè, pou yo te enpòte sou fòma Diskèt pou kenbe ou"},{
+Key:1006608,Text:"Ki sa ki sous la de fòma chante ou?"},{
+Key:1006609,Text:"Nan ki sa wap fòma sous règ bib la"},{
+Key:1006610,Text:"Ou kapab enpòte nan VideoPsalm ou yon règ bib nan yon fòma popilè nan PC ou"},{
+Key:1006611,Text:"Ou kapab enpòte nan ou VideoPsalm nan yon chante fòma popilè nan PC ou"},{
+Key:1007000,Text:"Sauvegarde"},{
+Key:1007001,Text:"Èske ou vle pou yo kòmanse sauvegarde de VideoPsalm nan Katab a
+« {0} » ?"},{
+Key:1007004,Text:"Pa ka fè la sauvegarde nan sélectionné Katab a,
+paske li lokalize nan Katab aktyèl la nan dokiman VideoPsalm yo
+({0})."},{
+Key:1007005,Text:"Pa gen ase plas sou lecteur {0}.
+Ta dwe {1: nimewo, nimewo. nimewo} MO, Et genyen sèlman {2: nimewo, nimewo. nimewo} MO disponib."},{
+Key:1007006,Text:"Yo te kapab pa konplete la sauvegarde:
+
+{0}"},{
+Key:1007007,Text:"Pat kapab pou rale dosye Microsoft .NET-4.0:
+
+{0}
+
+Sa ka an absans kouche sou entènèt.
+Sauvegarde a pwal kontinye nòmalman,
+Men, ou pa p ka pou yo enstale Microsoft .NET-4.0 de la sauvegarde."},{
+Key:1007008,Text:"{0} fin"},{
+Key:1007009,Text:"Rappel: Sauvegarde te kapab pa copie
+installation de Microsoft .NET-4.0."},{
+Key:1007010,Text:"La sauvegarde correctement pou fini."},{
+Key:1007011,Text:"Èske ou vle pou abandone sauvegarde a?"},{
+Key:1007030,Text:"Chwazi yon Katab oswa pou l kreye les-in-UN mete yon sauvegarde de VideoPsalm"},{
+Key:1007031,Text:"La sauvegarde copie dokiman ou (liv, Bibles, foto, vidéos, estil) pou ki kote ke ou spécifier, pa egzanp:
+-yon USB
+-yon eksteryè lou,
+-yon Katab rezo,
+-ets.
+
+<b>Sauvegarde vous ou y:</b>
+-pou mete sekirite dokiman ou pa duplication yo sou yon lòt mwayen,
+-pou konstwi yon vèsyon pòtab de VideoPsalm, pa ekzanp sou USB yon moso bwa.
+-pou yo retire fasil dokiman ou sou konpitè yon lòt ap itilize fonksyon restauration,
+-a doub ou dokiman pou plizyè configurations de koleksyon yo ak estil yo sou menm konpitè a.
+
+<b>Remarque:</b> Pou synchronisation dosye VideoPsalm yo, nan mitan plizyè ordinateurs, ou ka chwazi pi dirèkteman pou yon synchronisation tankou SkyDrive ou D' sèvis."},{
+Key:1007032,Text:"Chwazi ki dokiman ou vle pou sove:"},{
+Key:1007033,Text:"&Koleksyon yo"},{
+Key:1007034,Text:"&Bibles"},{
+Key:1007035,Text:"&Zidòl"},{
+Key:1007036,Text:"&Vidéos"},{
+Key:1007037,Text:"&Mete sou kote ou dokiman sou:"},{
+Key:1007038,Text:"Presize Katab a kote ou ekonomize dokiman VideoPsalm de la.
+
+Pa egzanp: «E:\\Ma sauvegarde VideoPsalm.
+
+Si Katab a pa egziste yo a, li te ap kreye otomatikman lè la sauvegarde."},{
+Key:1007039,Text:"&Kreye yon aplikasyon pòtab VideoPsalm"},{
+Key:1007040,Text:"Ajoute tout fichier sispann nesesè pou operasyon an ki VideoPsalm pou la sauvegarde Katab.
+
+An jeneral, se sou yon kle USB ou vle kreye yon aplikasyon pòtab VideoPsalm.
+
+Yon sauvegarde pòtab kouri VideoPsalm sou tout lòt konpitè, ki soti dirèkteman nan kle USB, san bezwen pou yo enstale VideoPsalm.
+
+Kòmanse VideoPsalm a nan kle USB a, ou va gen aksè pou tout fonksyon de VideoPsalm, notamment la sauvegarde. Sa pèmèt pou sove VideoPsalm sou lòt konpitè a, se konsa anbake gwoup apwe gwoup kouri sa pa kle USB lou.
+
+<b>Enpòtan</b>
+Posiblite VideoPsalm sont ajoutés pa pou la sauvegarde.
+Nan premye pèfòmans VideoPsalm sou yon òdinatè bay, ou ka bezwen pou ajiste pwogram VideoPsalm, pa ekzanp lisans pou legliz la."},{
+Key:1007041,Text:"&Ajoute ak pwogram Microsoft .NET-, 4.0 du"},{
+Key:1007042,Text:"Pou opere, VideoPsalm bezwen .NET 4.0 Cadre de Microsoft. Ordinateurs plus konn gen 4.0-.NET ou plus préinstallé. Si ou pa asire ke 4.0-.NET installé sou lòt konpitè a, tcheke Bwat la, \"Ajouter du de .NET-4.0. VideoPsalm a lè sa a lieu sou bwa USB yon kopi de configuration de .NET-4.0 (yon koneksyon entènèt kapab mande pou fè sa).
+
+De kle USB a, ou kapab byen mete 4.0-.NET sou lòt konpitè a anvan ou kòmanse VideoPsalm. Enstalasyon .NET-4.0 an trè vit Et pa redémarrer fennèt nòmalman.
+
+W ap jwenn enstalasyon de fichier .NET-4.0 nan la sauvegarde Katab. Fichier sa a rele \"dotNetFx40_Full_x86_x64.exe. Pou kòmanse enstalasyon de .NET-4.0 sou yon lòt konpitè, Sur sa a fichier."},{
+Key:1007043,Text:"&Kòmanse bak aryè"},{
+Key:1007044,Text:"A télécharger Microsoft .NET-4.0"},{
+Key:1007045,Text:"&Katab (Katab sa ap sove) dokiman VideoPsalm:"},{
+Key:1007046,Text:"Kite koleksyon yo de a spécifiée Katab devan pou sove mwen li ye"},{
+Key:1007047,Text:"Retire koleksyon yo nan Pwogram leta Katab Avant pou sove mwen li ye"},{
+Key:1007048,Text:"Kite Bibles de Katab Pwogram leta a anvan y enregistrer pa m lan"},{
+Key:1007049,Text:"Supprimer les Bibles de la Katab spécifiée devan se enregistrer pa m lan"},{
+Key:1007050,Text:"Kite zidòl nan Katab a te afiche devan se enregistrer pa m lan"},{
+Key:1007051,Text:"Zidòl supprimer de la Katab spécifiée devan se enregistrer pa m lan"},{
+Key:1007052,Text:"Je vidéos nan Katab a te afiche devan se enregistrer pa m lan"},{
+Key:1007053,Text:"Retire vidéos de Pwogram leta Katab Avant pou sove mwen li ye"},{
+Key:1007054,Text:"Chwazi yon Katab oswa pou l kreye yon mete yon sauvegarde de VideoPsalm"},{
+Key:1007055,Text:"Pèmèt adyo de la Katab spécifiée anvan se enregistrer pa m lan"},{
+Key:1007056,Text:"Odyo supprimer de la Katab spécifiée devan se enregistrer pa m lan"},{
+Key:1007057,Text:"&Audios"},{
+Key:1008000,Text:"Restauration sauvegarde yon"},{
+Key:1008001,Text:"Èske ou vle pou restore yon sauvegarde de VideoPsalm de Katab a
+« {0} » ?
+
+Koute: Selon opsyon sa ou te chwazi a, dokiman aktyèl ou pral être ranplase ou supprimée."},{
+Key:1008002,Text:"Souple antre Katab a de sauvegarde pou rèstore."},{
+Key:1008004,Text:"Pat kapab pou restore yon sauvegarde de Katab a ou chwazi,
+paske li lokalize nan Katab aktyèl la nan dokiman VideoPsalm yo."},{
+Key:1008006,Text:"Pat kapab pou konplete restauration a:
+
+{0}"},{
+Key:1008010,Text:"Restorasyon a te fin pase."},{
+Key:1008011,Text:"Èske ou vle pou abandone restorasyon?"},{
+Key:1008012,Text:"Restauration sauvegarde yon"},{
+Key:1008032,Text:"Chwazi ki dokiman ou vle pou rèstore:"},{
+Key:1008033,Text:"&Koleksyon yo"},{
+Key:1008034,Text:"&Bibles"},{
+Key:1008035,Text:"&Zidòl"},{
+Key:1008036,Text:"&Vidéos"},{
+Key:1008043,Text:"&Restauration"},{
+Key:1008044,Text:"Kite m' koleksyon yo anvan li te rèstore de sauvegarde"},{
+Key:1008045,Text:"Retire koleksyon m' yo anvan li te rèstore de sauvegarde"},{
+Key:1008046,Text:"Je Bibles m' devan rèstore de sauvegarde"},{
+Key:1008047,Text:"Retire Bibles m' devan rèstore de sauvegarde"},{
+Key:1008048,Text:"Kite zidòl m' devan rèstore de sauvegarde"},{
+Key:1008049,Text:"Retire zidòl m' devan rèstore de sauvegarde"},{
+Key:1008050,Text:"Kite m' vidéos devan rèstore de sauvegarde"},{
+Key:1008051,Text:"Retire vidéos m' devan rèstore de sauvegarde"},{
+Key:1008052,Text:"&Restauration yon sauvegarde de:"},{
+Key:1008053,Text:"Isit la spécifier Katab a kote dosye de VideoPsalm a pou restore.
+
+Egzanp: 'E:\\VideoPsalm'."},{
+Key:1008054,Text:"&Katab (a Katab kote pral restore la sauvegarde) dokiman VideoPsalm:"},{
+Key:1008055,Text:"Rafrechi"},{
+Key:1008056,Text:"Chwazi yon Katab ki gen ladann yon sauvegarde de VideoPsalm"},{
+Key:1008057,Text:"&Audios"},{
+Key:1008058,Text:"Kite m' audios anvan li te rèstore de sauvegarde"},{
+Key:1008059,Text:"Retire odyo m' devan rèstore de sauvegarde"},{
+Key:1008999,Text:"Vidéo projecteur"},{
+Key:1009000,Text:"yon chante pou yo chante"},{
+Key:1009001,Text:"{0} chante"},{
+Key:1009002,Text:"yon lis de dans"},{
+Key:1009003,Text:"lis {0} de dans"},{
+Key:1009004,Text:"yon imaj"},{
+Key:1009005,Text:"zidòl {0}"},{
+Key:1009006,Text:"Règ bib '{0}'."},{
+Key:1009007,Text:"Chapit {0}"},{
+Key:1009009,Text:"{0} Bibles"},{
+Key:1009010,Text:"Imaj '{0}'."},{
+Key:1009011,Text:"{0} ({1} zidòl)"},{
+Key:1009012,Text:"zidòl {0}"},{
+Key:1009013,Text:"{0} ({1} diapositives)"},{
+Key:1009014,Text:"{0} Des"},{
+Key:1009015,Text:"Chaje tout kalite defo"},{
+Key:1009016,Text:"Chaje de fason de koleksyon yo"},{
+Key:1009017,Text:"Chaje koleksyon an '{0}'."},{
+Key:1009018,Text:"Chaje de fason de Bibles yo"},{
+Key:1009019,Text:"Chaje Bib la '{0}'."},{
+Key:1009020,Text:"Fichier: {0}"},{
+Key:1009100,Text:"{0} ({1} chante)"},{
+Key:1009101,Text:"{0} (yon moun ki pa marye chante)"},{
+Key:1009102,Text:"{0} (chant pa)"},{
+Key:1009103,Text:"Se la deja ranpli yon '{0}'.
+nan ki VideoPsalm ta sove nouvo koleksyon an '{1}'.
+
+Li se enposib pou sove koleksyon nouvo sa a.
+Fè yon Abreviyasyon ou inik nonmen non l ' pou sa a nouvo koleksyon Et eseye enregistrement ankò."},{
+Key:1009104,Text:"Enskripsyon te tonbe"},{
+Key:1009105,Text:"Pat kapab pou yo avanse dokiman an
+{0}
+vè
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} Koleksyon yo"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} dans)"},{
+Key:1009111,Text:"Videyo '{0}'."},{
+Key:1009112,Text:"{0} ({1} vidéos)"},{
+Key:1009113,Text:"vidéos {0}"},{
+Key:1009114,Text:"Pa t ' kapab mete sou kote koleksyon an.
+Non koleksyon an pou kapab mete l' sou kote."},{
+Key:1010000,Text:"Wè plis koulè"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Fèmen"},{
+Key:1010003,Text:"&Ajou"},{
+Key:1010004,Text:"Anile"},{
+Key:1010005,Text:"Oke"},{
+Key:1010006,Text:"Afficher mwens koulè"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Fèmen san insertion jaden"},{
+Key:1011001,Text:"Abreviyasyon de koleksyon an"},{
+Key:1011002,Text:"Alyas"},{
+Key:1011003,Text:"Otè de chante pou yo chante"},{
+Key:1011004,Text:"Otè de koleksyon an"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Kle"},{
+Key:1011007,Text:"Konpozè"},{
+Key:1011008,Text:"Droit de la chante pou yo chante"},{
+Key:1011009,Text:"D' liv la"},{
+Key:1011010,Text:"Etikèt de la Kouplè"},{
+Key:1011011,Text:"Etikèt ki ak anpil Kouplè"},{
+Key:1011012,Text:"Fòmate"},{
+Key:1011013,Text:"Lisans nan legliz la"},{
+Key:1011014,Text:"Ligne kle"},{
+Key:1011015,Text:"De 1"},{
+Key:1011016,Text:"De 2"},{
+Key:1011017,Text:"De 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Pozisyon de la Kouplè"},{
+Key:1011020,Text:"Vèse a Tèb"},{
+Key:1011021,Text:"Refren Tèb"},{
+Key:1011022,Text:"Note de la Kouplè"},{
+Key:1011023,Text:"Nombre de chante de koleksyon an"},{
+Key:1011024,Text:"Nombre de stanzas"},{
+Key:1011025,Text:"Referans"},{
+Key:1011026,Text:"Sekans de stanzas"},{
+Key:1011027,Text:"Siyati"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tèm"},{
+Key:1011030,Text:"Tit chante"},{
+Key:1011031,Text:"Tit liv la"},{
+Key:1011032,Text:"Son telefòn"},{
+Key:1011033,Text:"3. Wete tout jaden"},{
+Key:1011034,Text:"2. Utiliser jaden estanda"},{
+Key:1011035,Text:"Administratè"},{
+Key:1011036,Text:"Lang"},{
+Key:1011037,Text:"Editè"},{
+Key:1011038,Text:"Transpozisyon"},{
+Key:1011101,Text:"Abreviyasyon de règ bib la"},{
+Key:1011102,Text:"Abreviyasyon liv la"},{
+Key:1011103,Text:"Chapit"},{
+Key:1011104,Text:"Droit de règ bib la"},{
+Key:1011105,Text:"Dekri teren règ bib la"},{
+Key:1011107,Text:"Editè"},{
+Key:1011108,Text:"Lang"},{
+Key:1011109,Text:"Règ bib lan te rele"},{
+Key:1011110,Text:"Non nan liv la"},{
+Key:1011111,Text:"Nombre de retrè liv la"},{
+Key:1011112,Text:"Nombre de dans de chapit la"},{
+Key:1011113,Text:"Testaman"},{
+Key:1011114,Text:"Kouplè"},{
+Key:1011115,Text:"Administratè de règ bib la"},{
+Key:1011200,Text:"&Mete yon jaden:"},{
+Key:1011201,Text:"Format tèks s' nan lento ou de strophe oubyen Kouplè"},{
+Key:1011202,Text:"Rantre nan tèks pou yo ekspoze a.
+Tèks sa a gen dwa Et jeneralman est de yon seri de jaden prédéfinis.
+
+Egzanp prédéfinis jaden pou yon chante pou yo chante:
+-tit chante pou yo chante a: <b>[tit chante pou yo chante]</b>
+-ki kantite a chante pou yo chante: <b>[chante Tèb]</b>
+-tit liv la: <b>[Tit de koleksyon an]</b>
+-Abreviyasyon pou koleksyon an: <b>[Abreviyasyon de koleksyon an]</b>
+-ets.
+
+Pou yon Kouplè:
+-non nan liv la: <b>[liv non]</b>
+-Chapit: <b>[Chapit]</b>
+-la Kouplè: <b>[Kouplè]</b>
+complet-referans:
+  <b>[Liv non] [chapit]: [Kouplè]</b>
+-non règ bib la: <b>[non de règ bib la]</b>
+-ets.
+
+Menm lè a la vidéo pwojeksyon VideoPsalm remplace jaden prédéfinis pa valè yo. 
+
+Prédéfinis jaden ta dwe antoure pa kwochè <b>[]</b>. Yo dwe rantre pa pas, yo voye lèzye sou en Et en.
+
+<b>Pou byen mete yon jaden prédéfini, itilize déroulant lis pi ba pase droit 'mete yon jaden la.</b>
+
+Fòma a ka se de lignes miltip.
+
+Pou rèstore orijinal fòma valè li retire li konplètman (Ctrl + UN, retire)."},{
+Key:1011203,Text:"Yon lis prédéfinis jaden"},{
+Key:1011204,Text:"Pou mete yon jaden prédéfini, chwazi li nan lis la.
+
+Jaden an ap otomatikman être insérés nan tèks CI-dessus, Bwat nan pwen nklizyon."},{
+Key:1012000,Text:"Dokiman an '{0}' deja existe.
+
+Èske ou vle pou ranplase li?"},{
+Key:1012001,Text:"Fichier ki ekziste"},{
+Key:1013000,Text:"Sere Aperçu"},{
+Key:1013001,Text:"Afficher la aperçu"},{
+Key:1013002,Text:"Agrandi proportionnellement pou ranpli écran a"},{
+Key:1013003,Text:"È vin pi piti jouk tout ekspozisyon"},{
+Key:1013004,Text:"Rann enfim a repetisyon"},{
+Key:1013005,Text:"Activer a repete"},{
+Key:1013006,Text:"Kòmanse nan koumansman"},{
+Key:1013007,Text:"Sispann"},{
+Key:1013008,Text:"Lire"},{
+Key:1013009,Text:"Ale nan tou sa li"},{
+Key:1013010,Text:"Son"},{
+Key:1013011,Text:"Bèbè"},{
+Key:1013012,Text:"Volim"},{
+Key:1013013,Text:"Rechèch"},{
+Key:1013014,Text:"Defini globalman les limites de la videyo"},{
+Key:1013015,Text:"Defini limit videyo pou chak stanza"},{
+Key:1013016,Text:"Écoulé temps"},{
+Key:1013017,Text:"Total tan"},{
+Key:1013018,Text:"Lè ki te rete"},{
+Key:1013019,Text:"Sur pou yo avanse pou pwochen valè"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minit"},{
+Key:1018003,Text:"minit"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"tan"},{
+Key:1018006,Text:"heures"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"jou"},{
+Key:1018009,Text:"jou"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"semèn"},{
+Key:1018012,Text:"semèn"},{
+Key:1018013,Text:"mwa"},{
+Key:1018014,Text:"mwa"},{
+Key:1018015,Text:"ane"},{
+Key:1018016,Text:"ans"},{
+Key:1019000,Text:"Fèmen"},{
+Key:1019001,Text:"È vin pi piti"},{
+Key:1019002,Text:"Agrandi"},{
+Key:1019003,Text:"Nivo ki pi ba"},{
+Key:1019004,Text:"Anmwe"},{
+Key:1019100,Text:"&Recherche"},{
+Key:1019101,Text:"&Retire"},{
+Key:1019301,Text:"&Oke"},{
+Key:1019302,Text:"&Anile"},{
+Key:1019303,Text:"&Wi"},{
+Key:1019304,Text:"&Ki pa"},{
+Key:1019305,Text:"&Pati kite"},{
+Key:1019306,Text:"&Nouvelle"},{
+Key:1019307,Text:"&Vag"},{
+Key:1019308,Text:"&Anile"},{
+Key:1019309,Text:"&Koupé"},{
+Key:1019310,Text:"&Kopi"},{
+Key:1019311,Text:"&Mòtye"},{
+Key:1019312,Text:"&Retire"},{
+Key:1019313,Text:"&Tout pi bon"},{
+Key:1020000,Text:"Jenèz"},{
+Key:1020001,Text:"Exode"},{
+Key:1020002,Text:"Lévitique"},{
+Key:1020003,Text:"Anpil"},{
+Key:1020004,Text:"Deutéronome"},{
+Key:1020005,Text:"Jozye"},{
+Key:1020006,Text:"Jij"},{
+Key:1020007,Text:"Rit"},{
+Key:1020008,Text:"Samyèl 1"},{
+Key:1020009,Text:"Samyèl 2"},{
+Key:1020010,Text:"Wa 1"},{
+Key:1020011,Text:"Wa 2"},{
+Key:1020012,Text:"Istwa 1"},{
+Key:1020013,Text:"Istwa 2"},{
+Key:1020014,Text:"Esdras, direktè"},{
+Key:1020015,Text:"Neemi"},{
+Key:1020016,Text:"Estè"},{
+Key:1020017,Text:"Travay"},{
+Key:1020018,Text:"Sòm"},{
+Key:1020019,Text:"Pwovèb yo"},{
+Key:1020020,Text:"Ecclesiastes"},{
+Key:1020021,Text:"Chante pou yo chante de chante"},{
+Key:1020022,Text:"Ezayi"},{
+Key:1020023,Text:"Jeremi"},{
+Key:1020024,Text:"Lamentations de Jeremi"},{
+Key:1020025,Text:"Antan"},{
+Key:1020026,Text:"Danyèl"},{
+Key:1020027,Text:"Oze"},{
+Key:1020028,Text:"Joèl"},{
+Key:1020029,Text:"Amòs"},{
+Key:1020030,Text:"Obadya"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MIKA"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Abakouk"},{
+Key:1020035,Text:"Sefanya"},{
+Key:1020036,Text:"Aje"},{
+Key:1020037,Text:"Zakari"},{
+Key:1020038,Text:"Malachi"},{
+Key:1020039,Text:"Matye"},{
+Key:1020040,Text:"Mak"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Akdèzapot"},{
+Key:1020044,Text:"Wòm"},{
+Key:1020045,Text:"1 Corinthiens"},{
+Key:1020046,Text:"2 Corinthiens"},{
+Key:1020047,Text:"Galasi"},{
+Key:1020048,Text:"Ephesians"},{
+Key:1020049,Text:"Lavil"},{
+Key:1020050,Text:"Colossians"},{
+Key:1020051,Text:"1 Thessalonians"},{
+Key:1020052,Text:"2 Thessalonians"},{
+Key:1020053,Text:"1 Timothy"},{
+Key:1020054,Text:"2 Timothy"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"Ebre"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Peter"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 John"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jid"},{
+Key:1020065,Text:"Apocalypse"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ansyen"},{
+Key:1020102,Text:"BT"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"EDD"},{
+Key:1020115,Text:"Ne"},{
+Key:1020116,Text:"Se"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"CE"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"INIT"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Kèk jou"},{
+Key:1020130,Text:"SE"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"KRIZ KADYAK"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"RI"},{
+Key:1020135,Text:"Se konsa"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"Mt"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"Jn"},{
+Key:1020143,Text:"LA NÒD"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"Ph"},{
+Key:1020150,Text:"Epi"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Fè kous"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Li"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P I"},{
+Key:1020160,Text:"P. 2"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"PA"}]}

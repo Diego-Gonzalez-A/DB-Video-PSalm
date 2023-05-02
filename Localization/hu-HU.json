@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20171104",Items:[{
+Key:1,Text:"Hungarian (Hungary)"},{
+Key:1000000,Text:"Fordítás"},{
+Key:1000001,Text:"nem."},{
+Key:1000003,Text:"&Add hozzá..."},{
+Key:1000004,Text:"Egy vagy több nyelv hozzáadása VideoPsalm"},{
+Key:1000006,Text:"&Küldés"},{
+Key:1000007,Text:"Küld a címkéket mellett elektronikus levél VideoPsalm a következõ beállítás"},{
+Key:1000009,Text:"&Alkalmazása"},{
+Key:1000011,Text:"&Mentés"},{
+Key:1000012,Text:"A VideoPsalm kijelölt nyelvre vonatkoznak. Előre automatikusan menti a módosításokat."},{
+Key:1000013,Text:"Menti a címke"},{
+Key:1000015,Text:"&Törlése"},{
+Key:1000016,Text:"VideoPsalm törlése a kijelölt nyelvet és a címkéket"},{
+Key:1000022,Text:"&a(z) {0} denominált:"},{
+Key:1000024,Text:"&Nyelvek:"},{
+Key:1000029,Text:"Lemezkiadók"},{
+Key:1000030,Text:"Címkéket megváltoztak.
+
+Szeretné menteni ezeket a változásokat?"},{
+Key:1000031,Text:"Eltávolítása a nyelvre"},{
+Key:1000032,Text:"Biztosan törli a(z) {0} nyelv VideoPsalm?
+
+Ez a művelet törli a szövegek ezt a nyelvet, és visszafordíthatatlan."},{
+Key:1000035,Text:"VideoPsalm jön-hoz .zip kiterjesztésű tömörített fájlok létrehozása
+a saját nyelvén feliratokat tartalmazó.
+A megfelelő fájl csatolása az e-mailt, hogy bukkan fel, majd a post ez e-mailt a videopsalm@gmail.com."},{
+Key:1000036,Text:"Küldj e-mailt Címkék"},{
+Key:1000037,Text:"<b>\"Fordítás\" ablak, módosíthatja a szövegeket, VideoPsalm formában megjelenő.</b>
+Ez lehetővé teszi, hogy lefordítani, alkalmazkodni, vagy kijavít akármi szöveg illesztő-ból VideoPsalm, a VideoPsalm is.
+
+<i>Ha ez az összetevő túl sok helyet foglal, csökkentése mellett csattanó-on a kis csökkentése gomb található a bal felső, vagy méretezze át az egeret a vízszintes elválasztó.</i>
+
+VideoPsalm több nyelven áll rendelkezésre. Az VideoPsalm nyelvek szerepelnek a Panel alatt balra címet viselő \"nyelvek\".
+Ha a nyelv nem jelenik meg a listában, akkor itt, VideoPsalm lefordítani a nyelvet. Vegye figyelembe, hogy ez lesz valószínűleg több órányi munkával.
+
+Itt van, hogyan kell VideoPsalm az Ön nyelvén:
+
+-Add a nyelv, a lista kiválasztásával azok között, akkor fogja találni keresztül a gomb \"új <image=add2_16>\".
+-Az alábbi táblázat jobb VideoPsalm kockás nyelven feliratokat jeleníti meg.
+-Lefordítja az Ön nyelvén feliratokat.
+
+A tábla szerkesztheti a címkéket a szabadidő, mint egy Excel-táblázatot.
+A táblázat nyújt egy kutatás doboz. Így megmutatni, hogy csak bizonyos szavakat tartalmazó címkéket, írja be ezeket a szavakat a keresési mezőbe, és kattintson a \"Keresés\" gombra.
+A szűrő található terület fejléc nyelvenként segítségével szűrheti a nyelv bizonyos szavakat tartalmazó címkéket.
+
+Megkönnyítik a munkát, jelöljük be az egy vagy több más nyelvek bizonyára tudod, hogy jobban érti a minden címkén, és legyen képes-hoz olvas több nyelven egyszerre.
+Ellenőrizze a megjegyzéseket, mert lehetővé teszik a jobb megértése a bizonyos címkéket jelentőségét, és ahol azokat használják.
+
+<b>Megjegyzés:</b> Legjobb-hoz hagy magyarázat, angol, azért, mert sok ember érti az angol nyelvet.
+
+A fordítási munka eredményének megtekintése:
+-Válassza ki a nyelvet a nyelveken Panel, kattintson
+   majd
+-Kattintson a gombra \"Alkalmaz\" (alul).
+
+VideoPsalm a kiválasztott nyelven fog megjelenni.
+
+Ne felejtsük el, hogy mentse a munkáját a fordítás mellett csattanó-on gomb \"Mentés <image=disk_blue>.
+Miután mentette egy új nyelvet, választhatja a beállítások ablak.
+
+Kérjük küldje el nekünk a fordítások vagy javítások e-mail címen <b>videopsalm@gmail.com</b> mellett csattanó-on gomb \"Küldj <image=mail_16>\".
+Ha erre a gombra kattintva két dolog történik:
+1. A elektronikus levél ügyfél automatikusan megnyíljon, például Outlook.
+2. Az Explorer mappában nyitja meg, amelyben VideoPsalm helyezte tömörített fájlokat a .zip kiterjesztés nevezett nyelvek.
+
+Húzása a megfelelő fájlt e-mailben és tegye meg, hogy mi egyesül ez-ba egy jövő változat-ból VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Hogyan VideoPsalm lefordítani a nyelvet?"},{
+Key:1000039,Text:"Nyelvek, amelyben VideoPsalm fordította. Jelölje be a feliratok jelennek meg a táblázat kívánt nyelvek. A nyelv hozzáadása listájában, kattintson a \"Hozzáadás\" gombra."},{
+Key:1001000,Text:"Nyelvek hozzáadása"},{
+Key:1001001,Text:"&Nyelvek:"},{
+Key:1001002,Text:"Válassza ki a nyelvet, hozzáadni"},{
+Key:1001003,Text:"&Add hozzá"},{
+Key:1001004,Text:"Mégse"},{
+Key:1001005,Text:"Súgó (F1)"},{
+Key:1002000,Text:"Beállítások"},{
+Key:1002003,Text:"&Általános"},{
+Key:1002004,Text:"&Kijelző"},{
+Key:1002005,Text:"&Videó"},{
+Key:1002014,Text:"&Gyűjtemények"},{
+Key:1002015,Text:"&Bibliák"},{
+Key:1002103,Text:"&Nyelv:"},{
+Key:1002105,Text:"&VideoPsalm dokumentumok mappája:"},{
+Key:1002106,Text:"Válassza ki a VideoPsalm dokumentumok mappa:"},{
+Key:1002112,Text:"&Menteni a változásokat, hogy a bibliai versben (szöveg és stílus)"},{
+Key:1002202,Text:"&Cserélje ki a idézőjelek « <size=+4>'» francia idézőjelek « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&A francia szabályok tipográfia"},{
+Key:1002204,Text:"&A dalok cseréljük a kötőjeleket a nem törhető kötőjel"},{
+Key:1002205,Text:"&A bibliai versek cseréljük a kötőjeleket a nem törhető kötőjel"},{
+Key:1002304,Text:"&Megjelenítési mód:"},{
+Key:1002306,Text:"Standard"},{
+Key:1002307,Text:"Jobb"},{
+Key:1002502,Text:"&Alkalmazása"},{
+Key:1002503,Text:"Mentse a módosításokat, és nyitva marad"},{
+Key:1002504,Text:"oké"},{
+Key:1002505,Text:"Mentse a módosításokat és zárja be az ablakot"},{
+Key:1002508,Text:"Zárja be az ablakot a módosítások mentése nélkül"},{
+Key:1002510,Text:"&Engedély az egyház:"},{
+Key:1002513,Text:"Itt beírt szöveg automatikusan megjelenik a fejlécben vagy a láblécben dia.
+
+Például Itt megadhatja a szám-ból engedély CILC a templom."},{
+Key:1002516,Text:"&A fejléc mezői:"},{
+Key:1002517,Text:"&A subfooter mezők:"},{
+Key:1002531,Text:"Módosíthatja a betűtípust, hogy jelenik meg a VideoPsalm.
+
+Normál betűtípus:
+-A Windows XP a <b>Tahoma</b>
+- <b>Segoe UI</b> for Windows Vista, a Windows 7 és a Windows 8
+
+Normál méret: 8.25"},{
+Key:1002532,Text:"A ' újra kell indítani, teljes mértékben figyelembe kell venni a politikai változások VideoPsalm."},{
+Key:1002533,Text:"Ha a jelölőnégyzet be van jelölve, a VideoPsalm egyenes aposztrófot lecserélése egy a francia, a vessző elhelyezett magasság diák aposztróf.
+
+Ha egy dal lyrics be a szerkesztő, javasoljuk, hogy használja a karakter, hogy könnyen megtalálja a billentyűzeten, általában az egyenes aposztróf."},{
+Key:1002534,Text:"Ha a jelölőnégyzet be van jelölve, VideoPsalm átrendezi a dia szerint a francia tipográfiai írásjelek néhány a karakterek közötti térközt.
+
+Például, ha egy dalt tartalmaz a következő szavakat: <b>úr!</b>
+
+VideoPsalm képernyő: <b>úr!</b>
+
+Itt van a központozási karaktereket, amelyek különleges bánásmódot élvez:
+<b>: ; ! ? »</b><i>VideoPsalm helyen, egy nem törhető szóköz előtt, és a hely után.</i><b>«</b><i>VideoPsalm hely egy hely előtt és után nem törhető szóköz.</i>
+
+VideoPsalm elrendezése nem az egyéb írásjelek a karakterek közötti térközt.
+
+Amikor belépsz a szavak egy új dal, javasoljuk, hogy tipográfia hagyományos szabályait követi, azaz kibír írásjelek a szavakat, amelyek őket érintik. Ily módon lesz képes, hogy megfeleljenek a francia tipográfiai megjelenítési ketyeg a doboz, vagy az ország szabályai nem kiválasztása jelölőnégyzet.
+
+<b>Megjegyzés:</b> -A ' lehetséges, hogy francia tipográfiai szabályok nem vonatkoznak az Ön országában még akkor is, ha a nyelv a francia, például a frankofón Afrika, Belgium, Quebec, vagy Svájcban.
+
+A teljes hivatkozást, a szóközöket és az írásjeleket a francia tipográfia lásd a <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, oldal 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Betűtípus:"},{
+Key:1002536,Text:"&Méret:"},{
+Key:1002539,Text:"Ha a jelölőnégyzet be van jelölve, VideoPsalm tájékoztatni Önt, indításkor, a létezés új funkciókat a program vagy a híreket:
+-a gyűjtemények
+-Bibliák,
+- és VideoPsalm nyelven.
+
+Új gyűjtemények, Bibliák, az új nyelvek és a VideoPsalm új nyelveket néha hozzá VideoPsalm online tárban.
+
+Ha ez történik, néhány kattintással ezek új dokumentumok hozzáadása a telepítés révén a Szövegbeolvasó varázsló."},{
+Key:1002540,Text:"Ha a jelölőnégyzet be van jelölve, VideoPsalm igényel a szavak kötőjellel marad ugyanabban a sorban a diák köti.
+
+Alapértelmezett értéke a dalszövegeket a dalok: <b>bejelölve</b>"},{
+Key:1002541,Text:"Ha a jelölőnégyzet be van jelölve, VideoPsalm igényel a szavak kötőjellel marad ugyanabban a sorban a diák köti.
+
+Alapértelmezett értéke a Biblia vers: <b>bejelölve</b>"},{
+Key:1002542,Text:"Ha a jelölőnégyzet be van jelölve, a VideoPsalm lehetõvé teszi, hogy a Bibliát (szöveg és stílus) versek végrehajtott módosításokat.
+
+Ha ez a négyzet nincs bejelölve:
+
+<b>1.</b> VideoPsalm bezárásakor akkor nem értesíti, hogy a Bibliát is változtak,
+
+<b>2</b> amikor mentjük a változtatásokat, az VideoPsalm nem menti a módosításokat a Bibliát (szöveg és stílus),
+
+<b>3</b> meg fogja találni a ép Bibliák-VideoPsalm a következő indításnál."},{
+Key:1002543,Text:"Válassza ki a kívánt VideoPsalm nyelv jelenik meg itt.
+
+Ha a nyelv nem jelenik meg a listán, talán a VideoPsalm könyvtár online keresztül érhető a Szövegbeolvasó varázsló.
+
+Ha a nyelv nem létezik VideoPsalm, kérjük, értesítsen minket e-mailben a videopsalm@gmail.com
+
+Vagylagosan tud segít-hoz Lefordít a szövegek VideoPsalm az Ön nyelvén keresztül a VideoPsalm fordítás szerszám, vagy javítsa a hibákat.
+
+Kezdje a fordítási eszköz VideoPsalm \"Lefordítani VideoPsalm\" gombra."},{
+Key:1002544,Text:"Válassza ki a mappát, amely VideoPsalm a teher a könyvek, a Bibliát, a képek és a videók itt.
+
+Ha Ön cserél a dosszié, VideoPsalm frissíti a gyűjtemények, Bibliák, képek és videók az új mappa.
+
+<b>Vigyázat</b> : a mappa módosítása előtt ellenőrizze, hogy elmentette a változtatásokat."},{
+Key:1002545,Text:"Módosíthatja a betűtípust, hogy jelenik meg a VideoPsalm.
+
+Normál méret: 8.25
+
+Akkor is változtatni a betűméretet, keresztül Windows beállításai: Vezérlőpult -&gt; kijelző-> olvashatóság a képernyőn."},{
+Key:1002547,Text:"&VideoPsalm lefordít"},{
+Key:1002548,Text:"Megnyílik az eszköz, amellyel VideoPsalm lefordítani a nyelvet, vagy javítsa a helyesírási hibákat."},{
+Key:1002549,Text:"Körülbelül-hoz cserél a dosszié, a hol VideoPsalm akarat teher a dokumentumokat.
+VideoPsalm eltávolítása az aktuális dokumentumot, és töltse fel az új mappát.
+Ez eltarthat néhány másodpercig.{0}
+
+Biztosan megváltoztatja a dokumentum?"},{
+Key:1002550,Text:"Mentetlen változtatások (gyűjtemények, Bibliák vagy naptár).
+Ha a művelet rekordot most erősíti meg, a változtatások elvesznek."},{
+Key:1002551,Text:"Megváltozó a okiratok dosszié"},{
+Key:1002552,Text:"&Napirend"},{
+Key:1002553,Text:"Alapértelmezett minták:"},{
+Key:1002554,Text:"&dalok:"},{
+Key:1002555,Text:"&Biblia vers:"},{
+Key:1002556,Text:"&Slideshow kép:"},{
+Key:1002557,Text:"&autonóm videók:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Időtúllépés alapértelmezett automatikus előre:"},{
+Key:1002560,Text:"másodperc"},{
+Key:1002561,Text:"&A nyelv hozzáadása"},{
+Key:1002562,Text:"Megnyitja az Importálás varázsló, a nyelv, amelyben a VideoPsalm egésze van lefordítva, ahol adhatunk új nyelveket a VideoPsalm."},{
+Key:1002580,Text:"Szöveg alapértelmezett folyásiránya után egy dalt"},{
+Key:1002581,Text:"Meghatározza a szöveg alapértelmezett folyásiránya az utolsó vers a dal után.
+
+Ez az érték is figyelembe venni, a dalok, megjelenítendő spontán menetrend nélkül.
+A naptárban módosíthatja ezt az értéket az egyes dalok."},{
+Key:1002582,Text:"Szöveg alapértelmezett folyásiránya után Biblia vers"},{
+Key:1002583,Text:"Meghatározza a szöveg alapértelmezett folyásiránya után az utolsó vers a bibliai átjárón.
+
+Ez az érték is a bibliai részeket, megjelenítendő spontán menetrend nélkül figyelembe venni.
+A naptárban módosíthatja ezt az értéket az egyes Biblia folyosón."},{
+Key:1002584,Text:"Szöveg alapértelmezett folyásiránya után egy kép slideshow"},{
+Key:1002585,Text:"Meghatározza a szöveg alapértelmezett folyásiránya után egy kép slideshow.
+
+A naptárban módosíthatja ezt az értéket, minden kép."},{
+Key:1002586,Text:"Szöveg alapértelmezett folyásiránya után egy önálló videóinak"},{
+Key:1002587,Text:"Meghatározza a szöveg alapértelmezett folyásiránya után egy önálló videóinak.
+
+A naptárban módosíthatja ezt az értéket minden egyes önálló video."},{
+Key:1002588,Text:"Szöveg alapértelmezett folyásiránya után egy PowerPoint"},{
+Key:1002589,Text:"Meghatározza a szöveg alapértelmezett folyásiránya után a PowerPoint.
+
+A naptárban módosíthatja ezt az értéket az egyes PowerPoint."},{
+Key:1002590,Text:"Határozza meg az alapértelmezett időköz másodpercben, mielőtt a behangolt a következő diára.
+
+A naptárban módosíthatja ezt az értéket az egyes elemek, hogy automatikusan folyik."},{
+Key:1002591,Text:"&A háttér-kép tárolása a menetrend (ajánlott)"},{
+Key:1002592,Text:"A háttér-kép tárolása a menetrend"},{
+Key:1002593,Text:"Azt jelzi, hogy a VideoPsalm kell tárolni minden háttér képek dalok és bibliai a napirend fájl verseket, mikor menthetjük azt."},{
+Key:1002594,Text:"&Store háttér video (ajánlott) napirend"},{
+Key:1002595,Text:"Háttér videók tárolása a menetrend"},{
+Key:1002596,Text:"Azt jelzi, hogy VideoPsalm kell tárolni minden video háttér, a dalok és a napirend fájl versekben bibliai mentéskor."},{
+Key:1002597,Text:"&Képtárolási diavetítés (ajánlott) napirend"},{
+Key:1002598,Text:"Slideshow kép tárolása a menetrend"},{
+Key:1002599,Text:"Azt jelzi, hogy VideoPsalm kell tárolja a lehetséges kép slideshow a naptár fájlt mentéskor."},{
+Key:1002600,Text:"&Tárolja az önálló videók (ajánlott) menetrend"},{
+Key:1002601,Text:"Az autonóm videók tárolása a menetrend"},{
+Key:1002602,Text:"Azt jelzi, hogy VideoPsalm kell tárolni minden autonóm, a napirend fájl videók, mentéskor."},{
+Key:1002603,Text:"&Tárolja a PowerPoints a menetrend (ajánlott)"},{
+Key:1002604,Text:"A menetrend a PowerPoints tárolása"},{
+Key:1002605,Text:"Azt jelzi, hogy VideoPsalm kell tárolja minden PowerPoints a naptár fájlt mentéskor."},{
+Key:1002606,Text:"Azt javasoljuk, hogy ezt a beállítást, különösen, ha elkészíti a menetrend, mint az egyik, amely akkor jelenik meg a bemutatót egy másik számítógépen."},{
+Key:1002607,Text:"&Szerkesztő"},{
+Key:1002608,Text:"&Betűtípus:"},{
+Key:1002609,Text:"Adja meg a betűtípus, amelyben szerkesztheti a dalszöveg a dal, és a vers a Biblia.
+
+Nevezetesen ez a betűtípus nem használatos szöveget jeleníthetünk meg a képernyőn."},{
+Key:1002610,Text:"&Betűméret:"},{
+Key:1002611,Text:"A betűtípus, amelyben szerkesztheti a dalszöveg a dal, és a vers a Biblia méretét adja meg.
+
+Ez a betűkészlet méret van nem különösen szövegének megjelenítéséhez használt a képernyőn."},{
+Key:1002612,Text:"&A megállapodások betűtípusa:"},{
+Key:1002613,Text:"Adja meg a betűtípus, amelyben szerkesztheti a megállapodások egy dalt.
+
+Ez a betűkészlet van nem különösen megjelenítéséhez használt megállapodások a bemutatás képernyő."},{
+Key:1002614,Text:"&A megállapodások szövegét mérete:"},{
+Key:1002615,Text:"Adja meg a méret, a betűtípus, a megállapodások egy dalt a szöveg szerkesztő.
+
+Ez a betűkészlet méret nem különösen megjelenítésére a megállapodások a bemutatás képernyő."},{
+Key:1002616,Text:"&A megállapodások színe:"},{
+Key:1002617,Text:"Megadja a szín, amelyben a megállapodások jelennek meg a szöveg szerkesztő.
+
+Nevezetesen ez a szín nem használatos megállapodások a bemutatás képernyő megjelenítéséhez."},{
+Key:1002618,Text:"&Nem törhető fehér szín:"},{
+Key:1002619,Text:"Itt adható meg a szín melyik törés fehér jelennek meg a szöveg szerkesztő."},{
+Key:1002620,Text:"&A címkék a versszak színe:"},{
+Key:1002621,Text:"Megadja a címkék a versszak színnel a szövegszerkesztőben."},{
+Key:1002622,Text:"&A címkék a versszak átláthatósága:"},{
+Key:1002623,Text:"Adja meg, amely a címkék a versszak színnel átláthatóságának a szöveg szerkesztő."},{
+Key:1002624,Text:"&Színe a ChordPro megállapodások:"},{
+Key:1002625,Text:"Megadja a ChordPro megállapodások színnel ChordPro szerkesztő szöveges módban."},{
+Key:1002626,Text:"&Átláthatóság, a ChordPro megállapodások:"},{
+Key:1002627,Text:"Itt adhatja meg az átláthatóság, a szerződések ChordPro színnel ChordPro szerkesztő szöveges módban."},{
+Key:1002628,Text:"&Helyettesítő betűtípusokat (ajánlott)"},{
+Key:1002629,Text:"Lehetővé teszi, hogy a szöveg szerkesztő-hoz belovagolni a hiányzó karakterek az aktuális betűtípus, azok egy másik betűtípust.
+
+Letiltja a helyettesítő karakterek használata esetén a nem-Unicode betűtípussal, ami működik az angol.
+Ez a helyzet néhány Hindi, Tamil, Bamati, malajálam betűtípusok, stb.
+
+Ne feledje, hogy előnyösebb használata Unicode betűkészletet.
+Zeneszámok hajlandó Unicode-szöveg átalakításához használ egy online átalakító, például itt: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Enged belépés-hoz egy egyszerűsített, a Szentírás RTL szövegszerkesztőt kompatibilis"},{
+Key:1002631,Text:"Megjeleníti egy további gomb a bal oldalon az eszköztár a szöveg szerkesztő, amely hozzáférést biztosít a egy egyszerűsített módban szerkesztés a dalok szövegét.
+
+Ez egyszerűsített szerkesztő összeegyeztethető-val írás jobbról balra (RTL), különösen az arab és a héber."},{
+Key:1002632,Text:"Válassza ki a video renderelés módszer amit szerkezet a legjobb részére-a PC. VideoPsalm a videók wmv a legtöbb PC-k formátumban jelenítheti meg."},{
+Key:1002633,Text:"&Értesítések"},{
+Key:1002634,Text:"Indításkor értesítse, ha van:"},{
+Key:1002635,Text:"&Egy új változat-ból VideoPsalm (ajánlott)"},{
+Key:1002636,Text:"&Új gyűjtemények (ajánlott)"},{
+Key:1002637,Text:"&Új Bibliát (ajánlott)"},{
+Key:1002638,Text:"&Új nyelvek (ajánlott)"},{
+Key:1002639,Text:"&Nehéz a kapcsolat egy proxy jelenléte esetén"},{
+Key:1002640,Text:"A jelenléte a proxy"},{
+Key:1002641,Text:"Azt jelzi, hogy VideoPsalm automatikusan észleli a jelenlétét egy proxy, és érdeklődjön az új termékek és frissítések.
+
+Ha a VideoPsalm nem lehet letölteni, könyvek vagy bibliákat, az online könyvtár, válassza ezt a lehetőséget, és próbálja újra a műveletet.
+
+Válassza ezt a lehetőséget csak akkor, ha nem. Valóban a kapcsoló hatására a lassulás Letöltés könyvek és Bibliát a könyvtárból a VideoPsalm online."},{
+Key:1002642,Text:"&Szociális ikonok elrejtése"},{
+Key:1002643,Text:"Elrejti az eszköztár szociális ikonok (Facebook, Twitter és a YouTube).
+
+Ezek az ikonok rejtve maradnak és egy internet kapcsolat hiányában."},{
+Key:1002644,Text:"&Tárolja a menetrend audio dalok (ajánlott)"},{
+Key:1002645,Text:"Készlet audio dalok a menetrend"},{
+Key:1002646,Text:"Azt jelzi, hogy VideoPsalm kell tárolja a dalok hang a naptár fájlt mentéskor."},{
+Key:1002648,Text:"&Testreszabás"},{
+Key:1002649,Text:"&Videó kamera"},{
+Key:1002650,Text:"&Korábbi"},{
+Key:1002651,Text:"&Alap"},{
+Key:1002652,Text:"&Szöveg"},{
+Key:1002653,Text:"&Pajzs"},{
+Key:1002654,Text:"&Hópehely"},{
+Key:1002655,Text:"&Bug"},{
+Key:1002656,Text:"Dia Panel"},{
+Key:1002657,Text:"&Következő"},{
+Key:1002658,Text:"Eszköztár"},{
+Key:1002659,Text:"Fórumon napirendre"},{
+Key:1002660,Text:"&Mount"},{
+Key:1002661,Text:"&menj már"},{
+Key:1002662,Text:"&Eszközleírások elrejtése"},{
+Key:1003000,Text:"A {1} a verzió {0}"},{
+Key:1003003,Text:"Zár"},{
+Key:1003005,Text:"&Kapcsolattartó VideoPsalm"},{
+Key:1003006,Text:"Nyit Kilátás (e-mail kliens), küldjön egy e-mailt VideoPsalm"},{
+Key:1003007,Text:"Ez a verzió frissítés"},{
+Key:1003008,Text:"&Korszerűsíteni az én-m változat"},{
+Key:1003009,Text:"Van egy újabb változat-ból VideoPsalm:
+Verzió {0} a lemez 1: {f}.
+Kattintson erre a gombra kattintva nyissa meg a letöltés oldalt.
+Itt megtalálod a változtatások
+és a letölt láncszem."},{
+Key:1003011,Text:"-Jelentés
+-Készíts egy megjegyzést vagy javaslatot"},{
+Key:1003012,Text:"E-mail cím: videopsalm@gmail.com"},{
+Key:1003500,Text:"Távolítsa el a nemzeti jogba"},{
+Key:1003501,Text:"Átültetni egy nagyobb semitone"},{
+Key:1003502,Text:"Ültette át a semitone"},{
+Key:1003503,Text:"Nélkül"},{
+Key:1003504,Text:"A capo törlése"},{
+Key:1003505,Text:"Átültetés a capo, aki mozog a fej"},{
+Key:1003506,Text:"Átültetés a capo, hogy jön közel a fej"},{
+Key:1003507,Text:"Nélkül"},{
+Key:1003508,Text:"Kijelenti magát a audio reszelő, ének"},{
+Key:1003509,Text:"&Audio file:"},{
+Key:1003510,Text:"Válassza ki az audio fájlokat importálni, és kattintson a \"Megnyitás\"."},{
+Key:1003511,Text:"Importálása a(z) {0} audio file (s)."},{
+Key:1003512,Text:"Nincs audio fájl importálását.
+(Ő (s) már megtalálható (s) a lista)."},{
+Key:1003513,Text:"Audio-fájlok importálása"},{
+Key:1003514,Text:"Audio fájlokat"},{
+Key:1003515,Text:"Kulcs szavak képekben"},{
+Key:1003516,Text:"Kép nélkül"},{
+Key:1003517,Text:"Nélkül video"},{
+Key:1003518,Text:"&Fájlok"},{
+Key:1003519,Text:"&Megjeleníti a basszus"},{
+Key:1003520,Text:"Kulcs szavak videók"},{
+Key:1003521,Text:"&Importált dalokat CCLI gyűjteménye / SongSelect"},{
+Key:1003522,Text:"Dalokat CCLI"},{
+Key:1003523,Text:"Behozatali dalokat CCLI"},{
+Key:1003524,Text:"a(z) {0} dalok voltak már a gyűjtemény \"{1}\", és nem importáltak."},{
+Key:1003525,Text:"Keresés"},{
+Key:1003526,Text:"&Fényerő:"},{
+Key:1003527,Text:"Keresés"},{
+Key:1003528,Text:"&Fényerő:"},{
+Key:1003529,Text:"Üzenet"},{
+Key:1003530,Text:"Rendőrség"},{
+Key:1003531,Text:"Színek"},{
+Key:1003532,Text:"Üzenet"},{
+Key:1003533,Text:"Láthatóság"},{
+Key:1003534,Text:"Modell"},{
+Key:1003535,Text:"Típus"},{
+Key:1003536,Text:"Visszaszámlálás"},{
+Key:1003537,Text:"Stopperóra"},{
+Key:1003538,Text:"Beállítások"},{
+Key:1003539,Text:"Átláthatóság"},{
+Key:1003540,Text:"Megjeleníti az üzenetet"},{
+Key:1003541,Text:"Háttér"},{
+Key:1003542,Text:"Az óra megjelenítése"},{
+Key:1003543,Text:"Óra"},{
+Key:1003544,Text:"Visszaszámlálás"},{
+Key:1003545,Text:"Stopperóra"},{
+Key:1003546,Text:"Során"},{
+Key:1003547,Text:"Akár"},{
+Key:1003548,Text:"Start"},{
+Key:1003549,Text:"Szünet"},{
+Key:1003550,Text:"állj"},{
+Key:1003551,Text:"Stílus"},{
+Key:1003552,Text:"Zsír"},{
+Key:1003553,Text:"Dőlt"},{
+Key:1003554,Text:"Hangsúlyozta"},{
+Key:1003555,Text:"Megjeleníti a használtruha"},{
+Key:1003556,Text:"Dadogás másodperc"},{
+Key:1003557,Text:"Szaggatott perc"},{
+Key:1003558,Text:"Számjegy kijelző"},{
+Key:1003559,Text:"Diplomás a perc"},{
+Key:1003560,Text:"Diplomás óra"},{
+Key:1003561,Text:"Videó kamera"},{
+Key:1003562,Text:"Megjeleníti a forgatás egy kamera mögött a szöveget."},{
+Key:1003563,Text:"&Zeneszámok hozzáadása a CILC formátumban..."},{
+Key:1003564,Text:"Importálása..."},{
+Key:1003565,Text:"Import"},{
+Key:1003566,Text:"Lehetővé teszi, hogy audio fájlokat importálni a VideoPsalm"},{
+Key:1003567,Text:"Navigálás..."},{
+Key:1003568,Text:"Tallózás"},{
+Key:1003569,Text:"Megnyitja azt a mappát, a audio fájlokat a VideoPsalm"},{
+Key:1003570,Text:"&Start (ms):"},{
+Key:1003571,Text:"&Vége (ms):"},{
+Key:1003572,Text:"&Kötet:"},{
+Key:1003573,Text:"&Play végtelenített"},{
+Key:1003575,Text:"&Módosított"},{
+Key:1003576,Text:"&Változat:"},{
+Key:1003577,Text:"Szöveg szerkesztő \"Jobb\" bal"},{
+Key:1003578,Text:"Váltás egy szövegszerkesztő (ír balról-jobbra) és a \"Jobb\" szerkesztő bal arab, héber, stb."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Mindig közösen Térkép (kétnyelvű)"},{
+Key:1003581,Text:"&Pozíció:"},{
+Key:1004050,Text:"Rendőrség"},{
+Key:1004051,Text:"Méret"},{
+Key:1004052,Text:"Zsír"},{
+Key:1004053,Text:"Dőlt"},{
+Key:1004054,Text:"Kiemelt"},{
+Key:1004055,Text:"Igazítás"},{
+Key:1004056,Text:"A Függőleges igazítás"},{
+Key:1004057,Text:"Animáció"},{
+Key:1004058,Text:"Időtartama"},{
+Key:1004059,Text:"Kötet"},{
+Key:1004060,Text:"Néma?"},{
+Key:1004061,Text:"Kezdet"},{
+Key:1004062,Text:"Vége"},{
+Key:1004063,Text:"Hurok?"},{
+Key:1004064,Text:"A nagyobb kép megtekintéséhez"},{
+Key:1004100,Text:"Színek"},{
+Key:1004101,Text:"Töltés"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Szélessége az entourage"},{
+Key:1004104,Text:"Árnyék"},{
+Key:1004105,Text:"Sugara árnyék"},{
+Key:1004106,Text:"Mély árnyékot"},{
+Key:1004107,Text:"Az árnyék irányának"},{
+Key:1004151,Text:"Videó"},{
+Key:1004152,Text:"Kép"},{
+Key:1004153,Text:"Szín"},{
+Key:1004156,Text:"Téglalap alakú, a test"},{
+Key:1004157,Text:"Téglalap-fejléc"},{
+Key:1004158,Text:"A láb téglalap"},{
+Key:1004500,Text:"A naptár másolása a vágólapra"},{
+Key:1004501,Text:"A napirend leírása helyezték a vágólapra."},{
+Key:1004502,Text:"Szavak (cím és szöveg) vagy no. keresni"},{
+Key:1004503,Text:"Szavak (cím és szöveg) vagy no. keresni"},{
+Key:1004504,Text:"Szavak (cím) vagy nem."},{
+Key:1004505,Text:"Szavak (szerző, zeneszerző) vagy no. keresni"},{
+Key:1004506,Text:"Szavak (témák), vagy szám keresése"},{
+Key:1004507,Text:"Szavak (hivatkozásokat) vagy szám keresése"},{
+Key:1004508,Text:"CCLI keresni"},{
+Key:1004509,Text:"Szavak (copyright) vagy szám keresése"},{
+Key:1004510,Text:"Szavak (1. jegyzet) vagy no. keresni"},{
+Key:1004511,Text:"Szavak (2. jegyzet) vagy no. keresni"},{
+Key:1004512,Text:"Szavak (3. jegyzet) vagy no. keresni"},{
+Key:1004513,Text:"Dalok akkordok"},{
+Key:1004514,Text:"Másolja a compendium összefoglalása"},{
+Key:1004515,Text:"A összefoglalt-ból gyűjteményében helyezték a vágólapra."},{
+Key:1005001,Text:"A berakodás vége"},{
+Key:1005002,Text:"Dal a(z) {0}."},{
+Key:1005003,Text:"Berakodás video"},{
+Key:1005004,Text:"Nem lehet olvasni a videó \"{0}\".
+a(z) {1}"},{
+Key:1005005,Text:"Képek betöltése"},{
+Key:1005006,Text:"Nem lehet olvasni a kép \"{0}\".
+a(z) {1}"},{
+Key:1005007,Text:"A Stílusok betöltése"},{
+Key:1005008,Text:"A collections (gyűjtemények {1} dalok: {0}) listája"},{
+Key:1005009,Text:"Törli a kijelölt napirendi pontok?"},{
+Key:1005010,Text:"Elemek eltávolítása"},{
+Key:1005011,Text:"Új kollekció"},{
+Key:1005012,Text:"Új dal"},{
+Key:1005013,Text:"A napirendet az üres.
+Nyílt egy vagy h·zza ide a dalok és versek hozzáadása a menetrend."},{
+Key:1005014,Text:"Ott van az nem csúszik a video - projekt.
+Jelölje ki egy dalt vagy verset a videó - projekt."},{
+Key:1005015,Text:"Biztosan törli a gyűjtemény \"{0}\"?
+
+Ez a gyűjtemény megfelelő fájl nem törlődik a lemezről:
+a kiterjesztés lesz átnevez \".ignore."},{
+Key:1005016,Text:"Törlése"},{
+Key:1005017,Text:"A dal \"{0}\" törölni kívánja?
+
+Regisztráció után a módosítások a könyveket ez a dal eltávolítása nem visszavonható."},{
+Key:1005018,Text:"Törölhető egy dal"},{
+Key:1005019,Text:"Eltávolít minden elemet a menetrend?"},{
+Key:1005020,Text:"Töröl minden"},{
+Key:1005021,Text:"Napirend név nélkül"},{
+Key:1005022,Text:"Üres a naptár"},{
+Key:1005023,Text:"A jelenlegi menetrend még nem mentett módosítások.
+Szeretné menteni ezeket a változásokat?"},{
+Key:1005024,Text:"A naptárat"},{
+Key:1005025,Text:"Egy vagy több gyűjtemények még nem mentett módosításokat.
+Szeretné menteni ezeket a változásokat?"},{
+Key:1005026,Text:"Világrekord gyűjtemény"},{
+Key:1005027,Text:"Egy vagy több Bibliák még nem mentett módosításokat.
+Szeretné menteni ezeket a változásokat?"},{
+Key:1005028,Text:"Mentse a Bibliát"},{
+Key:1005029,Text:"Dokumentumok hozzáadása a menetrend"},{
+Key:1005030,Text:"Naplók"},{
+Key:1005031,Text:"Képek"},{
+Key:1005032,Text:"Videók"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Menti a naptár alatt"},{
+Key:1005035,Text:"Dalokat CCLI"},{
+Key:1005036,Text:"Van nem a gyűjtemény.
+Kattintson ide, hogy indítsa el az Importálás varázsló jelentések."},{
+Key:1005037,Text:"Formátum {0}
+a(z) {1} × {2} pixel"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Biztosan törli a stílusok alatt \"{0}\"?"},{
+Key:1005040,Text:"A(z) \"{0}' gyűjtemény zárni a keresésből"},{
+Key:1005041,Text:"Megjeleníteni, vagy mozog a dia"},{
+Key:1005042,Text:"Évszakok"},{
+Key:1005043,Text:"Tavaszi"},{
+Key:1005044,Text:"Nyári"},{
+Key:1005045,Text:"Karácsony"},{
+Key:1005046,Text:"Témák"},{
+Key:1005047,Text:"Karamell"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Képzelet"},{
+Key:1005050,Text:"Sötétkamra"},{
+Key:1005051,Text:"Köd"},{
+Key:1005052,Text:"Tervrajz"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontraszt"},{
+Key:1005055,Text:"Office"},{
+Key:1005056,Text:"Office 2010 kék"},{
+Key:1005057,Text:"Office 2010-es ezüst"},{
+Key:1005058,Text:"Office 2010-es fekete"},{
+Key:1005059,Text:"Office 2007-kék"},{
+Key:1005060,Text:"Office 2007-es zöld"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007-es ezüst"},{
+Key:1005063,Text:"Office 2007-es fekete"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Metropolisz"},{
+Key:1005066,Text:"Hét"},{
+Key:1005067,Text:"Hét klasszikus"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Tömjén"},{
+Key:1005070,Text:"Füst"},{
+Key:1005071,Text:"Az Apple"},{
+Key:1005072,Text:"Színek"},{
+Key:1005073,Text:"Folyékony égboltot"},{
+Key:1005074,Text:"London ég"},{
+Key:1005075,Text:"Kék"},{
+Key:1005076,Text:"Pénz ikrek"},{
+Key:1005077,Text:"Fekete arany"},{
+Key:1005078,Text:"Elsötétítés"},{
+Key:1005079,Text:"Éles"},{
+Key:1005080,Text:"Több éles"},{
+Key:1005081,Text:"Csillagok"},{
+Key:1005082,Text:"Óceánok üveg"},{
+Key:1005083,Text:"Az aszfalt-világ"},{
+Key:1005084,Text:"Kávé"},{
+Key:1005085,Text:"Por a csillagok"},{
+Key:1005086,Text:"Az alábbi stílusok törlése"},{
+Key:1005087,Text:"Fenntartani az open Galéria"},{
+Key:1005100,Text:"Nincs animáció"},{
+Key:1005102,Text:"Fade"},{
+Key:1005103,Text:"Könnyű fade"},{
+Key:1005104,Text:"A nagyobb kép megtekintéséhez"},{
+Key:1005105,Text:"A fény elhalványul bővítése"},{
+Key:1005106,Text:"Szkennelés"},{
+Key:1005107,Text:"Jobb átkutat"},{
+Key:1005109,Text:"Űrlap"},{
+Key:1005110,Text:"Star"},{
+Key:1005118,Text:"Scan le"},{
+Key:1005120,Text:"A bal oldalon a szkennelés"},{
+Key:1005121,Text:"Szkennelés felfelé"},{
+Key:1005122,Text:"Átkutat-ból felső-jobb"},{
+Key:1005123,Text:"Szkennelés a tetején a bal"},{
+Key:1005124,Text:"Átkutat-ból alja-jobb"},{
+Key:1005125,Text:"Átkutat-ból alja bal"},{
+Key:1005126,Text:"Fedezze fel"},{
+Key:1005127,Text:"Fedezze fel-le"},{
+Key:1005128,Text:"Fedezze fel a jobb"},{
+Key:1005129,Text:"Fedezze fel a bal"},{
+Key:1005130,Text:"Fedezze fel, felfelé"},{
+Key:1005131,Text:"Fedezze fel a jobb felső sarokban"},{
+Key:1005132,Text:"Fedezze fel a bal felső sarokban"},{
+Key:1005133,Text:"Fedezze fel, jobbra le"},{
+Key:1005134,Text:"Fedezze fel a bal alsó"},{
+Key:1005200,Text:"Diák"},{
+Key:1005201,Text:"Nem dia"},{
+Key:1005209,Text:"Keresőszavak:"},{
+Key:1005210,Text:"&Cím és szövegek, dalszövegek"},{
+Key:1005211,Text:"&Cím és szövegek, dalszövegek"},{
+Key:1005212,Text:"&Cím"},{
+Key:1005213,Text:"&Szerző, zeneszerző"},{
+Key:1005214,Text:"&Témák"},{
+Key:1005215,Text:"&Referenciák"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Szerzői jog"},{
+Key:1005218,Text:"&Jegyzet 1"},{
+Key:1005219,Text:"&Jegyzet 2"},{
+Key:1005220,Text:"&Feljegyzés 3"},{
+Key:1005221,Text:"&Dalok akkordok"},{
+Key:1005223,Text:"Beállítások"},{
+Key:1005224,Text:"VideoPsalm beállítások"},{
+Key:1005225,Text:"A VideoPsalm beállítások párbeszédpanelt jeleníti meg."},{
+Key:1005226,Text:"Import"},{
+Key:1005228,Text:"Megjeleníti az Importálás varázsló könyvek, a Bibliát, a képek és videók a VideoPsalm online tárban, és a népszerű formátumok."},{
+Key:1005230,Text:"Törlése"},{
+Key:1005232,Text:"Távolítsa el az ének, a gyűjtemény vagy a kiválasztott Biblia."},{
+Key:1005237,Text:"A betűtípus módosításához."},{
+Key:1005247,Text:"Képek"},{
+Key:1005252,Text:"Értesítési beállítások szerkesztése."},{
+Key:1005253,Text:"Zárja be az ablakot, és emlékszem, információk a következő alkalommal."},{
+Key:1005254,Text:"Zárja be az ablakot, és már nem emlékszem, ezt az információt."},{
+Key:1005255,Text:"Szót vagy kifejezést kereshet, pl.: kenyér, bor"},{
+Key:1005256,Text:"Válassza ki a verseket a hivatkozással"},{
+Key:1005257,Text:"Keressen bizonyos kulcs szót vagy kifejezést tartalmazó verseket"},{
+Key:1005258,Text:"Törölje a kulcsszót vagy kifejezést a keresés (ESC)"},{
+Key:1005259,Text:"A verseket, hogy tartalmaznak bizonyos kulcsszavak keresése.
+
+Például:
+
+-A vers, amely tartalmazza a kifejezést, <b>\"Isten gyermekei\"</b>, írja be egy pár szót, mint <b>\"Isten\"</b>.
+
+-A vers, amely tartalmazza a mondat <b>\"fogta a kelyhet\"</b>, írja be ezeket a többszörösét szavakat: <b>«ilpritlacoupe»</b>.
+
+Ne aggódj ékezetek és írásjelek, vagy kisbetűs/nagybetűs.
+
+Nincs szükség-írja be a szavakat, egészben vagy részben a sorrendben.
+
+Add hozzá más szavakkal, a vers, hogy csökkentsék a megtalált versek listája.
+
+Nyomjuk meg a <b>Beszúrás</b> gomb hozzáadása a vers található, és a napirend kijelölt."},{
+Key:1005260,Text:"Nem talált vers."},{
+Key:1005268,Text:"Ebben az üzemmódban VideoPsalm automatikusan hozzáadja a következő látnivaló környékén: beírt szöveg [] szögletes zárójelet.
+Például adja hozzá a c húrt, írja be a «Ezt» és a VideoPsalm szúrja \"[Do]."},{
+Key:1005269,Text:"Betűméret"},{
+Key:1005270,Text:"Módosítja a betűméretet a képernyő magasság százalékában."},{
+Key:1005271,Text:"&Mentése mint..."},{
+Key:1005277,Text:"Mentés"},{
+Key:1005278,Text:"Menti a könyvek, a Bibliát és a stílusuk végrehajtott módosításokat."},{
+Key:1005279,Text:"Menti a gyűjtemények és a stílusok végrehajtott módosításokat.
+
+<b>Figyelem:</b> (Szöveg és stílusok) nem menti a módosításokat, hogy a Bibliát. A változtatások mentéséhez lehetővé teszi a megfelelő opciót a lehetőségek VideoPsalm."},{
+Key:1005283,Text:"Hossza:"},{
+Key:1005284,Text:"MS:"},{
+Key:1005285,Text:"Elem"},{
+Key:1005286,Text:"Test"},{
+Key:1005287,Text:"A felépítmény"},{
+Key:1005288,Text:"Lehetővé teszi a szerkesztést, a test stílus."},{
+Key:1005289,Text:"Fejléc"},{
+Key:1005290,Text:"Fejléc stílusa"},{
+Key:1005291,Text:"Lehetővé teszi a szerkesztést, a fejléc stílusa."},{
+Key:1005292,Text:"Láb"},{
+Key:1005293,Text:"Stílus a láb"},{
+Key:1005294,Text:"Lehetővé teszi a szerkesztést, a stílus, a láb."},{
+Key:1005295,Text:"Megállapodások"},{
+Key:1005296,Text:"A megállapodások stílus"},{
+Key:1005297,Text:"Lehetővé teszi, hogy a megállapodások stílus szerkesztése."},{
+Key:1005308,Text:"A könyv"},{
+Key:1005313,Text:"Szinten a stílus"},{
+Key:1005314,Text:"Állítsd be a szintet, amelynél a stílus módosításokat alkalmazni fogja.
+
+A vers rendelkezzen a legmagasabb stílus, akkor csak énekelnek, gyűjtemény, gyűjtemények és a bázis.
+
+Hasonlóképpen a vers a szint a legmagasabb stílus, akkor jön a fejezet, a könyv, a testament, a Biblia, Bibliák és az alap újra.
+
+Az alap, hogy a hierarchia gyökerében, a stílus vonatkozik minden diák.
+
+A magasabb szintű bírálhatja felül alacsonyabb szintű attribútumban definiált stílus."},{
+Key:1005315,Text:"<b></b>Ez a mechanizmus lehetővé teszi, hogy változtatni a stílus, a way általános vagy egyedi diák.
+
+<b>Példa</b>
+Ha hátteret rendel egy dal, a vers a dal jelenik meg, ezzel a háttérrel, kivéve a vers, amely hozzárendelte egy adott háttér."},{
+Key:1005318,Text:"Dia"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Videók"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"A szövegszínek"},{
+Key:1005329,Text:"Reset"},{
+Key:1005330,Text:"Törli a kiválasztott szintre stílus"},{
+Key:1005331,Text:"A kijelölt szint stílus-attribútumok törlése
+Nélkül stílusú dia örökli automatikusan alacsonyabb szintű stílus.
+
+Például:
+-Egy stanza Candara betűtípus a stílusban is.
+-Éneklés közben, van egy stílus-val egy Segoe UI Betűkészlet.
+
+Amikor törli a vers stílusa, alacsonyabb szintű stílus fog megjelenni. A mi példánkban lesz a Segoe UI Betűkészlet.
+
+<b>Csepp-legyőz étlap «töröl minden fenti stílusok»</b>
+Törölheti a stílust a kijelölt szint és minden magasabb stílus.
+
+Például ha a szinten a stílus \"Kód\" van kiválasztva, a stílus gyűjtemény törlésre kerül és a stílusok az összes dalt a gyűjtemény, és azok a versszak."},{
+Key:1005332,Text:"Ez a gomb halványítva jelenik meg, mikor a szinten nincs saját stílussal rendelkezik."},{
+Key:1005333,Text:"&Minden fenti stílusok törlése"},{
+Key:1005337,Text:"&Top"},{
+Key:1005338,Text:"&Közepes"},{
+Key:1005339,Text:"&Alsó"},{
+Key:1005340,Text:"Ezen a szinten, a stílus marad"},{
+Key:1005341,Text:"Marad a jelenlegi szinten a stílus"},{
+Key:1005342,Text:"Marad a jelenlegi szinten a stílus módosítása a dián.
+
+Így:
+<b>1.</b> Egy dalt, VideoPsalm, vers megjelenítésekor pozíciók stílus \"stanza\" szintet.
+<b>2.</b> Megváltoztatása a stílus az éneklés, a vers, adja meg a stílus \"dal\".
+<b>3.</b> Maradni a dalok stílusa formázás, nyomja meg a rajzszög.
+<b>4.</b> Amikor a másikra váltani egy strófa, a stílus marad a \"dal\"."},{
+Key:1005343,Text:"A szöveg kitöltése"},{
+Key:1005345,Text:"Töltse ki a szöveg egy egyszínű, átmenetes, egy kép vagy a textúra."},{
+Key:1005346,Text:"A szöveg színe"},{
+Key:1005347,Text:"A szöveg körvonalának"},{
+Key:1005349,Text:"Megadja a szín, szélesség és a sort a szövegstílus körvonalát."},{
+Key:1005350,Text:"A szöveg színe"},{
+Key:1005352,Text:"A szöveg hatása"},{
+Key:1005354,Text:"Vizuális effektus alkalmazása a szöveget, például egy árnyék, egy könnyű, tükrözi vagy egy 3-d forgatás."},{
+Key:1005356,Text:"Szöveg árnyék"},{
+Key:1005357,Text:"A háttér színe"},{
+Key:1005359,Text:"&Új dal"},{
+Key:1005360,Text:"&Új kollekció"},{
+Key:1005361,Text:"&Törölje az összes"},{
+Key:1005362,Text:"
+
+<b>Részleges pajzs</b>
+Menetrend a megnyitón a <b>szövegek</b> , a könyvek és Bibliát megmarad.
+A naptár stílusok lesznek érvényesek a könyvek és Bibliát."},{
+Key:1005363,Text:"
+
+<b>Részleges pajzs</b>
+Menetrend a megnyitón a <b>stílusokat</b> , a könyvek és Bibliát megmarad.
+A menetrend szövegek érvényesek lesznek a könyvek és Bibliát."},{
+Key:1005364,Text:"
+
+<b>Teljes pajzs</b>
+Menetrend a megnyitón a <b>szövegek</b> és <b>stílusok</b> , a könyvek és Bibliát megmarad.
+Azok a menetrend nem kell alkalmazni.
+
+<i>Ez a stratégia elfogadása, ha a dokumentumokat a PC a referencia.</i>"},{
+Key:1005365,Text:"
+
+<b>Hiányában a pajzs</b>
+Egy menetrend, <b>szövegek</b> és <b>stílusok</b> , a naptár megnyitásakor a könyvek és Bibliát alkalmazni fognak, és cserélje ki a saját szövegek és stílusok.
+
+<i>Ez a stratégia, amikor a hivatkozás olyan dokumentumok, a PC, létrehozta a napirend elfogadása.</i>"},{
+Key:1005366,Text:"Változtatni a \"néző\", \"Edit\" módban, vagy fordítva, kattintson a gombra a ceruzát."},{
+Key:1005369,Text:"Cím szerinti rendezés"},{
+Key:1005370,Text:"Száma szerint rendezve"},{
+Key:1005371,Text:"Körülbelül..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Szimulálja a videó vetítés
+a képernyőn a 4:3.2 szempont a"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Szimulálja a videó vetítés
+a képernyő szempont 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Szimulálja a videó vetítés
+a 4:3 szempont a képernyőn"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Szimulálja a videó vetítés
+a képernyő szempont 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Szimulálja a videó vetítés
+a képernyő szempont 16:8"},{
+Key:1005387,Text:"Aktuális"},{
+Key:1005388,Text:"Használja a képernyő teljes felületét"},{
+Key:1005389,Text:"Szempont 4:3"},{
+Key:1005390,Text:"Re Mi do"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"A megállapodások beszúrási mód"},{
+Key:1005398,Text:"A fenti szöveg megjelenítése"},{
+Key:1005400,Text:"Beállíthatja az ablak megjelenése"},{
+Key:1005401,Text:"&Hozzáadása a naptárhoz"},{
+Key:1005402,Text:"&Delete (Törlés)"},{
+Key:1005403,Text:"&Kód szerepeljen a keresési"},{
+Key:1005404,Text:"&Zárja ki a gyűjtemény, a kutatás"},{
+Key:1005405,Text:"&Tartalmaz a gyűjteményeket a keresés"},{
+Key:1005407,Text:"&Kizárt a kutatási gyűjtemények elrejtése"},{
+Key:1005408,Text:"&Mutatják, hogy kizárt a kutatási gyűjtemények"},{
+Key:1005409,Text:"&Az átméretezés fókuszjelző keretet jelenítenek meg"},{
+Key:1005410,Text:"Megjeleníti a resize téglalap"},{
+Key:1005411,Text:"Lehetővé teszi, hogy méretezze át a keretet (szövegtörzs, élőfej vagy élőláb), kiválasztott.
+
+A keret lehet átméretezni az egérrel az előnézeti területen.
+
+<b>Hogyan viselkedni lakik egy keret</b>
+
+1. Válassza ki a keret átméretezése:
+-a test
+-a fej,
+- vagy a láb.
+
+2. Válassza ki a szükséges szintű, például a \"Bibliák\".
+
+3. Nyomja meg a hibát, hogy VideoPsalm egy bemutatás diák \"Bibliák\" stílusban.
+Valóban ha a hiba nem préselt, VideoPsalm automatikusan átvált a \"Verset\" stílus, amint jelenítjük meg, egy vers.
+
+4 Jeleníti meg a vers. Az előnézeti területen a keret \"Bibliák\" stílus használatával jeleníti meg.
+
+5 Változtatni méretét és helyzetét a keret, az egér használata.
+
+6. Távolítsa el a hibát, VideoPsalm visszatérni a \"Verset\" stílus, amikor ismét megjelenik a dián."},{
+Key:1005412,Text:"&Másol a összefoglalását a kódot a vágólapra"},{
+Key:1005417,Text:"Szöveg"},{
+Key:1005418,Text:"Stíluskezelő"},{
+Key:1005419,Text:"Megjeleníti vagy elrejti a stílus Explorer.
+Ebben az ablakban lehet navigálni-közötti hierarchikus stílusok, egyéni tulajdonságainak és szerkesztheti őket."},{
+Key:1005420,Text:"Stílusok"},{
+Key:1005421,Text:"Rendőrség"},{
+Key:1005424,Text:"Háttér"},{
+Key:1005425,Text:"Stílusok"},{
+Key:1005429,Text:"Szempont"},{
+Key:1005430,Text:"Kiadás"},{
+Key:1005432,Text:"Megjelenése"},{
+Key:1005433,Text:"Eszközök"},{
+Key:1005442,Text:"Folytatódik-val a következő cikk"},{
+Key:1005443,Text:"Kapcsolja ki, mielőtt"},{
+Key:1005444,Text:"Távolítsa el a szöveget, majd kövesse"},{
+Key:1005445,Text:"Távolítsa el a szöveget, és kapcsolja ki a"},{
+Key:1005446,Text:"Bemutatás együtt-val a következő elem (kétnyelvű)"},{
+Key:1005447,Text:"Az ének vagy a versek kijelölt menetrend (Beszúrás vagy Alt + A)"},{
+Key:1005448,Text:"Ide kattintva vehet fel az ének és a vers napirendre.
+
+Vagylagosan húz és csepp ez a gomb a naptár arra a helyre, amelyet be kell."},{
+Key:1005449,Text:"&Add hozzá"},{
+Key:1005454,Text:"Válasszuk az Opciók keresni a dalokat a kulcsszavak"},{
+Key:1005455,Text:"Törölje a szó vagy szám keresése (ESC)"},{
+Key:1005457,Text:"Keresés a dal (Ctrl + F)"},{
+Key:1005458,Text:"Keresés a dalok tartalmaznak bizonyos szavak, vagy több.
+
+Például:
+
+-A dal száma 250 megtalálni, írjon be «250»
+
+-Hogy megtalálják a dal, a dalszöveget tartalmazó <b>\", mint egy világítótorony a az éjszakai\"</b>, írjon be néhány szót, mint a <b>\"fény night\"</b>.
+
+Ne aggódj az ékezetes vagy írásjelet.
+
+Nem kell figyelembe venni a szavak, egészben vagy részben a sorrendben.
+
+Más szóval, a dal található dalok listája csökkentésére hozzá.
+
+Nyomja meg az első dal megtalálható a napirend <b>beszúrása</b> gombra."},{
+Key:1005459,Text:"Nincs semmilyen Bibliát.
+Kattintson ide a Tanúsítványimportáló varázsló elindításához
+Bibliák, és adjunk hozzá Bibliák népszerű forrásokból."},{
+Key:1005463,Text:"Törölje a hivatkozás megjelenítéséhez (ESC)"},{
+Key:1005464,Text:"Hivatkozás kiválasztásához, pl.: Róma 3:23-25, 30"},{
+Key:1005465,Text:"Válassza ki a vers (Ctrl + F)"},{
+Key:1005472,Text:"&Fájl:"},{
+Key:1005475,Text:"&Ez a gyűjtemény tartalmaz dalok keresése"},{
+Key:1005479,Text:"&név:"},{
+Key:1005481,Text:"&Rövidítés:"},{
+Key:1005483,Text:"&Szerző:"},{
+Key:1005485,Text:"&Copyright:"},{
+Key:1005487,Text:"&Dokumentum:"},{
+Key:1005491,Text:"&A capo nyomtatása"},{
+Key:1005497,Text:"&Dalszövegei"},{
+Key:1005499,Text:"&Szám:"},{
+Key:1005501,Text:"&Cím:"},{
+Key:1005505,Text:"&Hivatkozás:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Szerző:"},{
+Key:1005511,Text:"&Zeneszerző:"},{
+Key:1005513,Text:"&Különböző"},{
+Key:1005515,Text:"&Hang:"},{
+Key:1005517,Text:"&Formátum:"},{
+Key:1005519,Text:"&Téma:"},{
+Key:1005521,Text:"&Sorrend:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Kulcs:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Sort:"},{
+Key:1005531,Text:"&Jegyzet 1:"},{
+Key:1005533,Text:"&2. Feljegyzés:"},{
+Key:1005535,Text:"&3. Feljegyzés:"},{
+Key:1005537,Text:"&Aláírás:"},{
+Key:1005540,Text:"&Átültetés:"},{
+Key:1005541,Text:"A capo nyomtatni?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempó:"},{
+Key:1005545,Text:"Az a dal megállapodások végrehajtásához."},{
+Key:1005555,Text:"&Fájl:"},{
+Key:1005560,Text:"&Copyright:"},{
+Key:1005562,Text:"&Rövidítés:"},{
+Key:1005564,Text:"&név:"},{
+Key:1005566,Text:"&Leírást/ellenőrzések:"},{
+Key:1005568,Text:"&Bevezetés:"},{
+Key:1005570,Text:"&Dokumentum:"},{
+Key:1005576,Text:"&név:"},{
+Key:1005582,Text:"&név:"},{
+Key:1005584,Text:"&Bevezetés:"},{
+Key:1005586,Text:"&Rövidítés:"},{
+Key:1005587,Text:"Fejezet a Biblia"},{
+Key:1005590,Text:"Biblia vers"},{
+Key:1005595,Text:"&Vers:"},{
+Key:1005603,Text:"&Fájl:"},{
+Key:1005606,Text:"Nincs kiválasztása"},{
+Key:1005608,Text:"Stílus"},{
+Key:1005612,Text:"Eltávolítja az ingatlan értéke"},{
+Key:1005613,Text:"Amikor vagy töröl egy tulajdonság értékét, VideoPsalm használja az alsóbb szinten található első értékre.
+
+Például, ha a rendőrség a vers szinten VideoPsalm használ, távolítsa el a rend, és ha van beállítva, a betűtípus:
+-ének,
+-egyébként a gyűjtemény
+-Ha az egyik a gyűjtemények
+-egyébként az alap.
+
+VideoPsalm is ugyanaz a Bibliát, képek, stb."},{
+Key:1005615,Text:"Egyik sem"},{
+Key:1005616,Text:"Alap"},{
+Key:1005618,Text:"Gyűjtemények"},{
+Key:1005619,Text:"Gyűjtemény"},{
+Key:1005620,Text:"Ének"},{
+Key:1005621,Text:"Strófa"},{
+Key:1005622,Text:"Bibliák"},{
+Key:1005623,Text:"Biblia"},{
+Key:1005624,Text:"Végrendelet"},{
+Key:1005625,Text:"A könyv a Biblia"},{
+Key:1005626,Text:"Fejezet"},{
+Key:1005627,Text:"A vers"},{
+Key:1005628,Text:"Alapértelmezett érték"},{
+Key:1005629,Text:"Érték a testből a szöveg"},{
+Key:1005630,Text:"Bal"},{
+Key:1005631,Text:"Középre"},{
+Key:1005632,Text:"Jobb"},{
+Key:1005633,Text:"Indokolt"},{
+Key:1005634,Text:"Top"},{
+Key:1005635,Text:"Közepes"},{
+Key:1005636,Text:"Alsó"},{
+Key:1005650,Text:"&A naptár megnyitása..."},{
+Key:1005651,Text:"&Naptár hozzáadása..."},{
+Key:1005652,Text:"&Összead kép slideshow..."},{
+Key:1005653,Text:"&Autonóm videók hozzáadása..."},{
+Key:1005654,Text:"&Adjunk hozzá néhány PowerPoints..."},{
+Key:1005655,Text:"Mikor én nyit a naptár:"},{
+Key:1005656,Text:"&A szövegek, könyvek és Bibliát megőrzése"},{
+Key:1005657,Text:"&A könyvek és Bibliát stílusok megőrzése"},{
+Key:1005667,Text:"&Gyűjtemények"},{
+Key:1005668,Text:"Megjeleníti a gyűjtemények (Alt + R)"},{
+Key:1005670,Text:"&Bibliák"},{
+Key:1005671,Text:"Megjeleníti a Bibliát (Alt + B)"},{
+Key:1005677,Text:"&Szélesség:"},{
+Key:1005680,Text:"&Blur:"},{
+Key:1005681,Text:"&Mélység:"},{
+Key:1005682,Text:"&Irány:"},{
+Key:1005686,Text:"Egy üres képernyő, fekete színt jeleníti meg.
+Szimulálja a kihalás a projektor."},{
+Key:1005687,Text:"Következő"},{
+Key:1005688,Text:"Előre a következő diára."},{
+Key:1005689,Text:"Kapcsolja ki a képernyő (Ctrl + W)"},{
+Key:1005690,Text:"Szöveg megjelenítése (Ctrl + T)"},{
+Key:1005691,Text:"Megjeleníti vagy elrejti a dia szövegét."},{
+Key:1005692,Text:"Pajzs (Ctrl + B)"},{
+Key:1005693,Text:"Megőrzi az ének, hogy videó vetítés diák.
+
+A munkát a napirendet, vagy keressen egy dalt, vagy egy vers a videó vetítés az éneklés közben.
+
+A pajzs felülbírálásához kattintson duplán egy napirendi."},{
+Key:1005694,Text:"Rögzítése"},{
+Key:1005695,Text:"Videó vetítés képernyő lefagy az előnézeti területen fagyasztás nélkül.
+
+Megtekintheti a bemutató során a videó vetítés."},{
+Key:1005696,Text:"Projekt (Ctrl + P)"},{
+Key:1005697,Text:"Tervezett diák a kivetítőn."},{
+Key:1005698,Text:"Üzemmód \"Kiadás\" (Ctrl + E)"},{
+Key:1005699,Text:"Váltás a the \"Viewer\", \"Edit\" módban, vagy fordítva."},{
+Key:1005702,Text:"A naptár vagy a dokumentum megnyitása"},{
+Key:1005703,Text:"Megnyitja a naptárat, vagy hozzáadása a PowerPoint-bemutatók, képek, a diavetítés, videók, stb."},{
+Key:1005704,Text:"A naptárat"},{
+Key:1005705,Text:"Törlése"},{
+Key:1005706,Text:"Eltávolítja a kijelölt elemeket a menetrend (Törlés)."},{
+Key:1005707,Text:"Mount (Ctrl + Page up)"},{
+Key:1005708,Text:"Monte a napirend elején elemet."},{
+Key:1005709,Text:"Le (Ctrl + Page down)"},{
+Key:1005710,Text:"Le az elemet a program vége felé."},{
+Key:1005711,Text:"Fényerő"},{
+Key:1005712,Text:"A naptár megnyitása"},{
+Key:1005713,Text:"Menti a menetrend a lemezen vagy USB-kulcs."},{
+Key:1005721,Text:"Kiválasztja a verseket a hivatkozással.
+<i>Példa: Róm 3:23-25, 30</i>
+
+Ne írjunk ékezetek könyvek nevét.
+<i>Példa: n<b>e</b>h<b>e</b>mie' ahelyett, hogy \"N<b>é</b>h<b>é</b>mie\".</i>
+
+Adja meg vagy a <b>': '</b>, a <b>\".\"</b> vagy a <b>'v'</b> a fejezetek a verseket elválasztására.
+
+Nyomja meg az <b>'Insert'</b> gombot, add napirenden kiválasztott verseket."},{
+Key:1005722,Text:"Megjegyzések (nem fordítás, elhagyni, angol nyelven)"},{
+Key:1005723,Text:"Nem lehet írni a fájlt
+{0} :
+a(z) {1}"},{
+Key:1005724,Text:"Hiba"},{
+Key:1005725,Text:"A fájl nem olvasható
+{0} :
+a(z) {1}"},{
+Key:1005730,Text:"Biztosan el szeretné távolítani a stílus a diák kép?
+A stílus a diák kép fog egy szokásos értéket."},{
+Key:1005731,Text:"Biztosan el szeretné távolítani az alapstílus?
+Az alapstílus fog egy szokásos értéket."},{
+Key:1005732,Text:"Biztosan el szeretné távolítani a stílus gyűjtemény?
+A stílus gyűjtemény fog egy szokásos értéket."},{
+Key:1005733,Text:"Biztosan el szeretné távolítani a stílus Bibliák?
+A Bibliák stílus kerül egy szokásos értéket."},{
+Key:1005734,Text:"Biztosan törli ezt a stílust?
+VideoPsalm alkalmazása a Stílusjellemzők alsó található a hierarchiában."},{
+Key:1005735,Text:"Tiszta style"},{
+Key:1005736,Text:"Biztosan el szeretné távolítani a stílusa?
+Stílusa a szokásos érték kerül."},{
+Key:1005737,Text:"A gyűjtemény"},{
+Key:1005738,Text:"Nincs gyűjtemény"},{
+Key:1005739,Text:"A Biblia"},{
+Key:1005740,Text:"Semmilyen Bibliát"},{
+Key:1005743,Text:"Bővíteni a betűtípus (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Növeli a betűméretet."},{
+Key:1005745,Text:"Csökkentse a betűtípus (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Csökkenti a betűtípus méretét."},{
+Key:1005747,Text:"Merész (Ctrl + B)"},{
+Key:1005748,Text:"Tedd a kijelölt szöveget félkövérre."},{
+Key:1005749,Text:"Dőlt (Ctrl + I)"},{
+Key:1005750,Text:"Tesz a kijelölt szöveg dőltté alakítása."},{
+Key:1005751,Text:"Hegyes ki (Ctrl + U)"},{
+Key:1005752,Text:"A kijelölt szöveg aláhúzása."},{
+Key:1005753,Text:"Bár"},{
+Key:1005754,Text:"A kijelölt szöveg közepén vonal rajzolása."},{
+Key:1005755,Text:"Megjelenítése / elrejtése ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Bekezdésjelek és egyéb rejtett formázási szimbólumok megjelenítése."},{
+Key:1005757,Text:"Betűszín"},{
+Key:1005758,Text:"A szöveg színének módosítása."},{
+Key:1005759,Text:"A szöveg színét"},{
+Key:1005760,Text:"Egy színt ad a szöveg."},{
+Key:1005761,Text:"Törölje a formázás (Ctrl + space)"},{
+Key:1005762,Text:"Teljesen törli a kijelölés formázását, és csak a sima szöveg megőrzi."},{
+Key:1005763,Text:"Visszavonás (Ctrl + Z)"},{
+Key:1005764,Text:"Visszavonja az utolsó műveletet."},{
+Key:1005765,Text:"Ismét (Ctrl + Y):"},{
+Key:1005766,Text:"Az utolsó művelet megismétlése."},{
+Key:1005767,Text:"Kivágás (Ctrl + X)"},{
+Key:1005768,Text:"A kijelölés kivágása és beillesztése a vágólapról."},{
+Key:1005769,Text:"Másolás (Ctrl + C)"},{
+Key:1005770,Text:"Másolja a kijelölést, és a vágólapra helyezi."},{
+Key:1005771,Text:"Beillesztés (Ctrl + V)"},{
+Key:1005772,Text:"Beilleszti a vágólap tartalmát."},{
+Key:1005773,Text:"Keresés (Ctrl + F)"},{
+Key:1005774,Text:"Keressük meg a szöveget a dokumentumban."},{
+Key:1005775,Text:"Csere (Ctrl + H)"},{
+Key:1005776,Text:"Váltja fel a szöveget a dokumentumban."},{
+Key:1005777,Text:"Nagyítás"},{
+Key:1005778,Text:"Összes megjelenítése"},{
+Key:1005779,Text:"Egy adott vers szerkesztéséhez kattintson a dián."},{
+Key:1005780,Text:"Válogatott versek"},{
+Key:1005781,Text:"A gyűjtemény a címe dalok által kiválasztott rendezi."},{
+Key:1005782,Text:"Bezárja az aktuális menetrend (és kéri a megerősítést, ha volt mentetlen változtatás)."},{
+Key:1005783,Text:"A háttér videó vagy a kép fényerejét.
+
+Lehetővé teszi, hogy a szöveg kiemelése, még több, mint egy barriole háttér."},{
+Key:1005784,Text:"&Másolja a program leírása"},{
+Key:1005785,Text:"&Tartalmazza a dalszövegeket a dalok"},{
+Key:1005786,Text:"&Közé tartozik a bibliai versek"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube-on"},{
+Key:1005790,Text:"Megnyitja a VideoPsalm facebook oldalán.
+
+Tájékoztassa a VideoPsalm körül:
+-kattintson a gombra \"Tetszik\"
+-azáltal, hogy a barátja.
+
+<b>Megjegyzés:</b> Kiküszöböl a címek-ban Facebook, telepítse az ingyenes plugin <b>Adblock plusz</b>.
+
+VideoPsalm szociális ikonok elrejtése tiltsa le őket a \"Beállítások\" → \"Général\" fület."},{
+Key:1005791,Text:"A VideoPsalm Twitter oldal megnyitása, az új cikkek Blogok tájékoztatni kell.
+
+VideoPsalm szociális ikonok elrejtése tiltsa le őket a \"Beállítások\" → \"Général\" fület."},{
+Key:1005792,Text:"Megnyitja a VideoPsalm YouTube-oldal, ahol oktatóvideók a VideoPsalm használatát.
+
+VideoPsalm szociális ikonok elrejtése tiltsa le őket a \"Beállítások\" → \"Général\" fület."},{
+Key:1005793,Text:"Hozzáadja a kijelölt gyűjtemény egy új üres dal (vagy a hirdetés)."},{
+Key:1005794,Text:"Hozzáteszi, egy új üres gyűjteményen."},{
+Key:1005795,Text:"Rendezi a dalok, a gyűjtemény a kiválasztott számmal."},{
+Key:1005800,Text:"Strófa"},{
+Key:1005801,Text:"Kórus"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Híd"},{
+Key:1005804,Text:"Címke"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Kimeneti"},{
+Key:1005807,Text:"SLIP"},{
+Key:1005808,Text:"Instrumentális"},{
+Key:1005809,Text:"Egyéb"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"ÉN"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Zár"},{
+Key:1005851,Text:"&Nyelv:"},{
+Key:1005852,Text:"&Kiadó:"},{
+Key:1005853,Text:"Minden"},{
+Key:1005859,Text:"Átültetés dal megállapodások a capodiastre elfoglalt helyétől."},{
+Key:1005860,Text:"A dalok, beleértve a cím (vagy álnév), vagy a dalszövegeket tartalmazza a szavakat.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005861,Text:"Végrehajt egy keresést a két szakaszból áll, hogy az az előnye, hogy gyorsan megjelenítheti egy rövid lista a dalok:
+
+1 Talál egy első alkalommal dalok, beleértve a cím (vagy álnév) beírt szavakat tartalmazza.
+
+Hogy hozzá szavakat, hogy eljön az idő amikor a legtöbb dalt is egyetért.
+
+2. Ettől a ponttól VideoPsalm fogja keresni a szavak a dalok dalszöveg.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005862,Text:"Még dalok dalszerzők belép.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005863,Text:"Még dalok, hogy foglalkozik a témák, hogy Ön adja meg.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005864,Text:"Még a dal ihlette a bibliai utalások, hogy Ön adja meg.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005865,Text:"Ez a dal, amit birtokol belép CCLI.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005866,Text:"Még dalok, amelynek szerzői beírt szavakat tartalmazza.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005867,Text:"Még dalok, amelynek jegyzet 1 beírt szavakat tartalmazza.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005868,Text:"Még dalok, amelynek jegyzet 2 beírt szavakat tartalmazza.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005869,Text:"Még dalok 3 feljegyzés szavakat tartalmazó belép.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005870,Text:"Még dalok, amelynek címe vagy alias beírt szavakat tartalmazza.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005871,Text:"Keresse meg a dalokat, amelyek megállapodások a dalszövegeket.
+
+Vagylagosan tudod keres egy dal a szám."},{
+Key:1005872,Text:"&Változat:"},{
+Key:1005873,Text:"&Változat:"},{
+Key:1005874,Text:"A verzió a gyűjtés dátuma"},{
+Key:1005875,Text:"Azt jelzi, hogy a dátumot, amelyen ez a gyűjtemény által frissített VideoPsalm az utóbbi időben.
+
+Keresztül az VideoPsalm online tárban importálása varázsló, akkor ellenőrizze, ha van egy újabb változat-ból ez a kézikönyv.
+
+VideoPsalm online néha frissítések egyes gyűjtemények, például olyan helyesírási kijavításához."},{
+Key:1005876,Text:"A változat-ból Biblia dátuma"},{
+Key:1005877,Text:"Azt jelzi, hogy a dátum, amelyen a Biblia frissült az VideoPsalm az utóbbi időben.
+
+Keresztül az VideoPsalm online tárban Importálás varázsló ellenőrizheti, ha van egy újabb változat a fordítás.
+
+VideoPsalm online néha frissíti néhány Bibliák, például olyan helyesírási kijavításához."},{
+Key:1005878,Text:"Tömörített"},{
+Key:1005879,Text:"Tömörített"},{
+Key:1005880,Text:"VideoPsalm összenyom a gyűjtemények és a Bibliát, így megment némely korong hely.
+
+Könyvek és Bibliát, amit ön letölt keresztül az Importálás varázsló általában tömörített, annak érdekében, hogy gyorsítsa fel a letöltés, és csökkenti az internetes forgalmat, a VideoPsalm oldalon."},{
+Key:1005881,Text:"&Tömörített"},{
+Key:1005882,Text:"&Tömörített"},{
+Key:1005884,Text:"Biztosan törli a Biblia \"{0}\"?
+
+A Biblia megfelelő fájl nem törlődik a lemezről:
+a kiterjesztés lesz átnevez \".ignore."},{
+Key:1005885,Text:"Törölje a Biblia"},{
+Key:1005886,Text:"Kérjük várjon"},{
+Key:1005887,Text:"Betöltése folyamatban..."},{
+Key:1005888,Text:"Ószövetség"},{
+Key:1005889,Text:"Újszövetség"},{
+Key:1005890,Text:"Aktuális rekord..."},{
+Key:1005891,Text:"&Képek importálása"},{
+Key:1005892,Text:"Válassza ki a képeket szeretne importálni, és kattintson a \"Megnyitás\"."},{
+Key:1005893,Text:"A(z) {0} keret (s) importálása."},{
+Key:1005894,Text:"Nincs kép importálták.
+(Ő (s) megtalálható (s) a galériában)."},{
+Key:1005895,Text:"&Hozza létre újra a miniatűrök"},{
+Key:1005896,Text:"Hozza létre újra a miniatűrök"},{
+Key:1005897,Text:"Szeretné, hogy újra a miniatűrök?
+
+Lehet, hogy szükséges újra képek bélyegképeit
+Ha változtattunk kívül VideoPsalm."},{
+Key:1005898,Text:"&A kép törlése"},{
+Key:1005899,Text:"Kép eltávolítása"},{
+Key:1005900,Text:"Biztosan törli a kép \"{0}\"?"},{
+Key:1005901,Text:"&Fedezze fel a képek mappában"},{
+Key:1005902,Text:"&A kijelölt kép törlése"},{
+Key:1005903,Text:"&Videó importálása"},{
+Key:1005904,Text:"Válassza ki a videót szeretne importálni, és kattintson a \"Megnyitás\"."},{
+Key:1005905,Text:"A(z) {0} video (s) importálása."},{
+Key:1005906,Text:"Videó importálása megtörtént.
+(Ő (s) megtalálható (s) a galériában)."},{
+Key:1005907,Text:"&Hozza létre újra a miniatűrök"},{
+Key:1005908,Text:"&A videó törlése"},{
+Key:1005909,Text:"Videofájl törlése"},{
+Key:1005910,Text:"Biztosan törli a videó \"{0}\"?"},{
+Key:1005911,Text:"&Fedezze fel a videók mappában"},{
+Key:1005912,Text:"&Törli a kijelölt videó"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Képek importálása"},{
+Key:1005915,Text:"Videó importálása"},{
+Key:1005917,Text:"Nem hozható létre a mappa
+{0} :
+a(z) {1}"},{
+Key:1005918,Text:"A megadott mappa még nem támogat:
+{0}"},{
+Key:1005919,Text:"A mappa kell kitölteni."},{
+Key:1005920,Text:"A mappa neve nem tartalmazhatja a következő karaktereket:
+{0}"},{
+Key:1005921,Text:"Könyvek és Bibliát visszaállítása"},{
+Key:1005922,Text:"Visszaállítja a gyűjteményeket, Bibliák, képek vagy videók, például egy biztonsági másolatból egy USB-stick."},{
+Key:1005923,Text:"Zár"},{
+Key:1005930,Text:"&Másolja a dal"},{
+Key:1005931,Text:"&Mozog a dal"},{
+Key:1005932,Text:"Ne akarja másolni a dal \"{0}\".
+a gyűjtemény \"{1}\"?"},{
+Key:1005933,Text:"Igazán ki akar lépni a dal \"{0}\".
+a gyűjtemény \"{1}\"?"},{
+Key:1005934,Text:"&Adja meg a hivatkozás keresztül a rövidítések"},{
+Key:1005935,Text:"&Megjelenítési nevét a francia nyelvű könyvek"},{
+Key:1005936,Text:"(Másolat)"},{
+Key:1005937,Text:"Egy új könyv érhető el:
+{0}"},{
+Key:1005938,Text:"Új gyűjtemények érhetőek el: {0}"},{
+Key:1005939,Text:"Korrekciókat hajtottak
+a gyűjtemény \"{0}\"."},{
+Key:1005940,Text:"Korrekciókat hajtottak
+a következő kód: {0}"},{
+Key:1005941,Text:"Nyissa meg a gyűjtemények importálása varázsló"},{
+Key:1005942,Text:"Egy új Biblia érhető el:
+{0}"},{
+Key:1005943,Text:"Új Bibliát állnak rendelkezésre: {0}"},{
+Key:1005944,Text:"Korrekciókat hajtottak
+a Biblia \"{0}\"."},{
+Key:1005945,Text:"Korrekciókat hajtottak
+a Bibliát a következő: {0}"},{
+Key:1005946,Text:"A varázsló megnyitásához az importálás Bibliák"},{
+Key:1005947,Text:"VideoPsalm az újonnan rendelkezésre álló
+{0}"},{
+Key:1005948,Text:"VideoPsalm újonnan rendelkezésre áll: {0}"},{
+Key:1005949,Text:"Korrekciókat hajtottak
+a címkék {0}"},{
+Key:1005950,Text:"Korrekciókat hajtottak
+a címkéket a következő nyelveken: {0}"},{
+Key:1005951,Text:"Nyissa meg az importálást, a varázsló"},{
+Key:1005952,Text:"Egy több újabb keletű változat
+VideoPsalm érhető el:"},{
+Key:1005953,Text:"Kijelző hírek"},{
+Key:1005954,Text:"Automatikus"},{
+Key:1005955,Text:"Fedezze fel a kijelölt mappa"},{
+Key:1005956,Text:"Válassza ki a mappát"},{
+Key:1005957,Text:"Megjeleníti a legutóbbi fájlok"},{
+Key:1005958,Text:"Mentés"},{
+Key:1005959,Text:"Lehetővé teszi, hogy mentse a gyűjtemények, Bibliák, képeket vagy videókat, vagy egy hordozható változat-ból VideoPsalm, például-ra egy USB kibír."},{
+Key:1005960,Text:"&Visszaállítása..."},{
+Key:1005961,Text:"VideoPsalm nem tudja megjeleníteni a PowerPoint-dokumentumokat.
+
+(Nem PowerPoint-típusú alkalmazást a számítógépen észlelt)."},{
+Key:1005962,Text:"Hiba a PowerPoint"},{
+Key:1005963,Text:"Ellenőrizze a(z) {0} szerkeszthető a gyűjtemény \"{1}\"."},{
+Key:1005964,Text:"Hogy {0} szerkeszthető a gyűjtemény..."},{
+Key:1005965,Text:"Ellenőrizze a(z) {0} szerkeszthető az új gyűjtemény \"{1}\"."},{
+Key:1005966,Text:"Bibliai részeket"},{
+Key:1005967,Text:"&Egyéni Biblia átjárók"},{
+Key:1005968,Text:"&Leírást/ellenőrzések:"},{
+Key:1005969,Text:"&Nyelv:"},{
+Key:1005970,Text:"&Kiadó:"},{
+Key:1005971,Text:"&Ügyintéző:"},{
+Key:1005973,Text:"&Ügyintéző:"},{
+Key:1005974,Text:"A szöveg felett"},{
+Key:1005975,Text:"Megállapodások a szöveg felett"},{
+Key:1005976,Text:"Ez a javasolt mód, hogy a szöveg szerkesztése.
+A szöveg szerkesztésekor minden megállapodás mozog a betűvel, hogy ami le van rögzítve.
+
+Mikor <b>másol szöveget tartalmazó szerződések</b>, megállapodások másolja a szöveget, a ChordPro formátumban.
+
+Megállapodások a ChordPro formában tartalmazó szöveg beillesztésekor VideoPsalm jeleníti meg, ezek a megállapodások a szöveg fölött.
+
+<b>Hozzá egy megállapodás</b>, Beszúrás balra a dokk, azt körülvevő a kívánt betű <b>[]</b>szögletes zárójelbe.
+
+<b>Megállapodást törli</b>, törli a levelet, amely rögzített, és aztán újragépel a levelet.
+
+<b>Megállapodás módosítása</b>, törlése, majd illessze be helyesen (vagy \" <b>Format ChordPro</b> \" módban)."},{
+Key:1005977,Text:"ChordPro formátum"},{
+Key:1005978,Text:"Megállapodások a ChordPro formátumban"},{
+Key:1005979,Text:"Ebben a módban:
+
+-VideoPsalm a dalszövegek és akkordok a <b>ChordPro formátumban</b>jeleníti meg.
+
+-A ' szerkesztés megállapodások ideális mód: VideoPsalm automatikusan hozzáteszi a beírt szöveg körül [] szögletes zárójelet.
+Például hogy hozzá a c húrt, és írjon be «Ezt» VideoPsalm szúrja be \"[Do]\".
+
+Figyelem: ez az üzemmód nem alkalmas szerkesztés a dalszövegeket, mert adott esetben a VideoPsalm körülveszi a betűk horgok.
+Inkább \"<b>fölött a szöveg</b>\" mód segítségével szerkesztheti a szöveget."},{
+Key:1005980,Text:"Megállapodások"},{
+Key:1005981,Text:"Másolás"},{
+Key:1005982,Text:"Másolja a naptár leírását, és hely ez-ra a csipeszes írótábla."},{
+Key:1005983,Text:"&Lehetővé teszi PowerPoint-hoz használ \"műsorvezető\"."},{
+Key:1005984,Text:"Ha ez a jelölőnégyzet be van jelölve, VideoPsalm levelek PowerPoint bemutatás a parancs interfész vezetni a haladás, a bemutató."},{
+Key:1005985,Text:"Tallózás egyszer"},{
+Key:1005986,Text:"Hurok"},{
+Key:1005987,Text:"Kézzel előre"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Automatikus előre..."},{
+Key:1005990,Text:"&Kézzel előre"},{
+Key:1005991,Text:"&Hurok"},{
+Key:1005992,Text:"&Tallózás egyszer"},{
+Key:1005993,Text:"&Időköz (másodperc):"},{
+Key:1005994,Text:"&A szöveg eltűnik, és kapcsolja ki, hogy"},{
+Key:1005995,Text:"&A következő elem nyomon követése"},{
+Key:1005996,Text:"&Kapcsolja ki, mielőtt"},{
+Key:1005997,Text:"&Szöveg eltűnik, akkor kövesse"},{
+Key:1005998,Text:"&Bemutatás együtt-val a következő elem (kétnyelvű)"},{
+Key:1005999,Text:"&Explorer"},{
+Key:1006000,Text:"Importálás varázsló"},{
+Key:1006001,Text:"Üdvözöljük, hogy a behozatali, könyvek, a Bibliát, a képek és a videók varázsló"},{
+Key:1006002,Text:"Ez a varázsló egyszerűsíti az importáló könyvek, Bibliák, képek és videók a könyvtár online VideoPsalm, vagy a népszerű formátumok, hogy végigvezet a lépések sorozatát."},{
+Key:1006003,Text:"Tovább gombra a folytatáshoz"},{
+Key:1006004,Text:"&Válasszon..."},{
+Key:1006005,Text:"&Következő &gt;"},{
+Key:1006006,Text:"&&lt; Korábbi"},{
+Key:1006007,Text:"&segítség"},{
+Key:1006008,Text:"&Befejezés"},{
+Key:1006009,Text:"&Lemondás"},{
+Key:1006010,Text:"Könyvek, Bibliák, képeket vagy videókat importálhat"},{
+Key:1006011,Text:"Válassza ki az importálni kívánt"},{
+Key:1006012,Text:"Importálni egy gyűjtemény"},{
+Key:1006013,Text:"Importálja a Biblia"},{
+Key:1006014,Text:"Képek importálása"},{
+Key:1006015,Text:"Videó importálása"},{
+Key:1006016,Text:"Egy olyan nyelvet importál"},{
+Key:1006020,Text:"&Inicializálni"},{
+Key:1006021,Text:"Inicializálja a dosszié-hoz egy szokásos értéket"},{
+Key:1006023,Text:"Összefoglaló importálás előtt"},{
+Key:1006024,Text:"Kattintson a Tovább gombra az importálás megkezdéséhez"},{
+Key:1006025,Text:"Jelenlegi behozatali"},{
+Key:1006026,Text:"Importálás befejeződött"},{
+Key:1006027,Text:"A varázsló bezárásához kattintson a Befejezés gombra
+
+Kattintson a vissza gombra importálása egy másik gyűjtemény, vagy egy másik Biblia"},{
+Key:1006029,Text:"Vannak olyan zeneszámai sikeresen importálta a(z) {0} {1} gyűjtemények."},{
+Key:1006030,Text:"Önnek van sikeresen importálta a(z) {0} dalok az új gyűjtemény \"{1}\"."},{
+Key:1006031,Text:"Importálását a \"{0}\" Biblia sikerrel."},{
+Key:1006032,Text:"Importálása a(z) {0} Bibliák sikerrel."},{
+Key:1006033,Text:"A {0} nyelv sikerrel hoztak."},{
+Key:1006034,Text:"A(z) {0} nyelv van importálása sikeresen megtörtént."},{
+Key:1006035,Text:"Kívánja állítani az importálást?"},{
+Key:1006036,Text:"Importálás nem fejeződött be megfelelően."},{
+Key:1006037,Text:"Adjon meg egy nevet az új gyűjtemény a VideoPsalm"},{
+Key:1006038,Text:"Az új gyűjtemény ezen a néven lesz mentve. Ez a név később módosíthatók"},{
+Key:1006039,Text:"&Nevet adni a gyűjtemény:"},{
+Key:1006040,Text:"Nevet adni az új VideoPsalm Biblia"},{
+Key:1006041,Text:"Az új Biblia ezen a néven lesz mentve. Ez a név később módosíthatók"},{
+Key:1006042,Text:"&Nevet adni, hogy a Biblia:"},{
+Key:1006051,Text:"Válassza a gyűjtemények"},{
+Key:1006052,Text:"Válassza ki a Bibliák"},{
+Key:1006053,Text:"Jelöljön ki egy fájlt"},{
+Key:1006054,Text:"Jelöljön ki egy mappát"},{
+Key:1006055,Text:"&Fájl:"},{
+Key:1006056,Text:"&Fájl:"},{
+Key:1006057,Text:"Nyelv kiválasztása"},{
+Key:1006058,Text:"A mappa a(z) \"{0}\" nem létezik."},{
+Key:1006060,Text:"Nem fér hozzá a mappa a(z) \"{0}\".
+
+a(z) {1}"},{
+Key:1006061,Text:"A fájl \"{0}\" nem létezik."},{
+Key:1006062,Text:"Figyelem: Sok gyűjtemények is töltse ki a PC-memória és lassú dalok keresése.
+Csinál igazán letölt akkor {0} gyűjtemények?"},{
+Key:1006063,Text:"Figyelem: A be sok Bibliák kitöltheti a számítógép memóriájában.
+Csinál igazán letölt akkor {0} Bibliák?"},{
+Key:1006064,Text:"Az új név nem lehet üres."},{
+Key:1006065,Text:"Az új név nem tartalmazhatja a következő karakterek nélkül: {0}"},{
+Key:1006066,Text:"Már van egy gyűjtemény a neve \"{0}\"."},{
+Key:1006067,Text:"Már van a Bibliát, a neve \"{0}\"."},{
+Key:1006068,Text:"Megállt az importálás."},{
+Key:1006069,Text:"Ellenőrizze az internet-kapcsolat."},{
+Key:1006070,Text:"Elérhető a {0}"},{
+Key:1006071,Text:"Új verzió óta a {0}"},{
+Key:1006072,Text:"A verziódátumok a {0}"},{
+Key:1006073,Text:"A {0} nem naprakész."},{
+Key:1006074,Text:"Cím"},{
+Key:1006075,Text:"Állami"},{
+Key:1006076,Text:"Nem letöltött"},{
+Key:1006077,Text:"Frissítés"},{
+Key:1006078,Text:"Frissítés érhető el"},{
+Key:1006079,Text:"Új"},{
+Key:1006080,Text:"Új frissítés érhető el"},{
+Key:1006081,Text:"Összegyűjtése nincs kijelölve.
+Ki kell jelölnie legalább egy gyűjteménybe."},{
+Key:1006082,Text:"Semmilyen Bibliát van jelölve.
+Ki kell jelölnie legalább egy Biblia."},{
+Key:1006083,Text:"Nincs nyelv van kiválasztva.
+Ki kell jelölnie legalább egy nyelvet."},{
+Key:1006084,Text:"Kód"},{
+Key:1006085,Text:"Forrás közben: <b>{0}</b>"},{
+Key:1006086,Text:"Forrás dosszié:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokumentum kereső"},{
+Key:1006090,Text:"Nevet adni az új Biblia VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Az új gyűjtemény a VideoPsalm neve: <b>{0}</b>"},{
+Key:1006095,Text:"A könyvtár VideoPsalm online, előfordul, hogy egyes dokumentumok hozzáadása vagy frissítése (pl. megfelelő elírás).
+A fenti dokumentumok állapotától függően úgy dönt-e vagy sem letölteni őket.
+
+<b>Itt van, hogyan lehet megkülönböztetni az állam dokumentumok:</b>
+-Normál a okiratok van nem letöltött jelennek meg.
+-A dokumentumok, feltöltött, és frissülnek <i>dőlt betűvel</i>jelennek meg. A <image=check_16>OK van ellátva.
+Nem kell újra - letöltés, kivéve abban az esetben, ha meg kívánja szakítani módosításokat hajtott végre.
+-A okiratok feltöltött, és mi időközben végrehajtott korrekciók VideoPsalm online tárban, <b>félkövér</b>betűkkel jelennek meg. Egy ceruza <image=pencil2_16>van ellátva.
+
+A beviteli mező a jobb oldali írja le, milyen javítások történtek a dokumentum: Ez segíthet eldönteni, hogy ha Ön akar-hoz ré hang - letöltés.
+
+<b>Figyelem:</b> Ha frissíti a dokumentumot újra feltölteni, akkor el fogja veszíteni módosításokat, amit tettek, is mint a stílus attribútumok, mert VideoPsalm meg, hogy felülírja a letöltések.
+A saját fájlok nem törlődnek, azonban: továbbra is a lemezen, de láthatatlan VideoPsalm válik, mert VideoPsalm átnevezi a terjeszkedés .ignore.
+
+<b>Tanács</b> : csak töltse le a dokumentumokat, hogy hasznos lesz.
+Valójában ha önnek van túl sok dokumentumot, berakodás-ból VideoPsalm lesz talán lassabb, mint a kulcsszó keresés.
+
+Vegye figyelembe, hogy bármikor eltávolíthatja egy könyvet, vagy a Biblia a VideoPsalm. Ehhez használja a gombot \" <image=delete2_16>delete\" \"Édition\" fülön.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&A(z) {0} módosításait története."},{
+Key:1006100,Text:"VideoPsalm online könyvtár"},{
+Key:1006105,Text:"EasySlides dalok"},{
+Key:1006110,Text:"MediaShout dalok"},{
+Key:1006115,Text:"OpenLP dalok"},{
+Key:1006116,Text:"VerseView dalok"},{
+Key:1006120,Text:"A dalt \"OpenLyrics\" formátumban."},{
+Key:1006125,Text:"OpenSong dalok"},{
+Key:1006130,Text:"Psalmo gyűjteménye"},{
+Key:1006131,Text:"A gyűjtemény szöveges formátumban"},{
+Key:1006132,Text:"Dalok EasyWorship 2009."},{
+Key:1006133,Text:"Dalok, \"ChordPro\" formátumban."},{
+Key:1006134,Text:"WebAsaph dalok"},{
+Key:1006135,Text:"Dalok formátumban «CCLI."},{
+Key:1006140,Text:"A könyvtár VideoPsalm online Bibliák"},{
+Key:1006145,Text:"A Biblia Biblia adatbázis"},{
+Key:1006150,Text:"A Biblia OpenLP"},{
+Key:1006155,Text:"A Biblia OpenSong"},{
+Key:1006160,Text:"A Biblia kötetlen Biblia"},{
+Key:1006165,Text:"A Zefania Biblia"},{
+Key:1006166,Text:"A Biblia EasySlides"},{
+Key:1006167,Text:"A Biblia \"Osis\" formátumban."},{
+Key:1006168,Text:"A formátum-«USFM» könyvek a Biblia (Wiclif / SIL / Paratex)"},{
+Key:1006180,Text:"Válassza ki a VideoPsalm online szeretné importálni a VideoPsalm könyvtár gyűjteménye"},{
+Key:1006185,Text:"Válasszon egy adatbázis, amely tartalmazza a dalokat szeretne importálni a VideoPsalm (fájlkiterjesztés .mdb) EasySlides"},{
+Key:1006190,Text:"Válasszon egy adatbázis, amely tartalmazza a dalokat szeretne importálni a VideoPsalm (fájlkiterjesztés .mdb) MediaShout"},{
+Key:1006195,Text:"Válassza ki az adatbázis OpenLP, amely tartalmazza a dalokat szeretne importálni a VideoPsalm (a bővítményfájl .sqlite. cikke)"},{
+Key:1006196,Text:"Válasszon ki egy adatbázist, amely tartalmazza a dalokat szeretne importálni a VideoPsalm (kiterjesztés .db kiterjesztésű fájl) VerseView"},{
+Key:1006200,Text:"Jelöljön ki egy mappát, dalok \"OpenLyrics\" formátumban szeretné importálni a VideoPsalm (kiterjesztése .xml fájlokat) tartalmazó"},{
+Key:1006205,Text:"Jelöljön ki egy mappát tartalmazó OpenSong dalokat szeretnénk importálni a VideoPsalm (fájl kiterjesztés nélkül)"},{
+Key:1006210,Text:"Jelölje ki az exportált Psalmo gyűjteményében RTF formátumban kívánja importálni a VideoPsalm (kiterjesztés .rtf fájl)"},{
+Key:1006211,Text:"Jelölje be a szöveg formátumban szeretné importálni a VideoPsalm (kiterjesztése .txt fájl)"},{
+Key:1006212,Text:"Válasszon egy adatbázis, amely tartalmazza a dalokat szeretne importálni a VideoPsalm (kiterjesztés .db kiterjesztésű fájl) EasyWorship 2009"},{
+Key:1006213,Text:"Jelöljön ki egy mappát, amely tartalmazza a dalok ChordPro formátumban szeretné importálni a VideoPsalm (.chordpro, .chopro, .crd vagy .cho kiterjesztésű fájlok)"},{
+Key:1006214,Text:"Válasszon egy adatbázis, amely tartalmazza a dalokat szeretne importálni a VideoPsalm (reszelő kiterjesztés .ltc) WebAsaph"},{
+Key:1006215,Text:"Jelöljön ki egy mappát, amely tartalmazza a dalokat CCLI formátumban a VideoPsalm (kiterjesztés .usr fájlok) importálása"},{
+Key:1006220,Text:"Válassza ki a Bibliát a VideoPsalm online tárban szeretné importálni a VideoPsalm"},{
+Key:1006225,Text:"Válassza ki a Biblia Biblia adatbázist szeretné importálni a VideoPsalm (kiterjesztése .txt fájl)"},{
+Key:1006230,Text:"Válassza ki a Biblia OpenLP, ön akar-hoz behoz-ba a VideoPsalm (a bővítményfájl .sqlite. cikke)"},{
+Key:1006235,Text:"Válassza ki a Biblia OpenSong szeretné importálni a VideoPsalm (reszelő kiterjesztés nélkül)"},{
+Key:1006240,Text:"Válasszon egy kötetlen Biblia Biblia, szeretné importálni a VideoPsalm (kiterjesztése .txt fájl)"},{
+Key:1006245,Text:"Válassza ki a Zefania Biblia szeretné importálni a VideoPsalm (kiterjesztése .xml fájl)"},{
+Key:1006247,Text:"Válassza ki a Biblia a EasySlides szeretné importálni a VideoPsalm (fájlkiterjesztés .mdb)"},{
+Key:1006248,Text:"Válassza ki a Biblia a \"Osis\" formában, hogy a VideoPsalm (kiterjesztése .xml, a .osi vagy a .osis fájl) importálása"},{
+Key:1006249,Text:"Válassza ki a könyveket a Bibliában \"USFM\" formában, hogy a VideoPsalm (kiterjesztése .sfm vagy .usfm fájlok) importálása"},{
+Key:1006252,Text:"Válassza ki a nyelvet a VideoPsalm online tárban szeretné importálni a VideoPsalm"},{
+Key:1006255,Text:"Importálása <b>a(z) {0} a VideoPsalm online tárban (s) gyűjteménye</b> :
+a(z) {1}"},{
+Key:1006260,Text:"Behozatali <b>EasySlides dalok</b>"},{
+Key:1006265,Text:"Behozatali <b>MediaShout dalok</b>"},{
+Key:1006270,Text:"Importálja <b>a OpenLP dalok</b>"},{
+Key:1006271,Text:"Behozatali <b>VerseView dalok</b>"},{
+Key:1006275,Text:"Behoz <b>énekesmadár formátumban «OpenLyrics»</b>"},{
+Key:1006280,Text:"<b>OpenSong dal</b> importálása"},{
+Key:1006285,Text:"Behozatali <b>Psalmo gyűjteménye</b>"},{
+Key:1006286,Text:"Importálhat <b>szöveget gyűjteménye</b>"},{
+Key:1006287,Text:"<b>Importálja a dalok EasyWorship 2009.</b>"},{
+Key:1006288,Text:"<b>A dalok ChordPro formátumban</b> importálni"},{
+Key:1006289,Text:"Behozatali <b>WebAsaph dalok</b>"},{
+Key:1006290,Text:"Import <b>format CCLI dalok</b>"},{
+Key:1006295,Text:"Importálása <b>a(z) {0} Biblia (s) a VideoPsalm online tárban</b> :
+a(z) {1}"},{
+Key:1006300,Text:"<b>A Biblia, a Biblia adatbázis</b> importálása"},{
+Key:1006305,Text:"<b>A Biblia OpenLP</b> importálása"},{
+Key:1006310,Text:"<b>A Biblia OpenSong</b> importálása"},{
+Key:1006315,Text:"Importálni <b>egy kötetlen Biblia Biblia</b>"},{
+Key:1006320,Text:"Importálja <b>A Zefania Biblia</b>"},{
+Key:1006321,Text:"Importálni <b>Egy EasySlides Biblia</b>"},{
+Key:1006322,Text:"<b>A Biblia \"Osis\" formátumúnak</b> importálása"},{
+Key:1006323,Text:"Importálja <b>a Biblia formátumban «USFM»</b>"},{
+Key:1006325,Text:"Importálása <b>a(z) {0} nyelv (ek) VideoPsalm online tárban</b> :
+a(z) {1}"},{
+Key:1006340,Text:"Válassza ki az adatbázis EasySlide"},{
+Key:1006345,Text:"Válassza ki a MediaShout adatbázis"},{
+Key:1006350,Text:"Válassza ki az adatbázis OpenLP"},{
+Key:1006351,Text:"Válasszon egy adatbázis-ból VerseView"},{
+Key:1006355,Text:"Válassza ki a mappát, amely tartalmazza a dalt \"OpenLyrics\" formátumban."},{
+Key:1006360,Text:"Jelöljön ki egy mappát, amely tartalmazza a dalokat OpenSong"},{
+Key:1006365,Text:"Válasszon egy RTF-fájlba exportált Psalmo dalokat tartalmazó"},{
+Key:1006366,Text:"Jelöljön ki egy fájlt tartalmazó dalok szöveg formátumban"},{
+Key:1006367,Text:"Válasszon egy adatbázis-EasyWorship 2009."},{
+Key:1006368,Text:"Válassza ki a mappát, amely tartalmazza a dalt \"ChordPro\" formátumban."},{
+Key:1006369,Text:"Válassza ki a WebAsaph adatbázis"},{
+Key:1006370,Text:"Jelöljön ki egy mappát, amely tartalmazza a dalok formátumban «CCLI."},{
+Key:1006375,Text:"Válassza ki a Biblia a BibleDatabase"},{
+Key:1006380,Text:"Válassza ki a Biblia a OpenLP"},{
+Key:1006385,Text:"Válassza ki a Biblia OpenSong"},{
+Key:1006390,Text:"Válassza ki a Biblia a kötetlen Biblia"},{
+Key:1006395,Text:"Válassza ki a Zefania Biblia"},{
+Key:1006397,Text:"Válassza ki a Biblia a EasySlides"},{
+Key:1006398,Text:"Jelölje be a Biblia \"Osis\" formátumban."},{
+Key:1006399,Text:"Válassza ki a Biblia könyveit a formátum \"USFM."},{
+Key:1006405,Text:"EasySlide adatbázis"},{
+Key:1006410,Text:"MediaShout 4 adatbázis"},{
+Key:1006411,Text:"MediaShout 3 adatbázis"},{
+Key:1006415,Text:"OpenLP adatbázis"},{
+Key:1006416,Text:"Adatbázis-EasyWorship 2009."},{
+Key:1006417,Text:"VerseView adatbázis"},{
+Key:1006420,Text:"A mappa a(z) \"{0}\".
+nem énekel, a \"OpenLyrics\" (kiterjesztés xml) formátum tartalmaz."},{
+Key:1006425,Text:"A mappa a(z) \"{0}\".
+nincs OpenSong dal (OpenSong dalok a kiterjesztés nélküli fájlok) tartalmazza."},{
+Key:1006430,Text:"Psalmo-ból exportált dalok"},{
+Key:1006431,Text:"Dal-szöveg formátumban"},{
+Key:1006432,Text:"A mappa a(z) \"{0}\".
+nem énekel, a \"ChordPro\" (a kiterjesztés chopro/chordpro, a crd és a cho) formátumban tartalmazza."},{
+Key:1006433,Text:"WebAsaph adatbázis"},{
+Key:1006434,Text:"A mappa a(z) \"{0}\".
+nincs dal «CCLI» (.usr kiterjesztés) formátumban tartalmazza."},{
+Key:1006440,Text:"BibleDatabase Bibliák"},{
+Key:1006445,Text:"OpenLP Bibliák"},{
+Key:1006450,Text:"OpenSong Bibliák"},{
+Key:1006455,Text:"Bibliák kötetlen Biblia"},{
+Key:1006460,Text:"Zefania Bibliák"},{
+Key:1006462,Text:"EasySlides Bibliák"},{
+Key:1006463,Text:"Bibliák \"Osis\" formátumban."},{
+Key:1006464,Text:"Könyvek a Biblia a formátum \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Szeretem az Úr 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Az én-m chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Szeretem az Urat"},{
+Key:1006510,Text:"MSAccess adatbázisok"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Minden fájl"},{
+Key:1006520,Text:"Sqlite adatbázisok"},{
+Key:1006525,Text:"Paradox adatbázis"},{
+Key:1006526,Text:"Adatbázis WebAsaph"},{
+Key:1006600,Text:"Válassza ki a VideoPsalm online könyvtár vagy egy másik forrás"},{
+Key:1006601,Text:"VideoPsalm online könyvtár tartalmaz számos gyűjtemények több nyelven"},{
+Key:1006602,Text:"VideoPsalm online (az internet-kapcsolat szükséges importáláskor) könyvtár"},{
+Key:1006603,Text:"Dalok a népszerű, a merevlemez formátum importálása"},{
+Key:1006604,Text:"Válassza ki a VideoPsalm online könyvtár vagy egy másik forrás"},{
+Key:1006605,Text:"VideoPsalm online könyvtár tartalmaz sok fordításait a Biblia különböző nyelveken"},{
+Key:1006606,Text:"VideoPsalm online (az internet-kapcsolat szükséges importáláskor) könyvtár"},{
+Key:1006607,Text:"A Biblia egy népszerű importálható a merevlemez formázása"},{
+Key:1006608,Text:"Mi a forrás, a dalok formátum?"},{
+Key:1006609,Text:"Mi az a Biblia forrás formátum?"},{
+Key:1006610,Text:"Importálhatja a VideoPsalm a Biblia egy népszerű formátumot a számítógépen tárolt"},{
+Key:1006611,Text:"Importálhatja a VideoPsalm, a népszerű formátum a dalok raktározott-ban-a PC"},{
+Key:1007000,Text:"Biztonsági másolat"},{
+Key:1007001,Text:"Szeretné elindítani a biztonsági VideoPsalm a mappában
+« {0} » ?"},{
+Key:1007004,Text:"Nem hajtható végre a biztonsági másolat a kijelölt mappában,
+mert a VideoPsalm dokumentumok aktuális mappájában található
+({0})."},{
+Key:1007005,Text:"Nincs elég hely a meghajtón {0}.
+Kell {1: #, #. #} MB, és csak {2: #, #. #} MB elérhető."},{
+Key:1007006,Text:"Nem tudta befejezni a biztonsági másolat:
+
+{0}"},{
+Key:1007007,Text:"Képtelen-hoz letölt a Microsoft .NET-keretrendszer 4.0:
+
+{0}
+
+Lehet, hogy internetkapcsolat nélkül.
+A biztonsági másolat továbbra is rendesen,
+de nem lesz képes telepíteni a Microsoft .NET-keretrendszer 4.0 biztonsági másolatból."},{
+Key:1007008,Text:"nem érhető el {0}"},{
+Key:1007009,Text:"Emlékeztető: Hát nem sikerült másolni
+a telepítő a Microsoft .NET-keretrendszer 4.0."},{
+Key:1007010,Text:"A biztonsági másolat megfelelően elkészült."},{
+Key:1007011,Text:"Szeretné, hogy hagyjon fel a biztonsági másolat?"},{
+Key:1007030,Text:"Jelöljön ki egy mappát, vagy minden--ban-egy hely VideoPsalm biztonsági másolatának létrehozása"},{
+Key:1007031,Text:"A biztonsági másolatot a dokumentumok (könyvek, Bibliák, képek, videók, stílusok) helyre adja meg, például:
+-a USB
+-egy külső merevlemez-meghajtón,
+-hálózati mappába,
+-stb.
+
+<b>Biztonsági másolat lehetővé teszi többek között:</b>
+-biztonságos a dokumentumok másolásával, más adathordozón,
+-építeni egy hordozható változat-ból VideoPsalm, például egy USB-stick
+-könnyen át a dokumentumok egy másik számítógép használ a visszaad függvény
+-ismétlődő a dokumentumok több konfiguráció-gyűjtemény, a stílus, ugyanazon a számítógépen.
+
+<b>Megjegyzés:</b> A rekordok VideoPsalm több számítógép között szinkronizálni választhat több közvetlenül egy SkyDrive vagy a DropBox szolgáltatás synchronization."},{
+Key:1007032,Text:"Jelölje ki a menteni kívánt dokumentumokat:"},{
+Key:1007033,Text:"&Gyűjtemények"},{
+Key:1007034,Text:"&A Bibliák"},{
+Key:1007035,Text:"&Képek"},{
+Key:1007036,Text:"&Videók"},{
+Key:1007037,Text:"&Mentse a dokumentumokat:"},{
+Key:1007038,Text:"Adja meg a mappát, amelyben mentheti a dokumentumok VideoPsalm itt.
+
+Például: «E:\\Ma biztonsági másolat VideoPsalm.
+
+Ha a mappa nem létezik, amely automatikus jön létre amikor a biztonsági mentést."},{
+Key:1007039,Text:"&Hordozható VideoPsalm-alkalmazás létrehozása"},{
+Key:1007040,Text:"VideoPsalm működéséhez szükséges összes végrehajtható fájlok felvétele a biztonságimásolat-mappába.
+
+Általában van egy USB-kulcs, amit ön akar-hoz teremt egy hordozható VideoPsalm alkalmazás.
+
+Egy hordozható hát-hoz fuss VideoPsalm minden más számítógép, közvetlenül-ból-a USB kulcs, nélkül a szükség-hoz felszerel VideoPsalm.
+
+VideoPsalm kezdve az USB-kulcs, akkor belépés-hoz minden függvény VideoPsalm, beleértve a biztonsági másolat. Ez lehetővé teszi, hogy mentse VideoPsalm a merevlemez meghajtót a számítógép, így később fuss ez nélkül a USB kulcs.
+
+<b>Fontos</b>
+VideoPsalm lehetőségek nem adódnak hozzá a biztonsági másolat.
+On az első előadás VideoPsalm adott számítógépen szükség lehet adja meg a VideoPsalm beállításokat, például az engedélyt az egyház."},{
+Key:1007041,Text:"&Adja hozzá a Microsoft .NET Framework 4.0 telepítőprogramja"},{
+Key:1007042,Text:"VideoPsalm működik, szüksége van a Microsoft .NET-keretrendszer 4.0. Az újabb számítógépek gyakran már a .NET-keretrendszer 4.0 vagy magasabb előtelepített. Ha nem biztos benne, hogy a .NET-keretrendszer 4.0 telepítve van a számítógépen, ellenőriz a doboz \"Hozzáadás a telepítő a .NET-keretrendszer 4.0. VideoPsalm ezután helyezzük a USB kibír egy példányát a .NET Framework 4.0 (internet kapcsolat május lenni szükséges-e).
+
+Az USB-kulcs egyszerűen telepítheti a .NET-keretrendszer 4.0-s a másik számítógépen mielőtt elkezdené VideoPsalm. Bevezetés-ból .NET Framework 4.0 nagyon gyors, és nem újból kifejt Windows szabályosan.
+
+A bevezetés-ból .NET Framework 4.0 fájl is található a biztonságimásolat-mappába. A fájl neve \"dotNetFx40_Full_x86_x64.exe. Elkezd a bevezetés-ból .NET Framework 4.0 egy másik számítógépen, kattintson duplán a fájlra."},{
+Key:1007043,Text:"&Start backup"},{
+Key:1007044,Text:"A Microsoft .NET-keretrendszer 4.0-Letöltés"},{
+Key:1007045,Text:"&Mappába (mappa, hogy menti) VideoPsalm dokumentumok:"},{
+Key:1007046,Text:"Hagyja, hogy a gyűjtemények a megadott mappa előtt megmenteni az enyémet"},{
+Key:1007047,Text:"Távolítsa el a gyűjtemények a megadott mappa előtt, kivéve az enyém"},{
+Key:1007048,Text:"A megadott mappa előtt van a Bibliát megmenteni az enyémet szabadság"},{
+Key:1007049,Text:"Eltávolítása előtt megadott mappa Bibliák az enyém mentése"},{
+Key:1007050,Text:"Hagyjuk a képek előtt megadott mappában van, kivéve az enyém"},{
+Key:1007051,Text:"Törlés képek előtt megadott mappából az enyém mentése"},{
+Key:1007052,Text:"Hagyja, hogy a videók előtt megadott mappában van, kivéve az enyém"},{
+Key:1007053,Text:"Videók törlése a megadott mappa előtt, kivéve az enyém"},{
+Key:1007054,Text:"Jelöljön ki egy mappát, vagy hozzon létre egyet, hogy egy hát-ból VideoPsalm"},{
+Key:1007055,Text:"Lehetővé teszi a hang a megadott mappába menteni az enyém előtt van"},{
+Key:1007056,Text:"Előtt megadott mappából eltávolít audio van, kivéve az enyém"},{
+Key:1007057,Text:"&Audio"},{
+Key:1008000,Text:"Biztonsági másolat visszaállítása"},{
+Key:1008001,Text:"Szeretné visszaállítani egy biztonsági másolatot, a VideoPsalm, a mappából
+« {0} » ?
+
+Figyelem: Kiválasztott beállításoktól függően a jelenlegi dokumentumok lesz helyettesít vagy töröl."},{
+Key:1008002,Text:"Kérjük, adja meg a mappa visszaállítása biztonsági másolatból."},{
+Key:1008004,Text:"Képtelen-hoz visszaad egy biztonsági másolat mappájából kiválasztott,
+mert ez a VideoPsalm dokumentumok aktuális mappában található."},{
+Key:1008006,Text:"Nem tudja befejezni a visszaállítási:
+
+{0}"},{
+Key:1008010,Text:"A helyreállítás véget ért."},{
+Key:1008011,Text:"Szeretné elhagyni a helyreállítás?"},{
+Key:1008012,Text:"Biztonsági másolat visszaállítása"},{
+Key:1008032,Text:"Válassza ki a visszaállítani kívánt dokumentumok:"},{
+Key:1008033,Text:"&Gyűjtemények"},{
+Key:1008034,Text:"&A Bibliák"},{
+Key:1008035,Text:"&Képek"},{
+Key:1008036,Text:"&Videók"},{
+Key:1008043,Text:"&Visszaállítás"},{
+Key:1008044,Text:"Enged én gyűjtemények előtt visszaállítása biztonsági másolatból"},{
+Key:1008045,Text:"Én gyűjtemények törlése előtt visszaállítása biztonsági másolatból"},{
+Key:1008046,Text:"Enged én Bibliák előtt visszaállítása biztonsági másolatból"},{
+Key:1008047,Text:"Töröl az én-m Bibliák előtt visszaállítása biztonsági másolatból"},{
+Key:1008048,Text:"Hagyja, hogy a képek előtt visszaállítása biztonsági másolatból"},{
+Key:1008049,Text:"Töröl az én-m kép előtt visszaállítása biztonsági másolatból"},{
+Key:1008050,Text:"Hagyja, hogy a videóim előtt visszaállítása biztonsági másolatból"},{
+Key:1008051,Text:"Töröl az én-m video előtt visszaállítása biztonsági másolatból"},{
+Key:1008052,Text:"&A biztonsági másolat visszaállítása:"},{
+Key:1008053,Text:"Itt adja meg a mappát, ahonnan a rekordok VideoPsalm lesz visszaad.
+
+Példa: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Mappa (a mappa, ahol lehet visszaállítani a biztonsági másolat) VideoPsalm dokumentumok:"},{
+Key:1008055,Text:"Frissítése"},{
+Key:1008056,Text:"Jelöljön ki egy mappát, amely tartalmazza a biztonsági VideoPsalm"},{
+Key:1008057,Text:"&Audio"},{
+Key:1008058,Text:"Hagyja, hogy a hangok előtt visszaállítása biztonsági másolatból"},{
+Key:1008059,Text:"Törlés az én-m audio előtt visszaállítása biztonsági másolatból"},{
+Key:1008999,Text:"Video projektor"},{
+Key:1009000,Text:"a dal"},{
+Key:1009001,Text:"{0} dalok"},{
+Key:1009002,Text:"versek listája"},{
+Key:1009003,Text:"{0} versek listája"},{
+Key:1009004,Text:"egy kép"},{
+Key:1009005,Text:"{0} képek"},{
+Key:1009006,Text:"Biblia \"{0}\"."},{
+Key:1009007,Text:"Fejezet {0}"},{
+Key:1009009,Text:"Bibliák {0}"},{
+Key:1009010,Text:"Kép {0}."},{
+Key:1009011,Text:"a(z) {0} ({1} képek)"},{
+Key:1009012,Text:"{0} képek"},{
+Key:1009013,Text:"a(z) {0} ({1} diák)"},{
+Key:1009014,Text:"A(z) {0} PowerPoints"},{
+Key:1009015,Text:"Betöltése az alapértelmezett stílus"},{
+Key:1009016,Text:"A stílus gyűjtemény betöltése"},{
+Key:1009017,Text:"A gyűjtemény \"{0}\" betöltése."},{
+Key:1009018,Text:"A stílus a Bibliát betöltése"},{
+Key:1009019,Text:"A Biblia \"{0}\" betöltése."},{
+Key:1009020,Text:"Fájl: {0}"},{
+Key:1009100,Text:"a(z) {0} ({1} dalok)"},{
+Key:1009101,Text:"a(z) {0} (dal)"},{
+Key:1009102,Text:"a(z) {0} (nem ének)"},{
+Key:1009103,Text:"Már van egy fájl \"{0}\".
+amelyben VideoPsalm menteni az új gyűjtemény \"{1}\".
+
+Nem lehet menteni az új kollekció.
+Ad egy rövidítés, vagy egy egyedi nevet az új kollekció, és próbálkozzon újra a mentéssel."},{
+Key:1009104,Text:"-Regisztráció nem sikerült"},{
+Key:1009105,Text:"Képtelen-hoz mozog a reszelő
+{0}
+férgek
+a(z) {1}.
+
+{2}"},{
+Key:1009107,Text:"Gyűjtemények {0}"},{
+Key:1009110,Text:"a(z) {0} {1}: {{2} ({3} versek)"},{
+Key:1009111,Text:"Videó: {0}."},{
+Key:1009112,Text:"a(z) {0} ({1} videók)"},{
+Key:1009113,Text:"videók-{0}"},{
+Key:1009114,Text:"Nem lehet menteni a gyűjtemény.
+Neve a gyűjtemény kell mentenünk."},{
+Key:1010000,Text:"Lásd a további színek"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Zár"},{
+Key:1010003,Text:"&Átlátszó"},{
+Key:1010004,Text:"Mégse"},{
+Key:1010005,Text:"oké"},{
+Key:1010006,Text:"Kevesebb szín megjelenítését teszi lehetővé"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Zárja le, anélkül, hogy a mező beszúrása"},{
+Key:1011001,Text:"Rövidítés a gyűjtemény"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Dal szerzője"},{
+Key:1011004,Text:"Szerző a gyűjtemény"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Kulcs"},{
+Key:1011007,Text:"Zeneszerző"},{
+Key:1011008,Text:"A dal szerzői jog"},{
+Key:1011009,Text:"A könyv szerzői"},{
+Key:1011010,Text:"A vers címke"},{
+Key:1011011,Text:"Címke és a vers"},{
+Key:1011012,Text:"Formátum"},{
+Key:1011013,Text:"Engedély az egyház"},{
+Key:1011014,Text:"Sor kulcs"},{
+Key:1011015,Text:"Jegyzet 1"},{
+Key:1011016,Text:"Jegyzet 2"},{
+Key:1011017,Text:"Feljegyzés 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"A vers helyzetének"},{
+Key:1011020,Text:"A vers nem."},{
+Key:1011021,Text:"Chant No."},{
+Key:1011022,Text:"Megjegyzés: a vers"},{
+Key:1011023,Text:"A gyűjtemény-dalok száma"},{
+Key:1011024,Text:"Számú versszak"},{
+Key:1011025,Text:"Referencia"},{
+Key:1011026,Text:"Versszak sorozata"},{
+Key:1011027,Text:"Aláírás"},{
+Key:1011028,Text:"Tempó"},{
+Key:1011029,Text:"Téma"},{
+Key:1011030,Text:"A dal címe"},{
+Key:1011031,Text:"A könyv címe"},{
+Key:1011032,Text:"Hang"},{
+Key:1011033,Text:"3. Távolítsa el a mezőket"},{
+Key:1011034,Text:"(2) Használja normál mezők"},{
+Key:1011035,Text:"Ügyintéző"},{
+Key:1011036,Text:"Nyelv"},{
+Key:1011037,Text:"Szerkesztő"},{
+Key:1011038,Text:"Átültetés"},{
+Key:1011101,Text:"Rövidítés a Biblia"},{
+Key:1011102,Text:"Rövidítés a könyv"},{
+Key:1011103,Text:"Fejezet"},{
+Key:1011104,Text:"A Biblia szerzői jog"},{
+Key:1011105,Text:"A Biblia leírása"},{
+Key:1011107,Text:"Szerkesztő"},{
+Key:1011108,Text:"Nyelv"},{
+Key:1011109,Text:"Nevét a Biblia"},{
+Key:1011110,Text:"A könyv neve"},{
+Key:1011111,Text:"A könyv fejezetek száma"},{
+Key:1011112,Text:"Versek a fejezet száma"},{
+Key:1011113,Text:"Végrendelet"},{
+Key:1011114,Text:"A vers"},{
+Key:1011115,Text:"A Biblia ügyintéző"},{
+Key:1011200,Text:"&Mező beszúrása:"},{
+Key:1011201,Text:"Az élőfej vagy az élőláb strófa vagy a versben megjelenített szöveg formázása"},{
+Key:1011202,Text:"Adja meg a megjelenítendő szöveg.
+Ez a szöveg szabad, és általában tartalmaz egy sor előre definiált mezőket.
+
+Példák az előre definiált mezőket a dal:
+-a dal címe: <b>[dal cím]</b>
+-a dal száma: <b>[a dal száma]</b>
+-a könyv címe: <b>[a gyűjtemény címe]</b>
+-a gyűjtemény rövidítése: <b>[a gyűjtemény rövidítés]</b>
+-stb.
+
+Egy vers:
+-a könyv neve: <b>[könyv neve]</b>
+-I. fejezet: <b>[. fejezet]</b>
+-a vers: <b>[vers]</b>
+teljes-hivatkozás:
+  <b>[Könyv neve] [fejezete]: [vers]</b>
+-a Biblia neve: <b>[a Biblia neve]</b>
+-stb.
+
+A videó vetítés alkalmával VideoPsalm előre definiált értékük mezőibe kerülnek. 
+
+Az előre definiált mezőket kell körülvett szögletes zárójelben <b>[]</b>. Késedelem nélkül kell megadni, és figyeljük meg a kis- és nagybetűk.
+
+<b>Egy előre definiált mező könnyen beszúrásához használja a gördülő lista alatt jogosult \"mező beszúrása'.</b>
+
+Többsoros formátum állhat.
+
+Visszaállítani az eredeti érték formátum, de teljes egészében törölhető (Ctrl + A, törlés)."},{
+Key:1011203,Text:"Előre definiált mezők listája"},{
+Key:1011204,Text:"Egy előre definiált mező beillesztéséhez jelölje ki a listában.
+
+A mező automatikusan beszúrja a szöveget a fenti mezőbe a beszúrási pontnál."},{
+Key:1012000,Text:"Már létezik a fájl \"{0}\".
+
+Akarom, hogy helyébe?"},{
+Key:1012001,Text:"Létező fájl"},{
+Key:1013000,Text:"Eldug sajtóbemutató"},{
+Key:1013001,Text:"Az előnézet megjelenítése"},{
+Key:1013002,Text:"Nagyítani arányosan kitölti a képernyőt"},{
+Key:1013003,Text:"Csökkenti a teljes kijelző"},{
+Key:1013004,Text:"Tiltsa le az ismétlés"},{
+Key:1013005,Text:"Aktiválja az ismétlés"},{
+Key:1013006,Text:"Kezdetét"},{
+Key:1013007,Text:"Felfüggesztése"},{
+Key:1013008,Text:"Olvassa el"},{
+Key:1013009,Text:"Ugrás a végére"},{
+Key:1013010,Text:"Hang"},{
+Key:1013011,Text:"Némítás"},{
+Key:1013012,Text:"Kötet"},{
+Key:1013013,Text:"Kutatási"},{
+Key:1013014,Text:"Globálisan határozza meg a határértékeket, a videó"},{
+Key:1013015,Text:"A határait a videó minden strófa"},{
+Key:1013016,Text:"Eltelt idő"},{
+Key:1013017,Text:"Teljes idő"},{
+Key:1013018,Text:"Hátralévő idő"},{
+Key:1013019,Text:"Ide kattintva áthelyezheti a következő értékre"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"perc"},{
+Key:1018003,Text:"perc"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"idő"},{
+Key:1018006,Text:"óra"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"nap"},{
+Key:1018009,Text:"nap"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"a héten"},{
+Key:1018012,Text:"hét"},{
+Key:1018013,Text:"hónap"},{
+Key:1018014,Text:"hónap"},{
+Key:1018015,Text:"év"},{
+Key:1018016,Text:"év"},{
+Key:1019000,Text:"Zár"},{
+Key:1019001,Text:"Csökkenti a"},{
+Key:1019002,Text:"Nagyít"},{
+Key:1019003,Text:"Alsó szint"},{
+Key:1019004,Text:"segítség"},{
+Key:1019100,Text:"Keresés"},{
+Key:1019101,Text:"&Törlése"},{
+Key:1019301,Text:"&oké"},{
+Key:1019302,Text:"&Mégse"},{
+Key:1019303,Text:"&igen"},{
+Key:1019304,Text:"&Nem"},{
+Key:1019305,Text:"&Hagyjon fel"},{
+Key:1019306,Text:"&Újra"},{
+Key:1019307,Text:"&Figyelmen kívül hagyása"},{
+Key:1019308,Text:"&Mégse"},{
+Key:1019309,Text:"&Vágott"},{
+Key:1019310,Text:"&Másolás"},{
+Key:1019311,Text:"&Paszta"},{
+Key:1019312,Text:"&Törlése"},{
+Key:1019313,Text:"&Jelölje ki az összes"},{
+Key:1020000,Text:"1 Mózes"},{
+Key:1020001,Text:"2 Mózes"},{
+Key:1020002,Text:"3 Mózes"},{
+Key:1020003,Text:"4 Mózes"},{
+Key:1020004,Text:"5 Mózes"},{
+Key:1020005,Text:"Józsué"},{
+Key:1020006,Text:"Bírák"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Sámuel"},{
+Key:1020009,Text:"2 Sámuel"},{
+Key:1020010,Text:"1 Királyok"},{
+Key:1020011,Text:"2 Királyok"},{
+Key:1020012,Text:"1 Krónika"},{
+Key:1020013,Text:"2 Krónika"},{
+Key:1020014,Text:"Ezsdrás"},{
+Key:1020015,Text:"Nehémiás"},{
+Key:1020016,Text:"Eszter"},{
+Key:1020017,Text:"Jób"},{
+Key:1020018,Text:"Zsoltárok"},{
+Key:1020019,Text:"Példabeszédek"},{
+Key:1020020,Text:"Prédikátor"},{
+Key:1020021,Text:"Énekek"},{
+Key:1020022,Text:"Ézsaiás"},{
+Key:1020023,Text:"Jeremiás"},{
+Key:1020024,Text:"Jeremiás siralmai"},{
+Key:1020025,Text:"Ezékiel"},{
+Key:1020026,Text:"Dániel"},{
+Key:1020027,Text:"Hóseás"},{
+Key:1020028,Text:"Jóel"},{
+Key:1020029,Text:"Ámós"},{
+Key:1020030,Text:"Abdiás"},{
+Key:1020031,Text:"Jónás"},{
+Key:1020032,Text:"Mikeás"},{
+Key:1020033,Text:"Náhum"},{
+Key:1020034,Text:"Habakuk"},{
+Key:1020035,Text:"Sofóniás"},{
+Key:1020036,Text:"Aggeus"},{
+Key:1020037,Text:"Zakariás"},{
+Key:1020038,Text:"Malakiás"},{
+Key:1020039,Text:"Máté"},{
+Key:1020040,Text:"Márk"},{
+Key:1020041,Text:"Lukács"},{
+Key:1020042,Text:"János"},{
+Key:1020043,Text:"Cselekedetek"},{
+Key:1020044,Text:"Róma"},{
+Key:1020045,Text:"1 Korinthus"},{
+Key:1020046,Text:"2 Korinthus"},{
+Key:1020047,Text:"Galata"},{
+Key:1020048,Text:"Efézus"},{
+Key:1020049,Text:"Filippi"},{
+Key:1020050,Text:"Kolossé"},{
+Key:1020051,Text:"1 Thessalonika"},{
+Key:1020052,Text:"2 Thessalonika"},{
+Key:1020053,Text:"1 Timótheus"},{
+Key:1020054,Text:"Timótheus"},{
+Key:1020055,Text:"Titusz"},{
+Key:1020056,Text:"Filemon"},{
+Key:1020057,Text:"Zsidók"},{
+Key:1020058,Text:"Jakab"},{
+Key:1020059,Text:"1 Péter"},{
+Key:1020060,Text:"2 Péter"},{
+Key:1020061,Text:"1 János"},{
+Key:1020062,Text:"2 János"},{
+Key:1020063,Text:"3 János"},{
+Key:1020064,Text:"Júdás"},{
+Key:1020065,Text:"Jelenések"},{
+Key:1020100,Text:"1 Móz"},{
+Key:1020101,Text:"2 Móz"},{
+Key:1020102,Text:"3 Móz"},{
+Key:1020103,Text:"4 Móz"},{
+Key:1020104,Text:"5 Móz"},{
+Key:1020105,Text:"Józs"},{
+Key:1020106,Text:"Bír"},{
+Key:1020107,Text:"Ruth"},{
+Key:1020108,Text:"1 Sám"},{
+Key:1020109,Text:"2 Sám"},{
+Key:1020110,Text:"1 Kir"},{
+Key:1020111,Text:"2 Kir"},{
+Key:1020112,Text:"1 Krón"},{
+Key:1020113,Text:"2 Krón"},{
+Key:1020114,Text:"Ezs"},{
+Key:1020115,Text:"Neh"},{
+Key:1020116,Text:"Ész"},{
+Key:1020117,Text:"Jób"},{
+Key:1020118,Text:"Zsol"},{
+Key:1020119,Text:"Pél"},{
+Key:1020120,Text:"Pré"},{
+Key:1020121,Text:"Éne"},{
+Key:1020122,Text:"Ézsa"},{
+Key:1020123,Text:"Jer"},{
+Key:1020124,Text:"Sir"},{
+Key:1020125,Text:"Ezé"},{
+Key:1020126,Text:"Dá"},{
+Key:1020127,Text:"Hó"},{
+Key:1020128,Text:"Jóel"},{
+Key:1020129,Text:"Ám"},{
+Key:1020130,Text:"Ab"},{
+Key:1020131,Text:"Jón"},{
+Key:1020132,Text:"Mi"},{
+Key:1020133,Text:"Na"},{
+Key:1020134,Text:"Hab"},{
+Key:1020135,Text:"Zo"},{
+Key:1020136,Text:"Hag"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Mal"},{
+Key:1020139,Text:"Mát"},{
+Key:1020140,Text:"Márk"},{
+Key:1020141,Text:"Lu"},{
+Key:1020142,Text:"Já"},{
+Key:1020143,Text:"Cs"},{
+Key:1020144,Text:"Ró"},{
+Key:1020145,Text:"1 Ko"},{
+Key:1020146,Text:"2 Ko"},{
+Key:1020147,Text:"Ga"},{
+Key:1020148,Text:"Ef"},{
+Key:1020149,Text:"Fi"},{
+Key:1020150,Text:"Ko"},{
+Key:1020151,Text:"1 Th"},{
+Key:1020152,Text:"2 Th"},{
+Key:1020153,Text:"1 Tm"},{
+Key:1020154,Text:"2 Tm"},{
+Key:1020155,Text:"Tt"},{
+Key:1020156,Text:"Fil"},{
+Key:1020157,Text:"Zsi"},{
+Key:1020158,Text:"Jak"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1 Jn"},{
+Key:1020162,Text:"2 Jn"},{
+Key:1020163,Text:"3 Jn"},{
+Key:1020164,Text:"Jú"},{
+Key:1020165,Text:"Jel"}]}
